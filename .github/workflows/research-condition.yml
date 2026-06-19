@@ -1,0 +1,93 @@
+name: Neurodivergence App Research
+
+on:
+  workflow_dispatch:
+    inputs:
+      focus:
+        description: Condition focus, such as autism, adhd, dyslexia, sensory-processing, executive-function, or general.
+        required: true
+        type: string
+      max_results:
+        description: Maximum results to inspect per query.
+        required: false
+        default: "4"
+        type: string
+      query_count:
+        description: Number of search queries to run per support category.
+        required: false
+        default: "1"
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Prepare condition branch
+        id: condition
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          focus="${{ inputs.focus }}"
+          safe_focus="$(printf '%s' "$focus" | tr '[:upper:]' '[:lower:]' | sed -E 's/[_[:space:]]+/-/g; s/[^a-z0-9-]//g; s/-+/-/g; s/^-|-$//g')"
+          branch="research/${safe_focus}"
+          echo "condition=$safe_focus" >> "$GITHUB_OUTPUT"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          git switch -C "$branch" origin/main
+
+      - name: Collect app leads
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: |
+          python scripts/collect_neuro_apps.py \
+            --focus "${{ steps.condition.outputs.condition }}" \
+            --max-results "${{ inputs.max_results || '4' }}" \
+            --query-count "${{ inputs.query_count || '1' }}"
+
+      - name: Commit research output
+        id: commit
+        run: |
+          git add research/apps research/config research/runs research/state
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "research: collect ${{ steps.condition.outputs.condition }} app leads"
+          git push --force-with-lease origin "${{ steps.condition.outputs.branch }}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update pull request
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.RESEARCH_BOT_TOKEN || github.token }}
+        run: |
+          branch="${{ steps.condition.outputs.branch }}"
+          condition="${{ steps.condition.outputs.condition }}"
+          open_pr="$(gh pr list --state open --head "$branch" --base main --json number --jq '.[0].number // empty')"
+          if [ -n "$open_pr" ]; then
+            echo "Research PR #$open_pr already open."
+            exit 0
+          fi
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "Research: collect ${condition} app leads" \
+            --body "Research pass for condition \`${condition}\`. Uses Perplexity Sonar when available and writes condition-scoped markdown, run logs, and state files for review before merge." \
+            || {
+              echo "::warning::Research branch was pushed, but pull request creation was blocked. Enable GitHub Actions pull request creation or set RESEARCH_BOT_TOKEN."
+              exit 0
+            }

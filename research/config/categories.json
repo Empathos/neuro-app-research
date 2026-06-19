@@ -1,0 +1,96 @@
+{
+  "conditions": [
+    {
+      "id": "autism",
+      "label": "Autism",
+      "terms": ["autism", "autistic", "AAC", "social story"]
+    },
+    {
+      "id": "adhd",
+      "label": "ADHD",
+      "terms": ["ADHD", "executive function", "focus"]
+    },
+    {
+      "id": "dyslexia",
+      "label": "Dyslexia",
+      "terms": ["dyslexia", "reading support", "text to speech"]
+    },
+    {
+      "id": "dyspraxia",
+      "label": "Dyspraxia",
+      "terms": ["dyspraxia", "motor planning", "coordination"]
+    },
+    {
+      "id": "tourette",
+      "label": "Tourette",
+      "terms": ["Tourette", "tic tracking", "habit awareness"]
+    },
+    {
+      "id": "sensory-processing",
+      "label": "Sensory Processing",
+      "terms": ["sensory processing", "sensory regulation", "overload"]
+    },
+    {
+      "id": "executive-function",
+      "label": "Executive Function",
+      "terms": ["executive function", "routine", "task initiation"]
+    },
+    {
+      "id": "general",
+      "label": "General Neurodivergence",
+      "terms": ["neurodivergent", "neurodiversity", "accessibility"]
+    }
+  ],
+  "support_categories": [
+    {
+      "id": "communication-aac",
+      "label": "Communication and AAC",
+      "terms": ["communication support", "AAC", "speech support", "conversation support"]
+    },
+    {
+      "id": "executive-function",
+      "label": "Executive Function",
+      "terms": ["planning", "task initiation", "routine", "reminders"]
+    },
+    {
+      "id": "sensory-regulation",
+      "label": "Sensory Regulation",
+      "terms": ["sensory regulation", "overload", "calming", "environment planning"]
+    },
+    {
+      "id": "education-learning",
+      "label": "Education and Learning",
+      "terms": ["student support", "learning support", "reading support", "classroom"]
+    },
+    {
+      "id": "emotional-regulation",
+      "label": "Emotional Regulation",
+      "terms": ["emotional regulation", "mood tracking", "self regulation", "coping skills"]
+    },
+    {
+      "id": "daily-living",
+      "label": "Daily Living",
+      "terms": ["daily living support", "independence", "life skills", "home routine"]
+    },
+    {
+      "id": "caregiver-clinician",
+      "label": "Caregiver and Clinician",
+      "terms": ["caregiver app", "clinician tool", "therapy support", "parent support"]
+    },
+    {
+      "id": "accessibility-assistive-tech",
+      "label": "Accessibility and Assistive Tech",
+      "terms": ["assistive technology", "accessibility", "mobile accessibility", "adaptive tool"]
+    }
+  ],
+  "modifiers": [
+    "app",
+    "mobile app",
+    "iOS Android",
+    "tool",
+    "software",
+    "directory",
+    "startup",
+    "open source"
+  ]
+}
