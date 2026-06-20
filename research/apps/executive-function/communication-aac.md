@@ -2,6 +2,9 @@
 ### Voice Stream Reader
 
 - URL: https://www.voicestream.com/
+### Google Keep
+
+- URL: https://keep.google.com/
 - Source: perplexity-sonar
 - Condition: executive-function
 - Support category: communication-aac
@@ -12,6 +15,11 @@
 ### iStudiez Pro
 
 - URL: https://www.studiezpro.com/
+- Description: Notes and reminders tool for capturing ideas, checklists, and time-sensitive communication needs.
+
+### Trello
+
+- URL: https://trello.com/
 - Source: perplexity-sonar
 - Condition: executive-function
 - Support category: communication-aac
@@ -38,3 +46,4 @@
 - Query: executive function communication support app
 - Found: 2026-06-20
 - Description: An AI-powered planning app designed for neurodivergent users that transforms tasks into visual timelines, supports daily routines, and aids communication through structured executive function support.
+- Description: Visual kanban-style board for organizing tasks, workflows, and communication-related follow-ups.
