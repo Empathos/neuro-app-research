@@ -1,0 +1,23 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getConditions, getLeadCounts } from "../../lib/research";
+
+const conditions = getConditions();
+const counts = getLeadCounts();
+---
+<BaseLayout title="Conditions | Empathos Research">
+  <section class="page-title">
+    <p class="eyebrow">Research lanes</p>
+    <h1>Conditions</h1>
+    <p>Each lane maps to a GitHub branch and pull request in the research collection workflow.</p>
+  </section>
+
+  <section class="condition-grid section">
+    {conditions.map((condition) => (
+      <a class="condition-card" href={`/conditions/${condition.id}/`}>
+        <span>{condition.label}</span>
+        <strong>{counts.get(condition.id) ?? 0}</strong>
+      </a>
+    ))}
+  </section>
+</BaseLayout>

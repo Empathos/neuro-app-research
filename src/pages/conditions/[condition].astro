@@ -1,0 +1,59 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  getConditionLabel,
+  getConditions,
+  getLeadsForCondition,
+  getLatestRun
+} from "../../lib/research";
+
+export function getStaticPaths() {
+  return getConditions().map((condition) => ({
+    params: { condition: condition.id }
+  }));
+}
+
+const condition = Astro.params.condition ?? "";
+const label = getConditionLabel(condition);
+const leads = getLeadsForCondition(condition);
+const latestRun = getLatestRun(condition);
+---
+<BaseLayout title={`${label} | Empathos Research`}>
+  <section class="page-title">
+    <p class="eyebrow">Condition lane</p>
+    <h1>{label}</h1>
+    <p>{leads.length} merged public-source lead{leads.length === 1 ? "" : "s"}.</p>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <p class="eyebrow">Leads</p>
+      <h2>Merged findings</h2>
+    </div>
+    <div class="lead-list">
+      {leads.length === 0 ? (
+        <p class="empty">No merged leads for this condition yet.</p>
+      ) : leads.map((lead) => (
+        <article class="lead">
+          <div>
+            <p class="lead-meta">{lead.found || "Undated"} · {lead.supportCategory} · {lead.source}</p>
+            <h3><a href={lead.url}>{lead.title}</a></h3>
+            <p>{lead.description}</p>
+            <p class="query">Query: {lead.query}</p>
+          </div>
+          <a class="source-link" href={lead.url}>Source</a>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  {latestRun && (
+    <section class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Latest run</p>
+        <h2>Collector summary</h2>
+      </div>
+      <pre class="run-summary">{latestRun}</pre>
+    </section>
+  )}
+</BaseLayout>

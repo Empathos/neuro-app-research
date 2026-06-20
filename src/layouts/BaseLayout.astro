@@ -1,0 +1,28 @@
+---
+const { title = "Empathos Research", description = "A GitHub-native research workbench for public neurodivergence support app discovery." } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">
+        <span class="brand-mark">Empathos</span>
+        <span class="brand-subtitle">Research</span>
+      </a>
+      <nav aria-label="Primary">
+        <a href="/conditions/">Conditions</a>
+        <a href="https://github.com/Empathos/neuro-app-research">GitHub</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
