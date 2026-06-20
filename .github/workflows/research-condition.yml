@@ -58,8 +58,11 @@ jobs:
             --max-results "${{ inputs.max_results || '4' }}" \
             --query-count "${{ inputs.query_count || '1' }}"
 
+      - name: Test link checker
+        run: python3 -m unittest discover -s tests
+
       - name: Check research links
-        run: python scripts/check_links.py --report link-check-report.md
+        run: python3 scripts/check_links.py --report link-check-report.md
 
       - name: Upload link check report
         if: always()

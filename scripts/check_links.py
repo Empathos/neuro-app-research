@@ -43,7 +43,10 @@ def discover_links(paths: list[str]) -> list[Link]:
         for candidate in candidates:
             if not candidate.exists() or candidate.suffix != ".md":
                 continue
-            rel = candidate.relative_to(ROOT).as_posix()
+            try:
+                rel = candidate.relative_to(ROOT).as_posix()
+            except ValueError:
+                rel = candidate.as_posix()
             text = candidate.read_text(encoding="utf-8")
             for match in URL_PATTERN.finditer(text):
                 url = match.group(1).rstrip(".,)")
