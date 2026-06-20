@@ -1,4 +1,8 @@
 
+### Zacaos/Autismic
+
+- URL: https://github.com/Zacaos/Autismic
+- Source: github-search
 ### Choiceworks
 
 - URL: https://www.brookshire.com/choiceworks
@@ -7,6 +11,7 @@
 - Support category: caregiver-clinician
 - Query: executive function caregiver app
 - Found: 2026-06-20
+- Description: Empowering neurodivergent individuals through inclusive digital tools. This open-source project aims to develop an application tailored to the needs of neurodivergent users, focusing on accessibility, customization, and cognitive support. Whether you're navigating executive function challenges, sensory sensitivities.
 - Description: A caregiver-oriented app for daily routines, feelings, and waiting skills, designed to support independence and emotional regulation.
 
 ### First Then Visual Schedule
