@@ -3,3 +3,6 @@ __pycache__/
 .env
 .venv/
 venv/
+node_modules/
+dist/
+.astro/

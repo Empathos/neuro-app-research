@@ -1,8 +1,8 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-06-20T14:48:52.308948+00:00
-- New findings: 20
+- UTC timestamp: 2026-06-20T21:10:53.143408+00:00
+- New findings: 28
 
 ## Support Categories
 
@@ -24,17 +24,17 @@
 
 ### emotional-regulation
 
-- `autism emotional regulation app`: 4 new finding(s)
+- `autism emotional regulation app`: 2 new finding(s)
 
 ### daily-living
 
-- `autism daily living support app`: 1 new finding(s)
+- `autism daily living support app`: 3 new finding(s)
 
 ### caregiver-clinician
 
-- `autism caregiver app`: 0 new finding(s)
+- `autism caregiver app`: 4 new finding(s)
 
 ### accessibility-assistive-tech
 
-- `autism assistive technology app`: 0 new finding(s)
+- `autism assistive technology app`: 4 new finding(s)
 

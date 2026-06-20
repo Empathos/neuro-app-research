@@ -1,40 +1,40 @@
 
-### Otsimo AAC - Autism Speech App
+### Avaz AAC
 
-- URL: https://otsimo.com/en/aac-apps-help-autism/
+- URL: https://play.google.com/store/apps/details?id=com.avazapp.international.lite&hl=en_US
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: communication-aac
 - Query: autism communication support app
 - Found: 2026-06-20
-- Description: Official page for Otsimo, an AAC app designed to help non-verbal children with autism communicate using symbols, images, and text-to-speech functionality.
+- Description: Android app store listing for an augmentative and alternative communication app designed for children and adults with autism and other speech delays.
 
-### Proloquo2Go on Apple App Store
+### LetMeTalk
 
-- URL: https://apps.apple.com/us/app/proloquo2go/id573979797
+- URL: https://play.google.com/store/apps/details?id=com.appnotize.letmetalk&hl=en_US
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: communication-aac
 - Query: autism communication support app
 - Found: 2026-06-20
-- Description: Leading AAC app on iOS featuring a symbol-based interface and text-to-speech, widely used by individuals with autism for speech and language support.
+- Description: Public app-store listing for a free AAC communication app with symbol-based boards and text-to-speech support.
 
-### LetMeTalk - Free AAC App
+### CoughDrop AAC
 
-- URL: https://abilityministry.com/ten-free-communication-apps/
+- URL: https://www.coughdrop.com/
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: communication-aac
 - Query: autism communication support app
 - Found: 2026-06-20
-- Description: LetMeTalk is a completely free, offline AAC app for iOS and Android that allows users to create custom communication boards with symbols and images.
+- Description: Official product site for a cross-platform AAC communication app with customizable boards for speech support.
 
-### Avaz AAC App for Autism
+### Speech Assistant AAC
 
-- URL: https://www.avazapp.com/
+- URL: https://speechassistantaac.com/
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: communication-aac
 - Query: autism communication support app
 - Found: 2026-06-20
-- Description: Avaz is an AAC app specifically designed for children with autism, offering picture-based communication, voice output, and customizable boards.
+- Description: Official website for a text-to-speech AAC app used to support communication for people with speech difficulties, including autistic users.

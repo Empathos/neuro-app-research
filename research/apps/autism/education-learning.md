@@ -7,34 +7,34 @@
 - Support category: education-learning
 - Query: autism student support app
 - Found: 2026-06-20
-- Description: Visual planning and executive-function support app used by autistic students for routines, task breakdown, and organization.
+- Description: Visual planning and executive-function support app that helps turn to-dos into doable plans with timelines and task breakdowns; commonly recommended for autistic students.
+
+### Molehill Mountain
+
+- URL: https://www.autistica.org.uk/molehill-mountain/how-does-the-app-work
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism student support app
+- Found: 2026-06-20
+- Description: Autisticas app designed to help autistic people recognise, understand, and self-manage anxiety in daily life.
 
 ### iCan
 
-- URL: https://apps.apple.com/us/app/ican/id1449184244
+- URL: https://www.connectionsacademy.com/support/resources/article/apps-for-students-with-special-needs/
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: education-learning
 - Query: autism student support app
 - Found: 2026-06-20
-- Description: Educational support app for students with special needs, including autism, focused on socio-emotional, self-care, cognitive, and academic skills.
+- Description: Educational app for students with learning disabilities, including autism, focused on socio-emotional, self-care, cognitive, and academic skills.
 
-### AutisMate
+### Autism Apps
 
-- URL: https://www.autismproducts.com/product/autismate/
+- URL: https://www.autismapps.org/
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: education-learning
 - Query: autism student support app
 - Found: 2026-06-20
-- Description: Autism support app with visual scheduling and communication features designed to help with daily routines and task prompting.
-
-### Proloquo2Go
-
-- URL: https://apps.apple.com/us/app/proloquo2go-aurora/id308368164
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: education-learning
-- Query: autism student support app
-- Found: 2026-06-20
-- Description: AAC communication app used by nonverbal autistic students to support daily communication and language development.
+- Description: Public app directory that catalogs autism-focused apps across communication, learning, behavior, and daily-support use cases.

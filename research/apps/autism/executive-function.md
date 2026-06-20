@@ -1,30 +1,30 @@
 
-### Pictalk Buddy: Routine & AAC
+### Thruday - App Store
 
-- URL: https://play.google.com/store/apps/details?id=org.pictime.application.twa&hl=en_US
+- URL: https://apps.apple.com/us/app/thruday/id1645552771
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: executive-function
 - Query: autism planning app
 - Found: 2026-06-20
-- Description: Google Play listing for an app that combines a visual schedule with AAC communication to help organize routines, tasks, and daily events.
+- Description: Apple App Store listing for Thruday, describing it as a visual daily planning app for autism, ADHD, and AuDHD.
 
-### Autism Apps
+### Thruday: Visual Daily Planner - Google Play
 
-- URL: https://www.keyautismservices.com/blog/autism-apps-for-children
+- URL: https://play.google.com/store/apps/details?id=com.thrudayapp.thruday_app&hl=en_US
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: executive-function
 - Query: autism planning app
 - Found: 2026-06-20
-- Description: Public roundup that mentions planning and schedule-oriented autism apps such as visual schedules, checklists, and behavior-tracking tools.
+- Description: Google Play listing for Thruday, a calm visual planner for ADHD, autism, and AuDHD with routines, tasks, mood tracking, and support sharing.
 
-### DayCape  Daily visual planning
+### Tiimo
 
-- URL: https://bridgingapps.org/7-best-apps-children-autism/
+- URL: https://www.tiimoapp.com
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: executive-function
 - Query: autism planning app
 - Found: 2026-06-20
-- Description: Public app roundup describing DayCape as a visual scheduling and daily planning app for children with autism and other disabilities.
+- Description: Official site for Tiimo, a visual planning app widely used by neurodivergent users for schedules, routines, timers, and executive-function support.

@@ -2,7 +2,7 @@
 
 Neuro App Research is a GitHub-native research loop for finding public apps, tools, directories, and repositories that may support neurodivergent people.
 
-The goal is simple: run one script, collect condition-specific research through GitHub Actions, and review the results through pull requests before anything lands on `main`.
+The goal is simple: run one script, collect condition-specific research through GitHub Actions, review the results through pull requests, and publish merged findings as a static research site.
 
 ## Why it exists
 
@@ -21,6 +21,7 @@ scripts/trigger_research_matrix.sh
   -> each action writes condition-scoped research files
   -> each action opens or updates one PR
   -> reviewed PRs merge into main
+  -> Astro builds the merged research into GitHub Pages
 ```
 
 The operating model is:
@@ -52,11 +53,15 @@ Each condition run covers every support category configured in `research/config/
 - Treat Perplexity output as discovery leads, not verified medical claims.
 - Preserve durable source URLs, run logs, and state files for review.
 - Keep secrets in GitHub Actions secrets, never in the repository.
+- Keep the public site static-first: repository files are the database, commits are the audit trail, and GitHub Pages is the delivery surface.
 
 ## Repository layout
 
 ```text
 .github/workflows/research-condition.yml   GitHub Action for one condition
+.github/workflows/pages.yml                GitHub Pages build and deploy workflow
+src/                                       Astro site source
+public/CNAME                              Custom domain for GitHub Pages
 scripts/trigger_research_matrix.sh         Dispatch all 8 condition runs
 scripts/trigger_research_condition.sh      Dispatch one condition run
 scripts/collect_neuro_apps.py              Deterministic collector
@@ -83,6 +88,13 @@ Run one condition:
 scripts/trigger_research_condition.sh autism
 ```
 
+Build the static site locally:
+
+```bash
+npm install
+npm run build
+```
+
 Optional knobs:
 
 ```bash
@@ -92,6 +104,8 @@ RESEARCH_MAX_RESULTS=4 RESEARCH_QUERY_COUNT=1 scripts/trigger_research_matrix.sh
 ## Current status
 
 Prototype-ready. The collector uses Perplexity Sonar when `PERPLEXITY_API_KEY` is configured in GitHub Actions secrets. If the key is unavailable or the API call fails, it falls back to GitHub repository search.
+
+The static site is configured for `research.empathos.ai` and publishes through GitHub Pages from the `main` branch build workflow.
 
 The review gate is GitHub PRs. Merging a PR writes that condition's current research output to `main`.
 
