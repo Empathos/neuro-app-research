@@ -1,30 +1,20 @@
 
-### neurolist: AI Planner for ADHD
+### neurolist: ADHD Planner for Neurodivergent People
 
-- URL: https://play.google.com/store/apps/details?id=neurolist.app.neurolist&hl=en_US
+- URL: https://play.google.com/store/apps/details?id=net.neurolist.app
 - Source: perplexity-sonar
 - Condition: general
 - Support category: executive-function
 - Query: neurodivergent planning app
 - Found: 2026-06-20
-- Description: Google Play listing for an ADHD planner created specifically for neurodivergent people who need a way to organize tasks without feeling overwhelmed.
+- Description: neurolist is an ADHD planner specifically built for neurodivergent people to organize tasks without feeling overwhelmed. Developed by System Two GmbH, it focuses on reducing stress and improving accountability through neurodivergence-friendly organization tools.
 
-### Thruday Visual Planner
+### Tiimo: Daily To-Do List - App Store
 
-- URL: https://www.autism.org.uk/autism-services-directory/thruday-visual-planner
+- URL: https://apps.apple.com/il/app/tiimo-daily-to-do-list/id1480220328
 - Source: perplexity-sonar
 - Condition: general
 - Support category: executive-function
 - Query: neurodivergent planning app
 - Found: 2026-06-20
-- Description: National Autistic Society directory entry describing Thruday as a free visual planner and assistive living app for autistic and neurodivergent people.
-
-### Tiimo: Visual Planner for Every Neurotype
-
-- URL: https://www.tiimoapp.com
-- Source: perplexity-sonar
-- Condition: general
-- Support category: executive-function
-- Query: neurodivergent planning app
-- Found: 2026-06-20
-- Description: Official site for Tiimo, a neurodivergent-friendly visual planner that uses AI to turn tasks into a clear, realistic schedule.
+- Description: The official Apple App Store page for Tiimo, featuring a revamped Co-Planner experience designed to reduce cognitive load. This app helps neurodivergent users organize tasks, build routines, and manage daily schedules with visual aids and automated reminders.

@@ -1,14 +1,4 @@
 
-### Wysa
-
-- URL: https://www.wysa.com/
-- Source: perplexity-sonar
-- Condition: general
-- Support category: emotional-regulation
-- Query: neurodivergent emotional regulation app
-- Found: 2026-06-20
-- Description: AI-powered mental health app with CBT/DBT-based self-help tools for managing anxiety, low mood, sleep issues, and emotion processing; explicitly described as useful for neurodivergent users.
-
 ### Finch
 
 - URL: https://finchcare.com/
@@ -17,7 +7,17 @@
 - Support category: emotional-regulation
 - Query: neurodivergent emotional regulation app
 - Found: 2026-06-20
-- Description: Self-care and mood-tracking app often recommended for emotional regulation, with daily check-ins and gentle habit-building features.
+- Description: A self-care app with mood check-ins, gentle habit-building, and emotional regulation support often recommended for neurodivergent users.
+
+### Wysa
+
+- URL: https://www.wysa.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent emotional regulation app
+- Found: 2026-06-20
+- Description: An AI-powered mental health app that offers CBT- and DBT-based tools for anxiety, low mood, and emotion regulation.
 
 ### Headspace
 
@@ -27,14 +27,14 @@
 - Support category: emotional-regulation
 - Query: neurodivergent emotional regulation app
 - Found: 2026-06-20
-- Description: Mindfulness and meditation platform with stress-reduction and grounding content that is commonly used for emotional regulation and overwhelm support.
+- Description: A mindfulness and meditation app with guided exercises that can support stress reduction, emotional regulation, and grounding.
 
-### Mind App Library (ORCHA)
+### Calm Harm
 
-- URL: https://mind.orchahealth.com/
+- URL: https://calmharm.co.uk/
 - Source: perplexity-sonar
 - Condition: general
 - Support category: emotional-regulation
 - Query: neurodivergent emotional regulation app
 - Found: 2026-06-20
-- Description: Curated app library that helps users find mental health and wellbeing apps by need, including anxiety, low mood, sleep, and related regulation support.
+- Description: A DBT-informed app designed to help users manage intense emotions and urges through structured coping strategies.

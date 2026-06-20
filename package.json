@@ -1,0 +1,19 @@
+{
+  "name": "neuro-app-research",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "astro": "^6.4.8",
+    "typescript": "^6.0.3"
+  },
+  "overrides": {
+    "esbuild": "0.28.1"
+  }
+}

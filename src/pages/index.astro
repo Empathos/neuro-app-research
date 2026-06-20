@@ -1,0 +1,71 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getConditions, getLeadCounts, getLeads } from "../lib/research";
+
+const conditions = getConditions();
+const counts = getLeadCounts();
+const leads = getLeads();
+const latestLeads = leads.slice(0, 8);
+const reviewedCount = leads.length;
+const activeConditionCount = [...counts.values()].filter((count) => count > 0).length;
+---
+<BaseLayout title="Empathos Research">
+  <section class="hero">
+    <p class="eyebrow">Public research workbench</p>
+    <h1>Neurodivergence support app research, organized for review.</h1>
+    <p class="lede">
+      This site collects public-source leads for apps, tools, directories, and support resources
+      that may help neurodivergent people. Search results are leads, not medical validation.
+    </p>
+    <div class="metrics" aria-label="Research summary">
+      <div>
+        <strong>{reviewedCount}</strong>
+        <span>merged leads</span>
+      </div>
+      <div>
+        <strong>{activeConditionCount}</strong>
+        <span>conditions with data</span>
+      </div>
+      <div>
+        <strong>{conditions.length}</strong>
+        <span>tracked conditions</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <p class="eyebrow">Conditions</p>
+      <h2>Research lanes</h2>
+    </div>
+    <div class="condition-grid">
+      {conditions.map((condition) => (
+        <a class="condition-card" href={`/conditions/${condition.id}/`}>
+          <span>{condition.label}</span>
+          <strong>{counts.get(condition.id) ?? 0}</strong>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <p class="eyebrow">Latest merged leads</p>
+      <h2>Reviewable public-source findings</h2>
+    </div>
+    <div class="lead-list">
+      {latestLeads.length === 0 ? (
+        <p class="empty">No leads have been merged yet.</p>
+      ) : latestLeads.map((lead) => (
+        <article class="lead">
+          <div>
+            <p class="lead-meta">{lead.found || "Undated"} · {lead.condition} · {lead.supportCategory}</p>
+            <h3><a href={lead.url}>{lead.title}</a></h3>
+            <p>{lead.description}</p>
+          </div>
+          <a class="source-link" href={lead.url}>Source</a>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

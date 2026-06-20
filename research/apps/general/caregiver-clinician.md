@@ -1,40 +1,40 @@
 
-### Cog.nd
+### Safe4All - Autism/IDD App for People and Caregivers
 
-- URL: https://cognd.com
+- URL: https://www.safe4allapp.com
 - Source: perplexity-sonar
 - Condition: general
 - Support category: caregiver-clinician
 - Query: neurodivergent caregiver app
 - Found: 2026-06-20
-- Description: AI-powered healthcare app for caregivers of neurodivergent children.
+- Description: Safe4All is designed to assist caregivers of people with Autism and other IDDs through their daily routine with validated task management and secure communications, ensuring safety, security, and productivity. Available for iOS and Android.
 
-### Behavior Buddy
+### My Virtual Carer App
 
-- URL: https://news.utsa.edu/2026/02/a-game-changer-ai-app-offers-support-to-caregivers-of-children-with-autism/
+- URL: https://www.instagram.com/reel/DVK-omFAtO7/
 - Source: perplexity-sonar
 - Condition: general
 - Support category: caregiver-clinician
 - Query: neurodivergent caregiver app
 - Found: 2026-06-20
-- Description: Research-backed AI app from UT San Antonio that supports caregivers of children with autism with real-time guidance, accountability, and data collection.
+- Description: My Virtual Carer App is a smart all-in-one app for caregivers and neurodivergent individuals, offering a comprehensive suite of caregiving tools tailored for neurodivergence support.
 
-### Safe4All
+### Autism and Beyond - Caregiver-Friendly Screening App
 
-- URL: https://safe4allapp.com
+- URL: https://www.nyulangone.org/news/researchers-find-autism-screening-app-caregiver-friendly-produces-reliable-scientific-data
 - Source: perplexity-sonar
 - Condition: general
 - Support category: caregiver-clinician
 - Query: neurodivergent caregiver app
 - Found: 2026-06-20
-- Description: Autism/IDD app designed to assist caregivers of people with autism and other intellectual and developmental disabilities, with task management and secure communications.
+- Description: Autism and Beyond is a caregiver-friendly iPhone app developed to screen young children for autism using scalable, reliable, and validated tools outside clinical settings. Built on Apple's ResearchKit platform.
 
-### Smartautism
+### NetApp for Neurodivergent Teens and Caregivers
 
-- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8482191/
+- URL: https://www.facebook.com/groups/2248314252100341/posts/4389504301314648/
 - Source: perplexity-sonar
 - Condition: general
 - Support category: caregiver-clinician
 - Query: neurodivergent caregiver app
 - Found: 2026-06-20
-- Description: Mobile app developed to empower parents and caregivers of children with autism spectrum disorder by asking questions and providing feedback.
+- Description: NetApp is designed for neurodivergent teens and can be used alone or by a caregiver. It supports ADHD, autism, anxiety, brain fog, and burnout with integrated tools for daily management.
