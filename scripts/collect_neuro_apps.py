@@ -279,7 +279,7 @@ def github_search(query: str, max_results: int) -> list[dict]:
     for item in payload.get("items", []):
         title = item.get("full_name") or item.get("name") or "GitHub repository"
         description = clean_text(item.get("description") or "")
-        if not relevant_enough(title, description):
+        if not relevant_enough(title, description, query):
             continue
         results.append(
             {
@@ -292,11 +292,26 @@ def github_search(query: str, max_results: int) -> list[dict]:
     return [item for item in results if item["url"]][:max_results]
 
 
-def relevant_enough(title: str, description: str) -> bool:
+def relevant_enough(title: str, description: str, query: str) -> bool:
     haystack = f"{title} {description}".lower()
     if not description.strip():
         return False
-    return any(term in haystack for term in RELEVANCE_TERMS)
+    query_terms = {
+        term
+        for term in re.findall(r"[a-z0-9]+", query.lower())
+        if len(term) >= 4 and term not in {"support", "mobile", "source", "open"}
+    }
+    has_query_match = any(term in haystack for term in query_terms)
+    has_domain_match = any(term in haystack for term in RELEVANCE_TERMS)
+    return has_query_match and has_domain_match
+
+
+def compose_query(condition_term: str, category_term: str, modifier: str) -> str:
+    category_words = set(re.findall(r"[a-z0-9]+", category_term.lower()))
+    modifier_words = set(re.findall(r"[a-z0-9]+", modifier.lower()))
+    if modifier_words and modifier_words.issubset(category_words):
+        return f"{condition_term} {category_term}"
+    return f"{condition_term} {category_term} {modifier}"
 
 
 def choose_condition(config: dict, state: dict, focus: str | None) -> str:
@@ -323,7 +338,7 @@ def build_queries(config: dict, state: dict, condition: str, category: str, coun
     for offset in range(len(modifiers) * len(pairs)):
         condition_term, category_term = pairs[offset % len(pairs)]
         modifier = modifiers[(modifier_cursor + offset) % len(modifiers)]
-        query = f"{condition_term} {category_term} {modifier}"
+        query = compose_query(condition_term, category_term, modifier)
         if query not in seen:
             queries.append(query)
         if len(queries) >= count:
