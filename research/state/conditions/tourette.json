@@ -1,0 +1,41 @@
+{
+  "category_cursor": 0,
+  "condition_cursor": 5,
+  "modifier_cursor": 0,
+  "seen_queries": [
+    "Tourette communication support app",
+    "Tourette planning app",
+    "Tourette sensory regulation app",
+    "Tourette student support app",
+    "Tourette emotional regulation app",
+    "Tourette daily living support app",
+    "Tourette caregiver app",
+    "Tourette assistive technology app"
+  ],
+  "seen_urls": [
+    "http://www.ninds.nih.gov/health-information/disorders/tourette-syndrome",
+    "https://apps.apple.com/fi/app/ticsafe/id6738706091",
+    "https://apps.apple.com/us/app/how-we-feel/id1562706384",
+    "https://apps.apple.com/us/app/tic-journal-track-control/id6739474061",
+    "https://behaviourhelp.com/positive-behaviour-support/apps/rainbow-of-emotions-app/",
+    "https://play.google.com/store/apps/details?id=com.achievetherapy.sensoryapp&hl=en_US",
+    "https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en_CA",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7671842/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8508158/",
+    "https://touchchatapp.com",
+    "https://tourette.org/assistive-technology-for-students-with-tourette-syndrome/",
+    "https://tourette.org/research-medical/current-research/",
+    "https://tourette.org/resources/get-help-now/",
+    "https://tourette.org/resources/overview/tools-for-parents/",
+    "https://tourette.org/tic-con24-app/",
+    "https://www.cdc.gov/tourette-syndrome/treatment/index.html",
+    "https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/tourette-syndrome",
+    "https://www.ticvision.io",
+    "https://www.ticvision.io/blog/ticvision-app-guide-for-patients/",
+    "https://www.ticvision.io/blog/tracking-tics-digital-age/",
+    "https://www.tourettes-action.org.uk/103-benefits.html",
+    "https://www.tourettes-action.org.uk/76-support-in-school.html",
+    "https://www.tourettes-action.org.uk/news-615-test-a-tic-tracker-app-and-help-development.html"
+  ],
+  "updated_at": "2026-06-20T14:48:50.854110+00:00"
+}
