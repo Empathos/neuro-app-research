@@ -7,7 +7,7 @@
 - Support category: communication-aac
 - Query: Tourette communication support app
 - Found: 2026-06-20
-- Description: Public Tourette tic tracking and management app focused on logging, monitoring, and visualizing tic patterns; described as HIPAA-compliant.
+- Description: Public Tourette tic tracking and management app that helps users log, monitor, and visualize tics; described as HIPAA-compliant.
 
 ### TicSafe
 
@@ -17,7 +17,17 @@
 - Support category: communication-aac
 - Query: Tourette communication support app
 - Found: 2026-06-20
-- Description: Apple App Store listing for an app described as a personal support system offering assistance and resources for people affected by Tourettes syndrome.
+- Description: Apple App Store listing for a Tourette support app that says it offers assistance and resources to enhance the lives of people affected by Tourette's Syndrome.
+
+### Tourette Association of America - Assistive Technology for Students with Tourette Syndrome
+
+- URL: https://tourette.org/assistive-technology-for-students-with-tourette-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette communication support app
+- Found: 2026-06-20
+- Description: Official resource page discussing assistive technology that may support students with Tourette syndrome, including communication-related tools and school accommodations.
 
 ### TouchChat
 
@@ -27,14 +37,4 @@
 - Support category: communication-aac
 - Query: Tourette communication support app
 - Found: 2026-06-20
-- Description: AAC communication app and platform for customized communication support, vocabularies, voices, and languages; potentially relevant for communication support needs.
-
-### TIC-CON24 App
-
-- URL: https://tourette.org/tic-con24-app/
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: communication-aac
-- Query: Tourette communication support app
-- Found: 2026-06-20
-- Description: Tourette Association of America event app instructions page using Yapp; a public Tourette-related app lead from the association.
+- Description: Public communication app for augmentative and alternative communication (AAC) with customizable vocabularies, languages, and voices; relevant as a communication support tool.

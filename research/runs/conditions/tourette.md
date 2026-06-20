@@ -1,8 +1,8 @@
 # Latest Research Run
 
 - Condition: tourette
-- UTC timestamp: 2026-06-20T14:48:50.854110+00:00
-- New findings: 23
+- UTC timestamp: 2026-06-20T21:12:08.920942+00:00
+- New findings: 20
 
 ## Support Categories
 
@@ -16,7 +16,7 @@
 
 ### sensory-regulation
 
-- `Tourette sensory regulation app`: 2 new finding(s)
+- `Tourette sensory regulation app`: 1 new finding(s)
 
 ### education-learning
 
@@ -24,7 +24,7 @@
 
 ### emotional-regulation
 
-- `Tourette emotional regulation app`: 4 new finding(s)
+- `Tourette emotional regulation app`: 2 new finding(s)
 
 ### daily-living
 
