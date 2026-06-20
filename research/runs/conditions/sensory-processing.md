@@ -1,18 +1,18 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-06-20T14:48:52.001922+00:00
-- New findings: 10
+- UTC timestamp: 2026-06-20T21:12:29.668941+00:00
+- New findings: 13
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory processing communication support app`: 4 new finding(s)
+- `sensory processing communication support app`: 3 new finding(s)
 
 ### executive-function
 
-- `sensory processing planning app`: 3 new finding(s)
+- `sensory processing planning app`: 1 new finding(s)
 
 ### sensory-regulation
 
@@ -24,15 +24,15 @@
 
 ### emotional-regulation
 
-- `sensory processing emotional regulation app`: 0 new finding(s)
+- `sensory processing emotional regulation app`: 1 new finding(s)
 
 ### daily-living
 
-- `sensory processing daily living support app`: 0 new finding(s)
+- `sensory processing daily living support app`: 1 new finding(s)
 
 ### caregiver-clinician
 
-- `sensory processing caregiver app`: 0 new finding(s)
+- `sensory processing caregiver app`: 4 new finding(s)
 
 ### accessibility-assistive-tech
 

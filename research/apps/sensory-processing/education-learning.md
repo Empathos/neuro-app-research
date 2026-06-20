@@ -7,4 +7,4 @@
 - Support category: education-learning
 - Query: sensory processing student support app
 - Found: 2026-06-20
-- Description: Official nonprofit resource hub for sensory processing support, treatment information, and family guidance.
+- Description: Official sensory processing support and treatment organization with public resources that can inform app, tool, or classroom-support research.

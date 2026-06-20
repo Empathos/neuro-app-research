@@ -7,34 +7,24 @@
 - Support category: communication-aac
 - Query: sensory processing communication support app
 - Found: 2026-06-20
-- Description: Official AAC communication app for symbol-based speech support and customizable vocabulary, often used for neurodivergent communication needs.
+- Description: Official AAC app for symbol-based communication support, commonly used for autism and other communication differences.
 
-### MyTalkTools Mobile
+### Grid by Smartbox
 
-- URL: https://www.mytalktools.com/
+- URL: https://thinksmartbox.com/grid/
 - Source: perplexity-sonar
 - Condition: sensory-processing
 - Support category: communication-aac
 - Query: sensory processing communication support app
 - Found: 2026-06-20
-- Description: AAC communication app for building and using personalized communication boards and speech support.
+- Description: AAC communication software for creating personalized communication systems with symbols, text, and speech output.
 
-### Grid AAC
+### Cboard
 
-- URL: https://thinksmartbox.com/product/grid/
+- URL: https://github.com/cboard-org/cboard
 - Source: perplexity-sonar
 - Condition: sensory-processing
 - Support category: communication-aac
 - Query: sensory processing communication support app
 - Found: 2026-06-20
-- Description: Official Smartbox AAC platform for symbol-based communication, language development, and assistive communication support.
-
-### Sensory App House
-
-- URL: https://www.sensoryapphouse.com/
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: communication-aac
-- Query: sensory processing communication support app
-- Found: 2026-06-20
-- Description: Public repository and vendor hub for assistive technology, AAC, and sensory apps for special educational needs.
+- Description: Open-source AAC web app repository for augmentative and alternative communication using symbols and text-to-speech.
