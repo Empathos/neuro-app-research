@@ -3,8 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import {
   getConditionLabel,
   getConditions,
-  getLeadsForCondition,
-  getLatestRun
+  getLeadsForCondition
 } from "../../lib/research";
 
 export function getStaticPaths() {
@@ -16,7 +15,6 @@ export function getStaticPaths() {
 const condition = Astro.params.condition ?? "";
 const label = getConditionLabel(condition);
 const leads = getLeadsForCondition(condition);
-const latestRun = getLatestRun(condition);
 ---
 <BaseLayout title={`${label} | Empathos Research`}>
   <section class="page-title">
@@ -36,24 +34,13 @@ const latestRun = getLatestRun(condition);
       ) : leads.map((lead) => (
         <article class="lead">
           <div>
-            <p class="lead-meta">{lead.found || "Undated"} · {lead.supportCategory} · {lead.source}</p>
+            <p class="lead-meta">{lead.found || "Undated"} · {lead.supportCategory}</p>
             <h3><a href={lead.url}>{lead.title}</a></h3>
             <p>{lead.description}</p>
-            <p class="query">Query: {lead.query}</p>
           </div>
           <a class="source-link" href={lead.url}>Source</a>
         </article>
       ))}
     </div>
   </section>
-
-  {latestRun && (
-    <section class="section">
-      <div class="section-heading">
-        <p class="eyebrow">Latest run</p>
-        <h2>Collector summary</h2>
-      </div>
-      <pre class="run-summary">{latestRun}</pre>
-    </section>
-  )}
 </BaseLayout>
