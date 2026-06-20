@@ -9,16 +9,6 @@
 - Found: 2026-06-20
 - Description: Public app site focused on sensory regulation and calming visual/sound tools; listed as helping with sensory overload and relaxation.
 
-### ChoiceWorks
-
-- URL: https://www.brookespublishing.com/product/choiceworks/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: sensory-regulation
-- Query: autism sensory regulation app
-- Found: 2026-06-20
-- Description: Official product page for a visual-support app used to manage routines, emotions, and transitions, which can support sensory/emotional regulation needs.
-
 ### Zones of Regulation
 
 - URL: https://zonesofregulation.com/

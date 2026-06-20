@@ -19,16 +19,6 @@
 - Found: 2026-06-20
 - Description: The official corporate website detailing FACIL'ITI's accessibility technology, including browser plugins and mobile solutions designed to render text dyslexia-friendly for daily web and document usage.
 
-### Reading - Scanning Tools (Dyslexia Initiative)
-
-- URL: https://www.facil-iti.com/apps-and-resources
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: daily-living
-- Query: dyslexia daily living support app
-- Found: 2026-06-20
-- Description: A curated repository page listing robust, constantly updated tools for dyslexia support, including specific apps for scanning, text-to-speech, and visual overlays to assist with daily living tasks.
-
 ### Top Free and Paid Dyslexia Apps That Actually Work
 
 - URL: https://brooklynletters.com/top-free-paid-dyslexia-apps-that-actually-work/

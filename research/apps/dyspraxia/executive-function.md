@@ -19,16 +19,6 @@
 - Found: 2026-06-19
 - Description: A planning and organization app mentioned by the Dyspraxia Foundation as potentially helpful for neurodivergent conditions including autism, ADHD, ADD, and dyspraxia-related support needs.
 
-### Magic ToDo
-
-- URL: https://www.structured.app/magic
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: executive-function
-- Query: dyspraxia planning app
-- Found: 2026-06-19
-- Description: A task-breaking tool recommended by the Dyspraxia Foundation to split complex activities into smaller, manageable steps.
-
 ### Inspiration Software
 
 - URL: https://www.inspiration.com/

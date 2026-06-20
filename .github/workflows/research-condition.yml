@@ -58,6 +58,16 @@ jobs:
             --max-results "${{ inputs.max_results || '4' }}" \
             --query-count "${{ inputs.query_count || '1' }}"
 
+      - name: Check research links
+        run: python scripts/check_links.py --report link-check-report.md
+
+      - name: Upload link check report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report-${{ steps.condition.outputs.condition }}
+          path: link-check-report.md
+
       - name: Commit research output
         id: commit
         run: |

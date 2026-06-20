@@ -6,3 +6,4 @@ venv/
 node_modules/
 dist/
 .astro/
+link-check-report.md

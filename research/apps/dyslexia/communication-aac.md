@@ -9,16 +9,6 @@
 - Found: 2026-06-20
 - Description: Text-to-speech and word-prediction app that reads text aloud and supports writing; listed as a dyslexia-support tool.
 
-### Co:Writer
-
-- URL: https://texthelp.com/products/cowriter/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: communication-aac
-- Query: dyslexia communication support app
-- Found: 2026-06-20
-- Description: Word-prediction and sentence-support app designed to reduce writing friction for learners, including those with dyslexia.
-
 ### NaturalReader
 
 - URL: https://www.naturalreaders.com/

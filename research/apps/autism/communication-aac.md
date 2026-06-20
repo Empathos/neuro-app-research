@@ -9,16 +9,6 @@
 - Found: 2026-06-20
 - Description: Android app store listing for an augmentative and alternative communication app designed for children and adults with autism and other speech delays.
 
-### LetMeTalk
-
-- URL: https://play.google.com/store/apps/details?id=com.appnotize.letmetalk&hl=en_US
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: communication-aac
-- Query: autism communication support app
-- Found: 2026-06-20
-- Description: Public app-store listing for a free AAC communication app with symbol-based boards and text-to-speech support.
-
 ### CoughDrop AAC
 
 - URL: https://www.coughdrop.com/

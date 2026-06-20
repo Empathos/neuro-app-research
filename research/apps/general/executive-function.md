@@ -1,14 +1,4 @@
 
-### neurolist: ADHD Planner for Neurodivergent People
-
-- URL: https://play.google.com/store/apps/details?id=net.neurolist.app
-- Source: perplexity-sonar
-- Condition: general
-- Support category: executive-function
-- Query: neurodivergent planning app
-- Found: 2026-06-20
-- Description: neurolist is an ADHD planner specifically built for neurodivergent people to organize tasks without feeling overwhelmed. Developed by System Two GmbH, it focuses on reducing stress and improving accountability through neurodivergence-friendly organization tools.
-
 ### Tiimo: Daily To-Do List - App Store
 
 - URL: https://apps.apple.com/il/app/tiimo-daily-to-do-list/id1480220328

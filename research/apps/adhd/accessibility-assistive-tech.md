@@ -1,14 +1,4 @@
 
-### Be Focused Pro / Be Focused
-
-- URL: https://xwavesoft.com/be-focused-pro.html
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: accessibility-assistive-tech
-- Query: ADHD assistive technology app
-- Found: 2026-06-20
-- Description: A public productivity app for macOS, iPhone, iPad, and Apple Watch that uses Pomodoro-style timers and task management to support focus and time on task.
-
 ### Any.do
 
 - URL: https://www.any.do/
