@@ -6,7 +6,12 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "typecheck": "tsc --noEmit",
+    "test": "python3 -m unittest discover -s tests",
+    "check:links": "python3 scripts/check_links.py --report link-check-report.md",
+    "audit:high": "npm audit --audit-level=high",
+    "verify": "npm run typecheck && npm test && npm run audit:high && npm run build && npm run check:links"
   },
   "devDependencies": {
     "@types/node": "^26.0.0",

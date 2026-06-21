@@ -95,6 +95,12 @@ npm install
 npm run build
 ```
 
+Run the local quality gate:
+
+```bash
+npm run verify
+```
+
 Optional knobs:
 
 ```bash
@@ -112,3 +118,12 @@ The review gate is GitHub PRs. Merging a PR writes that condition's current rese
 ## Public/private model
 
 This repository should contain public-safe automation, schema, and research leads only. Runtime secrets live in GitHub Actions secrets. Private operational schedules or downstream deployment details should live outside this repo.
+
+## Process
+
+This repo uses a lightweight Agent Skills-inspired process:
+
+- `docs/spec.md` is the living project spec.
+- `docs/agent-skills-process.md` maps the repo workflow to the spec/plan/build/verify/review/ship lifecycle.
+- `docs/decisions/` records architecture decisions that future agents and reviewers need to understand.
+- Pull requests are the review gate; CI runs type checking, tests, dependency audit, static build, and source URL reachability checks.
