@@ -1,40 +1,41 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-06-20T21:10:53.143408+00:00
-- New findings: 28
+- UTC timestamp: 2026-06-21T18:33:06.184529+00:00
+- New findings: 18
+- Rejected dead links: 4
 
 ## Support Categories
 
 ### communication-aac
 
-- `autism communication support app`: 4 new finding(s)
+- `autism AAC mobile app`: 3 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `autism planning app`: 3 new finding(s)
+- `autism task initiation mobile app`: 1 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autism sensory regulation app`: 4 new finding(s)
+- `autism overload mobile app`: 2 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autism student support app`: 4 new finding(s)
+- `autism learning support mobile app`: 1 new finding(s), 1 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autism emotional regulation app`: 2 new finding(s)
+- `autism mood tracking mobile app`: 2 new finding(s), 2 rejected dead link(s)
 
 ### daily-living
 
-- `autism daily living support app`: 3 new finding(s)
+- `autism independence mobile app`: 2 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autism caregiver app`: 4 new finding(s)
+- `autism clinician tool mobile app`: 3 new finding(s), 1 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autism assistive technology app`: 4 new finding(s)
+- `autism accessibility mobile app`: 4 new finding(s), 0 rejected dead link(s)
 

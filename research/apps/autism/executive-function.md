@@ -28,3 +28,13 @@
 - Query: autism planning app
 - Found: 2026-06-20
 - Description: Official site for Tiimo, a visual planning app widely used by neurodivergent users for schedules, routines, timers, and executive-function support.
+
+### uTine (autism routine/task app)
+
+- URL: https://care.choc.org/new-app-helps-build-daily-routines-for-kids-with-autism-spectrum-disorder/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism task initiation mobile app
+- Found: 2026-06-21
+- Description: A public article describing an autism-focused mobile app for step-by-step routine and task completion, including brushing teeth, getting dressed, and other daily tasks.
