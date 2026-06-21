@@ -38,3 +38,13 @@
 - Query: neurodivergent caregiver app
 - Found: 2026-06-20
 - Description: NetApp is designed for neurodivergent teens and can be used alone or by a caregiver. It supports ADHD, autism, anxiety, brain fog, and burnout with integrated tools for daily management.
+
+### TokaiApp/Tokai
+
+- URL: https://github.com/TokaiApp/Tokai
+- Source: github-search
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent clinician tool mobile app
+- Found: 2026-06-21
+- Description: BCI-assisted neurodivergent productivity suite  self-reported or EEG-driven cognitive metrics + an agentic AI task planner (Claude) that adapts to how your brain is actually performing.

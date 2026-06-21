@@ -10,7 +10,15 @@
     "neurodivergent emotional regulation app",
     "neurodivergent daily living support app",
     "neurodivergent caregiver app",
-    "neurodivergent assistive technology app"
+    "neurodivergent assistive technology app",
+    "neurodivergent AAC mobile app",
+    "neurodivergent task initiation mobile app",
+    "neurodivergent overload mobile app",
+    "neurodivergent learning support mobile app",
+    "neurodivergent mood tracking mobile app",
+    "neurodivergent independence mobile app",
+    "neurodivergent clinician tool mobile app",
+    "neurodivergent accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -30,7 +38,11 @@
     "https://www.magnuscards.com",
     "https://www.nyulangone.org/news/researchers-find-autism-screening-app-caregiver-friendly-produces-reliable-scientific-data",
     "https://www.safe4allapp.com",
-    "https://www.wysa.com/"
+    "https://www.wysa.com/",
+    "https://apps.apple.com/us/app/visual-choices-aac/id6448635588",
+    "https://github.com/SunJar/overload-atlas",
+    "https://github.com/TokaiApp/Tokai",
+    "https://prc-saltillo.com/apps"
   ],
-  "updated_at": "2026-06-20T21:13:12.829049+00:00"
+  "updated_at": "2026-06-21T17:04:48.521471+00:00"
 }

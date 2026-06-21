@@ -28,3 +28,23 @@
 - Query: neurodivergent communication support app
 - Found: 2026-06-20
 - Description: Google Play listing for a text-to-speech AAC app designed for people with speech impairments, including autism, aphasia, and stroke-related communication challenges.
+
+### Apps - PRC-Saltillo
+
+- URL: https://prc-saltillo.com/apps
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent AAC mobile app
+- Found: 2026-06-21
+- Description: Official AAC app lineup from PRC-Saltillo, a major AAC vendor offering Apple-focused communication apps.
+
+### Visual Choices AAC
+
+- URL: https://apps.apple.com/us/app/visual-choices-aac/id6448635588
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent AAC mobile app
+- Found: 2026-06-21
+- Description: App Store listing for an AAC app made for early communicators with autism, focused on easy communication and natural speech development.
