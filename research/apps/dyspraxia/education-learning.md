@@ -28,3 +28,13 @@
 - Query: dyspraxia student support app
 - Found: 2026-06-19
 - Description: Public app lead referenced for short, simple literacy games; useful as a related support option when looking for student apps that reduce writing and reading strain.
+
+### Magrid Dyspraxia Support
+
+- URL: https://magrid.education/dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia learning support mobile app
+- Found: 2026-06-21
+- Description: Official product page for Magrid, an inclusive learning app that says it is designed to support children with learning differences such as dyspraxia.
