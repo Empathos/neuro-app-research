@@ -32,6 +32,11 @@ class FixtureHandler(http.server.BaseHTTPRequestHandler):
             self.send_response(404)
             self.end_headers()
             return
+        if self.path == "/redirect-private":
+            self.send_response(302)
+            self.send_header("Location", "/ok")
+            self.end_headers()
+            return
         self.send_response(200)
         self.end_headers()
 
@@ -53,10 +58,39 @@ class LinkCheckerTests(unittest.TestCase):
         ok = check_links.Link(f"{self.base_url}/ok", ("fixture.md",))
         dead = check_links.Link(f"{self.base_url}/dead", ("fixture.md",))
 
-        self.assertEqual(check_links.check_link(ok, timeout=2, strict_network=False).status, "ok")
-        dead_result = check_links.check_link(dead, timeout=2, strict_network=False)
+        self.assertEqual(
+            check_links.check_link(ok, timeout=2, strict_network=False, allow_private=True).status,
+            "ok",
+        )
+        dead_result = check_links.check_link(
+            dead,
+            timeout=2,
+            strict_network=False,
+            allow_private=True,
+        )
         self.assertEqual(dead_result.status, "dead")
         self.assertEqual(dead_result.detail, "HTTP 404")
+
+    def test_blocks_private_targets_by_default(self) -> None:
+        link = check_links.Link(f"{self.base_url}/ok", ("fixture.md",))
+
+        result = check_links.check_link(link, timeout=2, strict_network=False)
+
+        self.assertEqual(result.status, "dead")
+        self.assertIn("Blocked private/loopback", result.detail)
+
+    def test_blocks_private_redirect_targets_by_default(self) -> None:
+        link = check_links.Link("https://example.com/fixture", ("fixture.md",))
+
+        with self.assertRaises(check_links.BlockedTargetError):
+            check_links.PublicRedirectHandler(link, allow_private=False).redirect_request(
+                check_links.build_request(link.url, "GET"),
+                fp=None,
+                code=302,
+                msg="Found",
+                headers={},
+                newurl=f"{self.base_url}/ok",
+            )
 
     def test_discovers_links_from_external_fixture_paths(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:

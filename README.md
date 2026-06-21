@@ -125,5 +125,7 @@ This repo uses a lightweight Agent Skills-inspired process:
 
 - `docs/spec.md` is the living project spec.
 - `docs/agent-skills-process.md` maps the repo workflow to the spec/plan/build/verify/review/ship lifecycle.
+- `docs/research-review-rubric.md` defines the reviewer checklist for collected leads.
+- `docs/recommendations/agent-skills-assessment.md` tracks the current process recommendations and their status.
 - `docs/decisions/` records architecture decisions that future agents and reviewers need to understand.
 - Pull requests are the review gate; CI runs type checking, tests, dependency audit, static build, and source URL reachability checks.

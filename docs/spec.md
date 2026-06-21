@@ -69,6 +69,7 @@ Example research record:
 - `npm run typecheck` verifies TypeScript and Astro types.
 - `npm run build` proves the static site renders all current research files.
 - `npm run check:links` verifies rendered research URLs are currently reachable.
+- The link checker blocks private, loopback, link-local, and reserved targets by default so untrusted research markdown cannot make CI probe internal network surfaces.
 - GitHub Actions CI runs the same gates on pull requests and `main`.
 
 ## Boundaries
@@ -95,9 +96,9 @@ Example research record:
 - Published pages only render durable research leads from `research/apps`.
 - Every rendered source URL is checked for current HTTP/HTTPS reachability before publish.
 - CI blocks regressions in type checking, unit tests, build, dependency audit, and link checking.
+- Research review uses `docs/research-review-rubric.md` before merge.
 
 ## Open Questions
 
 - Should transient link-check warnings ever block publish, or remain report-only unless hard-dead?
-- Should the collector add a stricter public-source allowlist or private-network fetch guard?
-- Should repo docs include an explicit review rubric for accepting or rejecting a collected lead?
+- Should the collector add a stricter public-source allowlist beyond the current private-network link-check guard?

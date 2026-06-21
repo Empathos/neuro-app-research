@@ -36,6 +36,8 @@ For research-only PRs, the key review questions are:
 - Does the link check report show zero hard-dead links?
 - Does the content avoid medical endorsement language?
 
+Use `docs/research-review-rubric.md` as the detailed checklist for accepting, revising, or rejecting collected leads.
+
 ## Change Shape
 
 - Prefer one logical change per PR.
