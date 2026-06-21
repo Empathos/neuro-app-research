@@ -18,3 +18,33 @@
 - Query: executive function emotional regulation app
 - Found: 2026-06-20
 - Description: Stanford research page describing the AMES iPad app for measuring executive functions, including inhibitory control, cognitive flexibility, and working memory.
+
+### Moodnotes - Mood Tracker
+
+- URL: https://apps.apple.com/us/app/moodnotes-mood-tracker/id1019230398
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function mood tracking mobile app
+- Found: 2026-06-21
+- Description: Official App Store listing for a mood-tracking app that helps users track mood over time and identify thinking patterns.
+
+### Mood Tracker: Self-Care Habits
+
+- URL: https://play.google.com/store/apps/details?id=moodtracker.selfcare.habittracker.mentalhealth&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function mood tracking mobile app
+- Found: 2026-06-21
+- Description: Official Google Play listing for a mood, habit, and self-care tracking app with daily mood logging and journaling.
+
+### Mobile apps for mood tracking: an analysis of features and user reviews
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5977660/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function mood tracking mobile app
+- Found: 2026-06-21
+- Description: Research review of commercially available mood-tracking apps, useful for identifying feature patterns relevant to mood tracking and self-monitoring.
