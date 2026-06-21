@@ -47,3 +47,23 @@
 - Found: 2026-06-20
 - Description: An AI-powered planning app designed for neurodivergent users that transforms tasks into visual timelines, supports daily routines, and aids communication through structured executive function support.
 - Description: Visual kanban-style board for organizing tasks, workflows, and communication-related follow-ups.
+
+### Cboard AAC
+
+- URL: https://cboard.czech.org/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function AAC mobile app
+- Found: 2026-06-21
+- Description: A free, open-source AAC app for Android and Windows that combines communication support with visual task management tools to assist users with executive function challenges.
+
+### Video of the Week: Executive Function and AAC
+
+- URL: https://praacticalaac.org/video/video-of-the-week-executive-function-and-aac/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function AAC mobile app
+- Found: 2026-06-21
+- Description: A Praactical AAC resource featuring Kansas-based SLP Paige discussing strategies and tools for supporting AAC users who struggle with executive function in school and work settings.

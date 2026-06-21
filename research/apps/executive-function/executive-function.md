@@ -38,3 +38,13 @@
 - Query: executive function planning app
 - Found: 2026-06-20
 - Description: Official Google note-and-list tool often used for quick planning, prioritizing, and organizing tasks across devices.
+
+### GitHub topic: executive-function
+
+- URL: https://github.com/topics/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function task initiation mobile app
+- Found: 2026-06-21
+- Description: Public repository discovery page for open-source tools related to executive function support, useful for finding mobile app projects and experiments.
