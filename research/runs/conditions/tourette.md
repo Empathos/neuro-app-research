@@ -1,40 +1,40 @@
 # Latest Research Run
 
 - Condition: tourette
-- UTC timestamp: 2026-06-20T21:12:08.920942+00:00
-- New findings: 20
+- UTC timestamp: 2026-06-21T17:04:46.199521+00:00
+- New findings: 7
 
 ## Support Categories
 
 ### communication-aac
 
-- `Tourette communication support app`: 4 new finding(s)
+- `Tourette AAC mobile app`: 1 new finding(s)
 
 ### executive-function
 
-- `Tourette planning app`: 4 new finding(s)
+- `Tourette task initiation mobile app`: 3 new finding(s)
 
 ### sensory-regulation
 
-- `Tourette sensory regulation app`: 1 new finding(s)
+- `Tourette overload mobile app`: 2 new finding(s)
 
 ### education-learning
 
-- `Tourette student support app`: 2 new finding(s)
+- `Tourette learning support mobile app`: 1 new finding(s)
 
 ### emotional-regulation
 
-- `Tourette emotional regulation app`: 2 new finding(s)
+- `Tourette mood tracking mobile app`: 0 new finding(s)
 
 ### daily-living
 
-- `Tourette daily living support app`: 4 new finding(s)
+- `Tourette independence mobile app`: 0 new finding(s)
 
 ### caregiver-clinician
 
-- `Tourette caregiver app`: 3 new finding(s)
+- `Tourette clinician tool mobile app`: 0 new finding(s)
 
 ### accessibility-assistive-tech
 
-- `Tourette assistive technology app`: 0 new finding(s)
+- `Tourette accessibility mobile app`: 0 new finding(s)
 

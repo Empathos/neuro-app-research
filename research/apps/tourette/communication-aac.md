@@ -38,3 +38,13 @@
 - Query: Tourette communication support app
 - Found: 2026-06-20
 - Description: Public communication app for augmentative and alternative communication (AAC) with customizable vocabularies, languages, and voices; relevant as a communication support tool.
+
+### LetMeTalk
+
+- URL: https://apps.apple.com/us/app/letmetalk/id919990138
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette AAC mobile app
+- Found: 2026-06-21
+- Description: Apple App Store listing for a free AAC talker app intended to support communication for nonverbal and emerging verbal users.

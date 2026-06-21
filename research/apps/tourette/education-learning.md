@@ -18,3 +18,13 @@
 - Query: Tourette student support app
 - Found: 2026-06-20
 - Description: School-support guidance from Tourettes Action, including a Tourette syndrome Passport as a support aid for students.
+
+### Tourette Syndrome Resources - Tourette Association of America
+
+- URL: https://tourette.org/resources/tourette-resources/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette learning support mobile app
+- Found: 2026-06-21
+- Description: Official resource library with free materials for children, young adults, educators, caregivers, patients, and families, including school-support materials.

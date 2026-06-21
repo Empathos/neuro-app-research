@@ -10,7 +10,15 @@
     "Tourette emotional regulation app",
     "Tourette daily living support app",
     "Tourette caregiver app",
-    "Tourette assistive technology app"
+    "Tourette assistive technology app",
+    "Tourette AAC mobile app",
+    "Tourette task initiation mobile app",
+    "Tourette overload mobile app",
+    "Tourette learning support mobile app",
+    "Tourette mood tracking mobile app",
+    "Tourette independence mobile app",
+    "Tourette clinician tool mobile app",
+    "Tourette accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -32,7 +40,14 @@
     "https://www.facebook.com/groups/207395719755732/",
     "https://www.ticvision.io",
     "https://www.tourettes-action.org.uk/76-support-in-school.html",
-    "https://www.tourettes-action.org.uk/news-615-test-a-tic-tracker-app-and-help-development.html"
+    "https://www.tourettes-action.org.uk/news-615-test-a-tic-tracker-app-and-help-development.html",
+    "https://apps.apple.com/us/app/letmetalk/id919990138",
+    "https://apps.apple.com/us/app/the-initiation-app/id6767593584",
+    "https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica&hl=en_US",
+    "https://pubmed.ncbi.nlm.nih.gov/31270079/",
+    "https://tourette.org/resources/tourette-resources/",
+    "https://www.bmj.com/content/366/bmj.l2415",
+    "https://www.tiimoapp.com/resource-hub/task-initiation-adhd"
   ],
-  "updated_at": "2026-06-20T21:12:08.920942+00:00"
+  "updated_at": "2026-06-21T17:04:46.199521+00:00"
 }
