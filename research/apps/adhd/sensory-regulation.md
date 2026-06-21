@@ -28,3 +28,33 @@
 - Query: ADHD sensory regulation app
 - Found: 2026-06-20
 - Description: Tiimos documentation on sensory-friendly design for ADHD and autism, relevant for evaluating planning/focus tools that consider sensory processing differences.
+
+### Propel: ADHD Games for Adults
+
+- URL: https://play.google.com/store/apps/details?id=com.jupys.brain&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload mobile app
+- Found: 2026-06-21
+- Description: Google Play listing for an ADHD-focused mobile app built for adults, with games and brain-training features aimed at managing ADHD-related challenges.
+
+### Inflow
+
+- URL: https://resources.healthgrades.com/pro/mobile-health-apps-for-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload mobile app
+- Found: 2026-06-21
+- Description: Healthgrades ADHD app roundup describes Inflow as a CBT-based app for tracking and managing ADHD symptoms.
+
+### Todoist
+
+- URL: https://www.additudemag.com/mobile-apps-for-adhd-minds/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload mobile app
+- Found: 2026-06-21
+- Description: ADDitudes ADHD apps guide includes Todoist as a task-management app used for reminders, productivity goals, and organizing to-dos.

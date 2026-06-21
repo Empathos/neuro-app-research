@@ -10,7 +10,15 @@
     "ADHD emotional regulation app",
     "ADHD daily living support app",
     "ADHD caregiver app",
-    "ADHD assistive technology app"
+    "ADHD assistive technology app",
+    "ADHD AAC mobile app",
+    "ADHD task initiation mobile app",
+    "ADHD overload mobile app",
+    "ADHD learning support mobile app",
+    "ADHD mood tracking mobile app",
+    "ADHD independence mobile app",
+    "ADHD clinician tool mobile app",
+    "ADHD accessibility mobile app"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -40,7 +48,22 @@
     "https://www.tiimoapp.com/resource-hub/digital-planner-apps-for-adhd",
     "https://www.tiimoapp.com/resource-hub/sensory-design-neurodivergent-accessibility",
     "https://www.youtube.com/watch?v=CU4bm0ZC6u4",
-    "https://xwavesoft.com/be-focused-pro.html"
+    "https://xwavesoft.com/be-focused-pro.html",
+    "https://apps.apple.com/us/app/moodsee-adhd-mood-tracker/id6761714839",
+    "https://brili.com/",
+    "https://getinflow.io/",
+    "https://is.ijs.si/wp-content/uploads/2025/09/DIGIN_2025_paper_3.pdf",
+    "https://mhealth.jmir.org/2017/10/e149/",
+    "https://play.google.com/store/apps/details?id=co.thefab.tm&hl=en_US",
+    "https://play.google.com/store/apps/details?id=com.jupys.brain&hl=en_US",
+    "https://play.google.com/store/apps/details?id=net.daylio&hl=en_US",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5977660/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9857426/",
+    "https://pubmed.ncbi.nlm.nih.gov/32283479/",
+    "https://resources.healthgrades.com/pro/mobile-health-apps-for-adhd",
+    "https://www.additudemag.com/mobile-apps-for-adhd-minds/",
+    "https://www.focusmate.com/",
+    "https://www.getinflow.io/"
   ],
-  "updated_at": "2026-06-20T21:11:18.221507+00:00"
+  "updated_at": "2026-06-21T17:04:44.325729+00:00"
 }

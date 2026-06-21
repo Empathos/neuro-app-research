@@ -38,3 +38,13 @@
 - Query: ADHD student support app
 - Found: 2026-06-20
 - Description: Student planner for tracking class schedules, homework assignments, tests, and deadlines.
+
+### Brili Routines
+
+- URL: https://brili.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD learning support mobile app
+- Found: 2026-06-21
+- Description: Official product page for a routine and scheduling app that uses step-by-step visual guidance and reminders, commonly used for ADHD support.
