@@ -38,3 +38,13 @@
 - Query: dyslexia planning app
 - Found: 2026-06-20
 - Description: Public recommendation list of dyslexia-support apps, including tools for visual organization, note-taking, and task sequencing.
+
+### Dyslexia - Cognitive Research
+
+- URL: https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia task initiation mobile app
+- Found: 2026-06-21
+- Description: Google Play app from CogniFit for participating in scientific studies related to dyslexia.

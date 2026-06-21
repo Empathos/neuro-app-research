@@ -38,3 +38,23 @@
 - Query: dyslexia sensory regulation app
 - Found: 2026-06-20
 - Description: Public guide to dyslexia apps and assistive tools, including structured literacy and reading support options that may complement regulation-focused use cases.
+
+### Microsoft Immersive Reader
+
+- URL: https://www.microsoft.com/en-us/education/products/learning-tools
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia overload mobile app
+- Found: 2026-06-21
+- Description: Official Microsoft learning-support tool with read-aloud, text highlighting, and readability controls that can reduce reading overload for dyslexic users.
+
+### Ghotit Real Writer
+
+- URL: https://www.ghotit.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia overload mobile app
+- Found: 2026-06-21
+- Description: Dyslexia-focused writing support tool with spelling, grammar, and word-prediction features designed for users with reading and writing challenges.

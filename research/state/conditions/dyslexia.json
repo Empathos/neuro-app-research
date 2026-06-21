@@ -10,7 +10,15 @@
     "dyslexia emotional regulation app",
     "dyslexia daily living support app",
     "dyslexia caregiver app",
-    "dyslexia assistive technology app"
+    "dyslexia assistive technology app",
+    "dyslexia AAC mobile app",
+    "dyslexia task initiation mobile app",
+    "dyslexia overload mobile app",
+    "dyslexia learning support mobile app",
+    "dyslexia mood tracking mobile app",
+    "dyslexia independence mobile app",
+    "dyslexia clinician tool mobile app",
+    "dyslexia accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -42,7 +50,15 @@
     "https://www.speechify.com/",
     "https://www.thedyslexiainitiative.org/apps-and-resources",
     "https://www.voicedream.com/reader/",
-    "https://www.wondergrade.com/"
+    "https://www.wondergrade.com/",
+    "https://apps.apple.com/us/app/daylio-journal-mood-tracker/id1194023242",
+    "https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=en_US",
+    "https://play.google.com/store/apps/details?id=net.daylio&hl=en_US",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5977660/",
+    "https://www.callscotland.org.uk/downloads/posters-and-leaflets/android-apps-for-learners-with-dyslexia/",
+    "https://www.ghotit.com/",
+    "https://www.microsoft.com/en-us/education/products/learning-tools",
+    "https://www.understood.org/en/app"
   ],
-  "updated_at": "2026-06-20T21:11:47.402921+00:00"
+  "updated_at": "2026-06-21T17:04:45.432970+00:00"
 }

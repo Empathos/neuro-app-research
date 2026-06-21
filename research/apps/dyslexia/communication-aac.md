@@ -28,3 +28,13 @@
 - Query: dyslexia communication support app
 - Found: 2026-06-20
 - Description: Reading app with text-to-speech support for listening to articles, books, and documents instead of decoding every word.
+
+### ClaroSpeak
+
+- URL: https://www.callscotland.org.uk/downloads/posters-and-leaflets/android-apps-for-learners-with-dyslexia/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC mobile app
+- Found: 2026-06-21
+- Description: CALL Scotlands dyslexia app guide lists ClaroSpeak as an Android app for learners with dyslexia, with reading/writing support and text-to-speech.
