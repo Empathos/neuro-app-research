@@ -38,3 +38,13 @@
 - Query: autism student support app
 - Found: 2026-06-20
 - Description: Public app directory that catalogs autism-focused apps across communication, learning, behavior, and daily-support use cases.
+
+### LetMeTalk
+
+- URL: https://letmetalk.info/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism learning support mobile app
+- Found: 2026-06-21
+- Description: Official site for a free AAC communication app referenced in autism mobile-app research as supporting communication skills for ASD users.[2]

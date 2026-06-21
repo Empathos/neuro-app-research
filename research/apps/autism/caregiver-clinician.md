@@ -38,3 +38,33 @@
 - Query: autism caregiver app
 - Found: 2026-06-20
 - Description: A smartphone app developed to empower parents of children with autism spectrum disorder by asking questions and providing feedback.
+
+### SenseToKnow - Mobile App for Autism Screening
+
+- URL: https://www.nature.com/articles/s41591-023-01862-9
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism clinician tool mobile app
+- Found: 2026-06-21
+- Description: A validated mobile app for clinicians and caregivers to screen toddlers (16-40 months) for autism using tablet camera tracking, eye movement analysis, and AI-driven behavioral pattern detection. Published in Nature Medicine with 87.8% sensitivity.
+
+### Autism Self-Test - DSM-5 Screening App
+
+- URL: https://apps.apple.com/us/app/autism-self-test/id6766382879
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism clinician tool mobile app
+- Found: 2026-06-21
+- Description: A private, anonymous mobile screening tool for parents and clinicians informed by DSM-5 criteria. Provides quick results for autism spectrum disorder assessment and is available on the Apple App Store.
+
+### Smart-ASD App - Clinician Tool for Student Needs
+
+- URL: https://www.abtaba.com/blog/smart-autism-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism clinician tool mobile app
+- Found: 2026-06-21
+- Description: A comprehensive mobile app for clinicians and teachers to assess individual needs of students with autism and learning difficulties. Helps determine suitable smart devices, software apps, and training needs for personalized support plans.
