@@ -1,40 +1,41 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-06-20T21:12:29.668941+00:00
-- New findings: 13
+- UTC timestamp: 2026-06-21T18:33:02.648410+00:00
+- New findings: 14
+- Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory processing communication support app`: 3 new finding(s)
+- `sensory processing AAC mobile app`: 2 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `sensory processing planning app`: 1 new finding(s)
+- `sensory processing task initiation mobile app`: 1 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory processing sensory regulation app`: 2 new finding(s)
+- `sensory processing overload mobile app`: 3 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `sensory processing student support app`: 1 new finding(s)
+- `sensory processing learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory processing emotional regulation app`: 1 new finding(s)
+- `sensory processing mood tracking mobile app`: 4 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory processing daily living support app`: 1 new finding(s)
+- `sensory processing independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory processing caregiver app`: 4 new finding(s)
+- `sensory processing clinician tool mobile app`: 3 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory processing assistive technology app`: 0 new finding(s)
+- `sensory processing accessibility mobile app`: 1 new finding(s), 0 rejected dead link(s)
 
