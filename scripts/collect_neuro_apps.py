@@ -15,6 +15,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+import check_links
+
 
 ROOT = Path(__file__).resolve().parents[1]
 APP_DIR = ROOT / "research" / "apps"
@@ -23,6 +25,7 @@ RUN_DIR = ROOT / "research" / "runs"
 STATE_DIR = ROOT / "research" / "state"
 CONDITION_STATE_DIR = STATE_DIR / "conditions"
 CONDITION_RUN_DIR = RUN_DIR / "conditions"
+REJECTED_RUN_DIR = RUN_DIR / "rejected"
 
 CONDITIONS = [
     "autism",
@@ -114,6 +117,10 @@ def condition_runs_path(condition: str) -> Path:
 
 def condition_latest_path(condition: str) -> Path:
     return CONDITION_RUN_DIR / f"{condition_branch_id(condition)}.md"
+
+
+def condition_rejected_path(condition: str) -> Path:
+    return REJECTED_RUN_DIR / f"{condition_branch_id(condition)}.jsonl"
 
 
 def load_state(path: Path) -> dict:
@@ -396,6 +403,43 @@ def append_entries(
     return accepted
 
 
+def validate_findings(
+    condition: str,
+    category: str,
+    query: str,
+    findings: list[dict],
+    timeout: float,
+) -> tuple[list[dict], list[dict]]:
+    accepted = []
+    rejected = []
+    for finding in findings:
+        url = finding.get("url", "")
+        result = check_links.check_link(
+            check_links.Link(url, (f"collector:{condition}/{category}",)),
+            timeout=timeout,
+            strict_network=False,
+        )
+        finding_with_status = {
+            **finding,
+            "link_status": result.status,
+            "link_detail": result.detail,
+        }
+        if result.status == "dead":
+            rejected.append(
+                {
+                    **finding_with_status,
+                    "condition": condition,
+                    "support_category": category,
+                    "query": query,
+                    "rejected_at": dt.datetime.now(dt.UTC).isoformat(),
+                    "reason": result.detail,
+                }
+            )
+            continue
+        accepted.append(finding_with_status)
+    return accepted, rejected
+
+
 def write_run_summary(record: dict) -> None:
     path = condition_latest_path(record["condition"])
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -405,6 +449,7 @@ def write_run_summary(record: dict) -> None:
         f"- Condition: {record['condition']}",
         f"- UTC timestamp: {record['timestamp']}",
         f"- New findings: {record['new_findings']}",
+        f"- Rejected dead links: {record['rejected_findings']}",
         "",
         "## Support Categories",
         "",
@@ -414,7 +459,8 @@ def write_run_summary(record: dict) -> None:
         lines.append("")
         for query in category_record["queries"]:
             count = category_record["accepted_by_query"].get(query, 0)
-            lines.append(f"- `{query}`: {count} new finding(s)")
+            rejected = category_record["rejected_by_query"].get(query, 0)
+            lines.append(f"- `{query}`: {count} new finding(s), {rejected} rejected dead link(s)")
         lines.append("")
     lines.append("")
     path.write_text("\n".join(lines), encoding="utf-8")
@@ -427,11 +473,22 @@ def append_run_log(record: dict) -> None:
         handle.write(json.dumps(record, sort_keys=True) + "\n")
 
 
+def append_rejected_log(condition: str, rejected: list[dict]) -> None:
+    if not rejected:
+        return
+    path = condition_rejected_path(condition)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as handle:
+        for item in rejected:
+            handle.write(json.dumps(item, sort_keys=True) + "\n")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--focus", help="Condition focus. Defaults to rotating condition state.")
     parser.add_argument("--max-results", type=int, default=8)
     parser.add_argument("--query-count", type=int, default=3)
+    parser.add_argument("--link-timeout", type=float, default=8.0)
     args = parser.parse_args()
 
     config = load_config()
@@ -448,25 +505,40 @@ def main() -> int:
     seen_urls = set(state.get("seen_urls", []))
 
     total_found = 0
+    total_rejected = 0
+    rejected_findings = []
     categories_record = {}
     all_queries = []
     for category in config_ids(config, "support_categories"):
         queries = build_queries(config, state, condition, category, max(1, args.query_count))
         all_queries.extend(queries)
         accepted_by_query = {}
+        rejected_by_query = {}
         category_found = 0
         for query in queries:
             findings = perplexity_search(query, args.max_results)
             if not findings:
                 findings = github_search(query, args.max_results)
-            accepted = append_entries(condition, category, query, findings, seen_urls)
+            valid_findings, rejected = validate_findings(
+                condition,
+                category,
+                query,
+                findings,
+                args.link_timeout,
+            )
+            rejected_findings.extend(rejected)
+            total_rejected += len(rejected)
+            accepted = append_entries(condition, category, query, valid_findings, seen_urls)
             accepted_by_query[query] = len(accepted)
+            rejected_by_query[query] = len(rejected)
             category_found += len(accepted)
             total_found += len(accepted)
         categories_record[category] = {
             "queries": queries,
             "accepted_by_query": accepted_by_query,
+            "rejected_by_query": rejected_by_query,
             "new_findings": category_found,
+            "rejected_findings": sum(rejected_by_query.values()),
         }
 
     seen_queries = list(dict.fromkeys([*state.get("seen_queries", []), *all_queries]))
@@ -484,8 +556,10 @@ def main() -> int:
         "condition": condition,
         "categories": categories_record,
         "new_findings": total_found,
+        "rejected_findings": total_rejected,
     }
     append_run_log(record)
+    append_rejected_log(condition, rejected_findings)
     write_run_summary(record)
     print(json.dumps(record, indent=2, sort_keys=True))
     return 0

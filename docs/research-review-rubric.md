@@ -32,6 +32,14 @@ Reject or remove a lead when:
 - The source appears unsafe, spammy, deceptive, or unrelated to neurodivergence support.
 - The item duplicates an existing accepted lead without adding useful new provenance.
 
+## Rejected Link Logs
+
+Collector runs may write dead candidates to `research/runs/rejected/<condition>.jsonl`. Review these as discarded search candidates, not as accepted leads.
+
+- A rejected URL should have a concrete reason such as `HTTP 404` or a blocked private target.
+- Rejected logs can be used to tune future queries or source preferences.
+- Do not manually restore a rejected lead unless a reviewer verifies a better working source URL.
+
 ## Reviewer Notes
 
 - Link reachability proves only that the website is operational at review time.

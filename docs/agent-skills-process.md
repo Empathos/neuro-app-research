@@ -29,11 +29,14 @@ The gate covers:
 - Astro static build
 - Research source URL reachability
 
+The collector performs link-level filtering before writing research files. Hard-dead candidates are logged under `research/runs/rejected/`; working and warning-level candidates can still produce a reviewable PR.
+
 For research-only PRs, the key review questions are:
 
 - Are the leads public-source and appropriate for this repository?
 - Are URLs durable enough to be useful?
 - Does the link check report show zero hard-dead links?
+- Does the rejected-link log show understandable reasons for discarded candidates?
 - Does the content avoid medical endorsement language?
 
 Use `docs/research-review-rubric.md` as the detailed checklist for accepting, revising, or rejecting collected leads.

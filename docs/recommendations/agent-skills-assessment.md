@@ -13,12 +13,13 @@ This document records the follow-up recommendations from the Agent Skills proces
 - Add PR/push CI in `.github/workflows/ci.yml`.
 - Add a research review rubric in `docs/research-review-rubric.md`.
 - Block private, loopback, link-local, reserved, and internal-DNS link targets in `scripts/check_links.py` by default.
+- Add link-level collector filtering so dead candidates are rejected without failing an otherwise useful condition run.
 
 ## Recommended Next
 
 1. Decide whether link-check warnings should remain report-only or block publish in stricter release modes.
 2. Add a simple lint/format gate once the repo has enough TypeScript/CSS surface area to justify the dependency.
-3. Add a collector-side public-source guard if future collection paths fetch or enrich URLs before they reach `research/apps`.
+3. Add a collector-side public-source allowlist if future runs show repeated low-quality domains.
 4. Add a PR template that points reviewers to `docs/research-review-rubric.md` and asks for the condition/category scope.
 5. Keep workflow and research-content changes in separate PRs when practical so reviewers can reason about automation and data independently.
 

@@ -70,6 +70,7 @@ Example research record:
 - `npm run build` proves the static site renders all current research files.
 - `npm run check:links` verifies rendered research URLs are currently reachable.
 - The link checker blocks private, loopback, link-local, and reserved targets by default so untrusted research markdown cannot make CI probe internal network surfaces.
+- The collector checks candidate URLs before writing research files. Dead links are excluded from `research/apps` and logged under `research/runs/rejected/`.
 - GitHub Actions CI runs the same gates on pull requests and `main`.
 
 ## Boundaries
@@ -95,10 +96,11 @@ Example research record:
 - Research output is stored in condition-scoped files and reviewed through pull requests.
 - Published pages only render durable research leads from `research/apps`.
 - Every rendered source URL is checked for current HTTP/HTTPS reachability before publish.
+- Dead candidate URLs are rejected at link level without discarding the rest of the condition run.
 - CI blocks regressions in type checking, unit tests, build, dependency audit, and link checking.
 - Research review uses `docs/research-review-rubric.md` before merge.
 
 ## Open Questions
 
-- Should transient link-check warnings ever block publish, or remain report-only unless hard-dead?
+- Should transient link-check warnings remain accepted-for-review, or should some warning classes be quarantined too?
 - Should the collector add a stricter public-source allowlist beyond the current private-network link-check guard?

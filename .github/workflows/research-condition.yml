@@ -99,7 +99,7 @@ jobs:
             --base main \
             --head "$branch" \
             --title "Research: collect ${condition} app leads" \
-            --body "Research pass for condition \`${condition}\`. Uses Perplexity Sonar when available and writes condition-scoped markdown, run logs, and state files for review before merge." \
+            --body "Research pass for condition \`${condition}\`. Uses Perplexity Sonar when available and writes condition-scoped markdown, run logs, rejected-link logs, and state files for review before merge." \
             || {
               echo "::warning::Research branch was pushed, but pull request creation was blocked. Enable GitHub Actions pull request creation or set RESEARCH_BOT_TOKEN."
               exit 0
