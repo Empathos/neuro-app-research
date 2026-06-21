@@ -10,7 +10,15 @@
     "sensory processing emotional regulation app",
     "sensory processing daily living support app",
     "sensory processing caregiver app",
-    "sensory processing assistive technology app"
+    "sensory processing assistive technology app",
+    "sensory processing AAC mobile app",
+    "sensory processing task initiation mobile app",
+    "sensory processing overload mobile app",
+    "sensory processing learning support mobile app",
+    "sensory processing mood tracking mobile app",
+    "sensory processing independence mobile app",
+    "sensory processing clinician tool mobile app",
+    "sensory processing accessibility mobile app"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -25,7 +33,21 @@
     "https://www.medicinalmedia.com/explore/apps-for-sensory-processing-support",
     "https://www.sunshineandhurricanes.com/sensory-processing-disorder/",
     "https://www.theskinsfactory.com/special-needs-autism-task-management-app",
-    "https://www.tiimoapp.com/resource-hub/sensory-processing-routines"
+    "https://www.tiimoapp.com/resource-hub/sensory-processing-routines",
+    "https://apps.apple.com/id/app/ot-sensory-screener/id6481703571",
+    "https://apps.apple.com/mx/app/spkeasy-aac-app-for-speech/id6547833012?l=en-GB",
+    "https://apps.apple.com/us/app/how-we-feel/id1562706384",
+    "https://emoodtracker.com",
+    "https://integratedlistening.com/therapeutic-tools/sensory-processing/",
+    "https://play.google.com/store/apps/details?id=com.iz.antistress.relaxing.satisfying.sensory.magic.games&hl=en_US",
+    "https://play.google.com/store/apps/details?id=moodtracker.selfcare.habittracker.mentalhealth&hl=en_US",
+    "https://store.steampowered.com/app/4403510/Sensory_Overload/",
+    "https://www.cam.ac.uk/research/news/mood-tracking-app-paves-way-for-pocket-therapy",
+    "https://www.corada.com/products/grid-player-alternative-and-augmentative-communication-aac-app",
+    "https://www.createabilityinc.com/best-supported-employment-apps/",
+    "https://www.noplex.ai/sensory-overload-anxiety",
+    "https://www.scope.org.uk/advice-and-support/accessibility-apps",
+    "https://www.sensoryintegrationeducation.com/pages/si-assessments"
   ],
-  "updated_at": "2026-06-20T21:12:29.668941+00:00"
+  "updated_at": "2026-06-21T18:33:02.648410+00:00"
 }
