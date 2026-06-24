@@ -38,3 +38,23 @@
 - Query: ADHD independence mobile app
 - Found: 2026-06-21
 - Description: Research paper on a pilot mobile app designed to support adolescents with autism and/or ADHD in independently carrying out everyday routines and improving daily independence.
+
+### JamesTheGiblet/dope-forge
+
+- URL: https://github.com/JamesTheGiblet/dope-forge
+- Source: github-search
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD life skills iOS Android
+- Found: 2026-06-24
+- Description: Motivation tracker for ADHD builders. Uses pharmacokinetic decay curves to predict project abandonment. Because motivation isn't infinite - it's exponential.
+
+### malpanez/tempus
+
+- URL: https://github.com/malpanez/tempus
+- Source: github-search
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD home routine tool
+- Found: 2026-06-24
+- Description: Neurodivergent-friendly ICS calendar generator for ADHD, Autism, Dyslexia (Go CLI)

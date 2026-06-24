@@ -38,3 +38,23 @@
 - Query: ADHD caregiver app
 - Found: 2026-06-20
 - Description: Caregiver-app roundup that includes family coordination tools relevant to parents managing ADHD-related care, such as scheduling, reminders, and shared tracking.
+
+### nugagee/AdaptBuddy
+
+- URL: https://github.com/nugagee/AdaptBuddy
+- Source: github-search
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support tool
+- Found: 2026-06-24
+- Description: AdaptBuddy  neurodiverse-first EdTech with AI emotion insights, parent dashboards, and teacher tools. Built with React, TypeScript, Zustand, Supabase & Firebase.
+
+### ivveshermosilla/matpro-triple-method
+
+- URL: https://github.com/ivveshermosilla/matpro-triple-method
+- Source: github-search
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support tool
+- Found: 2026-06-24
+- Description: A triple-method learning system for multiplication tables inspired by ADHD-friendly strategies and real-world application

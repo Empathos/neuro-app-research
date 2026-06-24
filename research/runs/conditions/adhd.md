@@ -1,40 +1,49 @@
 # Latest Research Run
 
 - Condition: adhd
-- UTC timestamp: 2026-06-21T17:04:44.325729+00:00
-- New findings: 15
+- UTC timestamp: 2026-06-24T15:13:19.931851+00:00
+- New findings: 55
+- Rejected dead links: 15
 
 ## Support Categories
 
 ### communication-aac
 
-- `ADHD AAC mobile app`: 4 new finding(s)
+- `ADHD speech support iOS Android`: 4 new finding(s), 2 rejected dead link(s)
+- `ADHD conversation support tool`: 5 new finding(s), 2 rejected dead link(s)
 
 ### executive-function
 
-- `ADHD task initiation mobile app`: 2 new finding(s)
+- `ADHD routine iOS Android`: 5 new finding(s), 2 rejected dead link(s)
+- `ADHD reminders tool`: 3 new finding(s), 3 rejected dead link(s)
 
 ### sensory-regulation
 
-- `ADHD overload mobile app`: 3 new finding(s)
+- `ADHD calming iOS Android`: 4 new finding(s), 4 rejected dead link(s)
+- `ADHD environment planning tool`: 7 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `ADHD learning support mobile app`: 1 new finding(s)
+- `ADHD reading support iOS Android`: 6 new finding(s), 1 rejected dead link(s)
+- `ADHD classroom tool`: 7 new finding(s), 1 rejected dead link(s)
 
 ### emotional-regulation
 
-- `ADHD mood tracking mobile app`: 3 new finding(s)
+- `ADHD self regulation iOS Android`: 3 new finding(s), 0 rejected dead link(s)
+- `ADHD coping skills tool`: 7 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `ADHD independence mobile app`: 2 new finding(s)
+- `ADHD life skills iOS Android`: 1 new finding(s), 0 rejected dead link(s)
+- `ADHD home routine tool`: 1 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `ADHD clinician tool mobile app`: 0 new finding(s)
+- `ADHD therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD parent support tool`: 2 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `ADHD accessibility mobile app`: 0 new finding(s)
+- `ADHD mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
