@@ -48,3 +48,13 @@
 - Query: neurodivergent clinician tool mobile app
 - Found: 2026-06-21
 - Description: BCI-assisted neurodivergent productivity suite  self-reported or EEG-driven cognitive metrics + an agentic AI task planner (Claude) that adapts to how your brain is actually performing.
+
+### nugagee/AdaptBuddy
+
+- URL: https://github.com/nugagee/AdaptBuddy
+- Source: github-search
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent parent support tool
+- Found: 2026-06-24
+- Description: AdaptBuddy  neurodiverse-first EdTech with AI emotion insights, parent dashboards, and teacher tools. Built with React, TypeScript, Zustand, Supabase & Firebase.

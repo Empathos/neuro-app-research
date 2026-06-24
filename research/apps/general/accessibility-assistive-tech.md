@@ -18,3 +18,13 @@
 - Query: neurodivergent assistive technology app
 - Found: 2026-06-20
 - Description: Digital life-skills app for autistic and neurodivergent users that breaks everyday tasks into guided steps.
+
+### costrict-plugins-repo/github-trending-neurodivergent-visual-org
+
+- URL: https://github.com/costrict-plugins-repo/github-trending-neurodivergent-visual-org
+- Source: github-search
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent adaptive tool
+- Found: 2026-06-24
+- Description: costrict-plugins mirror of github-trending-neurodivergent-visual-org (auto-generated, do not edit)
