@@ -78,3 +78,13 @@
 - Query: autism accessibility mobile app
 - Found: 2026-06-21
 - Description: Official guidance on mobile app accessibility monitoring and WCAG application to mobile, relevant for evaluating accessible autism support apps.
+
+### GianPanganD/caeleste-elearning
+
+- URL: https://github.com/GianPanganD/caeleste-elearning
+- Source: github-search
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism adaptive tool
+- Found: 2026-06-24
+- Description: A neurodivergent-inclusive, grade-adaptive e-learning Android app for Filipino students  prototype built with Kotlin & Jetpack Compose

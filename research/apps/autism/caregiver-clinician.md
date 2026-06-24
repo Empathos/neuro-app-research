@@ -68,3 +68,33 @@
 - Query: autism clinician tool mobile app
 - Found: 2026-06-21
 - Description: A comprehensive mobile app for clinicians and teachers to assess individual needs of students with autism and learning difficulties. Helps determine suitable smart devices, software apps, and training needs for personalized support plans.
+
+### ABHIJATSARARI/Synesthesia-AI
+
+- URL: https://github.com/ABHIJATSARARI/Synesthesia-AI
+- Source: github-search
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism therapy support iOS Android
+- Found: 2026-06-24
+- Description: An offline Android app using Edge AI to convert visual chaos into auditory calm for users with Sensory Processing Disorders. 
+
+### nugagee/AdaptBuddy
+
+- URL: https://github.com/nugagee/AdaptBuddy
+- Source: github-search
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism parent support tool
+- Found: 2026-06-24
+- Description: AdaptBuddy  neurodiverse-first EdTech with AI emotion insights, parent dashboards, and teacher tools. Built with React, TypeScript, Zustand, Supabase & Firebase.
+
+### damianciero-jpg/calm
+
+- URL: https://github.com/damianciero-jpg/calm
+- Source: github-search
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism parent support tool
+- Found: 2026-06-24
+- Description: app for autism

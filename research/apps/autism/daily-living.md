@@ -48,3 +48,23 @@
 - Query: autism independence mobile app
 - Found: 2026-06-21
 - Description: Curated public overview of autism-support apps, including tools for routines, visual schedules, and independence-building.
+
+### malpanez/tempus
+
+- URL: https://github.com/malpanez/tempus
+- Source: github-search
+- Condition: autism
+- Support category: daily-living
+- Query: autism home routine tool
+- Found: 2026-06-24
+- Description: Neurodivergent-friendly ICS calendar generator for ADHD, Autism, Dyslexia (Go CLI)
+
+### ABHIJATSARARI/neurobridge
+
+- URL: https://github.com/ABHIJATSARARI/neurobridge
+- Source: github-search
+- Condition: autism
+- Support category: daily-living
+- Query: autism home routine tool
+- Found: 2026-06-24
+- Description: Web/app tool that analyzes student inputs (voice, text, drawings via camera) with AI to adapt lessons in real-timee.g., converting text to visual mindmaps for dyslexic users or simplifying concepts with gamified audio for ADHDtailored to individual neurodiverse profiles.

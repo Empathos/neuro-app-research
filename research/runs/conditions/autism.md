@@ -1,41 +1,49 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-06-21T18:33:06.184529+00:00
-- New findings: 18
-- Rejected dead links: 4
+- UTC timestamp: 2026-06-24T15:13:29.803172+00:00
+- New findings: 55
+- Rejected dead links: 13
 
 ## Support Categories
 
 ### communication-aac
 
-- `autism AAC mobile app`: 3 new finding(s), 0 rejected dead link(s)
+- `autism speech support iOS Android`: 1 new finding(s), 6 rejected dead link(s)
+- `autism conversation support tool`: 7 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `autism task initiation mobile app`: 1 new finding(s), 0 rejected dead link(s)
+- `autism routine iOS Android`: 5 new finding(s), 0 rejected dead link(s)
+- `autism reminders tool`: 6 new finding(s), 1 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autism overload mobile app`: 2 new finding(s), 0 rejected dead link(s)
+- `autism calming iOS Android`: 2 new finding(s), 5 rejected dead link(s)
+- `autism environment planning tool`: 7 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autism learning support mobile app`: 1 new finding(s), 1 rejected dead link(s)
+- `autism reading support iOS Android`: 7 new finding(s), 0 rejected dead link(s)
+- `autism classroom tool`: 8 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autism mood tracking mobile app`: 2 new finding(s), 2 rejected dead link(s)
+- `autism self regulation iOS Android`: 5 new finding(s), 1 rejected dead link(s)
+- `autism coping skills tool`: 1 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `autism independence mobile app`: 2 new finding(s), 0 rejected dead link(s)
+- `autism life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism home routine tool`: 2 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autism clinician tool mobile app`: 3 new finding(s), 1 rejected dead link(s)
+- `autism therapy support iOS Android`: 1 new finding(s), 0 rejected dead link(s)
+- `autism parent support tool`: 2 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autism accessibility mobile app`: 4 new finding(s), 0 rejected dead link(s)
+- `autism mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism adaptive tool`: 1 new finding(s), 0 rejected dead link(s)
 

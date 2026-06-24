@@ -38,3 +38,63 @@
 - Query: autism mood tracking mobile app
 - Found: 2026-06-21
 - Description: A mobile and web-based mood tracking app that uses graphs and calendars to visualize emotional patterns, with a community aspect offering support and advice. Suitable for tracking mood fluctuations in neurodivergent individuals including those with autism.
+
+### iReact - Emotional Regulation, Autism, Anxiety App
+
+- URL: https://apps.apple.com/us/app/i-react-emotional-regulation-anxiety-autism/id842162674
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism self regulation iOS Android
+- Found: 2026-06-24
+- Description: Official iOS app store page for iReact, a tool designed to help individuals with autism and anxiety develop emotional regulation and self-regulation skills through interactive activities.
+
+### ChoiceWorks App
+
+- URL: https://www.bearhugapps.com/choiceworks
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism self regulation iOS Android
+- Found: 2026-06-24
+- Description: Official documentation page for ChoiceWorks (iOS), a tool that helps children manage emotions, understand daily routines, and improve frustration tolerance to support self-regulation.
+
+### Autism Express: Emotion Recognition App
+
+- URL: https://www.autism360.com/top-apps-for-autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism self regulation iOS Android
+- Found: 2026-06-24
+- Description: Product overview of Autism Express (iOS/Android), an app using fun games to help individuals with ASD learn to recognize and express emotions, a key component of self-regulation.
+
+### FunTimer App
+
+- URL: https://www.bearhugapps.com/funtimer
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism self regulation iOS Android
+- Found: 2026-06-24
+- Description: Official product page for FunTimer (iOS), a timer-based tool for behavior management that supports self-regulation by easing transitions and providing positive reinforcement prompts.
+
+### EmoTEA: Mobile Application for Emotion Detection
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11748806/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism self regulation iOS Android
+- Found: 2026-06-24
+- Description: Research overview of EmoTEA, a mobile application (Android/iOS) designed to enhance emotional intelligence and self-regulation in children with ASD by aiding emotion detection and expression.
+
+### Guru006-Dev/HealthHub
+
+- URL: https://github.com/Guru006-Dev/HealthHub
+- Source: github-search
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism coping skills tool
+- Found: 2026-06-24
+- Description: HealthHub is an interactive, gamified, and sensory-friendly web application designed to teach critical first aid skills for children on the autism spectrum and those with different learning needs.
