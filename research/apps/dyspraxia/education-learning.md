@@ -38,3 +38,33 @@
 - Query: dyspraxia learning support mobile app
 - Found: 2026-06-21
 - Description: Official product page for Magrid, an inclusive learning app that says it is designed to support children with learning differences such as dyspraxia.
+
+### Bookshare
+
+- URL: https://www.bookshare.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia reading support iOS Android
+- Found: 2026-06-24
+- Description: Offers the largest online library of accessible reading materials in various formats for students with dyspraxia and other disabilities preventing traditional print reading, available on iOS and Android.
+
+### Learning Ally
+
+- URL: https://www.learningally.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia reading support iOS Android
+- Found: 2026-06-24
+- Description: A multi-sensory reading accommodation that builds vocabulary, comprehension, and critical-thinking skills for students with dyspraxia through interactive audio books, with apps for iOS and Android.
+
+### Orton-Gillingham (OG) Reading Programs and Apps
+
+- URL: https://www.onglossary.org/apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia reading support iOS Android
+- Found: 2026-06-24
+- Description: Structured, explicit, and multisensory reading apps tailored for students with dyspraxia and other reading difficulties, offering programs for literacy and spelling support on iOS and Android.
