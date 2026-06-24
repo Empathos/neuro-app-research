@@ -40,8 +40,8 @@ jobs:
       - name: Prepare condition branch
         id: condition
         run: |
-          git config user.name "Empathos Research Bot"
-          git config user.email "research-bot@empathos.ai"
+          git config user.name "Mitchell"
+          git config user.email "mitchell@empathos.ai"
           focus="${{ inputs.focus }}"
           safe_focus="$(printf '%s' "$focus" | tr '[:upper:]' '[:lower:]' | sed -E 's/[_[:space:]]+/-/g; s/[^a-z0-9-]//g; s/-+/-/g; s/^-|-$//g')"
           branch="research/${safe_focus}"
