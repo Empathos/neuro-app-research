@@ -28,3 +28,23 @@
 - Query: dyslexia daily living support app
 - Found: 2026-06-20
 - Description: An article featuring validated, current public apps for dyslexia such as Ghotit Real Writer and OneNote Immersive Reader, highlighting their features for text-to-speech, word prediction, and daily reading support.
+
+### malpanez/tempus
+
+- URL: https://github.com/malpanez/tempus
+- Source: github-search
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia home routine tool
+- Found: 2026-06-24
+- Description: Neurodivergent-friendly ICS calendar generator for ADHD, Autism, Dyslexia (Go CLI)
+
+### ABHIJATSARARI/neurobridge
+
+- URL: https://github.com/ABHIJATSARARI/neurobridge
+- Source: github-search
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia home routine tool
+- Found: 2026-06-24
+- Description: Web/app tool that analyzes student inputs (voice, text, drawings via camera) with AI to adapt lessons in real-timee.g., converting text to visual mindmaps for dyslexic users or simplifying concepts with gamified audio for ADHDtailored to individual neurodiverse profiles.

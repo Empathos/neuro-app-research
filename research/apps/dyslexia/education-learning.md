@@ -28,3 +28,53 @@
 - Query: dyslexia student support app
 - Found: 2026-06-20
 - Description: Official project site for the open-source font designed to make reading easier for people with dyslexia.
+
+### Google Read&Write
+
+- URL: https://www.googlereadandwrite.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia reading support iOS Android
+- Found: 2026-06-24
+- Description: Official documentation page for Google Read&Write, a Chrome extension and iOS-compatible tool providing text-to-speech, word prediction, and screen masking to aid reading and writing for users with dyslexia.
+
+### Learning Ally
+
+- URL: https://www.learningally.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia reading support iOS Android
+- Found: 2026-06-24
+- Description: Official website for Learning Ally, providing human-narrated audiobooks and educational materials for students with dyslexia, with dedicated mobile apps for iOS and Android to access textbooks and novels.
+
+### shhreya13/DyslexiCore
+
+- URL: https://github.com/shhreya13/DyslexiCore
+- Source: github-search
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom tool
+- Found: 2026-06-24
+- Description: DyslexiCore is a gamified literacy ecosystem that replaces stressful dyslexia screenings with space missions. Using Next.js & FastAPI, we track visual saccades and phonemic awareness through star-tracking and bubble-popping games. Data syncs to a dashboard, providing instant risk profiles and AI-powered CVC word quests for kids.
+
+### shemankubana/IncludEd-2.0
+
+- URL: https://github.com/shemankubana/IncludEd-2.0
+- Source: github-search
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom tool
+- Found: 2026-06-24
+- Description: An AI-powered platform for teaching English and French literature to students with learning differences. Teachers upload PDFs of novels, plays, and poetry, which are automatically adapted for students with dyslexia, ADHD, color blindness, and other learning needs.
+
+### marioprieta/DiverEdu-Hack4Edu2024
+
+- URL: https://github.com/marioprieta/DiverEdu-Hack4Edu2024
+- Source: github-search
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom tool
+- Found: 2026-06-24
+- Description: Generative AI tool for personalized content for neurodivergent students, supporting dyslexia, ADHD, and dyscalculia. Features include emoji cues for dyslexia, Bionic Reading for ADHD, and empathy exercises for neurotypical students. Built with Vue.js, Flask API, and Docker Compose for deployment, promoting inclusion and accessibility in classrooms.
