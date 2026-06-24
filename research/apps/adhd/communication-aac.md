@@ -78,3 +78,93 @@
 - Query: ADHD AAC mobile app
 - Found: 2026-06-21
 - Description: Study assessing app suitability for parents of children and young people with ADHD, with guidance on app features that users and clinicians found helpful.
+
+### Speech Central
+
+- URL: https://speechcentral.net
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support iOS Android
+- Found: 2026-06-24
+- Description: Free text-to-speech PDF and web reader available on iOS and Android, offering natural-sounding voices and multi-device support for users with ADHD seeking speech support.
+
+### BASICS: Speech | Autism | ADHD
+
+- URL: https://apps.apple.com/in/app/basics-speech-autism-adhd/id6451402692
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support iOS Android
+- Found: 2026-06-24
+- Description: All-in-one app for early childhood development created by expert therapists, designed to support children with speech delays, Autism, and ADHD through games and resources.
+
+### Dragon Speech Recognition
+
+- URL: https://www.nuance.com/dragon
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support iOS Android
+- Found: 2026-06-24
+- Description: Industry-leading voice dictation software for iOS and Android that allows users to type by speaking, ideal for individuals with ADHD who have faster brain-to-mind speeds than writing speeds.
+
+### iOS Voice Control & Spoken Content
+
+- URL: https://support.apple.com/en-us/voice-control
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support iOS Android
+- Found: 2026-06-24
+- Description: Native iOS features including Voice Control and Spoken Content that enable full device control and text-to-speech reading for users with ADHD on iPhone and iPad.
+
+### Easy Voice Recorder (Android) - Conversational Recording Tool
+
+- URL: https://www.easylabs.com/easy-voice-recorder
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support tool
+- Found: 2026-06-24
+- Description: An Android app for recording discussions to enhance memory retention, enabling users to revisit conversations and clarify details for better communication support.
+
+### ChatGPT - AI Communication Assistant
+
+- URL: https://chat.openai.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support tool
+- Found: 2026-06-24
+- Description: An AI tool that helps users draft emails, rehearse phone calls, and break down complex tasks, offering practical support for overcoming conversation barriers and improving focus in ADHD.
+
+### Gemini - AI Conversation Rehearsal Tool
+
+- URL: https://gemini.google.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support tool
+- Found: 2026-06-24
+- Description: Google's AI assistant that assists in drafting messages, generating task options, and rehearsing difficult conversations, providing strategic support for ADHD-related communication challenges.
+
+### Claude - AI Email and Task Helper
+
+- URL: https://claude.ai
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support tool
+- Found: 2026-06-24
+- Description: An AI platform that helps users create rough drafts, generate multiple solutions for tasks, and organize daily activities, supporting structured communication and focus for individuals with ADHD.
+
+### WatchMinder - Time Management Device
+
+- URL: https://www.watchminder.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support tool
+- Found: 2026-06-24
+- Description: A wearable device that alerts users when it's time to move to the next task, aiding time management and reducing impulsivity during conversations for individuals with ADHD.
