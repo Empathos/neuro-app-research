@@ -78,3 +78,13 @@
 - Query: dyslexia mood tracking mobile app
 - Found: 2026-06-21
 - Description: Research article reviewing mood-tracking mobile apps and their features, useful for identifying app design options relevant to mood tracking.
+
+### abhi3114-glitch/NEUROFEST
+
+- URL: https://github.com/abhi3114-glitch/NEUROFEST
+- Source: github-search
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia self regulation iOS Android
+- Found: 2026-06-24
+- Description: An inclusive AI-powered care platform designed to support individuals with neurodivergent conditions such as Autism and Dyslexia. NeuroNest provides tools for learning, emotional support, daily routines, and real-time monitoring for caregivers and healthcare professionals.

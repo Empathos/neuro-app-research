@@ -48,3 +48,113 @@
 - Query: dyslexia task initiation mobile app
 - Found: 2026-06-21
 - Description: Google Play app from CogniFit for participating in scientific studies related to dyslexia.
+
+### ModMath: Type Math for Dyslexia & Dysgraphia
+
+- URL: https://freewhitemedia.com/modmath
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine iOS Android
+- Found: 2026-06-24
+- Description: iOS app designed for students with dyslexia and dysgraphia to type math problems neatly, breaking tasks into manageable steps and supporting organization routines.
+
+### inFlow Task Manager for Neurodivergent Users
+
+- URL: https://inflowapp.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine iOS Android
+- Found: 2026-06-24
+- Description: iOS and Android task manager that breaks tasks into simple steps, creates visual schedules, and supports neurodivergent routines with time awareness features.
+
+### SnapType Pro: Overlay Text on Worksheets
+
+- URL: https://snaptypepro.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine iOS Android
+- Found: 2026-06-24
+- Description: iOS and Android app for pupils who struggle with handwriting; allows taking pictures of worksheets and overlaying text boxes to complete tasks using keyboard or voice-to-text.
+
+### ClaroSpeak: Text-to-Speech with Word Prediction
+
+- URL: https://clarospeak.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine iOS Android
+- Found: 2026-06-24
+- Description: iOS and Android app providing text-to-speech, word prediction, and text appearance changes to support reading and writing routines for users with dyslexia.
+
+### Mindly: Visual Task Organizer
+
+- URL: https://mindlyapp.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine iOS Android
+- Found: 2026-06-24
+- Description: Android app for creating visual mind maps and organizing tasks into steps, helping users with dyslexia maintain routines and structure their daily activities.
+
+### Touch-type, Read & Spell (TTRS)
+
+- URL: https://ttrs.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine iOS Android
+- Found: 2026-06-24
+- Description: Award-winning multi-sensory iOS and Android course that teaches touch typing through short, self-paced lessons, supporting spelling and reading routines for dyslexia.
+
+### Apple Reminders - Official Native App for Dyslexia Support
+
+- URL: https://apps.apple.com/us/app/reminders/id1108187841
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders tool
+- Found: 2026-06-24
+- Description: The official iOS native reminders app recommended in dyslexia resource guides for creating lists, setting time-based alerts, and organizing daily chores to help with forgetfulness and time management.
+
+### Google Keep - Cloud-Based Notes and Reminders for Neurodivergent Users
+
+- URL: https://www.google.com/keep/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders tool
+- Found: 2026-06-24
+- Description: A free Android and web-based app for capturing notes, lists, and photos with automatic reminders; cited in neurodiverse-friendly app guides for dyslexia to manage homework and schedules.
+
+### myHomework - Homework and Task Tracker with Reminders
+
+- URL: https://www.myhomeworkapp.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders tool
+- Found: 2026-06-24
+- Description: A dedicated student app for tracking homework, classes, tests, and projects with customizable reminders; supports dyslexic students by breaking down tasks and preventing missed deadlines.
+
+### iStudiez Pro - Schedule Manager and Reminder Tool for Students
+
+- URL: https://istu.de/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders tool
+- Found: 2026-06-24
+- Description: An advanced student organizer that helps manage assignments, track GPA, and send reminders for due dates; designed to assist dyslexic users with executive function and time management.
+
+### Official Apple Documentation on Reminders for Learning Disabilities
+
+- URL: https://support.apple.com/en-gb/HT205773
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders tool
+- Found: 2026-06-24
+- Description: Apple's official documentation covering the Reminders app features, including voice command setup and list templates, recommended for users with dyslexia to manage daily routines and tasks.

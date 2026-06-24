@@ -28,3 +28,13 @@
 - Query: dyslexia assistive technology app
 - Found: 2026-06-20
 - Description: A free, accessible reading app offering a vast collection of books in accessible formats for readers with dyslexia, low vision, or blindness, developed by the British Dyslexia Association.
+
+### lukeslp/awesome-accessibility
+
+- URL: https://github.com/lukeslp/awesome-accessibility
+- Source: github-search
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia mobile accessibility iOS Android
+- Found: 2026-06-24
+- Description: Curated list of accessibility resources, tools, and best practices for creating inclusive digital experiences
