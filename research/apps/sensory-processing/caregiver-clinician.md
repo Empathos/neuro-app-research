@@ -68,3 +68,23 @@
 - Query: sensory processing clinician tool mobile app
 - Found: 2026-06-21
 - Description: A public product page describing therapeutic listening tools intended to improve outcomes for adults and children with sensory processing disorder.
+
+### ABHIJATSARARI/Synesthesia-AI
+
+- URL: https://github.com/ABHIJATSARARI/Synesthesia-AI
+- Source: github-search
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing therapy support iOS Android
+- Found: 2026-06-24
+- Description: An offline Android app using Edge AI to convert visual chaos into auditory calm for users with Sensory Processing Disorders. 
+
+### zapelearningforkids/Why-Traditional-Studying-Fails-Gen-Alpha-
+
+- URL: https://github.com/zapelearningforkids/Why-Traditional-Studying-Fails-Gen-Alpha-
+- Source: github-search
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing parent support tool
+- Found: 2026-06-24
+- Description: Discover why traditional studying fails Gen Alpha and how gamified learning, adaptive technology, and interactive educational tools improve engagement.

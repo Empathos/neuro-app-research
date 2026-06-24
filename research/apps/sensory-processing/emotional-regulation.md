@@ -48,3 +48,13 @@
 - Query: sensory processing mood tracking mobile app
 - Found: 2026-06-21
 - Description: Android mood-tracking app that also includes habit, self-care, activity tracking, and mood journaling.
+
+### Guru006-Dev/HealthHub
+
+- URL: https://github.com/Guru006-Dev/HealthHub
+- Source: github-search
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing coping skills tool
+- Found: 2026-06-24
+- Description: HealthHub is an interactive, gamified, and sensory-friendly web application designed to teach critical first aid skills for children on the autism spectrum and those with different learning needs.
