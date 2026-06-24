@@ -66,3 +66,33 @@
 - Query: executive function overload mobile app
 - Found: 2026-06-21
 - Description: Listed as a tool that breaks tasks into smaller steps when starting feels overwhelming.
+
+### Focus Keeper - Pomodoro Timer for Calm Productivity
+
+- URL: https://focuskeeper.co/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function calming iOS Android
+- Found: 2026-06-24
+- Description: High-rated iOS and Android timer using the Pomodoro method with calming sounds and gentle transitions to help users with executive function maintain focus and reduce stress.
+
+### Goblin Tools - Task Manager Documentation
+
+- URL: https://docs.goblin.tools/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function calming iOS Android
+- Found: 2026-06-24
+- Description: Documentation for Goblin Tools, a free, calming task manager for iOS and Android users with executive function challenges, explaining its AI 'magic' features for task simplification and emotional regulation.
+
+### Flipd - Focus Goals & Calming Audio
+
+- URL: https://www.flipd.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function calming iOS Android
+- Found: 2026-06-24
+- Description: iOS and Android app that helps users set focus goals, track sleep, and use calming audio files like nature sounds to support executive function and reduce distraction-induced anxiety.
