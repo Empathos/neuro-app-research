@@ -28,3 +28,83 @@
 - Query: Tourette overload mobile app
 - Found: 2026-06-21
 - Description: BMJ article describing a tic-tracking app workflow, including countdown timing and logging tic frequency and intensity.
+
+### TAC'TICS App
+
+- URL: https://www.sbs.com.au/language/filipino/en/podcast-episode/tactics-app-breaking-the-stigma-on-tourette-syndrome/ejai0wm9k
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette calming iOS Android
+- Found: 2026-06-24
+- Description: An interactive iOS and Android app called TAC'TICS that promotes education about Tourette syndrome through school, community, and business activities, including calming tools and stigma-breaking resources.
+
+### TicVision: Tourette's Tic Tracking App
+
+- URL: https://www.ticvision.io/blog/ticvision-app-guide-for-patients/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette calming iOS Android
+- Found: 2026-06-24
+- Description: A leading Tourette's tic tracking app for iOS and Android that visualizes progress, monitors tics, and provides calming strategies with innovative tools for patients managing Tourette syndrome.
+
+### Tools for Educators - Tourette Association of America
+
+- URL: https://www.tourette.org/resources/overview/tools-for-educators/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning tool
+- Found: 2026-06-24
+- Description: Comprehensive list of resources to assist educators and school personnel in developing effective support plans for children with Tourette syndrome, including environment planning tools.
+
+### Tourette Association of America - Tools for Educators Page
+
+- URL: https://tourette.org/resources/overview/tools-for-educators/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning tool
+- Found: 2026-06-24
+- Description: Resource hub for educators to access tools and programs for supporting children with Tourette syndrome, including environment-based planning guides.
+
+### The Role of Digital Tools in Meeting the Needs of Adults With Tourette Syndrome
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12919968/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning tool
+- Found: 2026-06-24
+- Description: Research study on digital tools for adult Tourette syndrome management, highlighting the limited apps available and the need for environment-focused planning tools.
+
+### Impact of Environmental Stress on Adults with Tourette Syndrome - TIC-CON 2023
+
+- URL: https://www.youtube.com/watch?v=tEcUg6PNpc4
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning tool
+- Found: 2026-06-24
+- Description: Lecture by David Issacs on environmental stressors affecting Tourette syndrome, including data on how environment influences tic severity and planning needs.
+
+### University of Georgia - Environmental Responses to Tics Study
+
+- URL: https://news.uga.edu/children-tourette-syndrome-environmental-responses-0616/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning tool
+- Found: 2026-06-24
+- Description: Study showing environmental responses significantly impact a child's ability to manage tics, providing evidence for environment-based planning tools in Tourette support.
+
+### A Human-Centered Design Approach for Digital Tools in Adult Tourette Support
+
+- URL: https://formative.jmir.org/2026/1/e78328
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning tool
+- Found: 2026-06-24
+- Description: Research on digital tools for adults with Tourette syndrome, emphasizing the need for user-centered environment planning tools to improve tic management.
