@@ -158,3 +158,93 @@
 - Query: ADHD coping skills tool
 - Found: 2026-06-24
 - Description: Behavioral health article detailing mindfulness, meditation, and deep breathing exercises as effective coping tools for ADHD-related restlessness.
+
+### Mightier - Emotional Regulation Game for Kids
+
+- URL: https://www.mightier.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-06-25
+- Description: A biofeedback-based game platform that helps children improve emotional regulation and executive function by using heart rate data to guide gameplay and learning strategies.
+
+### ExQ Infinite Know How - Executive Function Curriculum
+
+- URL: https://www.exqinfiniteknowhow.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-06-25
+- Description: A game-based digital tool designed to systematically train cognitive skills including focus, planning, organization, impulse control, emotional regulation, and self-awareness.
+
+### Joon - Emotional Regulation App for Children
+
+- URL: https://www.joonapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-06-25
+- Description: An interactive app that uses gamification and positive reinforcement to help children develop emotional regulation skills and improve executive functioning through daily routines.
+
+### Antistress - Emotional Regulation Tool
+
+- URL: https://antistress.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-06-25
+- Description: A digital tool offering calming exercises, breathing techniques, and mindfulness activities to support emotional regulation and reduce stress for neurodivergent individuals.
+
+### The OT Toolbox - Emotional Regulation & Executive Function Resources
+
+- URL: https://www.theottoolbox.com/emotional-regulation-and-executive-function/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-06-25
+- Description: A comprehensive repository of strategies, tools, and lesson plans for supporting emotional regulation and executive function through routines, movement, creative play, and mindfulness.
+
+### Executive Function Toolkit - Emotional Regulation Guide
+
+- URL: https://www.executivefunctiontoolkit.org/emotional-regulation.html
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-06-25
+- Description: A practical guide offering personalized coping strategies, stress signal tracking, and regulation tool menus to help neurodivergent individuals manage emotions and improve executive functioning.
+
+### Life Skills Advocate - Emotional Control Workbook
+
+- URL: https://lifeskillsadvocate.com/blog/executive-functioning-101-the-basics-of-emotional-control/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-06-25
+- Description: A resource offering skills assessments, workbooks, and coaching guidance to evaluate and build emotional control as part of executive functioning for children, teens, and adults.
+
+### Text2MindMap - Idea Web Tool
+
+- URL: https://text2mindmap.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function mood tracking directory
+- Found: 2026-06-25
+- Description: Free tool to create simple idea webs by typing ideas into an outline, supporting executive function by visualizing complex information and reducing cognitive load.
+
+### Recall Plus - Mind Mapping & Flashcard Tool
+
+- URL: https://recallplus.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function mood tracking directory
+- Found: 2026-06-25
+- Description: Downloadable tool for organizing notes, creating flashcards, and using 3D mind mapping to support executive function and memory, with a free Lite version available.

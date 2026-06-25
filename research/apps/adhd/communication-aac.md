@@ -168,3 +168,83 @@
 - Query: ADHD conversation support tool
 - Found: 2026-06-24
 - Description: A wearable device that alerts users when it's time to move to the next task, aiding time management and reducing impulsivity during conversations for individuals with ADHD.
+
+### Speech-Generating Applications (SGDs) for Autistic Support
+
+- URL: https://www.themindbydesign.com/blog/technology-tools-that-support-executive-function-skills
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function communication support software
+- Found: 2026-06-25
+- Description: Overview of communication support apps including speech-generating applications and symbol-based systems that help users with executive function deficits express verbal needs and manage social interactions.
+
+### ClickUp - Task Management & Communication Hub
+
+- URL: https://aidecanada.ca/resources/learn/asd-id-core-knowledge/a-self-advocate-s-reflection-on-the-use-of-technology-to-support-executive-functioning
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function communication support software
+- Found: 2026-06-25
+- Description: Task management platform enabling shared documents, chat, and notifications, supporting executive function in organizing communication workflows and collaborative project planning.
+
+### Executive Functions and AAC Connections - AAC INSTITUTE
+
+- URL: https://aacinstitute.org/executive-functions-and-aac-connections/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-06-25
+- Description: Official resource detailing purposeful executive function skill teaching and vocabulary preparation for AAC systems, focusing on neurodivergent support.
+
+### Executive Function Skills and AAC Connections (PDF)
+
+- URL: https://static.sched.com/hosted_files/2025utahassistivetechnology/4f/Utah-%20AAC%20and%20EF%20(2).pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-06-25
+- Description: Educational document serving as a comprehensive checklist for tracking executive function skills and AAC connections in students.
+
+### Executive Function and AAC - Facebook Group Post
+
+- URL: https://www.facebook.com/groups/parenteducatorconnection/posts/24222742634005967/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-06-25
+- Description: Community discussion post featuring a comprehensive AAC Skills Checklist designed to help educators and families track executive function skills.
+
+### Executive Function Specialists Professional Directory
+
+- URL: https://www.efspecialists.com/directory
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-06-25
+- Description: Streamlined directory connecting families with experts in executive function skills development, including psychologists, therapists, and educational consultants.
+
+### Amanda Samperi: Executive Function & AAC Presentation
+
+- URL: https://presenters.aacconference.com/videos/UVRkQk1UZz0=
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-06-25
+- Description: Conference presentation video examining AAC through an executive functioning lens to connect areas of challenge in EF skills.
+
+### People with Aphasia Using AAC: Are Executive Functions Important?
+
+- URL: https://www.tandfonline.com/doi/abs/10.1080/02687038.2016.1258539
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-06-25
+- Description: Research article discussing how impairments in executive functioning interact with the ability to use AAC effectively.

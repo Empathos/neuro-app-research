@@ -168,3 +168,123 @@
 - Query: ADHD environment planning tool
 - Found: 2026-06-24
 - Description: A distraction blocker app designed to help create a focused environment by limiting access to distracting apps and websites during work sessions.
+
+### EPYFEI (EParyFEI) - Executive Function and Sensory Processing Questionnaire
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5876237/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-06-25
+- Description: A 34-item clinical assessment tool with five dimensions (including attention, working memory, sensory processing, and inhibitory control) designed for early detection of neurodevelopmental disorders in children aged 3-11.
+
+### Safe and Sound Program (SSP)
+
+- URL: https://integratedlistening.com/therapeutic-tools/executive-function/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-06-25
+- Description: A multisensory 5-day listening therapy intervention using filtered music to improve autonomic regulation and high-level executive functions like problem-solving, planning, and behavioral control.
+
+### SP-2 and BRIEF-2 Assessment Tools
+
+- URL: https://www.yourtherapysource.com/blog1/2021/04/12/sensory-processing-and-executive-function-skills/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-06-25
+- Description: Validated clinical tools (SP-2 for sensory processing, BRIEF-2 for executive function) that demonstrate a statistically significant predictive relationship between sensory processing and executive functioning.
+
+### Harkla Sensory-Friendly Classroom Tools Guide
+
+- URL: https://harkla.co/blogs/podcast/343-how-sensory-processing-affects-executive-function
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-06-25
+- Description: Practical guide recommending tools like noise-canceling headphones, dimmed lighting, and sensory corners with bean bags to help children achieve a 'rest and digest' state for improved executive functioning.
+
+### Sensory Lifestyle Handbook
+
+- URL: https://www.theottoolbox.com/how-sensory-processing-executive-function-and-emotions-are-connected-in-child-development/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-06-25
+- Description: A guide and resource for creating a lifestyle that supports sensory needs, which directly supports executive functioning and emotional regulation in children.
+
+### BRIEF-2: Behavior Rating Inventory of Executive Function
+
+- URL: https://www.mhs.com/assessment/brief-2
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-06-25
+- Description: Official clinical assessment tool (BRIEF-2) used to identify executive function deficits in children and adults, widely referenced in neurodivergence research for diagnosing overload and dysfunction.
+
+### BDEFS-3: Barkley Deficits in Executive Functioning Scale for Adults
+
+- URL: https://www.mhs.com/assessment/bdefsa-3
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-06-25
+- Description: Official adult self-report and observer-rated scale (BDEFS-3) designed to measure executive function deficits, including overload symptoms, in ADHD and neurodivergent populations.
+
+### ADDitude Executive Function Disorder Resource Guide
+
+- URL: https://www.additudemag.com/what-is-executive-function-disorder/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-06-25
+- Description: Comprehensive public resource directory from ADDitude Magazine offering strategies, tools, and assessments for managing executive function overload in ADHD and autism.
+
+### Cleveland Clinic Executive Dysfunction Overview
+
+- URL: https://my.clevelandclinic.org/health/symptoms/23224-executive-dysfunction
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-06-25
+- Description: Official medical overview from Cleveland Clinic detailing symptoms, causes, and treatment options for executive dysfunction, including overload triggered by neurodevelopmental conditions.
+
+### MindGenius MindMapping Software
+
+- URL: https://www.mindgenius.com/mindmapping
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-06-25
+- Description: Official product page for MindGenius mindmapping tool, a documented repository and app used to structure ideas visually and reduce cognitive load for neurodivergent users.
+
+### Pomodoro Technique Timer Apps Directory
+
+- URL: https://pomofocus.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-06-25
+- Description: Public web-based Pomodoro timer tool and app directory used to manage focus intervals and break tasks, a recommended strategy for reducing executive function overload in neurodivergent adults.
+
+### Self-Determination Program (SDP) California Tools
+
+- URL: https://www.dhs.ca.gov/psd/sdp/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-06-25
+- Description: Official state program page for California's Self-Determination Program, offering access to peer support, coaching, and external tools to manage executive function challenges in neurodivergent individuals.
