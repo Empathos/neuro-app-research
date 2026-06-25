@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-06-24T15:13:35.080466+00:00
-- New findings: 38
+- UTC timestamp: 2026-06-25T16:46:59.122732+00:00
+- New findings: 39
 - Rejected dead links: 11
 
 ## Support Categories
 
 ### communication-aac
 
-- `dyslexia speech support iOS Android`: 3 new finding(s), 4 rejected dead link(s)
-- `dyslexia conversation support tool`: 3 new finding(s), 3 rejected dead link(s)
+- `reading support communication support software`: 8 new finding(s), 0 rejected dead link(s)
+- `reading support AAC directory`: 7 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `dyslexia routine iOS Android`: 6 new finding(s), 0 rejected dead link(s)
-- `dyslexia reminders tool`: 5 new finding(s), 2 rejected dead link(s)
+- `reading support planning software`: 6 new finding(s), 0 rejected dead link(s)
+- `reading support task initiation directory`: 6 new finding(s), 1 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyslexia calming iOS Android`: 1 new finding(s), 0 rejected dead link(s)
-- `dyslexia environment planning tool`: 8 new finding(s), 0 rejected dead link(s)
+- `reading support sensory regulation software`: 2 new finding(s), 5 rejected dead link(s)
+- `reading support overload directory`: 7 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `dyslexia reading support iOS Android`: 2 new finding(s), 2 rejected dead link(s)
-- `dyslexia classroom tool`: 3 new finding(s), 0 rejected dead link(s)
+- `reading support student support software`: 2 new finding(s), 5 rejected dead link(s)
+- `reading support learning support directory`: 1 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyslexia self regulation iOS Android`: 1 new finding(s), 0 rejected dead link(s)
-- `dyslexia coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyslexia life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia home routine tool`: 2 new finding(s), 0 rejected dead link(s)
+- `reading support daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyslexia therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia parent support tool`: 3 new finding(s), 0 rejected dead link(s)
+- `reading support caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyslexia mobile accessibility iOS Android`: 1 new finding(s), 0 rejected dead link(s)
-- `dyslexia adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 

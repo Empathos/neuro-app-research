@@ -148,3 +148,93 @@
 - Query: dyslexia environment planning tool
 - Found: 2026-06-24
 - Description: Resource page from the International Dyslexia Association featuring self-assessment tools for various age groups. These tools provide data to help families and schools plan effective support environments and identify specific needs.
+
+### Breathe, Think, Do with Sesame
+
+- URL: https://apps.apple.com/us/app/breathe-think-do-with-sesame/id828392046
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support sensory regulation software
+- Found: 2026-06-25
+- Description: An interactive app for children aged 2-7 to help manage sensory regulation, emotional control, and problem-solving through guided activities inspired by Sesame Street.
+
+### Helperbird
+
+- URL: https://helperbird.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support sensory regulation software
+- Found: 2026-06-25
+- Description: An advanced reading, writing, and accessibility tool offering features like line focus, color overlays, and text-to-speech to support neurodivergent learners.
+
+### Notebook LM
+
+- URL: https://notebooklm.google.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support overload directory
+- Found: 2026-06-25
+- Description: Official Google AI tool for summarizing articles and generating podcast discussions, useful for neurodivergent readers to reduce information overload by condensing content.
+
+### ChatGPT
+
+- URL: https://chat.openai.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support overload directory
+- Found: 2026-06-25
+- Description: Official OpenAI platform where users can copy/paste articles to request concise summaries (e.g., two paragraphs), aiding neurodivergent individuals in managing reading fatigue.
+
+### Notion
+
+- URL: https://notion.so/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support overload directory
+- Found: 2026-06-25
+- Description: Official all-in-one workspace for organizing resources and reading materials, recommended for neurodivergent users to structure and filter information to prevent overload.
+
+### Second Brain (Phindoc)
+
+- URL: https://secondbrain.phindoc.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support overload directory
+- Found: 2026-06-25
+- Description: Official documentation for a personal knowledge management system that captures and organizes reading insights, helping neurodivergent individuals avoid information overload through structured note-taking.
+
+### Skim Reading Guide (PhDStudent)
+
+- URL: https://phdstudent.com/ask-the-phds/reading-overload/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support overload directory
+- Found: 2026-06-25
+- Description: Public guide on effective skimming techniques for neurodivergent readers, including identifying main purposes and arguments to reduce reading fatigue and overload.
+
+### Multisensory Learning Toolkit (Dyslexia the Gift)
+
+- URL: https://blog.dyslexia.com/information-overload/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support overload directory
+- Found: 2026-06-25
+- Description: Official blog resource on multisensory learning approaches for neurodivergent individuals, emphasizing how combined learning styles mitigate information overload during reading.
+
+### LSAT Reading Comprehension Strategies (PowerScore)
+
+- URL: https://blog.powerscore.com/lsat/bid-308316-reading-comprehension-on-the-lsat-overload-by-design/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support overload directory
+- Found: 2026-06-25
+- Description: Official LSAT prep guide on combating artificially induced reading overload, offering strategies neurodivergent readers can adapt to manage dense text and reduce fatigue.

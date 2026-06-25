@@ -78,3 +78,33 @@
 - Query: dyslexia classroom tool
 - Found: 2026-06-24
 - Description: Generative AI tool for personalized content for neurodivergent students, supporting dyslexia, ADHD, and dyscalculia. Features include emoji cues for dyslexia, Bionic Reading for ADHD, and empathy exercises for neurotypical students. Built with Vue.js, Flask API, and Docker Compose for deployment, promoting inclusion and accessibility in classrooms.
+
+### OrbitNote
+
+- URL: https://orbitnote.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support student support software
+- Found: 2026-06-25
+- Description: Cloud-based reading support tool for students providing text-to-speech, highlighting, vocabulary definitions, and translation features to improve comprehension and accessibility across devices.
+
+### Lexia Core5 Reading
+
+- URL: https://www.lexialearning.com/core5-reading
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support student support software
+- Found: 2026-06-25
+- Description: Personalized reading instruction software for emerging and struggling readers, targeting phonological awareness, phonics, fluency, vocabulary, and comprehension through adaptive, data-driven lessons.
+
+### arxhr007/neurolearn
+
+- URL: https://github.com/arxhr007/neurolearn
+- Source: github-search
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support learning support directory
+- Found: 2026-06-25
+- Description: Adaptive Malayalam AI tutor for neurodivergent learners with personalized learning and mastery tracking.
