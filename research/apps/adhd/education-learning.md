@@ -178,3 +178,133 @@
 - Query: ADHD classroom tool
 - Found: 2026-06-24
 - Description: Guideline resource for educators covering classroom tools, behavioral interventions, environmental modifications, and communication strategies tailored for students with ADHD.
+
+### Evernote
+
+- URL: https://evernote.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-06-25
+- Description: A popular organizational app that allows students to capture notes, images, audio, and scanned documents. It supports synchronization across devices and features search capabilities that recognize text inside files and images.
+
+### Notion
+
+- URL: https://www.notion.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-06-25
+- Description: An all-in-one workspace for students to create comprehensive organizational systems, including notes, assignments, due dates, and project materials. It offers customizable templates and database features for tracking tasks.
+
+### MyHomework Student Planner
+
+- URL: https://www.myhomework.me/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-06-25
+- Description: A task management app specifically designed for students to track homework, assignments, and exams. It integrates with school systems to automatically import assignments and provides reminders for due dates.
+
+### Read&Write
+
+- URL: https://www.texaseralabs.com/read-and-write
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-06-25
+- Description: An assistive technology toolbar that makes websites, documents, and files more accessible. It includes features like text-to-speech, fact-mapping, and visual writing mapping to support students with executive dysfunction.
+
+### Pocket
+
+- URL: https://pocket.me/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-06-25
+- Description: A tool that helps students organize and save content from the web, enabling them to create visual maps and organize facts for better study and retention.
+
+### SMARTS Executive Function Curriculum
+
+- URL: https://smarts-ef.org/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-06-25
+- Description: A research-based curriculum offering lesson plans and activities to help students develop executive function skills, including focus, organization, and self-regulation.
+
+### CHADD ADHD Professional Directory
+
+- URL: https://chadd.org/professional-directory/?organization_type=339&profession=%C2%A4t_page%3D4
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-06-25
+- Description: The official resource directory for finding ADHD professionals and service providers, including those who support executive function learning and neurodivergent students in educational settings.
+
+### ADDitude Executive Functioning Teacher Guide
+
+- URL: https://www.additudemag.com/executive-functioning-adhd-teacher-guide/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-06-25
+- Description: Educator-focused guide and resource hub offering strategies, lesson plans, and classroom tools (e.g., EF posters, timers) to support executive function learning for neurodivergent students.
+
+### Branching Minds Executive Function Toolkit
+
+- URL: https://www.branchingminds.com/blog/executive-function-toolkit
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-06-25
+- Description: A repository of educational strategies, templates, and checklists designed to build routines, organization skills, and self-regulation for students with executive function challenges.
+
+### Life Skills Advocate Executive Functioning 101 Resource Hub
+
+- URL: https://lifeskillsadvocate.com/executive-functioning-101-hub/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-06-25
+- Description: A free collection of strategies, toolkits, and resources to help learners and educators take meaningful action toward improved executive functioning and independent learning skills.
+
+### Your Therapy Source List of Executive Functions
+
+- URL: https://www.yourtherapysource.com/blog1/2022/12/29/list-of-executive-functions/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-06-25
+- Description: Detailed resource listing core executive function skills (e.g., working memory, inhibition, emotional regulation) and providing practical strategies for therapists and educators to support learning development.
+
+### Seth Perler Executive Function Support Group
+
+- URL: https://www.facebook.com/groups/161633793871234/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-06-25
+- Description: A community group for parents, teachers, tutors, and therapists to share leads, resources, and strategies for supporting neurodivergent children with executive function and learning challenges.
+
+### Therapist Washington DC Executive Functioning Strategies
+
+- URL: https://thesibleygroupdc.com/executive-functioning-top-10-strategies/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-06-25
+- Description: Clinical guide offering top 10 actionable strategies for improving executive functioning, including planning systems, time management tools, and accountability methods for students and learners.
