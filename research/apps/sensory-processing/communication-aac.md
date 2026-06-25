@@ -118,3 +118,103 @@
 - Query: sensory processing conversation support tool
 - Found: 2026-06-24
 - Description: A collection of free, open-access resources aimed at helping individuals better understand sensory processing differences and access tools for improving social communication and self-regulation.
+
+### Zones of Regulation
+
+- URL: https://zoneregulation.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation communication support software
+- Found: 2026-06-25
+- Description: A software tool focused on emotional and sensory regulation skills, helping neurodivergent children understand and manage emotions to improve social interaction.
+
+### Social Express II
+
+- URL: https://thesocialexpress.com/product/the-social-express-2
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation communication support software
+- Found: 2026-06-25
+- Description: Software focused on building social skills and recognizing social cues through interactive modules, supporting communication development in neurodivergent individuals.
+
+### Grid Player (AAC)
+
+- URL: https://gridplayer.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation communication support software
+- Found: 2026-06-25
+- Description: An AAC app enabling individuals with unclear speech or nonverbal users to communicate using symbols, images, and voice output for effective communication support.
+
+### MITA (Mental Imagery Therapy for Autism)
+
+- URL: https://mitaapp.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation communication support software
+- Found: 2026-06-25
+- Description: A language and visual-spatial therapy app offering exercises with clinical benefits to support language development and communication in individuals with ASD.
+
+### Tech Check Directory
+
+- URL: https://aac-tech-plus.com/helping-your-child-navigate-sensory-overload-with-aac/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation AAC directory
+- Found: 2026-06-25
+- Description: A public guide offering practical strategies for personalized vocabulary and calm-moment AAC use to help children navigate sensory overload.
+
+### Austm Sensory Regulation Resources
+
+- URL: https://ausm.org/ausm-resources/sensory-regulation-resources/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation AAC directory
+- Found: 2026-06-25
+- Description: Autism Society of Minnesota resource page detailing sensory systems, supports for regulation, and interactive tools like the Sensory Schedule.
+
+### WeBearish Autism Tools and Apps Directory
+
+- URL: https://webearish.com/tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation AAC directory
+- Found: 2026-06-25
+- Description: A curated directory of tools, apps, and devices for neurodivergent people, covering AAC, sensory regulation, scheduling, and social stories.
+
+### Etsy Sensory Needs Communication Board
+
+- URL: https://www.etsy.com/listing/4356680525/sensory-communication-board-autism
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation AAC directory
+- Found: 2026-06-25
+- Description: A practical low-tech AAC core communication board designed to support emotional regulation during sensory overwhelm.
+
+### The Power of Multisensory Spaces for AAC
+
+- URL: https://themultisensoryblog.com/the-power-of-multisensory-spaces-for-aac-users-enhancing-communication/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation AAC directory
+- Found: 2026-06-25
+- Description: Research article detailing therapeutic benefits of multisensory environments for AAC users, including enhanced sensory regulation.
+
+### Affect Autism AAC Devices
+
+- URL: https://affectautism.com/2021/05/29/aacqs/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation AAC directory
+- Found: 2026-06-25
+- Description: Resource page discussing AAC devices and their role in supporting regulation and individual differences in neurodivergent individuals.
