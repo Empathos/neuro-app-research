@@ -28,3 +28,13 @@
 - Query: neurodivergent student support app
 - Found: 2026-06-20
 - Description: Microsofts talking camera app that reads text and describes objects, useful for students who need accessible reading support.
+
+### adrianwedd/ADHDo
+
+- URL: https://github.com/adrianwedd/ADHDo
+- Source: github-search
+- Condition: general
+- Support category: education-learning
+- Query: neurodiversity student support software
+- Found: 2026-06-25
+- Description:  Neurodiversity-affirming AI assistant for ADHD executive function support. Features crisis detection, circuit breaker psychology, and local-first processing.

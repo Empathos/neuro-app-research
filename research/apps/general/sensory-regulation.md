@@ -158,3 +158,103 @@
 - Query: neurodivergent environment planning tool
 - Found: 2026-06-24
 - Description: A UK-based toolkit outlining 7 key principles for engaging neurodiverse populations in planning and design processes, with resources for inclusive environment planning.
+
+### Tiimo App  Sensory Processing Difficulties Resource Hub
+
+- URL: https://www.tiimoapp.com/resource-hub/sensory-processing-difficulties
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity sensory regulation software
+- Found: 2026-06-25
+- Description: Documentation page explaining how Tiimo's visual tools and planning features help neurodivergent users manage sensory processing challenges and regulate arousal levels.
+
+### The Alert Program  Self-Regulation Strategies
+
+- URL: https://www.alertprogram.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity sensory regulation software
+- Found: 2026-06-25
+- Description: Official site for The Alert Program, offering structured programs and digital tools to teach self-awareness and self-regulation, beneficial for autism and ADHD sensory needs.
+
+### Neurodivergent Insights  Sensory Regulation Toolkit
+
+- URL: https://neurodivergentinsights.com/the-power-of-sensory-regulation/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity sensory regulation software
+- Found: 2026-06-25
+- Description: Public article and toolkit with free strategies for sensory safety plans, environment modification, and mindfulness tools to support emotional well-being through regulation.
+
+### Neurodivergent Insights - Navigating Sensory Issues
+
+- URL: https://neurodivergentinsights.com/sensory-issues-in-adults/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity overload directory
+- Found: 2026-06-25
+- Description: Research and guides on exploring sensory profiles, identifying triggers and soothers, and managing sensory overload in ADHD and Autistic adult populations.
+
+### Neurodivergent Insights - Sensory Overload Survival Kit
+
+- URL: https://www.youtube.com/watch?v=erC-49ipr0U
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity overload directory
+- Found: 2026-06-25
+- Description: A practical video guide presenting a 5-tool sensory overload kit for neurodivergent adults, including anchor objects, visual input reduction, and grounding techniques.
+
+### Autentik AI - 43 Digital Tools for Neurodivergents
+
+- URL: https://www.autentik.ai/blog/digital-tools-for-neurodivergents
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity overload directory
+- Found: 2026-06-25
+- Description: A curated repository of 43 science-based apps and tools for autistic individuals and ADHDers, covering sensory management, information retrieval, and predictability.
+
+### NHS Dorset - Autism and ADHD Resources
+
+- URL: https://neurodiversity.directory/neurodiversity-statistics/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity overload directory
+- Found: 2026-06-25
+- Description: Official resource directory providing links to helpful tools, sensory guides, and cards from organizations like the National Autistic Society and Ambitious About Autism.
+
+### PMC - Sensory Experiences of Autistic Adults
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10726197/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity overload directory
+- Found: 2026-06-25
+- Description: Peer-reviewed study identifying key principles (Sensoryscape, Space, Predictability) that underlie disabling or enabling sensory environments in public spaces.
+
+### Helpful Resources - Neurodiversity (NHS Dorset)
+
+- URL: https://www.neurodiverseonline.com/managing-sensory-overload-as-a-neurodivergent-adult/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity overload directory
+- Found: 2026-06-25
+- Description: A collection of practical guides and app recommendations for managing sensory overload, including strategies for public transport and social gatherings.
+
+### Elym's Special Services - Sensory Toolkit Tips
+
+- URL: https://www.elmysspecialservices.org/blog/navigating-sensory-overload-in-public-spaces-practical-tips-for-special-needs-caregivers
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity overload directory
+- Found: 2026-06-25
+- Description: Practical tips for caregivers on navigating sensory overload in public spaces, featuring a recommended sensory toolkit with noise-canceling headphones and comforting objects.

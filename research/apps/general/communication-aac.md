@@ -148,3 +148,123 @@
 - Query: neurodivergent conversation support tool
 - Found: 2026-06-24
 - Description: A browser and mobile app that reads websites, PDFs, and images aloud, supporting users with ADHD or dyslexia to process written conversation material more effectively.
+
+### Dragon NaturallySpeaking - Speech-to-Text Software
+
+- URL: https://www.nuance.com/dragon/naturally-speaking.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity communication support software
+- Found: 2026-06-25
+- Description: Industry-leading speech-to-text software with high accuracy for dictation, supporting British English and integrating with Microsoft Office for neurodivergent communication needs.
+
+### Microsoft Dictate - Free Dictation Tool
+
+- URL: https://www.microsoft.com/en-us/microsoft-365/word/word-dictate
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity communication support software
+- Found: 2026-06-25
+- Description: Free dictation tool within Microsoft 365, suitable for basic speech-to-text needs with cloud-based functionality, ideal for users with dyslexia or speech difficulties.
+
+### Proloquo - AAC and Communication Solutions
+
+- URL: https://www.assistiveware.com/communication
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity communication support software
+- Found: 2026-06-25
+- Description: Comprehensive resource for AAC apps and communication tools supporting autistic, non-speaking, and minimally verbal individuals in educational and workplace settings.
+
+### Assistive Technology Guide - Communication Aids
+
+- URL: https://callingallminds.com/resources/assistive-technology-guide/communication-aids
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity communication support software
+- Found: 2026-06-25
+- Description: Curated list of communication aids such as speech-to-text, text-to-speech, and AAC tools vital for neurodiverse individuals expressing themselves and engaging in workplace or educational settings.
+
+### Therapist Neurodiversity Collective Directory
+
+- URL: https://therapistndc.org/therapist-directory/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: A vetted directory of trauma-informed, neurodiversity-affirming therapists specializing in AAC and communication support.
+
+### Neurodivergent Insights NDI Directory
+
+- URL: https://neurodivergentinsights.com/ndi-directory/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: Curated list of neurodivergent-affirming therapists, coaches, and AAC specialists with tag-based filtering for precise searches.
+
+### Neuroaffirm Global Directory
+
+- URL: https://www.neuroaffirm.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: Global search platform for neurodiversity-affirming care providers, including AAC specialists and neurodivergent support experts.
+
+### Neurodivergent Practitioner Directory
+
+- URL: https://neurodivergentpractitioners.org
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: Worldwide directory of neurodiversity-affirming therapists, psychologists, and AAC support professionals.
+
+### Augmentative and Alternative Communication (AAC) Resources
+
+- URL: https://therapistndc.org/therapy/aac/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: Official resource hub from the Therapist Neurodiversity Collective advocating for improved AAC quality in neurodivergent populations.
+
+### AWC and Neurodiversity Blog
+
+- URL: https://nwacs.info/aac/topics/neurodiversity/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: Collection of blogs, videos, and TED Talks featuring neurodivergent voices and AAC users' experiences.
+
+### Neurodiversity Affirming Practices with AAC Use
+
+- URL: https://www.speechtherapypd.com/courses/neurodiversity-affirming-practices-with-aac-use
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: Educational course listing strategies to integrate neurodiversity into pediatric AAC practices and support caregivers.
+
+### AAC Neurodiversity Webinar
+
+- URL: https://www.youtube.com/watch?v=sgCgQQMXeis
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity AAC directory
+- Found: 2026-06-25
+- Description: Video episode dedicated to understanding neurodiversity-affirming practices with AAC use, featuring Dr. Allison Bean.

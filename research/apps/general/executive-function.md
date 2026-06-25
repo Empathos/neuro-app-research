@@ -88,3 +88,103 @@
 - Query: neurodivergent reminders tool
 - Found: 2026-06-24
 - Description: A science-based app for ADHD management, helping users build skills, track tasks, and set reminders to improve daily organization and focus.
+
+### Notion - Neurodivergent-Friendly Organization Platform
+
+- URL: https://notion.so/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity planning software
+- Found: 2026-06-25
+- Description: Notion is a platform that reduces stress and enhances organization, especially for individuals with ADHD, offering customizable workspaces and visual planning tools.
+
+### Microsoft Accessibility Tools for Neurodiversity
+
+- URL: https://support.microsoft.com/en-us/accessibility/accessibility-tools-for-neurodiversity
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity planning software
+- Found: 2026-06-25
+- Description: Official Microsoft documentation listing accessibility tools for Windows and 365 designed to support neurodiversity, including text-to-speech, voice typing, and focus helpers.
+
+### The Ultimate ADHD Life Planner
+
+- URL: https://www.lifeplanccony.com/new-resource-tools-and-community-for-autism-and-neurodiversity/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity planning software
+- Found: 2026-06-25
+- Description: A specialized planner designed to transform approaches to tasks for neurodivergent individuals, focusing on energy-based organization and routine building.
+
+### Etsy Neurodivergent Planners Collection
+
+- URL: https://www.etsy.com/market/neurodivergent_planner
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity planning software
+- Found: 2026-06-25
+- Description: A curated collection of thoughtful neurodivergent planners designed for unique needs, including ADHD and autism-friendly organizers with energy-based tracking.
+
+### Fathom - AI Meeting Assistant for Neurodivergent Teams
+
+- URL: https://fathom.ai/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity planning software
+- Found: 2026-06-25
+- Description: Fathom is a free AI tool that records and transcribes Zoom meetings, enabling active listening without the distraction of note-taking for neurodivergent professionals.
+
+### The OT Toolbox - Task Initiation Strategies Directory
+
+- URL: https://www.theottoolbox.com/task-initiation-executive-functioning-strategies/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity task initiation directory
+- Found: 2026-06-25
+- Description: A curated directory of evidence-based task initiation strategies and executive functioning tips for neurodivergent children and adults.
+
+### Time Timer - Product for Task Initiation
+
+- URL: https://www.timetimer.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity task initiation directory
+- Found: 2026-06-25
+- Description: Official product page for the Time Timer, a visual timer widely recommended in neurodiversity directories to help users start and manage tasks.
+
+### Trello - Visual Task Management Repository
+
+- URL: https://www.trello.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity task initiation directory
+- Found: 2026-06-25
+- Description: Official documentation for Trello, a visual repository tool used to break down projects and create checklists for easier task initiation.
+
+### ADHD Cooperative - Task Initiation Toolkit
+
+- URL: https://ot4adhd.com/2022/10/18/task-initiation-and-adhd-strategies-and-support-for-getting-started/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity task initiation directory
+- Found: 2026-06-25
+- Description: A toolkit from the ADHD Cooperative offering interactive checklists, countdowns, and timer strategies supported by therapists.
+
+### Stanford CTL - Getting Started on Tasks
+
+- URL: https://ctl.stanford.edu/students/getting-started-tasks
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity task initiation directory
+- Found: 2026-06-25
+- Description: Official Stanford Center for Teaching and Learning guide providing strategies for neurodiverse students to overcome executive functioning challenges in task initiation.
