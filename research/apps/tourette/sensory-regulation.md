@@ -108,3 +108,73 @@
 - Query: Tourette environment planning tool
 - Found: 2026-06-24
 - Description: Research on digital tools for adults with Tourette syndrome, emphasizing the need for user-centered environment planning tools to improve tic management.
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/us/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking sensory regulation software
+- Found: 2026-06-25
+- Description: Official Apple App Store page for TicTracker, the #1 comprehensive tic tracking and Tourette management app for families to monitor tic frequency and patterns.
+
+### Ouva: Top Autism & ABA Therapy Apps and Digital Tools 2026
+
+- URL: https://ouva.co/blog/top-autism-aba-therapy-apps-digital-tools-2026
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking sensory regulation software
+- Found: 2026-06-25
+- Description: Curated blog post listing digital tools, AAC solutions, and interactive sensory environments for autism and ABA therapy, including tic tracking resources.
+
+### Tic Journal - Track & Control
+
+- URL: https://apps.apple.com/sk/app/tic-journal-track-control/id6739474061
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking overload directory
+- Found: 2026-06-25
+- Description: Official Apple App Store page for Tic Journal, a mobile app designed to track and understand tics, manage triggers, and identify patterns for individuals with Tourette's syndrome.
+
+### Tic Tracking Overload Research
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/34980561/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking overload directory
+- Found: 2026-06-25
+- Description: PubMed article titled 'Are we on the right track in tracking tics?' discussing methodologies for tic tracking, including considerations for sensory overload and directory-based data collection.
+
+### Tourette Syndrome and Chronic Tic Disorder
+
+- URL: https://mghocd.org/tics/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking overload directory
+- Found: 2026-06-25
+- Description: Official Massachusetts General Hospital page on tic disorders, covering HRT therapy, medication options, and strategies for managing sensory overload in patients with Tourette's.
+
+### Tic Disorders and Tourette Syndrome - CDC
+
+- URL: https://www.cdc.gov/tourette-syndrome/diagnosis/index.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking overload directory
+- Found: 2026-06-25
+- Description: CDC official guide on diagnosing tic disorders, including definitions of TS, persistent tic disorder, and provisional tic disorder, with resources for managing overload and comorbidities.
+
+### Understanding Tic Patterns and Triggers
+
+- URL: https://three23therapy.com/2025/10/01/understanding-tic-patterns-and-triggers/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking overload directory
+- Found: 2026-06-25
+- Description: Therapy blog article explaining how sensory overload from noise, lights, or crowded spaces triggers tics, with insights on pattern recognition for overload management.

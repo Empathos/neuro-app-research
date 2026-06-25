@@ -168,3 +168,123 @@
 - Query: Tourette conversation support tool
 - Found: 2026-06-24
 - Description: Overview of assistive tools like text-to-speech and recording devices that aid individuals with tics in communication, note-taking, and participating in conversations more effectively.
+
+### AAC Apps & Software for Eye Tracking  Tobii Dynavox
+
+- URL: https://www.tobiidynavox.com/collections/apps-software
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking communication support software
+- Found: 2026-06-25
+- Description: Official repository of AAC (augmentative and alternative communication) apps and software supporting eye tracking and eye gaze for neurodivergent users.
+
+### QuickTalker Freestyle Eye Tracking Setup  AbleNet Documentation
+
+- URL: https://support.ablenetinc.com/quicktalker-freestyle/eye-tracking-or-eye-gaze-for-aac
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking communication support software
+- Found: 2026-06-25
+- Description: Official documentation for configuring eye tracking on the QuickTalker Freestyle iPad app for AAC communication.
+
+### Eyetell Eye Tracking Communication App  Facebook Announcement
+
+- URL: https://www.facebook.com/groups/ATMakers/posts/794431437634964
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking communication support software
+- Found: 2026-06-25
+- Description: Community-shared announcement of the Eyetell app, an eye-tracking enabled communication tool for regular iPads.
+
+### Ava's Communication Journey with Eye Tracking  Tobii Dynavox Video
+
+- URL: https://www.facebook.com/TobiiDynavox/videos/avas-communication-journey-with-eye-tracking/10156254009374849
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking communication support software
+- Found: 2026-06-25
+- Description: Official video demonstrating eye tracking communication using Tobii Dynavox Snap + Core First software for a child with Rett Syndrome.
+
+### 10 Free Eye Tracking Software Programs  iMotions
+
+- URL: https://imotions.com/blog/insights/trend/free-eye-tracking-software
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking communication support software
+- Found: 2026-06-25
+- Description: Curated list of free eye tracking software tools that may support communication or assistive technology needs, with pros and cons.
+
+### Smartbox US (formerly Talk To Me)  Communication Solutions
+
+- URL: https://www.talktometechnologies.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking communication support software
+- Found: 2026-06-25
+- Description: Official site for Smartbox US, offering communication and literacy support tools for students with diverse needs, including neurodivergent learners.
+
+### Forbes AAC - Augmentative Alternative Communications
+
+- URL: https://www.forbesaac.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking AAC directory
+- Found: 2026-06-25
+- Description: Leading provider of AAC devices with expert clinicians to help find the best fit, offering customized solutions for individuals with tic disorders.
+
+### QuickTalker Freestyle Eye Tracking Settings
+
+- URL: https://support.ablenetinc.com/quicktalker-freestyle/eye-tracking-or-eye-gaze-for-aac/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking AAC directory
+- Found: 2026-06-25
+- Description: Documentation guide enabling eye tracking on QuickTalker Freestyle for AAC, showing how to control speech-generating devices with eye movements.
+
+### Eye Tracking Archives - NWACS
+
+- URL: https://nwacs.info/resources/systems/aac-at-companies/eye-tracking/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking AAC directory
+- Found: 2026-06-25
+- Description: Comprehensive list of companies providing devices that allow operation of technology (such as AAC systems) by tracking eye movement.
+
+### Tic Disorders and AAC Tools - TikTok
+
+- URL: https://www.tiktok.com/@allaccesslife/video/7564059057577905464
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking AAC directory
+- Found: 2026-06-25
+- Description: Video showcasing top AAC tools for effective communication, highlighting eye tracking communication tools and assistive devices relevant to tic disorders.
+
+### Waisman Center Communication Aids for AAC
+
+- URL: https://www.waisman.wisc.edu/2026/06/03/typing-tapping-and-eye-gaze-tracking-augmentative-and-alternative-communication-provides-crucial-access-to-communication-when-speech-is-out-of-reach/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking AAC directory
+- Found: 2026-06-25
+- Description: Educational resource on AAC methods including eye-gaze tracking, providing accessible tools for individuals without needing a clinician or specialty clinic.
+
+### Tobii Dynavox - Eye Tracking for AAC
+
+- URL: https://www.tobiidynavox.com/pages/what-is-eye-tracking
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking AAC directory
+- Found: 2026-06-25
+- Description: Official page explaining how eye tracking-enabled speech generating devices empower communication for people with conditions like MND and cerebral palsy, applicable to tic disorders.

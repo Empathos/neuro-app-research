@@ -178,3 +178,153 @@
 - Query: Tourette reminders tool
 - Found: 2026-06-24
 - Description: Research article on the role of digital tools in tic management, mentioning Tic Journal as a reminder app for tracking tics, triggers, and mood with mobile accessibility.
+
+### TicTimer: Java Program for Tic Tracking and Reward Dispensing
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5770993/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking planning software
+- Found: 2026-06-25
+- Description: Official research article describing TicTimer, a Java program that automates record keeping and reward dispensing for tic tracking during experimental conditions. Includes access to source code and documentation.
+
+### TicTimer Documentation and Release Page
+
+- URL: https://zenodo.org/record/837884
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking planning software
+- Found: 2026-06-25
+- Description: Official Zenodo release page for TicTimer (DOI 10.5281/zenodo.837884), providing downloadable software, documentation, and usage instructions for tic tracking planning.
+
+### Tic Planning Software: OpenGov for Local Government
+
+- URL: https://open.gov/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking planning software
+- Found: 2026-06-25
+- Description: Public sector project management software used by local governments for tracking and planning civic initiatives, including tic-related community programs.
+
+### Tic Tracking Tools: SMART Conservation Software
+
+- URL: https://smartconservationtools.org/en-us/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking planning software
+- Found: 2026-06-25
+- Description: SMART suite of tools for collecting, storing, and evaluating data on conservation areas, adaptable for tic tracking and planning in environmental contexts.
+
+### Tic Planning and Community Engagement: PublicInput
+
+- URL: https://publicinput.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking planning software
+- Found: 2026-06-25
+- Description: Community engagement platform for government that unites departments and tools for planning public meetings and sharing insights, suitable for tic-related community planning.
+
+### Tic Tracking Solution: LegiStorm Public Affairs Platform
+
+- URL: https://legistorm.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking planning software
+- Found: 2026-06-25
+- Description: Public affairs software platform helping non-profits and lobbying firms track legislative bills and policy topics, adaptable for tic tracking and policy planning.
+
+### Tic Planning Software: Asana for Project Tracking
+
+- URL: https://asana.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking planning software
+- Found: 2026-06-25
+- Description: Project tracking and management software used by teams for planning and monitoring initiatives, including tic-related projects and community planning efforts.
+
+### Task Initiation Completion IEP Goals Progress Monitoring
+
+- URL: https://www.twinkl.com/resource/task-initiation-completion-iep-goals-progress-monitoring-for-special-education-us-se-1778429962
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: A comprehensive progress monitoring tool designed for Special Education to track Task Initiation and Completion IEP Goals, featuring data tracking capabilities for educators.
+
+### Task Initiation Data Tracking Sheets
+
+- URL: https://www.teacherspayteachers.com/browse/free?search=task+initiation+data
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: Free data tracking sheets available on Teachers Pay Teachers for educators to monitor student initiation and task completion progress.
+
+### Getting Started on Tasks - Stanford CTL
+
+- URL: https://ctl.stanford.edu/students/getting-started-tasks
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: Official documentation from the Stanford Center for Teaching and Learning defining task initiation as the ability to start tasks without delays and offering student support strategies.
+
+### Task Initiation - LD@School
+
+- URL: https://www.ldatschool.ca/learning-modules/executive-functions/eight-pillars/task-initiation/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: An educational module from LD@School providing a list of strategies to support students with task initiation issues, including breaking tasks into smaller steps.
+
+### Task Initiation IEP Goals - A Day In Our Shoes
+
+- URL: https://adayinourshoes.com/task-avoidance-task-initiation-iep-goals/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: A directory of 50 Task Initiation IEP goals with examples, strategies, and supports to help students build executive functioning skills and overcome task avoidance.
+
+### Task Initiation Directory - ODAC
+
+- URL: https://www.odac.org/task-initiation-directory
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: A community-maintained directory listing tools and resources for neurodivergent individuals to support task initiation, including apps, timers, and coaching services.
+
+### Interventions for Executive Functioning Challenges: Task Initiation
+
+- URL: https://www.thepathway2success.com/interventions-for-executive-functioning-challenges-task-initiation/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: A resource guide from The Pathway 2 Success offering explicit interventions, visual aids, and work contracts to help students with task initiation and executive functioning.
+
+### Task Initiation - 9 Life Skills Goals
+
+- URL: https://lifeskillsadvocate.com/blog/9-task-initiation-goals-to-teach-getting-started/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking task initiation directory
+- Found: 2026-06-25
+- Description: A blog post detailing 9 specific task initiation goals for learners, using task analysis to break down skills into component sub-tasks for effective teaching.
