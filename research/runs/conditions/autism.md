@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-06-24T15:13:29.803172+00:00
-- New findings: 55
-- Rejected dead links: 13
+- UTC timestamp: 2026-06-25T16:46:52.890339+00:00
+- New findings: 39
+- Rejected dead links: 9
 
 ## Support Categories
 
 ### communication-aac
 
-- `autism speech support iOS Android`: 1 new finding(s), 6 rejected dead link(s)
-- `autism conversation support tool`: 7 new finding(s), 0 rejected dead link(s)
+- `autistic communication support software`: 7 new finding(s), 1 rejected dead link(s)
+- `autistic AAC directory`: 7 new finding(s), 1 rejected dead link(s)
 
 ### executive-function
 
-- `autism routine iOS Android`: 5 new finding(s), 0 rejected dead link(s)
-- `autism reminders tool`: 6 new finding(s), 1 rejected dead link(s)
+- `autistic planning software`: 7 new finding(s), 0 rejected dead link(s)
+- `autistic task initiation directory`: 8 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autism calming iOS Android`: 2 new finding(s), 5 rejected dead link(s)
-- `autism environment planning tool`: 7 new finding(s), 0 rejected dead link(s)
+- `autistic sensory regulation software`: 2 new finding(s), 0 rejected dead link(s)
+- `autistic overload directory`: 6 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autism reading support iOS Android`: 7 new finding(s), 0 rejected dead link(s)
-- `autism classroom tool`: 8 new finding(s), 0 rejected dead link(s)
+- `autistic student support software`: 0 new finding(s), 7 rejected dead link(s)
+- `autistic learning support directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autism self regulation iOS Android`: 5 new finding(s), 1 rejected dead link(s)
-- `autism coping skills tool`: 1 new finding(s), 0 rejected dead link(s)
+- `autistic emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `autism life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `autism home routine tool`: 2 new finding(s), 0 rejected dead link(s)
+- `autistic daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic independence directory`: 1 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autism therapy support iOS Android`: 1 new finding(s), 0 rejected dead link(s)
-- `autism parent support tool`: 2 new finding(s), 0 rejected dead link(s)
+- `autistic caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autism mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `autism adaptive tool`: 1 new finding(s), 0 rejected dead link(s)
+- `autistic assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic accessibility directory`: 1 new finding(s), 0 rejected dead link(s)
 

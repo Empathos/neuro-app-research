@@ -148,3 +148,153 @@
 - Query: autism reminders tool
 - Found: 2026-06-24
 - Description: Official documentation for Tiimo explaining how to configure visual schedules, set recurring reminders, and customize notifications to support daily routines for users with autism spectrum disorders.
+
+### Picto Selector
+
+- URL: https://www.picto-selector.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic planning software
+- Found: 2026-06-25
+- Description: A free Windows AAC and visual planning tool created by Martijn Van Der Kooij for his autistic son, featuring over 34,000 symbols for building daily routines and schedules.
+
+### Choiceworks
+
+- URL: https://www.betterbuddies.com/choiceworks/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic planning software
+- Found: 2026-06-25
+- Description: An iPad-based visual schedule builder with schedule boards, waiting boards, and feelings boards, offering customizable photos and audio to support routines for autistic children and adults.
+
+### First Then Visual Schedule HD
+
+- URL: https://www.betterbuddies.com/firstthen/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic planning software
+- Found: 2026-06-25
+- Description: A flexible iOS app for power users supporting multi-step visual schedules, task analysis, social stories, and video models tailored for step-by-step daily living activities.
+
+### Visual Schedule Planner by Good Karma Apps
+
+- URL: https://www.goodkarmaapps.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic planning software
+- Found: 2026-06-25
+- Description: A comprehensive iOS calendar-style planner with daily, weekly, and monthly views, featuring custom images, timers, checklists, and reminders for structured day planning.
+
+### Lil Planner: Visual Schedule
+
+- URL: https://lilplanner.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic planning software
+- Found: 2026-06-25
+- Description: A modern, user-friendly iPad app designed for ADHD and autism, offering quick visual routines with big clear icons and easy voice-free setup for simple routine boards.
+
+### Notion
+
+- URL: https://www.notion.so/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic planning software
+- Found: 2026-06-25
+- Description: A flexible digital workspace that can be customized into a planner, habit tracker, or journal, ideal for users needing full customization in their planning software.
+
+### Done - Habit Tracker
+
+- URL: https://www.doneapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic planning software
+- Found: 2026-06-25
+- Description: A customizable habit tracking app that allows monitoring of habits to start, stop, or change, supporting executive function and routine building for neurodivergent individuals.
+
+### Actify ABA: Task Initiation Strategies for Autism
+
+- URL: https://actifyaba.com/how-to-support-task-initiation-in-autism-with-practical-tips/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: A comprehensive guide detailing practical task initiation strategies for autistic individuals, including breaking tasks into small steps, using visual supports, and establishing consistent routines.
+
+### The OT Toolbox: Task Initiation Executive Functioning Strategies
+
+- URL: https://www.theottoolbox.com/task-initiation-executive-functioning-strategies/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: An occupational therapy resource offering 15+ actionable strategies for kids and adults to improve task initiation, such as mini-goals, habit trackers, and visual schedules.
+
+### Mindful Care Therapy: Task Initiation Strategies for Adults with ADHD
+
+- URL: https://www.mindfulcaretherapy.com/blog/task-initiation-strategies-adults-adhd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: A guide focused on neurodivergent adults, covering techniques like the 5-minute rule, Pomodoro technique, and dopamine stacking to overcome task initiation barriers.
+
+### Dan Marino Foundation: Autism and Executive Functioning
+
+- URL: https://danmarinofoundation.org/autism-executive-functioning-why-daily-tasks-feel-overwhelming/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: An informational resource explaining why tasks feel overwhelming in autism, offering tools like checklists, visual schedules, and step cards to support task initiation.
+
+### TTAC ODU: Executive Functioning Skills and Autism (Part I)
+
+- URL: https://ttac.odu.edu/autism/executive-functioning-skills-task-initiation-and-autism-part-i/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: A teaching resource providing strategies for students with autism, including circling easiest tasks to build momentum and using experience points (XP) for motivation.
+
+### AuDHDBoss: Prioritizing Tasks with ADHD & Autism (YouTube)
+
+- URL: https://www.youtube.com/watch?v=RckbBPW0_pk
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: A video tutorial demonstrating how to break down big-picture tasks into smaller steps and prioritize them specifically for neurodivergent individuals struggling with initiation.
+
+### BPS Psychologist: Executive Functioning in Autism and ADHD
+
+- URL: https://www.bps.org.uk/psychologist/executive-functioning-autism-and-adhd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: A professional overview defining task initiation and task switching difficulties in autism and ADHD, providing a clinical context for support research.
+
+### PMC: Response Initiation Difficulties in Autism
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9548610/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic task initiation directory
+- Found: 2026-06-25
+- Description: A peer-reviewed study analyzing the contributions of response initiation difficulties to inhibitory control deficits in autism, offering evidence-based insights for directory research.

@@ -68,3 +68,13 @@
 - Query: autism home routine tool
 - Found: 2026-06-24
 - Description: Web/app tool that analyzes student inputs (voice, text, drawings via camera) with AI to adapt lessons in real-timee.g., converting text to visual mindmaps for dyslexic users or simplifying concepts with gamified audio for ADHDtailored to individual neurodiverse profiles.
+
+### navishjindal/Omoi
+
+- URL: https://github.com/navishjindal/Omoi
+- Source: github-search
+- Condition: autism
+- Support category: daily-living
+- Query: autistic independence directory
+- Found: 2026-06-25
+- Description: Omoi is a next-generation Augmentative and Alternative Communication (AAC) platform designed to empower non-verbal autistic individuals. By combining traditional symbol-based communication with multimodal AI, Amplify bridges the gap between intent, raw vocalization, and clear, natural speech.
