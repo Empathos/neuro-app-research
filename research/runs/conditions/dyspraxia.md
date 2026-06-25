@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-06-24T15:13:23.345308+00:00
-- New findings: 27
-- Rejected dead links: 16
+- UTC timestamp: 2026-06-25T16:46:56.601797+00:00
+- New findings: 49
+- Rejected dead links: 6
 
 ## Support Categories
 
 ### communication-aac
 
-- `dyspraxia speech support iOS Android`: 4 new finding(s), 0 rejected dead link(s)
-- `dyspraxia conversation support tool`: 6 new finding(s), 0 rejected dead link(s)
+- `motor planning communication support software`: 6 new finding(s), 1 rejected dead link(s)
+- `motor planning AAC directory`: 6 new finding(s), 1 rejected dead link(s)
 
 ### executive-function
 
-- `dyspraxia routine iOS Android`: 3 new finding(s), 4 rejected dead link(s)
-- `dyspraxia reminders tool`: 4 new finding(s), 3 rejected dead link(s)
+- `motor planning planning software`: 3 new finding(s), 0 rejected dead link(s)
+- `motor planning task initiation directory`: 7 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyspraxia calming iOS Android`: 2 new finding(s), 6 rejected dead link(s)
-- `dyspraxia environment planning tool`: 4 new finding(s), 0 rejected dead link(s)
+- `motor planning sensory regulation software`: 6 new finding(s), 0 rejected dead link(s)
+- `motor planning overload directory`: 7 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `dyspraxia reading support iOS Android`: 3 new finding(s), 3 rejected dead link(s)
-- `dyspraxia classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning student support software`: 5 new finding(s), 1 rejected dead link(s)
+- `motor planning learning support directory`: 3 new finding(s), 3 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyspraxia self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning emotional regulation software`: 6 new finding(s), 0 rejected dead link(s)
+- `motor planning mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyspraxia life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyspraxia clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia parent support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyspraxia mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia adaptive tool`: 1 new finding(s), 0 rejected dead link(s)
+- `motor planning assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 
