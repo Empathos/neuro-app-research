@@ -177,3 +177,93 @@
 - Query: executive function conversation support tool
 - Found: 2026-06-24
 - Description: A focus sound app that enhances concentration, indirectly supporting better conversation readiness and executive function by reducing cognitive load.
+
+### Pictalk Buddy: Routine & AAC
+
+- URL: https://play.google.com/store/apps/details?id=org.pictime.application.twa&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine communication support software
+- Found: 2026-06-25
+- Description: Customizable app designed for children and adults with neurodevelopmental conditions (autism, ADHD, Down syndrome) to organize daily routines, anticipate events, and reduce anxiety through visual and audio support.
+
+### Grid by SmartBox (AAC Software)
+
+- URL: https://us.tobiidynavox.com/collections/apps-software
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine communication support software
+- Found: 2026-06-25
+- Description: Evidence-based software suite for communication, computer access, and special education, offering tools to support routine building and communication for individuals with disabilities.
+
+### Proloquo2Go - AAC App
+
+- URL: https://www.speechandlanguagekids.com/aac-apps-review/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine communication support software
+- Found: 2026-06-25
+- Description: Popular commercial AAC app frequently recommended for non-verbal children and adults, supporting routine communication and language development with customizable routines.
+
+### Proloquo2Go Funding & Support
+
+- URL: https://www.facebook.com/groups/IFADBoise/posts/10162447899791478/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine communication support software
+- Found: 2026-06-25
+- Description: Community discussion on Proloquo2Go, highlighting its use as a routine communication support tool and available funding assistance through Medicaid and state programs.
+
+### Joint Activity Routines (JARs) for AAC Opportunities
+
+- URL: https://www.misd.net/assistivetech/AAC/AACopportunities.html
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine AAC directory
+- Found: 2026-06-25
+- Description: Official documentation from the Michigan State Department of Education detailing Joint Activity Routines as a teaching activity to help beginning communicators develop and initiate language using AAC within daily routines.
+
+### Plan for AAC Throughout the Day - AssistiveWare
+
+- URL: https://www.assistiveware.com/learn-aac/plan-for-aac-throughout-the-day
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine AAC directory
+- Found: 2026-06-25
+- Description: Official guide from AssistiveWare (creator of Proloquo4) on integrating AAC into daily routines, including strategies for building communication into everyday activities and making AAC available consistently.
+
+### Stepping Into AAC - Angelman Syndrome Foundation
+
+- URL: https://angelman.org/resources/stepping-into-aac/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine AAC directory
+- Found: 2026-06-25
+- Description: A public toolkit from the Angelman Syndrome Foundation offering resources to help families and teams include AAC opportunities during familiar, expected parts of the day and daily routines.
+
+### N-6 Maximizing AAC Opportunities Within Daily Routines
+
+- URL: https://www.dcs-cde.ca.gov/cat/int-n06.aspx
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine AAC directory
+- Found: 2026-06-25
+- Description: Official California Department of Education training resource explaining how to turn daily routines into learning opportunities and create communication environments for AAC users.
+
+### AAC Devices in Daily Routines - Autism Little Learners
+
+- URL: https://autismlittlelearners.com/aac-devices-daily-routines/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine AAC directory
+- Found: 2026-06-25
+- Description: Public educational guide providing three practical ways to incorporate AAC devices into classroom daily routines, including model strategies and word selection for morning, chores, and family time.

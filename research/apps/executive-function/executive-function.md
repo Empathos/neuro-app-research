@@ -128,3 +128,113 @@
 - Query: executive function reminders tool
 - Found: 2026-06-24
 - Description: Official description of Tiimo's visual timeline and reminder system, designed for autistic and neurodivergent users to make abstract time concepts concrete and ensure timely task completion.
+
+### Sunsama - Mindful Routine Planning
+
+- URL: https://www.sunsama.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning software
+- Found: 2026-06-25
+- Description: Sunsama is a mindful productivity tool that helps users plan routines through time blocking, realistic goal setting, and daily reviews, ideal for managing executive dysfunction without burnout.
+
+### Focus Bear - Automated Routine Builder
+
+- URL: https://focusbear.io/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning software
+- Found: 2026-06-25
+- Description: Focus Bear is an all-in-one tool that structures days with automated routines, website blockers, and mindfulness breaks, tailored for building focus-friendly habits and supporting neurodivergent users.
+
+### xTiles - Visual Routine Planner
+
+- URL: https://xtiles.app/en/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning software
+- Found: 2026-06-25
+- Description: xTiles is a digital planner that allows users to organize chaos into structured routines, offering a visual interface for creating schedules, to-do lists, and habit trackers.
+
+### Artful Agenda - Electronic Routine Planner
+
+- URL: https://artfulagenda.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning software
+- Found: 2026-06-25
+- Description: Artful Agenda is an electronic routine planner with features like stickers, note-taking, and repeating tasks, designed to help neurodivergent users manage appointments and daily routines.
+
+### Notion - Customizable Routine Workspace
+
+- URL: https://notion.so/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning software
+- Found: 2026-06-25
+- Description: Notion is a flexible digital workspace that can be transformed into a routine planner, habit tracker, or journal, offering full customization for users who prefer tailored organization.
+
+### Google Suite - Integrated Routine Tools
+
+- URL: https://cloud.google.com/products/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning software
+- Found: 2026-06-25
+- Description: Google Suite includes Calendar, Docs, and Keep, which synchronize across devices to simplify routine planning, note-taking, and collaboration, offering high accessibility for neurodivergent users.
+
+### The OT Toolbox - Task Initiation Strategies Directory
+
+- URL: https://www.theottoolbox.com/category/task-initiation/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine task initiation directory
+- Found: 2026-06-25
+- Description: A curated directory of evidence-based task initiation strategies, tools, and environmental designs specifically for children and adults with ADHD and executive function challenges.
+
+### ND Connect - Ultimate Guide to ADHD Task Initiation
+
+- URL: https://www.ndconnect.app/blog/the-ultimate-guide-to-adhd-task-initiation/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine task initiation directory
+- Found: 2026-06-25
+- Description: A comprehensive guide and strategy repository covering routine building, brain dumps, chunking, and accountability methods to support task initiation for neurodivergent adults.
+
+### OT4ADHD - Task Initiation and ADHD Support Repository
+
+- URL: https://ot4adhd.com/2022/10/18/task-initiation-and-adhd-strategies-and-support-for-getting-started/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine task initiation directory
+- Found: 2026-06-25
+- Description: An educational repository featuring chunking folders, body doubling techniques, and countdown strategies designed to help children with ADHD initiate tasks within their daily routines.
+
+### Mindful Care Therapy - Task Initiation Strategies for Adults
+
+- URL: https://www.mindfulcaretherapy.com/blog/task-initiation-strategies-adults-adhd
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine task initiation directory
+- Found: 2026-06-25
+- Description: A strategy directory for neurodivergent adults offering practical tools like the two-minute rule, dopamine stacking, and sensory regulation routines to improve task initiation.
+
+### Neurodivergent Insights - Executive Function Helpers Directory
+
+- URL: https://neurodivergentinsights.com/executive-function-helpers/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine task initiation directory
+- Found: 2026-06-25
+- Description: A directory of tools and helpers for ADHD and autistic brains, focusing on planning, focus, and task initiation through brain dumps, visual schedules, and routine support tools.

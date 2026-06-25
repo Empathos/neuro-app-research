@@ -18,3 +18,153 @@
 - Query: executive function learning support mobile app
 - Found: 2026-06-21
 - Description: Googles task app for creating to-do lists, reminders, and simple planning workflows.
+
+### Student Support Time - Official Product Page
+
+- URL: https://www.getapp.com/education-childcare-software/a/student-support-time/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine student support software
+- Found: 2026-06-25
+- Description: Student Support Time is a customizable solution designed to meet the needs of busy educators, offering features for intervention scheduling, club meetings, and small group attendance management.
+
+### Student Advising System by Creatrix Campus
+
+- URL: https://www.creatrixcampus.com/student-success-advising-system
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine student support software
+- Found: 2026-06-25
+- Description: A comprehensive advising platform supporting routine student management, including degree planning, early alerts, and retention tracking for higher education institutions.
+
+### Student Retention Software Guide - Modern Campus
+
+- URL: https://moderncampus.com/blog/student-retention-software.html
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine student support software
+- Found: 2026-06-25
+- Description: Essential features of student retention software designed to support routine interventions, including early warning systems, engagement tools, and customizable analytics for academic success.
+
+### Blackboard Retention Center
+
+- URL: https://www.genio.co/blog/what-software-exists-to-help-retain-students
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine student support software
+- Found: 2026-06-25
+- Description: Blackboard offers an automatic Retention Center with custom rules for identifying at-risk students, supporting routine monitoring and early intervention strategies.
+
+### Suitable Student Engagement Software
+
+- URL: https://www.suitable.co
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine student support software
+- Found: 2026-06-25
+- Description: Mobile-first student engagement and success software that tracks participation in real-time, helping institutions maintain routine support for student success.
+
+### Technolutions Student Success Platform
+
+- URL: https://technolutions.com/student-success
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine student support software
+- Found: 2026-06-25
+- Description: A platform for building forms, managing appointments, and scheduling office hours to support routine student advising and faculty-staff communication.
+
+### Securly Classroom Management Software
+
+- URL: https://www.securly.com/classroom
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine student support software
+- Found: 2026-06-25
+- Description: Classroom management tool for teachers to monitor student devices, share links, and guide digital routines, ensuring safe and structured learning environments.
+
+### Ohio Professional Learning Directory (OH PLD)
+
+- URL: https://www.oesca.org/oh-pld
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: A searchable directory of curated professional learning opportunities and resources for Ohio educators, including routine learning support.
+
+### OSSE Division of Teaching and Learning: Training and Technical Assistance
+
+- URL: https://osse.dc.gov/page/division-teaching-and-learning-training-and-technical-assistance-frequently-asked
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: Official resource for training, technical assistance, and routine learning support programs managed by the Maryland State Department of Education.
+
+### Maryland Local Family Support Services Directory
+
+- URL: https://www.marylandpublicschools.org/programs/Documents/Special-Ed/FSDR/FSS/Family-Support-Directory.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: PDF directory of Maryland family support services, including routine learning assistance for families and educators.
+
+### Occupational Therapy in Schools (Guide + Directory)
+
+- URL: https://otpotential.com/blog/occupational-therapy-in-schools
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: Comprehensive guide and directory for school-based occupational therapy, covering routine learning support and neurodivergence interventions.
+
+### Diverse Learners | School District of Philadelphia
+
+- URL: https://www.philasd.org/specializedservices/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: Educational services and routine learning support for students with diverse needs within the School District of Philadelphia.
+
+### Academic and Learning Support - Gilman School
+
+- URL: https://www.gilman.edu/mission/health-wellness-support/academic-learning
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: Learning support program for boys with learning differences, including routine learning assistance and educational strategies.
+
+### Learning Support - IU13.org
+
+- URL: https://www.iu13.org/students-families/special-ed/support-services/learning-support/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: Direct instruction and routine learning support for students with IEPs enrolled in Lancaster County Career and Technology Center.
+
+### Special Programs - Central Dauphin School District
+
+- URL: https://www.cdschools.org/special-education-services/special-programs
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support directory
+- Found: 2026-06-25
+- Description: Special programs offering functional activities and routine learning support for students with special education needs.

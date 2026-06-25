@@ -96,3 +96,73 @@
 - Query: executive function calming iOS Android
 - Found: 2026-06-24
 - Description: iOS and Android app that helps users set focus goals, track sleep, and use calming audio files like nature sounds to support executive function and reduce distraction-induced anxiety.
+
+### Think, Do, Breathe with Sesame
+
+- URL: https://www.renfreweducation.org/wp-content/uploads/2021/12/App-List-Sensory-Regulation.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine sensory regulation software
+- Found: 2026-06-25
+- Description: An iOS and Android app where a Sesame Street monster guides children through regulation and breathing activities, helping personalize encouraging phrases for sensory needs.
+
+### SensoryTreat
+
+- URL: https://helpforstrugglingreaders.blogspot.com/2015/04/best-apps-for-sensory-processing-issues.html
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine sensory regulation software
+- Found: 2026-06-25
+- Description: A free Android app specifically designed to help parents and OTs manage sensory diets, allowing families to build daily routines and receive therapy progress reports.
+
+### ChoiceWorks
+
+- URL: https://www.advancedautism.com/post/autism-apps-for-children
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine sensory regulation software
+- Found: 2026-06-25
+- Description: An app that helps kids understand routines, manage emotions, and learn consequences via visual schedules, supporting sensory integration and regulation.
+
+### Life Skills Advocate - Neurodivergent-Friendly Tools & Resources
+
+- URL: https://lifeskillsadvocate.com/neurodivergent-friendly-tools-resources/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine overload directory
+- Found: 2026-06-25
+- Description: A curated repository of ND-friendly products, organizers, software, and mental health providers designed to help manage routine overload and organize daily life.
+
+### Neurodivergent Practitioner Directory
+
+- URL: https://neurodivergentpractitioners.org
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine overload directory
+- Found: 2026-06-25
+- Description: A global directory of neurodiversity-affirming therapists, coaches, and peer support specialists to help individuals find tailored routine management support.
+
+### Life Skills - The Tools that Help Me Organize a Neurodivergent Life
+
+- URL: https://www.autismsociety-nc.org/tools-organize-neurodivergent-life/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine overload directory
+- Found: 2026-06-25
+- Description: An article detailing specific apps and products that effectively manage AuDHD routine overload, offering practical tool leads for daily organization.
+
+### Butter - Neurodivergent Routine Overload Management
+
+- URL: https://butter.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine overload directory
+- Found: 2026-06-25
+- Description: A productivity app specifically designed to help neurodivergent users break down tasks, manage routine overload, and build flexible, sustainable routines.
