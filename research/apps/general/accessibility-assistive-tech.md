@@ -28,3 +28,13 @@
 - Query: neurodivergent adaptive tool
 - Found: 2026-06-24
 - Description: costrict-plugins mirror of github-trending-neurodivergent-visual-org (auto-generated, do not edit)
+
+### dfakkeldy/Echo
+
+- URL: https://github.com/dfakkeldy/Echo
+- Source: github-search
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodiversity accessibility directory
+- Found: 2026-06-25
+- Description: An audiobook study player built for every kind of mind  hybrid EPUB+audio with research-backed accessibility fonts (Lexend, OpenDyslexic), designed with the AuDHD community in mind. 
