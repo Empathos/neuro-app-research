@@ -118,3 +118,103 @@
 - Query: dyspraxia reminders tool
 - Found: 2026-06-24
 - Description: Work management platform offering customizable reminder workflows and visual dashboards to help dyspraxic individuals prioritize and track tasks.
+
+### TD Snap App (iOS/Android)
+
+- URL: https://www.tobiidynavox.com/products/td-snap
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning planning software
+- Found: 2026-06-25
+- Description: Official TD Snap application for speech generating and language development, including the integrated Motor Plan page set for neurodivergent individuals to build communication skills through structured motor planning.
+
+### Motor Planning Activities for Autism Guide
+
+- URL: https://upbility.net/blogs/news/top-motor-planning-activities-for-autism-effective-ways-to-enhance-skills
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning planning software
+- Found: 2026-06-25
+- Description: A resource detailing effective motor planning activities like obstacle courses and animal walks to enhance skills in children with autism, supporting the development of motor coordination and planning.
+
+### Supporting Motor Planning in Autistic Kids (Podcast)
+
+- URL: https://podcasts.apple.com/us/podcast/supporting-motor-planning-in-autistic-kids-with-erin/id1765331935?i=1000678242339
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning planning software
+- Found: 2026-06-25
+- Description: An occupational therapist discusses the importance of understanding motor planning, apraxia, and dyspraxia in supporting autistic individuals, offering insights into practical strategies and tools.
+
+### Task Initiation Visual
+
+- URL: https://www.teacherspayteachers.com/browse/free?search=task+initiation+visual
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning task initiation directory
+- Found: 2026-06-25
+- Description: A simple visual tool to place on a student's desk, lanyard, or work area for quick reminders on task initiation, engagement, and completion.
+
+### Motor Planning Fact Sheet and Activity Ideas
+
+- URL: https://www.perkins.org/wp-content/uploads/2021/07/motor_planning_fact_sheet_and_activity_ideas_0.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning task initiation directory
+- Found: 2026-06-25
+- Description: Official fact sheet from the Perkins Institute defining motor planning and providing structured activity ideas like ball bounces and Simon Says to support skill development.
+
+### Motor Planning Skills - DIR Floortime
+
+- URL: https://www.wondirfulplay.com/blog/motor-planning-skills
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning task initiation directory
+- Found: 2026-06-25
+- Description: Resource guide on motor planning skills specifically designed to support children with autism, aligning with DIR Floortime methodologies.
+
+### Praxis and Motor Planning in Occupational Therapy
+
+- URL: https://napacenter.org/praxis-occupational-therapy/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning task initiation directory
+- Found: 2026-06-25
+- Description: Official NAPA Center documentation explaining the four components of praxis (ideation, motor planning, execution, feedback) and providing therapy activity examples.
+
+### Task Initiation Visual
+
+- URL: https://www.teacherspayteachers.com/Free-Download/Task-Initiation-Visual-7634078
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning task initiation directory
+- Found: 2026-06-25
+- Description: Free downloadable visual reminder for students to support neurodivergent learners in initiating tasks independently.
+
+### Motor Planning Master Class
+
+- URL: https://www.facebook.com/groups/538540446620062/posts/1624076128066483/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning task initiation directory
+- Found: 2026-06-25
+- Description: Community post promoting a Motor Planning Master Class with verbal cue strategies to help initiate physical tasks and activities.
+
+### Praxis and Motor Planning
+
+- URL: https://www.instagram.com/p/DT-aSYhDmQn/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning task initiation directory
+- Found: 2026-06-25
+- Description: Instagram content highlighting the relationship between Executive Function components and Motor Skills, specifically focusing on Task Initiation and Planning & Organization.

@@ -168,3 +168,123 @@
 - Query: dyspraxia conversation support tool
 - Found: 2026-06-24
 - Description: Techdis toolbar for simplifying web pages, adjusting font sizes, and enhancing readability, supporting dyspraxic users in online communication and information access.
+
+### LAMP Words for Life
+
+- URL: https://lampwflapp.com/about
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning communication support software
+- Found: 2026-06-25
+- Description: Commercial AAC app implementing the Language Acquisition through Motor Planning (LAMP) approach, using consistent motor patterns for words and auditory feedback to support independent communication for nonverbal individuals.
+
+### TD Snap with Motor Plan
+
+- URL: https://www.tobiidynavox.com/blogs/aac-news/motor-plan-resources-aac
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning communication support software
+- Found: 2026-06-25
+- Description: AAC software featuring the 'Motor Plan' page set, a symbol-supported interface designed to help learners develop language through consistent motor planning and auditory feedback.
+
+### The Center for AAC & Autism
+
+- URL: https://www.aacandautism.com/lamp
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning communication support software
+- Found: 2026-06-25
+- Description: Clinical resource center providing detailed information on the LAMP therapeutic approach, including training materials and evidence-based strategies for motor planning communication support.
+
+### EBSCO Research Starter: LAMP
+
+- URL: https://www.ebsco.com/research-starters/language-and-linguistics/language-acquisition-through-motor-planning-lamp
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning communication support software
+- Found: 2026-06-25
+- Description: Academic research summary on the LAMP program, detailing its neurological basis, structured motor planning methods, and application in developing communication skills for autistic children.
+
+### ASHA Practice Portal: AAC
+
+- URL: https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning communication support software
+- Found: 2026-06-25
+- Description: Official clinical practice portal from the American Speech-Language-Hearing Association, defining AAC and explaining the LAMP approach as a therapeutic method based on motor learning principles.
+
+### YouTube: The Vital Role of Motor Planning in AAC
+
+- URL: https://www.youtube.com/watch?v=VxChHj4iJME
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning communication support software
+- Found: 2026-06-25
+- Description: Video presentation explaining the neurological importance of motor planning in AAC, featuring demonstrations of LAMP strategies and their impact on spontaneous communication development.
+
+### LAMP Words for Life
+
+- URL: https://www.lampwordsforlife.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning AAC directory
+- Found: 2026-06-25
+- Description: Official app using Language Acquisition Through Motor Planning (LAMP) approach with consistent motor plans for AAC vocabulary access.
+
+### TD Words for Life (TD Snap)
+
+- URL: https://www.tdwordsforlife.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning AAC directory
+- Found: 2026-06-25
+- Description: Motor-plan-based page set within TD Snap software featuring symbol-supported language acquisition for learners with complex access needs.
+
+### Speak for Yourself
+
+- URL: https://speakforyourselfapp.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning AAC directory
+- Found: 2026-06-25
+- Description: Official AAC app designed with robust motor planning consistency to support automatic and faster language development.
+
+### Cough Drop
+
+- URL: https://coughdrop.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning AAC directory
+- Found: 2026-06-25
+- Description: Motor-plan-enhanced AAC app with consistent navigation patterns and symbol-supported language for diverse users.
+
+### Motor Planning AAC Directory
+
+- URL: https://praacticalaac.org/praactical/finding-my-words-considerations-in-language-displays-and-organization/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning AAC directory
+- Found: 2026-06-25
+- Description: Praactical AAC repository page offering considerations for motor planning in language displays, organization, and AAC use.
+
+### Avaz AAC App
+
+- URL: https://avazapp.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning AAC directory
+- Found: 2026-06-25
+- Description: Official AAC app incorporating visual perception, coordination/motor planning, and sensory regulation for autistic individuals.
