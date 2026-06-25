@@ -58,3 +58,53 @@
 - Query: executive function coping skills tool
 - Found: 2026-06-24
 - Description: HealthHub is an interactive, gamified, and sensory-friendly web application designed to teach critical first aid skills for children on the autism spectrum and those with different learning needs.
+
+### Rainbow of Emotions App
+
+- URL: https://app.rainbowofemotions.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: routine emotional regulation software
+- Found: 2026-06-25
+- Description: A web-based routine emotional regulation software developed by Dolly Bhargava, offering structured, step-by-step tools to help neurodivergent individuals understand and regulate emotions, suitable for daily use by parents, educators, and mental health professionals.
+
+### How We Feel App
+
+- URL: https://howwefeel.io/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: routine emotional regulation software
+- Found: 2026-06-25
+- Description: A routine emotional regulation tool designed to help users identify, track, and understand their emotions with evidence-based regulation strategies, promoting daily emotional awareness and well-being for neurodivergent individuals.
+
+### Woebot
+
+- URL: https://woebot.io/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: routine emotional regulation software
+- Found: 2026-06-25
+- Description: An AI-powered routine emotional regulation software that uses conversational therapy and evidence-based techniques like CBT to support neurodivergent individuals in managing emotions and thoughts daily.
+
+### Mindfulness Bell
+
+- URL: https://mindfulness-bell.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: routine emotional regulation software
+- Found: 2026-06-25
+- Description: A routine mindfulness and emotional regulation tool offering gentle notifications to pause, breathe, and check in with emotions, supporting neurodivergent individuals in maintaining daily emotional balance.
+
+### Moodfit
+
+- URL: https://moodfit.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: routine emotional regulation software
+- Found: 2026-06-25
+- Description: A data-driven routine emotional regulation app that helps neurodivergent users track moods, set goals, and access evidence-based exercises like CBT and DBT for daily emotional management.
