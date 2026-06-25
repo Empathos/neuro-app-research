@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-06-24T15:13:20.607313+00:00
-- New findings: 24
-- Rejected dead links: 13
+- UTC timestamp: 2026-06-25T16:46:52.199157+00:00
+- New findings: 44
+- Rejected dead links: 4
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory processing speech support iOS Android`: 2 new finding(s), 6 rejected dead link(s)
-- `sensory processing conversation support tool`: 5 new finding(s), 0 rejected dead link(s)
+- `sensory regulation communication support software`: 4 new finding(s), 1 rejected dead link(s)
+- `sensory regulation AAC directory`: 6 new finding(s), 1 rejected dead link(s)
 
 ### executive-function
 
-- `sensory processing routine iOS Android`: 4 new finding(s), 3 rejected dead link(s)
-- `sensory processing reminders tool`: 4 new finding(s), 0 rejected dead link(s)
+- `sensory regulation planning software`: 3 new finding(s), 0 rejected dead link(s)
+- `sensory regulation task initiation directory`: 8 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory processing calming iOS Android`: 2 new finding(s), 4 rejected dead link(s)
-- `sensory processing environment planning tool`: 3 new finding(s), 0 rejected dead link(s)
+- `sensory regulation sensory regulation software`: 3 new finding(s), 0 rejected dead link(s)
+- `sensory regulation overload directory`: 6 new finding(s), 2 rejected dead link(s)
 
 ### education-learning
 
-- `sensory processing reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation student support software`: 6 new finding(s), 0 rejected dead link(s)
+- `sensory regulation learning support directory`: 3 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory processing self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing coping skills tool`: 1 new finding(s), 0 rejected dead link(s)
+- `sensory regulation emotional regulation software`: 5 new finding(s), 0 rejected dead link(s)
+- `sensory regulation mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory processing life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing home routine tool`: 1 new finding(s), 0 rejected dead link(s)
+- `sensory regulation daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory processing therapy support iOS Android`: 1 new finding(s), 0 rejected dead link(s)
-- `sensory processing parent support tool`: 1 new finding(s), 0 rejected dead link(s)
+- `sensory regulation caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory processing mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 

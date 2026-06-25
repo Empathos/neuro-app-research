@@ -58,3 +58,53 @@
 - Query: sensory processing coping skills tool
 - Found: 2026-06-24
 - Description: HealthHub is an interactive, gamified, and sensory-friendly web application designed to teach critical first aid skills for children on the autism spectrum and those with different learning needs.
+
+### Zwift (Sensory & Emotional Regulation App)
+
+- URL: https://www.twift.io
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation emotional regulation software
+- Found: 2026-06-25
+- Description: A digital platform providing tools for passively assessing and managing emotions and sensory states in real-time, designed for neurodivergent individuals to track regulation and access sensory interventions.
+
+### Sensory Integration Education (Self-Regulation Toolkit)
+
+- URL: https://www.sensoryintegrationeducation.com/pages/news-self-regulation-and-sensory-integration
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation emotional regulation software
+- Found: 2026-06-25
+- Description: Provides educational resources and digital tools explaining how sensory integration supports self-regulation, including guides on creating sensory profiles, schedules, and circuits for emotional balance.
+
+### AOTA (Sensory Strategies for Emotion Regulation Guide)
+
+- URL: https://www.aota.org/-/media/corporate/files/membership/sensory-emotion-regulation_trends-in-cognitive-sciences.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation emotional regulation software
+- Found: 2026-06-25
+- Description: An official American Occupational Therapy Association publication detailing how sensation can be harnessed as a tool for deliberate emotion regulation, featuring evidence-based strategies and clinical applications.
+
+### ScienceDirect (Sensory Emotion Regulation Research)
+
+- URL: https://www.sciencedirect.com/science/article/abs/pii/S1364661323000268
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation emotional regulation software
+- Found: 2026-06-25
+- Description: A peer-reviewed article reviewing evidence on sensation as a rapid, effortless modality for emotion regulation, highlighting future research directions and practical implications for neurodivergent support software.
+
+### YouTube (Sensory Strategies as Tools for Self-Regulation)
+
+- URL: https://www.youtube.com/watch?v=TC9pnXwFQ98
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation emotional regulation software
+- Found: 2026-06-25
+- Description: A video by Pediatric Occupational Therapist Alyssa Mason demonstrating how sensory activities can be used as tools for self-regulation and healing, including practical examples of digital and non-digital interventions for neurodivergent individuals.
