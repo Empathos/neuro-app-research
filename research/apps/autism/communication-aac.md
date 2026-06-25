@@ -138,3 +138,143 @@
 - Query: autism conversation support tool
 - Found: 2026-06-24
 - Description: Educational resource providing prompt cards with topics and example questions to diversify conversation themes and vocabulary.
+
+### Proloquo2Go
+
+- URL: https://shop.assistativeware.com/proloquo2go
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic communication support software
+- Found: 2026-06-25
+- Description: A leading AAC app for iOS providing customizable text-to-speech vocabulary for nonverbal users, developed by AssistiveWare.
+
+### TouchChat HD
+
+- URL: https://www.touchchat.com/touchchat-hd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic communication support software
+- Found: 2026-06-25
+- Description: An AAC app offering grid-based communication with customizable vocabulary and editing features, available for iOS and Android by Tobii Dynavox.
+
+### Avaz AAC
+
+- URL: https://avazapp.com/avaz-aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic communication support software
+- Found: 2026-06-25
+- Description: An accessible and versatile AAC app designed for children with speech and language difficulties, offering symbol-based AAC and a 14-day free trial.
+
+### LetMeTalk
+
+- URL: https://letmetalk.io/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic communication support software
+- Found: 2026-06-25
+- Description: A free AAC app utilizing over 9,000 PECS images to help users form sentences, supporting multiple languages and offline usage.
+
+### LAMP Words for Life
+
+- URL: https://www.lampwordsforlife.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic communication support software
+- Found: 2026-06-25
+- Description: An AAC app centered on motor planning principles to help users develop consistent communication patterns, developed by Tobii Dynavox.
+
+### CoughDrop
+
+- URL: https://coughdrop.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic communication support software
+- Found: 2026-06-25
+- Description: A research-supported AAC platform providing symbol-based communication tailored to Autistic styles, with customizable vocabularies and visual layouts.
+
+### First Then Visual Schedule HD
+
+- URL: https://www.therapybox.com/first-then-visual-schedule-hd/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic communication support software
+- Found: 2026-06-25
+- Description: A visual scheduling app helping autistic learners manage transitions and understand daily routines using 'first-then' concepts.
+
+### AAC Provider Directory - NWACS
+
+- URL: https://nwacs.org/aac-provider-directory/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic AAC directory
+- Found: 2026-06-25
+- Description: Official directory of AAC providers in Washington State, including clinics offering non-school-based AAC specialists for autistic individuals.
+
+### ASHA AAC Practice Portal
+
+- URL: https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic AAC directory
+- Found: 2026-06-25
+- Description: Comprehensive resource from the American Speech-Language-Hearing Association on AAC tools, assessment guidelines, and intervention strategies for autistic users.
+
+### LAMP Methodology Resources - Center for AAC & Autism
+
+- URL: https://www.aacandautism.com/lamp/resources-and-support
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic AAC directory
+- Found: 2026-06-25
+- Description: Official repository of tools and support materials for the LAMP (Language Acquisition through Motor Planning) AAC methodology designed for autistic learners.
+
+### Autism-Europe AAC Resources
+
+- URL: https://www.autism-europe.org/aac-resources/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic AAC directory
+- Found: 2026-06-25
+- Description: European resource hub listing AAC tools, apps, and advocacy groups specifically tailored for autistic individuals across the continent.
+
+### Talking with Tech AAC Tools
+
+- URL: https://talkingwithtech.com/aac-tools/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic AAC directory
+- Found: 2026-06-25
+- Description: Catalog of speech-generating devices and AAC software widely used by autistic individuals, with product demos and clinical guides.
+
+### Tele-AAC Resolution Directory
+
+- URL: https://tele-aac.org/resolution-directory/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic AAC directory
+- Found: 2026-06-25
+- Description: Directory of telehealth AAC providers and remote therapy tools for autistic children and adults needing AAC intervention.
+
+### Best AAC Apps of 2025 - Speech and Language Kids
+
+- URL: https://www.speechandlanguagekids.com/aac-apps-review/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic AAC directory
+- Found: 2026-06-25
+- Description: Curated review of top-rated AAC apps for autistic users, including app store links and feature breakdowns for effective communication.

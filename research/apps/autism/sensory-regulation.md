@@ -138,3 +138,83 @@
 - Query: autism environment planning tool
 - Found: 2026-06-24
 - Description: A large-scale repository housing behavioral, clinical, and genetic data related to autism, serving as a foundational resource for environment planning research.
+
+### First Then Visual Schedule HD
+
+- URL: https://linksaba.com/tech-tools-for-supporting-autistic-learners/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic sensory regulation software
+- Found: 2026-06-25
+- Description: A visual scheduling app helping autistic learners manage transitions and understand daily routines, crucial for sensory regulation and reducing anxiety.
+
+### Sensory Regulation Resources (Autism Society of Minnesota)
+
+- URL: https://ausm.org/ausm-resources/sensory-regulation-resources/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic sensory regulation software
+- Found: 2026-06-25
+- Description: A repository of guides, tools, and databases (including a Sensory Chew Product Database) explaining sensory systems and offering strategies for emotional regulation in autism.
+
+### National Autistic Society - Autism and Sensory Processing
+
+- URL: https://www.autism.org.uk/advice-and-guidance/about-autism/sensory-processing
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic overload directory
+- Found: 2026-06-25
+- Description: Official guidance on sensory overload, including tools like sensory diaries, safe spaces, and strategies for managing autistic overload in daily life.
+
+### Autism Speaks - Sensory Issues
+
+- URL: https://www.autismspeaks.org/sensory-issues
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic overload directory
+- Found: 2026-06-25
+- Description: Resource page on sensory overload with accommodation examples, self-advocacy tips, and links to therapy services for managing autistic overload.
+
+### Autism Resource Directory (Rush University)
+
+- URL: https://www.rush.edu/services/autism-care/autism-resource-directory
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic overload directory
+- Found: 2026-06-25
+- Description: Online resource guide for families to find service and support referrals for autism-related needs, including sensory overload and neurodivergence support.
+
+### The Autism Service - What is Sensory Overload?
+
+- URL: https://theautismservice.co.uk/what-is-sensory-overload/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic overload directory
+- Found: 2026-06-25
+- Description: Educational page defining sensory overload and offering practical tools and strategies to help autistic individuals manage moments of extreme sensory input.
+
+### Neurodiverse Training - Autistic Overload Poster
+
+- URL: https://www.neurodiversetraining.org/resources/autistic-overload
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic overload directory
+- Found: 2026-06-25
+- Description: Free printable poster explaining autistic overload, including meltdowns, shutdowns, and fight/flight/freeze/fawn responses for use in education and support settings.
+
+### DIR Floortime - Autism Sensory Overload & Overstimulation
+
+- URL: https://www.wondirfulplay.com/blog/autism-sensory-overload-and-overstimulation
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic overload directory
+- Found: 2026-06-25
+- Description: Blog post exploring signs, impacts, and coping strategies for autistic sensory overload and overstimulation, with support suggestions for families.

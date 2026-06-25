@@ -88,3 +88,13 @@
 - Query: autism adaptive tool
 - Found: 2026-06-24
 - Description: A neurodivergent-inclusive, grade-adaptive e-learning Android app for Filipino students  prototype built with Kotlin & Jetpack Compose
+
+### opentea-org/OpenTEA
+
+- URL: https://github.com/opentea-org/OpenTEA
+- Source: github-search
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autistic accessibility directory
+- Found: 2026-06-25
+- Description: A directory of apps for autistic people evaluated by ease of use, sensory impact and cognitive load.
