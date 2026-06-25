@@ -1,0 +1,195 @@
+name: Daily Neurodivergence App Research
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_results:
+        description: Maximum results to inspect per query.
+        required: false
+        default: "8"
+        type: string
+      query_count:
+        description: Number of search queries to run per support category.
+        required: false
+        default: "2"
+        type: string
+      merge_to_main:
+        description: Merge condition branches into main after collection succeeds.
+        required: false
+        default: true
+        type: boolean
+  schedule:
+    - cron: "17 7 * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-neuro-app-research
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        condition:
+          - autism
+          - adhd
+          - dyslexia
+          - dyspraxia
+          - tourette
+          - sensory-processing
+          - executive-function
+          - general
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.RESEARCH_BOT_TOKEN || github.token }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Prepare condition branch
+        id: condition
+        run: |
+          git config user.name "Mitchell"
+          git config user.email "mitchell@empathos.ai"
+          condition="${{ matrix.condition }}"
+          branch="research/${condition}"
+          echo "condition=$condition" >> "$GITHUB_OUTPUT"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          git switch -C "$branch" origin/main
+
+      - name: Collect app leads
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: |
+          python scripts/collect_neuro_apps.py \
+            --focus "${{ steps.condition.outputs.condition }}" \
+            --max-results "${{ inputs.max_results || '8' }}" \
+            --query-count "${{ inputs.query_count || '2' }}"
+
+      - name: Test collector
+        run: python3 -m unittest discover -s tests
+
+      - name: Check research links
+        run: python3 scripts/check_links.py --report link-check-report.md
+
+      - name: Upload link check report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-link-check-${{ steps.condition.outputs.condition }}
+          path: link-check-report.md
+
+      - name: Commit research output
+        id: commit
+        run: |
+          git add research/apps research/config research/runs research/state
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "research: collect ${{ steps.condition.outputs.condition }} app leads"
+          git push --force-with-lease origin "${{ steps.condition.outputs.branch }}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update pull request
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.RESEARCH_BOT_TOKEN || github.token }}
+        run: |
+          branch="${{ steps.condition.outputs.branch }}"
+          condition="${{ steps.condition.outputs.condition }}"
+          open_pr="$(gh pr list --state open --head "$branch" --base main --json number --jq '.[0].number // empty')"
+          if [ -n "$open_pr" ]; then
+            echo "Research PR #$open_pr already open."
+            exit 0
+          fi
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "Research: collect ${condition} app leads" \
+            --body "Daily research pass for condition \`${condition}\`. Uses Perplexity Sonar when available and writes condition-scoped markdown, run logs, rejected-link logs, and state files before the daily merge gate."
+
+  merge:
+    needs: collect
+    if: ${{ needs.collect.result == 'success' && (github.event_name == 'schedule' || inputs.merge_to_main) }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.RESEARCH_BOT_TOKEN || github.token }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Merge condition branches one by one
+        id: merge
+        env:
+          GIT_AUTHOR_NAME: Mitchell Rogers
+          GIT_AUTHOR_EMAIL: mitchell@empathos.ai
+          GIT_COMMITTER_NAME: Mitchell Rogers
+          GIT_COMMITTER_EMAIL: mitchell@empathos.ai
+        run: |
+          git config user.name "Mitchell Rogers"
+          git config user.email "mitchell@empathos.ai"
+          git fetch origin main:refs/remotes/origin/main
+          git switch main 2>/dev/null || git switch -c main origin/main
+          git pull --ff-only origin main
+
+          merged=0
+          for condition in sensory-processing dyspraxia dyslexia autism executive-function adhd general tourette; do
+            branch="research/${condition}"
+            if ! git ls-remote --exit-code --heads origin "$branch" >/dev/null 2>&1; then
+              echo "No remote branch for $condition; skipping."
+              continue
+            fi
+
+            git fetch origin "$branch:refs/remotes/origin/$branch"
+            if git merge-base --is-ancestor "origin/$branch" HEAD; then
+              echo "$branch is already merged; skipping."
+              continue
+            fi
+
+            git merge --no-ff "origin/$branch" -m "Merge daily research: ${condition} app leads"
+            merged=$((merged + 1))
+          done
+
+          echo "merged=$merged" >> "$GITHUB_OUTPUT"
+
+      - name: Install dependencies
+        if: steps.merge.outputs.merged != '0'
+        run: npm ci
+
+      - name: Verify merged research
+        if: steps.merge.outputs.merged != '0'
+        run: npm run verify
+
+      - name: Push main
+        if: steps.merge.outputs.merged != '0'
+        run: git push origin main
+
+      - name: Summarize no-op
+        if: steps.merge.outputs.merged == '0'
+        run: echo "No condition branches needed merging."

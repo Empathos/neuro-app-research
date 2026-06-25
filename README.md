@@ -59,6 +59,7 @@ Each condition run covers every support category configured in `research/config/
 
 ```text
 .github/workflows/research-condition.yml   GitHub Action for one condition
+.github/workflows/research-daily.yml       Daily scheduled full research and merge flow
 .github/workflows/pages.yml                GitHub Pages build and deploy workflow
 src/                                       Astro site source
 public/CNAME                              Custom domain for GitHub Pages
@@ -106,6 +107,25 @@ Optional knobs:
 ```bash
 RESEARCH_MAX_RESULTS=4 RESEARCH_QUERY_COUNT=1 scripts/trigger_research_matrix.sh
 ```
+
+## Daily automation
+
+`.github/workflows/research-daily.yml` runs every day at 07:17 UTC and can also be started manually from GitHub Actions.
+
+The scheduled flow:
+
+```text
+daily clock
+  -> run all 8 condition collectors with max_results=8 and query_count=2
+  -> push/update one research branch per condition
+  -> open/update one pull request per changed condition
+  -> merge condition branches into main one by one as Mitchell <mitchell@empathos.ai>
+  -> run npm run verify
+  -> push main
+  -> CI and GitHub Pages run from the merged main branch
+```
+
+The workflow uses `RESEARCH_BOT_TOKEN` when configured, falling back to `GITHUB_TOKEN`. Use `RESEARCH_BOT_TOKEN` for the fully automated path so branch pushes, main pushes, CI, and Pages behave like normal repository activity.
 
 ## Current status
 
