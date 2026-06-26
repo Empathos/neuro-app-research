@@ -8,6 +8,18 @@ const { title = "Empathos Research", description = "A public research workbench 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <title>{title}</title>
+    <script is:inline>
+      (() => {
+        try {
+          const theme = window.localStorage.getItem("empathos-theme");
+          if (theme === "light" || theme === "dark") {
+            document.documentElement.dataset.theme = theme;
+          }
+        } catch {
+          // Ignore storage errors so the static site remains fully readable.
+        }
+      })();
+    </script>
     <link rel="stylesheet" href="/styles/global.css" />
   </head>
   <body>
@@ -16,12 +28,60 @@ const { title = "Empathos Research", description = "A public research workbench 
         <span class="brand-mark">Empathos</span>
         <span class="brand-subtitle">Research</span>
       </a>
-      <nav aria-label="Primary">
-        <a href="/conditions/">Conditions</a>
-      </nav>
+      <div class="header-actions">
+        <nav aria-label="Primary">
+          <a href="/conditions/">Conditions</a>
+        </nav>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false">
+          <span class="theme-toggle__icon" aria-hidden="true"></span>
+          <span class="theme-toggle__label">Light</span>
+        </button>
+      </div>
     </header>
     <main>
       <slot />
     </main>
+    <script is:inline>
+      (() => {
+        const button = document.querySelector(".theme-toggle");
+        const label = document.querySelector(".theme-toggle__label");
+        const media = window.matchMedia("(prefers-color-scheme: dark)");
+
+        const getStoredTheme = () => {
+          try {
+            const theme = window.localStorage.getItem("empathos-theme");
+            return theme === "light" || theme === "dark" ? theme : null;
+          } catch {
+            return null;
+          }
+        };
+
+        const getCurrentTheme = () =>
+          document.documentElement.dataset.theme || (media.matches ? "dark" : "light");
+
+        const render = () => {
+          const current = getCurrentTheme();
+          button?.setAttribute("aria-pressed", current === "dark" ? "true" : "false");
+          if (label) label.textContent = current === "dark" ? "Dark" : "Light";
+        };
+
+        button?.addEventListener("click", () => {
+          const next = getCurrentTheme() === "dark" ? "light" : "dark";
+          document.documentElement.dataset.theme = next;
+          try {
+            window.localStorage.setItem("empathos-theme", next);
+          } catch {
+            // The visual toggle can still work for this page view.
+          }
+          render();
+        });
+
+        media.addEventListener("change", () => {
+          if (!getStoredTheme()) render();
+        });
+
+        render();
+      })();
+    </script>
   </body>
 </html>
