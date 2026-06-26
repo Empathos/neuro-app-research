@@ -328,3 +328,113 @@
 - Query: tic tracking task initiation directory
 - Found: 2026-06-25
 - Description: A blog post detailing 9 specific task initiation goals for learners, using task analysis to break down skills into component sub-tasks for effective teaching.
+
+### TickOff Habit Tracker
+
+- URL: https://play.google.com/store/apps/details?id=app.vinztech.tickit&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking routine startup
+- Found: 2026-06-26
+- Description: Google Play app for building simple routines and tracking habits daily, supporting the startup phase of routine development.
+
+### Memtime Startup Time Tracking Guide
+
+- URL: https://www.memtime.com/blog/startup-time-tracking
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking routine startup
+- Found: 2026-06-26
+- Description: Guide on using automatic time tracking tools like Memtime to startup effective routines, identify time leaks, and visualize work patterns.
+
+### TickTick 5.0 Habit Tracking Feature
+
+- URL: https://www.youtube.com/watch?v=VoAMXOpSh-E
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking routine startup
+- Found: 2026-06-26
+- Description: YouTube overview of TickTick's new habit tracker on iOS, enabling users to add and track routines like drinking water or exercising.
+
+### TickTick Habits: Build Any Routine in 30 Days
+
+- URL: https://www.youtube.com/watch?v=i5L7zgqFIwg
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking routine startup
+- Found: 2026-06-26
+- Description: Video tutorial on setting up habit routines in TickTick, including reminders, counters, and calendar integration for routine startups.
+
+### Super Productivity - Open Source Task & Time Tracker
+
+- URL: https://super-productivity.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking reminders open source
+- Found: 2026-06-26
+- Description: Free, open-source app for managing tasks, notes, time tracking, and integrations. Features reminders, task scheduling, and time boxing capabilities tailored for neurodivergent users.
+
+### Donetick - Open Source Task Manager
+
+- URL: https://donetick.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking reminders open source
+- Found: 2026-06-26
+- Description: Open-source, user-friendly app for managing tasks and chores with customizable options to help neurodivergent users stay organized and track reminders effectively.
+
+### ActivityWatch - Open Source Time Tracker
+
+- URL: https://activitywatch.net
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking reminders open source
+- Found: 2026-06-26
+- Description: Privacy-focused, cross-platform automated time tracker that logs activities and helps users understand their daily patterns, supporting neurodivergence-aware self-management.
+
+### TickTick - All-in-One Productivity App
+
+- URL: https://ticktick.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking reminders open source
+- Found: 2026-06-26
+- Description: To-do list and calendar app with reminders, habits, and task management features. Syncs across devices and supports neurodivergent users with flexible scheduling tools.
+
+### Kimai - Open Source Time Tracking Solution
+
+- URL: https://www.kimai.org
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking reminders open source
+- Found: 2026-06-26
+- Description: Open-source time tracking tool for managing tasks and projects with customizable reporting features, helping neurodivergent users track time and reminders efficiently.
+
+### Timewarrior - Open Source Time Tracker
+
+- URL: https://timewarrior.info
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking reminders open source
+- Found: 2026-06-26
+- Description: Lightweight, open-source command-line time tracker that supports detailed activity logging and reminder scheduling for neurodivergent productivity workflows.
+
+### Traggo - Open Source Task & Time Manager
+
+- URL: https://traggo.net
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tic tracking reminders open source
+- Found: 2026-06-26
+- Description: Open-source task and time management app with tagging, filtering, and reminder features designed to support neurodivergent users in organizing and tracking tasks.

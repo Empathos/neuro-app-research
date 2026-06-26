@@ -38,3 +38,63 @@
 - Query: Tourette daily living support app
 - Found: 2026-06-20
 - Description: Peer-reviewed article describing online support communities that provide informational and emotional support for people living with Tourette syndrome and tic disorders.
+
+### Preschool Life Skills (PLS) Program
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11461416/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tic tracking life skills startup
+- Found: 2026-06-26
+- Description: Evidence-backed PLS program supporting skill development in young children. Demonstrates efficacy in remediating social challenges and building foundational life skills.
+
+### InUnity - Innovation for Community
+
+- URL: https://www.instagram.com/reel/DZujC3dS2q1/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tic tracking life skills startup
+- Found: 2026-06-26
+- Description: Innovative initiative launching Rising Skills Series focused on practical life skills. Supports community-based programs and builds practical skills for children.
+
+### First Tee - Metropolitan New York
+
+- URL: https://firstteemetny.org/category/blog/programs/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tic tracking life skills startup
+- Found: 2026-06-26
+- Description: Activity-based program for children including life skills training. Provides tools for managing tic-related issues and building life skills.
+
+### Lea Diagnostics - Infant Mental Health
+
+- URL: https://www.instagram.com/p/DWOxAG2jpQX/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tic tracking life skills startup
+- Found: 2026-06-26
+- Description: Early development and mental health program. Provides tools for managing tic-related issues and building life skills for children.
+
+### Super Productivity - Open Source Time Tracker
+
+- URL: https://github.com/johannesjo/super-productivity
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tic tracking home routine open source
+- Found: 2026-06-26
+- Description: Super Productivity is a cross-platform, open-source time and task manager with ADHD-friendly features, including home routine tracking and time tracking for neurodivergent support.
+
+### ActivityWatch - Automated Time Tracker
+
+- URL: https://github.com/activitywatch/activitywatch
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tic tracking home routine open source
+- Found: 2026-06-26
+- Description: An open-source, privacy-focused automated time tracker that helps neurodivergent users monitor and track home routines and time spent on tasks without manual input.
