@@ -148,3 +148,83 @@
 - Query: tic tracking learning support directory
 - Found: 2026-06-25
 - Description: UK-based resource library offering psychological therapy tools and educational materials for tic tracking and learning support.
+
+### The StoryGraph
+
+- URL: https://thestorygraph.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking reading support startup
+- Found: 2026-06-26
+- Description: A book tracking platform that helps users choose next books based on mood and favorite topics, offering insightful reading stats.
+
+### Reading OS | A Smart Book Tracking System
+
+- URL: https://www.notion.com/templates/reading-os-a-smart-book-knowledge-tracking-system
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking reading support startup
+- Found: 2026-06-26
+- Description: A 2026 Notion template for tracking books, organizing genres, capturing quotes, and monitoring reading progress in one place.
+
+### ezTrack: Open-Source Video Analysis Pipeline for Animal Behavior
+
+- URL: https://github.com/DeniseCaiLab/ezTrack
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking classroom open source
+- Found: 2026-06-26
+- Description: An open-source video analysis pipeline that tracks animal center of mass and behavior in defined ROIs, saving frame-by-frame data to CSV. Accessible to users without programming background.
+
+### DeepLabCut: Open-Source AI for Animal Pose Estimation and Behavior Analysis
+
+- URL: https://github.com/DeepLabCut/DeepLabCut
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking classroom open source
+- Found: 2026-06-26
+- Description: The most widely known open-source tracking tool for automated rodent behavioral analysis, using deep learning to detect and categorize behaviors with pose estimation.
+
+### EyeLoop: Open-Source High-Speed Eye-Tracking System
+
+- URL: https://github.com/simonarvin/eyeloop
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking classroom open source
+- Found: 2026-06-26
+- Description: A high-speed, closed-loop eye-tracker using vectorized pupil detection for uninterrupted tracking and fast online analysis, suitable for studying visual dynamics.
+
+### AnimalTracker & Motr: Open-Source Animal Tracking Software
+
+- URL: https://github.com/topics/animal-tracking
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking classroom open source
+- Found: 2026-06-26
+- Description: Open-source tools for automated animal tracking without pose estimation, offering frame-by-frame location data in x/y coordinates for behavioral studies.
+
+### WebGazeR: Open-Source Remote Web-Based Eye-Tracking Method
+
+- URL: https://onlinelibrary.wiley.com/doi/full/10.1111/infa.12564
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking classroom open source
+- Found: 2026-06-26
+- Description: A remote eye-tracking method using participant webcams for research in early childhood, validated for measuring eye movements without in-person equipment.
+
+### Pupil Core: Open-Source Mobile Eye-Tracking Hardware
+
+- URL: https://github.com/pupil-labs/pupil
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tic tracking classroom open source
+- Found: 2026-06-26
+- Description: Hackable, affordable mobile eye-tracking hardware with open-source software in Python and C++, enabling real-time pupil detection and behavior tracking.

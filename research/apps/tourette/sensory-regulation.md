@@ -178,3 +178,103 @@
 - Query: tic tracking overload directory
 - Found: 2026-06-25
 - Description: Therapy blog article explaining how sensory overload from noise, lights, or crowded spaces triggers tics, with insights on pattern recognition for overload management.
+
+### TheTouchPoint Solution: Wearables for Tics and Tourette's
+
+- URL: https://www.thetouchpointsolution.com/blogs/encyclopedia-of-uses/tics-tourettes-eou-blog
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking calming startup
+- Found: 2026-06-26
+- Description: Official documentation page for TheTouchPoint Solution, a startup offering wearables that emit alternating vibrations to disengage stress responses and shift users into a calm, logical state for tic management.
+
+### UNC Startup: Eye-Tracking Technology for Psychiatric Symptom Regulation
+
+- URL: https://www.med.unc.edu/neuroscience/unc-startup-creates-eye-tracking-technology-to-potentially-help-regulate-psychiatric-symptoms/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking calming startup
+- Found: 2026-06-26
+- Description: Official news article about a UNC startup developing eye-tracking technology to potentially help regulate psychiatric symptoms, including those related to neurodivergence, through calming and therapeutic interventions.
+
+### TicTracker: Features and Pattern Analysis - Startup Overview
+
+- URL: https://www.instagram.com/p/DRma1txj7gm/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking calming startup
+- Found: 2026-06-26
+- Description: Official social media post from the TicTracker startup team, describing their tool that empowers users with insight into triggers and trends to help manage overwhelming tics and promote calming strategies.
+
+### TicTracker App: Tracks Motor Tics and Mood - Startup Features
+
+- URL: https://www.facebook.com/unikwork/posts/-the-ideamanaging-tics-can-be-overwhelming-especially-without-awareness-of-trigg/1475550634580682/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking calming startup
+- Found: 2026-06-26
+- Description: Official Facebook post from the TicTracker startup, highlighting features like tracking motor tics by body part and recording daily mood/intensity to support user-centered calming and management.
+
+### Telegraf - Metrics Collection Agent
+
+- URL: https://github.com/influxdata/telegraf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking environment planning open source
+- Found: 2026-06-26
+- Description: GitHub repository for Telegraf, the plugin-based Go binary used to collect metrics from servers and environments, serving as the 'T' in the TICK Stack for open-source environment planning.
+
+### InfluxDB - Open Source Time Series Database
+
+- URL: https://github.com/influxdata/influxdb
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking environment planning open source
+- Found: 2026-06-26
+- Description: GitHub repository for InfluxDB, the open-source storage engine for time-series data, essential for storing metrics in environment planning and tracking workflows.
+
+### Chronograf - Dashboard to Manage Data
+
+- URL: https://github.com/influxdata/chronograf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking environment planning open source
+- Found: 2026-06-26
+- Description: GitHub repository for Chronograf, the open-source dashboard tool to visualize and manage data from InfluxDB and Kapacitor, facilitating environment tracking and planning.
+
+### Kapacitor - Open Source Data Processing Engine
+
+- URL: https://github.com/influxdata/kapacitor
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking environment planning open source
+- Found: 2026-06-26
+- Description: GitHub repository for Kapacitor, the native stream and batch data processing engine of the TICK Stack, used to listen to metrics and take proactive action for environment planning.
+
+### Grafana - Open Source Analytics and Monitoring
+
+- URL: https://grafana.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking environment planning open source
+- Found: 2026-06-26
+- Description: Official website for Grafana, an open-source alternative to Chronograf for visualizing metrics from InfluxDB and planning environments with powerful dashboards and alerts.
+
+### OpenTelemetry - Observability Framework
+
+- URL: https://opentelemetry.io/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tic tracking environment planning open source
+- Found: 2026-06-26
+- Description: Official website for OpenTelemetry, an open-source observability framework for generating and collecting trace and metric data, useful for modern environment tracking and planning tools.

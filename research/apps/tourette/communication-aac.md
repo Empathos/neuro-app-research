@@ -288,3 +288,83 @@
 - Query: tic tracking AAC directory
 - Found: 2026-06-25
 - Description: Official page explaining how eye tracking-enabled speech generating devices empower communication for people with conditions like MND and cerebral palsy, applicable to tic disorders.
+
+### TicTracker - Documentation
+
+- URL: https://docs.neurotherapeutics.io/tictracker
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking speech support startup
+- Found: 2026-06-26
+- Description: Official documentation for the TicTracker app, detailing API usage, speech-adjacent symptom logging, and integration with behavioral therapy tools.
+
+### TicTracker - Neural Speech Integration
+
+- URL: https://www.neurspeech.io/tictracker-integration
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking speech support startup
+- Found: 2026-06-26
+- Description: Page describing how TicTracker integrates with neural speech therapy tools to track vocal tics and support speech-language pathologists in treatment planning.
+
+### TicTracker - Product Demo
+
+- URL: https://www.neurotherapeutics.io/tictracker-demo
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking speech support startup
+- Found: 2026-06-26
+- Description: Interactive demo of the TicTracker app showcasing its AI-powered tic tracking, trigger discovery, and speech-supportive symptom logging features.
+
+### Exploring Social Support in an Online Support Community
+
+- URL: https://www.jmir.org/2022/10/e34403/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking conversation support open source
+- Found: 2026-06-26
+- Description: Research article from JMIR exploring how online support communities help individuals with tic disorders share information, manage feelings, and empower self-management of neurodevelopmental conditions.
+
+### Chatwoot - Open-source Live Chat
+
+- URL: https://github.com/chatwoot/chatwoot
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking conversation support open source
+- Found: 2026-06-26
+- Description: GitHub repository for Chatwoot, an open-source, self-hosted customer support platform that enables conversation management and communication for support teams.
+
+### GlitchTip - Open Source Error Tracking
+
+- URL: https://glitchtip.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking conversation support open source
+- Found: 2026-06-26
+- Description: Official page for GlitchTip, an open-source error tracking platform compatible with Sentry API, used for monitoring performance and site uptime in support workflows.
+
+### TicVision - Tracking Tics in the Digital Age
+
+- URL: https://www.ticvision.io/blog/tracking-tics-digital-age/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking conversation support open source
+- Found: 2026-06-26
+- Description: Blog post from TicVision describing an app that helps patients log tics in a few taps, providing real-time updates to clinicians for better care support.
+
+### GlassesViewer - Open-source Matlab Utility
+
+- URL: https://www.tobii.com/company/this-is-tobii/open-source-software-for-research
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking conversation support open source
+- Found: 2026-06-26
+- Description: Official page for GlassesViewer, an open-source Matlab utility for viewing and analyzing eye-tracking data from Tobii Pro Glasses, supporting research and conversation tools.
