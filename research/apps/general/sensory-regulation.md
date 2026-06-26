@@ -258,3 +258,63 @@
 - Query: neurodiversity overload directory
 - Found: 2026-06-25
 - Description: Practical tips for caregivers on navigating sensory overload in public spaces, featuring a recommended sensory toolkit with noise-canceling headphones and comforting objects.
+
+### Self Intelligence for Life - Biofeedback Gaming Platform for ADHD & Anxiety
+
+- URL: https://www.eurekalert.org/news-releases/1113702
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity calming startup
+- Found: 2026-06-26
+- Description: A startup founded in 2022 in Sao Jose dos Campos, Brazil, offering a gamified platform that uses biometric sensors and biofeedback to teach children with ADHD emotional self-regulation and calming techniques through real-time monitoring and rewards.
+
+### Avoider - App to Reduce Overstimulation in Public Spaces
+
+- URL: https://www.facebook.com/groups/neurodiversityandplaycollectiveclinicians/posts/1239356787666678/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity calming startup
+- Found: 2026-06-26
+- Description: An app created by a developer to help neurodivergent individuals plan errands around quieter times, reducing overstimulation and stress in crowded environments to maintain calm.
+
+### Tiimo - Visual Timer and Routine App for Neurodivergent People
+
+- URL: https://embracethemuchness.com/ndapps
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity calming startup
+- Found: 2026-06-26
+- Description: A neurodivergent-friendly app available on Android and Apple that provides visual timers, reminders, and checklists to help users manage routines and reduce anxiety, with a 1-month free trial.
+
+### Twos - Organizing App for Neurodivergent Users
+
+- URL: https://www.youtube.com/watch?v=dEI9uYuLb7w
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity calming startup
+- Found: 2026-06-26
+- Description: An app developed by Parker Klein and Joe Steilberg to help neurodivergent people stay organized with to-do lists and reminders, reducing mental clutter and stress to promote calm daily functioning.
+
+### Kaboose - Community App for Autistic & Neurodivergent Individuals
+
+- URL: https://www.kaboose.app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity calming startup
+- Found: 2026-06-26
+- Description: A community app for autistic and neurodivergent individuals over 18 to connect, learn, and thrive, offering 'Neuro Nuggets' resources to support emotional regulation and calm.
+
+### Design for the Mind: Neurodiversity and Built Environment Guide
+
+- URL: https://www.housinglin.org.uk/_assets/Resources/Housing/OtherOrganisation/Design-for-the-mind-Neurodiversity-and-the-built-environment-Guide.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity environment planning open source
+- Found: 2026-06-26
+- Description: A PAS guide for designers and planners on creating inclusive built environments by addressing lighting, acoustics, layout, and wayfinding to reduce sensory overload.

@@ -268,3 +268,153 @@
 - Query: neurodiversity AAC directory
 - Found: 2026-06-25
 - Description: Video episode dedicated to understanding neurodiversity-affirming practices with AAC use, featuring Dr. Allison Bean.
+
+### Frist Center for Autism and Innovation - Start-Up Support
+
+- URL: https://www.vanderbilt.edu/autismandinnovation/start-up-support/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Official program from the Frist Center for Autism and Innovation at Vanderbilt University providing partnership and support for startup companies championing autism and neurodiversity, including those focused on speech and communication tools.
+
+### Expressable - What Is Neurodiversity in Speech Therapy
+
+- URL: https://www.expressable.com/learning-center/autism/what-is-neurodiversity-and-how-is-it-related-to-speech-therapy-for-autism
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Educational resource from Expressable, a digital speech therapy platform, detailing neurodiversity-affirming practices and potential startup opportunities in autism and speech support technology.
+
+### Umans - Neurodiversity-Affirming Speech Therapy Guide
+
+- URL: https://www.usa.edu/blog/neurodiversity-affirming-speech-therapy-key-practices-goals/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Comprehensive guide from the University of the Sciences (USAHS) outlining key principles and startup-relevant practices for neurodiversity-affirming speech therapy, emphasizing strengths-based approaches.
+
+### SaLT by the Sea - Pro-neurodiversity Speech Therapy
+
+- URL: https://www.saltbythesea.com/blog/pro-neurodiversity-speech-therapy
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Professional insights from a speech and language therapist on pro-neurodiversity practices, including strategies for startups aiming to build supportive, identity-affirming communication tools.
+
+### Speech Dude - Supporting Autistic Kids with Neurodiversity
+
+- URL: https://www.speechdude.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Website for Speech Dude, a startup model that supports autistic children using a neurodiversity-accepting approach and collects data targeting positive self-identity for educational and therapeutic tools.
+
+### Communicating Together - What is Neurodiversity-Affirming Speech Therapy
+
+- URL: https://www.communicatingtogether.ca/%F0%9F%92%A1-what-is-neurodiversity-affirming-speech-therapy-speech-therapist-explains/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Explanation by a speech therapist on neurodiversity-affirming therapy, highlighting startup opportunities to build tools that focus on strengths rather than 'fixing' neurodivergent traits in speech development.
+
+### Kate Boot - Neurodivergent Advocacy & Therapeutic Services
+
+- URL: https://www.kateboot.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Service page for Kate Boot, offering neurodivergent advocacy and therapeutic services, representing a potential startup or consultancy model for families and clinicians navigating neurodiversity and speech support.
+
+### LinkedIn - Ariel, DC-based SLP for Autism and ADHD Support
+
+- URL: https://www.facebook.com/groups/144240134526834/posts/1126885396262298/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support startup
+- Found: 2026-06-26
+- Description: Profile of Ariel, a speech-language pathologist specializing in neurodiversity-affirming therapy for autism and ADHD, potentially indicating a startup or private practice model for collaborative homeschool and family support.
+
+### Merge Forward Neurodiversity Group (CNCF Slack)
+
+- URL: https://slack.cncf.io/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity conversation support open source
+- Found: 2026-06-26
+- Description: Official CNCF Slack community channel (#merge-forward, #neurodiversity) where neurodivergent open-source contributors and allies collaborate on accessibility and conversation support.
+
+### GitHub Neurocats Community of Belonging
+
+- URL: https://github.community/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity conversation support open source
+- Found: 2026-06-26
+- Description: GitHub's internal 'Neurocats' community of belonging that fosters support for neurodiverse employees through private groups, open dialogue, and flexibility accommodations.
+
+### Open Source Accessibility for Neurodivergent Users
+
+- URL: https://opensource.com/article/22/12/accessibility-neurodiversity
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity conversation support open source
+- Found: 2026-06-26
+- Description: Article detailing four examples of how open-source tools create accessible environments for neurodivergent individuals, including communication and navigation aids.
+
+### Python Community Neurodivergent Support Discussion
+
+- URL: https://discuss.python.org/t/how-can-we-better-support-neurodivergent-newcomers-to-the-community/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity conversation support open source
+- Found: 2026-06-26
+- Description: Active discussion forum thread where Python community members propose and implement support strategies for neurodivergent newcomers, including conversation guidelines.
+
+### NEST Peer Support Group Guide
+
+- URL: https://www.theinformedslp.com/review/Neurodiversity-affirming-resources-for-free-Yes-please
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity conversation support open source
+- Found: 2026-06-26
+- Description: Comprehensive guide for creating and running neurodivergent peer support groups, with frameworks for conversation support and community building.
+
+### Neurodiversity-Affirming Interventions Framework
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10430771/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity conversation support open source
+- Found: 2026-06-26
+- Description: Research framework for neurodiversity-affirming interventions in educational and clinical settings, offering principles for supportive conversations and open scholarship.
+
+### Bridging Neurodiversity and Open Scholarship
+
+- URL: https://spssi.onlinelibrary.wiley.com/doi/10.1111/josi.70035
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity conversation support open source
+- Found: 2026-06-26
+- Description: Article reviewing systemic barriers faced by neurodivergent researchers and shared values between neurodiversity and open scholarship for better community support.
