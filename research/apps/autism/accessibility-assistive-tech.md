@@ -141,7 +141,7 @@
 
 ### Proloquo2Go
 
-- URL: https://www.atommation.com/proloquo2go
+- URL: https://www.assistiveware.com/products/proloquo2go
 - Source: perplexity-sonar
 - Condition: autism
 - Support category: accessibility-assistive-tech
