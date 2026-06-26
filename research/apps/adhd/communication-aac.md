@@ -248,3 +248,93 @@
 - Query: executive function AAC directory
 - Found: 2026-06-25
 - Description: Research article discussing how impairments in executive functioning interact with the ability to use AAC effectively.
+
+### Short-Term Executive Plus (STEP)
+
+- URL: https://tactustherapy.com/executive-functioning-adults-treatment/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function speech support startup
+- Found: 2026-06-26
+- Description: A treatment program by Tactus Therapy involving problem-solving, emotional regulation, attention, and cognitive supports like calendars and to-do lists, designed for executive function rehabilitation.
+
+### 360 Thinking Method
+
+- URL: https://www.efpractice.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function speech support startup
+- Found: 2026-06-26
+- Description: An award-winning executive function methodology featuring the Time Tracker Program and the 'Get Ready * Do * Done' method, offering tools for cognitive connections and time management.
+
+### Visualizing and Verbalizing (Reading-Support Program)
+
+- URL: https://www.gvlsi.com/visualizing-and-verbalizing/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function speech support startup
+- Found: 2026-06-26
+- Description: A program by Gifford V. L. SI that strengthens working memory by teaching students to create mental movies while listening and 'press play' to recall information, often used in speech therapy contexts.
+
+### Speechy Musings Executive Functioning Curriculum
+
+- URL: https://speechymusings.com/executive-functioning-speech-therapy/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function speech support startup
+- Found: 2026-06-26
+- Description: A curriculum designed for children on the autism spectrum and those with language disorders or ADHD, teaching flexibility, organization, and problem-solving strategies for executive functioning.
+
+### Bilinguistics Executive Function in Speech Therapy
+
+- URL: https://bilinguistics.com/executive-function-in-speech-therapy/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function speech support startup
+- Found: 2026-06-26
+- Description: A resource explaining the role of SLPs in teaching executive function skills like inhibition, planning, and self-monitoring to help children and adults make independent better choices.
+
+### BetterSpeech Executive Dysfunction Guide
+
+- URL: https://www.betterspeech.com/post/executive-dysfunction-signs-strategies-andspeech-therapy-solutions
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function speech support startup
+- Found: 2026-06-26
+- Description: A guide discovering signs of executive dysfunction and practical strategies to manage it, including how speech therapy can support task initiation, working memory, and planning.
+
+### Notebook LM - Language Model Smart Notebook by Google
+
+- URL: https://notebooklm.google/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function conversation support open source
+- Found: 2026-06-26
+- Description: A smart notebook tool that uses AI to support executive functions by organizing notes, importing slides, converting audio to text, and aiding conversation support through structured content generation.
+
+### EF Toolkit - Routineflow App Recommendation
+
+- URL: https://www.youtube.com/watch?v=H4oIQrBe8aI
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function conversation support open source
+- Found: 2026-06-26
+- Description: Video resource featuring Routineflow, an app recommended for neurodivergent users to externalize routines, manage schedules, and support conversation through structured planning tools.
+
+### EF Toolkit Site - Open Source Educational Tools
+
+- URL: https://www.internetpubliclibrary.org
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: executive function conversation support open source
+- Found: 2026-06-26
+- Description: A public repository of open educational resources for all ages, including materials on executive function, self-regulation, and neurodivergence support for schools and individuals.

@@ -308,3 +308,133 @@
 - Query: executive function learning support directory
 - Found: 2026-06-25
 - Description: Clinical guide offering top 10 actionable strategies for improving executive functioning, including planning systems, time management tools, and accountability methods for students and learners.
+
+### Understood.org: Executive Function Tools for Reading
+
+- URL: https://www.understood.org/en/articles/what-is-executive-function
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-06-26
+- Description: Public educational platform offering free tools, checklists, and apps designed to support executive function skills like working memory and planning to improve reading comprehension.
+
+### Reading Rockets: Neurodiversity and Executive Function
+
+- URL: https://www.readingrockets.org/helping-all-readers/neurodiversity-and-children-learning-differences/children-executive-function
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-06-26
+- Description: Comprehensive guide and resource hub for educators and parents providing practical classroom strategies to support executive function in reading for children with learning differences.
+
+### Reading Recovery: Executive Function Skills in Literacy
+
+- URL: https://readingrecovery.org/wp-content/uploads/2022/05/jrr_21-2_spring2022_williams.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-06-26
+- Description: Research-backed framework and documentation detailing how executive function skills (planning, flexibility, self-regulation) are critical for goal-directed literacy persistence.
+
+### Shanahan on Literacy: Teaching Executive Function in Reading
+
+- URL: https://www.shanahanonliteracy.com/blog/how-do-we-teach-executive-function-in-reading
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-06-26
+- Description: Expert blog and resource providing specific curriculum insights and instructional methods for teaching executive function skills directly within reading contexts for neurodivergent learners.
+
+### Key to Literacy: Executive Function in Reading and Writing
+
+- URL: https://keystoliteracy.com/blog/the-role-of-executive-functions-in-reading-and-writing
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-06-26
+- Description: Educational resource offering metacognitive awareness tools, graphic organizers, and goal-setting strategies to enhance reading proficiency through executive function support.
+
+### LDA America: The Reading Brain and Executive Function
+
+- URL: https://ldaamerica.org/info/the-reading-brain-executive-function-hard-at-work/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-06-26
+- Description: Detailed guide on how executive function reserves impact reading preparation and comprehension, offering pacing strategies and self-monitoring tools for learners.
+
+### Phonics and Reading: EF-Based Reading Intervention
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11045473/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-06-26
+- Description: Research article documenting an executive-function-based reading training program that enhances sensory processing and working memory, serving as a foundation for clinical reading support tools.
+
+### SMARTS Executive Function Curriculum
+
+- URL: https://www.smarts-ef.org
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-06-26
+- Description: Research-based executive function curriculum and lesson plans for elementary, middle, and high school students; includes open educational resources and classroom tools.
+
+### NSF Executive Function: Implications for Education (Open PDF)
+
+- URL: https://ies.ed.gov/ncer/2025/01/executive-function-implications-education
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-06-26
+- Description: Open-access research publication detailing evidence-based classroom strategies and interventions for improving executive function in K-12 education.
+
+### ResearchILD MetaCOG Surveys & Toolkit
+
+- URL: https://researchild.org/blog/executive-function-offerings-from-researchild/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-06-26
+- Description: Interactive executive function system with open surveys and learning profile tools to identify student needs in grades 6-12 for targeted classroom support.
+
+### AddItudemag Free Executive Function Strategy Guide (Special Ed)
+
+- URL: https://www.facebook.com/groups/iepeduc/posts/1051616110358577/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-06-26
+- Description: Peer-reviewed open strategy guide for special education educators supporting neurodivergent students with executive function challenges including ADHD and autism.
+
+### Dr. Mitch Weathers Executive Functions for Every Classroom Resources
+
+- URL: https://www.youtube.com/watch?v=SrGokIITEXw
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-06-26
+- Description: Open webinar with veteran educator Mitch Weathers sharing clarity, modeling, and routine-based classroom strategies for building executive function skills.
+
+### Open Educational Resources for Executive Function - PMC Review
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-06-26
+- Description: Open-access NIH review summarizing evidence-based open classroom activities like PATHS, CSRP, mindfulness, and yoga programs that improve executive function.

@@ -288,3 +288,53 @@
 - Query: executive function overload directory
 - Found: 2026-06-25
 - Description: Official state program page for California's Self-Determination Program, offering access to peer support, coaching, and external tools to manage executive function challenges in neurodivergent individuals.
+
+### Reclaim.ai: AI Scheduler for Task Management
+
+- URL: https://www.reclaim.ai/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function calming startup
+- Found: 2026-06-26
+- Description: An AI-powered scheduling tool that automatically integrates tasks into calendars, reducing the mental load of planning and helping users start their day calmly with a structured, realistic routine.
+
+### Cloogg: AI Executive Function Assistant
+
+- URL: https://www.cloogg.ai/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function calming startup
+- Found: 2026-06-26
+- Description: An AI assistant designed to outsource executive function planning by asking users structured questions to prioritize tasks, helping to reduce overwhelm and create a calm, actionable startup plan.
+
+### FreeRange: Calm Startup & Focus Soundscapes
+
+- URL: https://freerangestudio.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function calming startup
+- Found: 2026-06-26
+- Description: Documentation and access page for a platform offering ambient soundscapes and focus music designed to create a calm sensory environment, reducing anxiety and improving the ability to start tasks.
+
+### An open-source Stroop task program that incorporates a switching condition
+
+- URL: https://www.sciencedirect.com/science/article/pii/S2665963822000732
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function environment planning open source
+- Found: 2026-06-26
+- Description: Official publication and code repository for an open-source Stroop task program designed to measure executive function via switching conditions, applicable for research on neurodivergence and cognitive control.
+
+### SpiderNet - Mind Mapping Tool
+
+- URL: https://spidernet.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: executive function environment planning open source
+- Found: 2026-06-26
+- Description: Open-source mind mapping and brainstorming software that helps users visualize complex ideas and plan environments, supporting executive function strategies for neurodivergent individuals.
