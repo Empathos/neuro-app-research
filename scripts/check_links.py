@@ -21,6 +21,12 @@ ROOT = Path(__file__).resolve().parents[1]
 URL_PATTERN = re.compile(r"^- URL:\s*(https?://\S+)\s*$", re.MULTILINE)
 PROTECTED_STATUSES = {401, 403, 405, 406, 407, 408, 409, 418, 423, 425, 429, 451}
 HARD_DEAD_STATUSES = {404, 410}
+HARD_BLOCKING_DETAILS = (
+    "Blocked private/loopback",
+    "Invalid URL",
+    "Invalid URL host",
+    "Unsupported URL scheme",
+)
 
 
 class BlockedTargetError(Exception):
@@ -251,6 +257,20 @@ def write_report(results: list[Result], report_path: Path) -> None:
     report_path.write_text("\n".join(lines), encoding="utf-8")
 
 
+def is_blocking_dead(result: Result) -> bool:
+    return result.status == "dead" and result.detail.startswith(HARD_BLOCKING_DETAILS)
+
+
+def failing_dead_results(results: list[Result], max_public_dead: int) -> list[Result]:
+    dead = [result for result in results if result.status == "dead"]
+    blocking_dead = [result for result in dead if is_blocking_dead(result)]
+    public_dead = [result for result in dead if result not in blocking_dead]
+    failing = list(blocking_dead)
+    if len(public_dead) > max_public_dead:
+        failing.extend(public_dead)
+    return failing
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("paths", nargs="*", default=["research/apps"])
@@ -266,6 +286,15 @@ def main() -> int:
         "--allow-private",
         action="store_true",
         help="Allow private, loopback, and link-local targets. Intended only for local fixtures.",
+    )
+    parser.add_argument(
+        "--max-public-dead",
+        type=int,
+        default=0,
+        help=(
+            "Allow up to this many public hard-dead links before failing. "
+            "Private/internal/invalid targets always fail."
+        ),
     )
     args = parser.parse_args()
 
@@ -286,15 +315,23 @@ def main() -> int:
     write_report(results, ROOT / args.report)
 
     dead = [result for result in results if result.status == "dead"]
+    blocking_dead = [result for result in dead if is_blocking_dead(result)]
+    public_dead = [result for result in dead if result not in blocking_dead]
+    failing_dead = failing_dead_results(results, args.max_public_dead)
     warnings = [result for result in results if result.status == "warning"]
     print(f"Checked {len(results)} links: {len(dead)} dead, {len(warnings)} warning(s).")
-    if dead:
-        for result in dead[:20]:
+    if failing_dead:
+        for result in failing_dead[:20]:
             print(f"DEAD {result.detail}: {result.url}", file=sys.stderr)
-        if len(dead) > 20:
-            print(f"... and {len(dead) - 20} more dead link(s)", file=sys.stderr)
+        if len(failing_dead) > 20:
+            print(f"... and {len(failing_dead) - 20} more dead link(s)", file=sys.stderr)
         print(f"Full report: {args.report}", file=sys.stderr)
         return 1
+    if public_dead:
+        print(
+            f"Allowed {len(public_dead)} public dead link(s) within "
+            f"--max-public-dead={args.max_public_dead}.",
+        )
     if warnings:
         print(f"Warnings recorded in {args.report}.")
     return 0

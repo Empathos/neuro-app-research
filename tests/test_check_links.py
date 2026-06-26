@@ -92,6 +92,39 @@ class LinkCheckerTests(unittest.TestCase):
                 newurl=f"{self.base_url}/ok",
             )
 
+    def test_public_dead_links_can_use_budget(self) -> None:
+        results = [
+            check_links.Result("https://example.com/old-1", "dead", "HTTP 404", ("a.md",)),
+            check_links.Result("https://example.com/old-2", "dead", "HTTP 410", ("b.md",)),
+        ]
+
+        self.assertEqual(check_links.failing_dead_results(results, max_public_dead=2), [])
+        self.assertEqual(check_links.failing_dead_results(results, max_public_dead=1), results)
+
+    def test_private_dead_links_ignore_public_budget(self) -> None:
+        result = check_links.Result(
+            "http://127.0.0.1/admin",
+            "dead",
+            "Blocked private/loopback address",
+            ("fixture.md",),
+        )
+
+        self.assertEqual(check_links.failing_dead_results([result], max_public_dead=99), [result])
+
+    def test_blocking_dead_does_not_spend_public_budget(self) -> None:
+        blocking = check_links.Result(
+            "http://127.0.0.1/admin",
+            "dead",
+            "Blocked private/loopback address",
+            ("fixture.md",),
+        )
+        public = check_links.Result("https://example.com/old", "dead", "HTTP 404", ("a.md",))
+
+        self.assertEqual(
+            check_links.failing_dead_results([blocking, public], max_public_dead=1),
+            [blocking],
+        )
+
     def test_discovers_links_from_external_fixture_paths(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             fixture = Path(temp_dir) / "fixture.md"
