@@ -278,3 +278,163 @@
 - Query: reading support task initiation directory
 - Found: 2026-06-25
 - Description: Comprehensive article on the basics of task initiation, including skills assessment, motivation examination, and support network organization for neurodivergent students.
+
+### Reading Rockets: Neurodiversity and Children with Learning Differences
+
+- URL: https://www.readingrockets.org/helping-all-readers/neurodiversity-and-children-learning-differences
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: A national public media literacy initiative offering research-based resources on how young kids learn to read, specifically addressing dyslexia, autism, and ADHD as expressions of neurodiversity.
+
+### SmartBrief: The Science of Reading and Neurodivergent Learners
+
+- URL: https://www.smartbrief.com/original/the-science-of-reading-and-neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: An article detailing five best practices for schools to support neurodivergent learners, including early reading instruction, inclusion strategies, and recognizing the continuum of neurodivergence.
+
+### PMC: Neurodiversity and Cognitive Load in Online Learning
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11020716/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: A qualitative study examining how neurodivergent students experience cognitive load in online learning, highlighting challenges like inaccessible content and the need for specific accommodations.
+
+### Thriving with Neurodivergence at Work: Toolkits and Strategies
+
+- URL: https://www.workplacestrategiesformentalhealth.com/resources/thriving-with-neurodivergence-at-work
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: A guide offering practical tools for neurodivergent individuals, including screen readers, speech-to-text apps, flexible hours, and organizational strategies to support work routines.
+
+### Sage Journals: Rapid Review of Supports for Neurodivergent Students
+
+- URL: https://journals.sagepub.com/doi/10.1177/27546330241291769
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: A rapid academic review focusing on current support systems for higher education students with neurodivergent conditions like autism and dyslexia.
+
+### Alex Kerr Education: Transforming Education for Neurodiverse Students
+
+- URL: https://www.youtube.com/watch?v=kQ2zkGnvXkM
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: A video resource by Alex Kerr Education discussing the importance of setting up the right study environment and supporting neurodiverse students with tailored routines.
+
+### Everway: Proven Strategies to Support Neurodiversity in the Workplace
+
+- URL: https://www.everway.com/blog/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: A blog featuring expert panel insights and proven strategies for supporting neurodiversity, including actionable tools for routine management and workplace inclusivity.
+
+### Facebook: Neurodiversity Affirming Schools and Inclusive Classrooms
+
+- URL: https://www.facebook.com/MrsArensberg/posts/starting-my-summer-reading-with-neurodiversity-affirming-schools-and-im-already-/965992732864148/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support routine startup
+- Found: 2026-06-26
+- Description: A post showcasing inclusive classroom practices such as flexible seating and sensory-friendly environments that support focus and reading routines for neurodivergent students.
+
+### Reminders - Open Source Linux Reminder App
+
+- URL: https://itsfoss.com/news/reminders/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: A simple, open-source reminder app for Linux written primarily in Python. It features a compact package with location-based reminders and pops up at scheduled times.
+
+### Remembrance on Flathub
+
+- URL: https://flathub.org/apps/io.github.dgsasha.Remembrance
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: Official Flathub repository for the Remembrance app (formerly Reminders), allowing Linux users to install via Flatpak for reading support and task reminders.
+
+### Remembrance Source Code on GitHub
+
+- URL: https://github.com/dgsasha/remembrance
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: The official GitHub repository for the open-source Remembrance app, containing the source code for building custom reading support and reminder tools on Linux.
+
+### Openreads - Reading List Tracker
+
+- URL: https://play.google.com/store/apps/details?id=software.mdev.bookstracker
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: An open-source, ad-free mobile app for organizing book libraries and tracking reading progress, useful for neurodivergent users managing reading goals.
+
+### Readest - Ebook Reader
+
+- URL: https://github.com/readest/readest
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: A modern, open-source ebook reader built with Next.js and Tauri, designed for immersive reading experiences across multiple platforms including mobile and desktop.
+
+### Childsplay - Early Literacy Games
+
+- URL: https://childsplay.sourceforge.net/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: An open-source collection of educational games for young learners, including specific activities for letter recognition and alphabet sequencing to support reading development.
+
+### GCompris - Educational Activities Suite
+
+- URL: https://gcompris.net/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: A comprehensive open-source suite of over 130 educational games for children under 10, featuring activities for letter recognition, vocabulary building, and reading support.
+
+### BookPoints - Summer Reading Platform
+
+- URL: https://bookpoints.org
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: reading support reminders open source
+- Found: 2026-06-26
+- Description: A free, open-source online application for libraries to build custom summer reading websites, helping users track and organize reading activities with reminders.

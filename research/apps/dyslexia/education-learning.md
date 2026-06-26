@@ -108,3 +108,83 @@
 - Query: reading support learning support directory
 - Found: 2026-06-25
 - Description: Adaptive Malayalam AI tutor for neurodivergent learners with personalized learning and mastery tracking.
+
+### Read&Write - Text-to-Speech and Literacy Support Tool
+
+- URL: https://www.readandwrite.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support reading support startup
+- Found: 2026-06-26
+- Description: Official product page for Read&Write, a comprehensive literacy support startup offering text-to-speech, word prediction, and study tools designed for neurodivergent learners including those with dyslexia.
+
+### Voice Dream Reader App - Text-to-Speech Startup Tool
+
+- URL: https://voicedream.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support reading support startup
+- Found: 2026-06-26
+- Description: Official site for Voice Dream Reader, a startup app offering advanced text-to-speech with customizable voices and highlighting, designed for neurodivergent users needing reading support.
+
+### Newsela - Leveled Text Reading Startup Platform
+
+- URL: https://www.newsdela.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support reading support startup
+- Found: 2026-06-26
+- Description: Newsela is a startup providing leveled text by Lexile, with scaffolding tools to support struggling, on-grade-level, and ENL readers, including neurodivergent students.
+
+### ReWordify - AI Reading Simplification Startup Tool
+
+- URL: https://rewordify.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support reading support startup
+- Found: 2026-06-26
+- Description: ReWordify is a startup AI tool that simplifies difficult English text into easier vocabulary, supporting neurodivergent learners and ESL students in building reading comprehension.
+
+### Childsplay - Open Source Educational Games
+
+- URL: https://www.childsplay.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support classroom open source
+- Found: 2026-06-26
+- Description: An open-source collection of over a dozen educational games for young learners, including specific activities for letter recognition, memory games, and identifying spoken letters. Licensed under GPLv2.
+
+### eduActiv8 - Python Educational Program
+
+- URL: https://eduaactiv8.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support classroom open source
+- Found: 2026-06-26
+- Description: An open-source Python application created to build basic math and early literacy skills. Includes spelling, matching, listening activities, and games for alphabet filling and word unscrambling. Licensed under GPLv3.
+
+### Curriki - Open Educational Resources Repository
+
+- URL: https://www.curriki.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support classroom open source
+- Found: 2026-06-26
+- Description: A global repository for open educational resources (OER) including lesson plans, activities, and curriculum for reading and literacy, legally licensed for reuse and remixing.
+
+### Bookworms K5 Reading & Writing - Open Up Resources
+
+- URL: https://www.openupresources.org/ela-curricula/bookworms-k-5-reading-writing/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support classroom open source
+- Found: 2026-06-26
+- Description: An open-source ELA curriculum providing a clear pathway for foundational skills from phonemic awareness to fluent reading, suitable for classroom reading support.

@@ -88,3 +88,133 @@
 - Query: dyslexia self regulation iOS Android
 - Found: 2026-06-24
 - Description: An inclusive AI-powered care platform designed to support individuals with neurodivergent conditions such as Autism and Dyslexia. NeuroNest provides tools for learning, emotional support, daily routines, and real-time monitoring for caregivers and healthcare professionals.
+
+### AIM Coaching: Self-Regulated Reading Parent Flyer
+
+- URL: https://aimcoaching.org/wp-content/uploads/2021/12/Parent_Flyer_SRR.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support self regulation startup
+- Found: 2026-06-26
+- Description: A public resource from AIM Coaching offering a three-stage process (planning, checking, reflecting) to help parents support children with self-regulated reading, addressing emotional and behavioral aspects of neurodivergent reading challenges.
+
+### Self-Regulated Strategy Development (SRSD) by Reading Rockets
+
+- URL: https://www.readingrockets.org/resources/expert-qa/how-does-self-regulation-factor-kids-learning-use-writing-strategies
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support self regulation startup
+- Found: 2026-06-26
+- Description: Reading Rockets details Karen Harris's Self-Regulated Strategy Development approach, which integrates goal-setting, monitoring, and reinforcement for neurodivergent students in writing and reading tasks.
+
+### Deborah Butler: Self-Regulated Learning in Reading Context
+
+- URL: https://www.youtube.com/watch?v=ifkQ7SgSSQw
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support self regulation startup
+- Found: 2026-06-26
+- Description: A video presentation by Deborah Butler explaining self-regulation as strategic engagement in reading, offering teachers methods to support neurodivergent learners through planning, monitoring, and reflection cycles.
+
+### Emotional Self-Regulation and Reading Success (Literacy Worldwide)
+
+- URL: https://www.literacyworldwide.org/blog/literacy-now/2018/08/16/emotional-self-regulation-and-reading-success
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support self regulation startup
+- Found: 2026-06-26
+- Description: Literacy Worldwide shares activities to build emotional self-regulation skills in readers, supporting literacy success for children with neurodivergence by linking emotional control to reading comprehension.
+
+### Self-Regulation and Comprehension in Shared Reading (Wiley)
+
+- URL: https://onlinelibrary.wiley.com/doi/full/10.1111/cdev.14128
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support self regulation startup
+- Found: 2026-06-26
+- Description: A research article demonstrating how verbal engagement during shared reading supports children struggling with self-regulation, offering evidence-based strategies for neurodivergent reading support.
+
+### Fiction Picture Books for Self-Regulation Strategies (Facebook Community)
+
+- URL: https://www.facebook.com/groups/australianprimaryteachers/posts/3076960999271446/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support self regulation startup
+- Found: 2026-06-26
+- Description: A community discussion seeking fiction and picture books that teach top-down/bottom-up self-regulation strategies, relevant for Stage 3 neurodivergent students learning reading support techniques.
+
+### Early Literacy Interventions Tool (ChatGPT-based)
+
+- URL: https://www.waltonfamilyfoundation.org/stories/education/using-ai-to-support-and-engage-struggling-readers
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support coping skills open source
+- Found: 2026-06-26
+- Description: An open-source AI chatbot demo built on HuggingFace that answers questions and designs evidence-based learning plans for struggling readers, including those with dyslexia, using the U.S. Department of Education's clearinghouse data.
+
+### SQ3R Active Reading Toolkit
+
+- URL: https://help.open.ac.uk/critical-reading-techniques/active-reading
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support coping skills open source
+- Found: 2026-06-26
+- Description: Open educational resource detailing the SQ3R (Skim, Question, Read, Remember, Review) method and active reading techniques like annotation and critical questioning to support comprehension and reduce anxiety during reading.
+
+### Mindful Reading Guide for Mental Health
+
+- URL: https://www.bcm.edu/news/mindful-reading-and-mental-health
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support coping skills open source
+- Found: 2026-06-26
+- Description: Official guide from Baylor College of Medicine on using mindful reading as a coping skill to reduce stress and anxiety, emphasizing slowing down, eliminating distractions, and engaging nonjudgmentally with text.
+
+### Open-Source Coping Skills Book Lists for Kids
+
+- URL: https://readyourworld.org/kids-books-about-coping-skills-what-every-summer-reading-list-should-include/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support coping skills open source
+- Found: 2026-06-26
+- Description: A curated, open list of 10 book collections focused on coping skills and emotional regulation for children, featuring stories that normalize feelings and demonstrate coping behaviors in action.
+
+### Reading as a Coping Skill Personal Essay Repository
+
+- URL: https://mountainmemoirs.com/books/reading-as-a-coping-skill
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support coping skills open source
+- Found: 2026-06-26
+- Description: A personal essay and resource collection exploring how reading serves as a primary coping mechanism for anxiety, offering strategies like weighted blanket reading to crowd out intrusive thoughts.
+
+### Facebook Group: Reading as a Coping Skill
+
+- URL: https://www.facebook.com/groups/1401313381135259/posts/1528776295055633/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support coping skills open source
+- Found: 2026-06-26
+- Description: Community group discussion thread outlining specific ways reading functions as a tool for managing emotional pain, reducing stress, and supporting mental well-being.
+
+### HuggingFace: Early Literacy AI Model Code
+
+- URL: https://huggingface.co/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: reading support coping skills open source
+- Found: 2026-06-26
+- Description: Open-source platform hosting the code for the Early Literacy Interventions Tool, allowing developers to replicate and customize the AI model for neurodivergent reading support and learning disability interventions.

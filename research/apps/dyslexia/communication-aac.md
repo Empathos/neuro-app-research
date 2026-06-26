@@ -248,3 +248,133 @@
 - Query: reading support AAC directory
 - Found: 2026-06-25
 - Description: A public blog and tool repository offering practical routines for integrating AAC into reading, print, phonics, and writing instruction for neurodivergent students.
+
+### ReadSpeaker TextAid
+
+- URL: https://www.readspeaker.com/textaid/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: Cloud-based text-to-speech and reading support tool designed for students with dyslexia and neurodivergence, offering assisted reading, writing, and studying features.
+
+### Read&Write by Tangible Software
+
+- URL: https://www.tangiblesoftware.com/readwrite
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: Literacy support software featuring text-to-speech, dictation, and word prediction to help neurodivergent learners read, write, study, and research independently.
+
+### Speechify
+
+- URL: https://speechify.io/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: AI-powered text-to-speech app and Chrome extension with high accuracy, designed to support reading comprehension, independence, and wellbeing for neurodivergent users.
+
+### Bookshare
+
+- URL: https://bookshare.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: Free digital library offering accessible books with text-to-speech and audio features for individuals with print disabilities, including dyslexia and other learning needs.
+
+### Learning Ally
+
+- URL: https://learningally.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: Paid subscription platform providing human-spoken and audio educational resources to support reading, learning, and participation for neurodivergent students.
+
+### Seeing AI
+
+- URL: https://seeingai.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: Free text-to-speech app designed for low vision and blind users, offering high accuracy and accessibility features for reading digital content.
+
+### Ello
+
+- URL: https://www.ello.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: Child-friendly read-along companion app that listens, teaches, and transforms reading experiences for neurodivergent children from Kindergarten to 3rd Grade.
+
+### Understood Text-to-Speech Guide
+
+- URL: https://www.understood.org/en/articles/text-to-speech-technology-what-it-is-and-how-it-works
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support speech support startup
+- Found: 2026-06-26
+- Description: Comprehensive guide on assistive text-to-speech technology, explaining its benefits for kids with reading, writing, and focus challenges, including neurodivergence.
+
+### Edu-ConvoKit: Open-Source Library for Education Conversation Data
+
+- URL: https://aclanthology.org/2024.naacl-demo.6.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support conversation support open source
+- Found: 2026-06-26
+- Description: A pip-installable, open-source library designed to facilitate the pre-processing, annotating, and analyzing of education conversation data, supporting research in reading and conversation support for neurodivergent learners.
+
+### OpenStax: Free Open Source Textbooks
+
+- URL: https://www.youtube.com/watch?v=eB4MUWjozpM
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support conversation support open source
+- Found: 2026-06-26
+- Description: OpenStax provides free, open-source textbooks and course materials, offering accessible reading resources for students, including those with neurodivergent learning needs.
+
+### AI Reading Partners for Language and Literacy Development
+
+- URL: https://childcenteredai.org/research/ai-reading-partners-to-support-language-and-literacy-dev/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support conversation support open source
+- Found: 2026-06-26
+- Description: An AI-assisted intervention using conversational agents to support childrens language learning through storybook reading, with a focus on multilingual and neurodivergent backgrounds.
+
+### The Reading League: Science of Reading
+
+- URL: https://www.thereadingleague.org
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support conversation support open source
+- Found: 2026-06-26
+- Description: Advances the understanding and use of evidence-aligned reading instruction through the science of reading, offering open-source resources for reading support and conversation development.
+
+### Open Source Phonics: Free Access to Science-Aligned Literacy Materials
+
+- URL: https://www.opensourcephonics.org/who-we-are/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: reading support conversation support open source
+- Found: 2026-06-26
+- Description: Promotes free access to science-aligned literacy materials, supporting open-source reading support and conversation tools for neurodivergent individuals.
