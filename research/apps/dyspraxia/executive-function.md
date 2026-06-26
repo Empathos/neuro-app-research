@@ -218,3 +218,113 @@
 - Query: motor planning task initiation directory
 - Found: 2026-06-25
 - Description: Instagram content highlighting the relationship between Executive Function components and Motor Skills, specifically focusing on Task Initiation and Planning & Organization.
+
+### Motor Planning Activities for Home - Brainwaves OT
+
+- URL: https://brainwavesot.com/activities-to-support-motor-planning-at-home/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning routine startup
+- Found: 2026-06-26
+- Description: A public resource guide offering step-by-step home activities to support praxis development, focusing on planning, sequencing, and adapting movements for routine startup.
+
+### Top Motor Planning Activities for Autism - Upbility
+
+- URL: https://upbility.net/blogs/news/top-motor-planning-activities-for-autism-to-enhance-skills-and-fun
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning routine startup
+- Found: 2026-06-26
+- Description: A detailed article listing engaging activities like obstacle courses and animal walks that enhance motor planning skills and help children start routines with greater independence.
+
+### Supporting Motor Skills in Autism - Grateful Care ABA
+
+- URL: https://www.gratefulcareaba.com/blog/supporting-motor-skills-in-autism
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning routine startup
+- Found: 2026-06-26
+- Description: Resource on using sensory circuits, visual cues, and structured practice to improve motor planning and help autistic children manage routine-related motor challenges.
+
+### Getting Dressed Visual Schedules - Instagram Reel
+
+- URL: https://www.instagram.com/reel/DVjtiOlkSht/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning routine startup
+- Found: 2026-06-26
+- Description: Video demonstration showing how visual schedules break down dressing routines into pictures, reducing the need for working memory and motor planning during routine startup.
+
+### Intentional Motor Workouts for Autism - Sunrise Therapies
+
+- URL: https://www.sunrisetherapiesinc.com/im-motor-workouts-and-coaching
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning routine startup
+- Found: 2026-06-26
+- Description: Offering intentional motor workouts to strengthen motor planning, regulation, and sequencing, specifically designed to support routine startup for autistic and apraxic individuals.
+
+### Tasks.org - Open-source to-do lists & reminders
+
+- URL: https://tasks.org
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning reminders open source
+- Found: 2026-06-26
+- Description: Open-source, privacy-friendly to-do lists and reminders for Android with support for motor planning through customizable tasks, due dates, and notifications.
+
+### Super Productivity - Open-source deep work task manager
+
+- URL: https://super-productivity.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning reminders open source
+- Found: 2026-06-26
+- Description: Advanced open-source task manager with timeboxing, time tracking, and calendar integration to support motor planning and structured workflow for neurodivergent users.
+
+### Super Productivity repository on GitHub
+
+- URL: https://github.com/super-productivity/super-productivity
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning reminders open source
+- Found: 2026-06-26
+- Description: Official GitHub repository for Super Productivity, featuring an open-source project with integrations for Jira and GitLab to enhance task management and planning.
+
+### Tasks.org on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=org.tasks
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning reminders open source
+- Found: 2026-06-26
+- Description: Official Google Play page for Tasks.org, an open-source app designed to help users manage tasks, set reminders, and maintain schedules for motor planning support.
+
+### Super Productivity on GitHub - Documentation
+
+- URL: https://github.com/super-productivity/super-productivity/wiki
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning reminders open source
+- Found: 2026-06-26
+- Description: Documentation wiki for Super Productivity detailing features like timeboxing and task import from calendars, Jira, and GitHub to assist neurodivergent users.
+
+### O.S. Open productivity tools article
+
+- URL: https://opensource.com/article/20/12/super-productivity
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: motor planning reminders open source
+- Found: 2026-06-26
+- Description: Article discussing Super Productivity as an open-source tool for work-life balance, offering tags, projects, and scheduling features beneficial for neurodivergent task management.
