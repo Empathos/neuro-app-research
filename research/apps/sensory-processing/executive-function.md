@@ -208,3 +208,53 @@
 - Query: sensory regulation task initiation directory
 - Found: 2026-06-25
 - Description: Comprehensive guide listing sensory regulation rituals (specific songs, stretching, deep breaths) and dopamine-stacking techniques to pair with challenging tasks for better initiation.
+
+### New Patterns ABA - Sensory Activities in Daily Routines
+
+- URL: https://www.newpatternsaba.com/blog/adding-sensory-activities-to-daily-autism-routines
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory regulation routine startup
+- Found: 2026-06-26
+- Description: Resource guide on adding sensory activities (alerting, organizing, calming) to daily autism routines to support sensory regulation and development, featuring visual schedules and timers.
+
+### Source Kids - Mobile Apps for Sensory Processing
+
+- URL: https://www.facebook.com/sourcecoau/posts/mobile-apps-to-help-with-sensory-processing-and-self-regulation/6934559609948168/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory regulation routine startup
+- Found: 2026-06-26
+- Description: Article listing 7 mobile apps designed to help with sensory processing and self-regulation for neurodivergent children, offering practical digital tools for routine support.
+
+### Harkla - Before School Sensory Strategies
+
+- URL: https://harkla.co/blogs/special-needs/before-school-strategies
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory regulation routine startup
+- Found: 2026-06-26
+- Description: Blog post offering sensory strategies to help kids start the school day, focusing on preferred alerting activities and consistent morning routines to support transition from sleep to wakefulness.
+
+### OpenBehavior Platform for Go/No-Go Tasks
+
+- URL: https://edspace.american.edu/openbehavior/project/open-source-platform-sensory-tasks/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory regulation reminders open source
+- Found: 2026-06-26
+- Description: An open-source Arduino and Python based behavioral platform for sensory tasks and Go/No-Go experiments, featuring water reward delivery, lick sensors, and sensory stimulation components.
+
+### STAR Institute Sensory Integration Approaches
+
+- URL: https://research.aota.org/ajot/article/77/Supplement%203/7713410230/25035/Sensory-Integration-Approaches-for-Children-and
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory regulation reminders open source
+- Found: 2026-06-26
+- Description: Research article on Ayres Sensory Integration (ASI) and sensory-based interventions used by occupational therapists to support engagement and participation in neurodivergent children.

@@ -188,3 +188,43 @@
 - Query: sensory regulation overload directory
 - Found: 2026-06-25
 - Description: Guide on how occupational therapists use individualized sensory diets, deep pressure techniques, and environmental modifications to treat sensory overload.
+
+### Sensory Friendly Home Environment Toolkit (Open Source)
+
+- URL: https://lifeskillsadvocate.com/blog/how-to-create-a-sensory-friendly-environment-at-home/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory regulation environment planning open source
+- Found: 2026-06-26
+- Description: A comprehensive open resource guide for planning sensory-friendly home environments, including step-by-step instructions for identifying needs, assessing physical spaces, and establishing routines.
+
+### Using Sensory Strategies to Support Regulation (Webinar Resources)
+
+- URL: https://theempowerededucatoronline.com/2023/08/ai-supporting-sensory-regulation.html/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory regulation environment planning open source
+- Found: 2026-06-26
+- Description: Public webinar repository offering open guides on sensory planning, including heavy work activities, calming/alerting senses, and creating sensory-safe environments for neurodivergent individuals.
+
+### Systematic Review of Sensory-Based Interventions
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12658592/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory regulation environment planning open source
+- Found: 2026-06-26
+- Description: Public access research article providing evidence-based leads on sensory environmental modifications, caregiver education, and home-based strategies for open planning.
+
+### How Nature Supports Sensory Modulation
+
+- URL: https://www.goodnatureohio.com/post/how-nature-supports-sensory-modulation-and-regulation-in-children
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory regulation environment planning open source
+- Found: 2026-06-26
+- Description: Open educational resource on integrating natural environments into sensory regulation planning, offering observation guides for calming and regulating outdoor activities.
