@@ -166,3 +166,133 @@
 - Query: routine overload directory
 - Found: 2026-06-25
 - Description: A productivity app specifically designed to help neurodivergent users break down tasks, manage routine overload, and build flexible, sustainable routines.
+
+### Self Intelligence for Life: Gamified Biofeedback Platform for ADHD and Anxiety
+
+- URL: https://www.eurekalert.org/news-releases/1113702
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: A startup founded in 2022 in Brazil offering a gamified app with biometric sensors to teach children with ADHD, ASD, and anxiety emotional self-regulation and calming techniques through controlled breathing.
+
+### Neurodivergent-Friendly Weekly Routines Guide by Neurodiverse Counseling LLC
+
+- URL: https://www.neurodiversecounselingllc.com/post/developing-neurodivergent-friendly-weekly-routines
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: A comprehensive guide from a neurodivergent counseling practice detailing how to build flexible weekly routines with sensory breaks, decompression time, and if-then planning to reduce anxiety and calm the neurodivergent mind.
+
+### Neurodiversity-Focused Sleep and Bedtime Routine Platforms
+
+- URL: https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Neurodiversity-Focused-Sleep-Bedtime-Routine-45396554/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: Systems designed to help neurodivergent individuals maintain consistent bedtime routines without active effort by reducing sensory triggers, supporting calm and routine stability.
+
+### Why Autistics and ADHDers NEED Routines - Research-Based Routine Guide
+
+- URL: https://www.youtube.com/watch?v=M0QeofT0_qg
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: A video guide outlining evidence-based strategies for creating calming routines, identifying sensory triggers, and building buffer times to reduce overwhelm for autistic and ADHD individuals.
+
+### How I use Routine to Calm my Neurodivergent Mind - Better Humans
+
+- URL: https://betterhumans.pub/how-i-use-routine-to-calm-my-neurodivergent-mind-9035f356de24
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: A practical article offering simple steps to settle an over-active neurodivergent brain through routine, including relaxing rules and choosing battles to improve mental health.
+
+### Neurodiversity at Work: Biopsychosocial Model and Support Tools
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7732033/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: A research article detailing workplace accommodations and tools (e.g., noise-cancelling headphones, assistive software) that help neurodivergent individuals manage sensory distractions and maintain calm through structured routines.
+
+### Many Neurodivergent Individuals Develop Personal Tools and Routines - Instagram
+
+- URL: https://www.instagram.com/p/DY9P9bakeSW/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: A community post highlighting that neurodivergent individuals often create personal tools and calming routines tailored to their unique sensory needs to support emotional wellbeing.
+
+### Inclusive Indoor Comfort of Neurodivergent Individuals - ScienceDirect
+
+- URL: https://www.sciencedirect.com/science/article/pii/S0360132324010965
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine calming startup
+- Found: 2026-06-26
+- Description: A research paper reviewing indoor comfort requirements for young neurodivergent individuals, focusing on how environmental design and routine consistency can reduce sensory stress and promote calm.
+
+### GanttProject - Free Open Source Project Management
+
+- URL: https://www.ganttproject.biz
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine environment planning open source
+- Found: 2026-06-26
+- Description: A free, open-source desktop tool for managing projects and scheduling tasks using traditional planning techniques, ideal for creating structured routine environment plans.
+
+### 2-Plan Desktop - Free Standalone Project Management
+
+- URL: https://www.2plan.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine environment planning open source
+- Found: 2026-06-26
+- Description: A portable, open-source project management tool compatible with Windows, MacOS, and Linux, designed for project managers to plan and organize routine tasks efficiently.
+
+### Redmine - Flexible Open Source Project Management
+
+- URL: https://www.redmine.org
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine environment planning open source
+- Found: 2026-06-26
+- Description: An open-source web application for project management known for its flexibility, cross-platform support, and ability to manage routine tasks and team collaboration.
+
+### GanttProject Repository on GitHub
+
+- URL: https://github.com/ganttproject/ganttproject
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine environment planning open source
+- Found: 2026-06-26
+- Description: The official GitHub repository for GanttProject, offering the source code and documentation for the open-source project scheduling tool.
+
+### Redmine Repository on GitHub
+
+- URL: https://github.com/redmine/redmine
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: routine environment planning open source
+- Found: 2026-06-26
+- Description: The GitHub repository for Redmine, providing access to the source code and development history of the flexible open-source project management web application.

@@ -267,3 +267,143 @@
 - Query: routine AAC directory
 - Found: 2026-06-25
 - Description: Public educational guide providing three practical ways to incorporate AAC devices into classroom daily routines, including model strategies and word selection for morning, chores, and family time.
+
+### Routine-Based Speech Therapy Tools
+
+- URL: https://atobspeech.com/routine-based-therapy/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support startup
+- Found: 2026-06-26
+- Description: A comprehensive resource for routine-based speech therapy tools including handouts, worksheets, and play ideas designed to integrate language learning into daily routines.
+
+### Using Everyday Routines to Support Language - YouTube
+
+- URL: https://www.youtube.com/watch?v=NsA1BJqCxIA
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support startup
+- Found: 2026-06-26
+- Description: Video tutorial demonstrating five strategies to support language development through everyday routines like cooking, dressing, and laundry for neurodivergent children.
+
+### Children's Therapy Place: Daily Routines for Speech
+
+- URL: https://childrenstherapyplace.com/using-daily-routines-to-support-speech-and-language-development/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support startup
+- Found: 2026-06-26
+- Description: Blog post listing easy tips to add speech and language support to daily routines, including songs, modeling words, and involving children in routine aspects.
+
+### Gold Star Rehab: Routine-Based Therapy Benefits
+
+- URL: https://www.goldstarrehab.com/parent-resources/the-benefits-of-a-routine-based-approach-in-speech-and-occupational-therapy
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support startup
+- Found: 2026-06-26
+- Description: Resource explaining how routine-based approaches in speech therapy improve outcomes for children with autism and developmental delays by integrating therapy into daily life.
+
+### Creative Speech Lab: Speech Therapy Routines
+
+- URL: https://creativespeechlab.com/2022/09/07/3-speech-therapy-routines-i-wish-i-started-sooner/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support startup
+- Found: 2026-06-26
+- Description: Article detailing three effective speech therapy routines, including exit slips and graphic organizers, to personalize learning and support neurodivergent students.
+
+### McLellan Homecare: Routines That Spark Interaction
+
+- URL: https://www.mclellanhomecare.com/routines-that-spark-interaction/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support startup
+- Found: 2026-06-26
+- Description: Guide on creating structured daily routines that elicit responses, build vocabulary, and teach interaction rules for children with neurodivergence.
+
+### Speech and Language Kids: Daily Routines
+
+- URL: https://www.speechandlanguagekids.com/speech-language-daily-routines/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support startup
+- Found: 2026-06-26
+- Description: Educational resource for families struggling to find time to work on speech, offering strategies to practice language skills within daily routines.
+
+### Chatwoot: AI-powered, open-source customer support platform
+
+- URL: https://www.chatwoot.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support open source
+- Found: 2026-06-26
+- Description: An open-source live-chat and email support platform designed to help businesses deliver exceptional customer support experiences, with self-hosting options and AI-powered features for routine conversation management.
+
+### Chatwoot GitHub Repository
+
+- URL: https://github.com/chatwoot/chatwoot
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support open source
+- Found: 2026-06-26
+- Description: Official source code repository for Chatwoot, an open-source customer support platform offering routine conversation support tools, live chat, and omni-channel desk capabilities for neurodivergent-friendly communication.
+
+### Rocket.Chat: Open-source messaging platform
+
+- URL: https://rocket.chat
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support open source
+- Found: 2026-06-26
+- Description: A diverse open-source collaboration and messaging platform used by over 12 million people, supporting routine conversation support with high flexibility, security, and self-hosting options adaptable for neurodivergence support research.
+
+### Zulip: Topic-based open-source chat platform
+
+- URL: https://zulip.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support open source
+- Found: 2026-06-26
+- Description: An open-source chat platform following a topic-based threading model, ideal for structured routine conversation support and reducing cognitive overload in neurodivergent communication scenarios.
+
+### Twake: Open-source collaborative workspace
+
+- URL: https://twake.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support open source
+- Found: 2026-06-26
+- Description: A promising open-source collaborative chat platform offering a single workspace with free plan options and self-hosting capabilities, suitable for routine conversation support in neurodivergence research.
+
+### OpenProject: Open-source project management software
+
+- URL: https://www.openproject.org
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support open source
+- Found: 2026-06-26
+- Description: Open-source project management tool with task management, Gantt charts, and team collaboration features, supporting routine conversation tracking and structured workflows for neurodivergence support initiatives.
+
+### Real MQ: Open-source real-time messaging platform
+
+- URL: https://realmq.io
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support open source
+- Found: 2026-06-26
+- Description: An easy-to-use real-time messaging platform ensuring message delivery to connected clients, deployable on-premise or cloud, with features adaptable for routine conversation support in neurodivergent communication studies.
