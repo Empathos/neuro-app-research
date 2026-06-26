@@ -148,3 +148,93 @@
 - Query: motor planning learning support directory
 - Found: 2026-06-25
 - Description: Official school district page linking to verified occupational therapy resources, including OT Mom, The OT Toolbox, and other motor planning learning tools for parents.
+
+### Look, Say, Move (Orton-Gillingham Multisensory Approach)
+
+- URL: https://pridereadingprogram.com/why-multisensory-instruction-works-for-apraxia-of-speech/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning reading support startup
+- Found: 2026-06-26
+- Description: A structured literacy routine for reading support that uses visual, auditory, and kinesthetic feedback to stabilize motor plans, specifically designed for students with apraxia of speech and motor planning difficulties.
+
+### AACally AAC System Trials
+
+- URL: https://bit.ly/AACALLY
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning reading support startup
+- Found: 2026-06-26
+- Description: A startup-focused resource for selecting and trialing Augmentative and Alternative Communication (AAC) systems that explicitly support motor planning for neurodivergent students and non-verbal learners.
+
+### AAC Supporting Motor Planning in AAC
+
+- URL: https://www.youtube.com/watch?v=NkWRB3upKm0
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning reading support startup
+- Found: 2026-06-26
+- Description: A video resource and startup lead discussing how AAC systems support motor planning, essential for developing reading and communication tools for neurodivergent users.
+
+### Language Acquisition through Motor Planning (LAMP) - Open Educational Resources
+
+- URL: https://www.pedagogyandlanguage.com/lamp-open-resources
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning classroom open source
+- Found: 2026-06-26
+- Description: Open-source classroom materials and activity guides for implementing LAMP, a motor planning-based language intervention for nonverbal students, including joint engagement and multisensory vocabulary activities.
+
+### Your Therapy Source - Motor Planning Classroom Activities Repository
+
+- URL: https://www.yourtherapysource.com/blog1/2018/07/05/strategies-to-support-gross-motor-skills-in-the-classroom-2/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning classroom open source
+- Found: 2026-06-26
+- Description: Free, open-access printable activities like 'Dance Party Motor Planning' and 'Clothespin Ninja' designed to support motor planning and gross motor skills in classroom settings with multi-step directions.
+
+### Frontiers Open Access - Motor Planning in Educational Settings
+
+- URL: https://www.frontiersin.org/subjects/motor-planning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning classroom open source
+- Found: 2026-06-26
+- Description: Collection of open-access scientific articles examining the link between motor planning and cognitive functions like attention and memory, providing evidence-based strategies for classroom implementation.
+
+### eLife - Motor Planning and Somatosensory Cortex Study Tools
+
+- URL: https://elifesciences.org/articles/69517
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning classroom open source
+- Found: 2026-06-26
+- Description: Open-access article with supplementary materials revealing motor planning's activation of S1/M1 circuits, offering foundational insights for creating finger-press and fine-motor classroom tasks.
+
+### ScienceDirect - Development of Motor Planning in Children Toolkit
+
+- URL: https://www.sciencedirect.com/science/article/pii/S0022096520303994
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning classroom open source
+- Found: 2026-06-26
+- Description: Open-access research on developmental mechanisms of motor planning, with downloadable task templates requiring second-order motor planning for successful execution in classroom environments.
+
+### ILS Learning - Motor Planning Concept Guide for Educators
+
+- URL: https://www.facebook.com/ilslearning/posts/explore-the-concept-of-motor-planning-and-its-impact-on-childrens-learning-and-b/783463893815602/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: motor planning classroom open source
+- Found: 2026-06-26
+- Description: Free educational guide explaining motor planning's impact on children's learning, featuring open-source strategies to integrate physical activity and multi-step motor tasks into classroom routines.

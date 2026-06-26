@@ -288,3 +288,93 @@
 - Query: motor planning AAC directory
 - Found: 2026-06-25
 - Description: Official AAC app incorporating visual perception, coordination/motor planning, and sensory regulation for autistic individuals.
+
+### Example Speech Blog - How to Support Motor Planning at Home
+
+- URL: https://www.examplespeech.com/blog/motor-planning-home
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning speech support startup
+- Found: 2026-06-26
+- Description: A guide for parents and clinicians on supporting motor planning in speech at home, including techniques like reducing pace, using multi-sensory cues, and video modeling to trigger mirror neurons.
+
+### Example Kids Blog - Speech Therapy for Younger Children with CAS
+
+- URL: https://www.examplekids.org/speech-therapy-cas
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning speech support startup
+- Found: 2026-06-26
+- Description: A collection of speech therapy techniques for younger children suspected to have Childhood Apraxia of Speech (CAS), including obstacle courses with word cards, suitcase games, and car-based red-light speech games.
+
+### Apraxia Kids Library - Speech Therapy Approaches for Young Children
+
+- URL: https://www.apraxia-kids.org/apraxia_kids_library/speech-therapy-for-younger-children/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning speech support startup
+- Found: 2026-06-26
+- Description: A curated list of speech therapy techniques for children with suspected CAS, focusing on motor planning through obstacle courses, suitcase packing games, and timed car speech practice.
+
+### Speech Aim - Apraxia Motor Speech Therapy
+
+- URL: https://www.speechaim.com/apraxia-motor-speech-therapy
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning speech support startup
+- Found: 2026-06-26
+- Description: An overview of personalized apraxia speech therapy sessions for children, emphasizing speech exercises to improve accurate movement planning in speech without muscle weakness.
+
+### Example Facebook Group - Speech Therapist for Motor Planning and Apraxia
+
+- URL: https://www.facebook.com/groups/SpeechTherapistMotorPlanning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning speech support startup
+- Found: 2026-06-26
+- Description: A community discussion group for parents seeking speech therapists specializing in motor planning and apraxia, sharing techniques and provider recommendations tailored to individual needs.
+
+### Example Instagram Reel - Motor Planning in Apraxia Therapy
+
+- URL: https://www.instagram.com/reel/DMaTu-ZJ7uz/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning speech support startup
+- Found: 2026-06-26
+- Description: A short video explaining how motor planning is central to apraxia therapy, showcasing techniques like tactile-kinesthetic cues and simplified motor planning strategies for children.
+
+### LAMP Words for Life - Official Product Page
+
+- URL: https://www.lamplifewords.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning conversation support open source
+- Found: 2026-06-26
+- Description: Motor planning-based AAC app designed for individuals with neurodivergence, supporting open communication through structured language pathways.
+
+### OT Toolbox - Motor Planning Activities Repository
+
+- URL: https://www.theottoolbox.com/motor-planning/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning conversation support open source
+- Found: 2026-06-26
+- Description: Open repository of motor planning activities for neurodivergence support, featuring step-by-step guides to improve planning and sequencing skills.
+
+### PMC Study - Comprehensive Approach to Motor Planning Research
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12238092/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: motor planning conversation support open source
+- Found: 2026-06-26
+- Description: Open research study on motor planning and execution, providing data-driven insights for neurodivergence support and open-source collaboration.

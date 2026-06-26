@@ -238,3 +238,93 @@
 - Query: motor planning overload directory
 - Found: 2026-06-25
 - Description: Educational video from a developmental guide course explaining motor planning, sequencing, and its relationship to dyspraxia and developmental coordination disorder.
+
+### DIR Floortime Motor Planning Guide
+
+- URL: https://wondirfulplay.com/blog/motor-planning-skills
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning calming startup
+- Found: 2026-06-26
+- Description: Official resource from DIR Floortime explaining how motor planning and ideation help neurodivergent children refine actions, adjust to feedback, and achieve emotional calm through structured play.
+
+### DIR Floortime Toolbox: Motor Planning & Calm
+
+- URL: https://dirfloortime.com/toolbox/motor-planning-ideation/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning calming startup
+- Found: 2026-06-26
+- Description: Documentation on using DIR Floortime principles to support motor planning in children with autism, emphasizing calm, sequential engagement, and self-directed practice.
+
+### NAPA Centre: Therapist-Approved Motor Planning Activities
+
+- URL: https://napacentre.co.uk/motor-planning/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning calming startup
+- Found: 2026-06-26
+- Description: Clinical guide featuring 5 motor planning activities including animal walks, obstacle circuits, and ball-tracking games designed to build coordination and promote calm through rhythmic movement.
+
+### EthicalTrajectoryPlanning - Open Source Repository
+
+- URL: https://github.com/TUMFTM/EthicalTrajectoryPlanning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning environment planning open source
+- Found: 2026-06-26
+- Description: Open-source repository for ethical trajectory planning in autonomous vehicles, featuring risk quantification and fair distribution algorithms compatible with CommonRoad simulation environment.
+
+### Sensorimotor Learning Group - Motor Planning Research
+
+- URL: https://wolpertlab.neuroscience.columbia.edu/research-projects/motor-planning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning environment planning open source
+- Found: 2026-06-26
+- Description: Research project at Columbia University developing optimal control theory for motor planning in goal-directed eye and arm movements, with open methodologies and documentation.
+
+### Theramoves - Praxis/Motor Planning Training Courses
+
+- URL: https://theramoves.com/courses/praxis-motor-planning-courses/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning environment planning open source
+- Found: 2026-06-26
+- Description: Online training platform offering motor planning courses for therapists, including CEU-eligible Praxis education and tools for neurodivergent support.
+
+### Your Therapy Source - Motor Planning Guide
+
+- URL: https://www.yourtherapysource.com/blog1/2024/10/26/what-is-motor-planning-2/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning environment planning open source
+- Found: 2026-06-26
+- Description: Public educational resource explaining motor planning as the ability to create, plan, and execute actions, with open access to therapy strategies and support tools.
+
+### SENcastle - Motor Planning and Praxis
+
+- URL: https://www.sencastle.com/blog/motion-mastery-navigating-motor-planning-and-praxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning environment planning open source
+- Found: 2026-06-26
+- Description: Public blog post on motor planning as praxis, covering cognitive-motor ability, sequencing, and sensorimotor activities for supporting neurodivergent individuals.
+
+### Understood.org - Motor Planning Definition
+
+- URL: https://harkla.co/blogs/special-needs/motor-planning-and-praxis
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: motor planning environment planning open source
+- Found: 2026-06-26
+- Description: Open educational content defining motor planning as a skill to remember and perform movement steps, with practical activities like obstacle courses and Simon Says for support.
