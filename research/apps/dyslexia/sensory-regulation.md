@@ -238,3 +238,143 @@
 - Query: reading support overload directory
 - Found: 2026-06-25
 - Description: Official LSAT prep guide on combating artificially induced reading overload, offering strategies neurodivergent readers can adapt to manage dense text and reduce fatigue.
+
+### Ello - AI Reading Companion
+
+- URL: https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support calming startup
+- Found: 2026-06-26
+- Description: Ello is an AI-powered reading startup that supports neurodivergent children struggling to read, offering calming personalized story creation features and decodable books to reduce frustration and build confidence.
+
+### Ignite Reading - Early Literacy Intervention
+
+- URL: https://ignite-reading.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support calming startup
+- Found: 2026-06-26
+- Description: Ignite Reading is a neurodivergence-supportive literacy startup rooted in the science of reading, providing calming, one-on-one virtual tutoring with AI diagnostics to help struggling readers achieve district-wide gains.
+
+### Startup Reading - Phonics Foundation
+
+- URL: https://startupreading.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support calming startup
+- Found: 2026-06-26
+- Description: Startup Reading offers a calming digital lesson library for early reading support, aligned with the Science of Reading, designed to empower neurodivergent students with evidence-based decoding strategies and reduced anxiety.
+
+### Beanstack - Reading Challenges & Logs
+
+- URL: https://www.beanstack.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support calming startup
+- Found: 2026-06-26
+- Description: Beanstack is a public tool for libraries and schools that creates calming, motivating reading challenges and logs, helping neurodivergent readers track progress in a supportive, non-competitive environment.
+
+### The Reading Alliance - Reading Support Guidance
+
+- URL: https://www.thereadingalliance.com/post/what-reading-support-should-feel-like
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support calming startup
+- Found: 2026-06-26
+- Description: A public repository of guidance on what calming reading support should feel like for neurodivergent individuals, emphasizing reduced frustration, increased willingness to try, and confidence-building strategies.
+
+### National Student Support Accelerator - Startup Reading
+
+- URL: https://nssa.stanford.edu/organizations/startup-reading
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support calming startup
+- Found: 2026-06-26
+- Description: A source-backed public organization page detailing Startup Reading's mission to deliver a calming phonics reading foundation that empowers neurodivergent students to decode words and read with reduced stress.
+
+### The Essential Open Source Reading List: 21 Must-Read Books
+
+- URL: https://www.linuxfoundation.org/blog/blog/ultimate-open-source-reading-list
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: Check out this open source guide listing 21 must-read books for open source program managers, recommended by members of the TODO Group.
+
+### Free & Open Source Learning Management Systems
+
+- URL: https://educationaltechnology.net/free-open-source-learning-management-systems/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: This is a list of the very best free, and/or open source learning management systems (LMS). A LMS is an essential tool for professionals, trainers and teachers ...
+
+### 25 most popular open source software in education | Rocket.Chat
+
+- URL: https://www.rocket.chat/blog/open-source-software-in-education
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: OpenSIS. OpenSIS brands itself as the world's most popular student information system, school management system, and education management information system.
+
+### Free and open source urbanism: Software for urban planning practice
+
+- URL: https://www.sciencedirect.com/science/article/pii/S0198971522000692
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: We provide an understanding of the state of the art concerning open source tools for urban planning from journal articles, software repositories, and social ...
+
+### Open Source Friday: Sustainability Workshop - YouTube
+
+- URL: https://www.youtube.com/watch?v=e1SD01RmAs0
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: ... open source - Risk management for both maintainers and users of open source software.
+
+### Outdoor environment planning texts - Facebook
+
+- URL: https://www.facebook.com/groups/248675758568554/posts/1457371957698922/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: Prep Lists for Camping, Hiking, and Backpacking: A Quick Reference Guide with lists of everything you need to plan your next adventure or to ...
+
+### guides/open-source-reading-list.md at master - GitHub
+
+- URL: https://github.com/todogroup/guides/blob/master/open-source-reading-list.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: Open Source Reading List. 21 Must-read books for open source program managers, recommended by members of the TODO Group community.
+
+### Essential Open Source Software for Science (EOSS) Proposals
+
+- URL: https://chanzuckerberg.com/eoss/proposals/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: reading support environment planning open source
+- Found: 2026-06-26
+- Description: CZI's Essential Open Source Software for Science program supports software maintenance, growth, development, and community engagement for open source tools ...
