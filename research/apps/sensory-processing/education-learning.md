@@ -98,3 +98,73 @@
 - Query: sensory regulation learning support directory
 - Found: 2026-06-25
 - Description: A resource platform providing innovative programs to support the development of social competencies, flexible thinking, and social problem-solving linked to regulation.
+
+### Regul-A: Sensory Regulation App for Children with Autism
+
+- URL: https://thewellbalancedot.com/favorite-sensory-processing-books-for-therapists-and-parents/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation reading support startup
+- Found: 2026-06-26
+- Description: Regul-A is an innovative app designed to help parents regulate children with autism (ages 36) during home activities by identifying sensory profiles and applying sensory strategies to improve participation in daily routines.
+
+### Self-Regulation Reading Guide  YouTube (Episode 10)
+
+- URL: https://www.youtube.com/watch?v=xBt0d4Ll5sk
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation reading support startup
+- Found: 2026-06-26
+- Description: An educational video summarizing key studies on self-regulation deficits in sensory over-responsivity, providing reading support and startup insights for neurodivergence intervention strategies.
+
+### Occupational Therapy Community  Sensory Regulation Services
+
+- URL: https://www.facebook.com/groups/OccupationalTherapyCommunity/posts/1691254281548518/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation reading support startup
+- Found: 2026-06-26
+- Description: A community discussion on effective sensory regulation services for preschool and K-5 students, featuring research-backed tools and startup ideas for neurodivergence support in educational settings.
+
+### Self-Regulation in the Classroom using Sensory Strategies (PDF)
+
+- URL: https://www.schoolmentalhealth.org/media/som/microsites/ncsmh/documents/archives/CS-9.2-Self-Regulation-in-the-Classroom-Using-Sensory-Strategies.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation classroom open source
+- Found: 2026-06-26
+- Description: An open-access PDF resource from a school mental health organization outlining collaborative sensory strategies, toolboxes, and environmental modifications for student regulation.
+
+### Sensory Classroom Ideas for ALL Students (Your Therapy Source)
+
+- URL: https://www.yourtherapysource.com/blog1/2024/02/11/sensory-classroom-ideas-for-all-students-2/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation classroom open source
+- Found: 2026-06-26
+- Description: A public blog resource offering open-source ideas for sensory tools, quiet spaces, and alternative seating to support regulation in inclusive classroom settings.
+
+### How to Create a Sensory-Friendly Classroom (CrossCountry)
+
+- URL: https://www.crosscountry.com/blog/how-to-create-a-sensory-friendly-classroom
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation classroom open source
+- Found: 2026-06-26
+- Description: A public guide providing open-access strategies for designing sensory-friendly learning environments, including noise control, lighting adjustments, and structured routines.
+
+### Supporting Sensory Diversity: Building Inclusive Classrooms
+
+- URL: https://autismspectrumnews.org/supporting-sensory-diversity-building-inclusive-classrooms/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation classroom open source
+- Found: 2026-06-26
+- Description: A public article detailing open-source classroom modifications, sensory tools, and flexible seating options to support neurodivergent students' regulation and inclusion.

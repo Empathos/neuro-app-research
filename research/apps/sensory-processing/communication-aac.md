@@ -218,3 +218,93 @@
 - Query: sensory regulation AAC directory
 - Found: 2026-06-25
 - Description: Resource page discussing AAC devices and their role in supporting regulation and individual differences in neurodivergent individuals.
+
+### Sensory for the SLP - Kansas Speech-Language-Hearing Association
+
+- URL: https://ksha.org/docs/SLP11_15_21_25_Sensory_for_the_SLP.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation speech support startup
+- Found: 2026-06-26
+- Description: Documentation from KSHA providing evidence-based strategies for Speech-Language Pathologists (SLPs) to integrate sensory regulation into therapy, supporting communication goals in neurodivergent children.
+
+### Regulate, Connect, Support, Repeat - Playhouse Speech Therapy
+
+- URL: https://www.playhousespeechtherapy.com/post/regulate-connect-support-repeat
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation speech support startup
+- Found: 2026-06-26
+- Description: A public guide from Playhouse Speech Therapy outlining a structured approach for integrating sensory needs into speech and language therapy, with tools for proprioceptive, vestibular, and tactile regulation.
+
+### Sensory Integration Therapy for Autism - WA Medical Association
+
+- URL: https://wbma.cc/sensory-integration-therapy-for-autism
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation speech support startup
+- Found: 2026-06-26
+- Description: Official resource detailing how sensory integration therapy supports progress in speech and feeding goals simultaneously for children with autism, emphasizing self-regulation and adaptive behaviors.
+
+### 10 Ways to Support Your Sensory Seeker at Home - Coral Care
+
+- URL: https://www.joincoralcare.com/blog/10-ways-to-support-your-sensory-seeker-at-home
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation speech support startup
+- Found: 2026-06-26
+- Description: OT-approved strategies for home-based sensory regulation, including tools for heavy work, movement breaks, and weighted items that can enhance focus and communication readiness in neurodivergent children.
+
+### Sensory SLP - Jessie Ginsburg - Instagram
+
+- URL: https://www.instagram.com/sensory.slp/?hl=en
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation speech support startup
+- Found: 2026-06-26
+- Description: Profile of Sensory SLP Jessie Ginsburg, offering public insights and resources on integrating sensory regulation into speech therapy for autistic clients, with potential startup or tool collaborations.
+
+### STAR Institute: Sensory Processing Toolkit
+
+- URL: https://www.sensoryhealth.org
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation conversation support open source
+- Found: 2026-06-26
+- Description: Official resource hub providing hope and help for kids with Sensory Processing Disorder (SPD), featuring open educational materials and support strategies for neurodivergent families.
+
+### Open-Source Sensory Regulation Toolkit for School-Based Use
+
+- URL: https://dh.howard.edu/cgi/viewcontent.cgi?article=1025&context=huotresearch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation conversation support open source
+- Found: 2026-06-26
+- Description: A free online, OT-related toolkit offering sensory-based resources and open content for ethnic minority parents and educators to support sensory regulation in school settings.
+
+### Sensory Chat Podcasts - Open Conversations
+
+- URL: https://www.sensoryintegrationeducation.com/pages/sensory-chat-podcasts
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation conversation support open source
+- Found: 2026-06-26
+- Description: An informal, open series of friendly chats between Occupational, Physio, and Speech & Language Therapists in the UK discussing sensory regulation and neurodivergence support.
+
+### Sensory Integration Therapy Webinar (Open Access)
+
+- URL: https://www.youtube.com/watch?v=lLPbQ4yQhVg
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory regulation conversation support open source
+- Found: 2026-06-26
+- Description: Free public webinar on child-led, play-based sensory integration therapy conceptualized by Ayres, emphasizing trauma-informed and neurodiversity-affirming approaches for regulation support.

@@ -108,3 +108,53 @@
 - Query: sensory regulation emotional regulation software
 - Found: 2026-06-25
 - Description: A video by Pediatric Occupational Therapist Alyssa Mason demonstrating how sensory activities can be used as tools for self-regulation and healing, including practical examples of digital and non-digital interventions for neurodivergent individuals.
+
+### Medbridge: Neuroscience-Informed Self-Regulation Strategies
+
+- URL: https://www.medbridge.com/blog/self-regulation-in-childhood
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation self regulation startup
+- Found: 2026-06-26
+- Description: A repository of neuroscience-informed strategies for childhood self-regulation, covering sensory processing, emotional regulation, and executive function techniques.
+
+### NDI Recovery Ways: Sensory Room & Regulation Strategies
+
+- URL: https://www.recoveryways.com/rehab-blog/sensory-based-strategies-for-self-regulation/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation coping skills open source
+- Found: 2026-06-26
+- Description: Public blog article from Recovery Ways detailing open strategies for self-regulation, including sensory room setups and coping tools for reducing anxiety and agitation.
+
+### Take Two: Sensory Regulation Toolkit for Children
+
+- URL: https://aifs.gov.au/resources/short-articles/calming-body-calming-mind-sensory-strategies-children-affected-trauma
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation coping skills open source
+- Found: 2026-06-26
+- Description: Open-access toolkit from AIFS outlining the 'RegulateRelateReason' framework with specific sensory input examples (e.g., weighted blankets, fidgets) for regulation and coping.
+
+### YouTube: Sensory Processing and Self-Regulation Strategies
+
+- URL: https://www.youtube.com/watch?v=RYB-fA-Cz2A
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation coping skills open source
+- Found: 2026-06-26
+- Description: Educational video resource demonstrating tier-one interventions for children, including open strategies like deep breathing, heavy work, and movement breaks to support sensory regulation.
+
+### PMC: Sensory Modulation Interventions for Mental Illness
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10680857/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation coping skills open source
+- Found: 2026-06-26
+- Description: Open-access research review from PMC mapping sensory modulation interventions (SMI) as occupational therapy tools for regulating emotional and physiological arousal in neurodivergent adults.

@@ -88,3 +88,63 @@
 - Query: sensory processing parent support tool
 - Found: 2026-06-24
 - Description: Discover why traditional studying fails Gen Alpha and how gamified learning, adaptive technology, and interactive educational tools improve engagement.
+
+### Alert Program - Self-Regulation
+
+- URL: https://www.php.com/directory/star-institute-was-sensory-processing-disorder-foundation/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory regulation therapy support startup
+- Found: 2026-06-26
+- Description: A widely integrated sensory tool and program helping children recognize and adjust their levels of alertness throughout the day to improve participation in activities and self-regulation.
+
+### Harkla Sensory Tools & Products
+
+- URL: https://harkla.co/blogs/special-needs/sensory-integration-therapy
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory regulation therapy support startup
+- Found: 2026-06-26
+- Description: Startup offering sensory-friendly products like weighted blankets, fidgets, and crash pads, along with educational blogs on sensory integration therapy for SPD and autism.
+
+### Boston Sensory Solutions
+
+- URL: https://bostonsensorysolutions.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory regulation therapy support startup
+- Found: 2026-06-26
+- Description: Pediatric occupational therapy service offering groups to build social skills and executive functioning abilities, supporting children with sensory processing challenges.
+
+### Parent Education in Sensory Over-Responsivity: CPD Webinar by Dr. Lisa Porter
+
+- URL: https://www.sensoryintegrationeducation.com/courses/(G156)-From-Research-to-Practice-Enhancing-Parent-Education-in-SI-based-Practice
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory regulation parent support open source
+- Found: 2026-06-26
+- Description: A recorded CPD webinar featuring Dr. Lisa Porter that explores how occupational therapists can improve parent education for children with sensory over-responsivity, including practical strategies and open-access teaching tools.
+
+### Understanding Sensory Regulation: Open Guide for Parents by More Than Speech
+
+- URL: https://www.morethanspeechfl.com/post/understanding-sensory-regulation-a-guide-for-parents
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory regulation parent support open source
+- Found: 2026-06-26
+- Description: An open-access guide for parents explaining sensory regulation, offering free strategies such as creating sensory-friendly environments, establishing predictable routines, and using sensory tools like weighted vests and fidget toys.
+
+### Sensory Processing Issues Explained: Child Mind Institute Parent Guide
+
+- URL: https://childmind.org/article/sensory-processing-issues-explained/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory regulation parent support open source
+- Found: 2026-06-26
+- Description: An open educational resource from the Child Mind Institute helping parents identify sensory processing issues in children, with free strategies for managing reactions to loud noises, bright lights, and uncomfortable clothing.
