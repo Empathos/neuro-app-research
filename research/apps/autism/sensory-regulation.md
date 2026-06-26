@@ -218,3 +218,83 @@
 - Query: autistic overload directory
 - Found: 2026-06-25
 - Description: Blog post exploring signs, impacts, and coping strategies for autistic sensory overload and overstimulation, with support suggestions for families.
+
+### Austistic Calming Startup - Bloom
+
+- URL: https://www.facebook.com/groups/353159962253913/posts/1969049253998301/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic calming startup
+- Found: 2026-06-26
+- Description: An AI support app called Bloom, built specifically for autism families by two parents, offering free entry without needing an app store.
+
+### Calm
+
+- URL: https://www.autismbc.ca/blog/resource-guide/neurodivergent-apps-and-equipment/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic calming startup
+- Found: 2026-06-26
+- Description: A mental health startup app offering meditations, sleep stories, and relaxing music designed to support sleep, meditation, and relaxation for neurodivergent users.
+
+### Breathe, Think, Do with Sesame
+
+- URL: https://www.deronschool.org/news/new-app-identifies-autism-friendly-public-spaces/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic calming startup
+- Found: 2026-06-26
+- Description: A startup app by Sesame Workshop teaching problem-solving and emotional regulation through interactive play, helping children calm down and make thoughtful choices.
+
+### White Flag
+
+- URL: https://www.youtube.com/watch?v=bQ_foB_YhKg
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic calming startup
+- Found: 2026-06-26
+- Description: A startup providing 24/7 anonymous peer mental health support, accessible for free, to assist with calming and emotional regulation for neurodivergent individuals.
+
+### hbcondo/awesome-autism-tech
+
+- URL: https://github.com/hbcondo/awesome-autism-tech
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic environment planning open source
+- Found: 2026-06-26
+- Description: A curated GitHub repository listing awesome open-source technologies related to Autism Spectrum Disorder, including tools for AAC, Smart Home control, and therapy monitoring.
+
+### AsTeRICS Grid
+
+- URL: https://github.com/AsTeRICS/AsTeRICS
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic environment planning open source
+- Found: 2026-06-26
+- Description: An adaptable grid-based open-source application for AAC, Smart Home control, and multimedia playback, enabling customizable environment interactions.
+
+### SIBE Framework (Sensory stimuli in the built environment)
+
+- URL: https://www.sciencedirect.com/science/article/abs/pii/S0360132326000776
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic environment planning open source
+- Found: 2026-06-26
+- Description: Research framework prioritizing autistic well-being through four sensory modalities and eleven factors, offering guidelines for open-source environment planning tools.
+
+### Autisma.org.uk - Creating better environments
+
+- URL: https://www.autistica.org.uk/our-research/research-projects/creating-better-environments
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic environment planning open source
+- Found: 2026-06-26
+- Description: An online platform initiative collecting data on sensory processing for autistic people to support evidence-based open-source planning of better built environments.

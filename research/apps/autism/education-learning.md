@@ -198,3 +198,103 @@
 - Query: autism classroom tool
 - Found: 2026-06-24
 - Description: A curated repository by the Association for Science in Autism Treatment listing apps categorized by function (e.g., early intervention, social skills) with detailed descriptions, prices, and evidence of effectiveness.
+
+### Ello
+
+- URL: https://www.ello.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic reading support startup
+- Found: 2026-06-26
+- Description: An evidence-based neurodivergence reading support startup for neurodivergent children (Autism, ADHD) aged 3-10, offering interactive digital reading programs with neurodivergent therapists.
+
+### Reading Eggs
+
+- URL: https://readingeggs.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic reading support startup
+- Found: 2026-06-26
+- Description: An online reading program designed to help children with autism learn how to read, write, and comprehend, featuring a free trial and adaptive learning tools.
+
+### Fast ForWord
+
+- URL: https://www.gemmlearning.com/can-help/autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic reading support startup
+- Found: 2026-06-26
+- Description: A neurodivergence reading support startup targeting language processing and cognitive delays in individuals with autism, improving oral language skills and reading comprehension.
+
+### Autism Classroom Resources
+
+- URL: https://autismclassroomresources.com/resources-for-teaching-reading-to-students-with-autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic reading support startup
+- Found: 2026-06-26
+- Description: A public repository of tools and programs for teaching reading to students with autism, including SRA Reading Mastery, PCI, and Edmark for neurodivergent learners.
+
+### Leap Frog Leap Start 3D
+
+- URL: https://www.facebook.com/groups/autismparenting/posts/1473988210192163/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic reading support startup
+- Found: 2026-06-26
+- Description: A reading tool for children with autism that animates 3D books on screen, reads words aloud, and includes games and activities designed for neurodivergent engagement.
+
+### Boardmaker (TouchBase)
+
+- URL: https://touchbase.diamondeducation.com/boardmaker
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic classroom open source
+- Found: 2026-06-26
+- Description: A widely-used design program for educators to create visual symbols, schedules, and curriculum materials for students with autism and special needs.
+
+### Tasks Galore
+
+- URL: https://tasksgalore.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic classroom open source
+- Found: 2026-06-26
+- Description: A teaching resource book compiled by teachers and therapists featuring 250 TEACCH tasks adapted for elementary curriculum areas and autism.
+
+### Classwork.com
+
+- URL: https://classwork.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic classroom open source
+- Found: 2026-06-26
+- Description: A digital platform that transforms traditional teaching materials into interactive formats with instant feedback and visual aids for autistic learners.
+
+### Fungooms
+
+- URL: https://fungooms.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic classroom open source
+- Found: 2026-06-26
+- Description: A safe and gentle interactive website offering meaningful activities and games designed for children with autism and special learning needs.
+
+### Read&Write for Google
+
+- URL: https://chrome.google.com/webstore/detail/readwrite-for-google
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autistic classroom open source
+- Found: 2026-06-26
+- Description: A Google Chrome extension providing accessibility options to help students with autism and learning difficulties access text content.

@@ -278,3 +278,83 @@
 - Query: autistic AAC directory
 - Found: 2026-06-25
 - Description: Curated review of top-rated AAC apps for autistic users, including app store links and feature breakdowns for effective communication.
+
+### SPEAKall! and SPEAKmore! by SPEAK MODalities
+
+- URL: https://www.purdue.edu/newsroom/archive/releases/2016/Q3/purdue-research-lab,-startup-awarded-nih-grant-to-advance-autism-technology-innovation.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic speech support startup
+- Found: 2026-06-26
+- Description: A startup commercializing augmentative and alternative communication (AAC) apps SPEAKall! and SPEAKmore! developed by Purdue University to help children with severe, nonverbal autism establish functional communication and emerging speech.
+
+### Speech Blubs
+
+- URL: https://www.youtube.com/watch?v=deCYNB3o12U
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic speech support startup
+- Found: 2026-06-26
+- Description: A gamified speech development app using video modeling and real children's videos to help kids with autism, speech delays, and Down syndrome practice making correct sounds and develop language skills.
+
+### Gemiini Systems
+
+- URL: https://gemiini.org/autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic speech support startup
+- Found: 2026-06-26
+- Description: An evidence-based, 100% web-based on-demand therapy platform using research-based video modeling to teach speech, reading, and behavior skills for learners with and without autism.
+
+### Matelhainha AAC App
+
+- URL: https://www.f6s.com/companies/autism/mo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic speech support startup
+- Found: 2026-06-26
+- Description: An alternative communication app designed for children and adolescents with autism or speech impairment, enabling communication through card-based interfaces.
+
+### FreeSpeechAAC
+
+- URL: https://openautism.org/projects/freespeechaac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic conversation support open source
+- Found: 2026-06-26
+- Description: Open-source AAC application created by the Open Autism community to support nonspeaking autistic individuals, featuring visual symbol-based communication and customizable symbol sets.
+
+### Open Autism
+
+- URL: https://openautism.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic conversation support open source
+- Found: 2026-06-26
+- Description: Central repository for open-source software and tools designed to support autistic individuals, including communication apps, educational resources, and assistive technology projects.
+
+### Open Autism GitHub
+
+- URL: https://github.com/openautism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic conversation support open source
+- Found: 2026-06-26
+- Description: Official GitHub organization hosting open-source communication tools, AAC apps, and assistive technology projects developed for autistic individuals by the global community.
+
+### CommunicationFIRST Open Tools
+
+- URL: https://communicationfirst.org/open-tools
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic conversation support open source
+- Found: 2026-06-26
+- Description: Repository of open-source communication tools and resources developed by CommunicationFIRST to support nonspeaking autistic individuals and advance their civil rights.
