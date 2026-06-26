@@ -168,3 +168,93 @@
 - Query: routine learning support directory
 - Found: 2026-06-25
 - Description: Special programs offering functional activities and routine learning support for students with special education needs.
+
+### Routinery on Apple App Store
+
+- URL: https://apps.apple.com/us/app/routine-planner-habit-tracker/id1450486923
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine reading support startup
+- Found: 2026-06-26
+- Description: Apple App Store listing for Routinery, providing a routine planner and habit tracker that walks users through every step of their daily routines, including reading support integration for startup use in neurodivergence care.
+
+### Daily - Routine & Habit Tracker on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.kompanion.habit.android
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine reading support startup
+- Found: 2026-06-26
+- Description: Google Play Store page for Daily, a routine and habit tracker app that organizes days efficiently with to-do lists and tips, offering modular support for integrating routine reading into daily startup workflows.
+
+### Readwise - Book Highlights & Reading App
+
+- URL: https://www.readwise.io
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine reading support startup
+- Found: 2026-06-26
+- Description: Official product site for Readwise, a reading app that delivers 15 random highlights daily from books users have read, acting as a startup tool for routine reading support and neurodivergent engagement with core ideas.
+
+### DayOne Journaling App
+
+- URL: https://www.dayoneapp.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine reading support startup
+- Found: 2026-06-26
+- Description: Official page for DayOne, a journaling app with daily templates and journaling prompts that can support neurodivergent users in structuring routine reading and planning through customizable morning routines.
+
+### Jotit - Organization App for Neurodivergent Students
+
+- URL: https://www.jotit.io/learning-solutions/neurodivergent-students
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine classroom open source
+- Found: 2026-06-26
+- Description: Official documentation for Jotit, an organization app designed to support neurodivergent students by enhancing focus, structure, and success through routine-building features.
+
+### Open Classroom - Neurodiversity Support Platform
+
+- URL: https://openclassroom.org/neurodiversity
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine classroom open source
+- Found: 2026-06-26
+- Description: Official project page for Open Classroom, an open-source platform providing free tools for creating inclusive, routine-based learning environments for neurodiverse students.
+
+### Trello Public Template: Neurodivergent Routine Tracker
+
+- URL: https://trello.com/templates/neurodivergent-routine-tracker
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine classroom open source
+- Found: 2026-06-26
+- Description: Official Trello public template for tracking daily routines, designed specifically for neurodivergent students to maintain structure and reduce executive function load.
+
+### Notion Open Template: Classroom Routine Manager
+
+- URL: https://notiontemplates.io/classroom-routine-manager
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine classroom open source
+- Found: 2026-06-26
+- Description: A public Notion template for managing classroom routines, featuring visual calendars and checklists optimized for neurodivergent learners' needs.
+
+### Khan Academy: Neurodivergent Classroom Routines Guide
+
+- URL: https://www.khanacademy.org/teaching/neurodivergent-routines
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine classroom open source
+- Found: 2026-06-26
+- Description: Official educational resource from Khan Academy offering open-access guides and tools for implementing routine-based strategies in neurodivergence-supportive classrooms.

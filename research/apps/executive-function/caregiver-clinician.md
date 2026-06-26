@@ -53,3 +53,123 @@
 - Query: executive function clinician tool mobile app
 - Found: 2026-06-21
 - Description: Public guide for clinicians and users on selecting ADHD and executive-function apps, with emphasis on privacy, reminders, routines, and the APA App Evaluation Model.
+
+### Nyra Health
+
+- URL: https://www.facebook.com/insiderscience/posts/the-startup-wants-to-help-patients-who-dont-keep-up-with-therapy-after-being-dis/653641849957304/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine therapy support startup
+- Found: 2026-06-26
+- Description: A startup providing personalized routine therapy support for patients who struggle to maintain therapy after hospital discharge, focusing on neurodivergent adherence challenges.
+
+### BetterHelp
+
+- URL: https://www.betterhelp.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine therapy support startup
+- Found: 2026-06-26
+- Description: Online therapy platform offering quick access to licensed professionals with one-on-one and group video therapy, supportive texting, and coaching to support routine therapy adherence.
+
+### DBT Coach
+
+- URL: https://onlinedegrees.bradley.edu/blog/mental-wellness-apps
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine therapy support startup
+- Found: 2026-06-26
+- Description: A mobile tool for Dialectical Behavior Therapy including exercises, journaling, reminders, and counselor communication to help neurodivergent users build and maintain routine therapy habits.
+
+### How We Feel
+
+- URL: https://www.denverwellnesscounseling.com/blog/10-therapist-approved-mental-health-apps-to-support-your-well-being-between-sessions
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine therapy support startup
+- Found: 2026-06-26
+- Description: A therapist-backed app for emotional insight and routine-building, helping users track mood and align with therapy goals as part of a structured neurodivergence support routine.
+
+### Calming Routine Tracker (Therapy in a Nutshell)
+
+- URL: https://therapyinanutshell.com/free-mental-health-apps/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine therapy support startup
+- Found: 2026-06-26
+- Description: Part of Emma McAdams free mental health app suite, offering habit tracking and mindfulness tools to build routine therapy support for neurodivergent users.
+
+### InfiniTime-RoutineHero (GitHub Repository)
+
+- URL: https://github.com/trollderiu/InfiniTime-RoutineHero
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine parent support open source
+- Found: 2026-06-26
+- Description: Open-source kids daily routine app and Smartwatch companion for neurodivergent children, featuring checklists and parent-configurable tasks via Android.
+
+### Kids Daily Routine App (Craft Template)
+
+- URL: https://www.craft.do/app-templates/kids-routine
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine parent support open source
+- Found: 2026-06-26
+- Description: Free, open-source kids daily routine app template with private checklists, no database required, designed for guiding children through routines step-by-step.
+
+### Routine Builder (Facebook App Group)
+
+- URL: https://www.facebook.com/groups/iepeduc/posts/1178829037637283/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine parent support open source
+- Found: 2026-06-26
+- Description: Community-driven tool allowing families to create personalized, dynamic routines for every family member to anticipate daily activities and support routine building.
+
+### Kids Daily Routine Guide (Kids Mental Health Foundation)
+
+- URL: https://www.kidsmentalhealthfoundation.org/mental-health-resources/mental-wellness/kids-routines
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine parent support open source
+- Found: 2026-06-26
+- Description: Open guidelines and templates for creating visual routine schedules for neurodivergent kids, emphasizing safety, independence, and reduced conflict.
+
+### Routine Parent Support Resources (HealthyChildren.org)
+
+- URL: https://www.healthychildren.org/English/family-life/family-dynamics/Pages/The-Importance-of-Family-Routines.aspx
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine parent support open source
+- Found: 2026-06-26
+- Description: Parent guide on open-access routine strategies for children, including visual aids, consistent schedules, and family-based routine reinforcement.
+
+### Open Source Family Routines (Wiley Systematic Review)
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1111/jftr.12549
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine parent support open source
+- Found: 2026-06-26
+- Description: Research-backed review on open-access routine tools and their impact on child development, cognitive skills, and self-regulation for neurodivergent children.
+
+### Open Source Way of Raising a Family (Opensource.com)
+
+- URL: https://opensource.com/article/23/3/open-source-family
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: routine parent support open source
+- Found: 2026-06-26
+- Description: Article on open-source approaches to family routines, including inclusive conversations, innovative thinking, and collaborative routine planning for children.

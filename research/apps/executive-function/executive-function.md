@@ -238,3 +238,73 @@
 - Query: routine task initiation directory
 - Found: 2026-06-25
 - Description: A directory of tools and helpers for ADHD and autistic brains, focusing on planning, focus, and task initiation through brain dumps, visual schedules, and routine support tools.
+
+### Tonen - Social Communication & Routine Support App
+
+- URL: https://tonen.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine routine startup
+- Found: 2026-06-26
+- Description: Official app page for Tonen, a neurodivergence-focused tool offering 188+ conversation scripts, routine builders, and calming tools for autistic adults and ADHD users.
+
+### Routinery - Task and Routine Builder App
+
+- URL: https://routinery.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine routine startup
+- Found: 2026-06-26
+- Description: Product page for Routinery, a startup tool for breaking down projects and building routines, featuring an AI co-planner to automate routine steps.
+
+### Structured - Routine & Schedule Planning App
+
+- URL: https://structured.life
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine routine startup
+- Found: 2026-06-26
+- Description: Official product page for Structured, a routine startup tool that visualizes your day and helps users manage appointments and sequence tasks effectively.
+
+### Neurodiverse Support Apps A roundup of tools for focus ... - Instagram
+
+- URL: https://www.instagram.com/p/DXwiZKgCDH_/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine reminders open source
+- Found: 2026-06-26
+- Description: Neurodiverse Support Apps  A roundup of tools for focus, organization, routines, self-regulation, self-monitoring, and accessible reading.
+
+### The 10 Best Productivity Apps for People Who Are Disabled and ...
+
+- URL: https://abilitycentral.org/article/the-10-best-productivity-apps-for-people-who-are-disabled-and-neurodivergent
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine reminders open source
+- Found: 2026-06-26
+- Description: The 10 Best Productivity Apps for People Who Are Disabled and Neurodivergent ; Best Productivity App Overall: Todoist ; Best Quick Reminder App: ...
+
+### What are good apps for neurodiversity support? - Facebook
+
+- URL: https://www.facebook.com/groups/tmyndwtmynd/posts/751318853864367/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine reminders open source
+- Found: 2026-06-26
+- Description: Neil Finch is a popular app among many people in this group. It helps gamify tasks and self-care. Daily task and routine reminder app with to- ...
+
+### Neurodiversity - Resources for Studying and Teaching : Autism ...
+
+- URL: https://libguides.uwinnipeg.ca/c.php?g=743156&p=5403931
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine reminders open source
+- Found: 2026-06-26
+- Description: These tools can provide structure, visual cues, and reminders to support their daily routines and academic tasks. Some commonly used ...
