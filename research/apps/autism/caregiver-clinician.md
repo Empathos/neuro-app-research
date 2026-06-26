@@ -98,3 +98,33 @@
 - Query: autism parent support tool
 - Found: 2026-06-24
 - Description: app for autism
+
+### Sprout - Tech-Enabled Autism Care Platform
+
+- URL: https://www.positivedevelopment.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autistic therapy support startup
+- Found: 2026-06-26
+- Description: A tech-enabled autism care and treatment startup offering software-enabled experiences for tracking progress, coordinating care, and refining personalized at-home care plans with ABA, speech, and occupational therapy.
+
+### Cortica Autism Care - Whole Child Model
+
+- URL: https://www.corticacare.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autistic therapy support startup
+- Found: 2026-06-26
+- Description: Comprehensive autism therapy startup offering diagnostics, ABA therapy, and developmental therapy through a whole child model, with multiple clinical centers across the U.S.
+
+### Autism Learning Partners - Personalized Autism Therapy
+
+- URL: https://autismlearningpartners.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autistic therapy support startup
+- Found: 2026-06-26
+- Description: Startup offering personalized autism therapy including early intervention and ABA therapy to support child development, making progress possible through tailored care plans.

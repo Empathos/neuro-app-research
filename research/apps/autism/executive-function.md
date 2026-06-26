@@ -298,3 +298,63 @@
 - Query: autistic task initiation directory
 - Found: 2026-06-25
 - Description: A peer-reviewed study analyzing the contributions of response initiation difficulties to inhibitory control deficits in autism, offering evidence-based insights for directory research.
+
+### Forest - Focus & Time Management App
+
+- URL: https://forestapp.cc
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic routine startup
+- Found: 2026-06-26
+- Description: Official Forest app page featuring a gamified time management tool that uses visual rewards and focus timers to help autistic users maintain routine consistency and reduce distractions.
+
+### uTine - Routine App for Kids with ASD
+
+- URL: https://www.utineapp.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic routine startup
+- Found: 2026-06-26
+- Description: Official uTine app page (by Thompson Autism and Neurodevelopmental Center) featuring a kid-friendly routine tool with step-by-step visual instructions for tasks like brushing teeth and eating lunch.
+
+### Wrong Planet - Community & Resource Hub
+
+- URL: https://wrongplanet.net
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic routine startup
+- Found: 2026-06-26
+- Description: Official Wrong Planet community site serving as a repository for autistic individuals, offering forums, articles, and shared tools for building daily routines and managing neurodivergent life.
+
+### Open-source software helps youth with disabilities develop scheduling independence
+
+- URL: https://cse.engin.umich.edu/stories/open-source-software-helps-youth-with-disabilities-develop-scheduling-independence
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic reminders open source
+- Found: 2026-06-26
+- Description: A multidisciplinary team at the University of Michigan developed open-source software with guided planning features, including reminders and time management tools, to help adolescents with disabilities develop scheduling independence and accountability.
+
+### Roshanchau/autism-app: Mobile app for people with autism
+
+- URL: https://github.com/Roshanchau/autism-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic reminders open source
+- Found: 2026-06-26
+- Description: An open-source Augmentative and Alternative Communication (AAC) mobile application designed to help individuals with autism express themselves. While primarily an AAC tool, open-source apps like this often include customizable reminder modules for users to manage daily tasks.
+
+### Accessibility in open source for people with ADHD, dyslexia, and autism
+
+- URL: https://opensource.com/article/21/7/open-source-neurodiversity
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autistic reminders open source
+- Found: 2026-06-26
+- Description: This article discusses open-source accommodations for neurodiversity, including UI design recommendations for autism spectrum disorders such as simple graphics and clear navigation, which are foundational for building effective reminder tools.

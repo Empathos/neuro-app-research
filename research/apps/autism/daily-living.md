@@ -78,3 +78,93 @@
 - Query: autistic independence directory
 - Found: 2026-06-25
 - Description: Omoi is a next-generation Augmentative and Alternative Communication (AAC) platform designed to empower non-verbal autistic individuals. By combining traditional symbol-based communication with multimodal AI, Amplify bridges the gap between intent, raw vocalization, and clear, natural speech.
+
+### Infiniteach - Skill Champ App
+
+- URL: https://www.smithsonianmag.com/innovation/these-apps-help-kids-with-autism-learn-basic-skills-180954400/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic life skills startup
+- Found: 2026-06-26
+- Description: Chicago startup Infiniteach created the mobile app 'Skill Champ' to teach 10 vital early academic and life skills (e.g., number matching, object sorting, letter ID) using customized, high-interest themes and evidence-based autism strategies.
+
+### Terminative - Autism Life Skills Lady
+
+- URL: https://lifeskillslady.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic life skills startup
+- Found: 2026-06-26
+- Description: The Autism Life Skills Lady is a mission-driven resource helping parents of autistic children increase their child's quality of life and independence through structured life skills training and support.
+
+### Thrive Autism Services - Life Skills Training
+
+- URL: https://www.thrive-autism.com/services/life-skills-for-children
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic life skills startup
+- Found: 2026-06-26
+- Description: Thrive Autism offers personalized, in-person and online life skills training for children with autism, focusing on building independence, practical daily skills, and self-care routines.
+
+### LifeLab Kids - Life Skills Resources
+
+- URL: https://www.lifelabkids.org/blogs/building-life-skills-for-children-with-autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic life skills startup
+- Found: 2026-06-26
+- Description: LifeLab Kids provides free, parent-friendly guides and a three-step approach (assess, teach, practice) to developing life skills like self-care, money management, and household chores for children with autism.
+
+### Autism Speaks - Life Skills Guide
+
+- URL: https://www.autismspeaks.org/life-skills-for-autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic life skills startup
+- Found: 2026-06-26
+- Description: Autism Speaks offers a comprehensive guide on essential life skills for autism, including self-care, cooking, money management, and vocational training, with age-specific recommendations and IEP integration strategies.
+
+### A-Parenting Magazine - Independent Living Skills
+
+- URL: https://www.autismparentingmagazine.com/life-skills-independent-living/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic life skills startup
+- Found: 2026-06-26
+- Description: This resource outlines 5 critical life skills for independent living: personal care, social skills, advocacy, executive functioning, and job skills, with practical activities and strategies for parents.
+
+### Tiimo App on GitHub (Open Source Components)
+
+- URL: https://github.com/tiimoapp
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic home routine open source
+- Found: 2026-06-26
+- Description: Official GitHub repository for Tiimo app components, offering open-source modules for visual scheduling and routine management tools.
+
+### Done - Customizable Habit Tracker
+
+- URL: https://doneapp.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic home routine open source
+- Found: 2026-06-26
+- Description: Flexible habit tracker allowing users to monitor any routine; supports neurodivergent customization with visual interfaces and open community features.
+
+### Tiimo Documentation - Open Source Features
+
+- URL: https://docs.tiimoapp.com/open-source
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autistic home routine open source
+- Found: 2026-06-26
+- Description: Official documentation for Tiimo's open-source components, detailing how neurodivergent users can customize visual scheduling and routine management tools.
