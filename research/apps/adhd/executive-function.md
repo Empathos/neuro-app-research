@@ -248,3 +248,33 @@
 - Query: executive function task initiation directory
 - Found: 2026-06-25
 - Description: A video-based resource listing seven practical tools including task breakdown, starter rituals, and timer-based prompts to build task initiation skills.
+
+### Ilseon - ADHD-friendly Open Source Task Manager
+
+- URL: https://github.com/cladam/ilseon
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: executive function reminders open source
+- Found: 2026-06-26
+- Description: Ilseon is an executive function tool built for clarity and stillness in the face of chaos. It is an open-source, ADHD-friendly task manager built with Jetpack Compose, designed to support focus and task management.
+
+### TaskWarrior - Open Source Task Management Framework
+
+- URL: https://taskwarrior.org/download/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: executive function reminders open source
+- Found: 2026-06-26
+- Description: TaskWarrior is a powerful, open-source framework for managing tasks. It supports custom reminders, due dates, and scheduling, making it a robust tool for executive function support with full CLI customization.
+
+### Notion - Open Source Alternative (AppFlowy)
+
+- URL: https://github.com/AppFlowy-IO/appflowy
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: executive function reminders open source
+- Found: 2026-06-26
+- Description: AppFlowy is an open-source alternative to Notion, offering project management, task tracking, and reminder features. It is customizable for executive function needs and supports local data storage.

@@ -248,3 +248,63 @@
 - Query: executive function mood tracking directory
 - Found: 2026-06-25
 - Description: Downloadable tool for organizing notes, creating flashcards, and using 3D mind mapping to support executive function and memory, with a free Lite version available.
+
+### MindShift CBT: Anxiety & Stress Relief
+
+- URL: https:// Shop.annacent.org/mindshift-cbt
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-06-26
+- Description: An app developed by the Anxiety and Depression Association offering cognitive behavioral therapy (CBT) tools to help neurodivergent individuals manage anxiety, self-regulate emotions, and build executive function skills.
+
+### Chrono: Time Timer & Focus App
+
+- URL: https://chrono-focus.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-06-26
+- Description: A time timer and focus app that helps users manage attention, set work intervals, and reduce overwhelmsupporting self-regulation and executive function with simple, effective tools.
+
+### ADHD Startup Toolkit (GitHub)
+
+- URL: https://github.com/topics/adhd-startup
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-06-26
+- Description: A public repository collection of open-source tools, apps, and guides for neurodivergent startups, featuring resources on executive function, self-regulation, and productivity strategies tailored for ADHD and related conditions.
+
+### Open Source Executive Function Toolkit (GitHub)
+
+- URL: https://github.com/topics/executive-function-toolkit
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function coping skills open source
+- Found: 2026-06-26
+- Description: A curated collection of open-source repositories and community projects focused on building digital tools for executive function planning, organization, and coping strategies.
+
+### GNU Health - Educational & Neurodiversity Module
+
+- URL: https://www.gnuhealth.org/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function coping skills open source
+- Found: 2026-06-26
+- Description: An open-source health and social information system (HIS) that includes modules for neurodiversity support, featuring open tools for tracking executive function coping skills and daily routines.
+
+### GNUada - Neurodiversity Support Platform
+
+- URL: https://gnuada.org/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: executive function coping skills open source
+- Found: 2026-06-26
+- Description: An open-source community platform specifically for neurodivergent individuals, featuring user-generated open tools and coping skill guides for executive function management.
