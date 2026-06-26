@@ -58,3 +58,113 @@
 - Query: neurodivergent coping skills tool
 - Found: 2026-06-24
 - Description: HealthHub is an interactive, gamified, and sensory-friendly web application designed to teach critical first aid skills for children on the autism spectrum and those with different learning needs.
+
+### Self Intelligence for Life - Neurodiversity Self-Regulation App
+
+- URL: https://www.creativespirit-us.org/neurodiverse-entrepreneurship/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity self regulation startup
+- Found: 2026-06-26
+- Description: Official news coverage of Self Intelligence for Life, a startup app using biometric sensors and gamified games to teach emotional self-regulation to children with ADHD, ASD, and anxiety via real-time biofeedback.
+
+### Neurodiversity and Emotional Regulation - Emily Kircher-Morris (Video Guide)
+
+- URL: https://www.youtube.com/watch?v=IpGxZxatG9Y
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity self regulation startup
+- Found: 2026-06-26
+- Description: Video resource by Emily Kircher-Morris outlining the 'I Can Method' for building emotional regulation and self-awareness in neurodiverse learners, including strategies for problem-solving and cognitive flexibility.
+
+### Alert Program - Self-Regulation Tool for Neurodiverse Populations
+
+- URL: https://alertprogram.com/role-of-self-regulation-in-neurodiverse-populations/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity self regulation startup
+- Found: 2026-06-26
+- Description: Official resource for the Alert Program, a tool empowering neurodiverse individuals to recognize and adjust alertness levels to facilitate improved engagement in daily tasks and self-regulation.
+
+### Neurodivergent Co-Regulation Strategies - Autistic Realms
+
+- URL: https://autisticrealms.com/neurodivergent-co-regulation/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity self regulation startup
+- Found: 2026-06-26
+- Description: Article detailing co-regulation as an embodied presence of togetherness, offering low-demand strategies like body doubling and parallel play to support self-regulation and sensory balance in neurodivergent individuals.
+
+### Modern Emotion Regulation Supports for Neurodivergent Learners - Kelly Mahler
+
+- URL: https://www.kelly-mahler.com/resources/blog/modern-emotion-regulation-supports-for-neurodivergent-learners-are-you-keeping-with-the-times/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity self regulation startup
+- Found: 2026-06-26
+- Description: Blog post by Kelly Mahler outlining six shifts educators and parents should make to provide modern, effective emotion regulation supports tailored for neurodivergent learners.
+
+### Aspiritech Neurodiversity Resource Library
+
+- URL: https://aspiritech.org/neurodiversity-resources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity coping skills open source
+- Found: 2026-06-26
+- Description: A comprehensive collection of open-source resources, tools, and guides for neurodivergent individuals, including coping strategies and community support materials.
+
+### Autistica Neurodiversity in Gaming Project
+
+- URL: https://www.autistica.org.uk/our-research/research-projects/neurodiversity-in-gaming
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity coping skills open source
+- Found: 2026-06-26
+- Description: Research initiative exploring open-source tools and digital environments that support neurodivergent young people, with findings on coping mechanisms in online gaming.
+
+### Therapist NDC Neurodiversity-Affirming Therapy
+
+- URL: https://therapistndc.org/neurodiversity-affirming-therapy/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity coping skills open source
+- Found: 2026-06-26
+- Description: Open repository of therapy goals, worksheets, and free resources for neurodiversity-affirming practices, including coping skills frameworks for SLPs and OTs.
+
+### Autistic Realms Open-Source Neurodiversity Resources
+
+- URL: https://autisticrealms.com/resources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity coping skills open source
+- Found: 2026-06-26
+- Description: Community-collated collection of open-source (FREE) neurodiversity-affirming tools, including coping skill padlets and training materials for autistic youth.
+
+### Stimpunks Human-Centered Learning for Neurodivergent People
+
+- URL: https://stimpunks.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity coping skills open source
+- Found: 2026-06-26
+- Description: Open educational repository providing mutual aid resources, coping skill guides, and human-centered learning tools for neurodivergent and disabled individuals.
+
+### Aucademy Neuro-Affirming Educator Resources
+
+- URL: https://aucademy.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodiversity coping skills open source
+- Found: 2026-06-26
+- Description: Open repository of neuro-affirming webinars, coping skill animations, and free educational materials for educators supporting autistic and neurodivergent students.

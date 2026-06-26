@@ -188,3 +188,33 @@
 - Query: neurodiversity task initiation directory
 - Found: 2026-06-25
 - Description: Official Stanford Center for Teaching and Learning guide providing strategies for neurodiverse students to overcome executive functioning challenges in task initiation.
+
+### Focus - ADHD & Routine Management App by InFlow
+
+- URL: https://inflowneuroscience.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity routine startup
+- Found: 2026-06-26
+- Description: Official product page for InFlow's science-based app suite, including tools to manage ADHD, build routines, and track habits with customizable features for neurodivergent users.
+
+### Twos - To-Do List & Routine Organizer App
+
+- URL: https://twos.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity routine startup
+- Found: 2026-06-26
+- Description: Official product page for Twos, an app co-founded by Twos creators to help users stay organized with to-do lists, reminders, and events, streamlining daily routine management.
+
+### Open Reminder - GitHub Project for Custom Reminders
+
+- URL: https://github.com/topics/open-reminder
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodiversity reminders open source
+- Found: 2026-06-26
+- Description: A collection of open-source reminder tools and projects on GitHub, allowing developers and users to create customizable reminder systems for neurodivergent support and task management.
