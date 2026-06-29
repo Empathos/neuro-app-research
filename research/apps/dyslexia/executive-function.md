@@ -438,3 +438,143 @@
 - Query: reading support reminders open source
 - Found: 2026-06-26
 - Description: A free, open-source online application for libraries to build custom summer reading websites, helping users track and organize reading activities with reminders.
+
+### Google Text-to-Speech via AI Studio
+
+- URL: https://aistudio.google.com/learn/text-to-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech planning app
+- Found: 2026-06-29
+- Description: Official Google AI tool to build custom text-to-speech apps in minutes using Gemini, with no coding required, suitable for planning and accessibility-focused projects.
+
+### Google Cloud Text-to-Speech API
+
+- URL: https://cloud.google.com/text-to-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech planning app
+- Found: 2026-06-29
+- Description: Enterprise API for lifelike AI voice synthesis, enabling developers to create planning tools and accessibility apps with natural-sounding speech powered by Google's AI.
+
+### Speechify on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech planning app
+- Found: 2026-06-29
+- Description: Official mobile app for Speechify, allowing users to listen to any text content and interact with a voice AI assistant for planning, note-taking, and research tasks.
+
+### Canva Text-to-Speech
+
+- URL: https://www.canva.com/features/text-to-speech/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech planning app
+- Found: 2026-06-29
+- Description: AI-powered tool to convert written text into natural-sounding speech for videos, ads, and presentations, useful for creating accessible planning content.
+
+### Text to Speech! App (Apple App Store)
+
+- URL: https://apps.apple.com/us/app/text-to-speech/id712104788
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech planning app
+- Found: 2026-06-29
+- Description: Mobile app offering 178+ natural voices for text-to-speech conversion, supporting planning and communication needs for neurodivergent users.
+
+### ElevenLabs Text-to-Speech
+
+- URL: https://elevenlabs.io/text-to-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech planning app
+- Found: 2026-06-29
+- Description: Leading AI voice generator with high-quality text-to-speech capabilities, recommended for planning tools and accessibility apps for neurodivergent communities.
+
+### @Voice Aloud Reader
+
+- URL: https://play.google.com/store/apps/details?id=com.hyperionics.avar&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: A popular Android app that converts text into spoken audio, supporting PDFs, eBooks, web pages, and documents. Useful for users needing text-to-speech assistance to initiate tasks or manage information.
+
+### AutoVoice Plugin for Tasker
+
+- URL: https://tasker.joaoapps.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: A plugin for Tasker that enables voice output and text-to-speech capabilities on Android. Helps neurodivergent users automate task initiation and receive spoken feedback.
+
+### AutoRemote Plugin for Tasker
+
+- URL: https://autoremotejoaomgcd.appspot.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: A plugin that allows Tasker to send notifications and receive commands via the internet. Enables integration of text-to-speech feedback to support mobile task initiation workflows.
+
+### Kivy Text-to-Speech Offline App
+
+- URL: https://github.com/daslearning-org/text-to-speech-offline/tags
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: An open-source, offline Android text-to-speech app built with Kivy and Python. Provides TTS functionality without requiring internet, ideal for task initiation support in secure environments.
+
+### Project Relate
+
+- URL: https://sites.research.google/relate/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: An Android app by Google Research designed for people with non-standard speech. Includes features to transcribe text, repeat speech, and interact with Google Assistant for task-related support.
+
+### TTS-Engine (open-source library)
+
+- URL: https://github.com/topics/texttospeech-android
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: An efficient open-source Android library providing text-to-speech functionality. Developers can use it to build custom mobile apps for task initiation and neurodivergent support.
+
+### Build an AI Text-to-Speech App (ElevenLabs)
+
+- URL: https://www.youtube.com/watch?v=Rn6RnynN2TA
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: A tutorial on building a React Native text-to-speech app using ElevenLabs voice models. Demonstrates how to integrate high-quality TTS for mobile task initiation tools.
+
+### Android Text to Speech App Project
+
+- URL: https://projectworlds.com/android-text-to-speech-app-project-with-source-code/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech task initiation mobile app
+- Found: 2026-06-29
+- Description: A source code project for an Android text-to-speech app leveraging speech recognition and TTS technologies. Suitable for developers creating custom task initiation support tools.

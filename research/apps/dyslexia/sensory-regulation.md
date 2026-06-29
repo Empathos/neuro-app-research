@@ -378,3 +378,93 @@
 - Query: reading support environment planning open source
 - Found: 2026-06-26
 - Description: CZI's Essential Open Source Software for Science program supports software maintenance, growth, development, and community engagement for open source tools ...
+
+### Sensory Room
+
+- URL: https://kidsclubaba.com/the-ultimate-guide-to-autism-apps-for-children/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech sensory regulation app
+- Found: 2026-06-29
+- Description: A portable virtual sensory room app offering multiple sensory environments for emotional regulation and sensory needs in children with autism.
+
+### Voice Dream Reader
+
+- URL: https://www.facebook.com/groups/941462313611564/posts/1160359141721879/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech sensory regulation app
+- Found: 2026-06-29
+- Description: A highly rated text-to-speech app from the Apple App Store that converts text to spoken words, aiding focus and accessibility for neurodivergent users.
+
+### Go Talk
+
+- URL: https://thehelmaba.com/text-to-speech-apps-for-children-with-autism/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech sensory regulation app
+- Found: 2026-06-29
+- Description: A popular text-to-speech app for children with autism that supports communication, social skills, and emotional regulation through visual aids.
+
+### Live Transcribe
+
+- URL: https://www.facebook.com/groups/ASLTHAT/posts/4462713793960093/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech sensory regulation app
+- Found: 2026-06-29
+- Description: Google's real-time speech-to-text tool used in classrooms and meetings, indirectly supporting neurodivergent users by converting speech to readable text for focus.
+
+### Natural Reader
+
+- URL: https://www.naturalreader.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech overload mobile app
+- Found: 2026-06-29
+- Description: A text-to-speech tool that allows users to upload documents and webpages to reduce reading stress. Supports multiple voices and formats to mitigate text overload for neurodivergent users.
+
+### Optimizing mobile app design for older adults: systematic review
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12350549/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech overload mobile app
+- Found: 2026-06-29
+- Description: Systematic review highlighting design elements like simplified navigation, voice interaction, and error-tolerant interfaces to address cognitive overload and accessibility barriers in mobile apps.
+
+### A UX/UI Case Study: Designing a Text-To-Speech App
+
+- URL: https://blog.prototypr.io/a-ux-ui-case-study-designing-a-text-to-speech-app-from-the-ground-up-1fc95bd04a2b
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech overload mobile app
+- Found: 2026-06-29
+- Description: Case study on creating a highly customizable and interactive text-to-speech mobile app with document-saving features, aimed at reducing user overload and enhancing engagement.
+
+### What is the comparative efficacy of modern text-to-speech voices?
+
+- URL: https://www.facebook.com/groups/assistive.technology.group/posts/8309338462454545/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech overload mobile app
+- Found: 2026-06-29
+- Description: Discussion on the effectiveness of different AI text-to-speech voices to help users select options that minimize overload and improve accessibility for neurodivergent individuals.
+
+### Matchless Assistant Upgrade
+
+- URL: https://www.facebook.com/groups/204910596748781/posts/2123693518203803/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech overload mobile app
+- Found: 2026-06-29
+- Description: Latest upgrade to a voice-based assistant that accepts voice messages without buttons or keyboard, reducing interaction overload for users with neurodivergence or communication challenges.

@@ -378,3 +378,83 @@
 - Query: reading support conversation support open source
 - Found: 2026-06-26
 - Description: Promotes free access to science-aligned literacy materials, supporting open-source reading support and conversation tools for neurodivergent individuals.
+
+### APP2Speak
+
+- URL: https://www.app2speak.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech communication support app
+- Found: 2026-06-29
+- Description: A customizable AAC and text-to-speech app for iOS compatible with stroke, ALS, and Parkinson's, offering preprogrammed phrases and personalized photo/text communication.
+
+### Talk for Me  Text to Speech
+
+- URL: https://www.mobiletouchtech.com/talk-for-me/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech communication support app
+- Found: 2026-06-29
+- Description: An iOS app allowing users to type text or use custom buttons for text-to-speech communication, featuring keyboard shortcuts, predictive text, and custom phrases.
+
+### Touch Voice Apps
+
+- URL: https://touch-voice.com/marketing/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech communication support app
+- Found: 2026-06-29
+- Description: A suite of AAC apps using text-to-speech synthesis to help users voice needs and feelings, designed for conditions like stroke, ALS, and traumatic brain injury.
+
+### LetMeTalk
+
+- URL: https://abilityministry.com/ten-free-communication-apps/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech communication support app
+- Found: 2026-06-29
+- Description: A free, offline text-to-speech and AAC app offering a wide library of symbols and images, allowing users to create custom communication boards for nonspeaking individuals.
+
+### LetMeTalk
+
+- URL: https://letmetalk.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech AAC mobile app
+- Found: 2026-06-29
+- Description: A completely free AAC app for iOS and Android featuring a wide library of symbols. Users can create custom boards and communicate offline without internet.
+
+### TouchChat
+
+- URL: https://touchchat.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech AAC mobile app
+- Found: 2026-06-29
+- Description: A symbol and text-based AAC tool for iPhone, iPod Touch, and iPad. Offers customizable communication boards and supports text-to-speech functionality.
+
+### Avaz Lite AAC
+
+- URL: https://avazaac.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech AAC mobile app
+- Found: 2026-06-29
+- Description: Designed for children with autism and communication challenges, offering a symbol-based system and text-to-speech. Includes a free lite version with basic features.
+
+### SoundingBoard
+
+- URL: https://www.soundingboard.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech AAC mobile app
+- Found: 2026-06-29
+- Description: A simple AAC app for iOS and Android that lets users create custom communication boards. Free to download and suitable for beginners and caregivers.
