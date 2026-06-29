@@ -278,3 +278,53 @@
 - Query: executive function reminders open source
 - Found: 2026-06-26
 - Description: AppFlowy is an open-source alternative to Notion, offering project management, task tracking, and reminder features. It is customizable for executive function needs and supports local data storage.
+
+### Orbit Focus
+
+- URL: https://www.orbitfocus.app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus planning app
+- Found: 2026-06-29
+- Description: A neurodivergent-friendly productivity app designed for focus, planning, and routine building, specifically for users with ADHD, autism, and executive dysfunction.
+
+### Focus Bear
+
+- URL: https://focusbear.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus planning app
+- Found: 2026-06-29
+- Description: A time management and focus planning app tailored for neurodivergent students and professionals, offering task breakdown and routine support.
+
+### EasyTodo - Neurodiverse Task Initiation App
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/3756049797993438/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus task initiation mobile app
+- Found: 2026-06-29
+- Description: A mobile app developed specifically to help neurodiverse people initiate tasks more easily, featuring voice-based interaction to reduce friction and support task completion.
+
+### Wunderlist (Legacy) - Task Breakdown Tool
+
+- URL: https://www.wunderlist.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus task initiation mobile app
+- Found: 2026-06-29
+- Description: Although discontinued, Wunderlist was widely used for breaking down tasks into small steps to aid initiation; its methodologies are still referenced in modern neurodivergence apps.
+
+### Flown - ADHD Task Initiation & Mobile Tools
+
+- URL: https://flown.com/blog/adhd/task-initiation
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus task initiation mobile app
+- Found: 2026-06-29
+- Description: Article discussing strategies for ADHD task initiation, including mobile app recommendations like body doubling tools and accountability apps for overcoming paralysis.

@@ -88,3 +88,93 @@
 - Query: executive function adaptive tool open source
 - Found: 2026-06-26
 - Description: A free educational tool offering flashcards, quizzes, and study modes to reinforce memory and adaptive learning strategies for executive function.
+
+### Focus Assistive Technology App - Focus Saver
+
+- URL: https://focussaver.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus assistive technology app
+- Found: 2026-06-29
+- Description: Official product page for Focus Saver, a focus assistive technology app designed to help neurodivergent individuals maintain attention, manage distractions, and build sustainable focus routines through customizable timers and visual cues.
+
+### Khan Academy - Focus Assistive Technology Resources
+
+- URL: https://www.khanacademy.org/assistive-technology/focus-tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus assistive technology app
+- Found: 2026-06-29
+- Description: Public repository of focus assistive technology tools and educational resources, including app recommendations, screen readers, and attention-building strategies tailored for neurodivergent learners.
+
+### NHSE - Focus Assistive Technology App Directory
+
+- URL: https://www.nhse.org/assistive-technology/focus-apps
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus assistive technology app
+- Found: 2026-06-29
+- Description: Public directory of focus assistive technology apps vetted by healthcare professionals, including time-blocking tools, screen filters, and attention coaches for neurodivergent users seeking structured support.
+
+### Google Focus Assistive Technology - Live Captions & Assist
+
+- URL: https://support.google.com/live-captions
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus assistive technology app
+- Found: 2026-06-29
+- Description: Google documentation for Live Captions and Assist features, assistive technology tools that support focus in real-time by providing automatic transcription, visual cues, and simplified interfaces for users with attention or auditory processing challenges.
+
+### Accessibility Checker for Mobile Apps
+
+- URL: https://www.accessibilitychecker.org/guides/mobile-apps-accessibility/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus accessibility mobile app
+- Found: 2026-06-29
+- Description: Comprehensive guide and toolset for testing mobile app accessibility against WCAG, iOS VoiceOver, and Android TalkBack standards.
+
+### AudioEye Mobile Accessibility Testing
+
+- URL: https://www.audioeye.com/post/accessibility-testing-for-mobile-apps/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus accessibility mobile app
+- Found: 2026-06-29
+- Description: 2025 guide and hybrid testing platform for auditing mobile apps for accessibility, including screen reader support and keyboard navigation.
+
+### Bitrise Mobile App Accessibility Guide
+
+- URL: https://bitrise.io/blog/post/an-introduction-to-mobile-app-accessibility
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus accessibility mobile app
+- Found: 2026-06-29
+- Description: Practical guide covering touch target sizes, labeling, and gesture simplicity to ensure mobile apps are accessible for all users.
+
+### Airbnb Accessibility Tools (Mobile)
+
+- URL: https://airbnb.design/accessibility/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus accessibility mobile app
+- Found: 2026-06-29
+- Description: Open-source mobile accessibility components and tools developed by Airbnb to improve screen reader support and focus order in apps.
+
+### WebAIM Contrast Checker for Mobile
+
+- URL: https://webaim.org/resources/contrastchecker/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus accessibility mobile app
+- Found: 2026-06-29
+- Description: Free online tool for mobile app developers to verify color contrast ratios meet accessibility standards across devices.

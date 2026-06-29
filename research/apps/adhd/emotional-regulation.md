@@ -308,3 +308,93 @@
 - Query: executive function coping skills open source
 - Found: 2026-06-26
 - Description: An open-source community platform specifically for neurodivergent individuals, featuring user-generated open tools and coping skill guides for executive function management.
+
+### How We Feel App
+
+- URL: https://medicine.yale.edu/news-article/the-how-we-feel-app-helping-emotions-work-for-us-not-against-us/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus emotional regulation app
+- Found: 2026-06-29
+- Description: Official product page for the How We Feel app, designed to help users identify and track emotions, understand their causes, and learn effective regulation strategies tailored for neurodivergent individuals.
+
+### MindShift CBT App
+
+- URL: https://theliven.com/blog/wellbeing/dopamine-management/top-apps-for-emotional-regulation/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus emotional regulation app
+- Found: 2026-06-29
+- Description: Feature overview of MindShift CBT, a free app offering structured Cognitive Behavioral Therapy tools for worry reduction and emotional regulation, especially effective for overthinking.
+
+### DreamyKid Mindfulness App
+
+- URL: https://www.rchsd.org/documents/2024/01/apps-to-assist-with-emotion-regulation.pdf/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus emotional regulation app
+- Found: 2026-06-29
+- Description: PDF guide from Rady Children's Hospital featuring DreamyKid, which offers mindfulness programs and categories to teach kids how to regulate their feelings and grow emotionally strong.
+
+### Therapy in a Nutshell App
+
+- URL: https://www.youtube.com/watch?v=t1Anqg8S_Fc
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus emotional regulation app
+- Found: 2026-06-29
+- Description: Video resource introducing the Therapy in a Nutshell app, which provides free mental health courses focused on emotional regulation, habit-building, and self-care strategies.
+
+### Moodistory - Privacy Mood Tracker
+
+- URL: https://moodistory.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus mood tracking mobile app
+- Found: 2026-06-29
+- Description: Low-effort privacy-focused mood tracker allowing users to describe their day, add photos, notes, thoughts, and location with high data protection standards.
+
+### Mood Tracker App Market Report 2025-2035
+
+- URL: https://www.wiseguyreports.com/reports/mood-tracker-app-market
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus mood tracking mobile app
+- Found: 2026-06-29
+- Description: Industry report analyzing global mood tracker app market growth, trends, and opportunities driven by mobile platforms including iOS and Android for mental health.
+
+### Understanding People's Use of Mood-Tracking Apps
+
+- URL: https://mental.jmir.org/2021/8/e29368
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus mood tracking mobile app
+- Found: 2026-06-29
+- Description: Research study exploring motivations and perspectives of users using mood-tracking apps in real-world contexts, highlighting benefits and challenges for neurodivergent individuals.
+
+### Best Mood Tracking Apps for 2026 | Therapists' Top Choices
+
+- URL: https://lifestance.com/blog/best-mood-tracking-apps-therapists-top-choices-2026/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus mood tracking mobile app
+- Found: 2026-06-29
+- Description: Expert-approved list of mood tracking apps recommended by therapists for 2026, supporting anxiety, depression, bipolar disorder, and neurodivergent needs.
+
+### How to Find the Best Mood Tracker App for You - GoodRx
+
+- URL: https://www.goodrx.com/health-topic/mental-health/mood-tracker-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus mood tracking mobile app
+- Found: 2026-06-29
+- Description: Guidance on selecting optimal mood tracker apps based on features, customization, data sharing, and user preferences for monitoring mood shifts and symptoms.
