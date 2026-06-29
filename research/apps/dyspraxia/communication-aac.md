@@ -419,16 +419,6 @@
 - Found: 2026-06-29
 - Description: A free iOS AAC app developed with speech therapists to support coordination communication, offering robust visual boards for coordinating needs and ideas.
 
-### Speech Assistant AAC (Official Website)
-
-- URL: https://www.asoft.nl/speech-assistant-aac
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: communication-aac
-- Query: coordination AAC mobile app
-- Found: 2026-06-29
-- Description: Official product page for Speech Assistant AAC, providing detailed features, support contact, and privacy policy for the AAC coordination tool.
-
 ### Twinkl Symbols AAC System
 
 - URL: https://apps.apple.com/us/app/twinkl-symbols-aac-system/id1543188023

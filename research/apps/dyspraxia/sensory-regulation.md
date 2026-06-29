@@ -329,16 +329,6 @@
 - Found: 2026-06-26
 - Description: Open educational content defining motor planning as a skill to remember and perform movement steps, with practical activities like obstacle courses and Simon Says for support.
 
-### NeuroCoordination Toolkit - Official Documentation
-
-- URL: https://neurotoolkit.org/docs/coordination-overload
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: sensory-regulation
-- Query: coordination overload mobile app
-- Found: 2026-06-29
-- Description: Documentation for a web and mobile toolkit that addresses coordination overload using neurodivergence-informed design, modular components, and personalized flowcharts.
-
 ### Coordination Overload Solutions - Research Paper (PMC)
 
 - URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3621678
