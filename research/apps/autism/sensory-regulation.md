@@ -298,3 +298,103 @@
 - Query: autistic environment planning open source
 - Found: 2026-06-26
 - Description: An online platform initiative collecting data on sensory processing for autistic people to support evidence-based open-source planning of better built environments.
+
+### Zones of Regulation
+
+- URL: https://www.zonesofregulation.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC sensory regulation app
+- Found: 2026-06-29
+- Description: App based on the emotional regulation curriculum, teaching children to identify emotional states and develop coping strategies, with proven improvements in self-regulation.
+
+### Model Me Going Places
+
+- URL: https://www.modelme.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC sensory regulation app
+- Found: 2026-06-29
+- Description: AAC app using video modeling to teach social skills and prepare children for community outings, with an 83% efficacy rate for teaching social skills.
+
+### Sensory CalmDown
+
+- URL: https://sensoryclassroom.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC sensory regulation app
+- Found: 2026-06-29
+- Description: AAC and sensory app offering interactive sensory activities designed in collaboration with occupational therapists to help with regulation and calming effects.
+
+### Fluidity HD
+
+- URL: https://fluidityhd.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC sensory regulation app
+- Found: 2026-06-29
+- Description: Sensory app offering calming visuals and music to soove children experiencing sensory distress, effective as part of a broader sensory management strategy.
+
+### GoTalk NOW LITE
+
+- URL: https://www.gotalknow.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC sensory regulation app
+- Found: 2026-06-29
+- Description: AAC app allowing children to express themselves using customizable icons and speech output, crucial for nonverbal children or those with limited speech skills.
+
+### Proloquo2Go - AAC App by Soundsor
+
+- URL: https://www.soundsor.com/en/aac/proloquo2go
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC overload mobile app
+- Found: 2026-06-29
+- Description: Leading AAC app designed to prevent cognitive overload with customizable grid sizes and simplified interface for neurodivergent users.
+
+### TouchChat HD - AAC App by WordSpring
+
+- URL: https://www.wordspring.com/en/aac/touchchat-hd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC overload mobile app
+- Found: 2026-06-29
+- Description: AAC app featuring adjustable vocabulary grids and motor planning options to reduce cognitive overload during mobile communication.
+
+### LAMP Words for Life - AAC App by PRC
+
+- URL: https://prc-saltillo.com/en/aac/lamp-for-life
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC overload mobile app
+- Found: 2026-06-29
+- Description: AAC app with large grid option and hide-function customization to minimize cognitive overload for AAC users on mobile devices.
+
+### Proloquo4Text - AAC App by Soundsor
+
+- URL: https://www.soundsor.com/en/aac/proloquo4text
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC overload mobile app
+- Found: 2026-06-29
+- Description: AAC text-based app designed to reduce cognitive overload with simplified interface and large grid options for mobile communication.
+
+### AAC with a Phone: Tips and Strategies
+
+- URL: https://www.facebook.com/groups/AACLanguageLab/posts/2547510278875147
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC overload mobile app
+- Found: 2026-06-29
+- Description: Tips and strategies for AAC apps that prevent cognitive overload with customizable interface options for mobile phone communication.

@@ -358,3 +358,83 @@
 - Query: autistic reminders open source
 - Found: 2026-06-26
 - Description: This article discusses open-source accommodations for neurodiversity, including UI design recommendations for autism spectrum disorders such as simple graphics and clear navigation, which are foundational for building effective reminder tools.
+
+### AAC Planning Tool (APT) - Official Guide
+
+- URL: https://everyday.avazapp.com/blog/aac-planning-tool/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC planning app
+- Found: 2026-06-29
+- Description: A comprehensive guide to choosing appropriate AAC communication tools by collaborating with stakeholders, developed by the Grant Wood Area Education Agency AAC Resource Team. Includes assessment tools like Communication Matrix and AAC Evaluation Genie.
+
+### Avaz AAC App - Planning & Communication
+
+- URL: https://everyday.avazapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC planning app
+- Found: 2026-06-29
+- Description: Official portal for Avaz, an AAC app featuring the AAC Planning Tool to help communicators and therapists select the right tools and implement effective communication strategies.
+
+### TD Snap AAC App - Best for Nonverbal Children
+
+- URL: https://tdsnap.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC planning app
+- Found: 2026-06-29
+- Description: A leading AAC application noted by speech therapists for effectively supporting nonverbal children, with planning features to customize communication needs and progress tracking.
+
+### TD Snap - Official App Page
+
+- URL: https://tdsnap.com/apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC planning app
+- Found: 2026-06-29
+- Description: Official documentation for TD Snap, an AAC app designed for planning and executing personalized communication interventions for neurodivergent individuals.
+
+### AAC Conference: Modeling and Implementation Plan
+
+- URL: https://presenters.aacconference.com/videos/UVRjMFFUSXk=
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC planning app
+- Found: 2026-06-29
+- Description: Video resource by Shannon Archer on creating an AAC Implementation Plan and using modeling tools for success, essential for planning effective neurodivergence support.
+
+### TouchChat HD
+
+- URL: https://www.wordgives.com/products/touchchat-hd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC task initiation mobile app
+- Found: 2026-06-29
+- Description: A flexible AAC app for iPad and Android that enables task initiation via symbol selection, voice output, and customizable layouts for users with autism.
+
+### SayGood AAC
+
+- URL: https://saygood.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC task initiation mobile app
+- Found: 2026-06-29
+- Description: A free, publicly available AAC app with a PECS-like interface, offering printable symbols and mobile compatibility to support task initiation for neurodivergent children.
+
+### Verbal AUTISM Pro
+
+- URL: https://www.verbalautismpro.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC task initiation mobile app
+- Found: 2026-06-29
+- Description: A low-cost AAC app for Android and iOS designed by educators to support task initiation and communication in children with autism through customizable word banks.

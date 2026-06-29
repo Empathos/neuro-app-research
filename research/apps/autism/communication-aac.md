@@ -348,3 +348,83 @@
 - Query: autistic conversation support open source
 - Found: 2026-06-26
 - Description: Official GitHub organization hosting open-source communication tools, AAC apps, and assistive technology projects developed for autistic individuals by the global community.
+
+### Proloquo2Go - AAC Communication App
+
+- URL: https://www.ataid.org/Products/Proloquo2Go
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC communication support app
+- Found: 2026-06-29
+- Description: Award-winning AAC app with natural-sounding voices and customizable vocabulary, widely used by speech-language pathologists for nonverbal children.
+
+### TouchChat HD with Wordflare
+
+- URL: https://www.touchchat.com/products/TouchChat-HD
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC communication support app
+- Found: 2026-06-29
+- Description: AAC app with Wordflare vocabulary, offering multiple communication modes, voice output, and customizable layouts for users with speech needs.
+
+### SpeakEazy AAC App
+
+- URL: https://www.speakeazyapp.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC communication support app
+- Found: 2026-06-29
+- Description: User-friendly AAC application providing visual communication, text-to-speech, and customizable symbol sets for nonverbal individuals.
+
+### Avaz AAC (Android App)
+
+- URL: https://www.avazan.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC AAC mobile app
+- Found: 2026-06-29
+- Description: A leading AAC mobile app for Android that helps nonverbal children and adults communicate using speech, symbols, and written language.
+
+### Therapy Box AAC (Android App)
+
+- URL: https://therapybox.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC AAC mobile app
+- Found: 2026-06-29
+- Description: An AAC mobile app for Android designed by speech-language pathologists to support expressive communication with symbols and text.
+
+### Weave Chat AAC (Android App)
+
+- URL: https://weavechat.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC AAC mobile app
+- Found: 2026-06-29
+- Description: An AAC mobile app for Android and Kindle offering multi-language support and easy symbol-based communication for neurodivergent users.
+
+### Alexicom AAC (Android App)
+
+- URL: https://www.alexicom.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC AAC mobile app
+- Found: 2026-06-29
+- Description: An AAC mobile app for Android that enables users to communicate using speech, text, and custom symbols with intuitive navigation.
+
+### Cboard AAC (Android App)
+
+- URL: https://www.cboard.io
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC AAC mobile app
+- Found: 2026-06-29
+- Description: A free AAC mobile app for Android and web browsers, supporting dynamic symbol communication and text-to-speech for nonverbal individuals.

@@ -128,3 +128,123 @@
 - Query: autistic therapy support startup
 - Found: 2026-06-26
 - Description: Startup offering personalized autism therapy including early intervention and ABA therapy to support child development, making progress possible through tailored care plans.
+
+### AAC for Caregivers
+
+- URL: https://aaclanguagelab.com/resources/aac-for-caregivers
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC caregiver app
+- Found: 2026-06-29
+- Description: A resource covering 8 strategies for caregivers on how, when, and where to use AAC. Includes the official AAC Caregivers Manual for structured support.
+
+### Caregiver-Implemented AAC Interventions - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12393822/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC caregiver app
+- Found: 2026-06-29
+- Description: Research review on caregiver-implemented AAC interventions for children, assessing child and caregiver characteristics and intervention types to support neurodivergent communication.
+
+### Supporting Parents, Guardians, and Caregivers of AAC Users
+
+- URL: http://slptoolkit.com/blog/supporting-parents-guardians-and-caregivers-of-aac-users-what-more-can-slps-do/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC caregiver app
+- Found: 2026-06-29
+- Description: SLP Toolkit article outlining 4 pillars of caregiver support for successful AAC therapy, including grief space and understanding unique communication needs.
+
+### Ma-Talk AI (AI-powered AAC App)
+
+- URL: https://www.facebook.com/groups/wespeakaac/posts/3148224738670219/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC caregiver app
+- Found: 2026-06-29
+- Description: AI-powered AAC app by Verbali co-creator Shay, designed to help non-verbal individuals communicate more naturally and meaningfully with caregivers.
+
+### Free AAC Talker App for Special Needs
+
+- URL: https://www.facebook.com/groups/464226657001791/posts/26836200142711083/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC caregiver app
+- Found: 2026-06-29
+- Description: Community post announcing a free AAC app for nonverbal family members, including feedback resources for Commboards and web-based spelling tools.
+
+### BTMG Free AAC App Alert
+
+- URL: https://www.instagram.com/reel/DM1BPddhlPY/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC caregiver app
+- Found: 2026-06-29
+- Description: Instagram reel highlighting a free AAC app for SLPs, parents, and caregivers, emphasizing powerful AAC tools for neurodivergent support.
+
+### AAC Journey: Evaluation Milestones Across the Lifespan
+
+- URL: https://www.youtube.com/watch?v=PTTRXe3fODk
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC clinician tool mobile app
+- Found: 2026-06-29
+- Description: Webinar recording (2/28/2023) on AAC evaluation milestones, featuring clinician tools and mobile app integration for neurodivergent support.
+
+### Back to School  AAC Assessment Tools to Know About!
+
+- URL: https://www.forbesaac.com/post/back-to-school-aac-assessment-tools-to-know-about
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC clinician tool mobile app
+- Found: 2026-06-29
+- Description: Overview of free AAC assessment tools including mobile apps like the Communication Matrix and CSI-CY for clinicians and educators.
+
+### AAC Genie: Informal Qualitative Diagnostic Tool
+
+- URL: https://www.instagram.com/reel/DU4X1rHCRkU/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC clinician tool mobile app
+- Found: 2026-06-29
+- Description: An informal diagnostic tool designed to guide AAC assessments and device trials, including mobile app compatibility for clinicians.
+
+### AAC Evaluations and New Mobile Technologies
+
+- URL: https://pubs.asha.org/doi/10.1044/aac20.1.9
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC clinician tool mobile app
+- Found: 2026-06-29
+- Description: ASHA journal article discussing online clinical tools and mobile apps that enable feature-matching and side-by-side comparison for AAC devices.
+
+### A Boston Children's Hospital  Assistive Technology Internet Modules
+
+- URL: https://atinternetmodules.org/storage/ocali-ims-sites/ocali-ims-atim/documents/AAC_Mobile_devices_and_apps_growing_pains.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC clinician tool mobile app
+- Found: 2026-06-29
+- Description: PDF guide on mobile devices and apps growing in AAC, with clinical insights for clinicians selecting tools for neurodivergent individuals.
+
+### Augmentative and Alternative Communication (AAC) Overview
+
+- URL: https://www.rcslt.org/speech-and-language-therapy/clinical-information/augmentative-and-alternative-communication/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC clinician tool mobile app
+- Found: 2026-06-29
+- Description: RCSLT overview of AAC tools and strategies, including mobile app integration for clinicians to support neurodivergent communication needs.
