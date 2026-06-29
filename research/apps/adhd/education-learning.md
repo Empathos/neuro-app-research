@@ -438,3 +438,153 @@
 - Query: executive function classroom open source
 - Found: 2026-06-26
 - Description: Open-access NIH review summarizing evidence-based open classroom activities like PATHS, CSRP, mindfulness, and yoga programs that improve executive function.
+
+### Focus - Student Information System (Pinellas County Schools)
+
+- URL: https://focusschoolsoftware.com/focus/auth/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: Official student information system app for Pinellas County Schools, allowing students and families to view assignments, monitor grades, and track attendance.
+
+### Team BCPS - Focus App (Google Play)
+
+- URL: https://play.google.com/store/apps/details?id=com.focusschoolsoftware.community.baltimore&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: Google Play app for Broward County Public Schools (BCPS) Focus, providing real-time notifications of attendance, grades, and marking period reports.
+
+### Focus Pennsylvania App (App Store)
+
+- URL: https://apps.apple.com/us/app/focus-pennsylvania/id1501874159
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: iOS app for Pennsylvania school districts using Focus, enabling real-time access to grades, attendance, upcoming assignments, and test scores.
+
+### Focus - Student Information System (Broward County Public Schools)
+
+- URL: https://www.browardschools.com/bcps-departments/information-systems/focus-student-information-system
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: Official web portal for Broward County's Focus SIS, tracking attendance, scheduling, grades, and test scores for students, teachers, and staff.
+
+### Focus - Cincinnati Public Schools SIS
+
+- URL: https://focus.cps-k12.org/focus/auth/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: Cincinnati Public Schools' Focus SIS portal for teachers to record attendance and post assignments, and for students/families to monitor grades and view assignments.
+
+### Focus School Software - Technology & API Documentation
+
+- URL: https://focusschoolsoftware.com/technology/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: Official documentation for Focus School Software's technology stack, including Manage Integrations, API calls, OneRoster, and EdFi certification details.
+
+### Focus - Student Information System (Broward County Blog)
+
+- URL: https://www.facebook.com/browardschools/posts/with-focus-the-new-student-information-system-all-students-teachers-and-staff-wi/905171621653039/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: Facebook post from Broward County Public Schools announcing the new Focus SIS, highlighting features like grade and attendance viewing via app.
+
+### Focus School Software Contact Page
+
+- URL: https://focusschoolsoftware.com/contact/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-06-29
+- Description: Official contact information for Focus School Software, including support, sales, and technical support phone numbers and email addresses.
+
+### FOCUS Learning
+
+- URL: https://focuslearning.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus learning support mobile app
+- Found: 2026-06-29
+- Description: Official website for FOCUS Learning, offering consultants to support training operations and develop materials for K12 student information systems and communication tools.
+
+### Focus Portal Mobile App - Apple and Google App Stores
+
+- URL: https://www.instagram.com/p/DNjF2P0p8aR/the-focus-portal-mobile-app-is-live-and-available-on-the-apple-and-google-app-st/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus learning support mobile app
+- Found: 2026-06-29
+- Description: Instagram post announcing the live Focus Portal mobile app, available on Apple and Google App Stores, serving as a one-stop hub for district news, school updates, and messaging with teachers.
+
+### Focus from Any Device - App Store Download
+
+- URL: https://www.facebook.com/gadsdenschoolsfl/posts/now-you-can-use-focus-from-anywhere-on-any-deviceincluding-your-phone-just-searc/3287142704830618/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus learning support mobile app
+- Found: 2026-06-29
+- Description: Facebook post by Gadsden Schools Florida promoting the ability to use Focus from any device, including phones, with instructions to download the app via the App Store.
+
+### Focus School Software - Our Focus
+
+- URL: https://focusschoolsoftware.com/our-focus/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus learning support mobile app
+- Found: 2026-06-29
+- Description: Official page detailing Focus School Software's K12 Student Information System, Communication & ERP features, including student tracking of behavior badges and progress reports via Focus Messenger.
+
+### Introduction to Focus School Software
+
+- URL: https://focusschoolsoftware.com/wp-content/uploads/2019/07/Introduction-to-Focus.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus learning support mobile app
+- Found: 2026-06-29
+- Description: PDF documentation introducing Focus School Software's suite of platforms, including Student Information System, Enterprise Resource Planning, and Postsecondary System.
+
+### Focus School Software - Mobile App and Parent Portal FAQs
+
+- URL: https://focusschoolsoftware.com/wp-content/uploads/2019/07/Vision-Customer-FAQs_final.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus learning support mobile app
+- Found: 2026-06-29
+- Description: PDF FAQ document addressing questions about the Parent Portal and Mobile App availability, support changes, and training requirements for Focus School Software users.
+
+### Focus School Software - Video on New FOCUS System
+
+- URL: https://www.youtube.com/watch?v=L03pTliy9e8
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus learning support mobile app
+- Found: 2026-06-29
+- Description: YouTube video from Pinellas County Schools discussing the rollout of the new FOCUS system, including updates to the mobile app for accessing student news, messaging, and school updates.

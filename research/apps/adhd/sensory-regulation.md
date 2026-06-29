@@ -338,3 +338,53 @@
 - Query: executive function environment planning open source
 - Found: 2026-06-26
 - Description: Open-source mind mapping and brainstorming software that helps users visualize complex ideas and plan environments, supporting executive function strategies for neurodivergent individuals.
+
+### Child Mind Institute Sensory Treatment Guide
+
+- URL: https://childmind.org/article/treating-sensory-processing-issues/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus sensory regulation app
+- Found: 2026-06-29
+- Description: Evidence-based guide on treating sensory processing issues, including sensory integration therapy and listening programs to support sensory regulation and focus.
+
+### Focus Overload Documentation: Workflow Mapping Guide
+
+- URL: https://focusoverload.io/docs/workflow-mapping-guide
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus overload mobile app
+- Found: 2026-06-29
+- Description: Official documentation page detailing how to use Focus Overload's workflow mapping feature to outline daily tasks, identify supporting apps, and reduce unnecessary switching for better focus management.
+
+### Focus Overload: Integrated Tools Feature Overview
+
+- URL: https://focusoverload.io/features/integrated-tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus overload mobile app
+- Found: 2026-06-29
+- Description: Product feature page explaining how Focus Overload uses integrated tools to connect multiple functions within a single platform, minimizing task fragmentation and supporting sustained attention for users with focus challenges.
+
+### Focus Overload - Context-Aware Reminders
+
+- URL: https://focusoverload.io/features/context-aware-reminders
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus overload mobile app
+- Found: 2026-06-29
+- Description: Documentation on Focus Overload's context-aware reminders feature, which employs notifications related directly to current tasks to reduce cognitive load and prevent irrelevant interruptions.
+
+### Focus Overload Mobile App: User Reviews & Ratings
+
+- URL: https://www.appAdvice.com/app/focus-overload-cognitive-management
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus overload mobile app
+- Found: 2026-06-29
+- Description: AppAdvice review page for Focus Overload, featuring user ratings and detailed feedback on how the app helps manage focus overload, reduce context switching, and improve productivity for neurodivergent individuals.

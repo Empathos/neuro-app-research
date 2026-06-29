@@ -168,3 +168,133 @@
 - Query: executive function home routine open source
 - Found: 2026-06-26
 - Description: Tiimo's Chrome extension for desktop executive function planning, integrating visual timelines and AI task breakdown with open-source influenced design for home routine management.
+
+### Focus To-Do: Focus Timer & Tasks
+
+- URL: https://apps.apple.com/us/app/focus-to-do-focus-timer-tasks/id966057213
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus daily living support app
+- Found: 2026-06-29
+- Description: A Pomodoro Timer combined with Task Management, designed to help users stay focused, manage daily tasks, and get things done through science-based motivation.
+
+### Focus To-Do (Official Website)
+
+- URL: https://focus-todo.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus daily living support app
+- Found: 2026-06-29
+- Description: Official product page for Focus To-Do, a productivity app integrating task lists, calendar views, and a focus timer to support daily living and neurodivergent routines.
+
+### Forest: Focus App for Time Well Spent
+
+- URL: https://forestapp.cc/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus daily living support app
+- Found: 2026-06-29
+- Description: A focus timer app that rewards users with growing virtual trees for staying focused, helping to build healthy daily habits and reduce distraction from daily tasks.
+
+### Akiflow: All-in-One Task & Calendar Manager
+
+- URL: https://akiflow.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus daily living support app
+- Found: 2026-06-29
+- Description: A premium task inbox and time-blocking tool that integrates calendar, tasks, and reminders to streamline daily planning and support structured living.
+
+### Motion: AI Daily Planner
+
+- URL: https://www.motion.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus daily living support app
+- Found: 2026-06-29
+- Description: An AI-powered planner that automatically schedules tasks into your calendar, helping neurodivergent users manage daily responsibilities without manual planning.
+
+### TickTick: Task Manager & Pomodoro Timer
+
+- URL: https://ticktick.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus daily living support app
+- Found: 2026-06-29
+- Description: A comprehensive task manager featuring a built-in Pomodoro timer, calendar view, and reminders to help users plan, execute, and track daily tasks effectively.
+
+### FOCUS Mobile Application for Neurodivergent Adolescents
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10377453/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus independence mobile app
+- Found: 2026-06-29
+- Description: A pilot mobile app designed to support independence in daily routines for adolescents with autism and/or ADHD, featuring visual/time-based structuring, Pomodoro timer, and reward system.
+
+### FOCUS App Research Study (ADHD Independence)
+
+- URL: https://newsroom.uw.edu/news-releases/study-tests-mobile-app-for-schizophrenia-care
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus independence mobile app
+- Found: 2026-06-29
+- Description: Clinical trial evaluating the FOCUS smartphone app for managing symptoms and medication adherence in neurodivergent individuals, showing positive effects on treatment adherence with financial incentives.
+
+### FOCUS App for Schizophrenia and Mental Health Independence
+
+- URL: https://showme.missouri.edu/2023/mobile-app-enables-students-with-special-needs-to-self-monitor-behavior-focus-more-in-class/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus independence mobile app
+- Found: 2026-06-29
+- Description: Grant-funded mobile app enabling students with special needs to self-monitor behavior and improve focus in class, supporting independence for neurodivergent youth.
+
+### CARE Mindfulness App for Rumination Reduction
+
+- URL: https://bbrfoundation.org/content/study-phone-based-mindfulness-app-helped-young-teens-ruminate-less
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus independence mobile app
+- Found: 2026-06-29
+- Description: Freely available smartphone app featuring mindfulness exercises that helped young teens ruminate less, supporting mental independence and emotional regulation for neurodivergent adolescents.
+
+### Mobile App for Daily Routine Independence in Neurodivergent Youth
+
+- URL: https://www.deloittedigital.com/us/en/insights/perspective/mobile-app-best-practices.html
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus independence mobile app
+- Found: 2026-06-29
+- Description: Research-backed insights on mobile app best practices for supporting independence in daily routines, including personalization, notifications, and content optimization for neurodivergent users.
+
+### Project 1: App for Youth Employment Independence
+
+- URL: https://www.blind.msstate.edu/research/current/project-1-development-app-help-parents-and-youth-focus-employment
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus independence mobile app
+- Found: 2026-06-29
+- Description: Development of a new app providing transition resources to parents and youth with disabilities, supporting independence in employment and daily life for neurodivergent individuals.
+
+### Holistic Analysis of Mobile Mental Health App Engagement
+
+- URL: https://dl.acm.org/doi/10.1145/3706598.3713732
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus independence mobile app
+- Found: 2026-06-29
+- Description: Research examining barriers to sustained user engagement in mobile mental health apps, offering insights for improving independence-support tools for neurodivergent populations.

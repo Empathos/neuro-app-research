@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: adhd
-- UTC timestamp: 2026-06-26T10:33:01.584869+00:00
-- New findings: 65
-- Rejected dead links: 18
+- UTC timestamp: 2026-06-29T16:37:17.805021+00:00
+- New findings: 75
+- Rejected dead links: 25
 
 ## Support Categories
 
 ### communication-aac
 
-- `executive function speech support startup`: 6 new finding(s), 0 rejected dead link(s)
-- `executive function conversation support open source`: 3 new finding(s), 0 rejected dead link(s)
+- `focus communication support app`: 7 new finding(s), 0 rejected dead link(s)
+- `focus AAC mobile app`: 2 new finding(s), 5 rejected dead link(s)
 
 ### executive-function
 
-- `executive function routine startup`: 0 new finding(s), 2 rejected dead link(s)
-- `executive function reminders open source`: 3 new finding(s), 5 rejected dead link(s)
+- `focus planning app`: 2 new finding(s), 2 rejected dead link(s)
+- `focus task initiation mobile app`: 3 new finding(s), 1 rejected dead link(s)
 
 ### sensory-regulation
 
-- `executive function calming startup`: 3 new finding(s), 0 rejected dead link(s)
-- `executive function environment planning open source`: 2 new finding(s), 2 rejected dead link(s)
+- `focus sensory regulation app`: 1 new finding(s), 0 rejected dead link(s)
+- `focus overload mobile app`: 4 new finding(s), 4 rejected dead link(s)
 
 ### education-learning
 
-- `executive function reading support startup`: 7 new finding(s), 0 rejected dead link(s)
-- `executive function classroom open source`: 6 new finding(s), 0 rejected dead link(s)
+- `focus student support app`: 8 new finding(s), 0 rejected dead link(s)
+- `focus learning support mobile app`: 7 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `executive function self regulation startup`: 3 new finding(s), 1 rejected dead link(s)
-- `executive function coping skills open source`: 3 new finding(s), 4 rejected dead link(s)
+- `focus emotional regulation app`: 4 new finding(s), 1 rejected dead link(s)
+- `focus mood tracking mobile app`: 5 new finding(s), 2 rejected dead link(s)
 
 ### daily-living
 
-- `executive function life skills startup`: 8 new finding(s), 0 rejected dead link(s)
-- `executive function home routine open source`: 3 new finding(s), 3 rejected dead link(s)
+- `focus daily living support app`: 6 new finding(s), 0 rejected dead link(s)
+- `focus independence mobile app`: 7 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `executive function therapy support startup`: 8 new finding(s), 0 rejected dead link(s)
-- `executive function parent support open source`: 4 new finding(s), 0 rejected dead link(s)
+- `focus caregiver app`: 6 new finding(s), 0 rejected dead link(s)
+- `focus clinician tool mobile app`: 4 new finding(s), 4 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `executive function mobile accessibility startup`: 4 new finding(s), 0 rejected dead link(s)
-- `executive function adaptive tool open source`: 2 new finding(s), 1 rejected dead link(s)
+- `focus assistive technology app`: 4 new finding(s), 3 rejected dead link(s)
+- `focus accessibility mobile app`: 5 new finding(s), 3 rejected dead link(s)
 

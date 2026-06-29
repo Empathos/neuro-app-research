@@ -338,3 +338,93 @@
 - Query: executive function conversation support open source
 - Found: 2026-06-26
 - Description: A public repository of open educational resources for all ages, including materials on executive function, self-regulation, and neurodivergence support for schools and individuals.
+
+### 10 Best Client Communication Tools & Software for 2026 - Vibe
+
+- URL: https://vibe.us/blog/client-communication-tools/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus communication support app
+- Found: 2026-06-29
+- Description: Compare the 10 best client communication tools and software for agencies, support, and client-facing teams  with pricing, pros, ...
+
+### 15 Best Employee Communication Apps (Fix Poor Internal Comms ...
+
+- URL: https://agilityportal.io/blog/employee-communication-apps
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus communication support app
+- Found: 2026-06-29
+- Description: Discover the 15 best employee communication apps ranked by use case, team size, pricing, and real pros & cons. #1. AgilityPortal
+
+### What apps are used for team communication and parent updates?
+
+- URL: https://www.facebook.com/groups/firstroboticsgroup/posts/7776354132377553/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus communication support app
+- Found: 2026-06-29
+- Description: Slack and Remind are popular choices for team communication and parent updates, offering organized channels and push notifications. Amanda ...
+
+### Parent Teacher Communication App - Bloomz PBIS & School ...
+
+- URL: https://www.bloomz.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus communication support app
+- Found: 2026-06-29
+- Description: Bloomz makes it easy for administrators and teachers to securely communicate with families by sharing engaging classroom, school, and district updates.
+
+### Top 15 communication apps for customer service - Zendesk
+
+- URL: https://www.zendesk.com/blog/messaging-and-chat/software/messaging-partner-guide/best-communication-apps-support/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus communication support app
+- Found: 2026-06-29
+- Description: Customers want to connect through their favorite apps. Here are the best communication apps out there and tips on how to choose the right ...
+
+### Best Employee Communication App in 2026 - Staffbase
+
+- URL: https://staffbase.com/employee-communication-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus communication support app
+- Found: 2026-06-29
+- Description: Discover the leading employee communication app. Learn how this app can transform your communication strategy and enhance efficiency. Request a demo now!
+
+### 8 Best Internal Communication Apps for Teams in 2026 - TrueConf
+
+- URL: https://trueconf.com/blog/productivity/internal-communication-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus communication support app
+- Found: 2026-06-29
+- Description: Discover the top 8 internal communication apps for 2026, including TrueConf, Slack, Google Chat, and more.
+
+### Proloquo2Go - AAC App for iPad and iPhone
+
+- URL: https://apps.apple.com/us/app/proloquo2go-aac-app/id1521978238
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus AAC mobile app
+- Found: 2026-06-29
+- Description: Proloquo2Go is an intuitive AAC mobile app designed to support communication for individuals with complex communication needs, featuring natural learning opportunities and Focus Mode.
+
+### Key Voting - AAC Mobile Applications Review
+
+- URL: https://www.asha.org/publications/voice/2025/03/aac-apps-review
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus AAC mobile app
+- Found: 2026-06-29
+- Description: A comprehensive review of top AAC mobile apps, including considerations for motor plan-based designs and customization for neurodivergent users.
