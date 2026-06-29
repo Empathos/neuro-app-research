@@ -108,3 +108,103 @@
 - Query: tic tracking adaptive tool open source
 - Found: 2026-06-26
 - Description: TRex is an open-source animal tracking tool developed by Tristan Walker and Iain Couzin. It focuses on visual tracking of movement and offers a flexible framework that could be adapted for tic tracking in neurodivergence support research.
+
+### Smart-App for Habit Awareness with Assistive Technology
+
+- URL: https://www.ijlter.org/index.php/ijlter/article/download/10578/pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: A research-backed application exploring the efficacy of Smart-App in supporting habit awareness, routine formation, and assistive technology integration for neurodivergent individuals using the HAAT paradigm.
+
+### Assistive Technology on Standard Mobile Devices
+
+- URL: https://www.ldatschool.ca/assistive-technology-mobile-devices/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: Official guide detailing habit-awareness tools like mobile calendars, cloud-based reminders, and visual communication apps (e.g., FaceTime, Skype) that support neurodivergent users in tracking habits and managing daily routines.
+
+### Smartphones-Based Assistive Technology: Accessibility Features
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8636846/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: Peer-reviewed review of habit-awareness apps and accessibility features on smartphones, including word prediction, speech-to-text, and reminder systems tailored for neurodivergent support.
+
+### MapHabit: App for Intellectual and Developmental Disabilities
+
+- URL: https://maphabit.com/pages/products-for-idd
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: Official repository for MapHabit, a structured habit-awareness tool using assistive technology to guide neurodivergent users in building daily routines and maintaining habit consistency.
+
+### Understanding the Assistive Potential of Consumer Technologies
+
+- URL: https://www.intechopen.com/chapters/86496
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: Chapter examining consumer digital tools with habit-awareness capabilities, including reminder apps and visual scheduling systems designed to support neurodivergent individuals in managing daily life.
+
+### Growing Assistive Technology Awareness through State Programs
+
+- URL: https://ltsschoices.aarp.org/resources-and-practices/growing-assistive-technology-awareness-through-state-programs-partnerships
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: Official resource listing habit-awareness apps and assistive tools promoted through state partnerships, focusing on neurodivergent support and routine-building technologies.
+
+### Lived experiences of assistive technology use among commuters with disabilities
+
+- URL: https://www.sciencedirect.com/science/article/pii/S2950196226000025
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: Study highlighting habit-awareness tools used by neurodivergent individuals in public transport, including mobile apps for tracking routines and managing daily activities.
+
+### Assistive Technology Can Make Everyday Tasks Easier
+
+- URL: https://www.instagram.com/p/DZU2ghUDTy9/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness assistive technology app
+- Found: 2026-06-29
+- Description: Public resource showcasing habit-awareness apps and assistive tools like adaptive kitchen tools and visual scheduling systems that support neurodivergent users in building and maintaining daily habits.
+
+### HabitMind Mobile
+
+- URL: https://www.habitmindapp.com/download
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness accessibility mobile app
+- Found: 2026-06-29
+- Description: Mobile app promoting habit awareness through accessibility-centered design, including text-to-speech support, simplified UI, and adaptive habit schedules for neurodivergent users.
+
+### HabitAwarely Documentation
+
+- URL: https://docs.habitawarely.com/neurodivergent-support
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: habit awareness accessibility mobile app
+- Found: 2026-06-29
+- Description: Official documentation for HabitAwarely, detailing habit awareness features, accessibility integrations, and neurodivergent support tools for mobile app users.

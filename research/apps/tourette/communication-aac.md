@@ -368,3 +368,113 @@
 - Query: tic tracking conversation support open source
 - Found: 2026-06-26
 - Description: Official page for GlassesViewer, an open-source Matlab utility for viewing and analyzing eye-tracking data from Tobii Pro Glasses, supporting research and conversation tools.
+
+### https://habitaware.com
+
+- URL: https://habitaware.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness communication support app
+- Found: 2026-06-29
+- Description: No description captured from source.
+
+### https://habi.app
+
+- URL: https://habi.app
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness communication support app
+- Found: 2026-06-29
+- Description: No description captured from source.
+
+### https://www.coach.me
+
+- URL: https://www.coach.me
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness communication support app
+- Found: 2026-06-29
+- Description: No description captured from source.
+
+### https://www.stridesapp.com
+
+- URL: https://www.stridesapp.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness communication support app
+- Found: 2026-06-29
+- Description: No description captured from source.
+
+### https://www.beeminder.com
+
+- URL: https://www.beeminder.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness communication support app
+- Found: 2026-06-29
+- Description: No description captured from source.
+
+### https://neybox.com/today-habit-tracker
+
+- URL: https://neybox.com/today-habit-tracker
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness communication support app
+- Found: 2026-06-29
+- Description: No description captured from source.
+
+### Keen by HabitAware - Apps on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.habitaware.android&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness AAC mobile app
+- Found: 2026-06-29
+- Description: Official Android app for the Keen smart bracelet, designed to help users build awareness and take control of body-focused repetitive behaviors like hair pulling, skin picking, and nail biting through real-time vibration alerts.
+
+### Keen2 - Smart Bracelet & Mobile App System
+
+- URL: https://www.youtube.com/watch?v=nMKQM6zG54w
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness AAC mobile app
+- Found: 2026-06-29
+- Description: Video announcement for Keen2, the latest smart bracelet and mobile app system designed to help users manage hair pulling, skin picking, and nail biting with enhanced awareness features.
+
+### HabitAware Member Spotlight - mHUB
+
+- URL: https://mhub.org/blog/member-spotlight-habitaware
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness AAC mobile app
+- Found: 2026-06-29
+- Description: Official mHUB spotlight on HabitAware, detailing the companys smart bracelet technology, mobile app features, and support resources for BFRBs including coaching and educational courses.
+
+### HabitAware Instagram Reel - Awareness & Control
+
+- URL: https://www.instagram.com/reel/DXJbnAlN18j/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness AAC mobile app
+- Found: 2026-06-29
+- Description: Instagram post highlighting HabitAwares smart bracelet and mobile app as tools for awareness training and control over trichotillomania, dermatillomania, and other body-focused behaviors.
+
+### HabitAware - AAC and Neurodivergence Support
+
+- URL: https://dl.acm.org/doi/fullHtml/10.1145/3544548.3580936
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness AAC mobile app
+- Found: 2026-06-29
+- Description: Research article discussing wearable AAC devices and their integration with mobile apps for neurodivergent individuals, including HabitAwares approach to awareness training for BFRBs.
