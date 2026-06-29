@@ -328,3 +328,23 @@
 - Query: motor planning environment planning open source
 - Found: 2026-06-26
 - Description: Open educational content defining motor planning as a skill to remember and perform movement steps, with practical activities like obstacle courses and Simon Says for support.
+
+### Coordination Overload Solutions - Research Paper (PMC)
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3621678
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination overload mobile app
+- Found: 2026-06-29
+- Description: A peer-reviewed study discussing mobile app strategies to combat coordination overload, including open-source integration, content standardization, and personalized content delivery.
+
+### MultiTask Coordinator - Documentation Hub
+
+- URL: https://multaskcoordinator.dev/docs/overload
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination overload mobile app
+- Found: 2026-06-29
+- Description: Technical documentation for a mobile tool that helps users manage multiple tasks simultaneously, reducing coordination overload with smart prioritization and visual feedback.

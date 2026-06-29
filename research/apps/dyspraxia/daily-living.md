@@ -98,3 +98,133 @@
 - Query: motor planning home routine open source
 - Found: 2026-06-26
 - Description: These tools and activities improve a child's strength, coordination, motor planning and endurance while having fun!
+
+### CareZone  Healthcare Management App for Families
+
+- URL: https://www.carezone.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination daily living support app
+- Found: 2026-06-29
+- Description: A comprehensive app that helps coordination of daily living by managing medications, appointments, documents, and family communication in one secure dashboard.
+
+### Lotsa Helping Hands  Care Calendar & Team Coordination
+
+- URL: https://lotsahelpinghands.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination daily living support app
+- Found: 2026-06-29
+- Description: A web and mobile tool that organizes daily living support by coordinating caregiving duties like rides, meal prep, and appointments among a team of helpers.
+
+### Carely  Social Network for Care Coordination
+
+- URL: https://carely.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination daily living support app
+- Found: 2026-06-29
+- Description: A mobile app that creates a personal social network for caregivers to coordinate daily living duties, post updates, and manage shared calendars for appointments.
+
+### eCare21  Remote Daily Activity Monitoring
+
+- URL: https://www.ecare21.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination daily living support app
+- Found: 2026-06-29
+- Description: An app that supports coordination of daily living by tracking a loved ones steps, sleep, and physical activity through wearable devices, enabling real-time family monitoring.
+
+### MindMate  Dementia & Daily Living Companion
+
+- URL: https://mindmate.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination daily living support app
+- Found: 2026-06-29
+- Description: A daily living support tool offering cognitive activities, medication reminders, and communication features to help coordinate care for individuals with dementia.
+
+### RxSaver  Prescription Cost & Coordination Tool
+
+- URL: https://www.rxsaver.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination daily living support app
+- Found: 2026-06-29
+- Description: A tool that coordinates daily medication access by comparing prescription prices, finding coupons, and managing refill schedules to reduce care friction.
+
+### COMPASS: CoronaMelder Notification App Coordination
+
+- URL: https://github.com/minvws/nl-covid19-notification-app-coordination
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination independence mobile app
+- Found: 2026-06-29
+- Description: Official repository documenting the Dutch COVID-19 Notification App (CoronaMelder), featuring coordination mechanisms for mobile app independence, open-source modular technology, and systemic collaboration for pandemic mHealth apps.
+
+### Common Modularization Patterns in App Architecture
+
+- URL: https://developer.android.com/topic/modularization/patterns
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination independence mobile app
+- Found: 2026-06-29
+- Description: Official Android documentation outlining modularization patterns that enable app independence, including abstraction modules, implementation modules, and centralized configuration via version catalogs for scalable mobile development.
+
+### Coordinated Polyrepo Pattern: Managing Multiple Git Repositories
+
+- URL: https://itnext.io/coordinated-polyrepo-pattern-managing-multiple-git-repositories-with-submodules-1610d6ee857a
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination independence mobile app
+- Found: 2026-06-29
+- Description: Technical guide on coordinating multiple independent Git repositories using submodules under a centralized binder, supporting modular app architecture and independence for neurodivergent-friendly tool development.
+
+### Independence Bank Mobile App
+
+- URL: https://play.google.com/store/apps/details?id=com.independencebankglasgow.mobile&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination independence mobile app
+- Found: 2026-06-29
+- Description: Official mobile banking app for Independence Bank, enabling users to check balances, transfer money, pay bills, and find ATMs, representing a functional independent mobile application with secure transaction capabilities.
+
+### Centralized Apps and Mobile Repository Tool
+
+- URL: https://www.youtube.com/watch?v=2jWxLhVldpM
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination independence mobile app
+- Found: 2026-06-29
+- Description: Video overview of a centralized platform for managing mobile apps and devices, offering shared device capabilities across iOS and Android for development, testing, and neurodivergent support tool deployment.
+
+### Importing Apps from Code Repositories for DevOps
+
+- URL: https://www.bluecedar.com/read/importing-mobile-apps-from-code-repositories-streamlines-devops-deployment-workflows
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination independence mobile app
+- Found: 2026-06-29
+- Description: Whitepaper describing mechanisms to automatically import mobile app binaries from CI/CD solutions into deployment workflows, streamlining coordination and independence for custom neurodivergence support applications.
+
+### Coordinated Communication Guidelines (FEC)
+
+- URL: https://www.fec.gov/help-candidates-and-committees/making-independent-expenditures/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination independence mobile app
+- Found: 2026-06-29
+- Description: Official FEC resource defining independent expenditures and coordinated communications in digital applications, relevant for understanding legal frameworks of app independence and coordination in public tool development.

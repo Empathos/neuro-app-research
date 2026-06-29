@@ -238,3 +238,153 @@
 - Query: motor planning classroom open source
 - Found: 2026-06-26
 - Description: Free educational guide explaining motor planning's impact on children's learning, featuring open-source strategies to integrate physical activity and multi-step motor tasks into classroom routines.
+
+### Coordination of Services Team (COST) Guide
+
+- URL: https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-6-coordination/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination student support app
+- Found: 2026-06-29
+- Description: Official guide for Coordination of Services Teams (COST) in school-based mental health, including templates for universal referral forms, meeting structures, and data tracking to coordinate student support services.
+
+### Student Support Teams - DCPS
+
+- URL: https://dcps.dc.gov/page/student-support-teams
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination student support app
+- Found: 2026-06-29
+- Description: Public resource detailing how school-based Student Support Teams coordinate services for academics, attendance, culture, and health, with evaluation frameworks for student support interventions.
+
+### Student Support Services - Montgomery Public Schools
+
+- URL: https://www.mps.k12.al.us/page/student-support-services
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination student support app
+- Found: 2026-06-29
+- Description: MPS district page for Student Support Services, offering coordinates and contact information for coordinating academic, attendance, and wellness support for students across the district.
+
+### RHS Student Support Teams - Revere High School
+
+- URL: https://rhs.reverek12.org/apps/pages/index.jsp?uREC_ID=4105719&type=d
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination student support app
+- Found: 2026-06-29
+- Description: Revere High School's public page outlining roles and coordination processes for Student Support Teams, emphasizing collaboration between students, educators, and caregivers.
+
+### Student Support System - GitHub (siddath)
+
+- URL: https://github.com/siddath/Student-Support-System
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination student support app
+- Found: 2026-06-29
+- Description: Open-source cloud-based student information system repository with UI/UX design for coordinating student support, academics, and intervention tracking.
+
+### Integrated Student Support Toolkit - Rennie Center
+
+- URL: https://www.renniecenter.org/blog/how-build-integrated-system-student-support
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination student support app
+- Found: 2026-06-29
+- Description: Public toolkit for building integrated student support systems in schools, offering coordination strategies for linking students to tutoring, mental health, and family services.
+
+### App Contest - Student Support System (University of New Mexico)
+
+- URL: https://appcontest.unm.edu/spring-2023-contest/resources/helpful.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination student support app
+- Found: 2026-06-29
+- Description: University of New Mexico student app development contest page for mobile apps focused on student support coordination, including submission guidelines and resource access.
+
+### LEAD Group Student App - Apps on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.leadschool.parentapp&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description: The LEAD Group Student App allows parents of partner schools to track the progress of their child in school by keeping them updated on:
+
+### Mobile applications in medical education: A systematic review and ...
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8947018/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description: This review evaluates the effectiveness of smartphone applications in improving academic performance and clinical practice among healthcare professionals and ...
+
+### Support Coordination Funding Tracking App - Facebook
+
+- URL: https://www.facebook.com/groups/4958562717558959/posts/26703973229257928/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description: Support Coordination Funding Tracking App I am designing an app to help support coordinators to track funding for participants they support.
+
+### LEAD Group Student App - App Store
+
+- URL: https://apps.apple.com/in/app/lead-group-student-app/id1571090872
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description: The LEAD Group Student App allows parents of partner schools to track the progress of their child in school by keeping them updated on: - Unit Progress: Know ...
+
+### Learning about the LEAD App - Pushpay Help Center
+
+- URL: https://support.pushpay.com/s/article/Learning-about-the-LEAD-App
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description: The LEAD app equips leaders with the information and tools they need to understand their community and see their patterns of connection and involvement.
+
+### Panorama Education | Top Educational Software for Schools
+
+- URL: https://www.panoramaed.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description: Smarter support and learning for every student. Panorama connects student data and AI with your district policies, then helps you take the right action ...
+
+### LEAD Group Student App - Facebook
+
+- URL: https://www.facebook.com/leadschoolindia/videos/lead-group-student-app/2281670242205065/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description:  Engaging and fun for students  Students can practice with friends for collaborative learning  Ensures parents stay updated on their ...
+
+### Navigate360: Higher Education's Leading CRM - EAB
+
+- URL: https://eab.com/solutions/navigate360/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination learning support mobile app
+- Found: 2026-06-29
+- Description: Discover EAB's Navigate360, a higher education CRM that connects administrators, faculty, staff, & students to improve the student experience. Learn more.

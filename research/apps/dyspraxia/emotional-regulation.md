@@ -158,3 +158,83 @@
 - Query: motor planning coping skills open source
 - Found: 2026-06-26
 - Description: Open-access medical documentation on motor learning principles, detailing how practice and feedback serve as coping mechanisms to refine automatic motor movements.
+
+### How We Feel App
+
+- URL: https://medicine.yale.edu/news-article/the-how-we-feel-app-helping-emotions-work-for-us-not-against-us/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination emotional regulation app
+- Found: 2026-06-29
+- Description: Official app designed to help users identify, track, and understand emotions while learning regulation strategies and recognizing patterns.
+
+### DreamyKid
+
+- URL: https://www.rchsd.org/documents/2024/01/apps-to-assist-with-emotion-regulation.pdf/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination emotional regulation app
+- Found: 2026-06-29
+- Description: App for children featuring mindfulness programs, calming games, and heart rate sensor integration to practice emotional regulation skills.
+
+### DreamyKid (Full Feature Guide)
+
+- URL: https://www.rchsd.org/documents/2024/01/apps-to-assist-with-emotion-regulation.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination emotional regulation app
+- Found: 2026-06-29
+- Description: PDF documentation detailing DreamyKid's categories, affirmations, sleep stories, and guided breathing tools for regulating emotions.
+
+### eMoods Bipolar Mood Tracker
+
+- URL: https://apps.apple.com/gb/app/emoods-bipolar-mood-tracker/id1184456130
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination mood tracking mobile app
+- Found: 2026-06-29
+- Description: Official iOS app for tracking mood disorders, sleep, medication, and other symptoms related to Bipolar I and II. Highly regarded by psychiatrists for logging daily highs and lows.
+
+### Bearable: Symptom, Mood & Period Tracker
+
+- URL: https://play.google.com/store/apps/details?id=com.bearable&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination mood tracking mobile app
+- Found: 2026-06-29
+- Description: Official Google Play app for tracking mood, period, symptoms, pain, and fatigue. Designed to make well-being tracking simple, convenient, and effective for neurodivergent users.
+
+### Moodistory: The #1 Privacy Mood Tracker
+
+- URL: https://moodistory.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination mood tracking mobile app
+- Found: 2026-06-29
+- Description: Official website for Moodistory, a low-effort mood tracker app focused on privacy and mental health. Customizable interface suitable for neurodivergent users needing coordination tools.
+
+### Moodfit: Mood Tracking & Gratitude Journal
+
+- URL: https://lifestance.com/blog/best-mood-tracking-apps-therapists-top-choices-2026/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination mood tracking mobile app
+- Found: 2026-06-29
+- Description: Featured app combining mood tracking with gratitude journaling, CBT tools, and sleep tracking. Recommended by therapists for managing habits and supporting neurodivergence.
+
+### Healthline's Top Mood Tracking Apps for 2026
+
+- URL: https://www.facebook.com/groups/279876271304230/posts/727781459847040/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination mood tracking mobile app
+- Found: 2026-06-29
+- Description: Community discussion listing popular mood tracking apps like E-Moods, Selfrell, and Finch. Users praise features for identifying coordination patterns and mental health trends.

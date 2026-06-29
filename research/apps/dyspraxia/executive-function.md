@@ -328,3 +328,53 @@
 - Query: motor planning reminders open source
 - Found: 2026-06-26
 - Description: Article discussing Super Productivity as an open-source tool for work-life balance, offering tags, projects, and scheduling features beneficial for neurodivergent task management.
+
+### Focus Bear - Coordination & Routine Builder
+
+- URL: https://focusbear.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination planning app
+- Found: 2026-06-29
+- Description: Focus Bear is an all-in-one coordination planning tool that structures days with automated routines, website blockers, and mindfulness breaks tailored for neurodivergent focus needs.
+
+### EasyTodo - Neurodiverse Task Initiation App
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/3756049797993438/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination task initiation mobile app
+- Found: 2026-06-29
+- Description: An app developed to help neurodiverse people initiate tasks more easily, featuring voice-based task management and tools designed to reduce starting barriers.
+
+### Tiimo App - Task Initiation & Executive Functioning
+
+- URL: https://www.tiimoapp.com/de/resource-hub/task-initiation-adhd
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination task initiation mobile app
+- Found: 2026-06-29
+- Description: A mobile app offering visual checklists, subtasks, and body doubling support to help ADHD adults with task initiation and executive functioning.
+
+### MananaList App - To-Do List & Task Management
+
+- URL: https://rsisinternational.org/journals/ijriss/articles/mananalist-app-a-mobile-to-do-list-application-for-efficient-and-personalized-task-management/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination task initiation mobile app
+- Found: 2026-06-29
+- Description: A mobile to-do list application featuring task prioritization, reminders, deadline tracking, and collaborative tools for efficient task management.
+
+### Task Initiation Support System (Wearable + UI)
+
+- URL: https://drpress.org/ojs/index.php/ajst/article/view/33357
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination task initiation mobile app
+- Found: 2026-06-29
+- Description: A research-based assistive system integrating a wearable device with an ADHD-friendly user interface designed on behavioral therapy principles for task initiation support.

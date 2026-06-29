@@ -118,3 +118,63 @@
 - Query: motor planning adaptive tool open source
 - Found: 2026-06-26
 - Description: Academic paper presenting prototypes of adaptive tools for motor-skill learning in sports, music, and rehabilitation, with open-source implications.
+
+### WheelMate - Accessible Restroom & Parking Finder
+
+- URL: https://wheelmate.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination assistive technology app
+- Found: 2026-06-29
+- Description: A free mobile app designed for people in wheelchairs to find accessible restrooms and parking, coordinating assistive needs for mobility support.
+
+### Avaz AAC - Assistive Communication App
+
+- URL: https://avazaac.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination assistive technology app
+- Found: 2026-06-29
+- Description: An assistive communication app empowering children and adults with Autism, Cerebral Palsy, and other conditions to coordinate speech and language support.
+
+### Avaz AAC - Documentation Guide
+
+- URL: https://avazaac.com/docs/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination assistive technology app
+- Found: 2026-06-29
+- Description: Official documentation for Avaz AAC, detailing setup and coordination features for assistive technology in educational and home settings.
+
+### AT3 Center - Assistive Technology Directory
+
+- URL: https://at3center.org/directory/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination assistive technology app
+- Found: 2026-06-29
+- Description: Public directory of state assistive technology programs, coordinating access to apps and tools for neurodivergent and disabled individuals.
+
+### WHO - Assistive Technology Resources
+
+- URL: https://www.who.int/teams/noncommunicable-diseases/assistive-technology
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination assistive technology app
+- Found: 2026-06-29
+- Description: WHO official page listing global assistive technology resources, including apps and tools that coordinate support for neurodivergence and disability.
+
+### MapHabit - Apps for Intellectual Disabilities
+
+- URL: https://maphabit.com/pages/products-for-idd
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination assistive technology app
+- Found: 2026-06-29
+- Description: Curated collection of assistive apps for intellectual and developmental disabilities, coordinating daily routines and caregiver support tools.

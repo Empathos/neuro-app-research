@@ -378,3 +378,53 @@
 - Query: motor planning conversation support open source
 - Found: 2026-06-26
 - Description: Open research study on motor planning and execution, providing data-driven insights for neurodivergence support and open-source collaboration.
+
+### INSTRUCT - Coordination and Training Tool for Communication Partners
+
+- URL: https://aac-learning-center.org/category/instruct-video/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination communication support app
+- Found: 2026-06-29
+- Description: A public tool designed to train communication partners and support coordination in coordination communication, allowing families and professionals to coordinate care effectively using AAC.
+
+### Spoken  Tap to Talk AAC
+
+- URL: https://spokenaac.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination communication support app
+- Found: 2026-06-29
+- Description: A free AAC app for coordination communication that supports teens and adults with communication differences, offering symbol-based communication to coordinate with caregivers.
+
+### Weave Chat AAC - Free Coordination Communication Tool
+
+- URL: https://www.weavechat.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination communication support app
+- Found: 2026-06-29
+- Description: A free, always-free AAC app designed to be accessible for coordination communication, supporting individuals and professionals to coordinate care without financial barriers.
+
+### ChatterBoards AAC - Free Coordination App
+
+- URL: https://chatterboards-aac.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination communication support app
+- Found: 2026-06-29
+- Description: A free iOS AAC app developed with speech therapists to support coordination communication, offering robust visual boards for coordinating needs and ideas.
+
+### Twinkl Symbols AAC System
+
+- URL: https://apps.apple.com/us/app/twinkl-symbols-aac-system/id1543188023
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination AAC mobile app
+- Found: 2026-06-29
+- Description: An AAC app with symbols for basic communication, free for both Twinkl members and non-members, suitable for neurodivergent individuals.
