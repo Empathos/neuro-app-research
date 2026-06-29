@@ -128,3 +128,73 @@
 - Query: reading support home routine open source
 - Found: 2026-06-26
 - Description: Open-source Android terminal emulator that allows neurodivergent users to run reading tools like Speedread on mobile devices, enabling portable open-source reading support within home routines.
+
+### Live Transcribe - Android Accessibility
+
+- URL: https://rnid.org.uk/information-and-support/technology-and-products/speech-to-text-smartphone-apps/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech daily living support app
+- Found: 2026-06-29
+- Description: Live Transcribe is a free Android app that performs real-time speech-to-text transcription. While primarily speech-to-text, it complements text-to-speech workflows for daily communication, especially for deaf and hard-of-hearing users.
+
+### Talk Free - Text to Speech App
+
+- URL: https://relaysd.com/news/find-your-voice-top-free-text-to-speech-apps-for-adults
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech daily living support app
+- Found: 2026-06-29
+- Description: Talk Free is a popular text-to-speech app with over 5 million installs, available on Android. It speaks typed text in multiple languages and supports daily communication needs for neurodivergent individuals.
+
+### Voiceitt - Inclusive Voice AI
+
+- URL: https://www.voiceitt.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech daily living support app
+- Found: 2026-06-29
+- Description: Voiceitt is an inclusive Voice AI and AAC tool designed for people with non-standard speech. It supports communication with technology and people, enabling daily living support through accessible voice and text features.
+
+### Text to Speech TTS Offline - Android Mobile App
+
+- URL: https://play.google.com/store/apps/details?id=com.ideastocode.texttospeech&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech independence mobile app
+- Found: 2026-06-29
+- Description: Google Play app for Android enabling offline text-to-speech conversion for iPhone and Android users, supporting independence from internet for neurodivergent accessibility.
+
+### Text to Speech TTS Offline - iOS Mobile App
+
+- URL: https://apps.apple.com/us/app/text-to-speech-tts-offline/id6759808824
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech independence mobile app
+- Found: 2026-06-29
+- Description: Official iOS app for offline text-to-speech conversion on iPhone and Android, providing internet-independent access for neurodivergent users seeking independence.
+
+### Piper TTS - Open Source Offline Text-to-Speech Engine
+
+- URL: https://github.com/rhasspy/piper
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech independence mobile app
+- Found: 2026-06-29
+- Description: GitHub repository for open-source, offline neural text-to-speech engine (Piper) with high-quality voices, supporting independent mobile deployment for neurodivergent accessibility.
+
+### MorVoice - Mobile TTS App with AI Narration
+
+- URL: https://www.morvoice.com/text-to-speech/free-text-to-speech-app
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech independence mobile app
+- Found: 2026-06-29
+- Description: Official site for mobile app converting web pages and documents to audio with AI narration, supporting offline modes for neurodivergent independence from internet.

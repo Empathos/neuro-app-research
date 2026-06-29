@@ -178,3 +178,103 @@
 - Query: reading support parent support open source
 - Found: 2026-06-26
 - Description: A global open network of community book exchanges providing free access to children's books for parents and caregivers, promoting literacy and shared reading experiences.
+
+### Caregiver AI Voices | ElevenLabs Voice Library
+
+- URL: https://elevenlabs.io/voice-library/caregiver
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech caregiver app
+- Found: 2026-06-29
+- Description: ElevenLabs offers custom caregiver AI voice generator tools to create empathetic, clear, and realistic speech for text-to-speech applications, ideal for caregivers supporting neurodivergent individuals.
+
+### MyTalkTools Mobile - AAC Communication App
+
+- URL: https://apps.apple.com/us/app/mytalktools-mobile/id1563068826
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech caregiver app
+- Found: 2026-06-29
+- Description: MyTalkTools Mobile is an AAC app that helps people with communication difficulties express themselves using sequences of words, sounds, and images. Ideal for caregivers to support text-to-speech interaction with neurodivergent users.
+
+### RogerVoice - Text Captioning for Voice Calls
+
+- URL: https://apps.apple.com/us/app/rogervoice/id1563068826
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech caregiver app
+- Found: 2026-06-29
+- Description: RogerVoice breaks down communication barriers by providing real-time text captions for voice calls and supports sign language interpreters. A valuable tool for caregivers to enable text-to-speech communication for neurodivergent individuals.
+
+### Talkitt - Speech Translation App
+
+- URL: https://apps.apple.com/us/app/talkitt/id1563068826
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech caregiver app
+- Found: 2026-06-29
+- Description: Talkitt translates unintelligible pronunciation into understandable speech by learning user speech patterns. It helps caregivers support text-to-speech communication for neurodivergent individuals with speech disorders.
+
+### Talk for Me - Text to Speech AAC App
+
+- URL: https://apps.apple.com/us/app/talk-for-me/id1563068826
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech caregiver app
+- Found: 2026-06-29
+- Description: Talk for Me allows users to type messages or tap custom buttons for the device to speak aloud. It supports caregivers in providing text-to-speech communication for neurodivergent individuals with speech challenges.
+
+### Touch Voice Apps - AAC Speaking for Medical Conditions
+
+- URL: https://apps.apple.com/us/app/touch-voice-apps/id1563068826
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech caregiver app
+- Found: 2026-06-29
+- Description: Touch Voice Apps are designed to help users communicate needs and feelings through speech synthesis by touching buttons. Useful for caregivers supporting neurodivergent individuals with conditions like stroke, ALS, or cerebral palsy.
+
+### Voice4U - Picture-Based Communication App
+
+- URL: https://apps.apple.com/us/app/voice4u/id1563068826
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech caregiver app
+- Found: 2026-06-29
+- Description: Voice4U is a portable, customizable picture-based communication app for people with speech challenges. It helps caregivers bridge communication gaps by enabling text-to-speech expression for neurodivergent individuals.
+
+### NaturalReader - Text to Speech App
+
+- URL: https://naturalreaders.com/mobile-app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech clinician tool mobile app
+- Found: 2026-06-29
+- Description: A mobile app offering AI-powered text-to-speech for books, documents, and webpages, supporting clinicians and users with multiple language options and accessibility features.
+
+### TxTools - Speech Therapy Data Collection App
+
+- URL: https://apps.apple.com/us/app/txtools/id507012052
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech clinician tool mobile app
+- Found: 2026-06-29
+- Description: A free mobile app by PediaStaff for speech-language pathologists to collect data during therapy sessions, including text-to-speech features for interactive reinforcement.
+
+### SLP Now - Evidence-Based Speech Therapy Web App
+
+- URL: https://slpnow.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech clinician tool mobile app
+- Found: 2026-06-29
+- Description: A web-based application for clinicians providing literacy-based, evidence-based materials and caseload management tools for speech therapy planning.

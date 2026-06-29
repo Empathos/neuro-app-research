@@ -98,3 +98,73 @@
 - Query: reading support adaptive tool open source
 - Found: 2026-06-26
 - Description: A customizable toolbar for Mac and PC providing quick access to built-in accessibility features like screen readers, magnification, and color contrast. Supports free download and standalone app.
+
+### VoiceAssistant - Built-in iOS Text-to-Speech Guide
+
+- URL: https://support.apple.com/en-us/102745
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech assistive technology app
+- Found: 2026-06-29
+- Description: Apple's official documentation on enabling the built-in iOS text-to-speech features (Speak Selection and Speak Screen) on iPhone and iPad, a free native app for neurodivergent users.
+
+### Amazon Polly - Text-to-Speech Service
+
+- URL: https://aws.amazon.com/polly/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech assistive technology app
+- Found: 2026-06-29
+- Description: AWS official page for Amazon Polly, a service providing real-time and batch text-to-speech with neural voices (NTTS) for lifelike speech in applications and devices.
+
+### IBM Watson Text to Speech
+
+- URL: https://www.ibm.com/watson/text-to-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech assistive technology app
+- Found: 2026-06-29
+- Description: IBM's official documentation for Watson Text to Speech, an API service converting digital text into natural-sounding audio for web, mobile, and enterprise applications.
+
+### Readwise Reader - Text-to-Speech Service
+
+- URL: https://informationaccessgroup.com/how-text-to-speech-can-make-your-content-more-accessible/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech accessibility mobile app
+- Found: 2026-06-29
+- Description: Documentation page describing Readwise Reader, a service that allows saving articles for later reading with a built-in mobile app featuring text-to-speech functionality.
+
+### Microsoft Edge Read Aloud Feature
+
+- URL: https://sas.yale.edu/assistive-technology-services/text-to-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech accessibility mobile app
+- Found: 2026-06-29
+- Description: Accessibility documentation from Yale SAS detailing Microsoft Edge's built-in text-to-speech 'Read Aloud' function, available on Windows, macOS, iOS, and Android.
+
+### iOS Built-in Text to Speech (Speak Selection & Screen)
+
+- URL: https://www.develop.bc.ca/tech-reviews/text-speech-technology-plus-top-app-picks/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech accessibility mobile app
+- Found: 2026-06-29
+- Description: Official developer guide explaining how to enable and use iOS's native Speak Selection and Speak Screen features for reading emails, messages, web pages, and books aloud.
+
+### WebAIM Screen Reader Survey & Accessibility Guidelines
+
+- URL: https://www.w3.org/WAI/perspective-videos/speech/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech accessibility mobile app
+- Found: 2026-06-29
+- Description: W3C Web Accessibility Initiative page providing semantic HTML guidelines and text alternatives to ensure text-to-speech compatibility for mobile devices and screen readers like VoiceOver and TalkBack.

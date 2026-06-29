@@ -218,3 +218,113 @@
 - Query: reading support coping skills open source
 - Found: 2026-06-26
 - Description: Open-source platform hosting the code for the Early Literacy Interventions Tool, allowing developers to replicate and customize the AI model for neurodivergent reading support and learning disability interventions.
+
+### ElevenLabs: AI Voice Generator
+
+- URL: https://play.google.com/store/apps/details?id=io.elevenlabs.coreapp&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech emotional regulation app
+- Found: 2026-06-29
+- Description: Leading AI text-to-voice app with nuanced intonation and emotional awareness, suitable for creating regenerative audio content for emotional regulation.
+
+### Typecast AI: Online AI Text-to-Speech Tool
+
+- URL: https://typecast.ai/text-to-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech emotional regulation app
+- Found: 2026-06-29
+- Description: Online AI tool with emotion controls and 700+ hyper-realistic voices, enabling users to generate professional voiceovers for emotional support scripts.
+
+### Revoicer: AI Text To Speech
+
+- URL: https://revoicer.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech emotional regulation app
+- Found: 2026-06-29
+- Description: First AI voice generator to display real human emotions, breathing life into voiceovers for therapeutic and emotional regulation applications.
+
+### F5-TTS: Free Open-Source AI Voice Cloner
+
+- URL: https://www.youtube.com/watch?v=JBGrhIsCyks
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech emotional regulation app
+- Found: 2026-06-29
+- Description: Open-source AI voice cloner with expressive emotion and pause control, allowing neurodivergent users to customize emotional voices for regulation.
+
+### FlowSpeech: Free Text To Speech
+
+- URL: https://flowspeech.io
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech emotional regulation app
+- Found: 2026-06-29
+- Description: Context-aware TTS tool with emotion and pause control, offering 30+ voices for neurodivergent-friendly emotional regulation content generation.
+
+### Speak4Me Text to Speech Reader
+
+- URL: https://apps.apple.com/us/app/speak4me-text-to-speech-reader/id894460403
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech emotional regulation app
+- Found: 2026-06-29
+- Description: iOS app converting text to speech with dozens of voices and languages, supporting neurodivergent users in reading emotional regulation materials.
+
+### Daylio  Best Overall for Simple Mood Tracking
+
+- URL: https://habitbox.app/blog/best-mood-tracker-app
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech mood tracking mobile app
+- Found: 2026-06-29
+- Description: Daylio is a top-rated mobile app for simple mood tracking with a fast 10-second check-in flow, suitable for neurodivergent users seeking straightforward self-monitoring without complex interfaces.
+
+### Your Life Your Voice App  Interactive Mood Journal
+
+- URL: https://www.yourlifeyourvoice.org/Pages/mobile-app.aspx
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech mood tracking mobile app
+- Found: 2026-06-29
+- Description: An interactive mobile mood journal that allows users to track thoughts, feelings, and moods in a simple, accessible format, ideal for neurodivergent individuals needing low-pressure self-expression.
+
+### Best Mood Tracking Apps for 2026 | Therapists' Top Choices
+
+- URL: https://lifestance.com/blog/best-mood-tracking-apps-therapists-top-choices-2026/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech mood tracking mobile app
+- Found: 2026-06-29
+- Description: A curated list of therapist-approved mood tracking apps for 2026, supporting anxiety, depression, and bipolar disorder, with features tailored for neurodivergent users.
+
+### Mood Tracking Smart Phone App  Community Discussion
+
+- URL: https://www.myptsd.com/threads/mood-tracking-smart-phone-app-the-best.50266/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech mood tracking mobile app
+- Found: 2026-06-29
+- Description: A community thread discussing the best mobile apps for mood tracking, highlighting features that show emotional ups and downs over time with level-based visualizations.
+
+### Mood Tracker App Market Report  Trends & Opportunities 2035
+
+- URL: https://www.wiseguyreports.com/reports/mood-tracker-app-market
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech mood tracking mobile app
+- Found: 2026-06-29
+- Description: A market report detailing the growth of the mood tracker app industry, projected to reach $5.0 billion by 2035, with emerging trends in neurodivergent-focused design and accessibility features.
