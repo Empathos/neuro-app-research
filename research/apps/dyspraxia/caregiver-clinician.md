@@ -68,3 +68,53 @@
 - Query: motor planning therapy support startup
 - Found: 2026-06-26
 - Description: Resource discussing how motor planning difficulties in children can improve through balance training and structured routines, offering therapeutic insights for parents and educators.
+
+### HuiHui - Free Occupational Therapy App
+
+- URL: https://www.huihuiapp.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: motor planning parent support open source
+- Found: 2026-06-29
+- Description: A free, open-source friendly mobile app designed by occupational therapists to support motor planning, sequencing, and fine motor skills through interactive games and activities for children.
+
+### First Steps Chiropractic: Motor Planning Parent Guide
+
+- URL: https://www.firststepschiropractic.com/2026/01/07/what-is-motor-planning/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: motor planning parent support open source
+- Found: 2026-06-29
+- Description: An open-source parent guide explaining motor planning (praxis) with actionable home activities, obstacle course ideas, and step-by-step support strategies for parents.
+
+### Caring Village - Care Coordination App
+
+- URL: https://caringvillage.com/blog/caregiver-tech/elderly-care-apps-for-families/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination caregiver app
+- Found: 2026-06-29
+- Description: Caring Village is a comprehensive caregiver app designed to help family caregivers manage and coordinate care for their loved ones, featuring shared tasks, medication tracking, messaging, documents, and AI support from Julia.
+
+### Lotsa Helping Hands - Community Care Coordination
+
+- URL: https://www.elderlifefinancial.com/resources/caregiver-apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination caregiver app
+- Found: 2026-06-29
+- Description: Lotsa Helping Hands helps coordinate and manage care tasks within a community by allowing users to create private care circles of family, friends, and volunteers for tasks like meal delivery and transportation.
+
+### Carely - Personal Social Network for Caregivers
+
+- URL: https://www.whereyoulivematters.org/resources/best-caregiver-apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination caregiver app
+- Found: 2026-06-29
+- Description: Carely creates a personal social network for people sharing caregiving responsibilities, featuring calendars for appointments, local resource tracking, and communication tools.

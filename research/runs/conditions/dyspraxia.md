@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-06-26T10:37:55.422059+00:00
-- New findings: 72
-- Rejected dead links: 17
+- UTC timestamp: 2026-06-29T16:43:46.019124+00:00
+- New findings: 61
+- Rejected dead links: 35
 
 ## Support Categories
 
 ### communication-aac
 
-- `motor planning speech support startup`: 6 new finding(s), 2 rejected dead link(s)
-- `motor planning conversation support open source`: 3 new finding(s), 2 rejected dead link(s)
+- `coordination communication support app`: 4 new finding(s), 2 rejected dead link(s)
+- `coordination AAC mobile app`: 2 new finding(s), 5 rejected dead link(s)
 
 ### executive-function
 
-- `motor planning routine startup`: 5 new finding(s), 1 rejected dead link(s)
-- `motor planning reminders open source`: 6 new finding(s), 2 rejected dead link(s)
+- `coordination planning app`: 1 new finding(s), 3 rejected dead link(s)
+- `coordination task initiation mobile app`: 4 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `motor planning calming startup`: 3 new finding(s), 2 rejected dead link(s)
-- `motor planning environment planning open source`: 6 new finding(s), 1 rejected dead link(s)
+- `coordination sensory regulation app`: 0 new finding(s), 8 rejected dead link(s)
+- `coordination overload mobile app`: 3 new finding(s), 5 rejected dead link(s)
 
 ### education-learning
 
-- `motor planning reading support startup`: 3 new finding(s), 0 rejected dead link(s)
-- `motor planning classroom open source`: 6 new finding(s), 1 rejected dead link(s)
+- `coordination student support app`: 7 new finding(s), 1 rejected dead link(s)
+- `coordination learning support mobile app`: 8 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `motor planning self regulation startup`: 5 new finding(s), 1 rejected dead link(s)
-- `motor planning coping skills open source`: 3 new finding(s), 0 rejected dead link(s)
+- `coordination emotional regulation app`: 3 new finding(s), 0 rejected dead link(s)
+- `coordination mood tracking mobile app`: 5 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `motor planning life skills startup`: 6 new finding(s), 0 rejected dead link(s)
-- `motor planning home routine open source`: 3 new finding(s), 0 rejected dead link(s)
+- `coordination daily living support app`: 6 new finding(s), 0 rejected dead link(s)
+- `coordination independence mobile app`: 7 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `motor planning clinician tool directory`: 4 new finding(s), 0 rejected dead link(s)
-- `motor planning therapy support startup`: 3 new finding(s), 2 rejected dead link(s)
+- `motor planning parent support open source`: 2 new finding(s), 1 rejected dead link(s)
+- `coordination caregiver app`: 3 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `motor planning mobile accessibility startup`: 6 new finding(s), 1 rejected dead link(s)
-- `motor planning adaptive tool open source`: 4 new finding(s), 2 rejected dead link(s)
+- `coordination assistive technology app`: 6 new finding(s), 2 rejected dead link(s)
+- `coordination accessibility mobile app`: 0 new finding(s), 8 rejected dead link(s)
 
