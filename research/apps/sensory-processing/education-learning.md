@@ -168,3 +168,133 @@
 - Query: sensory regulation classroom open source
 - Found: 2026-06-26
 - Description: A public article detailing open-source classroom modifications, sensory tools, and flexible seating options to support neurodivergent students' regulation and inclusion.
+
+### TELUS Health Student Support App
+
+- URL: https://apps.apple.com/us/app/telus-health-student-support/id1112006222
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: Official App Store page for the TELUS Health Student Support app (formerly My SSP), providing 24/7 access to free, confidential professional counseling in multiple languages for students.
+
+### TELUS Health Student Support - Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.onetapsolutions.morneau.myissp&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: Official Google Play page for the TELUS Health Student Support app, offering students access to the TELUS Health Student Support Program with counseling via app, phone, and web.
+
+### TELUS Health Student Support App - Texas A&M University
+
+- URL: https://uhs.tamu.edu/mental-health/student-support.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: University Health Services documentation guiding Texas A&M students to download and use the TELUS Health Student Support app for 24/7 emotional health support and counseling.
+
+### Student Support case overload: Five proven ways technology can help
+
+- URL: https://www.tribalgroup.com/tribal-blog/student-support-case-overload-five-proven-ways-technology-can-help
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: Blog article discussing how student support systems face overload and detailing five technology solutions, including chatbots and virtual assistants, to provide instant support to students.
+
+### Widener University Student Support - TELUS Health
+
+- URL: https://mysuccess.widener.edu/s/blog/10-reasons-download-telus-health-student-support-app
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: Widener University blog post highlighting 10 reasons to download the TELUS Health Student Support app, emphasizing around-the-clock access to counselors who speak the student's native language.
+
+### Uptake and effectiveness of a self-guided mobile app platform for college students
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8749061/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: peer-reviewed study examining the uptake and effectiveness of IntelliCare for College Students, a self-guided mobile app platform designed to address mental health and prevent overload among students.
+
+### The Hidden Cost of App Overload in K12
+
+- URL: https://www.apptegy.com/blogs/the-hidden-cost-of-app-overload-in-k12/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: Article analyzing the true costs of using too many apps in education, explaining why a unified engagement platform is necessary to reduce student and parent overload.
+
+### Too Much of a Good Thing  App Overload
+
+- URL: https://www.more.net/too-much-of-a-good-thing-app-overload/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-06-29
+- Description: MOREnet article discussing growing frustration among educators and parents regarding managing multiple resources and applications, highlighting the issue of app overload.
+
+### Overload Workout - App Store
+
+- URL: https://apps.apple.com/us/app/overload-workout/id6742847669
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload learning support mobile app
+- Found: 2026-06-29
+- Description: Overload Workout is a gym tracking and log app for progressive overload, allowing users to track gym progress and import plans from screenshots.
+
+### Managing Tech Overload in the Classroom - Facebook
+
+- URL: https://www.facebook.com/groups/1607596969354282/posts/1841352655978711/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload learning support mobile app
+- Found: 2026-06-29
+- Description: This resource discusses improving technology skills for online learning by leveraging digital tools and collaborative resources to address tech overload in classrooms.
+
+### The App Overload Problem: Why Schools and Parents Need a Single Solution - Solved Consulting
+
+- URL: https://www.solvedconsulting.com/blog/the-app-overload-problem-why-schools-and-parents-need-a-single-solution
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload learning support mobile app
+- Found: 2026-06-29
+- Description: Solved Consulting highlights how K-12 school app overload causes frustration for parents and inefficiencies for districts, proposing unified solutions.
+
+### A Guide to Help Consumers Choose Apps and Avoid App Overload - Joe
+
+- URL: https://commons.joe.org/cgi/viewcontent.cgi?article=2363&context=joe
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload learning support mobile app
+- Found: 2026-06-29
+- Description: This guide helps consumers ask important questions before downloading apps to avoid overload, adaptable for other extension disciplines.
+
+### Overload - App Store (General)
+
+- URL: https://apps.apple.com/us/app/overload/id6742847669
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload learning support mobile app
+- Found: 2026-06-29
+- Description: Overload is a general app for tracking gym progress and managing workout plans, supporting progressive overload training methods.

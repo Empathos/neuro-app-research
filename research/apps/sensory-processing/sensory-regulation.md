@@ -228,3 +228,83 @@
 - Query: sensory regulation environment planning open source
 - Found: 2026-06-26
 - Description: Open educational resource on integrating natural environments into sensory regulation planning, offering observation guides for calming and regulating outdoor activities.
+
+### Overload - Mobile App (Google Play)
+
+- URL: https://play.google.com/store/apps/details?id=com.feresr.overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: A sleek and intuitive mobile fitness app designed for users who value simplicity and focus in their workout routines.
+
+### Overload - App Store Version
+
+- URL: https://apps.apple.com/us/app/overloaded/id1471353056
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: Performance-based mobile app where you upgrade vehicles and travel the world, filling your bus with passengers up to capacity.
+
+### Coach Overload - Training Data App
+
+- URL: https://play.google.com/store/apps/details?id=coach.overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: Mobile app to store, manage, and analyze training data; helps track progress and improve performance through app-based tools.
+
+### App Overload - Information & Avoidance Guide
+
+- URL: https://www.phone.com/app-overload-and-how-to-avoid-it/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: Public guide on app overload: how to avoid it, including methods to consolidate, compromise, and delete apps.
+
+### App Fatigue in Ecommerce Statistics
+
+- URL: https://www.swell.is/content/app-fatigue-ecommerce-statistics
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: 35 ecommerce app fatigue statistics showing how third-party app overload hurts retention, slows performance, and reduces conversions.
+
+### HR Dive: App Overload Productivity Cost
+
+- URL: https://www.hrdive.com/news/app-overload-may-cost-employers-32-days-of-productivity-each-year/518325/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: Public article on how app overload may cost employers 32 days of productivity per year, with HR and IT intervention strategies.
+
+### Unmasking App Overload (YouTube)
+
+- URL: https://www.youtube.com/watch?v=0nd58nGk9w4
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: Video by Chris Dancy on app overload, including methods to avoid it and reduce its impact on productivity.
+
+### App Overload: What Is It and How to Avoid It
+
+- URL: https://www.korteksolutions.com/2022/05/app-overload-what-is-it-and-what-can-you-do-to-avoid-it/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload overload mobile app
+- Found: 2026-06-29
+- Description: Public guide on app overload: what it is, why it happens, and methods to avoid it in business and personal contexts.

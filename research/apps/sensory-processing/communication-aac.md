@@ -308,3 +308,63 @@
 - Query: sensory regulation conversation support open source
 - Found: 2026-06-26
 - Description: Free public webinar on child-led, play-based sensory integration therapy conceptualized by Ayres, emphasizing trauma-informed and neurodiversity-affirming approaches for regulation support.
+
+### Blink - Mobile-First Employee Communication App
+
+- URL: https://blink.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload communication support app
+- Found: 2026-06-29
+- Description: Blink is a mobile-first employee communication app designed to connect frontline and deskless workers through messaging, updates, and essential tools in one place, helping reduce communication overload.
+
+### Bitrix24 - All-in-One Business Platform
+
+- URL: https://www.bitrix24.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload communication support app
+- Found: 2026-06-29
+- Description: Bitrix24 combines employee communication, collaboration, and CRM tools into a single system designed to centralize operations and prevent app overload for teams.
+
+### Snap Core First - Symbol-Based AAC App
+
+- URL: https://www.snapcoringfirst.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload communication support app
+- Found: 2026-06-29
+- Description: Snap Core First is a symbol-based communication app for non-verbal individuals, designed to help users start communicating quickly with simplified interfaces to reduce cognitive overload.
+
+### Predictable - Text-to-Speech AAC App
+
+- URL: https://www.predictableapp.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload communication support app
+- Found: 2026-06-29
+- Description: Predictable is a text-to-speech communication app that enables users to type words and speak, offering an intuitive design to minimize communication support complexity.
+
+### NWACS AAC Apps for Non-iOS Devices
+
+- URL: https://www.nwacs.info/resources/systems/aac-at-companies/communication-apps-for-other-devices-non-ios/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload AAC mobile app
+- Found: 2026-06-29
+- Description: Curated list of AAC apps for Android, Kindle, and web devices, including Avaz, CoughDrop, and Therapy Box, with multi-language support.
+
+### AssistiveWare App Comparison Chart
+
+- URL: https://goo.gl/EZ3sXa
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload AAC mobile app
+- Found: 2026-06-29
+- Description: Public chart comparing AAC apps and tools, helping users select the right app for neurodivergent support and communication needs.

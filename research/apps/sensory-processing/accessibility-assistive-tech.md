@@ -68,3 +68,63 @@
 - Query: sensory regulation adaptive tool open source
 - Found: 2026-06-26
 - Description: Open-access video guide showcasing assistive technology devices and tools designed to help individuals manage sensory regulation effectively.
+
+### Brainworks - Sensory Calming App for Autism and ADHD
+
+- URL: https://www.3da.org/post/sensory-overload-and-how-asisstive-technology-can-help
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload assistive technology app
+- Found: 2026-06-29
+- Description: Brainworks is a mobile app recommended by sensory therapists to calm the nervous system and reduce sensory overload in individuals with autism spectrum disorder and ADHD.
+
+### BlindSquare
+
+- URL: https://www.blindsquare.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload accessibility mobile app
+- Found: 2026-06-29
+- Description: BlindSquare is an accessible navigation app that announces points of interest and street crossings, designed to help users with sensory overload and mobility disabilities by providing real-time audio descriptions of their environment.
+
+### Lazarillo
+
+- URL: https://lazarillo.io/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload accessibility mobile app
+- Found: 2026-06-29
+- Description: Lazarillo is a navigation app that guides users through city and building environments with real-time voice messages, specifically reducing cognitive overload for users with visual impairments and neurodivergent conditions.
+
+### Sensory App House
+
+- URL: https://sensoryapphouse.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload accessibility mobile app
+- Found: 2026-06-29
+- Description: Sensory App House offers a range of mobile apps designed to help users with sensory needs, including those experiencing sensory overload, by providing tools for calming, relaxation, and stimulation.
+
+### BetterSleep
+
+- URL: https://www.bettersleep.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload accessibility mobile app
+- Found: 2026-06-29
+- Description: BetterSleep is a mobile app offering sleep sounds and relaxation features to help users with sensory overload and anxiety unwind, reducing cognitive load before bedtime with customizable audio and visual environments.
+
+### SwiftKey and Gboard
+
+- URL: https://www.swiftkey.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload accessibility mobile app
+- Found: 2026-06-29
+- Description: SwiftKey and Gboard are mobile keyboards with swipe typing and word prediction, designed to assist users with motor impairments and sensory overload by simplifying input and reducing cognitive effort during typing.

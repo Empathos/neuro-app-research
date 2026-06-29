@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-06-26T10:41:49.386892+00:00
-- New findings: 50
-- Rejected dead links: 7
+- UTC timestamp: 2026-06-29T16:48:28.375958+00:00
+- New findings: 67
+- Rejected dead links: 19
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory regulation speech support startup`: 5 new finding(s), 0 rejected dead link(s)
-- `sensory regulation conversation support open source`: 4 new finding(s), 0 rejected dead link(s)
+- `overload communication support app`: 4 new finding(s), 1 rejected dead link(s)
+- `overload AAC mobile app`: 2 new finding(s), 2 rejected dead link(s)
 
 ### executive-function
 
-- `sensory regulation routine startup`: 3 new finding(s), 0 rejected dead link(s)
-- `sensory regulation reminders open source`: 2 new finding(s), 0 rejected dead link(s)
+- `overload planning app`: 5 new finding(s), 0 rejected dead link(s)
+- `overload task initiation mobile app`: 2 new finding(s), 6 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory regulation calming startup`: 0 new finding(s), 3 rejected dead link(s)
-- `sensory regulation environment planning open source`: 4 new finding(s), 0 rejected dead link(s)
+- `overload sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload overload mobile app`: 8 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `sensory regulation reading support startup`: 3 new finding(s), 0 rejected dead link(s)
-- `sensory regulation classroom open source`: 4 new finding(s), 0 rejected dead link(s)
+- `overload student support app`: 8 new finding(s), 0 rejected dead link(s)
+- `overload learning support mobile app`: 5 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory regulation self regulation startup`: 1 new finding(s), 1 rejected dead link(s)
-- `sensory regulation coping skills open source`: 4 new finding(s), 0 rejected dead link(s)
+- `overload emotional regulation app`: 1 new finding(s), 2 rejected dead link(s)
+- `overload mood tracking mobile app`: 5 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory regulation life skills startup`: 5 new finding(s), 0 rejected dead link(s)
-- `sensory regulation home routine open source`: 3 new finding(s), 0 rejected dead link(s)
+- `overload daily living support app`: 7 new finding(s), 1 rejected dead link(s)
+- `overload independence mobile app`: 7 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory regulation therapy support startup`: 3 new finding(s), 0 rejected dead link(s)
-- `sensory regulation parent support open source`: 3 new finding(s), 0 rejected dead link(s)
+- `overload caregiver app`: 4 new finding(s), 0 rejected dead link(s)
+- `overload clinician tool mobile app`: 3 new finding(s), 4 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory regulation mobile accessibility startup`: 5 new finding(s), 0 rejected dead link(s)
-- `sensory regulation adaptive tool open source`: 1 new finding(s), 3 rejected dead link(s)
+- `overload assistive technology app`: 1 new finding(s), 0 rejected dead link(s)
+- `overload accessibility mobile app`: 5 new finding(s), 3 rejected dead link(s)
 
