@@ -98,3 +98,93 @@
 - Query: routine adaptive tool open source
 - Found: 2026-06-26
 - Description: An open-source project management tool with conversational AI for task execution. Supports adaptive routine planning and neurodivergent-friendly task management through AI interaction.
+
+### Tiimo - Task Initiation & Planning App
+
+- URL: https://www.tiimo.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation assistive technology app
+- Found: 2026-06-29
+- Description: Tiimo is an advanced visual planning app designed for neurodivergent individuals that turns to-dos into doable plans with visual timelines, AI task breakdown, and executive function support to facilitate task initiation.
+
+### Youper - Emotional Health & Routine Tracker
+
+- URL: https://www.youper.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation assistive technology app
+- Found: 2026-06-29
+- Description: Youper tracks daily emotions and provides mini anxiety check-ins, helping users understand their thought process and reduce mental barriers to initiating daily tasks.
+
+### OurHome - Household Task Manager
+
+- URL: https://www.ourhomeapp.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation assistive technology app
+- Found: 2026-06-29
+- Description: OurHome is a simple, click-based app for managing household tasks with recurring reminders, designed to reduce cognitive load and support task initiation for users with executive dysfunction.
+
+### AnyList - Visual Task & Shopping Organizer
+
+- URL: https://anylist.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation assistive technology app
+- Found: 2026-06-29
+- Description: AnyList is a highly visual app for organizing grocery shopping, recipes, and meal planning, reducing overwhelm and providing structured steps to help users initiate daily routines.
+
+### Task Coach - Open Source Task Management
+
+- URL: https://github.com/taskcoach/taskcoach
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation accessibility mobile app
+- Found: 2026-06-29
+- Description: A mature, open-source task management tool designed to help users initiate and track tasks with accessibility features, including simple interfaces and structured workflows for neurodivergent individuals.
+
+### Microsoft To Do - Task Management App
+
+- URL: https://apps.microsoft.com/detail/microsoft-to-do-list-tasks-and-reminders/9nblggh5qqlx
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation accessibility mobile app
+- Found: 2026-06-29
+- Description: Official Microsoft task management app with features like 'My Day' to simplify task initiation, voice input, and accessibility integrations for users with neurodivergence.
+
+### Routine Hub - ADHD & Neurodivergent Task Tools
+
+- URL: https://routinehub.co/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation accessibility mobile app
+- Found: 2026-06-29
+- Description: A curated repository of mobile apps and tools specifically designed for neurodivergent users to support task initiation, with features like visual cues, gamification, and simplified onboarding.
+
+### TickTick - Task Manager with Habit Tracker
+
+- URL: https://ticktick.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation accessibility mobile app
+- Found: 2026-06-29
+- Description: Popular task management app with built-in habit tracking, priority levels, and accessibility options to reduce barriers to task initiation for neurodivergent users.
+
+### Task Initiation Toolkit - WCAG Mobile Guide
+
+- URL: https://www.w3.org/TR/wcag2mobile-22/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation accessibility mobile app
+- Found: 2026-06-29
+- Description: W3C official guidance on applying WCAG 2.2 to mobile applications, including best practices for designing interfaces that support task initiation accessibility for users with neurodivergence.

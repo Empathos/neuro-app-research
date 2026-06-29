@@ -173,3 +173,53 @@
 - Query: routine parent support open source
 - Found: 2026-06-26
 - Description: Article on open-source approaches to family routines, including inclusive conversations, innovative thinking, and collaborative routine planning for children.
+
+### Forest - Stay Focused, Be Present
+
+- URL: https://forest.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation caregiver app
+- Found: 2026-06-29
+- Description: Official documentation for Forest, a gamified app that rewards users for staying on task, helping caregivers support children in overcoming procrastination and initiating tasks through visual timers.
+
+### Assignment Planner - Task Breakdown Tool
+
+- URL: https://www.foothillsacademy.org/community/articles/lets-get-started
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation caregiver app
+- Found: 2026-06-29
+- Description: Official article from Foothills Academy recommending the use of an Assignment Planner (a digital or printable tool) to help caregivers break tasks into visible, manageable chunks for better initiation.
+
+### Inflow: ADHD App for Adults
+
+- URL: https://inflowadhd.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation clinician tool mobile app
+- Found: 2026-06-29
+- Description: CBT-based mobile app built by people with ADHD offering daily tools, task management, and educational modules to support task initiation and routine building.
+
+### Focus@Will - ADHD Music for Focus
+
+- URL: https://www.focusatwill.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation clinician tool mobile app
+- Found: 2026-06-29
+- Description: Mobile app providing personalized instrumental music designed to sustain attention and reduce distractions, helping users overcome the barrier to starting tasks.
+
+### RoutineFlow - Step-by-Step Momentum
+
+- URL: https://routineflow.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation clinician tool mobile app
+- Found: 2026-06-29
+- Description: Mobile application specializing in breaking tasks into small, sequential steps with visual cues to build momentum and reduce anxiety around task initiation.

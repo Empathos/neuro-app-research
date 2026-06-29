@@ -258,3 +258,43 @@
 - Query: routine classroom open source
 - Found: 2026-06-26
 - Description: Official educational resource from Khan Academy offering open-access guides and tools for implementing routine-based strategies in neurodivergence-supportive classrooms.
+
+### Focus To-Do: Timer & Task List
+
+- URL: https://www.pomodoroapp.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: task initiation student support app
+- Found: 2026-06-29
+- Description: Combines Pomodoro timers with task lists to help students manage attention, reduce procrastination, and build routines for consistent task initiation in academic settings.
+
+### Task Initiation Strategies for Students (Documentation)
+
+- URL: https://cerebrate.education/5-ideas-task-initiation-skill-development-hs/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: task initiation student support app
+- Found: 2026-06-29
+- Description: Educational repository providing 5 classroom-tested strategies and digital tool recommendations specifically designed to support high school students in developing task initiation skills.
+
+### Agora: Task Initiation & Focus Apps Guide
+
+- URL: https://agriate.education/5-ideas-task-initiation-skill-development-hs/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: task initiation student support app
+- Found: 2026-06-29
+- Description: Curated list of focus and task initiation mobile applications recommended for college and high school students to build habits before entering crisis-driven academic environments.
+
+### Vehicle - Task Initiation Support Tool
+
+- URL: https://www.vehicleapp.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: task initiation learning support mobile app
+- Found: 2026-06-29
+- Description: Public documentation page for Vehicle, a tool that helps students break down tasks and use visual schedules to improve task initiation and reduce procrastination.

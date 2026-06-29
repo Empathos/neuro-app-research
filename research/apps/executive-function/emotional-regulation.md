@@ -248,3 +248,53 @@
 - Query: routine coping skills open source
 - Found: 2026-06-26
 - Description: University of Washington HR open guide on routine coping skills for resilience, covering connection, wellness, healthy thinking, and finding meaning, adaptable for neurodivergent routine planning.
+
+### Finch - Self-Care Pet for Emotional Regulation
+
+- URL: https://finchplay.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation emotional regulation app
+- Found: 2026-06-29
+- Description: Official product page for Finch, an app that uses a self-care pet to encourage emotional regulation through daily tasks, indirectly supporting task initiation by building momentum and routine.
+
+### Verywell Mind - Best Mood Tracker Apps
+
+- URL: https://www.verywellmind.com/best-mood-tracker-apps-5212922
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation mood tracking mobile app
+- Found: 2026-06-29
+- Description: Comprehensive guide to top mood tracker apps including Daylio, a colorfully designed micro-diary app for tracking daily moods and activities with insights, useful for task initiation and neurodivergence support.
+
+### Therapists' Top Choices - Best Mood Tracking Apps 2026
+
+- URL: https://lifestance.com/blog/best-mood-tracking-apps-therapists-top-choices-2026/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation mood tracking mobile app
+- Found: 2026-06-29
+- Description: Expert-approved list of mood tracking apps recommended by therapists for 2026, covering tools for anxiety, depression, and bipolar disorder to support neurodivergence and task initiation.
+
+### Moodistory - Privacy-Focused Mood Tracker
+
+- URL: https://moodistory.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation mood tracking mobile app
+- Found: 2026-06-29
+- Description: Official site for Moodistory, the #1 privacy-focused mood tracker app enabling fast entry of mood and mental health data, designed to improve well-being and support self-reflection for neurodivergent users.
+
+### HabitBox Blog - Best Mood Tracker App 2026
+
+- URL: https://habitbox.app/blog/best-mood-tracker-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation mood tracking mobile app
+- Found: 2026-06-29
+- Description: HabitBox Blog comparing top mood tracker apps like Daylio, Bearable, and How We Feel, emphasizing quick 10-second check-in flows essential for task initiation and consistent tracking.
