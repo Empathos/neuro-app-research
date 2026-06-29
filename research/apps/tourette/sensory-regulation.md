@@ -278,3 +278,93 @@
 - Query: tic tracking environment planning open source
 - Found: 2026-06-26
 - Description: Official website for OpenTelemetry, an open-source observability framework for generating and collecting trace and metric data, useful for modern environment tracking and planning tools.
+
+### Impact of Sensory Integration-Based Sports Training on Motor Outcomes
+
+- URL: https://www.nature.com/articles/s41598-025-05393-3
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness sensory regulation app
+- Found: 2026-06-29
+- Description: Research study evaluating sensory integration-based sports training for children with ASD, demonstrating improved motor coordination and sensory adaptation, relevant to sensory regulation strategies.
+
+### 5 Apps for Emotional Regulation and Sensory Needs
+
+- URL: https://www.facebook.com/spectratherapiesandevaluations/posts/these-5-apps-offer-supportive-tools-to-help-with-things-like-emotional-regulatio/1449645793634009/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness sensory regulation app
+- Found: 2026-06-29
+- Description: Post listing 5 supportive apps for emotional regulation, organization, focus, routines, and sensory needs, including tools for habit awareness and sensory regulation.
+
+### Exploring the dynamics of mobile app addiction - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10662456/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness overload mobile app
+- Found: 2026-06-29
+- Description: This study aims to elucidate the key factors that affect mobile app addiction by proposing a theoretical framework incorporating communication, affective ...
+
+### A Mobile Phone App for the Generation and Characterization ... - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6960169/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness overload mobile app
+- Found: 2026-06-29
+- Description: We present here a novel behavioral paradigma mobile-phone app methodologyfor inducing and measuring habits in humans during their everyday schedule and ...
+
+### Smartphone app developed by mental health researchers improves ...
+
+- URL: https://www.eurekalert.org/news-releases/1122250
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness overload mobile app
+- Found: 2026-06-29
+- Description: Study by Mass General Brigham researchers tested HabitWorks, a smartphone app that offers users short, game-like exercises designed to ...
+
+### Cognitive Overload & Feature Discovery in Mobile UX | by david jones
+
+- URL: https://uxdesign.cc/cognitive-overload-feature-discovery-in-mobile-ux-e0e5700e914c
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness overload mobile app
+- Found: 2026-06-29
+- Description: The solution to cognitive load in Mobile Apps has been to dumb-things-down. A well-designed mobile App should assume the user's IQ is halved: ...
+
+### App-solutely addicted: is your screen time impacting your health?
+
+- URL: https://www.businessthink.unsw.edu.au/articles/phone-addiction-apps-impact-health
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness overload mobile app
+- Found: 2026-06-29
+- Description: Our addiction to smartphone apps could be affecting our health negatively, leading to issues like sleep deprivation, says a UNSW Business School technology ...
+
+### How apps trigger phone habit loops - Facebook
+
+- URL: https://www.facebook.com/groups/284107495118161/posts/3084496705079212/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness overload mobile app
+- Found: 2026-06-29
+- Description: FOMO (Fear of Missing Out): The anxiety that others might be having fun without you, leading to constant checking of updates and notifications.
+
+### Morning Phone Scrolling Can Change Your Mood ... - Instagram
+
+- URL: https://www.instagram.com/reel/DY4eR4FiloJ/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness overload mobile app
+- Found: 2026-06-29
+- Description: Morning phone use exposes the brain to notifications, social comparison, information overload, and attention switching during the transition ...

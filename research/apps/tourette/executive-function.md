@@ -438,3 +438,123 @@
 - Query: tic tracking reminders open source
 - Found: 2026-06-26
 - Description: Open-source task and time management app with tagging, filtering, and reminder features designed to support neurodivergent users in organizing and tracking tasks.
+
+### Griply - Habit Awareness Planning App
+
+- URL: https://griply.app/faq/apps-habit-tracking-life-planning
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness planning app
+- Found: 2026-06-29
+- Description: A comprehensive habit awareness planning app that places every habit inside a goal hierarchy, linking daily actions to long-term outcomes across life areas like Work, Health, and Career.
+
+### HabitNow Daily Routine Planner
+
+- URL: https://play.google.com/store/apps/details?id=com.habitnow&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness planning app
+- Found: 2026-06-29
+- Description: An all-in-one Android app for building strong habits through structured daily routine planning, task management, and progress visualization for school, work, and household chores.
+
+### Fabulous - Habit & Routine Coach
+
+- URL: https://www.fabulous.co/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness planning app
+- Found: 2026-06-29
+- Description: A science-based habit awareness app from Duke University's Behavioral Economics Lab that builds healthy rituals through guided morning routines, exercise, and meditation.
+
+### Habitify - Cross-Platform Habit Tracker
+
+- URL: https://habitify.me/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness planning app
+- Found: 2026-06-29
+- Description: A sleek, cross-platform habit awareness app providing detailed statistics, customizable widgets, and timely reminders to maintain routines across all devices.
+
+### Awesome Habits (SetApp)
+
+- URL: https://setapp.com/apps/awesome-habits
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness planning app
+- Found: 2026-06-29
+- Description: A habit awareness planning tool within the SetApp subscription that offers 66-day change tracking, routine building, and goal setting for daily self-improvement.
+
+### Streaks - Award-Winning Habit Tracker
+
+- URL: https://www.streaks.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness planning app
+- Found: 2026-06-29
+- Description: An award-winning habit awareness app for iOS that helps users build and maintain habits through a simple, visual interface focused on consistency and progress tracking.
+
+### Forest (Stay Focused)
+
+- URL: https://forestapp.cc/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness task initiation mobile app
+- Found: 2026-06-29
+- Description: An app that combats smartphone addiction by planting virtual trees when you focus, using visual cues to support habit awareness and task initiation for neurodivergent individuals.
+
+### Charity Miles
+
+- URL: https://charitymiles.org.uk/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness task initiation mobile app
+- Found: 2026-06-29
+- Description: A walking and running app that incentivizes physical activity with rewards, offering structured prompts to aid task initiation and habit formation for neurodivergent users.
+
+### Habit Rabbit
+
+- URL: https://habitrabbit.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness task initiation mobile app
+- Found: 2026-06-29
+- Description: A cute, engaging habit tracker featuring a rabbit character that encourages daily habit awareness and task initiation through cleaning and rewarding activities.
+
+### Focus Plan
+
+- URL: https://focusplan.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness task initiation mobile app
+- Found: 2026-06-29
+- Description: Designed to reduce smartphone distractions, this app uses a garden metaphor to support habit awareness and initiate tasks by watering plants as focus time increases.
+
+### Focus Mode (Microsoft Edge)
+
+- URL: https://www.microsoft.com/en-us/edge
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness task initiation mobile app
+- Found: 2026-06-29
+- Description: A browser-based tool that blocks distractions and supports task initiation, useful for neurodivergent individuals seeking to maintain focus and build consistent habits.
+
+### HabitBull
+
+- URL: https://habitbull.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness task initiation mobile app
+- Found: 2026-06-29
+- Description: A straightforward habit tracker that helps users monitor daily routines with visual feedback, aiding task initiation and habit awareness for neurodivergent users.

@@ -98,3 +98,53 @@
 - Query: tic tracking home routine open source
 - Found: 2026-06-26
 - Description: An open-source, privacy-focused automated time tracker that helps neurodivergent users monitor and track home routines and time spent on tasks without manual input.
+
+### Habit - Daily Tracker
+
+- URL: https://apps.apple.com/us/app/habit-daily-tracker/id1445651730
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness daily living support app
+- Found: 2026-06-29
+- Description: A daily habit tracker app for iOS that helps users build awareness around their habits through visual tracking, reminders, and progress charts tailored for neurodivergent individuals.
+
+### Smartphone Apps Supporting Habit Formation
+
+- URL: https://discovery.ucl.ac.uk/1468224/1/StawarzCoxBlandford2015-habit%20apps.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness independence mobile app
+- Found: 2026-06-29
+- Description: Systematic review of 26 mobile health apps focused on habit formation, highlighting design principles for tools that support neurodivergent users in developing independent routines.
+
+### Habit Tracker Apps Market Size and Growth 2034
+
+- URL: https://straitsresearch.com/report/habit-tracking-apps-market
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness independence mobile app
+- Found: 2026-06-29
+- Description: Forecast of habit tracking app market growth, covering tools designed to enhance habit awareness, independence, and neurodivergence support through digital routines.
+
+### Habit Tracking App Market Share by Region
+
+- URL: https://www.360researchreports.com/market-reports/habit-tracking-app-market-211454
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness independence mobile app
+- Found: 2026-06-29
+- Description: Overview of North America's leadership in habit tracking apps, with features promoting neurodivergent independence and habit awareness via smartphone-based digital wellness.
+
+### Habit Tracker App Market Valuation 2035
+
+- URL: https://www.wiseguyreports.com/reports/habit-trackers-market
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness independence mobile app
+- Found: 2026-06-29
+- Description: Market valuation of habit tracker apps, including mobile tools that support neurodivergent users in building independent habits through awareness and structured routines.

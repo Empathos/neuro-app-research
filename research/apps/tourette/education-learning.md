@@ -228,3 +228,83 @@
 - Query: tic tracking classroom open source
 - Found: 2026-06-26
 - Description: Hackable, affordable mobile eye-tracking hardware with open-source software in Python and C++, enabling real-time pupil detection and behavior tracking.
+
+### Stickk: Gamified Habit Tracker
+
+- URL: https://stickk.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness student support app
+- Found: 2026-06-29
+- Description: Official website for Stickk, a gamified habit change app that helps students track progress and build accountability, particularly effective for neurodivergent learners through visual motivation and fun challenges.
+
+### Sanvello: Anxiety and Depression App
+
+- URL: https://www.sanvello.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness student support app
+- Found: 2026-06-29
+- Description: Clinical app offering cognitive behavioral therapy (CBT) techniques for stress, anxiety, and depression, with dedicated habit trackers and mood journals to support neurodivergent students in managing emotional and behavioral habits.
+
+### Loop Habit Tracker
+
+- URL: https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness learning support mobile app
+- Found: 2026-06-29
+- Description: Official Google Play page for Loop Habit Tracker, a mobile app featuring detailed charts and statistics to track habit improvement over time, supporting self-awareness and learning.
+
+### How Do You Design Habit-Forming Mobile Apps That Users Love?
+
+- URL: https://www.igi-global.com/article/the-effect-of-social-support-features-via-buddies-in-app-based-habit-building/318223
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness learning support mobile app
+- Found: 2026-06-29
+- Description: Research article detailing behavioral design metrics and strategies for creating habit-forming mobile apps, including retention rates, session frequency, and feature adoption for neurodivergent learning support.
+
+### Gift Habit Tracker App Market Research Report
+
+- URL: https://dataintelo.com/report/habit-tracker-app-market
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness learning support mobile app
+- Found: 2026-06-29
+- Description: Market research report on the habit tracker app industry, analyzing macro forces like mental wellness and digital behavior change tools relevant to neurodivergence support apps.
+
+### Digital Behavior Change Intervention Designs for Habit Formation
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness learning support mobile app
+- Found: 2026-06-29
+- Description: Scientific review identifying behavior change techniques such as self-monitoring, goal setting, and prompts/cues used in digital interventions for habit formation and awareness.
+
+### Understanding Continuance Usage of Mobile Learning Applications
+
+- URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.736051/full
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness learning support mobile app
+- Found: 2026-06-29
+- Description: Study exploring factors influencing user continuance in mobile learning apps, highlighting habit as a moderating effect on intention to use learning tools for neurodivergent support.
+
+### The 8 Best Habit Tracking Apps in 2019
+
+- URL: https://www.youtube.com/watch?v=491oCCVMa04
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness learning support mobile app
+- Found: 2026-06-29
+- Description: YouTube video listing top habit tracking apps like Habitify, Habitica, and Coach.me, which offer features for routine building, reminders, and progress tracking suitable for learning support.
