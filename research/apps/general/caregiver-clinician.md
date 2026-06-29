@@ -168,3 +168,113 @@
 - Query: neurodiversity parent support open source
 - Found: 2026-06-26
 - Description: Open-source educational website and resource hub for autistic young people and parents, featuring tools for understanding diagnoses and advocating for needs.
+
+### 5 Apps That Help People with Disabilities | Alegre Home Care
+
+- URL: https://www.alegrecare.com/single-post/2020/02/03/5-apps-that-help-people-with-disabilities
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility caregiver app
+- Found: 2026-06-29
+- Description: A curated list of caregiver apps including The Ability App, Wheelmate, and CoughDrop, designed to improve accessibility for neurodivergent and disabled individuals by assisting caregivers with navigation, communication, and medication tracking.
+
+### BoundaryCare Caregiver App | Digital Care Solutions
+
+- URL: https://www.boundarycare.com/navigating-caregiver-support/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility caregiver app
+- Found: 2026-06-29
+- Description: An accessibility-focused caregiver app based on Apple Watch technology that provides remote monitoring, real-time alerts, and health tracking to support caregivers of neurodivergent individuals.
+
+### Caring Village Caregiver App | Family Care Coordination
+
+- URL: https://caringvillage.com/blog/caregiver-tech/caregiving-app-for-family-caregiving/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility caregiver app
+- Found: 2026-06-29
+- Description: A private digital 'village' app designed to simplify communication and task coordination for families caring for older adults or loved ones with neurodevelopmental needs, including AI-assisted routine management.
+
+### Mobile Apps for Caregivers of Older Adults | PMC Study
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6090169/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility caregiver app
+- Found: 2026-06-29
+- Description: A systematic review identifying 44 mobile apps for caregivers, highlighting features in information resources, family communication, and caregiver-recipient interactions relevant to neurodivergence support.
+
+### mHealth Apps for Dementia Caregivers | Systematic Examination
+
+- URL: https://aging.jmir.org/2024/1/e58517/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility caregiver app
+- Found: 2026-06-29
+- Description: A study evaluating the quality of mHealth apps for dementia caregivers, noting the need for tailored, evidence-based AI solutions to support caregivers of individuals with neurocognitive conditions.
+
+### The Best Apps for Caregivers: 7 Recommendations | CareScout
+
+- URL: https://www.carescout.com/resources/the-best-apps-for-caregivers-7-tools-to-make-caregiving-easier
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility caregiver app
+- Found: 2026-06-29
+- Description: A guide to top caregiver apps for scheduling, medication tracking, and communication, featuring tools that enhance accessibility and reduce burden for caregivers supporting neurodivergent individuals.
+
+### UpToDate Mobile App
+
+- URL: https://www.wolterskluwer.com/en/solutions/uptodate/about/mobile-apps/uptodate
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility clinician tool mobile app
+- Found: 2026-06-29
+- Description: Clinical support tool offering evidence-based medical diagnosis, decision support, and AI-assisted reasoning via a mobile app for iOS and Android.
+
+### Medscape Mobile App
+
+- URL: https://guides.uflib.ufl.edu/mobilehealth/clinical
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility clinician tool mobile app
+- Found: 2026-06-29
+- Description: Free clinical reference app providing medical news, drug information, calculators, and diagnostic tools for healthcare professionals.
+
+### VisualDx Mobile App
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC4029126/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility clinician tool mobile app
+- Found: 2026-06-29
+- Description: Decision-support tool designed to improve diagnostic accuracy and patient safety with mobile access for clinicians.
+
+### Epocrates Mobile App
+
+- URL: https://libguides.massgeneral.org/healthapps/reference-tools
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility clinician tool mobile app
+- Found: 2026-06-29
+- Description: Free drug information reference app with mobile access for checking medication details and dosing.
+
+### CDC Mobile Apps Portal
+
+- URL: https://www.cdc.gov/digital-social-media-tools/mobile/index.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility clinician tool mobile app
+- Found: 2026-06-29
+- Description: Official repository of mobile apps from the Centers for Disease Control for consumers and healthcare providers.

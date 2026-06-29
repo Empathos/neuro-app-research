@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-06-26T10:45:29.062912+00:00
-- New findings: 75
-- Rejected dead links: 15
+- UTC timestamp: 2026-06-29T16:53:24.470863+00:00
+- New findings: 71
+- Rejected dead links: 27
 
 ## Support Categories
 
 ### communication-aac
 
-- `neurodiversity speech support startup`: 8 new finding(s), 0 rejected dead link(s)
-- `neurodiversity conversation support open source`: 7 new finding(s), 0 rejected dead link(s)
+- `accessibility communication support app`: 6 new finding(s), 1 rejected dead link(s)
+- `accessibility AAC mobile app`: 5 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `neurodiversity routine startup`: 2 new finding(s), 1 rejected dead link(s)
-- `neurodiversity reminders open source`: 1 new finding(s), 1 rejected dead link(s)
+- `accessibility planning app`: 7 new finding(s), 0 rejected dead link(s)
+- `accessibility task initiation mobile app`: 3 new finding(s), 5 rejected dead link(s)
 
 ### sensory-regulation
 
-- `neurodiversity calming startup`: 5 new finding(s), 0 rejected dead link(s)
-- `neurodiversity environment planning open source`: 1 new finding(s), 0 rejected dead link(s)
+- `accessibility sensory regulation app`: 1 new finding(s), 0 rejected dead link(s)
+- `accessibility overload mobile app`: 8 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `neurodiversity reading support startup`: 6 new finding(s), 0 rejected dead link(s)
-- `neurodiversity classroom open source`: 5 new finding(s), 1 rejected dead link(s)
+- `accessibility student support app`: 1 new finding(s), 6 rejected dead link(s)
+- `accessibility learning support mobile app`: 2 new finding(s), 4 rejected dead link(s)
 
 ### emotional-regulation
 
-- `neurodiversity self regulation startup`: 5 new finding(s), 0 rejected dead link(s)
-- `neurodiversity coping skills open source`: 6 new finding(s), 1 rejected dead link(s)
+- `accessibility emotional regulation app`: 5 new finding(s), 2 rejected dead link(s)
+- `accessibility mood tracking mobile app`: 3 new finding(s), 2 rejected dead link(s)
 
 ### daily-living
 
-- `neurodiversity life skills startup`: 4 new finding(s), 2 rejected dead link(s)
-- `neurodiversity home routine open source`: 2 new finding(s), 5 rejected dead link(s)
+- `accessibility daily living support app`: 7 new finding(s), 0 rejected dead link(s)
+- `accessibility independence mobile app`: 4 new finding(s), 3 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `neurodiversity therapy support startup`: 5 new finding(s), 0 rejected dead link(s)
-- `neurodiversity parent support open source`: 6 new finding(s), 0 rejected dead link(s)
+- `accessibility caregiver app`: 6 new finding(s), 0 rejected dead link(s)
+- `accessibility clinician tool mobile app`: 5 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `neurodiversity mobile accessibility startup`: 6 new finding(s), 2 rejected dead link(s)
-- `neurodiversity adaptive tool open source`: 6 new finding(s), 2 rejected dead link(s)
+- `accessibility assistive technology app`: 3 new finding(s), 1 rejected dead link(s)
+- `accessibility accessibility mobile app`: 5 new finding(s), 3 rejected dead link(s)
 

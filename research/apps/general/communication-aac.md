@@ -418,3 +418,113 @@
 - Query: neurodiversity conversation support open source
 - Found: 2026-06-26
 - Description: Article reviewing systemic barriers faced by neurodivergent researchers and shared values between neurodiversity and open scholarship for better community support.
+
+### Proloquo2Go
+
+- URL: https://www.atoos.com/products/proloquo2go
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility communication support app
+- Found: 2026-06-29
+- Description: Official page for Proloquo2Go, a leading AAC app that turns iOS devices into communication systems for individuals who cannot speak or need help being understood.
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/us/app/speech-assistant-aac/id1139762358
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility communication support app
+- Found: 2026-06-29
+- Description: Official Apple App Store page for Speech Assistant AAC, a text-to-speech tool designed for people with speech impairments due to Aphasia, ALS, Autism, Stroke, or Cerebral Palsy.
+
+### LetMeTalk
+
+- URL: https://letmetalk.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility communication support app
+- Found: 2026-06-29
+- Description: Official page for LetMeTalk, a free offline AAC app offering a wide library of symbols and images, enabling users to create custom communication boards for iOS and Android.
+
+### RogerVoice
+
+- URL: https://www.rogervoice.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility communication support app
+- Found: 2026-06-29
+- Description: Official website for RogerVoice, an app that makes voice calls visually accessible through real-time text captioning and video calls with sign language interpreters for those with communication barriers.
+
+### Talkitt
+
+- URL: https://talkitt.io
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility communication support app
+- Found: 2026-06-29
+- Description: Official page for Talkitt, an app that translates unintelligible pronunciation into understandable speech by learning user speech patterns, helping individuals with speech and language disorders.
+
+### Voice4U
+
+- URL: https://www.voice4u.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility communication support app
+- Found: 2026-06-29
+- Description: Official page for Voice4U, a picture-based communication app for individuals with speech challenges, featuring portable, customizable boards to bridge communication gaps.
+
+### Nagish - Augmentative and Alternative Communication App
+
+- URL: https://nagish.com/get-the-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility AAC mobile app
+- Found: 2026-06-29
+- Description: Official website page to download Nagish, an AAC app that provides a text-to-speech introduction message and supports phone access for users with speech challenges.
+
+### Vocable AAC - Head-Tracking Communication App
+
+- URL: https://www.boia.org/blog/new-app-can-help-people-communicate-with-head-tracking-technology
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility AAC mobile app
+- Found: 2026-06-29
+- Description: Official introduction to Vocable AAC, a mobile app that enables people with limited motor control to communicate using head-tracking technology.
+
+### CoughDrop - Cloud-Based AAC App
+
+- URL: https://abilityministry.com/ten-free-communication-apps/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility AAC mobile app
+- Found: 2026-06-29
+- Description: Documentation page describing CoughDrop, a cloud-based AAC app available on iOS, Android, and Web, featuring customizable communication boards and a free trial.
+
+### Snap Core First - AAC App for iPad
+
+- URL: https://thespeechroomnews.com/2021/06/free-aac-apps-for-slps.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility AAC mobile app
+- Found: 2026-06-29
+- Description: Official resource page highlighting Snap Core First, a symbol-based AAC app for iPad, with a free trial for SLPs and free access for ASHA members.
+
+### Guided Hands - AAC Device Access Tool
+
+- URL: https://www.instagram.com/reel/DRFh0xRDu5g/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility AAC mobile app
+- Found: 2026-06-29
+- Description: Official demo showing how Guided Hands helps individuals with neurodivergence or mobility challenges access AAC devices through adaptive hand support techniques.

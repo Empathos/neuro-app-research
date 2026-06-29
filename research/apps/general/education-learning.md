@@ -148,3 +148,33 @@
 - Query: neurodiversity classroom open source
 - Found: 2026-06-26
 - Description: A free educational resource using interactive games and activities to help children with autism develop literacy and math skills in an engaging format.
+
+### Glean - Class Recording and Note-Taking for Students
+
+- URL: https://www.glean.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility student support app
+- Found: 2026-06-29
+- Description: Official website for Glean, a student accessibility tool that allows recording of class lectures while enabling users to highlight key parts and add typed notes for review.
+
+### Be My Eyes - Accessibility Support App
+
+- URL: https://bemyeyes.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility learning support mobile app
+- Found: 2026-06-29
+- Description: Mobile app connecting neurodivergent and disabled users with sighted volunteers via video calls for real-time accessibility support and learning assistance.
+
+### Claro Read - Accessibility & Learning App
+
+- URL: https://claroread.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility learning support mobile app
+- Found: 2026-06-29
+- Description: Mobile app supporting reading, PDF editing, and text magnification with neurodivergence-friendly features like text-to-speech and visual customization.

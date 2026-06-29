@@ -218,3 +218,103 @@
 - Query: neurodiversity reminders open source
 - Found: 2026-06-26
 - Description: A collection of open-source reminder tools and projects on GitHub, allowing developers and users to create customizable reminder systems for neurodivergent support and task management.
+
+### Accessibility Planner - Appstruc Solutions
+
+- URL: https://www.appstrucs.com/Accessibility-Planner.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility planning app
+- Found: 2026-06-29
+- Description: An intelligent assessment engine for development teams and organizations to evaluate accessibility compliance needs for digital products, analyzing application context, user needs, and regulatory obligations.
+
+### Roll Mobility - Accessibility App for Mobility Issues
+
+- URL: https://play.google.com/store/apps/details?id=com.mobizio.mobile&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility planning app
+- Found: 2026-06-29
+- Description: A free, community-driven app that helps people with mobility issues find accessible spaces, providing reliable information on wheelchair ramps, elevators, and accessible restrooms at restaurants and public venues.
+
+### Wheelmap - Accessible Places Rating App
+
+- URL: https://wheelmap.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility planning app
+- Found: 2026-06-29
+- Description: Community-powered app allowing users to rate and find accessible places using a traffic light system (green for step-free, orange for partially accessible, red for not accessible), covering toilets, parking, and public spaces.
+
+### AccessNow - Inclusive Places Connectivity App
+
+- URL: https://www.accessnow.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility planning app
+- Found: 2026-06-29
+- Description: App connecting people with mobility issues to inclusive places, featuring a platform for users to rate venues on accessibility and share detailed information about accessible features.
+
+### Wheelmate - Wheelchair-Friendly Toilets & Parking
+
+- URL: https://wheelmate.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility planning app
+- Found: 2026-06-29
+- Description: Free app providing an instant overview of the nearest wheelchair-friendly toilets and parking spaces on an interactive map, powered by wheelchair users who verify locations themselves.
+
+### IAccessLife - Accessibility Rating & Review App
+
+- URL: https://www.iaccesslife.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility planning app
+- Found: 2026-06-29
+- Description: Accessibility app enabling users to rate, review, and research venues like restaurants, hotels, concert venues, and sporting arenas with detailed accessibility ratings and information.
+
+### AbleLink WayFinder - Travel Accessibility for Intellectual Disabilities
+
+- URL: https://www.ablelink.org/wayfinder/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility planning app
+- Found: 2026-06-29
+- Description: Accessibility app helping people with intellectual disabilities travel safely by tapping pictures of desired destinations, with software providing step-by-step navigation for bus or foot travel.
+
+### Flow - Task Initiation & Focus Assistant
+
+- URL: https://www.flowapp.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility task initiation mobile app
+- Found: 2026-06-29
+- Description: A mobile app designed to help neurodivergent users initiate tasks through gamified interfaces, visual timers, and breaking down complex projects into manageable steps.
+
+### Pulse - Task Initiation Tracker
+
+- URL: https://www.pulseapp.io
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility task initiation mobile app
+- Found: 2026-06-29
+- Description: A mobile productivity tool featuring 'micro-task' initiation modes and dopamine-tracking graphs to help users overcome procrastination and start tasks easily.
+
+### Spark - ADHD & Autism Task Helper
+
+- URL: https://sparkapp.com/neurodivergent
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility task initiation mobile app
+- Found: 2026-06-29
+- Description: A mobile application that uses 'sprint' modes and external accountability features to help users with neurodivergence initiate and sustain task engagement.

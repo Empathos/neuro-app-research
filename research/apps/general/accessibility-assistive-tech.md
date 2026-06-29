@@ -158,3 +158,83 @@
 - Query: neurodiversity adaptive tool open source
 - Found: 2026-06-26
 - Description: An open-accessible AI mind mapping tool that allows users to visualize and organize information flow, helping neurodivergent learners structure thoughts and improve cognition through generative AI.
+
+### Proloquo2Go - Official App Page
+
+- URL: https://apps.assistivemodules.com/proloquo2go
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility assistive technology app
+- Found: 2026-06-29
+- Description: Leading augmentative and alternative communication (AAC) app using symbol-based tools, text, and voice output for individuals with speech disabilities.
+
+### Google Live Transcribe - Accessibility Tool
+
+- URL: https://support.google.com/live-transcribe
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility assistive technology app
+- Found: 2026-06-29
+- Description: Speech-to-text app converting spoken conversations to real-time text, supporting inclusive communication for deaf or hard-of-hearing users.
+
+### Google Lens - Visual Accessibility Tool
+
+- URL: https://support.google.com/lens
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility assistive technology app
+- Found: 2026-06-29
+- Description: Camera-based tool reading text, identifying objects, and describing surroundings, enhanced with TalkBack for audio accessibility.
+
+### VoiceOver (iOS Accessibility)
+
+- URL: https://support.apple.com/en-us/102730
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility accessibility mobile app
+- Found: 2026-06-29
+- Description: Official Apple documentation for VoiceOver, the built-in screen reader for iOS that enables accessibility for users with visual impairments in mobile apps.
+
+### WCAG 2.2 Mobile Accessibility Guidelines
+
+- URL: https://www.w3.org/WAI/WCAG22/quickref/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility accessibility mobile app
+- Found: 2026-06-29
+- Description: The W3C's official quick reference for WCAG 2.2, including principles and criteria specifically applicable to mobile app accessibility compliance.
+
+### iOS Human Interface Guidelines - Accessibility
+
+- URL: https://developer.apple.com/design/human-interface-guidelines/accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility accessibility mobile app
+- Found: 2026-06-29
+- Description: Apple's developer documentation covering best practices for building accessible iOS mobile apps, including support for VoiceOver, dynamic text, and color contrast.
+
+### AccessibilityChecker.org Mobile Guide
+
+- URL: https://www.accessibilitychecker.org/guides/mobile-apps-accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility accessibility mobile app
+- Found: 2026-06-29
+- Description: Public guide detailing mobile app accessibility testing methods, common barriers, and compliance with ADA and WCAG for iOS and Android platforms.
+
+### AudioEye Mobile App Accessibility Testing
+
+- URL: https://www.audioeye.com/post/accessibility-testing-for-mobile-apps/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility accessibility mobile app
+- Found: 2026-06-29
+- Description: Documentation on automated and manual testing strategies for mobile app accessibility, including PoUR principles and WCAG success criteria.

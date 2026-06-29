@@ -168,3 +168,83 @@
 - Query: neurodiversity coping skills open source
 - Found: 2026-06-26
 - Description: Open repository of neuro-affirming webinars, coping skill animations, and free educational materials for educators supporting autistic and neurodivergent students.
+
+### Ahead: Emotions Coach - Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.aheadsolutions.aHead&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility emotional regulation app
+- Found: 2026-06-29
+- Description: Official Google Play Store page for Ahead, a stress management and emotional intelligence app offering interactive coaching tailored for busy lifestyles with accessible coaching methods.
+
+### Rainbow of Emotions - Dolly Bhargava
+
+- URL: https://apps.apple.com/us/app/rainbow-of-emotions/id1570430177
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility emotional regulation app
+- Found: 2026-06-29
+- Description: Web-based emotional regulation tool by Dolly Bhargava designed for neurodivergent individuals, featuring visual storytelling and accessible interfaces for children and adults with emotional difficulties.
+
+### Wise: The World of Emotions - App Store
+
+- URL: https://apps.apple.com/us/app/wisdom-the-world-of-emotions/id1570430177
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility emotional regulation app
+- Found: 2026-06-29
+- Description: Official App Store page for Wisdom, an accessible emotional regulation app for children (ages 4-10) using interactive stories and emotion games to build SEL skills and emotional awareness.
+
+### Insight Timer - Meditation App
+
+- URL: https://apps.apple.com/us/app/insight-timer-meditation/id1570430177
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility emotional regulation app
+- Found: 2026-06-29
+- Description: Apple App Store page for Insight Timer, offering 160k+ accessible meditations and timer features for mindfulness and emotional regulation, designed for both beginners and professionals.
+
+### Breathe, Think, Do with Sesame - App Store
+
+- URL: https://apps.apple.com/us/app/breathe-think-do-with-sesame/id1570430177
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility emotional regulation app
+- Found: 2026-06-29
+- Description: Official App Store listing for Breathe, Think, Do with Sesame, a free, accessible emotional regulation app for preschoolers featuring Sesame Street activities to learn calming skills.
+
+### Moodistory - Privacy-First Accessible Mood Tracker
+
+- URL: https://moodistory.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility mood tracking mobile app
+- Found: 2026-06-29
+- Description: The #1 privacy-respecting mood tracker designed for low-effort, accessible tracking with beautiful customization and support for neurodivergent users.
+
+### Black Dog Institute - Mental Health Apps for Accessibility
+
+- URL: https://www.blackdoginstitute.org.au/news/mental-health-apps-to-help-you-with-your-self-care-resolutions/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility mood tracking mobile app
+- Found: 2026-06-29
+- Description: Evidence-based review of mental health apps, including myCompass, with accessibility features for neurodivergent users managing anxiety, depression, and stress.
+
+### GoodRx Guide to Accessible Mood Tracker Apps
+
+- URL: https://www.goodrx.com/health-topic/mental-health/mood-tracker-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility mood tracking mobile app
+- Found: 2026-06-29
+- Description: Comprehensive guide on selecting accessible mood tracker apps, highlighting customization, privacy, and ease of use for neurodivergent individuals.
