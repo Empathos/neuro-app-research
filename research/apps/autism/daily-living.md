@@ -168,3 +168,83 @@
 - Query: autistic home routine open source
 - Found: 2026-06-26
 - Description: Official documentation for Tiimo's open-source components, detailing how neurodivergent users can customize visual scheduling and routine management tools.
+
+### Lingraphica AAC Communication Apps
+
+- URL: https://www.lingraphica.com/category/aac-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC daily living support app
+- Found: 2026-06-29
+- Description: Official repository of nearly a dozen free augmentative and alternative communication apps designed by Lingraphica to support daily living and communication for individuals with speech impairments.
+
+### Speak for Yourself - AAC App Store
+
+- URL: https://www.speakforyourselfapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC daily living support app
+- Found: 2026-06-29
+- Description: Official website for the Speak for Yourself AAC app, a flexible iOS tool designed to help non-verbal individuals express needs and participate in daily life activities through symbols and text.
+
+### Proloquo2Go - AAC by Avaz
+
+- URL: https://www.assistrualmente.com/proloquo2go
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC daily living support app
+- Found: 2026-06-29
+- Description: Official product page for Proloquo2Go, a leading AAC app featuring natural voices and customizable vocabularies to support daily communication and living for children and adults.
+
+### AbleNet - Daily Living with AAC Documentation
+
+- URL: https://support.ablenetinc.com/category/families/ablefamilies/learn-more/daily-living-with-aac/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC daily living support app
+- Found: 2026-06-29
+- Description: Official documentation and resource hub from AbleNet offering strategies, guides, and tool recommendations for integrating AAC devices into daily living routines for neurodivergent individuals.
+
+### The role of augmentative and alternative communication for children ...
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5036660/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC independence mobile app
+- Found: 2026-06-29
+- Description: Augmentative and alternative communication (AAC) interventions are used for children with autism, often as stand-alone communication interventions for those ...
+
+### I need everyone to know about this FREE aac app ... - Instagram
+
+- URL: https://www.instagram.com/reel/DEYrS4Hxnno/?hl=en
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC independence mobile app
+- Found: 2026-06-29
+- Description:  October is Augmentative and Alternative Communication (AAC) Awareness Month! At ALL Integrated YOU, we love highlighting tools that make ...
+
+### [PDF] What Adults Who Use AAC Say About Their Use of Mainstream ...
+
+- URL: https://www.atia.org/wp-content/uploads/2019/01/ATOB-V12_Iss1_Article5.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC independence mobile app
+- Found: 2026-06-29
+- Description: The participants in this study were adults who have complex communication needs and who use both specialized AAC devices and mainstream mobile technologies such ...
+
+### New App Can Help People Communicate with Head-Tracking ...
+
+- URL: https://www.boia.org/blog/new-app-can-help-people-communicate-with-head-tracking-technology
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC independence mobile app
+- Found: 2026-06-29
+- Description: A new mobile app called Vocable AAC allows people to communicate with head-tracking technology. Learn more, brought to you by the Bureau of ...

@@ -238,3 +238,23 @@
 - Query: autistic coping skills open source
 - Found: 2026-06-26
 - Description: A collection of open coping mechanisms including music, exercise, sensory toys, and mindfulness practices for reducing overwhelm in autistic individuals.
+
+### nanoGOAT AAC
+
+- URL: https://nanogoataac.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC emotional regulation app
+- Found: 2026-06-29
+- Description: A free, simple AAC app designed to help kids communicate and express their feelings, supporting emotional regulation by giving children words for big emotions.
+
+### eMoods Bipolar Mood Tracker
+
+- URL: https://www.emoodsapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC mood tracking mobile app
+- Found: 2026-06-29
+- Description: Specialized mood tracker for individuals working with therapists or psychiatrists, offering deep data logging for bipolar disorder and mental health monitoring.

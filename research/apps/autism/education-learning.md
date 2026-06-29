@@ -298,3 +298,123 @@
 - Query: autistic classroom open source
 - Found: 2026-06-26
 - Description: A Google Chrome extension providing accessibility options to help students with autism and learning difficulties access text content.
+
+### Proloquo4Text by AssistiveWare
+
+- URL: https://assistiveware.com/products/proloquo4text
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC student support app
+- Found: 2026-06-29
+- Description: A text-based AAC app offering robust word prediction and phrase banking features for students who can read and spell well.
+
+### TouchChat by Saltillo
+
+- URL: https://www.saltillo.com/products/touchchat
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC student support app
+- Found: 2026-06-29
+- Description: Popular AAC app with text-based options like Dialogue AAC, designed for visual learners and students needing text-to-speech support.
+
+### GoTalk Now by Attainment Company
+
+- URL: https://www.attainmentcompany.com/gotalk-now
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC student support app
+- Found: 2026-06-29
+- Description: AAC application with transition to literacy features, combining dynamic text and speech output to support student communication development.
+
+### Omazing Kids AAC Consulting Resources
+
+- URL: https://omazingkids.com/aac-consulting/free-aac-apps
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC student support app
+- Found: 2026-06-29
+- Description: Repository of free AAC apps, tools, and consulting resources specifically curated for neurodivergent student support and therapy.
+
+### AACessible AT Lending Library
+
+- URL: https://aacessible.org/at-lending-library
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC student support app
+- Found: 2026-06-29
+- Description: Public list of AT lending libraries and resources for obtaining AAC device loans and free apps for student support programs.
+
+### VisionLink by Saltillo
+
+- URL: https://www.saltillo.com/products/visionlink
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC student support app
+- Found: 2026-06-29
+- Description: AAC tool with text-based options and phrase banking features, ideal for students needing visual and text-based communication support.
+
+### Assistive Express AAC App
+
+- URL: https://assistiveexpress.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC student support app
+- Found: 2026-06-29
+- Description: AAC app for students who can type responses, offering text-based communication support and customizable features for neurodivergent learners.
+
+### Chatterboards AAC App
+
+- URL: http://chatterboards-aac.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC learning support mobile app
+- Found: 2026-06-29
+- Description: A free, easy-to-program mobile AAC app designed for classrooms and neurodivergent learners, featuring visual symbols, synthesized speech, and customizable button layouts for UDL support.
+
+### INSTRUCT AAC Training Tool
+
+- URL: https://aac-learning-center.org/category/instruct-video/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC learning support mobile app
+- Found: 2026-06-29
+- Description: A mobile app and resource library for training communication partners of neurodivergent individuals, offering proven examples of AAC instruction and implementation strategies.
+
+### Open Access AAC Mobile Apps
+
+- URL: https://openaccess-ca.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC learning support mobile app
+- Found: 2026-06-29
+- Description: A collection of free, open-access mobile AAC apps and resources for neurodivergent users, including iPad and Android-compatible tools for expression and communication support.
+
+### Project Core Mobile Boards
+
+- URL: http://www.project-core.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC learning support mobile app
+- Found: 2026-06-29
+- Description: Mobile printables and video training modules for core vocabulary AAC use, designed to support neurodivergent learners in developing consistent communication skills across environments.
+
+### TouchChat AAC App
+
+- URL: https://saltillo.com/chatcorner/content/29
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC learning support mobile app
+- Found: 2026-06-29
+- Description: A mobile AAC app from Saltillo enabling dynamic symbol and language representation for neurodivergent individuals, with customizable boards and low-tech communication support.

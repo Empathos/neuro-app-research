@@ -208,3 +208,53 @@
 - Query: autistic adaptive tool open source
 - Found: 2026-06-26
 - Description: A free open-source AAC (Augmentative and Alternative Communication) tool developed for nonverbal children with autism, available as an app for Apple iPad to support communication.
+
+### BridgingApps AAC App List - Resource Directory
+
+- URL: https://bridgingapps.org/list-highlight-bridgingapps-aac-app-list/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC assistive technology app
+- Found: 2026-06-29
+- Description: Public repository listing 18 top-rated AAC apps, including 11 with 5-star reviews. Curated for families and professionals seeking assistive technology for neurodivergent communication.
+
+### Apple AAC Apps Overview - Product Documentation
+
+- URL: https://www.apple.com/newsroom/2023/05/assistiveware-ushers-in-next-generation-of-aac-technology/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC assistive technology app
+- Found: 2026-06-29
+- Description: Apple's official documentation on AssistiveWare's next-generation AAC apps (Proloquo and Proloquo Coach), highlighting integration with iOS devices for neurodivergent communication support.
+
+### NYC Public Schools Assistive Technology - Family Resources
+
+- URL: https://www.schools.nyc.gov/learning/special-education/family-resources/special-education-supports/assistive-technology
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC assistive technology app
+- Found: 2026-06-29
+- Description: Official NYC Public Schools page listing commonly used AAC assistive technology devices and software, with support contacts for District 75 and D1-32 families.
+
+### Augmentative and Alternative Communication (AAC) App Series - YouTube
+
+- URL: https://www.youtube.com/watch?v=CZUxrsnta4M
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC assistive technology app
+- Found: 2026-06-29
+- Description: Educational video series showcasing symbol-based AAC apps for iPad, presented by specialists from the Simon Technology Center, focusing on communication tools for neurodivergent users.
+
+### Proloquo2Go by AssistiveWare
+
+- URL: https://www.ussaac.org/speakup/mobile-apps-for-your-aac-implementation-toolbox/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC accessibility mobile app
+- Found: 2026-06-29
+- Description: Leading AAC app for iOS devices, offering customizable symbol sets and text-to-speech capabilities for neurodivergent and speech-impaired users.
