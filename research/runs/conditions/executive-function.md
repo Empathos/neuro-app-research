@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-06-26T10:43:46.012410+00:00
-- New findings: 86
-- Rejected dead links: 19
+- UTC timestamp: 2026-06-29T16:50:08.678766+00:00
+- New findings: 38
+- Rejected dead links: 14
 
 ## Support Categories
 
 ### communication-aac
 
-- `routine speech support startup`: 7 new finding(s), 1 rejected dead link(s)
-- `routine conversation support open source`: 7 new finding(s), 1 rejected dead link(s)
+- `task initiation communication support app`: 1 new finding(s), 0 rejected dead link(s)
+- `task initiation AAC mobile app`: 2 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `routine routine startup`: 3 new finding(s), 2 rejected dead link(s)
-- `routine reminders open source`: 4 new finding(s), 0 rejected dead link(s)
+- `task initiation planning app`: 4 new finding(s), 0 rejected dead link(s)
+- `task initiation task initiation mobile app`: 0 new finding(s), 2 rejected dead link(s)
 
 ### sensory-regulation
 
-- `routine calming startup`: 8 new finding(s), 0 rejected dead link(s)
-- `routine environment planning open source`: 5 new finding(s), 2 rejected dead link(s)
+- `task initiation sensory regulation app`: 3 new finding(s), 2 rejected dead link(s)
+- `task initiation overload mobile app`: 2 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `routine reading support startup`: 4 new finding(s), 2 rejected dead link(s)
-- `routine classroom open source`: 5 new finding(s), 3 rejected dead link(s)
+- `task initiation student support app`: 3 new finding(s), 2 rejected dead link(s)
+- `task initiation learning support mobile app`: 1 new finding(s), 2 rejected dead link(s)
 
 ### emotional-regulation
 
-- `routine self regulation startup`: 7 new finding(s), 0 rejected dead link(s)
-- `routine coping skills open source`: 7 new finding(s), 0 rejected dead link(s)
+- `task initiation emotional regulation app`: 1 new finding(s), 0 rejected dead link(s)
+- `task initiation mood tracking mobile app`: 4 new finding(s), 1 rejected dead link(s)
 
 ### daily-living
 
-- `routine life skills startup`: 4 new finding(s), 2 rejected dead link(s)
-- `routine home routine open source`: 5 new finding(s), 1 rejected dead link(s)
+- `task initiation daily living support app`: 1 new finding(s), 2 rejected dead link(s)
+- `task initiation independence mobile app`: 2 new finding(s), 1 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `routine therapy support startup`: 5 new finding(s), 0 rejected dead link(s)
-- `routine parent support open source`: 7 new finding(s), 0 rejected dead link(s)
+- `task initiation caregiver app`: 2 new finding(s), 0 rejected dead link(s)
+- `task initiation clinician tool mobile app`: 3 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `routine mobile accessibility startup`: 5 new finding(s), 2 rejected dead link(s)
-- `routine adaptive tool open source`: 3 new finding(s), 3 rejected dead link(s)
+- `task initiation assistive technology app`: 4 new finding(s), 0 rejected dead link(s)
+- `task initiation accessibility mobile app`: 5 new finding(s), 2 rejected dead link(s)
 

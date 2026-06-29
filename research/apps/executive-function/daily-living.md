@@ -138,3 +138,33 @@
 - Query: routine home routine open source
 - Found: 2026-06-26
 - Description: A guide to open-source activities like gardening, hardware projects, and digital art that can be incorporated into home routines for neurodivergent individuals.
+
+### EasyTodo - Neurodiverse Task App
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/3756049797993438/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: task initiation daily living support app
+- Found: 2026-06-29
+- Description: A dedicated app developed specifically to make neurodiverse individuals feel easier to initiate tasks and complete daily living activities, focusing on reducing barriers to starting.
+
+### Mindful Browsing: Gentle Browser Nudge
+
+- URL: https://mindfulbrowsing.org/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: task initiation independence mobile app
+- Found: 2026-06-29
+- Description: Official documentation for Mindful Browsing, a browser extension tool that interrupts autopilot scrolling to help users regain control and initiate intended tasks.
+
+### Goally: Interactive Reward System for Kids
+
+- URL: https://goally.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: task initiation independence mobile app
+- Found: 2026-06-29
+- Description: Official product page for Goally, a mobile app that uses interactive games and rewards to motivate children with ADHD/Autism to initiate tasks independently.

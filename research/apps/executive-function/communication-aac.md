@@ -407,3 +407,33 @@
 - Query: routine conversation support open source
 - Found: 2026-06-26
 - Description: An easy-to-use real-time messaging platform ensuring message delivery to connected clients, deployable on-premise or cloud, with features adaptable for routine conversation support in neurodivergent communication studies.
+
+### Task Initiation Tactics for ADHD Adults - Tiimo App
+
+- URL: https://www.tiimoapp.com/fr/resource-hub/task-initiation-adhd
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation communication support app
+- Found: 2026-06-29
+- Description: Resource hub from Tiimo App detailing features tailored for ADHD individuals, including reminders and visual planning tools to support task initiation.
+
+### TouchChat WordPower
+
+- URL: https://www.facebook.com/groups/202243656776282/posts/2120329081634387/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation AAC mobile app
+- Found: 2026-06-29
+- Description: A customizable AAC app with symbol-based interfaces that supports task initiation by enabling users to select and express words quickly on mobile devices.
+
+### Verbal Autism Pro
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5627471/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation AAC mobile app
+- Found: 2026-06-29
+- Description: A mobile AAC app tailored for nonverbal children with autism, designed to support task initiation with simple word selection and auditory feedback.

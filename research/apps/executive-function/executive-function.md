@@ -308,3 +308,43 @@
 - Query: routine reminders open source
 - Found: 2026-06-26
 - Description: These tools can provide structure, visual cues, and reminders to support their daily routines and academic tasks. Some commonly used ...
+
+### Tiimo App - Task Initiation Tactics Resource
+
+- URL: https://www.tiimoapp.com/de/resource-hub/task-initiation-adhd
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: task initiation planning app
+- Found: 2026-06-29
+- Description: Official resource page from Tiimo detailing AI-powered co-planner tactics and strategies specifically for overcoming task initiation in adults with ADHD.
+
+### Tiimo App - Co-Planner Documentation
+
+- URL: https://support.tiimo.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: task initiation planning app
+- Found: 2026-06-29
+- Description: Public documentation and support hub for Tiimo's co-planner feature, explaining how it translates mental clutter into structured, time-estimated tasks.
+
+### Todoist Documentation - Task Breakdown
+
+- URL: https://todoist.com/help/articles/break-down-tasks
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: task initiation planning app
+- Found: 2026-06-29
+- Description: Official Todoist guide on breaking tasks into subtasks, a core strategy for making task initiation easier and planning more effective.
+
+### Goblin Tools Documentation - Master
+
+- URL: https://master.goblin.tools
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: task initiation planning app
+- Found: 2026-06-29
+- Description: Developer documentation and source repository for Goblin Tools, detailing the AI task breakdown algorithm used to support task initiation planning.

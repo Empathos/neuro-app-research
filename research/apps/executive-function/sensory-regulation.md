@@ -296,3 +296,53 @@
 - Query: routine environment planning open source
 - Found: 2026-06-26
 - Description: The GitHub repository for Redmine, providing access to the source code and development history of the flexible open-source project management web application.
+
+### Breathe, Think, Do with Sesame
+
+- URL: https://www.sesameworkshops.org/apps/breathe-think-do-with-sesame/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: task initiation sensory regulation app
+- Found: 2026-06-29
+- Description: Official app page for 'Breathe, Think, Do with Sesame,' a tool for children aged 25 to develop personal skills like problem-solving, persistence, and overcoming stress through sensory regulation.
+
+### MyAutismTeam
+
+- URL: https://www.myautismteam.org/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: task initiation sensory regulation app
+- Found: 2026-06-29
+- Description: Official website for 'MyAutismTeam,' an app supporting parents of children with ASD with emotional support and practical tips for treatments, including sensory regulation strategies.
+
+### Focus Bear: Task & Sensory Regulation Tool
+
+- URL: https://focusbear.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: task initiation sensory regulation app
+- Found: 2026-06-29
+- Description: Official website for 'Focus Bear,' an all-in-one tool for neurodivergent users offering automated routines, website blockers, and mindfulness breaks to support task initiation and sensory regulation.
+
+### Draper: Stop Cognitive Overload from Killing Your User Experience
+
+- URL: https://www.draper.com/media-center/news-releases/detail/23406/stop-cognitive-overload-from-killing-your-user-experience
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: task initiation overload mobile app
+- Found: 2026-06-29
+- Description: Public article analyzing how mobile app design contributes to cognitive overload and task initiation failure, offering insights on reducing complexity to improve user productivity and engagement.
+
+### PMC: Estimating Cognitive Load in a Mobile Personal Health Record
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10651402/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: task initiation overload mobile app
+- Found: 2026-06-29
+- Description: Peer-reviewed study using cognitive task analysis to evaluate mobile health record applications, providing data on how cognitive load impacts user interaction and task initiation in mobile health contexts.
