@@ -88,3 +88,113 @@
 - Query: neurodiversity home routine open source
 - Found: 2026-06-26
 - Description: A collaborative open-source wiki offering curated resources on sensory-friendly home routines, including app recommendations and DIY tools.
+
+### AXS Map
+
+- URL: https://awsmap.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility daily living support app
+- Found: 2026-06-29
+- Description: A crowdsourced app that helps wheelchair users find accessible restaurants, hotels, and stores by rating their accessibility and safety features.
+
+### EasyPlaces
+
+- URL: https://easyplacesapp.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility daily living support app
+- Found: 2026-06-29
+- Description: An app that displays a map of wheelchair-accessible locations near you, allowing users to add and comment on places to help others access necessary information.
+
+### WheelMate
+
+- URL: https://wheelmateapp.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility daily living support app
+- Found: 2026-06-29
+- Description: A crowdsourced app enabling wheelchair users to find accessible restrooms, parking spots, and other facilities marked and rated by the community.
+
+### Playgrounds For Everyone
+
+- URL: https://playgroundsforeveryone.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility daily living support app
+- Found: 2026-06-29
+- Description: An app that identifies accessible playgrounds for children with special needs, including user reviews on accessibility, safety, and equipment suitability.
+
+### AbleRoad
+
+- URL: https://ableroad.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility daily living support app
+- Found: 2026-06-29
+- Description: An advanced app locating wheelchair-accessible places and providing detailed info on hearing, sight, and cognitive accessibility, including noise levels, ASL staff, braille, and communication aids.
+
+### Be My Eyes
+
+- URL: https://www.bemyeyes.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility daily living support app
+- Found: 2026-06-29
+- Description: An accessibility app connecting blind or low-vision users with sighted volunteers via live video for assistance with daily tasks like reading labels or navigating surroundings.
+
+### iAccess Life
+
+- URL: https://iaccesslife.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility daily living support app
+- Found: 2026-06-29
+- Description: A mobile app allowing users with disabilities to rate, review, and research locations based on accessibility, covering over 10,000 locations in 50 states and 30+ countries.
+
+### TapTapSee - Object Recognition App
+
+- URL: https://taptapsee.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility independence mobile app
+- Found: 2026-06-29
+- Description: Official website for TapTapSee, a mobile app that identifies objects using the camera and voice, designed to help users with visual impairments navigate their environment independently.
+
+### AirA - On-Demand Human Assistance App
+
+- URL: https://www.aira.io/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility independence mobile app
+- Found: 2026-06-29
+- Description: Official website for AirA, a mobile platform connecting blind and visually impaired users with trained agents for on-demand visual assistance, fostering independence in work and daily life.
+
+### WheelMate - Accessible Parking & Restroom Finder App
+
+- URL: https://www.wheelmate.us/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility independence mobile app
+- Found: 2026-06-29
+- Description: Official website for WheelMate, a community-driven mobile app that helps users locate accessible parking spots and restrooms globally, supporting accessibility independence for those with mobility challenges.
+
+### Apple Accessibility Features Documentation
+
+- URL: https://support.apple.com/en-us/accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility independence mobile app
+- Found: 2026-06-29
+- Description: Official Apple support documentation detailing built-in iOS and macOS accessibility tools like VoiceOver, Magnification, and Siri, which are essential for mobile app independence for neurodivergent and disabled users.

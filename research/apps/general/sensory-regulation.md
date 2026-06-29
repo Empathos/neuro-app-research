@@ -318,3 +318,93 @@
 - Query: neurodiversity environment planning open source
 - Found: 2026-06-26
 - Description: A PAS guide for designers and planners on creating inclusive built environments by addressing lighting, acoustics, layout, and wayfinding to reduce sensory overload.
+
+### SenseCity
+
+- URL: https://www.facebook.com/groups/1218163666292700/posts/1763562915086103/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility sensory regulation app
+- Found: 2026-06-29
+- Description: An app that enables users to spread education about sensory processing skills and find sensory-friendly places within their community.
+
+### Large-Scale Analysis Finds Many Mobile Apps Are Inaccessible
+
+- URL: https://create.uw.edu/large-scale-analysis-finds-many-mobile-apps-are-inaccessible/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: A comprehensive study revealing that 23% of analyzed mobile apps lack accessibility metadata, highlighting widespread issues with information overload and poor neurodivergent support in current public apps.
+
+### Insights: Mobile accessibility
+
+- URL: https://makeitfable.com/article/insights-mobile-accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: Fable's guide to mobile accessibility research, noting that 81% of users feel accessibility barriers significantly impact their ability to enjoy mobile devices, directly addressing neurodivergence and overload challenges.
+
+### 5 Essential Tips for Accessible Mobile App Design
+
+- URL: https://www.levelaccess.com/blog/five-tips-to-create-accessible-native-mobile-apps/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: Official documentation from Level Access providing actionable tips for iOS and Android developers to reduce cognitive overload, including color contrast, text resizing, and user-centered design for diverse disabilities.
+
+### Optimizing mobile app design for older adults: systematic review
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12350549/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: A systematic review identifying key usability barriers and strategies like simplified navigation and enlarged touch targets that directly mitigate information overload for neurodivergent and aging populations.
+
+### Cognitive Overload & Feature Discovery in Mobile UX
+
+- URL: https://uxdesign.cc/cognitive-overload-feature-discovery-in-mobile-ux-e0e5700e914c
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: An analysis of how app design layers (signal vs. engagement) contribute to cognitive trapping and overload, offering insights for building neurodivergence-friendly mobile experiences.
+
+### Exploring Mobile Device Accessibility: Challenges, Insights, and...
+
+- URL: https://dl.acm.org/doi/10.1145/3613904.3642526
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: A peer-reviewed paper examining mobile accessibility evaluation methodologies, with findings on how manual testing and WCAG-EM tools are critical for addressing overload in public apps.
+
+### Making Mobile Applications Accessible with Machine Learning
+
+- URL: https://machinelearning.apple.com/research/mobile-applications-accessible
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: Apple's research on using on-device ML to infer accessibility from UI pixels, offering a technical approach to automatically detect and reduce information overload in mobile apps.
+
+### The experience of mobile information overload: struggling between...
+
+- URL: https://informationr.net/ir/22-2/paper754.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility overload mobile app
+- Found: 2026-06-29
+- Description: A study analyzing how smartphone users experience mobile information overload and struggle with information tasks, providing a foundation for developing neurodivergence-supportive app tools.
