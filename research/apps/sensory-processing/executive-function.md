@@ -258,3 +258,73 @@
 - Query: sensory regulation reminders open source
 - Found: 2026-06-26
 - Description: Research article on Ayres Sensory Integration (ASI) and sensory-based interventions used by occupational therapists to support engagement and participation in neurodivergent children.
+
+### Setgraph
+
+- URL: https://setgraph.app/articles/setgraph-the-best-workout-tracker-app-for-strength-training-and-progressive-overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload planning app
+- Found: 2026-06-29
+- Description: A progressive overload app built for lifters to log sets in under 3 seconds and track strength progress instantly.
+
+### OverLOAD Workout (App Store)
+
+- URL: https://apps.apple.com/us/app/overload-gym-workout-tracker/id6445851672
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload planning app
+- Found: 2026-06-29
+- Description: A feature-rich, social lifting tracker with smart rest timers, analytics, and Instagram exports designed for progressive overload.
+
+### OverLOAD Workout Tracker (Google Play)
+
+- URL: https://play.google.com/store/apps/details?id=com.overloadtracker&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload planning app
+- Found: 2026-06-29
+- Description: A minimalist gym workout tracker built for one purpose: Progressive Overload, allowing users to track progress via screenshots or notes.
+
+### Hevy App
+
+- URL: https://www.hevyapp.com/progressive-overload/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload planning app
+- Found: 2026-06-29
+- Description: A workout logging app that tracks progress on graphs, monitors volume load, and helps users reference previous performance for overload planning.
+
+### JEFIT
+
+- URL: https://www.jefit.com/blog/best-progressive-overload-apps-for-beginners-in-2026-top-5-reviewed-and-compared
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload planning app
+- Found: 2026-06-29
+- Description: A comprehensive fitness app with a massive workout library and performance analytics, perfect for beginners and advanced users managing overload.
+
+### Overload Task Manager - Neurodivergence Support Repository
+
+- URL: https://artifacthub.io/packages/overload-task-manager/overload-neurodivergence
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload task initiation mobile app
+- Found: 2026-06-29
+- Description: A repository of task management tools and neurodivergence support resources, including motion-based cues and structured workflow templates.
+
+### Digital Multitasking & Hyperactivity - Research Paper
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11543232/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload task initiation mobile app
+- Found: 2026-06-29
+- Description: Research on digital multitasking and hyperactivity, revealing how multitasking can overload working memory and impair cognitive abilities, with implications for task initiation support.

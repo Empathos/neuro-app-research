@@ -98,3 +98,143 @@
 - Query: sensory regulation home routine open source
 - Found: 2026-06-26
 - Description: Sensory-based interventions for home use, including calm corners, noise management, and visual supports for neurodivergent children.
+
+### Everyday Living: Comprehensive and User-Friendly App for Caregivers and Elderly
+
+- URL: https://play.google.com/store/apps/details?id=com.mogul.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload daily living support app
+- Found: 2026-06-29
+- Description: Everyday Living is a comprehensive and user-friendly app that caters to caregivers, elderly patients, and individuals requiring assisted living, designed to support daily routines and reduce overload.
+
+### Everyday Living App: Personal Care HCS Providers in Texas
+
+- URL: https://everydaylivingapp.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload daily living support app
+- Found: 2026-06-29
+- Description: The Everyday Living app is a user-friendly mobile application designed to assist individuals, families, case workers, and guardians in finding suitable support and managing daily tasks to prevent overload.
+
+### Everyday Living - Apps on Google Play (Official Product Page)
+
+- URL: https://play.google.com/store/apps/details?id=com.mogul.app
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload daily living support app
+- Found: 2026-06-29
+- Description: Official Google Play page for Everyday Living, a tool that helps users with neurodivergence and elderly care manage daily living without feeling overwhelmed by routine tasks.
+
+### 10 Great Apps for Seniors Living Alone - Parsons House Austin
+
+- URL: https://parsonshouseaustin.com/10-great-apps-for-seniors-living-alone/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload daily living support app
+- Found: 2026-06-29
+- Description: A curated list of apps including MediSafe, Red Panic Button, and TaskRabbit that address daily living challenges and reduce overload for seniors and neurodivergent individuals.
+
+### Apps Can Help MS Patients and Other Disabled People with Daily Living - Swedish.org
+
+- URL: https://blog.swedish.org/swedish-blog/apps-can-help-ms-patients-and-other-disabled-people-with-daily-living
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload daily living support app
+- Found: 2026-06-29
+- Description: Overview of apps like Stepping Stones, MedCoach, and Home Routines that promote independence and simplify daily tasks to support users facing cognitive or physical overload.
+
+### Simple Daily Check-In System for Elderly Parents Living Alone - ILY
+
+- URL: https://www.facebook.com/groups/4123796534306242/posts/27285180381074530/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload daily living support app
+- Found: 2026-06-29
+- Description: Description of the 'ILY' tool, which automates daily check-ins and reminders to reduce the mental overload of managing care for elderly or neurodivergent family members.
+
+### ILY - Daily Check-In and Reminder Tool for Caregivers
+
+- URL: https://www.instagram.com/reel/DQjoDRfk9j-/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload daily living support app
+- Found: 2026-06-29
+- Description: Instagram post highlighting ILY's ability to call loved ones at set times for check-ins, helping caregivers manage daily tasks without experiencing overwhelming stress.
+
+### Overload - Fitness App for Simplicity and Focus
+
+- URL: https://play.google.com/store/apps/details?id=com.feresr.overload&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload independence mobile app
+- Found: 2026-06-29
+- Description: A sleek and intuitive fitness app designed for those who value simplicity and focus in their workout routines, addressing app overload by promoting a streamlined, single-purpose tool.
+
+### How to Avoid App Overload for Good
+
+- URL: https://shift.com/blog/how-to-avoid-app-overload/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload independence mobile app
+- Found: 2026-06-29
+- Description: A guide on identifying causes of app overload and strategies to simplify mobile app stacks, including uninstalling unused apps, managing notifications, and using web versions to maintain independence.
+
+### IndepNow - Community Problem Reporting App
+
+- URL: https://apps.apple.com/us/app/indepnow/id1456337637
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload independence mobile app
+- Found: 2026-06-29
+- Description: A free and simple app enabling users to report community problems and monitor progress via smartphones, tablets, or computers, supporting independence through accessible, low-overload design.
+
+### Optimizing Mobile App Design for Older Adults
+
+- URL: https://pmc.ncbi.nlm.nih.com/articles/PMC12350549/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload independence mobile app
+- Found: 2026-06-29
+- Description: A systematic review highlighting age-friendly design principles like simplified navigation and enlarged touch targets to reduce cognitive overload and enhance digital independence.
+
+### Health App Overload
+
+- URL: https://www.mdlive.com/blog/health-app-overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload independence mobile app
+- Found: 2026-06-29
+- Description: An article discussing how app overload in healthcare leads to confusion and missed care, offering insights on managing digital tools to maintain independence and reduce stress.
+
+### Apps for Independent Living
+
+- URL: https://www.texasyouth2adult.com/articles/view/Apps-for-Independent-Living
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload independence mobile app
+- Found: 2026-06-29
+- Description: An overview of how app overload can hinder independent living, emphasizing the need for curated, essential tools that support autonomy without overwhelming users.
+
+### Mobile Banking - Independence Bank
+
+- URL: https://www.ibyourbank.com/Mobile-Banking
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload independence mobile app
+- Found: 2026-06-29
+- Description: Official mobile banking page for Independence Bank, providing a streamlined app interface for account access and transactions, supporting independence with minimal cognitive load.

@@ -158,3 +158,63 @@
 - Query: sensory regulation coping skills open source
 - Found: 2026-06-26
 - Description: Open-access research review from PMC mapping sensory modulation interventions (SMI) as occupational therapy tools for regulating emotional and physiological arousal in neurodivergent adults.
+
+### DreamyKid
+
+- URL: https://www.rchsd.org/documents/2024/01/apps-to-assist-with-emotion-regulation.pdf/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload emotional regulation app
+- Found: 2026-06-29
+- Description: A kids' mindfulness app featuring meditations, healing activities, and breathing tools to help children regulate feelings and grow strong during emotional overload.
+
+### eMoods Bipolar Mood Tracker
+
+- URL: https://apps.apple.com/gb/app/emoods-bipolar-mood-tracker/id1184456130
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload mood tracking mobile app
+- Found: 2026-06-29
+- Description: Highly regarded by psychiatrists for tracking Bipolar I and II, depression, PTSD, and anxiety. Includes mood logging, medication reminders, sleep tracking, and printable reports for healthcare providers.
+
+### Moodistory - Privacy Mood Tracker
+
+- URL: https://moodistory.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload mood tracking mobile app
+- Found: 2026-06-29
+- Description: Low-effort, customizable mood tracker app designed to improve mental health while strictly respecting privacy. Ideal for neurodivergent users seeking discreet overload and mood monitoring.
+
+### Cutest (and FREE) Mood Tracking Apps for Android/iOS
+
+- URL: https://www.youtube.com/watch?v=tkiS61MaAcQ
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload mood tracking mobile app
+- Found: 2026-06-29
+- Description: Video guide reviewing free and cute mood tracking apps including Daily Bean, Lucky Diary Booky, and Stoic. Focuses on simple, mindful tracking for daily overload and mood awareness.
+
+### Mood Tracker App Market Report 2035
+
+- URL: https://www.wiseguyreports.com/reports/mood-tracker-app-market
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload mood tracking mobile app
+- Found: 2026-06-29
+- Description: Industry report on the mood tracker app market, valued at $1.47B in 2025 and projected to reach $5B by 2035. Highlights mobile platforms facilitating mental health awareness and real-time overload tracking.
+
+### Best Mood Tracking Apps for 2026
+
+- URL: https://lifestance.com/blog/best-mood-tracking-apps-therapists-top-choices-2026/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload mood tracking mobile app
+- Found: 2026-06-29
+- Description: Therapist-approved list of top mood tracking apps for 2026, supporting anxiety, depression, bipolar disorder, and neurodivergent overload management with expert-recommended tools.

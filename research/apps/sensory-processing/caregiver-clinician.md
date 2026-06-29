@@ -148,3 +148,73 @@
 - Query: sensory regulation parent support open source
 - Found: 2026-06-26
 - Description: An open educational resource from the Child Mind Institute helping parents identify sensory processing issues in children, with free strategies for managing reactions to loud noises, bright lights, and uncomfortable clothing.
+
+### CareScout - The Best Apps for Caregivers: 7 Tools to Make Caregiving Easier
+
+- URL: https://www.carescout.com/resources/the-best-apps-for-caregivers-7-tools-to-make-caregiving-easier
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload caregiver app
+- Found: 2026-06-29
+- Description: A curated list of 7 caregiver apps designed to support scheduling, medication tracking, communication, and self-care to reduce caregiver overload and simplify daily tasks.
+
+### Caregiver Action Network - Overcoming Caregiver Overload with Support and Self-Care
+
+- URL: https://www.caregiveraction.org/role-overload/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload caregiver app
+- Found: 2026-06-29
+- Description: Official resource guide offering strategies to reduce caregiver role overload, including asking for help, utilizing respite care, and tools for emotional support and self-care.
+
+### Caregiver Insights App - Caregiver Insights Across the States
+
+- URL: https://www.youtube.com/watch?v=8ULzPUwqWdI
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload caregiver app
+- Found: 2026-06-29
+- Description: Video documentation of a data-driven initiative and app prototype translating local caregiver needs into innovative tools to address support gaps and reduce burden.
+
+### The Conversation US - New Apps for Older Caregivers
+
+- URL: https://www.facebook.com/theconversationus/posts/new-apps-updates-ai-tools-always-promise-to-make-tech-easierbut-for-many-old/1344832434330098/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload caregiver app
+- Found: 2026-06-29
+- Description: Article discussing how caregivers aged 50+ are adopting medical apps for tracking medications and booking care, highlighting the need for user-friendly tools to reduce tech-related overload.
+
+### H2O Overload  Fluid Control for Heart-Kidney Health
+
+- URL: https://healthify.nz/apps/h/h2o-overload-app
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload clinician tool mobile app
+- Found: 2026-06-29
+- Description: A mobile app for patients and clinicians to monitor daily fluid intake, weight, and blood pressure, with alerts for exceeding safe limits.
+
+### AHRQ Mobile Device Resource List
+
+- URL: https://www.ahrq.gov/mobile-resources.aspx
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload clinician tool mobile app
+- Found: 2026-06-29
+- Description: A government repository listing 22 mobile apps for clinicians covering clinical practice guidelines, diabetes, heart health, and infectious diseases.
+
+### ID Overload Clinician Tool (Research Concept)
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3621678/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload clinician tool mobile app
+- Found: 2026-06-29
+- Description: A research article discussing clinician tool overload in mobile health apps and proposing gateway apps with personalized content to reduce stress.
