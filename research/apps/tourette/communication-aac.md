@@ -478,3 +478,63 @@
 - Query: habit awareness AAC mobile app
 - Found: 2026-06-29
 - Description: Research article discussing wearable AAC devices and their integration with mobile apps for neurodivergent individuals, including HabitAwares approach to awareness training for BFRBs.
+
+### Way of Life - Habit Tracker
+
+- URL: https://apps.apple.com/us/app/way-of-life-habit-tracker/id393159800
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness speech support iOS Android
+- Found: 2026-06-30
+- Description: Voted Best Motivation App by Healthline, this iOS app allows users to track habits in under a minute daily, with color-coded visual progress to support self-awareness and habit change for neurodivergent individuals.
+
+### Mindfulness Bell (Android)
+
+- URL: https://play.google.com/store/apps/details?id=com.mindfulness.bell
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness speech support iOS Android
+- Found: 2026-06-30
+- Description: An Android equivalent to Lotus Bud, offering a mindfulness bell with customizable reminders to interrupt automatic thought patterns and support neurodivergent habit awareness and self-regulation.
+
+### Habo - Privacy-First Habit Tracker
+
+- URL: https://github.com/xpavle00/Habo
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness speech support iOS Android
+- Found: 2026-06-30
+- Description: A minimalist, privacy-first habit tracker for iOS developed by xpavle00, requiring no accounts or data harvesting, ideal for neurodivergent users seeking a clean, focused tool for habit tracking without clutter.
+
+### Streaks - Habit Tracker
+
+- URL: https://www.streaksapp.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness speech support iOS Android
+- Found: 2026-06-30
+- Description: An iOS habit tracker that uses a one-time download model ($1.99) to track up to 12 habits, offering visual progress streaks and integration with Apple Health to support neurodivergent users in building consistent routines.
+
+### HabitAware Support Documentation
+
+- URL: https://habitaware.com/support
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness conversation support tool
+- Found: 2026-06-30
+- Description: Official support guide and FAQ for HabitAware users, detailing how to use the habit awareness conversation support features, pair the device, and troubleshoot common issues.
+
+### HabitAware Community Forum
+
+- URL: https://community.habitaware.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: habit awareness conversation support tool
+- Found: 2026-06-30
+- Description: Community-driven forum for users of the HabitAware device to share experiences, discuss habit awareness strategies, and provide peer support for neurodivergent behaviors.

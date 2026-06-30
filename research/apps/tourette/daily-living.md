@@ -148,3 +148,43 @@
 - Query: habit awareness independence mobile app
 - Found: 2026-06-29
 - Description: Market valuation of habit tracker apps, including mobile tools that support neurodivergent users in building independent habits through awareness and structured routines.
+
+### Build My Routine Puzzle - Free PDF Habit Tracker
+
+- URL: https://www.yourtherapysource.com/blog1/2026/06/01/daily-routine-habit-tracker/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness home routine tool
+- Found: 2026-06-30
+- Description: A free visual PDF habit tracker titled 'Build My Routine Puzzle' designed for children and neurodivergent individuals to build consistency with daily home routines through an engaging puzzle format.
+
+### Habitified - Habit Tracker App
+
+- URL: https://toolfinder.co/go/habitified
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness home routine tool
+- Found: 2026-06-30
+- Description: A habit tracking tool available on multiple platforms, offering features for awareness and routine management, helping users establish consistent home habits through structured tracking.
+
+### Habitica - Gamified Habit Tracker
+
+- URL: https://toolfinder.co/go/habitica
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness home routine tool
+- Found: 2026-06-30
+- Description: A gamified habit and routine tracker that turns home habit awareness into an adventure, suitable for neurodivergent users who benefit from rewards and visual progress tracking.
+
+### Sunsama - Daily Routine Planner
+
+- URL: https://toolfinder.co/go/sunsama
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: habit awareness home routine tool
+- Found: 2026-06-30
+- Description: A daily routine planning tool that helps users organize home habits and awareness through a guided, mindful approach to scheduling and tracking daily activities.

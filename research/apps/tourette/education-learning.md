@@ -308,3 +308,113 @@
 - Query: habit awareness learning support mobile app
 - Found: 2026-06-29
 - Description: YouTube video listing top habit tracking apps like Habitify, Habitica, and Coach.me, which offer features for routine building, reminders, and progress tracking suitable for learning support.
+
+### Book Reading Habit - App Store
+
+- URL: https://apps.apple.com/us/app/book-reading-habit/id6742913266
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness reading support iOS Android
+- Found: 2026-06-30
+- Description: A habit tracker app designed to build a reading habit for iOS users, featuring timers, library organization, and private notes to support neurodivergent readers.
+
+### Bookly - iOS/Android Habit Tracker
+
+- URL: https://booklyapp.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness reading support iOS Android
+- Found: 2026-06-30
+- Description: A cross-platform reading habit tracker for iOS and Android that offers features like timers and progress tracking, with premium services for advanced habit awareness support.
+
+### FarFaria - iOS/Android Reading App
+
+- URL: https://farfaria.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness reading support iOS Android
+- Found: 2026-06-30
+- Description: A reading app for ages 1-9 on iOS and Android that reads books aloud with word highlighting, supporting neurodivergent children in developing reading habits and awareness.
+
+### Libby (by Overdrive) - iOS/Android
+
+- URL: https://libby.overdrive.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness reading support iOS Android
+- Found: 2026-06-30
+- Description: An iOS and Android app connecting to library cards for e-books and audiobooks, featuring automatic bookmarks and parental controls to moderate content for neurodivergent readers.
+
+### Streaks - iOS Habit Tracker
+
+- URL: https://streaksapp.com
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness reading support iOS Android
+- Found: 2026-06-30
+- Description: An iOS one-time download habit tracker with visual progress tracking for streaks, syncing with Apple Health, designed for accountability and habit awareness support.
+
+### Habitify - Task & Habit Tracker
+
+- URL: https://toolfinder.co/go/habitify
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness classroom tool
+- Found: 2026-06-30
+- Description: A task and habit tracker app designed to break goals into small pieces and facilitate routine building for students.
+
+### Fabulous: Daily Routine Coach
+
+- URL: https://thefabulous.co/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness classroom tool
+- Found: 2026-06-30
+- Description: A habit-building app focusing on creating morning routines and installing healthy habits with coach motivation.
+
+### Streaks Habit Tracker
+
+- URL: https://toolfinder.co/go/streaks
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness classroom tool
+- Found: 2026-06-30
+- Description: An iOS habit tracker app that encourages users to maintain streaks for specific goals, available as a one-time download.
+
+### TickTick: Task Manager & Habit Tracker
+
+- URL: https://toolfinder.co/go/ticktick
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness classroom tool
+- Found: 2026-06-30
+- Description: A task management app that includes an integrated habit tracker to monitor daily activities and goals.
+
+### Way of Life: Habit Tracker
+
+- URL: https://wayoflifeapp.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness classroom tool
+- Found: 2026-06-30
+- Description: A visual habit tracker that helps users build better habits by tracking behaviors and providing insight into patterns.
+
+### Stickk: Habit Change App
+
+- URL: https://stickk.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness classroom tool
+- Found: 2026-06-30
+- Description: A habit change app recommended for students that uses gamification and social accountability features to modify behavior.

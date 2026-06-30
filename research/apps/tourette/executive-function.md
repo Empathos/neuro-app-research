@@ -558,3 +558,63 @@
 - Query: habit awareness task initiation mobile app
 - Found: 2026-06-29
 - Description: A straightforward habit tracker that helps users monitor daily routines with visual feedback, aiding task initiation and habit awareness for neurodivergent users.
+
+### HabitShare
+
+- URL: https://www.facebook.com/HBR/posts/you-can-use-your-devices-and-apps-to-make-new-habits-stick-heres-how/10158017504027787/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness routine iOS Android
+- Found: 2026-06-30
+- Description: A free habit awareness app available on both iOS and Android that uses regular tracking to increase routine awareness, marketed as a tool for neurodivergent users to support habit formation.
+
+### Habitica
+
+- URL: https://techxplore.com/news/2025-12-smartphone-habits.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness routine iOS Android
+- Found: 2026-06-30
+- Description: A gamified habit tracker and task management platform available on iOS and Android, recognized for its large active user base and effectiveness in supporting routine awareness for neurodivergent individuals.
+
+### Lifestack: Energy-Aware AI Reminders
+
+- URL: https://www.youtube.com/watch?v=Hor7QVIo-MU
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness reminders tool
+- Found: 2026-06-30
+- Description: An all-in-one habit and reminder tool that ties reminders to user energy levels, designed for neurodivergent users with ADHD, variable schedules, or packed calendars.
+
+### Todoist: Natural-Language Habit Tracker
+
+- URL: https://jamesclear.com/habit-tracker
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness reminders tool
+- Found: 2026-06-30
+- Description: A clean, natural-language habit and task tracker that supports recurring reminders and simple goal visualization for neurodivergent users.
+
+### HabitMinder  Habit Tracker
+
+- URL: https://apps.apple.com/us/app/habitminder-habit-tracker/id1253577148
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness reminders tool
+- Found: 2026-06-30
+- Description: A mobile habit tracker with mini apps and sessions screens to help users form healthy habits and stay accountable with useful accountability tools.
+
+### Habit Tracker - Chrome Web Store Widget
+
+- URL: https://chromewebstore.google.com/detail/habit-tracker/ncokhechhpjgjonhjnlaneglmdkfkcbj
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness reminders tool
+- Found: 2026-06-30
+- Description: An online habit tracker widget for daily progress tracking, goal achievement, and habit building in a productive app interface.

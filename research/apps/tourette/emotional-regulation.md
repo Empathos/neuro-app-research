@@ -168,3 +168,63 @@
 - Query: habit awareness mood tracking mobile app
 - Found: 2026-06-29
 - Description: Compilation of top mobile apps for tracking mood, habits, food intake, and sleep, designed to improve mental health and habit awareness.
+
+### MindEase  Neurodivergent Habit Awareness Toolkit
+
+- URL: https://mindease.co/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: habit awareness self regulation iOS Android
+- Found: 2026-06-30
+- Description: Public documentation for MindEase, a neurodivergent-focused toolkit promoting habit awareness and self-regulation strategies, compatible with iOS and Android devices.
+
+### Apple HealthKit  Self-Regulation Habit Integration
+
+- URL: https://developer.apple.com/healthkit/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: habit awareness self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official Apple developer documentation for HealthKit, enabling habit awareness and self-regulation app integration for iOS developers.
+
+### SelfRegulate  Neurodivergent Habit Awareness App
+
+- URL: https://selfregulate.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: habit awareness self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official app page for SelfRegulate, a neurodivergent-focused habit awareness tool designed to enhance self-regulation on iOS and Android.
+
+### HabitFlow  Behavior Change Intervention Designs
+
+- URL: https://habitflow.io/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: habit awareness self regulation iOS Android
+- Found: 2026-06-30
+- Description: Public documentation for HabitFlow, offering behavior change intervention designs for habit formation and self-regulation, compatible with iOS and Android platforms.
+
+### Coping Skills for Adults - App Store
+
+- URL: https://apps.apple.com/us/app/coping-skills-for-adults/id6744625457
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: habit awareness coping skills tool
+- Found: 2026-06-30
+- Description: Official App Store product page for an app offering clearly named and defined coping skills for self-talk during moments of anxiety, worry, sadness, and depression, supporting habit awareness and emotional regulation.
+
+### SAMHSA Coping Skills Resources
+
+- URL: https://www.samhsa.gov/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: habit awareness coping skills tool
+- Found: 2026-06-30
+- Description: Official SAMHSA repository offering public tools, guides, and resources for developing coping skills and habit awareness, including support for neurodivergent communities and stress management.
