@@ -178,3 +178,93 @@
 - Query: focus accessibility mobile app
 - Found: 2026-06-29
 - Description: Free online tool for mobile app developers to verify color contrast ratios meet accessibility standards across devices.
+
+### Apple Accessibility - iOS VoiceOver and Tools
+
+- URL: https://www.apple.com/accessibility/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Official Apple documentation on iOS accessibility features including VoiceOver, Zoom, and AssistiveTouch for neurodivergent and disabled users.
+
+### Android Accessibility Suite - Google
+
+- URL: https://www.android.com/intl/en/accessibility/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Google's official Android accessibility resources covering TalkBack, Magnification, and Voice Access for mobile app development and user support.
+
+### Level Access Mobile Testing Suite
+
+- URL: https://www.levelaccess.com/mobile-testing/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Unified mobile accessibility testing solution for native iOS and Android apps, supporting neurodivergent user research and compliance.
+
+### AccessibilityOz Mobile Testing Services
+
+- URL: https://accessibilityoz.com/services/mobile-testing/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Professional mobile accessibility testing for iOS and Android, tailored to support neurodivergent user needs and app development.
+
+### Be My Eyes - Neurodivergent Support App
+
+- URL: https://www.bemyeyes.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Cross-platform app connecting blind and neurodivergent users with sighted volunteers via live video for real-time mobile accessibility support.
+
+### Microsoft 365 Copilot - Adaptive AI for Neurodivergent Employees
+
+- URL: https://news.microsoft.com/source/emea/features/new-research-highlights-benefits-of-microsoft-365-copilot-for-employees-with-disability-and-or-neurodivergence/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus adaptive tool
+- Found: 2026-06-30
+- Description: Official announcement highlighting how Microsoft 365 Copilot provides adaptive support to reduce cognitive load, enhance communication, and improve focus for employees with disability and/or neurodivergence.
+
+### Microsoft 365 Copilot - Official Product Page
+
+- URL: https://www.microsoft.com/en-us/microsoft-365/copilot
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus adaptive tool
+- Found: 2026-06-30
+- Description: Official product documentation for Microsoft 365 Copilot, an AI tool that offers real-time adaptive assistance for complex tasks like summarizing meetings and transcribing actions, designed to support accessibility and neurodiversity.
+
+### FEDIS+R Framework for Adaptive Online Learning
+
+- URL: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1437673/full
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus adaptive tool
+- Found: 2026-06-30
+- Description: Official Frontiers article presenting the FEDIS+R framework, a structured approach to design adaptive online learning environments that minimize cognitive load for neurodivergent students.
+
+### Adaptive Sensory Technologies for Neurodivergent Children
+
+- URL: https://www.centreformentalhealth.org.uk/wp-content/uploads/2026/03/CentreforMH_StrengthsBasedSupportForNeurodivergentChildrenAndYoungPeople.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus adaptive tool
+- Found: 2026-06-30
+- Description: Official report recommending adaptive sensory technologies (VR, 3D sound) and play-based approaches as reasonable adjustments to support neurodivergent children's mental health and sensory needs.

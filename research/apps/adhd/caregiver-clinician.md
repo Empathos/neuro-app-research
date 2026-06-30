@@ -278,3 +278,123 @@
 - Query: focus clinician tool mobile app
 - Found: 2026-06-29
 - Description: Feature article highlighting Dror Ben-Zeev's FOCUS app, a neurodivergence-support tool for schizophrenia, with clinician engagement and real-time symptom tracking.
+
+### Mind Shift App
+
+- URL: https://calmharm.co.uk/mindshift
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus therapy support iOS Android
+- Found: 2026-06-30
+- Description: Free iOS and Android CBT-based tool for teens and young adults to reduce anxiety, stress, and panic using focus strategies and fear ladders.
+
+### What's Up App
+
+- URL: https://www.anxietycanada.com/whats-up-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus therapy support iOS Android
+- Found: 2026-06-30
+- Description: Free iOS and Android tool combining CBT and ACT methods to help users cope with depression, anxiety, and stress through structured focus exercises.
+
+### Endel App
+
+- URL: https://endel.io
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus therapy support iOS Android
+- Found: 2026-06-30
+- Description: Science-backed iOS and Android sound environment app that generates personalized focus flows to support neurodivergent concentration and reduce mental load.
+
+### nOCD App
+
+- URL: https://www.nocdhealth.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus therapy support iOS Android
+- Found: 2026-06-30
+- Description: Free iOS and Android app for OCD support featuring mindfulness and Exposure Response Prevention (ERP) tools to manage intrusive thoughts and improve focus.
+
+### Focustv (Focus Therapy for Neuro Vision)
+
+- URL: https://connecttmapp.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus therapy support iOS Android
+- Found: 2026-06-30
+- Description: Android-app-based neuro vision therapy tool using Steady Hands, Labyrinth, and Drive Focus exercises to improve reading, focus, and confidence.
+
+### BCPS Connect - Focus Parent Support Tool (Google Play)
+
+- URL: https://play.google.com/store/apps/details?id=com.focusschoolsoftware.community.browardk12
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus parent support tool
+- Found: 2026-06-30
+- Description: Official mobile app for Broward County Public Schools allowing parents to access enrollment status, schedules, attendance, grades, and assignments via the Focus Student Information System.
+
+### Focus Help for Parents and Families - Broward County Public Schools
+
+- URL: https://www.browardschools.com/bcps-departments/information-systems/focus-student-information-system/focus-help-for-parents-and-families
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus parent support tool
+- Found: 2026-06-30
+- Description: Official documentation and support portal for parents using the Focus system, including the Parent Portal Registration, Mobile App guides, and Parent Handbook.
+
+### BPS Focus - App Store (Brevard Public Schools)
+
+- URL: https://apps.apple.com/us/app/bps-focus/id1441578839
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus parent support tool
+- Found: 2026-06-30
+- Description: Official Focus app for Brevard Public Schools parents to stay connected with real-time notifications on grades, attendance, and upcoming assignments.
+
+### FOCUS Student Information System - Okaloosa County School District
+
+- URL: https://www.okaloosaschools.com/page/focus
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus parent support tool
+- Found: 2026-06-30
+- Description: District overview of the Focus SIS providing parents real-time access to grades, attendance, discipline, and school communication, along with equity coordinator contact details.
+
+### Focus App For Parents - Calhoun County School District
+
+- URL: https://calhounflschools.org/focus-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus parent support tool
+- Found: 2026-06-30
+- Description: Calhoun County School District's resource page for downloading the Focus Parent App on both Google Play Store and Apple App Store.
+
+### How to Upload the BPSD Focus Parent Portal App - Bethel Park SD
+
+- URL: https://www.bpsd.org/apps/news/article/2096652
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus parent support tool
+- Found: 2026-06-30
+- Description: Bethel Park School District's guide on accessing the mobile version of the Parent Portal to view schedules, grades, and other educational information.
+
+### Focus Mobile App - Fort Zumwalt School District (Facebook)
+
+- URL: https://www.facebook.com/groups/248826365943754/posts/1691345935025116/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus parent support tool
+- Found: 2026-06-30
+- Description: Community discussion confirming the availability of the FOCUS Mobile App in the App Store for viewing grades, attendance, and test scores for Fort Zumwalt students.

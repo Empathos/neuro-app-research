@@ -398,3 +398,83 @@
 - Query: focus mood tracking mobile app
 - Found: 2026-06-29
 - Description: Guidance on selecting optimal mood tracker apps based on features, customization, data sharing, and user preferences for monitoring mood shifts and symptoms.
+
+### Focus Friend, by Hank Green
+
+- URL: https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus self regulation iOS Android
+- Found: 2026-06-30
+- Description: A cozy focus timer for iOS where a Bean Friend focuses alongside you; rewards completed work with prizes to buy virtual items, supporting self-regulation through gentle motivation.
+
+### Building Your Coping Toolbox - Mental Health America
+
+- URL: https://mhanational.org/resources/building-your-coping-toolbox/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-06-30
+- Description: Official guide from Mental Health America explaining how to create a personalized coping toolbox with skills, techniques, and items for managing anxiety and distress, including breathing exercises, grounding techniques, and social support strategies.
+
+### The Coping Skills Toolbox Toolkit - e-wellbeing
+
+- URL: https://e-wellbeing.co.uk/wp-content/uploads/2022/09/Coping-Skills-Toolkit-5.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-06-30
+- Description: A downloadable toolkit that breaks stress into three key stages: preparation, coping, and review. It focuses on replacing negative statements with positive ones and offers practical coping strategies for neurodivergent individuals.
+
+### Healthy Coping Skills for Uncomfortable Emotions - Verywell Mind
+
+- URL: https://www.verywellmind.com/forty-healthy-coping-skills-4586742
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-06-30
+- Description: Verywell Mind's article outlining five main types of coping skillsproblem-focused, emotion-focused, religious, meaning-making, and social supportwith practical examples like mindfulness, exercise, and journaling for emotional regulation.
+
+### Coping Skills Toolbox Mobile Video - Youth and Family Project
+
+- URL: https://www.facebook.com/youthandfamilyproject/videos/coping-skills-toolbox-mobile-videomp4/1514891277023114/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-06-30
+- Description: A short video from the Youth and Family Project demonstrating how to build a concrete coping skills toolbox using simple tools like fidgets and sensory items to support neuroregulation.
+
+### How to Build a Coping Skills Tool Box - YouTube
+
+- URL: https://www.youtube.com/watch?v=Icu93_5u9xs
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-06-30
+- Description: YouTube tutorial by Kim Sundal explaining step-by-step strategies to build a personalized coping skills tool box, covering problem-focused and emotion-focused techniques, grounding, and cognitive reframing.
+
+### Coping Tools - MCCHS
+
+- URL: https://mcchs.org/may-is-mental-health-month/mental-health-month/coping-tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-06-30
+- Description: MCCHS resource defining a coping toolbox as a collection of skills, techniques, and items to use during anxiety or distress, emphasizing immediate access to personalized regulation tools.
+
+### User Manual for Coping Strategies Inventory Short Form (CSI-SF) - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11050153/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-06-30
+- Description: Research-backed user manual for the CSI-SF assessment tool, providing investigators with structured methods to evaluate coping behaviors including problem-focused and emotion-focused strategies relevant to neurodivergent populations.

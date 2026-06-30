@@ -428,3 +428,74 @@
 - Query: focus AAC mobile app
 - Found: 2026-06-29
 - Description: A comprehensive review of top AAC mobile apps, including considerations for motor plan-based designs and customization for neurodivergent users.
+
+### Set up a Focus on iPhone - Apple Support
+
+- URL: https://support.apple.com/guide/iphone/set-up-a-focus-iphd6288a67f/ios
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus speech support iOS Android
+- Found: 2026-06-30
+- Description: Official Apple documentation for configuring Focus Mode on iOS, including settings to silence notifications, customize lock screens, and manage focus filters for neurodivergent support and speech concentration.
+
+### Digital Wellbeing & Parental Controls - Android Focus Mode
+
+- URL: https://support.google.com/android-help/topic/7783467922911591
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus speech support iOS Android
+- Found: 2026-06-30
+- Description: Google's official guide to Android's Focus Mode found in Digital Wellbeing, allowing users to block distracting apps and notifications to support neurodivergent users and improve focus during speech therapy or communication.
+
+### Proloquo2Go - AAC Speech Support
+
+- URL: https://www.assistiveware.com/proloquo2go
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus speech support iOS Android
+- Found: 2026-06-30
+- Description: A leading iOS app for Augmentative and Alternative Communication (AAC), designed to support neurodivergent individuals with speech delays or difficulties through visual language and voice output.
+
+### Speeko: AI for Public Speaking
+
+- URL: https://apps.apple.com/us/app/speeko-ai-for-public-speaking/id1071468459
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus conversation support tool
+- Found: 2026-06-30
+- Description: An AI-powered public speaking app that provides real-time feedback on pace, tone, and fillers to help users improve their communication skills, particularly beneficial for neurodivergent individuals seeking structured speech support.
+
+### Better Evaluation: The Art of Focused Conversation
+
+- URL: https://www.betterevaluation.org/tools-resources/art-focused-conversation-0
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus conversation support tool
+- Found: 2026-06-30
+- Description: A documentation guide explaining the focused conversation method through four levels led by a facilitator, offering a structured approach to conversations that can support neurodivergent individuals in expressing thoughts clearly.
+
+### Real-Time Focus Tools for Neurodivergent Minds
+
+- URL: https://theconversation.com/focus-apps-are-failing-neurodivergent-minds-new-research-finds-282330
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus conversation support tool
+- Found: 2026-06-30
+- Description: An article discussing innovative strategies for focus apps tailored to neurodivergent minds, including curated digital stimming and task-based guidelines instead of timers, to support personalized growth and reduce distractions.
+
+### PLG OS: In-App Support Tools & Practices
+
+- URL: https://www.plgos.com/blogs/5-best-in-app-support-tools-practices-for-success
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: focus conversation support tool
+- Found: 2026-06-30
+- Description: A guide on in-app support tools and practices, emphasizing tools like Intercom that pioneered chat bubble interfaces, offering accessible conversational support for neurodivergent users.
+
