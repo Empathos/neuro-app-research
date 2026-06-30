@@ -128,3 +128,73 @@
 - Query: overload accessibility mobile app
 - Found: 2026-06-29
 - Description: SwiftKey and Gboard are mobile keyboards with swipe typing and word prediction, designed to assist users with motor impairments and sensory overload by simplifying input and reducing cognitive effort during typing.
+
+### Exploring Accessibility Trends and Challenges in Mobile App ... - arXiv
+
+- URL: https://arxiv.org/html/2409.07945v2
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: This study presents a large-scale empirical analysis of accessibility discussions on Stack Overflow to identify the trends and challenges Android and iOS ...
+
+### Accessibility Stats - Appt.org
+
+- URL: https://appt.org/en/stats
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Results from research amongst millions of iOS and Android users that looked at which accessibility features are actually turned on.
+
+### Digital mobile accessibility: iOS & Android 2025 - SQLI
+
+- URL: https://www.sqli.com/int-en/insights/accessibilite-numerique-mobile-nouveaux-design-systems-ios-android
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: iOS and Android are redefining their design systems: what impact will this have on accessibility and the mobile user experience?
+
+### 5 Smartphone Usage Statistics and the Growing Importance of ...
+
+- URL: https://www.boia.org/blog/5-smartphone-usage-statistics-and-the-growing-importance-of-mobile-accessibility
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Plan to skip mobile accessibility testing? Consider these five smartphone stats showing how important it is, brought to you by the Bureau of ...
+
+### Calming Fidgets & Sensory Tools (Stimming Adaptive Kit)
+
+- URL: https://reaact.pitt.edu/ProTips_Overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload adaptive tool
+- Found: 2026-06-30
+- Description: A public resource guide listing adaptive sensory and fidget tools (e.g., flippy chains, weighted blankets) designed to help neurodivergent individuals self-regulate and reduce overload risks.
+
+### Pomodoro Timer: Adaptive Focus Tool for Overload Control
+
+- URL: https://pomodoroapp.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload adaptive tool
+- Found: 2026-06-30
+- Description: A free time management tool that uses the Pomodoro Technique to help users manage cognitive overload through structured work intervals, reducing mental fatigue and enhancing focus.
+
+### Asana: Project Management Adaptive Tool for Overload
+
+- URL: https://asana.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: overload adaptive tool
+- Found: 2026-06-30
+- Description: A collaborative project management platform that serves as an adaptive tool to simplify complex workflows, assign roles clearly, and visualize progress to mitigate overload in research-heavy programs.

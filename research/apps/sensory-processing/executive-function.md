@@ -328,3 +328,53 @@
 - Query: overload task initiation mobile app
 - Found: 2026-06-29
 - Description: Research on digital multitasking and hyperactivity, revealing how multitasking can overload working memory and impair cognitive abilities, with implications for task initiation support.
+
+### AutismPro - App Store (iOS)
+
+- URL: https://apps.apple.com/us/app/autismpro/id6757854048
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload routine iOS Android
+- Found: 2026-06-30
+- Description: Official iOS app featuring 'Overload Mode' for a calmer screen with fewer choices, designed to help users manage sensory overload with guided breaks and routine support.
+
+### Focus Bear - Google Play (Android)
+
+- URL: https://play.google.com/store/apps/details?id=com.focusbear
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload routine iOS Android
+- Found: 2026-06-30
+- Description: Official Android app page for Focus Bear, an all-in-one tool for structure, automated routines, and mindfulness breaks to assist with sensory management and task initiation.
+
+### Akiflow - Task Management & Time Blocking for Neurodivergent Individuals
+
+- URL: https://www.akiflow.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload reminders tool
+- Found: 2026-06-30
+- Description: Akiflow is an all-in-one productivity tool featuring reminders, time-blocking, and structured workflows specifically designed to help neurodivergent users reduce overload and maintain focus.
+
+### Frequently - Smart Reminder & To-Do Tool for Focus
+
+- URL: https://www.frequently.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload reminders tool
+- Found: 2026-06-30
+- Description: Frequently is a task management tool offering intelligent reminders, body doubling features, and progress feedback to create small wins and build motivation for neurodivergent users.
+
+### Bit - Reminder & To-Do Tool for Focus and Structure
+
+- URL: https://www.bit.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload reminders tool
+- Found: 2026-06-30
+- Description: Bit offers a reminder system with smart categorization, timer integration, and progress feedback to help users maintain focus, structure, and reduce mental clutter.
