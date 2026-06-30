@@ -258,3 +258,123 @@
 - Query: AAC mood tracking mobile app
 - Found: 2026-06-29
 - Description: Specialized mood tracker for individuals working with therapists or psychiatrists, offering deep data logging for bipolar disorder and mental health monitoring.
+
+### nanoGOAT AAC - Self-Monitoring & Emotion Regulation App
+
+- URL: https://www.assistiveware.com/blog/taking-the-pulse-of-augmentative-and-alternative-communication-on-ios
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC self regulation iOS Android
+- Found: 2026-06-30
+- Description: A free AAC app running on iOS, Android, and Amazon Fire Tablets designed for self-monitoring charts, behavior tracking, and emotion regulation for neurodivergent users.
+
+### I, Robot? Exploring Ultra-Personalized AI-Powered AAC
+
+- URL: https://dl.acm.org/doi/10.1145/3772318.3790310
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC self regulation iOS Android
+- Found: 2026-06-30
+- Description: Research on ultra-personalized AI AAC tools that renegotiate agency and identity, offering self-regulation support across iOS and Android platforms for neurodivergent individuals.
+
+### Growing up with AAC in the Digital Age: Self-Regulation Profile
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8281386/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC self regulation iOS Android
+- Found: 2026-06-30
+- Description: Longitudinal study on adolescents using AAC for self-regulation in the digital age, highlighting iOS/Android tools and their impact on neurodivergent development.
+
+### AAC Device Review: High-Tech Self-Reg Tools for iOS/Android
+
+- URL: https://www.instagram.com/reel/DVKrrdbCJ71/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC self regulation iOS Android
+- Found: 2026-06-30
+- Description: Video review of AAC devices including self-regulation apps that run on iOS, Android, and Amazon Fire Tablets, tailored for neurodivergent emotion management.
+
+### AAC Self-Regulation Apps: Community Recommendations
+
+- URL: https://www.instagram.com/p/DZ3zkH0zGdt/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC self regulation iOS Android
+- Found: 2026-06-30
+- Description: Community post featuring AAC apps designed for self-regulation and emotion regulation, fully compatible with iOS and Android, and free to download for neurodivergent users.
+
+### Assistive Technology Group: AAC System Updates for Self-Reg
+
+- URL: https://www.facebook.com/groups/assistive.technology.group/posts/5370562619665492/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC self regulation iOS Android
+- Found: 2026-06-30
+- Description: Forum discussion on changing AAC systems for better self-regulation support, with recommendations for iOS/Android apps and tools designed for neurodivergent individuals.
+
+### Coping Skills for Adults - App Store
+
+- URL: https://apps.apple.com/us/app/coping-skills-for-adults/id6744625457
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC coping skills tool
+- Found: 2026-06-30
+- Description: Official Apple App Store page for an app offering clearly named and defined coping skills designed to support self-talk during moments of anxiety, worry, sadness, depression, and low self-esteem, relevant for neurodivergent individuals using AAC.
+
+### Coping Skills Apps | copingskillsapp.com
+
+- URL: https://copingskillsapp.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC coping skills tool
+- Found: 2026-06-30
+- Description: Public website for the Coping Skills App, which provides named and defined coping strategies to help users deliberately apply them during difficult emotional states, serving as a tool for neurodivergent self-regulation.
+
+### General Coping Applications - University of Toledo
+
+- URL: https://www.utoledo.edu/studentaffairs/counseling/selfhelp/generalapps.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC coping skills tool
+- Found: 2026-06-30
+- Description: University documentation page listing smartphone applications like SAM (Self-help for Anxiety) that support mental well-being and teach general coping skills based on Cognitive Behavior Therapy (CBT), useful for neurodivergent coping strategies.
+
+### What apps help practice anxiety coping techniques? - Facebook
+
+- URL: https://www.facebook.com/groups/176402529958818/posts/1502871580645233/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC coping skills tool
+- Found: 2026-06-30
+- Description: Public community discussion highlighting programs like Tapouts, Mightier, and tools from Anxiety & Depression organizations, offering leads on coping techniques applicable to neurodivergent and AAC users.
+
+### App Library - NYC 988
+
+- URL: https://nyc988.cityofnewyork.us/en/app-library/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC coping skills tool
+- Found: 2026-06-30
+- Description: Official NYC 988 App Library featuring apps with daily tools for stress, anxiety, and depression based on CBT and mindfulness, providing a repository of mental health tools for neurodivergent support.
+
+### AAC Apps and Resources - The AAC Coach
+
+- URL: https://www.theaaccoach.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: AAC coping skills tool
+- Found: 2026-06-30
+- Description: Public resource page by an AAC specialist offering free resources, tools, and strategies for implementing AAC, including potential links to apps that support coping skills for neurodivergent learners.

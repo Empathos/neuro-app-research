@@ -398,3 +398,83 @@
 - Query: AAC overload mobile app
 - Found: 2026-06-29
 - Description: Tips and strategies for AAC apps that prevent cognitive overload with customizable interface options for mobile phone communication.
+
+### Visual Voice (Fonseca AAC)
+
+- URL: https://apps.apple.com/us/app/visualvoice/id6749776764
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC calming iOS Android
+- Found: 2026-06-30
+- Description: Free iOS and Android AAC app with simple, calming visual voice tools for non-verbal communication and sensory support.
+
+### APA-Technology-Division/urban-and-regional-planning-resources
+
+- URL: https://github.com/APA-Technology-Division/urban-and-regional-planning-resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC environment planning tool
+- Found: 2026-06-30
+- Description: This repository contains a curated list of different urban & regional planning data & technology resources. Those interested in the built environment are ...
+
+### Data and Mapping Resource Library | National Recreation and Park ...
+
+- URL: https://www.nrpa.org/publications-research/data-and-mapping-resource-library/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC environment planning tool
+- Found: 2026-06-30
+- Description: The Data and Mapping Resource Library offers a collection of relevant, publicly available databases and visualizations curated for park and recreation ...
+
+### Alternative Data Sources: Environment and Climate
+
+- URL: https://libguides.usc.edu/c.php?g=1457500&p=10836948
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC environment planning tool
+- Found: 2026-06-30
+- Description: The tool has an interactive map and uses datasets that are indicators of burdens in eight categories: climate change, energy, health, ...
+
+### [PDF] public involvement plan and community engagement ... - Mass.gov
+
+- URL: https://www.mass.gov/doc/2024-eea-and-dpu-draft-public-involvement-plan-english/download
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC environment planning tool
+- Found: 2026-06-30
+- Description: This tool is an excellent resource for supporting (i) educational programs; (ii) grant writing; (iii) community awareness efforts and (iv) other purposes (i.e., ...
+
+### [PDF] Iowa Comprehensive AAC Planning and Implementation
+
+- URL: https://idahotc.com/Portals/0/Resources/611/IOWA%20Planning%20Tool.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC environment planning tool
+- Found: 2026-06-30
+- Description: It also allows teams to identify ways to support AAC team members and environments. Communication Matrix. Charity Rowland (2009). Retrieved from: www.
+
+### Augmentative and Alternative Communication (AAC) Advances - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6515262/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC environment planning tool
+- Found: 2026-06-30
+- Description: This review presents a range of signal sensing and acquisition methods utilized in conjunction with the existing high-tech AAC platforms for individuals with a ...
+
+### Augmentative and Alternative Communication (AAC)
+
+- URL: https://dpi.wi.gov/sped/augmentative-and-alternative-communication-aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: AAC environment planning tool
+- Found: 2026-06-30
+- Description: The goal of this process is to determine what AAC tools will optimize communication for the student across all environments. Data collection and device ...

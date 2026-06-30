@@ -438,3 +438,83 @@
 - Query: AAC task initiation mobile app
 - Found: 2026-06-29
 - Description: A low-cost AAC app for Android and iOS designed by educators to support task initiation and communication in children with autism through customizable word banks.
+
+### ChatterBoards Lite - Free Placeholder AAC App for iOS and Android
+
+- URL: https://disabilities.temple.edu/assistive-technology/pa-tech-accelerator/tech-accelerator-webinar-archive/aac-apps-deep-dive-demo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC routine iOS Android
+- Found: 2026-06-30
+- Description: A free lite version of ChatterBoards available for iOS and Android, serving as a routine-based AAC placeholder for neurodivergent users and supporting daily communication.
+
+### AAC Reminder, AAC is My Voice, Classroom Reminder
+
+- URL: https://www.etsy.com/listing/1519443677/aac-reminder-aac-is-my-voice-classroom
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC reminders tool
+- Found: 2026-06-30
+- Description: Digital classroom reminder sign for special education and speech pathology, featuring the phrase 'AAC is my voice' to encourage daily device use and communication awareness.
+
+### Device Reminder Signs for AAC Users
+
+- URL: https://www.missluluspecialed.com/product-page/device-reminder-signs-for-aac-users
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC reminders tool
+- Found: 2026-06-30
+- Description: Digital download of reminder signs to hang on doors or around classrooms, prompting AAC users to keep their devices with them at all times for continuous communication access.
+
+### Aac Reminder - TPT
+
+- URL: https://www.teacherspayteachers.com/browse?search=aac+reminder
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC reminders tool
+- Found: 2026-06-30
+- Description: Visual reminder tool for parents and caregivers to charge the AAC user's device and send it to school daily, ensuring the device is ready for classroom use.
+
+### AAC Tips for the Classroom
+
+- URL: https://www.forbesaac.com/post/aac-tips-for-the-classroom
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC reminders tool
+- Found: 2026-06-30
+- Description: Blog post outlining implementation tips including keeping devices accessible, using visual schedules, and creating reminders for peers and staff to support AAC modeling and usage.
+
+### AAC Tips for the Classroom
+
+- URL: https://www.teacherspayteachers.com/browse?search=aac+tips+classroom
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC reminders tool
+- Found: 2026-06-30
+- Description: Collection of teacher resources focusing on AAC classroom strategies, including visual reminders, device accessibility tools, and peer modeling guides for neurodivergent students.
+
+### What Is an AAC Device?
+
+- URL: https://www.oarc.ca/resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC reminders tool
+- Found: 2026-06-30
+- Description: Open Access Resource Centre page defining AAC devices and offering guidance on maintaining communication tools, including reminders for device care and daily usage routines.
+
+### AAC Tips for the Classroom
+
+- URL: https://www.teacherspayteachers.com/browse?search=aac+tips+classroom+reminder
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: AAC reminders tool
+- Found: 2026-06-30
+- Description: Search results for AAC classroom reminder tools, featuring visual aids and checklists to help educators and caregivers ensure consistent AAC device availability and usage.

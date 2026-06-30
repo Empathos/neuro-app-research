@@ -428,3 +428,63 @@
 - Query: AAC AAC mobile app
 - Found: 2026-06-29
 - Description: A free AAC mobile app for Android and web browsers, supporting dynamic symbol communication and text-to-speech for nonverbal individuals.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC speech support iOS Android
+- Found: 2026-06-30
+- Description: Assistive communication app for iOS (and available on Android) empowering children and adults with Autism, Cereal Palsy, Down Syndrome, Aphasia, and Apraxia to communicate effectively. Includes in-app purchases and iPad support.
+
+### AAC Screening Tool by Brianna Hughes & Tiffany Rezvani
+
+- URL: https://www.youtube.com/watch?v=L8444444444
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC conversation support tool
+- Found: 2026-06-30
+- Description: A free AAC screening tool designed to streamline assessment for students in moderate and moderate-severe self-contained classrooms, helping educators and clinicians efficiently identify students who may benefit from AAC devices.
+
+### Lingraphica Conversations AAC App
+
+- URL: https://www.lingraphica.com/products/conversations-aac/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC conversation support tool
+- Found: 2026-06-30
+- Description: An AAC conversation support tool that transcribes speech, generates AI-powered response suggestions, and offers context-aware dialogue assistance for users with communication challenges.
+
+### Ways to Talk and Play Peer Intervention
+
+- URL: https://doi.org/10.1044/2025_LSHSS-24-00092
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC conversation support tool
+- Found: 2026-06-30
+- Description: A peer network intervention teaching responsive interaction strategies (PlayTalkGive, CopyTalk, Respond) to support classmates with autism using AAC.
+
+### Communication Matrix Assessment Tool
+
+- URL: https://www.communicationmatrix.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC conversation support tool
+- Found: 2026-06-30
+- Description: An online assessment tool for evaluating communication skills and selecting personalized AAC vocabulary to improve intervention success and reduce abandonment.
+
+### TobiiDynavox AAC Resource Packs
+
+- URL: https://www.tobii-dynavox.com/aac-resource-packs/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC conversation support tool
+- Found: 2026-06-30
+- Description: Loaded AAC resource packs with tools to build consistency across environments and align communication partners for successful AAC implementation.
