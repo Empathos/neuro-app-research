@@ -168,3 +168,33 @@
 - Query: task initiation independence mobile app
 - Found: 2026-06-29
 - Description: Official product page for Goally, a mobile app that uses interactive games and rewards to motivate children with ADHD/Autism to initiate tasks independently.
+
+### Visual Timer with Alarm (by Timer Labs)
+
+- URL: https://timerlabs.com/visual-timer-with-alarm/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: task initiation life skills iOS Android
+- Found: 2026-06-30
+- Description: iOS and Android app providing visual timers, warning lights, and auditory cues to scaffold task initiation. Official documentation and app-store links support neurodivergent users by making time passage visible and reducing overwhelm.
+
+### Mind Mapping for Task Initiation (by MindMeister)
+
+- URL: https://www.meisterlabs.com/mindmeister
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: task initiation life skills iOS Android
+- Found: 2026-06-30
+- Description: iOS/Android mind-mapping app that helps users externalize thoughts, break down tasks, and visualize steps for life skills initiation. Official product page and app-store documentation support neurodivergent planning and task start.
+
+### Pomodoro Timer App (Pomodoro)
+
+- URL: https://www.pomodoro.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: task initiation home routine tool
+- Found: 2026-06-30
+- Description: Time management tool using the Pomodoro technique (25-minute work intervals with 5-minute breaks), helping users break tasks into manageable chunks and initiate work through structured routines.

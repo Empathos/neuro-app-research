@@ -298,3 +298,63 @@
 - Query: task initiation mood tracking mobile app
 - Found: 2026-06-29
 - Description: HabitBox Blog comparing top mood tracker apps like Daylio, Bearable, and How We Feel, emphasizing quick 10-second check-in flows essential for task initiation and consistent tracking.
+
+### Forest - Stay Focused, Be Present
+
+- URL: https://qrforest.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official website for Forest, a gamified focus app that uses timer-based task initiation and visual rewards to sustain attention. Available on iOS and Android, helping users reduce distractions and regulate focus through planting virtual trees.
+
+### Routinery - Routine Builder for Task Initiation
+
+- URL: https://routinery.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official app page for Routinery, a routine builder that guides users through step-by-step tasks with timers and audio prompts to improve task initiation. Available on iOS and Android, designed for neurodivergent individuals struggling with time blindness.
+
+### Finch - Self-Care Pet App
+
+- URL: https://finchcare.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official website for Finch, a self-care app with a virtual pet that supports emotional regulation and habit building. Available on iOS and Android, using gentle check-ins and rewards to encourage task initiation without pressure.
+
+### Endel - Focus & Relaxation Soundscapes
+
+- URL: https://endel.io/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official website for Endel, a science-backed app generating personalized soundscapes for focus and self-regulation. Available on iOS and Android, designed to support task initiation and reduce overwhelm through adaptive audio.
+
+### MagnusCards - Life Skills & Task Guidance
+
+- URL: https://magnuscards.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official app page for MagnusCards, a life-skills app using step-by-step digital card decks to guide users through daily tasks and community navigation. Available on iOS and Android, supporting task initiation and self-regulation for neurodivergent individuals.
+
+### Inflow - Task Initiation Strategies for Adults
+
+- URL: https://www.inflowhealth.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation coping skills tool
+- Found: 2026-06-30
+- Description: Official documentation and resource hub from Inflow offering evidence-based tactics like implementation intentions and environmental design to support task initiation in neurodivergent adults.

@@ -188,3 +188,63 @@
 - Query: task initiation accessibility mobile app
 - Found: 2026-06-29
 - Description: W3C official guidance on applying WCAG 2.2 to mobile applications, including best practices for designing interfaces that support task initiation accessibility for users with neurodivergence.
+
+### Morphic
+
+- URL: https://morphic.ai
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: An accessibility toolbar app (iOS/Android) that puts built-in features like text-to-speech, magnification, and contrast adjustment at your fingertips to simplify navigation and reduce cognitive load for task initiation.
+
+### Android Accessibility Suite
+
+- URL: https://support.google.com/android/85630
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Google's official guide to the Android Accessibility Suite, covering features like TalkBack, Select to Speak, and Accessibility Menu to help users initiate and complete tasks on mobile devices.
+
+### Task Management Apps for Neurodivergent People
+
+- URL: https://techandpeople.github.io/downloads/2024_chi_mobile.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Research paper exploring mobile device accessibility challenges and insights, including app recommendations for task initiation and management tailored for neurodivergent users on iOS and Android.
+
+### Tiimo - Task Initiation Tactics Resource
+
+- URL: https://tiimoapp.com/resource-hub/task-initiation-adhd
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation adaptive tool
+- Found: 2026-06-30
+- Description: Official documentation and resource hub from Tiimo offering adaptive strategies, digital tool recommendations, and body-doubling techniques specifically for overcoming task paralysis and initiation issues.
+
+### Tiimo - Resource Hub: Task Initiation
+
+- URL: https://tiimoapp.com/resource-hub
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation adaptive tool
+- Found: 2026-06-30
+- Description: Comprehensive Tiimo resource hub containing adaptive tools, task initiation tactics, body doubling guides, and digital support strategies for neurodivergent adults.
+
+### Tiimo - Documentation
+
+- URL: https://tiimoapp.com/help
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: task initiation adaptive tool
+- Found: 2026-06-30
+- Description: Official Tiimo help and documentation center with setup guides for adaptive visual schedules, task initiation workflows, and customization options for neurodivergent users.

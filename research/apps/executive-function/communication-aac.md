@@ -437,3 +437,53 @@
 - Query: task initiation AAC mobile app
 - Found: 2026-06-29
 - Description: A mobile AAC app tailored for nonverbal children with autism, designed to support task initiation with simple word selection and auditory feedback.
+
+### Hiki - Social & Dating App for Neurodivergent Community
+
+- URL: https://hiki.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation speech support iOS Android
+- Found: 2026-06-30
+- Description: Hiki is a friendship and dating app for the Autism, ADHD, and neurodivergent community on iOS and Android. It includes features to support task initiation and social engagement through notifications, reminders, and community-based challenges tailored for neurodivergent users.
+
+### Youper - AI Chatbot for Mental Health on iOS and Android
+
+- URL: https://youper.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation speech support iOS Android
+- Found: 2026-06-30
+- Description: Youper is an AI-powered chatbot app for iOS and Android that provides personalized mental health support using cognitive behavioral therapy (CBT). It helps neurodivergent users initiate tasks related to emotional regulation and self-care with interactive, adaptive counseling.
+
+### GET IN FLOW - Task Initiation App for Neurodivergent Adults
+
+- URL: https://www.getinflow.io/post/task-initiation-strategies-for-adults
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation conversation support tool
+- Found: 2026-06-30
+- Description: Official documentation for the GET IN FLOW app, featuring specific strategies for task initiation, micro-commitments, and accountability systems designed for adults with ADHD and neurodivergence.
+
+### Carrie Bonnett - Task Initiation Toolkit
+
+- URL: https://www.carriebonnett.com/toolkit
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation conversation support tool
+- Found: 2026-06-30
+- Description: A free, one-page executive function guide and repository offering brain-friendly strategies and conversation frames to help students take the first step on tasks, specifically for neurodivergent learners.
+
+### The OT Toolbox - Task Initiation Toolkit for Educators
+
+- URL: https://jennyponzuric.com/updated-2025-supporting-students-with-task-initiation-strategies-for-educators
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation conversation support tool
+- Found: 2026-06-30
+- Description: Updated 2025 educator resource providing visual and verbal supports, behavior contracts, and conversation frameworks specifically designed to support task initiation in neurodivergent students.
