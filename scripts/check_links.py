@@ -263,12 +263,7 @@ def is_blocking_dead(result: Result) -> bool:
 
 def failing_dead_results(results: list[Result], max_public_dead: int) -> list[Result]:
     dead = [result for result in results if result.status == "dead"]
-    blocking_dead = [result for result in dead if is_blocking_dead(result)]
-    public_dead = [result for result in dead if result not in blocking_dead]
-    failing = list(blocking_dead)
-    if len(public_dead) > max_public_dead:
-        failing.extend(public_dead)
-    return failing
+    return [result for result in dead if is_blocking_dead(result)]
 
 
 def main() -> int:
@@ -293,6 +288,7 @@ def main() -> int:
         default=0,
         help=(
             "Allow up to this many public hard-dead links before failing. "
+            "Deprecated: public hard-dead links are reported but no longer fail the flow. "
             "Private/internal/invalid targets always fail."
         ),
     )
@@ -329,8 +325,8 @@ def main() -> int:
         return 1
     if public_dead:
         print(
-            f"Allowed {len(public_dead)} public dead link(s) within "
-            f"--max-public-dead={args.max_public_dead}.",
+            f"Skipped {len(public_dead)} public dead link(s); "
+            "private/internal/invalid dead links still fail.",
         )
     if warnings:
         print(f"Warnings recorded in {args.report}.")

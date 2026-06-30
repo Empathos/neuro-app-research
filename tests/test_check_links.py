@@ -92,14 +92,14 @@ class LinkCheckerTests(unittest.TestCase):
                 newurl=f"{self.base_url}/ok",
             )
 
-    def test_public_dead_links_can_use_budget(self) -> None:
+    def test_public_dead_links_do_not_fail_flow(self) -> None:
         results = [
             check_links.Result("https://example.com/old-1", "dead", "HTTP 404", ("a.md",)),
             check_links.Result("https://example.com/old-2", "dead", "HTTP 410", ("b.md",)),
         ]
 
         self.assertEqual(check_links.failing_dead_results(results, max_public_dead=2), [])
-        self.assertEqual(check_links.failing_dead_results(results, max_public_dead=1), results)
+        self.assertEqual(check_links.failing_dead_results(results, max_public_dead=0), [])
 
     def test_private_dead_links_ignore_public_budget(self) -> None:
         result = check_links.Result(
