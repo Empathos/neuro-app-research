@@ -118,3 +118,83 @@
 - Query: coordination caregiver app
 - Found: 2026-06-29
 - Description: Carely creates a personal social network for people sharing caregiving responsibilities, featuring calendars for appointments, local resource tracking, and communication tools.
+
+### GuidingCare Mobile Clinician
+
+- URL: https://healthedge.com/resources/data-sheets/guidingcare-mobile-clinician
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination clinician tool mobile app
+- Found: 2026-06-30
+- Description: A secure, mobile-first clinician tool for care management functions on Windows and iOS devices, offering online and offline access with full encryption and seamless integration with GuidingCare modules.
+
+### Cortex - Care Coordination
+
+- URL: https://apps.apple.com/ie/app/cortex-care-coordination/id1551768761
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination clinician tool mobile app
+- Found: 2026-06-30
+- Description: A mobile-first patient care coordination platform providing clinical documentation, team task management, messaging, and emergency code calling for clinicians.
+
+### Home Health Notify Clinician App
+
+- URL: https://homehealthnotify.com/clinician-coordination-scheduling/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination clinician tool mobile app
+- Found: 2026-06-30
+- Description: A HIPAA-compliant mobile app for home health administration that centralizes communication and patient information to simplify day-to-day clinician operations.
+
+### Caremap Clinician Tool
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10495855/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination clinician tool mobile app
+- Found: 2026-06-30
+- Description: An iOS-compatible, FHIR-enabled mobile app for coordinating care for children with special health needs, featuring a patient-facing app and clinical dashboard for clinicians.
+
+### CareMonitor Clinician App
+
+- URL: https://caremonitor.com.au/clinician-app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination clinician tool mobile app
+- Found: 2026-06-30
+- Description: A mobile access app extending CareMonitor's digital healthcare platform to mobile devices, giving clinicians secure access to critical coordination tools.
+
+### CarePassport Medical Records App
+
+- URL: https://sourceforge.net/software/care-coordination/android/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination clinician tool mobile app
+- Found: 2026-06-30
+- Description: A trusted healthcare app enabling patients and clinicians to aggregate, manage, and share medical records, lab results, and clinical reports across providers.
+
+### CareCoordination Software Overview
+
+- URL: https://healthit.gov
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination clinician tool mobile app
+- Found: 2026-06-30
+- Description: Official technical resources and the Health IT Playbook from ONC supporting clinicians and developers in building care coordination mobile apps and tools.
+
+### Dexteria - Occupational Therapy & Stroke Rehab Apps
+
+- URL: https://www.dexteria.net
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination therapy support iOS Android
+- Found: 2026-06-30
+- Description: Research-backed therapy app for iOS that improves fine motor control, visual-motor integration, and coordination recovery after stroke. Used globally in schools and clinics.

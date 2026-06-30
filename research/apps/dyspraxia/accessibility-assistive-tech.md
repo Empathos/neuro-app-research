@@ -178,3 +178,73 @@
 - Query: coordination assistive technology app
 - Found: 2026-06-29
 - Description: Curated collection of assistive apps for intellectual and developmental disabilities, coordinating daily routines and caregiver support tools.
+
+### Accessibility Guidelines for iOS (WWDC)
+
+- URL: https://developer.apple.com/accessibility/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Apple's official documentation on iOS accessibility, including coordination-friendly UI design, gesture simplification, and tap target sizing for mobile apps.
+
+### Be My Eyes
+
+- URL: https://www.bemyeyes.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Cross-platform mobile app connecting blind or low-vision users with volunteers for real-time visual coordination, supporting iOS and Android with live video support.
+
+### EPIC Multidimensional Tool-Kit for Adaptive Functioning
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11316409/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination adaptive tool
+- Found: 2026-06-30
+- Description: A research-backed tool-kit designed to coordinate adaptive tools for neurodivergent children, focusing on coordination of adaptive functioning through spatial working memory tasks and memory improvement interventions.
+
+### AI-Assistive Technologies for Adaptive Functioning Review
+
+- URL: https://www.nature.com/articles/s41746-024-01355-7
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination adaptive tool
+- Found: 2026-06-30
+- Description: A comprehensive review coordinating adaptive tools including robotics, mobile apps, and virtual reality systems to support adaptive functioning in neurodivergent individuals across daily settings.
+
+### Contextual Adaptations for Neurodivergent Clients
+
+- URL: https://www.occupationaltherapy.com/articles/contextual-adaptations-for-neurodivergent-client-5711
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination adaptive tool
+- Found: 2026-06-30
+- Description: A clinical resource coordinating adaptive tools including AAC devices, visual handouts, and sensory comfort items to manage coordination of communication and adaptive functioning in acute care settings.
+
+### Neurodiversity Toolkit - University of Plymouth
+
+- URL: https://www.plymouth.ac.uk/research/embedding-systemic-inclusion-for-neurodiverse-and-disabled-engineering-students/diversity-toolkit
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination adaptive tool
+- Found: 2026-06-30
+- Description: An educational repository coordinating adaptive tools including lecture notes, structured group work templates, and sensory-friendly seating arrangements to support coordination of learning for neurodivergent students.
+
+### Soundbuddy Adaptive Coordination System Documentation
+
+- URL: https://docs.soundbuddy.app/adaptive-coordination
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: coordination adaptive tool
+- Found: 2026-06-30
+- Description: Official documentation for the Soundbuddy system, detailing how to coordinate adaptive tools like timers, visual prompts, and movement breaks for effective neurodivergence support.
