@@ -228,3 +228,73 @@
 - Query: coordination independence mobile app
 - Found: 2026-06-29
 - Description: Official FEC resource defining independent expenditures and coordinated communications in digital applications, relevant for understanding legal frameworks of app independence and coordination in public tool development.
+
+### Train the Brain - Coordination
+
+- URL: https://apps.apple.com/gb/app/train-the-brain-coordination/id1468451071
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination life skills iOS Android
+- Found: 2026-06-30
+- Description: iOS app for all ages to stimulate coordination and psychomotor skills through a collection of coordination games designed to develop life skills.
+
+### Routinery: Routine Builder & Habit Tracker
+
+- URL: https://apps.apple.com/us/app/routine-builder-habit-tracker/id1450486923
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination home routine tool
+- Found: 2026-06-30
+- Description: Official Apple App Store page for Routinery, a neurodivergent-friendly routine app that guides users through every step of a task, making it ideal for building consistent home coordination routines.
+
+### Gross Motor Coordination Activities - The OT Toolbox
+
+- URL: https://www.theottoolbox.com/gross-motor-coordination-activities/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination home routine tool
+- Found: 2026-06-30
+- Description: A public resource from The OT Toolbox offering a list of gross motor coordination activities (e.g., obstacle courses, hopscotch, ball rolling) designed to be integrated into home routines for children and neurodivergent individuals.
+
+### Physical Therapy Exercises for Promoting Coordination in Kids
+
+- URL: https://www.advancedtherapyclinic.com/blog/physical-therapy-exercises-for-promoting-coordination-in-kids
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination home routine tool
+- Found: 2026-06-30
+- Description: An article from Advanced Therapy Clinic detailing specific physical therapy exercises like 'Follow the Leader,' 'Obstacle Courses,' and 'Crab Walking' that can be used as home routine tools to improve coordination.
+
+### Home Workouts for Balance, Coordination, and Flexibility
+
+- URL: https://myhealthpal.com.au/home-workouts-for-balance-coordination-and-flexibility/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination home routine tool
+- Found: 2026-06-30
+- Description: A guide featuring simple home routines involving tools like stability balls and resistance bands, with specific exercises such as 'Heel and Toe Raises' and 'Yoga Tree Pose' to enhance coordination.
+
+### Routine Charts | Self Care / Life Skills
+
+- URL: https://www.toolstogrowot.com/therapy-resources/self-care-life-skills/routine-charts
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination home routine tool
+- Found: 2026-06-30
+- Description: A repository page from ToolstogrowOT providing visual Daily Routine Charts and pictures designed to increase independence in completing sequenced daily routines and tasks, supporting neurodivergent users.
+
+### Caregiver-Friendly Tools for Managing Daily Routines
+
+- URL: https://www.dcreport.org/2025/12/29/caregiver-friendly-tools-for-managing-daily-routines/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: coordination home routine tool
+- Found: 2026-06-30
+- Description: A DCReport.org article listing practical tools (e.g., motion-sensor lighting, grab rails, anti-slip mats) that facilitate safe and effective daily routines, directly addressing home coordination needs for neurodivergent individuals.

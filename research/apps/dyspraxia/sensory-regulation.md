@@ -348,3 +348,123 @@
 - Query: coordination overload mobile app
 - Found: 2026-06-29
 - Description: Technical documentation for a mobile tool that helps users manage multiple tasks simultaneously, reducing coordination overload with smart prioritization and visual feedback.
+
+### Hand Eye Coordination Test - App Store
+
+- URL: https://apps.apple.com/us/app/hand-eye-coordination-test/id817654079
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination calming iOS Android
+- Found: 2026-06-30
+- Description: An official iOS app designed to improve hand-eye coordination, speed, and reflexes through simple, fast games (30-second sessions), suitable for coordination training.
+
+### Hand Eye Coordination Test - Play Store
+
+- URL: https://play.google.com/store/apps/details?id=com.tellmewow.senior.coordination
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination calming iOS Android
+- Found: 2026-06-30
+- Description: A coordination-focused Android and iOS app that helps develop hand-eye movement ability with fun exercises, described as beneficial for the whole family and calming coordination practice.
+
+### Mindfulness Bell - Calming Android App
+
+- URL: https://play.google.com/store/apps/details?id=com.mindfulness.bell
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination calming iOS Android
+- Found: 2026-06-30
+- Description: An Android app focused on mindfulness and calming practices, providing gentle reminders to pause and breathe, helping reduce stress and anxiety.
+
+### Healing Noise App - Calming Sensory Tool
+
+- URL: https://www.facebook.com/groups/tmyndwtmynd/posts/860074156322169/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination calming iOS Android
+- Found: 2026-06-30
+- Description: A sensory app for Android that uses a healing noise generator to relax the mind, reduce stress, and increase concentration, offering a calming audio experience.
+
+### Unus Tactus (Touch. Locate. Call) - Coordination Tool
+
+- URL: https://www.brainline.org/article/life-changing-apps-people-brain-injury
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination calming iOS Android
+- Found: 2026-06-30
+- Description: A tool for coordination and motor support, featuring one-touch photo dialing and simple setup for users with mild cognitive or motor deficits, promoting reaction time and coordination.
+
+### Public Infrastructure Coordination Assessment and Planning Tool
+
+- URL: https://www.scdot.org/business/environmental-toolshed.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination environment planning tool
+- Found: 2026-06-30
+- Description: A neurodivergence-inclusive tool for coordinating infrastructure asset management, allowing communities to develop structured planning approaches with supported documentation and collaborative features.
+
+### Geospatial Data Collaboration Collaborative GIS Screening Tools
+
+- URL: https://www.gis.fhwa.dot.gov/gdc_gis_screening_tools.aspx
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination environment planning tool
+- Found: 2026-06-30
+- Description: A suite of neurodivergent-friendly GIS tools for coordination environment planning, enabling decision-makers to identify project impacts, prioritize locations, and integrate diverse datasets in a geospatial environment.
+
+### Eco Planning Tool - SEMCOG
+
+- URL: https://maps.semcog.org/EcoPlanningTool/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination environment planning tool
+- Found: 2026-06-30
+- Description: An accessible planning tool for coordination environment design, providing early environmental indicators for development and green infrastructure projects with user-friendly polygon-based interaction.
+
+### PennEnviroScreen | Department of Environmental Protection
+
+- URL: https://www.pa.gov/agencies/dep/public-participation/office-of-environmental-justice/pennenviroscreen
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination environment planning tool
+- Found: 2026-06-30
+- Description: A mapping tool for coordination environment planning that quantifies and visualizes disproportionate environmental effects, supporting environmental justice with neurodivergent-accessible indicator categories.
+
+### Tools & Resources  GIS & Conservation Planning Toolkit
+
+- URL: https://www.landscapepartnership.org/maps-data/gis-planning/gis-tools-resources
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination environment planning tool
+- Found: 2026-06-30
+- Description: A neurodivergence-supportive toolkit for coordination environment planning, enabling rapid identification and prioritization of areas along rivers and streams with user-friendly, rapid-access features.
+
+### DCR Office of Resilience Planning  Public File Repository
+
+- URL: https://aws.amazon.com/marketplace/pp/prodview-nvithvsx5wv22
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination environment planning tool
+- Found: 2026-06-30
+- Description: A public file repository for coordination environment planning, housing resilience master plan data with neurodivergent-friendly access to flood protection and coastal resilience resources.
+
+### 10 climate-related public data repositories
+
+- URL: https://datos.gob.es/en/noticias/10-climate-related-public-data-repositories
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: coordination environment planning tool
+- Found: 2026-06-30
+- Description: A curated list of public data repositories for coordination environment planning, including neurodivergent-accessible climate, physical, and socioeconomic data portals for global and regional analysis.

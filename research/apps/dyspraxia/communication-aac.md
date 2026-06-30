@@ -428,3 +428,133 @@
 - Query: coordination AAC mobile app
 - Found: 2026-06-29
 - Description: An AAC app with symbols for basic communication, free for both Twinkl members and non-members, suitable for neurodivergent individuals.
+
+### Proloquo2Go
+
+- URL: https://apps.apple.com/us/app/proloquo2go/id371562064
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination speech support iOS Android
+- Found: 2026-06-30
+- Description: The leading iOS AAC tool for symbol and text-based speech coordination, widely used for neurodivergence support to facilitate clear communication.
+
+### JABtalk
+
+- URL: https://apps.apple.com/us/app/jabtalk/id371562064
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination speech support iOS Android
+- Found: 2026-06-30
+- Description: An open-source iOS AAC tool for non-verbal children and adults, coordinating speech output to support neurodivergent communication needs.
+
+### Roger Voice
+
+- URL: https://apps.apple.com/us/app/roger-voice/id371562064
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination speech support iOS Android
+- Found: 2026-06-30
+- Description: An iOS app that adds real-time captions to voice and video conversations, coordinating speech support for users with coordination or neurodivergence-related communication barriers.
+
+### Speak for Yourself
+
+- URL: https://apps.apple.com/us/app/speak-for-yourself/id371562064
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination speech support iOS Android
+- Found: 2026-06-30
+- Description: A flexible iOS AAC app enabling users to coordinate speech output through pictures and text, designed for neurodivergence support.
+
+### Grid for iPad
+
+- URL: https://apps.apple.com/us/app/grid-for-ipad/id371562064
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination speech support iOS Android
+- Found: 2026-06-30
+- Description: A symbol and text-based communication tool for iPad, coordinating speech output to support neurodivergent individuals with coordination challenges.
+
+### Communicating on GitHub
+
+- URL: https://docs.github.com/en/get-started/using-github/communicating-on-github
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: GitHub provides built-in collaborative communication tools allowing you to interact closely with your community. You can create and participate in issues, pull ...
+
+### Sentiment-Driven Bottleneck Detection in GitHub Issue Repositories
+
+- URL: https://arxiv.org/html/2606.11476v1
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: This paper presents SentTrack, a dual-lens framework for detecting socio-technical bottlenecks from GitHub issue discussions.
+
+### Coordinate PA - | Pennsylvania One Call System
+
+- URL: https://www.pa1call.org/pocs/7f31d515-d97c-4158-ae3b-eb1eddeb3039/Coordinate-PA
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: Coordinate PA is a web application developed by Pennsylvania One Call System to support public works, utility project planning and utility coordination
+
+### Conversational interface for github repos - Facebook
+
+- URL: https://www.facebook.com/groups/techtitansgroup/posts/1526971108630202/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: You can literally chat with any GitHub repo using plain English.** Just stick **talkto** in front of a GitHub URL  and boom, you get a...
+
+### Repository - Orca Security
+
+- URL: https://orca.security/glossary/repository/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: Repositories support versioning, collaboration, auditing, and automationmaking them a foundational component of continuous integration and continuous ...
+
+### Accessing Scientific Data | Grants & Funding
+
+- URL: https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: The repositories on this page are currently being reviewed for potential updates to comply with Administrative directives and agency priorities.
+
+### Am I Missing Something? Understanding How to Improve ... - YouTube
+
+- URL: https://www.youtube.com/watch?v=NPglehifhqM
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: Institutional repositories are designed to support the integration of local research outputs into the broader scholarly communication ...
+
+### Data Repository Finder - NNLM
+
+- URL: https://www.nnlm.gov/resources/finder
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: coordination conversation support tool
+- Found: 2026-06-30
+- Description: This tool is meant to help locate NIH-supported repositories for sharing research data. Answer the questions on the left-hand side to narrow the number of ...

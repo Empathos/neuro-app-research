@@ -378,3 +378,43 @@
 - Query: coordination task initiation mobile app
 - Found: 2026-06-29
 - Description: A research-based assistive system integrating a wearable device with an ADHD-friendly user interface designed on behavioral therapy principles for task initiation support.
+
+### Structured: Simple Visual Day Planner
+
+- URL: https://structured.app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination routine iOS Android
+- Found: 2026-06-30
+- Description: A highly visual day-planner that helps adults with autism manage schedules and tasks with exceptional clarity, using visual task lists to coordinate routines on iOS and Android.
+
+### Brain in Hand - Support for Neurodivergent Coordination
+
+- URL: https://braininhand.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination reminders tool
+- Found: 2026-06-30
+- Description: Brain in Hand provides a digital support system with coordination reminders, emotional regulation tools, and task planning features specifically designed for neurodivergent users.
+
+### Booost - Time Management for Neurodivergent Students
+
+- URL: https://booosteducation.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination reminders tool
+- Found: 2026-06-30
+- Description: Booost is a time management app that includes coordination reminders, visual schedules, and collaborative planning tools tailored for neurodivergent students and professionals.
+
+### Microsoft To Do - Task Coordination with Reminders
+
+- URL: https://to_do.microsoft.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: coordination reminders tool
+- Found: 2026-06-30
+- Description: Microsoft To Do provides coordination reminders, task lists, and collaborative planning tools that support neurodivergent users in organizing daily activities and maintaining coordination.

@@ -238,3 +238,73 @@
 - Query: coordination mood tracking mobile app
 - Found: 2026-06-29
 - Description: Community discussion listing popular mood tracking apps like E-Moods, Selfrell, and Finch. Users praise features for identifying coordination patterns and mental health trends.
+
+### Mental Health Coping Tools
+
+- URL: https://mcchs.org/may-is-mental-health-month/mental-health-month/coping-tools
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination coping skills tool
+- Found: 2026-06-30
+- Description: Official resource defining a coping toolbox as a collection of skills, techniques, items, and suggestions for managing anxiety and distress, with practical examples relevant to coordination and neurodivergence.
+
+### Building Your Coping Toolbox
+
+- URL: https://mhanational.org/resources/building-your-coping-toolbox/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination coping skills tool
+- Found: 2026-06-30
+- Description: Mental Health America's guide to creating a personalized coping toolkit, featuring sensory grounding techniques (5-4-3-2-1), breathing exercises, and activity-based strategies to support coordination and emotional regulation.
+
+### Choosing Your Coping Tools
+
+- URL: https://cdn.bcm.edu/sites/default/files/2025-12/choosing-your-coping-tools.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination coping skills tool
+- Found: 2026-06-30
+- Description: Boston Children's Medical guide emphasizing universal coping tools like deep breathing and the 5-4-3-2-1 sensory technique, designed to support neurodivergent individuals in coordinating emotional and physical responses.
+
+### The Coping Skills Toolbox
+
+- URL: https://www.health.columbia.edu/content/coping-tools
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination coping skills tool
+- Found: 2026-06-30
+- Description: Columbia Health's self-help portal offering evidence-based coping tools for stress and anxiety, including structured activity planners and sensory kits to improve coordination and reduce overwhelm.
+
+### Coping Skills Tool Box (TPT Lesson)
+
+- URL: https://www.teacherspayteachers.com/browse/hands-on-activities/free?search=coping+skills+tool+box
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination coping skills tool
+- Found: 2026-06-30
+- Description: Free, hands-on educational activity for students to build a personalized coping skills tool box, adaptable for neurodivergent learners to practice coordination of emotional and behavioral strategies.
+
+### Coping Skills Toolkit
+
+- URL: https://e-wellbeing.co.uk/wp-content/uploads/2022/09/Coping-Skills-Toolkit-5.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination coping skills tool
+- Found: 2026-06-30
+- Description: e-Wellbeing's toolkit featuring physical and creative exercises like running, scribbling, writing, and group interaction to support coordination and emotional resilience in neurodivergent communities.
+
+### How to Build a Coping Skills Tool Box
+
+- URL: https://www.youtube.com/watch?v=Icu93_5u9xs
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: coordination coping skills tool
+- Found: 2026-06-30
+- Description: YouTube video by Kim Sundal demonstrating step-by-step strategies to build a coping skills tool box, including sensory grounding, breathing, and activity-based tools tailored for coordination and neurodivergence support.

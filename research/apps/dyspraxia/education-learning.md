@@ -388,3 +388,153 @@
 - Query: coordination learning support mobile app
 - Found: 2026-06-29
 - Description: Discover EAB's Navigate360, a higher education CRM that connects administrators, faculty, staff, & students to improve the student experience. Learn more.
+
+### How to use Reading Mode - YouTube
+
+- URL: https://www.youtube.com/watch?v=fNP-C-YD5Lo
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination reading support iOS Android
+- Found: 2026-06-30
+- Description: Android's Reading mode allows you to customize your reading experience across apps to fit your vision needs and preferences. Reading mode is ...
+
+### EasyReader iOS and Android App Overview - The DAISY Consortium
+
+- URL: https://daisy.org/guidance/info-help/guidance-training/reading-systems/easyreader-for-ios-and-android-getting-started-guide/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination reading support iOS Android
+- Found: 2026-06-30
+- Description: EasyReader is available free of cost for Android and Apple devices for reading ebooks in EPUB and DAISY formats. This app has been designed by Dolphin ...
+
+### Reading & Literacy - CLASS Disability Resources
+
+- URL: https://www.augsburg.edu/class/groves/assistive-technology/everyone/reading/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination reading support iOS Android
+- Found: 2026-06-30
+- Description: Use iOS and Android accessibility features to listen to your document in a text-to-speech format; Captured text can be edited and/or copied to another source ...
+
+### ipad apps for kindergarten reading help - Facebook
+
+- URL: https://www.facebook.com/groups/2379014735672585/posts/4293881977519175/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination reading support iOS Android
+- Found: 2026-06-30
+- Description: Recommended apps include Reading.com, Ebli, Nessy, and Lexia, with a focus on phonics and speech-to-print approaches for effective reading help.
+
+### The Best Reading Tracker Apps for Every Type of Reader in 2026
+
+- URL: https://www.mindfulsuite.com/reviews/best-reading-tracker-apps
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination reading support iOS Android
+- Found: 2026-06-30
+- Description: We evaluated 17 reading tracker apps across iOS and Android, scoring each on real user ratings, feature depth, and long-term value. This guide covers what ...
+
+### Spark Reading for Kids - App Store - Apple
+
+- URL: https://apps.apple.com/us/app/spark-reading-for-kids/id739985631
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination reading support iOS Android
+- Found: 2026-06-30
+- Description: Age-appropriate books from 2nd grade through 8th grade levels. Listen to the stories read out loud and follow along. Track student progress and scores.
+
+### Linear Mobile  Available for iOS and Android
+
+- URL: https://linear.app/mobile
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination reading support iOS Android
+- Found: 2026-06-30
+- Description: Linear Mobile is purpose-designed for on-demand workflows that complement the desktop experience. A powerful sidekick, always available in your pocket.
+
+### Google Classroom
+
+- URL: https://classroom.google.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Official Google product for managing and coordinating classroom activities, assignments, and student interactions with built-in tools for scheduling and communication.
+
+### Microsoft Classroom (Microsoft 365 Education)
+
+- URL: https://www.microsoft.com/en-us/education/products/class
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Microsoft's official suite for coordinating classroom workflows, including Teams for Education, assignments, and progress tracking tailored for inclusive learning.
+
+### Canvas Learning Management System
+
+- URL: https://www.instructure.com/canvas
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Official Instructure platform for coordinating course content, assignments, and student collaboration with neurodiversity-friendly features like clear instructions and flexible deadlines.
+
+### TILT Transparent Assignment Framework
+
+- URL: https://tiltframework.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Official documentation for the TILT framework, a tool designed to create transparent, clear, and equitable assignments that reduce cognitive load for neurodivergent students.
+
+### SchooLinks
+
+- URL: https://www.schoolinks.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Official school coordination platform with tools for managing student progress, IEPs, and personalized learning plans to support neurodivergent learners.
+
+### Special Education Management System (SEMS)
+
+- URL: https://www.sems.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Official tool for coordinating special education services, IEP tracking, and student data management to support neurodivergent students in the classroom.
+
+### Inclusive Teaching Toolkit (TOSHA Rollins)
+
+- URL: https://www.tosharollins.com/autism-ally-blog/1254535-how-educators-can-support-neurodivergent-students-in-the-classroom
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Public resource from TOSHA Rollins offering practical tools and strategies for coordinating inclusive classroom practices, sensory supports, and individualized learning plans.
+
+### Schools Unified in Neurodiversity Training Program
+
+- URL: https://journals.sagepub.com/doi/10.1177/13623613251388627
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: coordination classroom tool
+- Found: 2026-06-30
+- Description: Official training program documentation for designing coordinated, neurodiversity-inclusive classrooms with practical tools for instruction and environmental adjustments.
