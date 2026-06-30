@@ -279,16 +279,6 @@
 - Found: 2026-06-26
 - Description: Beanstack is a public tool for libraries and schools that creates calming, motivating reading challenges and logs, helping neurodivergent readers track progress in a supportive, non-competitive environment.
 
-### The Reading Alliance - Reading Support Guidance
-
-- URL: https://www.thereadingalliance.com/post/what-reading-support-should-feel-like
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: sensory-regulation
-- Query: reading support calming startup
-- Found: 2026-06-26
-- Description: A public repository of guidance on what calming reading support should feel like for neurodivergent individuals, emphasizing reduced frustration, increased willingness to try, and confidence-building strategies.
-
 ### National Student Support Accelerator - Startup Reading
 
 - URL: https://nssa.stanford.edu/organizations/startup-reading

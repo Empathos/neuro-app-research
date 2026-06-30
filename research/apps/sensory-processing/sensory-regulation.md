@@ -29,16 +29,6 @@
 - Found: 2026-06-21
 - Description: Google Play listing for a sensory-soothing app using fluid simulation, color therapy, and interactive relaxation features.
 
-### NoPlex: The Chaos Management App
-
-- URL: https://www.noplex.ai/sensory-overload-anxiety
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: sensory-regulation
-- Query: sensory processing overload mobile app
-- Found: 2026-06-21
-- Description: Official product page discussing sensory overload support features such as reducing noise input and task separation.
-
 ### Avoid - Sensory Overload
 
 - URL: https://store.steampowered.com/app/4403510/Sensory_Overload/

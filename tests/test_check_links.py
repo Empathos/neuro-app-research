@@ -136,6 +136,53 @@ class LinkCheckerTests(unittest.TestCase):
         self.assertEqual(links[0].url, f"{self.base_url}/ok")
         self.assertIn("fixture.md", links[0].sources[0])
 
+    def test_prunes_only_public_dead_lead_sections(self) -> None:
+        old_root = check_links.ROOT
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            app_file = root / "research" / "apps" / "adhd" / "executive-function.md"
+            app_file.parent.mkdir(parents=True)
+            app_file.write_text(
+                "\n"
+                "### Dead Public Lead\n\n"
+                "- URL: https://example.com/dead\n"
+                "- Description: Stale public lead.\n\n"
+                "### Private Target\n\n"
+                "- URL: http://127.0.0.1/admin\n"
+                "- Description: Blocking target.\n\n"
+                "### Live Lead\n\n"
+                "- URL: https://example.com/live\n"
+                "- Description: Keep me.\n",
+                encoding="utf-8",
+            )
+            check_links.ROOT = root
+            try:
+                pruned = check_links.prune_public_dead_links(
+                    [
+                        check_links.Result(
+                            "https://example.com/dead",
+                            "dead",
+                            "HTTP 404",
+                            ("research/apps/adhd/executive-function.md",),
+                        ),
+                        check_links.Result(
+                            "http://127.0.0.1/admin",
+                            "dead",
+                            "Blocked private/loopback address",
+                            ("research/apps/adhd/executive-function.md",),
+                        ),
+                    ]
+                )
+            finally:
+                check_links.ROOT = old_root
+
+            text = app_file.read_text(encoding="utf-8")
+
+        self.assertEqual(pruned, 1)
+        self.assertNotIn("Dead Public Lead", text)
+        self.assertIn("Private Target", text)
+        self.assertIn("Live Lead", text)
+
 
 if __name__ == "__main__":
     unittest.main()

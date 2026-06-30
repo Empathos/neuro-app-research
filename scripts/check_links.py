@@ -261,6 +261,62 @@ def is_blocking_dead(result: Result) -> bool:
     return result.status == "dead" and result.detail.startswith(HARD_BLOCKING_DETAILS)
 
 
+def section_url(section: str) -> str | None:
+    match = URL_PATTERN.search(section)
+    if not match:
+        return None
+    return match.group(1).rstrip(".,)")
+
+
+def prune_public_dead_links(results: list[Result]) -> int:
+    public_dead_urls = {
+        result.url
+        for result in results
+        if result.status == "dead" and not is_blocking_dead(result)
+    }
+    if not public_dead_urls:
+        return 0
+
+    pruned = 0
+    candidate_sources = {
+        source
+        for result in results
+        if result.url in public_dead_urls
+        for source in result.sources
+    }
+    apps_root = (ROOT / "research" / "apps").resolve()
+    for source in sorted(candidate_sources):
+        path = (ROOT / source).resolve()
+        try:
+            path.relative_to(apps_root)
+        except ValueError:
+            continue
+        if not path.exists() or path.suffix != ".md":
+            continue
+
+        text = path.read_text(encoding="utf-8")
+        headings = list(re.finditer(r"(?m)^###\s+.+$", text))
+        if not headings:
+            continue
+
+        prefix = text[: headings[0].start()]
+        kept_sections = []
+        changed = False
+        for index, heading in enumerate(headings):
+            end = headings[index + 1].start() if index + 1 < len(headings) else len(text)
+            section = text[heading.start() : end]
+            if section_url(section) in public_dead_urls:
+                pruned += 1
+                changed = True
+                continue
+            kept_sections.append(section)
+
+        if changed:
+            path.write_text(prefix + "".join(kept_sections), encoding="utf-8")
+
+    return pruned
+
+
 def failing_dead_results(results: list[Result], max_public_dead: int) -> list[Result]:
     dead = [result for result in results if result.status == "dead"]
     return [result for result in dead if is_blocking_dead(result)]
@@ -292,6 +348,11 @@ def main() -> int:
             "Private/internal/invalid targets always fail."
         ),
     )
+    parser.add_argument(
+        "--prune-public-dead",
+        action="store_true",
+        help="Remove public hard-dead lead sections from research/apps after reporting them.",
+    )
     args = parser.parse_args()
 
     links = discover_links(args.paths)
@@ -316,6 +377,10 @@ def main() -> int:
     failing_dead = failing_dead_results(results, args.max_public_dead)
     warnings = [result for result in results if result.status == "warning"]
     print(f"Checked {len(results)} links: {len(dead)} dead, {len(warnings)} warning(s).")
+    if args.prune_public_dead:
+        pruned = prune_public_dead_links(results)
+        if pruned:
+            print(f"Pruned {pruned} public dead lead section(s) from research/apps.")
     if failing_dead:
         for result in failing_dead[:20]:
             print(f"DEAD {result.detail}: {result.url}", file=sys.stderr)

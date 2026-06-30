@@ -82,7 +82,7 @@ jobs:
         run: python3 -m unittest discover -s tests
 
       - name: Check research links
-        run: python3 scripts/check_links.py --report link-check-report.md --max-public-dead 2
+        run: python3 scripts/check_links.py --report link-check-report.md --max-public-dead 2 --prune-public-dead
 
       - name: Upload link check report
         if: always()
