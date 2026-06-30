@@ -458,3 +458,83 @@
 - Query: text to speech AAC mobile app
 - Found: 2026-06-29
 - Description: A simple AAC app for iOS and Android that lets users create custom communication boards. Free to download and suitable for beginners and caregivers.
+
+### ElevenReader for iOS and Android
+
+- URL: https://elevenreader.io/blog/text-to-speech-for-iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech speech support iOS Android
+- Found: 2026-06-30
+- Description: Guide introducing ElevenReader, a standalone app delivering high-quality, lifelike text-to-speech voices for iOS and Android, supporting multilingual content, offline mode, and audiobook libraries.
+
+### ElevenReader for iOS and Android (YouTube Demo)
+
+- URL: https://www.youtube.com/watch?v=7ohqWU2NAnc
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech speech support iOS Android
+- Found: 2026-06-30
+- Description: Video demonstration of ElevenReader, showcasing its text-to-speech capabilities across iOS and Android platforms, highlighting high-quality voices and cross-platform compatibility.
+
+### Orca: iOS Real-Time TTS Streaming Tutorial
+
+- URL: https://picovoice.ai/blog/ios-streaming-text-to-speech/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech speech support iOS Android
+- Found: 2026-06-30
+- Description: Technical tutorial for implementing on-device, low-latency streaming text-to-speech in iOS apps using Orca, including model file setup and streaming instance configuration.
+
+### Coqui TTS (Open Source Text-to-Speech)
+
+- URL: https://github.com/coqui-ai/TTS
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech conversation support tool
+- Found: 2026-06-30
+- Description: Leading open-source deep learning toolkit for text-to-speech, enabling high-quality voice generation and conversation support for diverse users.
+
+### Kokoro 82M Open-Source TTS
+
+- URL: https://huggingface.co/hexgrad/Kokoro-82M
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech conversation support tool
+- Found: 2026-06-30
+- Description: Fully open-source Apache 2.0 licensed TTS model (82M parameters) for commercial integration, supporting clear speech for conversation support applications.
+
+### ChatTTS Conversational Voice Model
+
+- URL: https://github.com/2Noise/ChatTTS
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech conversation support tool
+- Found: 2026-06-30
+- Description: Designed specifically for dialogue tasks in LLM assistants, producing natural Chinese and English speech for interactive conversation support tools.
+
+### Voicebox AI Voice Studio
+
+- URL: https://github.com/jamiepine/voicebox
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech conversation support tool
+- Found: 2026-06-30
+- Description: Local-first open-source AI voice studio enabling voice cloning, speech generation, and dictation into any app for personalized neurodivergent support.
+
+### MeloTTS Multilingual TTS Library
+
+- URL: https://github.com/myshell-ai/MeloTTS
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: text to speech conversation support tool
+- Found: 2026-06-30
+- Description: High-quality multilingual TTS optimized for real-time inference on CPUs, supporting diverse accents and dialects for accessible conversation tools.

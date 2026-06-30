@@ -278,3 +278,33 @@
 - Query: text to speech clinician tool mobile app
 - Found: 2026-06-29
 - Description: A web-based application for clinicians providing literacy-based, evidence-based materials and caseload management tools for speech therapy planning.
+
+### Articulation Station - Speech Therapy App
+
+- URL: https://slpnow.com/blog/speech-therapy-apps-for-interactive-reinforcement/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech therapy support iOS Android
+- Found: 2026-06-30
+- Description: Popular iOS speech therapy app using flashcards, memory games, and spinners to target articulation, reading fluency, and conversation skills for neurodivergent learners.
+
+### Text to Speech Solutions for Learners
+
+- URL: https://www.readspeaker.com/products/education/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech parent support tool
+- Found: 2026-06-30
+- Description: Official product page for ReaderSpeaker's education solutions, providing text-to-speech support for children to complete homework assignments and encourage reading for pleasure.
+
+### My Kid Prefers Speechify - Parent Support Discussion
+
+- URL: https://www.facebook.com/groups/2379014735672585/posts/4422632437977461/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: text to speech parent support tool
+- Found: 2026-06-30
+- Description: Parent discussion on Facebook highlighting Speechify as a preferred text-to-speech tool for its human-like voices and browser plugin that reads nearly everything, including emails, for children.
