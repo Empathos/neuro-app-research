@@ -248,3 +248,53 @@
 - Query: AAC clinician tool mobile app
 - Found: 2026-06-29
 - Description: RCSLT overview of AAC tools and strategies, including mobile app integration for clinicians to support neurodivergent communication needs.
+
+### TalkTablet PRO AAC (iOS & Android)
+
+- URL: https://usaspeechtablets.com/pages/talktablet
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC therapy support iOS Android
+- Found: 2026-06-30
+- Description: A powerful AAC speech app for iOS and Android using symbol-based boards, priced at $199.99, designed to help non-verbal individuals communicate effectively.
+
+### The Quad Profile - AAC Assessment Tool
+
+- URL: https://www.tobii-dynavox.com/en-us/resources/quad-profile
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC parent support tool
+- Found: 2026-06-30
+- Description: A structured assessment tool from Tobii Dynavox to help parents and clinicians evaluate AAC needs and customize communication devices for children.
+
+### AAC Resource Packs - Tobii Dynavox
+
+- URL: https://www.tobii-dynavox.com/en-us/resources/aac-resource-packs
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC parent support tool
+- Found: 2026-06-30
+- Description: Downloadable toolkits containing assessment profiles, communication matrices, and implementation guides specifically designed for parents starting with AAC.
+
+### Parent's Guide to Low-Tech AAC
+
+- URL: https://vkc.mc.vanderbilt.edu/assets/files/resources/aacasd.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC parent support tool
+- Found: 2026-06-30
+- Description: A practical, free PDF guide from Vanderbilt University offering parents accessible strategies for initiating low-tech AAC support at home.
+
+### Speech and Language Kids - AAC Device Guides
+
+- URL: https://www.speechandlanguagekids.com/teach-your-child-to-use-an-aac-device/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: AAC parent support tool
+- Found: 2026-06-30
+- Description: Parent-friendly documentation and step-by-step guides for introducing AAC devices, including app recommendations and home practice templates.

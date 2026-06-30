@@ -248,3 +248,103 @@
 - Query: AAC independence mobile app
 - Found: 2026-06-29
 - Description: A new mobile app called Vocable AAC allows people to communicate with head-tracking technology. Learn more, brought to you by the Bureau of ...
+
+### TouchChat - AAC App
+
+- URL: https://apps.apple.com/us/app/touchchat-aac/id308368164
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC life skills iOS Android
+- Found: 2026-06-30
+- Description: Poplise AAC app offering customizable communication pages, grids, and phrase-based options for iOS and Android to support life skills and daily communication.
+
+### Proloquo2Go - AAC
+
+- URL: https://apps.apple.com/us/app/proloquo2go-aac/id308368164
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC life skills iOS Android
+- Found: 2026-06-30
+- Description: Powerful AAC app for iOS devices (iPads, iPhones) featuring customizable grids and Minspeak strategy to build sentences and express life skills needs.
+
+### Life Skills 2 Learn - AAC Resources
+
+- URL: https://lifeskills2learn.com/resources/aac-websites-and-recommended-resources/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC life skills iOS Android
+- Found: 2026-06-30
+- Description: Curated list of evidence-based AAC websites, tools, and resources including Boardmaker and Smarty Symbols for iOS/Android life skills support.
+
+### Kids AAC Communication Board
+
+- URL: https://apps.apple.com/us/app/kids-aac-communication-board/id6761141805
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC life skills iOS Android
+- Found: 2026-06-30
+- Description: Simple, offline AAC board for kids to build sentences and express needs with confidence, available on iOS for foundational life skills practice.
+
+### OMazing Kids AAC
+
+- URL: https://omazingkidsllc.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC home routine tool
+- Found: 2026-06-30
+- Description: A repository of free, printable AAC resources and lesson plans specifically designed for home routines. Offers routine-based visual supports and activity sheets for neurodivergent children.
+
+### PraAACtical AAC - Daily Routines
+
+- URL: https://praacticalaac.org/video/video-of-the-week-integrating-aac-into-daily-routines/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC home routine tool
+- Found: 2026-06-30
+- Description: Educational video and resource hub from PraAACtical AAC demonstrating how to integrate AAC tools into home routines. Provides practical tips and example boards for daily activities.
+
+### Grid 3 for AAC
+
+- URL: https://www.sensorycorp.com/gridsolutions/grid3
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC home routine tool
+- Found: 2026-06-30
+- Description: Commercial AAC software with pre-configured templates for daily home routines. Includes customizable grids for activities like cooking, dressing, and play, suitable for neurodivergent users.
+
+### Readtopia
+
+- URL: https://www.readtopia.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC home routine tool
+- Found: 2026-06-30
+- Description: An AAC literacy platform with interactive lessons embedded in daily routine contexts. Offers visual supports and core vocabulary for home-based learning and activity engagement.
+
+### Grid 3 Smart Box
+
+- URL: https://www.sensorycorp.com/gridsolutions/smartbox
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC home routine tool
+- Found: 2026-06-30
+- Description: A hardware and software solution for AAC that integrates with home routines. Includes pre-made activity sets for common daily tasks, designed for easy access and neurodivergent support.
+
+### Genesis AAC Repository
+
+- URL: https://sites.google.com/view/escdaac/home
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: AAC home routine tool
+- Found: 2026-06-30
+- Description: A comprehensive public repository of AAC tools, apps, and printable resources for home routines. Features links to free core vocabulary boards and routine-specific visual supports.

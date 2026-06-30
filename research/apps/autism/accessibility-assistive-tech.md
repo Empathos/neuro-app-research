@@ -258,3 +258,43 @@
 - Query: AAC accessibility mobile app
 - Found: 2026-06-29
 - Description: Leading AAC app for iOS devices, offering customizable symbol sets and text-to-speech capabilities for neurodivergent and speech-impaired users.
+
+### AAC Awareness Month  BridgingApps List
+
+- URL: https://bridgingapps.org/aac-awareness-month-aac-app-list/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC adaptive tool
+- Found: 2026-06-30
+- Description: A curated repository of favorite AAC apps trialed with users of various abilities, including adaptive tools for neurodivergent communication support.
+
+### AAC Apps: Deep Dive and Demo (PA Tech Accelerator)
+
+- URL: https://www.youtube.com/watch?v=ILnp8w63FeM
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC adaptive tool
+- Found: 2026-06-30
+- Description: Video demonstration of adaptive AAC apps like Weave Chat, ChatterBoards, and Cboard, showcasing their features for neurodivergent communication.
+
+### Cboard - Free AAC App
+
+- URL: https://www.facebook.com/groups/assistive.technology.group/posts/23870927822535691/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC adaptive tool
+- Found: 2026-06-30
+- Description: Cboard is a free AAC app with adaptive features, suitable for Android users seeking accessible communication tools for neurodivergent support.
+
+### TalkTabletPRO Award-Winning Speech App
+
+- URL: https://towson.libguides.com/speech-language-pathology/aac-apps
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: AAC adaptive tool
+- Found: 2026-06-30
+- Description: TalkTabletPRO is a multilingual speech app for people with autism and other speech conditions, offering adaptive communication support.

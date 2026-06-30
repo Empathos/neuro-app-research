@@ -418,3 +418,93 @@
 - Query: AAC learning support mobile app
 - Found: 2026-06-29
 - Description: A mobile AAC app from Saltillo enabling dynamic symbol and language representation for neurodivergent individuals, with customizable boards and low-tech communication support.
+
+### Snap&Read (Universal Learning)
+
+- URL: https://www.universallearning.com/snap-read
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC reading support iOS Android
+- Found: 2026-06-30
+- Description: A text-to-speech and reading support app for iOS and Android that reads accessible and inaccessible text from websites, PDFs, and Google Drive. Features vocabulary leveling for comprehension and translation services.
+
+### Voice Dream Reader
+
+- URL: https://voicedream.com/reader
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC reading support iOS Android
+- Found: 2026-06-30
+- Description: Advanced text-to-speech reader for iOS and Android designed for various reading styles, from audio-only to text-highlighting. Supports high-level configuration for screen layout and accessibility.
+
+### Tar Heel Reader
+
+- URL: http://tarheelreader.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC reading support iOS Android
+- Found: 2026-06-30
+- Description: A collection of user-generated books accessible via mouse, touch screen, switches, or AAC devices with serial output. Books include pictures suitable for AAC integration and are searchable by topic and rating.
+
+### Live Speech (Apple Accessibility)
+
+- URL: https://support.apple.com/en-us/105018
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC reading support iOS Android
+- Found: 2026-06-30
+- Description: Built-in iOS 17+ and watchOS 10+ feature allowing users to type and speak via text-to-speech. Supports AAC integration for non-verbal communication on iPhone XS/IOS 17 and Apple Watch Series 3/watchOS 10.
+
+### Storyline Online
+
+- URL: https://storylineonline.org
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC reading support iOS Android
+- Found: 2026-06-30
+- Description: Award-winning website and app (iOS/Android/Chrome) featuring celebrities reading children's books with creative illustrations. Includes printable teacher guides and lesson plans to support reading literacy for AAC users.
+
+### Proloquo2go (by AssistiveWare)
+
+- URL: https://assitiveware.com/products/proloquo2go
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC reading support iOS Android
+- Found: 2026-06-30
+- Description: A symbol-based AAC app for iOS that supports text-to-speech and reading through its 'Proloquo Coach' literacy module, aligning AAC use with reading development and word recognition.
+
+### NovaChat by Saltillo
+
+- URL: https://www.saltillo.com/novachat
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC classroom tool
+- Found: 2026-06-30
+- Description: AAC device and software platform with video tutorials, training materials, and classroom integration tools for students with speech impairments.
+
+### TalkPath Therapy (AAC Tools)
+
+- URL: https://talkpaththerapy.com/aac-tools
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC classroom tool
+- Found: 2026-06-30
+- Description: Collection of free AAC classroom tools, printable boards, and digital resources for supporting neurodivergent students in education.
+
+### Verbalify AAC App for iOS
+
+- URL: https://verbalify.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: AAC classroom tool
+- Found: 2026-06-30
+- Description: AAC app designed for iOS with features like sentence building, vocabulary customization, and classroom-friendly communication support.
