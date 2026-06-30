@@ -368,3 +368,103 @@
 - Query: overload AAC mobile app
 - Found: 2026-06-29
 - Description: Public chart comparing AAC apps and tools, helping users select the right app for neurodivergent support and communication needs.
+
+### Live Speech (iOS, iPad, Mac, Apple Watch)
+
+- URL: https://support.apple.com/en-us/105018
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload speech support iOS Android
+- Found: 2026-06-30
+- Description: Apple's official Live Speech feature allows users to type text and have it spoken aloud during FaceTime and phone calls on iOS and Android-compatible assistive apps. It supports iOS natively and helps users manage communication overload by converting text to voice.
+
+### Speech Blubs (iOS, Android)
+
+- URL: https://speechblubs.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload speech support iOS Android
+- Found: 2026-06-30
+- Description: An AI-powered speech therapy app for early language development and speech delays on iOS and Android. It uses voice recognition to help users practice speech, reducing communication stress and overload.
+
+### How To Overcome Communication Overload In Your Customer ...
+
+- URL: https://unthread.io/blog/how-to-overcome-communication-overload-in-your-customer-support/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: Discover how to manage communication overload in customer support effectively. Improve efficiency and satisfaction. Read more!
+
+### PAARCC Pro Tips: Overload - REAACT Research Program
+
+- URL: https://www.reaact.pitt.edu/ProTips_Overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: We cannot always prevent incoming information and overload, and self-regulating can help our brains cope. We can self-regulate tools and techniques that help ...
+
+### Tools Overload and Exhaustion - Product Focus
+
+- URL: https://www.productfocus.com/tools-overload-and-exhaustion/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: Product Managers use increasing numbers of tools daily. We look at why the tools designed to help us can make us feel overwhelmed and how to combat it.
+
+### Overload and Your Mental Health: How to Protect Your Mind from 24 ...
+
+- URL: https://www.texashealth.org/areyouawellbeing/Behavioral-Health/information-overload-mental-health
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: Parents can help by modeling healthy media habits, establishing household guidelines around screen time, and keeping conversations open about ...
+
+### Dealing with information overload: a comprehensive review - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: The aim of this systematic literature review is to provide an insight into existing measures for prevention and intervention related to information overload.
+
+### Solving tool overload: A vision for smarter AI assistants - Epic AI Pro
+
+- URL: https://www.epicai.pro/solving-tool-overload-a-vision-for-smarter-ai-assistants-upbdc
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: Solving tool overload: A vision for smarter AI assistants  The current state of MCP tools  Learning from human assistants  A vision for dynamic tool discovery.
+
+### Tool Overload is Killing Your Contact Center from the Inside Out
+
+- URL: https://www.youtube.com/watch?v=RGpIY4T3kOg
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: IT thinks it's delivering and what agents actually experience is quietly destroying customer service quality. In this CX Today discussion ...
+
+### How can you reduce information overload associated with work tools?
+
+- URL: https://www.talkspirit.com/blog/how-can-you-reduce-information-overload-associated-with-work-tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support tool
+- Found: 2026-06-30
+- Description: 1. Streamline applications  2. Limit internal email  3. Keep meetings to a minimum  4. Turn off notifications  5. Filtering the information flow  6. Organize ...

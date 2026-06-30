@@ -218,3 +218,93 @@
 - Query: overload clinician tool mobile app
 - Found: 2026-06-29
 - Description: A research article discussing clinician tool overload in mobile health apps and proposing gateway apps with personalized content to reduce stress.
+
+### BetterHelp - Therapy (iOS & Android Official App)
+
+- URL: https://apps.apple.com/us/app/betterhelp-therapy/id995252384
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload therapy support iOS Android
+- Found: 2026-06-30
+- Description: BetterHelp is the official iOS and Android app providing convenient access to professional therapy from licensed therapists for managing sensory overload, anxiety, and stress. Features include secure messaging and video sessions tailored to neurodivergent support needs.
+
+### Cleveland Clinic: Sensory Overload Management Guide
+
+- URL: https://health.clevelandclinic.org/sensory-overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload therapy support iOS Android
+- Found: 2026-06-30
+- Description: An official Cleveland Clinic resource detailing how to manage and overcome sensory overload using deep breathing, meditation, and guided imagery. It provides source-backed strategies for neurodivergent individuals and recommends digital tools/apps to support these self-soothing techniques on iOS and Android.
+
+### Parent and Caregiver Support - Mass.gov
+
+- URL: https://www.mass.gov/info-details/parent-and-caregiver-support
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload parent support tool
+- Found: 2026-06-30
+- Description: Official state resource providing parent and caregiver support, including the Parental Stress Line for families overwhelmed by parenting challenges.
+
+### Parental Stress Line
+
+- URL: https://ppal.net/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload parent support tool
+- Found: 2026-06-30
+- Description: Independent hotline offering a safe space for parents and caregivers to discuss stresses like job loss or lack of support, with 24/7 availability.
+
+### Parents Helping Parents - Virtual Support Groups
+
+- URL: https://parentshelpingparents.org/virtual-support-groups
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload parent support tool
+- Found: 2026-06-30
+- Description: Community-based virtual support groups creating a safe space for parents to share difficulties and successes in raising neurodivergent children.
+
+### Overloaded Parents - NSPCC
+
+- URL: https://www.youtube.com/watch?v=hbRuzRS4AoY
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload parent support tool
+- Found: 2026-06-30
+- Description: Educational video addressing parental overload due to challenges like job loss or lack of support, relevant for neurodivergence parenting research.
+
+### Information Overload and Parental Perspectives
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11495572/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload parent support tool
+- Found: 2026-06-30
+- Description: Research article examining how information overload affects parents of pediatric patients, including insights on neurodivergence caregiving.
+
+### Brightspace Parent & Guardian Web Application
+
+- URL: https://community.d2l.com/brightspace/kb/articles/4559-brightspace-parent-guardian-web-application
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload parent support tool
+- Found: 2026-06-30
+- Description: Official school tool allowing parents to monitor children's academic work, supporting neurodivergent students' educational needs.
+
+### Support for Special Needs Caregivers in NY - Parent to Parent
+
+- URL: https://www.ptopnys.org
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: overload parent support tool
+- Found: 2026-06-30
+- Description: NY State caregiver support network offering resources for families of neurodivergent children, with direct contact for assistance.

@@ -298,3 +298,123 @@
 - Query: overload learning support mobile app
 - Found: 2026-06-29
 - Description: Overload is a general app for tracking gym progress and managing workout plans, supporting progressive overload training methods.
+
+### Bionic Reading - API and Web Converter for Faster Reading
+
+- URL: https://bionic-reading.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload reading support iOS Android
+- Found: 2026-06-30
+- Description: Official web tool and API that bolds the start of words to guide eye focus, reducing textual overload. Available as a browser converter and integrated into iOS apps like Reeder 5 and Fiery Feeds.
+
+### Reading Trainer: Speed Reading App
+
+- URL: https://apps.apple.com/us/app/reading-trainer-speed-reading/id416814366
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload reading support iOS Android
+- Found: 2026-06-30
+- Description: Official iOS app designed to train reading speed, focus, and comprehension with passwordless sign-in, helping users manage reading overload through structured practice.
+
+### Reeder 5 - RSS Reader with Bionic Reading Integration
+
+- URL: https://reederapp.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload reading support iOS Android
+- Found: 2026-06-30
+- Description: Official iOS RSS reader that supports Bionic Reading API integration, bolding word starts to ease information overload for neurodivergent users managing heavy content streams.
+
+### Fiery Feeds - RSS Reader with Custom Overload Controls
+
+- URL: https://cocoaapps.com/fiery-feeds/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload reading support iOS Android
+- Found: 2026-06-30
+- Description: Official iOS app featuring Bionic Reading support and customizable visual settings to reduce information overload, with Pro subscription options for advanced neurodivergent features.
+
+### Padboard.in - Information Archiving Tool for Overload Management
+
+- URL: https://pinboard.in/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload reading support iOS Android
+- Found: 2026-06-30
+- Description: Web-based tool to save and organize information into folders, preventing content loss and reducing digital overload for neurodivergent users managing complex information streams.
+
+### NextDraft - Curated Newsletter for Information Overload
+
+- URL: https://nextdraft.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload reading support iOS Android
+- Found: 2026-06-30
+- Description: Daily curated email newsletter and iOS app that filters news typhoons, offering a 'life vest' for users struggling with information overload and neurodivergent attention challenges.
+
+### Fiery Feeds Pro - Advanced RSS Reader with Bionic Features
+
+- URL: https://cocoaapps.com/fiery-feeds-pro/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload reading support iOS Android
+- Found: 2026-06-30
+- Description: Pro version of Fiery Feeds offering enhanced Bionic Reading integration and visual customization to mitigate reading overload, with monthly/yearly subscription models for full feature access.
+
+### Sensory Overload Prevention Toolkit (Miracle Recreation)
+
+- URL: https://www.miracle-recreation.com/blog/how-to-prevent-sensory-overload-at-school/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload classroom tool
+- Found: 2026-06-30
+- Description: Public resource detailing physical tools and environmental strategies like quiet spaces, weighted vests, and sensory headphones to prevent classroom overload.
+
+### 10 Calming Tools for School Classrooms (Therapy Shoppe)
+
+- URL: https://therapyshoppe.com/calming-tools-for-school-classrooms/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload classroom tool
+- Found: 2026-06-30
+- Description: Curated list of official products including pressure vests, weighted lap pads, chewy pencils, and fidget kits designed to manage sensory overload in classrooms.
+
+### Tiered Sensory Support Framework (EduTech YouTube)
+
+- URL: https://www.youtube.com/watch?v=fpOukmKGYQ0
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload classroom tool
+- Found: 2026-06-30
+- Description: Video documentation of a three-tier framework (universal, targeted, individualized) for preventing sensory overload, including tools like noise-canceling headphones and sensory diets.
+
+### Heavy Work Activities for Sensory Seeking Kids (Facebook Autism Parenting)
+
+- URL: https://www.facebook.com/groups/autismparenting/posts/1594291234828526/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload classroom tool
+- Found: 2026-06-30
+- Description: Community-posted list of heavy work tools and activities, such as scooter boards, to support sensory-seeking children and reduce classroom overload.
+
+### Essential Classroom Technology to Reduce Digital Overload (EdTech Magazine)
+
+- URL: https://edtechmagazine.com/k12/article/2023/05/essential-classroom-technology-reduce-digital-overload-k-12
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload classroom tool
+- Found: 2026-06-30
+- Description: Official article on reducing digital overload by categorizing audiovisual tools and flexible infrastructure to preserve student brain space for learning.

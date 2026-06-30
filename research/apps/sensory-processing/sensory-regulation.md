@@ -298,3 +298,93 @@
 - Query: overload overload mobile app
 - Found: 2026-06-29
 - Description: Public guide on app overload: what it is, why it happens, and methods to avoid it in business and personal contexts.
+
+### Apple Focus Modes - Calm Technology
+
+- URL: https://support.apple.com/en-us/102744
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload calming iOS Android
+- Found: 2026-06-30
+- Description: iOS Focus Modes allow users to create custom rules for notifications (Work, Personal, Sleep, Fitness), reducing constant pings and supporting calm technology principles.
+
+### General Plan Guidelines Online Mapping Tool
+
+- URL: https://resilientca.org/projects/8fb4b20d-b58e-48da-92c7-2792dab76526/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: A public planning tool that integrates local, regional, and statewide data sets to support environment planning and safety element updates, including climate change adaptation.
+
+### urban-and-regional-planning-resources Repository
+
+- URL: https://github.com/APA-Technology-Division/urban-and-regional-planning-resources
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: A curated GitHub repository containing urban and regional planning data and technology resources relevant to built environment and environment planning.
+
+### Data Basin Public Data Repositories
+
+- URL: https://landscapepartnership.org/maps-data/gis-planning/data/data-repositories
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: A public data platform offering open access to scientifically-grounded biological, physical, and socio-economic datasets for GIS and conservation planning.
+
+### Localized Flood Map Screening Tool
+
+- URL: https://metrocouncil.org/Communities/Planning/Local-Planning-Assistance/CVA/Tools-Resources.aspx
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: A tool for metro communities to assess areas and assets subject to potential flooding and extreme heat, supporting environment planning and risk mitigation.
+
+### Smart Growth Tools | US EPA
+
+- URL: https://www.epa.gov/smartgrowth/smart-growth-tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: A suite of EPA tools for sustainable development, including land use scorecards and impervious growth models to support environment planning and community resilience.
+
+### National Environmental Public Health Tracking Network Data Explorer
+
+- URL: https://ephtracking.cdc.gov/DataExplorer
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: CDC tool for viewing health, environmental, and population data in interactive maps, useful for environment planning and neurodivergence-related health research.
+
+### NEPAssist Planning Community Toolbox
+
+- URL: https://planning.erdc.dren.mil/toolbox/tools.cfm?Id=179&Option=Apps%2C+Tools%2C+and+Software
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: A web-based tool facilitating environmental review and project planning in relation to environmental considerations for environment planning initiatives.
+
+### National NPL Superfund Site Boundaries | US EPA
+
+- URL: https://www.arcgis.com/home/item.html?id=d6e1591d9a424f1fa6d95a02095a06d7
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: overload environment planning tool
+- Found: 2026-06-30
+- Description: EPA feature service providing geospatial boundaries of Superfund sites, supporting environment planning and risk assessment for affected communities.

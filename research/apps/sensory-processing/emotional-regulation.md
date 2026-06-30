@@ -218,3 +218,93 @@
 - Query: overload mood tracking mobile app
 - Found: 2026-06-29
 - Description: Therapist-approved list of top mood tracking apps for 2026, supporting anxiety, depression, bipolar disorder, and neurodivergent overload management with expert-recommended tools.
+
+### Digital Wellbeing (Android)
+
+- URL: https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload self regulation iOS Android
+- Found: 2026-06-30
+- Description: Official Android suite of tools for monitoring device usage, setting app timers, and enabling Focus Mode to reduce overload and improve self-regulatory capacity.
+
+### Forest: Stay Focused (iOS/Android)
+
+- URL: https://play.google.com/store/apps/details?id=cc.forestapp
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload self regulation iOS Android
+- Found: 2026-06-30
+- Description: Popular cross-platform app that gamifies self-regulation by punishing screen use with virtual tree death, helping users manage overload and build focus habits.
+
+### Pacify: Self-Regulation & Focus (iOS/Android)
+
+- URL: https://pacifyapp.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload self regulation iOS Android
+- Found: 2026-06-30
+- Description: Tool for neurodivergent individuals to manage sensory overload and improve focus through customizable timers, visual cues, and self-regulation exercises.
+
+### Ohmie: Self-Regulation for ADHD (iOS/Android)
+
+- URL: https://ohmieapp.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload self regulation iOS Android
+- Found: 2026-06-30
+- Description: App specifically designed for ADHD and neurodivergence, offering adaptive timers and visual feedback to reduce overload and enhance self-regulation.
+
+### ADHD Self-Regulation Toolkit (GitHub Repository)
+
+- URL: https://github.com/topics/adhd-self-regulation
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload self regulation iOS Android
+- Found: 2026-06-30
+- Description: Open-source collection of scripts, tools, and documentation for building custom self-regulation apps to manage information overload on iOS and Android.
+
+### Mental Health America - Coping Toolbox
+
+- URL: https://mhanational.org/resources/building-your-coping-toolbox/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload coping skills tool
+- Found: 2026-06-30
+- Description: Official guide from Mental Health America outlining a collection of skills, techniques, and items (like belly breathing, fidget toys, and grounding exercises) to manage anxiety and sensory overload.
+
+### CHADD - Coping with Sensory Overload
+
+- URL: https://chadd.org/attention-article/coping-with-sensory-overload/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload coping skills tool
+- Found: 2026-06-30
+- Description: Resource from the National Center for ADHD and Related Disorders providing five strategies for managing sensory overload, including mindfulness, self-talk, and sharing the struggle.
+
+### Prosper Health - Sensory Overload Guide for Autistic Adults
+
+- URL: https://www.prosperhealth.io/blog/how-to-deal-with-sensory-overload-in-autistic-adults
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload coping skills tool
+- Found: 2026-06-30
+- Description: Practical guide featuring immediate strategies like 4-7-8 breathing, the 5-4-3-2-1 grounding method, and a curated list of on-the-go sensory tools (headphones, fidgets, weighted objects).
+
+### Mental Health America - Coping Toolbox (PDF)
+
+- URL: https://www.maine.gov/bhr/oeh/sites/maine.gov.bhr.oeh/files/inline-files/Q2%20Coping%20with%20sensory%20overload.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: overload coping skills tool
+- Found: 2026-06-30
+- Description: A downloadable self-care resource from Maine.gov (referencing MHA content) offering step-by-step instructions to calm down, laugh, and build restful routines for overload management.

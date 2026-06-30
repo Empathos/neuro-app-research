@@ -238,3 +238,93 @@
 - Query: overload independence mobile app
 - Found: 2026-06-29
 - Description: Official mobile banking page for Independence Bank, providing a streamlined app interface for account access and transactions, supporting independence with minimal cognitive load.
+
+### Life Skills - Life Lessons
+
+- URL: https://play.google.com/store/apps/details?id=com.lifeskillseducation&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload life skills iOS Android
+- Found: 2026-06-30
+- Description: An official self-improvement app on Google Play packed with practical knowledge to enhance wellbeing, self-care, and personal growth, suitable for neurodivergent users developing life skills.
+
+### Overload: Workout Tracker - App Store
+
+- URL: https://apps.apple.com/us/app/overload-workout-tracker/id6467568306
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official Apple App Store page for Overload, a lightweight workout tracker tool designed to log lifts and body weight exercises without getting in the way.
+
+### Freeletics AI Coach - Progressive Overload at Home
+
+- URL: https://www.freeletics.com/en/progressive-overload-at-home/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official documentation from Freeletics detailing how their AI Coach tracks performance and adjusts home routines by adding reps, shortening rest, or introducing harder variations for progressive overload.
+
+### Progression: Workout Tracker App
+
+- URL: https://progression.app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official website for the Progression app, a free workout tracker that supports common regimes and exercises, helping users manage progressive overload variables like weight, reps, and rest.
+
+### Simply Strong App - Progressive Overload for Home Strength
+
+- URL: https://www.simplystrongapp.com/blog/progressive-overload-for-home-strength-training
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official blog from the Simply Strong App explaining how to apply progressive overload principles in home strength training using control, range of motion, and tempo adjustments.
+
+### Sweat App - Progressive Overload Training Guide
+
+- URL: https://sweat.com/blogs/fitness/progressive-overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official Sweat blog featuring a guide on the four elements of progressive overload (Volume, Intensity, Density, Frequency) and how the Sweat app track these in home routines.
+
+### Notion Template - Workout & Progressive Overload Tracker
+
+- URL: https://notion.ai/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official Notion platform page referencing user-created templates and databases for tracking workout progress and progressive overload, often used by neurodivergent individuals for structured routine management.
+
+### MadCow 5x5 Pro App - Hyperbolic Periodization
+
+- URL: https://madcowfitness.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official site for MadCow Fitness, featuring the 5x5 Pro app which structures home routines with hyperbolic periodization to manage progressive overload and avoid burnout.
+
+### GrassIron - Progressive Overload at Home Guide
+
+- URL: https://grassiron.com/blog/progressive-overload-at-home/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: overload home routine tool
+- Found: 2026-06-30
+- Description: Official blog from GrassIron outlining a 30-minute home routine tool strategy focusing on Volume, Density, and Frequency to systematically increase training stress without a gym.
