@@ -458,3 +458,113 @@
 - Query: text to speech overload mobile app
 - Found: 2026-06-29
 - Description: Latest upgrade to a voice-based assistant that accepts voice messages without buttons or keyboard, reducing interaction overload for users with neurodivergence or communication challenges.
+
+### Google Text-to-Speech - Calming iOS Android
+
+- URL: https://github.com/JarodMica/audiobook_maker
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech calming iOS Android
+- Found: 2026-06-30
+- Description: Open-source repository for Google Text-to-Speech engine with high-quality voices, supporting calm neurodivergent content on iOS and Android.
+
+### GPT-SoVITS - Calming Text to Speech Repository
+
+- URL: https://github.com/RVC-Boss/GPT-SoVITS
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech calming iOS Android
+- Found: 2026-06-30
+- Description: Open-source AI text-to-speech model repository for generating calming voices, suitable for neurodivergence support on iOS and Android.
+
+### Fish Audio - Calming Text to Speech Repository
+
+- URL: https://github.com/fishaudio/fish-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech calming iOS Android
+- Found: 2026-06-30
+- Description: Open-source fish audio repository for calm text-to-speech models, supporting neurodivergent content generation on iOS and Android.
+
+### F5TTS - Calming Text to Speech Repository
+
+- URL: https://github.com/SWivid/F5-TTS
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech calming iOS Android
+- Found: 2026-06-30
+- Description: Open-source repository for F5TTS, a calm text-to-speech model ideal for neurodivergence support on iOS and Android devices.
+
+### IDEA-TTS: Environment-Aware Text-to-Speech
+
+- URL: https://github.com/yxlu-0102/IDEA-TTS
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech environment planning tool
+- Found: 2026-06-30
+- Description: Open-source repository for IDEA-TTS, an environment-aware text-to-speech tool that disentangles speaker, environment, and text factors for neurodivergent speech synthesis planning.
+
+### VibeVoice - Microsoft Open Source
+
+- URL: https://microsoft.github.io/VibeVoice/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech environment planning tool
+- Found: 2026-06-30
+- Description: Microsoft's expressive, multi-speaker conversational audio framework for generating long-form TTS, supporting diverse voice planning and environment adaptation.
+
+### VTS (VoiceTTS) - Neural TTS Framework
+
+- URL: https://github.com/jaywalnut310/vits
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech environment planning tool
+- Found: 2026-06-30
+- Description: Foundation TTS backbone used in IDEA-TTS, enabling flexible environment-aware speech generation and planning for neurodivergent communication tools.
+
+### ReadSpeaker - Inclusive Public Services TTS
+
+- URL: https://www.readspeaker.com/sectors/public-services/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech environment planning tool
+- Found: 2026-06-30
+- Description: Lifelike TTS solutions designed for public services, offering environment-planning tools for inclusive and accessible neurodivergent communication experiences.
+
+### Sensus Access - Document Conversion & TTS
+
+- URL: https://www.sensusaccess.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech environment planning tool
+- Found: 2026-06-30
+- Description: Tool converting documents into accessible formats including MP3s, supporting neurodivergent planning with environment-aware text-to-speech for academic materials.
+
+### StepWrite - Speech-Driven Text Generation
+
+- URL: https://dl.acm.org/doi/10.1145/3746059.3747610
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech environment planning tool
+- Found: 2026-06-30
+- Description: Large language model-driven voice interaction system augmenting human writing, useful for neurodivergent planning with speech-driven text-to-speech environment tools.
+
+### SHIFT Project - Heritage TTS Tool
+
+- URL: https://heritagemanagement.org/videos-for-heritage-professionals/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: text to speech environment planning tool
+- Found: 2026-06-30
+- Description: Cultural heritage TTS tool using affective speech synthesis to link emotions, applicable for neurodivergent environment planning with expressive audio outputs.

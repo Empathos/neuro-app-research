@@ -268,3 +268,73 @@
 - Query: text to speech learning support mobile app
 - Found: 2026-06-29
 - Description: An AI-powered text-to-speech platform offering high-quality voice synthesis for educational content, supporting language learning and accessibility for neurodivergent students.
+
+### Easy Text to Speech Reader
+
+- URL: https://apps.apple.com/us/app/easy-text-to-speech-reader/id6746776224
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: text to speech reading support iOS Android
+- Found: 2026-06-30
+- Description: iOS app offering 152+ voices to read typed, pasted, or imported text aloud, including web page links and various file formats.
+
+### Mote - Text-to-Speech for Google Classroom
+
+- URL: https://www.mote.com/pillar-pages/text-to-speech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: text to speech classroom tool
+- Found: 2026-06-30
+- Description: Official product page for Mote, a Chrome extension adding natural AI voice text-to-speech directly into Google Classroom and Workspace, supporting 60+ languages and assistive features like highlighting and screen masking.
+
+### AnySpeech - Text to Speech for Teachers
+
+- URL: https://anyspeech.io/for-educators
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: text to speech classroom tool
+- Found: 2026-06-30
+- Description: Product page for AnySpeech, enabling teachers to convert slide decks, worksheets, and notes into natural AI audio with 12 languages and ESL-friendly accents for classroom-ready lessons.
+
+### FreeTTS.org - Text to Speech for Schools
+
+- URL: https://freetts.org/text-to-speech-for-schools
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: text to speech classroom tool
+- Found: 2026-06-30
+- Description: Official documentation for FreeTTS, a free, browser-based text-to-speech tool converting classroom text into MP3 audio with 400+ neural voices across 75+ languages, supporting IEP/504 accommodations without installs.
+
+### ReadSpeaker - TTS in Education
+
+- URL: https://www.readspeaker.com/blog/everything-you-need-to-know-about-text-to-speech-for-education/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: text to speech classroom tool
+- Found: 2026-06-30
+- Description: Blog and product overview from ReadSpeaker detailing cloud-based, dynamically produced speech capabilities for LMS integration, allowing students to personalize text consumption in learning environments.
+
+### Learning Technologies AB - Text-to-Speech in the Classroom
+
+- URL: https://www.youtube.com/watch?v=gwxyvsQa5RU
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: text to speech classroom tool
+- Found: 2026-06-30
+- Description: YouTube video demonstration by students and educators showing how text-to-speech converts digital text into speech, helping overcome reading barriers and supporting comprehension in classroom settings.
+
+### PMC Meta-Analysis - Text-to-Speech and Read-Aloud Tools
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5494021/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: text to speech classroom tool
+- Found: 2026-06-30
+- Description: Peer-reviewed meta-analysis on the effectiveness of text-to-speech and read-aloud tools for improving reading comprehension, finding a significant positive effect size for students with disabilities.

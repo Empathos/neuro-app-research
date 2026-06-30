@@ -328,3 +328,53 @@
 - Query: text to speech mood tracking mobile app
 - Found: 2026-06-29
 - Description: A market report detailing the growth of the mood tracker app industry, projected to reach $5.0 billion by 2035, with emerging trends in neurodivergent-focused design and accessibility features.
+
+### ElevenReader: Read Books Aloud
+
+- URL: https://apps.apple.com/us/app/elevenreader-read-books-aloud/id6479373050
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech self regulation iOS Android
+- Found: 2026-06-30
+- Description: A top-rated text-to-speech app on Apple App Store with incredibly natural voices for iOS, supporting the reading of ePUBs, PDFs, and text files to aid cognitive regulation.
+
+### Wing by Weingarten Center
+
+- URL: https://weingartencenter.universitylife.upenn.edu/assistive-tech-text-to-speech/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech coping skills tool
+- Found: 2026-06-30
+- Description: Penn's assistive technology offering including text-to-speech tools designed to support neurodivergent students with reading and coping strategies.
+
+### Read Aloud Browser Extension
+
+- URL: https://readaloud.app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech coping skills tool
+- Found: 2026-06-30
+- Description: A free Chrome, Firefox, and Edge extension that reads web content aloud, helping users with neurodivergence cope with dense text through auditory support.
+
+### Thorium Reader with TTS
+
+- URL: https://github.com/edrlab/thorium-reader
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech coping skills tool
+- Found: 2026-06-30
+- Description: An open-source ereader app with built-in text-to-speech for EPUB and DAISY books, supporting neurodivergent users with customizable reading and coping features.
+
+### Morphic Accessibility App
+
+- URL: https://www.morphic.ai/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: text to speech coping skills tool
+- Found: 2026-06-30
+- Description: A free assistive app for Windows and Mac that highlights, zooms, and reads text aloud, aiding neurodivergent users in coping with visual and reading stress.

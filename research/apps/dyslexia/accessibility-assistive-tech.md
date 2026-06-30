@@ -168,3 +168,93 @@
 - Query: text to speech accessibility mobile app
 - Found: 2026-06-29
 - Description: W3C Web Accessibility Initiative page providing semantic HTML guidelines and text alternatives to ensure text-to-speech compatibility for mobile devices and screen readers like VoiceOver and TalkBack.
+
+### Speak Selection and Speak Screen - iOS Accessibility
+
+- URL: https://support.apple.com/en-us/102732
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Apple's official guide on iOS text-to-speech accessibility tools, including Speak Selection for highlighted text and Speak Screen for full-page reading via swipe gestures.
+
+### VoiceOver - iOS Accessibility Screen Reader
+
+- URL: https://support.apple.com/en-us/102726
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Apple's official guide to VoiceOver, which includes robust text-to-speech and screen narration features on iOS devices, supporting users with diverse learning needs.
+
+### Android Accessibility Suite - Google Play Store
+
+- URL: https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Official download page for the Android Accessibility Suite on Google Play, which includes TalkBack, Select to Speak, and other text-to-speech tools.
+
+### Accessibility Settings - iOS User Guide
+
+- URL: https://support.apple.com/en-us/111807
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Apple's comprehensive guide to iOS Accessibility settings, covering Speech, Voice Control, and other tools that enable text-to-speech functionality for neurodivergent support.
+
+### TTS Reader
+
+- URL: https://www.ttsreader.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech adaptive tool
+- Found: 2026-06-30
+- Description: Simple, free text-to-speech tool that reads text aloud from websites, documents, and ebooks with synchronized highlighting for better comprehension.
+
+### Natural Reader (Chrome Extension)
+
+- URL: https://chrome.google.com/webstore/detail/natural-reader/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech adaptive tool
+- Found: 2026-06-30
+- Description: Official Chrome extension of Natural Reader, enabling instant text-to-speech on any webpage for neurodivergent users needing adaptive learning support.
+
+### WordTalk
+
+- URL: https://www.wordtalk.org.uk/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech adaptive tool
+- Found: 2026-06-30
+- Description: Free Microsoft Word add-in providing text-to-speech functionality directly within Word, supporting users with reading difficulties and dyslexia.
+
+### Balabolka
+
+- URL: https://www.crossmel.nl/en/balabolka
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech adaptive tool
+- Found: 2026-06-30
+- Description: Free, customizable Windows text-to-speech software that reads text from various file formats and saves generated audio, useful for offline adaptive learning.
+
+### Read Aloud (Chrome Extension)
+
+- URL: https://chrome.google.com/webstore/detail/read-aloud-a-text-to-speech/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: text to speech adaptive tool
+- Found: 2026-06-30
+- Description: Open-source Chrome extension that reads web pages aloud using built-in voice engines, offering accessible support for neurodivergent students and workers.

@@ -198,3 +198,53 @@
 - Query: text to speech independence mobile app
 - Found: 2026-06-29
 - Description: Official site for mobile app converting web pages and documents to audio with AI narration, supporting offline modes for neurodivergent independence from internet.
+
+### BridgingApps: Speechify and Spoken Content on iOS
+
+- URL: https://www.youtube.com/watch?v=NvULFEAi_Ss
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech life skills iOS Android
+- Found: 2026-06-30
+- Description: Video resource demonstrating Speechify's life skills features on iOS and Android, highlighting text-to-speech for neurodivergent users with accessibility and learning support.
+
+### Spoken App for People with Speech Difficulties
+
+- URL: https://www.facebook.com/groups/18641966512/posts/10161615911176513
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech life skills iOS Android
+- Found: 2026-06-30
+- Description: Community resource for the Spoken app, an iOS/Android tool that reads typed words aloud with customizable voices, supporting life skills for individuals with speech difficulties.
+
+### Text-to-Speech in Home Assistant (YouTube Tutorial)
+
+- URL: https://www.youtube.com/watch?v=Y7JN6YXtS2M
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech home routine tool
+- Found: 2026-06-30
+- Description: A step-by-step video tutorial on setting up text-to-speech (TTS) in Home Assistant using Node-RED, allowing users to automate home routines with voice commands and audio feedback for accessibility support.
+
+### Home Assistant Text-to-Speech (TTS) Integration Documentation
+
+- URL: https://www.home-assistant.io/integrations/tts/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech home routine tool
+- Found: 2026-06-30
+- Description: Official Home Assistant documentation for the TTS integration, a building block used by other integrations to enable voice output for automation routines, crucial for building accessible home environments.
+
+### Understood.org  Text-to-Speech Technology Guide
+
+- URL: https://www.readingrockets.org/topics/assistive-technology/articles/text-speech-technology-what-it-and-how-it-works
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: text to speech home routine tool
+- Found: 2026-06-30
+- Description: Educational guide from Reading Rockets (Understood.org) explaining how text-to-speech technology works as assistive tools for neurodivergent users, with examples like Voice Dream Reader and Office Lens for home routines.

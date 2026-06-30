@@ -578,3 +578,113 @@
 - Query: text to speech task initiation mobile app
 - Found: 2026-06-29
 - Description: A source code project for an Android text-to-speech app leveraging speech recognition and TTS technologies. Suitable for developers creating custom task initiation support tools.
+
+### Speech Central: Text to Speech - Apps on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.labsiisoftware.speechcentral
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech routine iOS Android
+- Found: 2026-06-30
+- Description: A premium Text-to-Speech (TTS) reader for iOS and Android that reads aloud PDFs, web pages, and documents with natural voices, designed for serious reading, privacy, and control.
+
+### Enabling Text-to-Speech in the Apps - Manual
+
+- URL: https://routinefactory.com/support/328411/enabling-text-to-speech-in-the-apps
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech routine iOS Android
+- Found: 2026-06-30
+- Description: Official documentation for Routine Factory explaining how to enable text-to-speech features within their routine apps to assist users who find reading activity descriptions difficult.
+
+### Use Text-to-Speech on Android to Read Out Incoming Messages
+
+- URL: https://www.tutsplus.com/lesson/use-text-to-speech-on-android-to-read-out-incoming-messages
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech routine iOS Android
+- Found: 2026-06-30
+- Description: A tutorial guide on creating an Android app that uses the text-to-speech API and broadcast receivers to read incoming SMS messages aloud, useful for accessibility support.
+
+### Reminder FLEX - Text-to-Speech Reminder App
+
+- URL: https://play.google.com/store/apps/details?id=com.argonremote.vpreminder
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: Android reminder app with Text-to-Speech feature that reads reminder titles or memos aloud at scheduled times, helping users with neurodivergence not miss important reminders.
+
+### YouGot - AI Voice Reminder for Neurodivergent Support
+
+- URL: https://www.yougot.ai
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: Plain English reminder tool supporting SMS, WhatsApp, email, and push notifications with voice capabilities, designed for neurodivergent individuals to manage reminders easily.
+
+### Apple Reminder, Reminders with Voice - App Store
+
+- URL: https://apps.apple.com/us/app/reminder-reminders-with-voice/id1071899483
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: iOS app allowing users to record their own voice or select a song for reminders, offering voice-based reminder support for neurodivergent users.
+
+### Evernote - Reminder App with Voice-to-Text
+
+- URL: https://evernote.com/note-taking/reminder-app-with-voice-to-text
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: App converting spoken words into text to create reminders, enabling neurodivergent users to dictate reminder details and transform them into written notes.
+
+### Apple Reminder with Voice Reminders - App Store
+
+- URL: https://apps.apple.com/us/app/reminder-with-voice-reminders/id469454389
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: iOS app simplifying reminder creation with voice support, offering neurodivergence-friendly reminder management through voice-to-text and voice reminders.
+
+### Facebook - Voice Activated Reminder App for Forgetful People
+
+- URL: https://www.facebook.com/groups/504847121011133/posts/1405190924310077
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: Community discussion about AI transcript apps like Notee, allowing users to record to-do lists via voice, supporting neurodivergent reminder management.
+
+### UserVoice - VOICE REMINDERS: Text-to-Speech Engine
+
+- URL: https://appgenix.uservoice.com/forums/280499-business-calendar-2-open/suggestions/14909529-voice-reminders-text-to-speech-engine-to-read-app
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: Feature request for text-to-speech engine reading appointment descriptions aloud as reminders, directly addressing neurodivergence support for text-to-speech reminders.
+
+### YouTube - Send Appointment Reminders With AI Voice Agents
+
+- URL: https://www.youtube.com/watch?v=57xHpYRb-ZQ
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: text to speech reminders tool
+- Found: 2026-06-30
+- Description: Tutorial on using AI voice agents to send appointment reminders via voice calls and text messages, supporting neurodivergent users with automated text-to-speech reminders.
