@@ -588,3 +588,63 @@
 - Query: focus learning support mobile app
 - Found: 2026-06-29
 - Description: YouTube video from Pinellas County Schools discussing the rollout of the new FOCUS system, including updates to the mobile app for accessing student news, messaging, and school updates.
+
+### Focus: Read Better - App Store (Apple)
+
+- URL: https://apps.apple.com/pl/app/focus-read-better/id6738621903
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus reading support iOS Android
+- Found: 2026-06-30
+- Description: Official iOS app designed to boost focus and reading skills with features like story saving, reading speed control, and word-by-word reading mode.
+
+### Focus Text  Reading Assistant - App Store (Apple)
+
+- URL: https://apps.apple.com/us/app/focus-text-reading-assistant/id6757893434
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus reading support iOS Android
+- Found: 2026-06-30
+- Description: Official iOS app combining text scanning, read-aloud support, and distraction-reduced reading modes to improve accessibility for everyday use.
+
+### Reading mode - Google Play (Android)
+
+- URL: https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus reading support iOS Android
+- Found: 2026-06-30
+- Description: Official Android app enhancing screen reading with customizable contrast, text size, text-to-speech, and font types to reduce visual clutter.
+
+### ScreenZen - Focus & Site/App Blocker
+
+- URL: https://bookriot.com/the-best-apps-to-use-for-focus/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus reading support iOS Android
+- Found: 2026-06-30
+- Description: Popular focus app (iOS/Android) that prompts users to pause before entering apps, helping them reevaluate priorities and reduce social media distraction while reading.
+
+### Task Cards Index
+
+- URL: https://teacherformed.com/resources/task-cards
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus classroom tool
+- Found: 2026-06-30
+- Description: A guide and template repository for creating visual task cards that break large assignments into smaller, manageable steps to support executive functioning.
+
+### TILT Framework for Neurodivergent Students
+
+- URL: https://www.tiltframework.org/resources/neurodivergent-students
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: focus classroom tool
+- Found: 2026-06-30
+- Description: An official documentation page detailing transparent assignment design strategies that reduce cognitive load and support neurodivergent learners in classroom settings.

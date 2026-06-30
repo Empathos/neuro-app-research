@@ -298,3 +298,63 @@
 - Query: focus independence mobile app
 - Found: 2026-06-29
 - Description: Research examining barriers to sustained user engagement in mobile mental health apps, offering insights for improving independence-support tools for neurodivergent populations.
+
+### Todoist: Task Organizer
+
+- URL: https://play.google.com/store/apps/details?id=com.todoist
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus life skills iOS Android
+- Found: 2026-06-30
+- Description: A cross-platform task organizer for iOS and Android that prioritizes tasks by deadlines and projects, supporting focus life skills with clear, simple interfaces.
+
+### Microsoft To Do
+
+- URL: https://play.google.com/store/apps/details?id=com.microsoft.todos
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus life skills iOS Android
+- Found: 2026-06-30
+- Description: A simple task organizer for iOS and Android that integrates with Outlook, helping users manage deadlines and focus life skills without overwhelm.
+
+### StayFocusd - Chrome Website Blocker
+
+- URL: https://www.stayfocusd.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus home routine tool
+- Found: 2026-06-30
+- Description: Free Chrome extension that blocks distracting websites to help maintain focus during home routine tasks. Official product page with installation instructions.
+
+### Dubbii - Body Doubling App for House Tasks
+
+- URL: https://dubbii.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus home routine tool
+- Found: 2026-06-30
+- Description: Subscription-based iOS and Android app that provides body doubling support for household tasks, offering step-by-step video guidance. Official product page.
+
+### Alarmy - Alarm Clock with Focus Tasks
+
+- URL: https://alarmy.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus home routine tool
+- Found: 2026-06-30
+- Description: iOS and Android alarm clock app that requires solving puzzles or performing tasks to stop the alarm, encouraging morning routine completion. Official product page with app store links.
+
+### RescueTime - Time Management Software
+
+- URL: https://rescuetime.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: focus home routine tool
+- Found: 2026-06-30
+- Description: Windows and MacOS software that tracks time spent on activities to help optimize focus and routine efficiency. Official product page with free trial and subscription options.

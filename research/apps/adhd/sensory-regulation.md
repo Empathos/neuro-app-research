@@ -388,3 +388,113 @@
 - Query: focus overload mobile app
 - Found: 2026-06-29
 - Description: AppAdvice review page for Focus Overload, featuring user ratings and detailed feedback on how the app helps manage focus overload, reduce context switching, and improve productivity for neurodivergent individuals.
+
+### Focus Keeper - Pomodoro Timer for Calm Focus
+
+- URL: https://focuskeeper.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus calming iOS Android
+- Found: 2026-06-30
+- Description: Free iOS and Android app using the Pomodoro method to help users focus with structured work and break intervals, reducing stress and improving calm.
+
+### Mindful Browsing - Gentle Distraction Blocker
+
+- URL: https://mindfulbrowsing.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus calming iOS Android
+- Found: 2026-06-30
+- Description: A browser extension and mobile companion tool for iOS and Android that offers a gentler, mindful approach to avoiding distractions and staying calm.
+
+### Alarmy - Alarm Clock with Calming Puzzles
+
+- URL: https://alarmy.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus calming iOS Android
+- Found: 2026-06-30
+- Description: iOS and Android alarm app that uses puzzles or tasks to wake users, reducing morning stress and helping users start the day with calm focus.
+
+### [PDF] Designing for Health Equity: Advancing the Public Repository to ...
+
+- URL: https://www.asid.org/lib24watch/files/download/26263
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description: The tool will assist design teams in identifying key environmental, socioeconomic and health concerns during the Discovery phase of a project, allowing ...
+
+### Eco Planning Tool - SEMCOG
+
+- URL: https://maps.semcog.org/EcoPlanningTool/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description: This tool is designed to provide early environmental planning indicators for potential development, transportation, and green infrastructure implementation ...
+
+### Public Data Repositories  GIS & Conservation Planning Toolkit
+
+- URL: https://landscapepartnership.org/maps-data/gis-planning/data/data-repositories
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description: In this website you will find maps of environmental variables, human impacts, and land use. If you use anything from the Atlas in a publication, ...
+
+### Presentation Project Overview, Scoping Meeting 9-1-2020
+
+- URL: https://lf.portorchardwa.gov/WebLink/DocView.aspx?id=50390&dbid=0&repo=PortOrchard
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description:  A planning tool for use by the City, other agencies, tribes, and the public.  A document that identifies mitigation measures and ...
+
+### Functional analysis of web-based GIS tools for environmental justice ...
+
+- URL: https://www.sciencedirect.com/science/article/pii/S1361920924000373
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description: We review several publicly available online Geographical Information System (GIS) tools that were recently developed for purposes of expanding public and ...
+
+### Environmental Justice Focus Groups | DVRPC's Public Participation ...
+
+- URL: https://publicparticipation.dvrpc.org/ej-lrp
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description: We work with different levels of government and the region's residents to prioritize transportation infrastructure needs and available funding ...
+
+### [PDF] Tools, Resources, and Notable Practices to apply the National PEL ...
+
+- URL: https://www.planning.dot.gov/documents/Tools_Resources_and_Notable_Practices_to_Apply_the_National_PEL_Framework_Final.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description: A successful application of. PEL will mean the public has more opportunity to provide input and engage in the planning process. This is also true for other ...
+
+### Who Is Planning for Environmental Justiceand How?
+
+- URL: https://www.tandfonline.com/doi/abs/10.1080/01944363.2022.2118155
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-06-30
+- Description: Environmental justice (EJ) seeks to correct legacies of disproportionately burdening low-income and Black, Indigenous, and people of color (BIPOC) communities ...

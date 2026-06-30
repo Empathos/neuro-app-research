@@ -328,3 +328,93 @@
 - Query: focus task initiation mobile app
 - Found: 2026-06-29
 - Description: Article discussing strategies for ADHD task initiation, including mobile app recommendations like body doubling tools and accountability apps for overcoming paralysis.
+
+### Forest: Focus for Productivity
+
+- URL: https://play.google.com/store/apps/details?id=cc.forestapp
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus routine iOS Android
+- Found: 2026-06-30
+- Description: A popular Pomodoro timer and ADHD focus app designed to beat phone addiction. It gamifies focus sessions, helping users stay on task through visual rewards, suitable for both iOS and Android.
+
+### Habi - Daily Routine & Habit Tracker
+
+- URL: https://habi.app/insights/best-daily-routine-apps/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus routine iOS Android
+- Found: 2026-06-30
+- Description: Habi combines habit tracking, project management, to-do lists, and a Pomodoro focus timer. It is designed to help users build consistent daily routines and improve productivity across iOS and Android.
+
+### Akiflow - Task Inbox & Time Blocking
+
+- URL: https://toolfinder.co/go/akiflow
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus routine iOS Android
+- Found: 2026-06-30
+- Description: Akiflow is a premium task inbox and time-blocking app with integrations and shortcuts. It supports neurodivergent users by enabling structured planning and automatic scheduling on both mobile and desktop platforms.
+
+### Motion - AI Calendar & Task Scheduler
+
+- URL: https://toolfinder.co/go/motion
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus routine iOS Android
+- Found: 2026-06-30
+- Description: Motion uses AI to automatically schedule tasks into your calendar, helping users 'stop planning and start doing.' It is available on iOS and Android, ideal for those who struggle with manual task management.
+
+### TickTick - Tasks, Calendar & Pomodoro
+
+- URL: https://toolfinder.co/go/ticktick
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus routine iOS Android
+- Found: 2026-06-30
+- Description: TickTick is an all-in-one task manager with calendar views and a built-in Pomodoro timer. It supports focus routines and time-blocking, making it a versatile tool for neurodivergent users on iOS and Android.
+
+### Structured - Visual Timeline Planner
+
+- URL: https://toolfinder.co/go/structured
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus routine iOS Android
+- Found: 2026-06-30
+- Description: Structured is a visual timeline planner designed for time-blocking. It helps users 'see their day' at a glance, making it easier to manage routines and focus sessions on iOS and Android devices.
+
+### Focus Bear - ADHD & Autism Focus App
+
+- URL: https://focusbearapp.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus reminders tool
+- Found: 2026-06-30
+- Description: Official website for Focus Bear, an app designed to help neurodivergent users with focus reminders, task breakdowns, and productivity tracking specifically tailored for ADHD and autism.
+
+### My Study Life - Scholar Planner
+
+- URL: https://www.mystudylife.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus reminders tool
+- Found: 2026-06-30
+- Description: Official site for My Study Life, a scheduler app that sends reminders for classes, tasks, and exams, helping neurodivergent students manage cognitive load and stay on track with assignments.
+
+### Serene - Custom Focus App
+
+- URL: https://serene.life
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: focus reminders tool
+- Found: 2026-06-30
+- Description: Serenes official site for a customizable focus app that includes ambient sounds, white noise, and nature-based reminders to support concentration and reduce overstimulation for neurodivergent minds.
