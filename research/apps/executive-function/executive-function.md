@@ -348,3 +348,23 @@
 - Query: task initiation planning app
 - Found: 2026-06-29
 - Description: Developer documentation and source repository for Goblin Tools, detailing the AI task breakdown algorithm used to support task initiation planning.
+
+### Focus Bear: All-in-One Focus & Habit Tool
+
+- URL: https://prosperhealth.io/blog/apps-and-tools-to-help-autistic-adults-stay-organized
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: task initiation routine iOS Android
+- Found: 2026-06-30
+- Description: Overview of Focus Bear, an all-in-one app for iOS and Android that structures days with automated routines, website blockers, and mindfulness breaks to help autistic adults initiate tasks and build focus-friendly habits.
+
+### Brain.fm: Focus Music for Neurodivergent Brains
+
+- URL: https://www.brain.fm/nl/blog/neurodivergent-productivity-tools-adhd
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: task initiation routine iOS Android
+- Found: 2026-06-30
+- Description: Guide to using Brain.fm as an audio foundation for neurodivergent productivity, helping users initiate and maintain attention on tasks via purpose-driven focus music on iOS and Android.

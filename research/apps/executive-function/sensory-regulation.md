@@ -346,3 +346,23 @@
 - Query: task initiation overload mobile app
 - Found: 2026-06-29
 - Description: Peer-reviewed study using cognitive task analysis to evaluate mobile health record applications, providing data on how cognitive load impacts user interaction and task initiation in mobile health contexts.
+
+### Time Timer: Visible Time
+
+- URL: https://www.findinnercalm.ca/adhd-apps-for-executive-functioning-that-work/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: task initiation calming iOS Android
+- Found: 2026-06-30
+- Description: Visual timer concept that makes time 'visible' rather than abstract, helping users calm down and initiate tasks by reducing time pressure anxiety on mobile devices.
+
+### Microsoft To Do - Task Manager
+
+- URL: https://to-do.microsoft.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: task initiation environment planning tool
+- Found: 2026-06-30
+- Description: A seamless task manager for Microsoft users that supports task initiation with features like My Day, reminders, and list organization for structured planning.

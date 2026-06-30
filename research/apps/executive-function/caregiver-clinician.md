@@ -223,3 +223,43 @@
 - Query: task initiation clinician tool mobile app
 - Found: 2026-06-29
 - Description: Mobile application specializing in breaking tasks into small, sequential steps with visual cues to build momentum and reduce anxiety around task initiation.
+
+### Structured App - Visual Time Blocking
+
+- URL: https://structured.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation therapy support iOS Android
+- Found: 2026-06-30
+- Description: A visual time-blocking app for iOS and Android that aids task initiation by providing clear, visual representations of daily schedules, reducing the mental friction of starting tasks by making time tangible.
+
+### Brili - ADHD Daily Routine Planner for Kids
+
+- URL: https://brili.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation parent support tool
+- Found: 2026-06-30
+- Description: An app designed by parents of ADHD children to create step-by-step morning and evening routines, using timers and visual cues to help kids initiate tasks independently.
+
+### TaskAnalysis App - Customizable Task Steps for Independence
+
+- URL: https://taskanalysis.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation parent support tool
+- Found: 2026-06-30
+- Description: A highly customizable app allowing parents to create step-by-step task lists with visual and auditory cues, supporting individuals with intellectual disabilities in initiating and completing daily tasks.
+
+### Focusmate - Virtual Co-Working for Task Initiation
+
+- URL: https://focusmate.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: task initiation parent support tool
+- Found: 2026-06-30
+- Description: A platform offering scheduled virtual co-working sessions (body doubling) to help users, including teens and adults, overcome procrastination and start tasks through social accountability.

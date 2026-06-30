@@ -298,3 +298,23 @@
 - Query: task initiation learning support mobile app
 - Found: 2026-06-29
 - Description: Public documentation page for Vehicle, a tool that helps students break down tasks and use visual schedules to improve task initiation and reduce procrastination.
+
+### Impulse Control Journal - Task Initiation Management
+
+- URL: https://theimpulsecontroljournal.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: task initiation classroom tool
+- Found: 2026-06-30
+- Description: Documentation page for a structured journal tool designed to help manage executive function challenges, including task initiation, often adapted for student use.
+
+### ADHD Apps for Executive Functioning That Work
+
+- URL: https://findinnercalm.ca/adhd-apps-for-executive-functioning-that-work/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: task initiation classroom tool
+- Found: 2026-06-30
+- Description: Article listing effective apps like Tiimo and Forest that lower activation energy for task initiation, with specific mentions of visual schedules useful in classrooms.
