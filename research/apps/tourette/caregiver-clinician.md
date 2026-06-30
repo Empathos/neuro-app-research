@@ -238,3 +238,93 @@
 - Query: habit awareness clinician tool mobile app
 - Found: 2026-06-29
 - Description: Keen2 is a smart bracelet & mobile app system that is specially designed to help people build awareness and take control of hair pulling, skin picking & nail ...
+
+### HabitAware Clinical Trial: Habit Awareness Device for Onychophagia
+
+- URL: https://clinicaltrials.gov/study/NCT06111729
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness therapy support iOS Android
+- Found: 2026-06-30
+- Description: Public clinical trial listing for the HabitAware device, investigating a vibration bracelet for nail-biting (onychophagia) treatment compatible with iOS 13.0+ and Android 6.0+, supporting evidence-based habit awareness therapy.
+
+### Habit Tracker - App Store
+
+- URL: https://apps.apple.com/bg/app/habit-tracker/id1438388363
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness therapy support iOS Android
+- Found: 2026-06-30
+- Description: Official Apple App Store page for 'Habit Tracker', a simple daily planner for scheduling and tracking routines on iOS, designed to help neurodivergent users build lasting habits and support habit awareness therapy.
+
+### Lotus Bud - Mindfulness App
+
+- URL: https://apps.apple.com/us/app/lotus-bud-mindfulness/id1438388363
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness therapy support iOS Android
+- Found: 2026-06-30
+- Description: Official Apple App Store page for Lotus Bud, a mindfulness app for iOS that uses gentle nudges to help users pause and check in, supporting subconscious habit change and neurodivergent habit awareness therapy.
+
+### HabitKid: Kids Habit Tracker
+
+- URL: https://play.google.com/store/apps/details?id=com.habit.kod.habit_kid
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness parent support tool
+- Found: 2026-06-30
+- Description: A colorful, kid-friendly habit tracker and chore chart that helps children build positive routines, complete daily tasks, and earn rewards. Ideal for habit awareness and parent support.
+
+### KidHab: Kid's Habit Tracker
+
+- URL: https://apps.apple.com/ee/app/kidhab-kids-habit-tracker/id1550279631
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness parent support tool
+- Found: 2026-06-30
+- Description: A collaborative parent-child app designed to develop good habits in an entertaining way. Parents can track progress and praise children for achievements, supporting habit awareness.
+
+### DinoHabit - Habit Tracking App for Kids
+
+- URL: https://brandnewbox.com/notes/2021/08/ben-and-dinohabit/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness parent support tool
+- Found: 2026-06-30
+- Description: A habit tracking app featuring a parent control center to view weekly/monthly progress of each child. Supports habit awareness and structured routine building for neurodivergent kids.
+
+### Family Habits
+
+- URL: https://www.familyhabits.app
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness parent support tool
+- Found: 2026-06-30
+- Description: An app designed to help families build healthier habits using science-based tools. Supports habit awareness and parent-led routine development for children, including those with neurodivergence.
+
+### Commercially Available Mobile Apps for Behavioral Goals
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10612003/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness parent support tool
+- Found: 2026-06-30
+- Description: A research study reviewing apps targeting parents in setting and tracking behavioral goals for children. Includes habit awareness tools focused on nutrition, activity, sleep, and hygiene for neurodivergent support.
+
+### Habit Awareness Parent Support Tools Review
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/3603234913274928/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: habit awareness parent support tool
+- Found: 2026-06-30
+- Description: A community discussion on effective habit and chore tracking apps for kids with ADHD. Highlights tools like Kids Daily Habit Tracker for teaching productive routines and habit awareness.

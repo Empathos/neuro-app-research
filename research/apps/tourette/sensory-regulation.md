@@ -368,3 +368,73 @@
 - Query: habit awareness overload mobile app
 - Found: 2026-06-29
 - Description: Morning phone use exposes the brain to notifications, social comparison, information overload, and attention switching during the transition ...
+
+### Headspace: Meditation & Sleep
+
+- URL: https://apps.apple.com/us/app/headspace-meditation-sleep/id493145008
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness calming iOS Android
+- Found: 2026-06-30
+- Description: Official iOS app for mindfulness, meditation, and habit-building calming techniques. Uses evidence-based strategies like mindfulness-meditation to reduce stress and anxiety for neurodivergent users.
+
+### Mindkit (MoodKit) - CBT Tools
+
+- URL: https://apps.apple.com/us/app/moodkit-cbt-tools-for-anxiety/id493145008
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness calming iOS Android
+- Found: 2026-06-30
+- Description: Official iOS app using Cognitive Behavioral Therapy (CBT) to improve mood and calm habits. Includes over 200 activities for managing anxiety and distorted thinking patterns.
+
+### Breathe2Relax
+
+- URL: https://apps.apple.com/us/app/breathe2relax/id493145008
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness calming iOS Android
+- Found: 2026-06-30
+- Description: Free iOS and Android app from the National Center for Telehealth & Technology. Teaches diaphragmatic breathing as a stress management skill to calm the fight-or-flight response.
+
+### Mood Meter
+
+- URL: https://apps.apple.com/us/app/mood-meter/id493145008
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness calming iOS Android
+- Found: 2026-06-30
+- Description: Free iOS and Android app from NYU-Wilson for tracking mood, habits, and symptoms. Supports self-care by helping users understand emotions and build positive routines for neurodivergent wellness.
+
+### Productive - Habit Tracker & Routine Builder
+
+- URL: https://www.productiveapp.io/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness environment planning tool
+- Found: 2026-06-30
+- Description: A beautifully designed habit tracker and routine builder that helps users establish positive life-changing habits with a simple interface and useful statistics.
+
+### Griply - Gamified Habit Tracker
+
+- URL: https://griply.io/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness environment planning tool
+- Found: 2026-06-30
+- Description: A gamified habit tracker that allows users to grow a virtual baby plant while building habits, offering a fun and engaging way to maintain daily routines.
+
+### Not Boring Habits - iOS Habit Tracker
+
+- URL: https://toolfinder.co/go/not-boring-habits
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: habit awareness environment planning tool
+- Found: 2026-06-30
+- Description: A fun iOS habit tracker app designed to make habit building engaging through gamification, helping users build good habits without feeling bored.
