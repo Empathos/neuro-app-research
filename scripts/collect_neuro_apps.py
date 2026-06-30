@@ -74,6 +74,23 @@ RELEVANCE_TERMS = {
     "tourette",
 }
 
+CONDITION_EVIDENCE_TERMS = {
+    "dyslexia": [
+        "dyslexia",
+        "dyslexic",
+        "reading disorder",
+        "reading disability",
+        "specific learning disability",
+        "specific learning difference",
+        "decoding",
+        "phonological",
+        "structured literacy",
+        "orton-gillingham",
+        "print disability",
+        "accessible reading",
+    ],
+}
+
 
 def slug(value: str) -> str:
     return value.strip().lower().replace("_", "-").replace(" ", "-")
@@ -313,6 +330,21 @@ def relevant_enough(title: str, description: str, query: str) -> bool:
     return has_query_match and has_domain_match
 
 
+def condition_evidence_text(finding: dict) -> str:
+    return " ".join(
+        str(finding.get(key, ""))
+        for key in ("title", "description", "url")
+    ).lower()
+
+
+def has_condition_evidence(condition: str, finding: dict) -> bool:
+    evidence_terms = CONDITION_EVIDENCE_TERMS.get(condition, [])
+    if not evidence_terms:
+        return True
+    haystack = condition_evidence_text(finding)
+    return any(term in haystack for term in evidence_terms)
+
+
 def compose_query(condition_term: str, category_term: str, modifier: str) -> str:
     category_words = set(re.findall(r"[a-z0-9]+", category_term.lower()))
     modifier_words = set(re.findall(r"[a-z0-9]+", modifier.lower()))
@@ -403,6 +435,23 @@ def append_entries(
     return accepted
 
 
+def rejected_finding(
+    finding: dict,
+    condition: str,
+    category: str,
+    query: str,
+    reason: str,
+) -> dict:
+    return {
+        **finding,
+        "condition": condition,
+        "support_category": category,
+        "query": query,
+        "rejected_at": dt.datetime.now(dt.UTC).isoformat(),
+        "reason": reason,
+    }
+
+
 def validate_findings(
     condition: str,
     category: str,
@@ -413,6 +462,17 @@ def validate_findings(
     accepted = []
     rejected = []
     for finding in findings:
+        if not has_condition_evidence(condition, finding):
+            rejected.append(
+                rejected_finding(
+                    finding,
+                    condition,
+                    category,
+                    query,
+                    "missing condition-specific evidence",
+                )
+            )
+            continue
         url = finding.get("url", "")
         result = check_links.check_link(
             check_links.Link(url, (f"collector:{condition}/{category}",)),
@@ -426,18 +486,72 @@ def validate_findings(
         }
         if result.status == "dead":
             rejected.append(
-                {
-                    **finding_with_status,
-                    "condition": condition,
-                    "support_category": category,
-                    "query": query,
-                    "rejected_at": dt.datetime.now(dt.UTC).isoformat(),
-                    "reason": result.detail,
-                }
+                rejected_finding(finding_with_status, condition, category, query, result.detail)
             )
             continue
         accepted.append(finding_with_status)
     return accepted, rejected
+
+
+def parse_entry_blocks(markdown: str) -> list[tuple[str, dict]]:
+    pattern = re.compile(r"(?ms)^### .+?(?=^### |\Z)")
+    blocks = []
+    for match in pattern.finditer(markdown):
+        block = match.group(0)
+        title = block.splitlines()[0].removeprefix("### ").strip()
+        fields = {
+            key.lower().replace(" ", "_"): value.strip()
+            for key, value in re.findall(r"^- ([^:]+):\s*(.*)$", block, flags=re.MULTILINE)
+        }
+        blocks.append(
+            (
+                block,
+                {
+                    "title": title,
+                    "url": fields.get("url", ""),
+                    "description": fields.get("description", ""),
+                    "source": fields.get("source", ""),
+                },
+            )
+        )
+    return blocks
+
+
+def prune_condition_mismatches(condition: str, dry_run: bool = False) -> list[dict]:
+    pruned = []
+    condition_dir = APP_DIR / condition
+    if not condition_dir.exists():
+        return pruned
+    for path in sorted(condition_dir.glob("*.md")):
+        markdown = path.read_text(encoding="utf-8")
+        updated = markdown
+        try:
+            display_path = str(path.relative_to(ROOT))
+        except ValueError:
+            display_path = str(path)
+        for block, finding in parse_entry_blocks(markdown):
+            if has_condition_evidence(condition, finding):
+                continue
+            pruned.append(
+                {
+                    **finding,
+                    "condition": condition,
+                    "support_category": path.stem,
+                    "path": display_path,
+                    "reason": "missing condition-specific evidence",
+                }
+            )
+            updated = updated.replace(block, "")
+        if updated != markdown and not dry_run:
+            path.write_text(re.sub(r"\n{3,}", "\n\n", updated).lstrip(), encoding="utf-8")
+    return pruned
+
+
+def prune_all_condition_mismatches(dry_run: bool = False) -> list[dict]:
+    pruned = []
+    for condition in sorted(CONDITION_EVIDENCE_TERMS):
+        pruned.extend(prune_condition_mismatches(condition, dry_run=dry_run))
+    return pruned
 
 
 def write_run_summary(record: dict) -> None:
@@ -489,6 +603,21 @@ def main() -> int:
     parser.add_argument("--max-results", type=int, default=8)
     parser.add_argument("--query-count", type=int, default=3)
     parser.add_argument("--link-timeout", type=float, default=8.0)
+    parser.add_argument(
+        "--prune-condition-mismatches",
+        action="store_true",
+        help="Remove existing leads that lack condition-specific evidence.",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Report prune candidates without changing files.",
+    )
+    parser.add_argument(
+        "--all-conditions",
+        action="store_true",
+        help="Apply prune mode to every condition with condition-specific evidence rules.",
+    )
     args = parser.parse_args()
 
     config = load_config()
@@ -500,6 +629,16 @@ def main() -> int:
         "seen_urls": [],
     }
     condition = choose_condition(config, bootstrap_state, args.focus)
+    if args.prune_condition_mismatches:
+        pruned = (
+            prune_all_condition_mismatches(dry_run=args.dry_run)
+            if args.all_conditions
+            else prune_condition_mismatches(condition, dry_run=args.dry_run)
+        )
+        scope = "all" if args.all_conditions else condition
+        print(json.dumps({"condition": scope, "pruned": pruned}, indent=2, sort_keys=True))
+        return 1 if args.dry_run and pruned else 0
+
     state_path = condition_state_path(condition)
     state = load_state(state_path)
     seen_urls = set(state.get("seen_urls", []))

@@ -33,6 +33,9 @@ jobs:
       - name: Test link checker
         run: python3 -m unittest discover -s tests
 
+      - name: Prune condition mismatches
+        run: python3 scripts/collect_neuro_apps.py --prune-condition-mismatches --all-conditions
+
       - name: Check research links
         run: python3 scripts/check_links.py --report link-check-report.md --max-public-dead 2 --prune-public-dead
 
