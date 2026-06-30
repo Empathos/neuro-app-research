@@ -248,3 +248,83 @@
 - Query: accessibility mood tracking mobile app
 - Found: 2026-06-29
 - Description: Comprehensive guide on selecting accessible mood tracker apps, highlighting customization, privacy, and ease of use for neurodivergent individuals.
+
+### Smiling Mind - Mental Health App for All Ages
+
+- URL: https://smilingmind.com.au/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official documentation and app-store lead for Smiling Mind, a clinically validated mindfulness app designed to help neurodivergent individuals manage stress, anxiety, and improve accessibility in coping skills through age-appropriate tools.
+
+### Booster Buddy - Coping Skills App for Kids
+
+- URL: https://kidssmilingmind.com.au/booster-buddy/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official product page for Booster Buddy, a free app specifically designed to help young neurodivergent children understand stress, identify feelings, and practice accessible coping skills in an engaging, interactive format.
+
+### Bouncy the People Trainer - Social & Emotional Learning App
+
+- URL: https://kidssmilingmind.com.au/bouncy-the-people-trainer/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official lead for Bouncy the People Trainer, an app that supports neurodivergent children in building social-emotional skills and accessible coping mechanisms through gamified, age-appropriate learning activities.
+
+### Mental Health America - Building Your Coping Toolbox Guide
+
+- URL: https://mhanational.org/resources/building-your-coping-toolbox/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official documentation from Mental Health America providing a comprehensive, accessible guide and toolkit for building a personal coping skills toolbox, with strategies tailored for diverse needs including neurodivergence.
+
+### Positive Psychology - Coping Cards Toolkit
+
+- URL: https://positivepsychology.com/coping-cards/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official resource page for Coping Cards, a portable, accessible tool used in therapeutic settings to support neurodivergent individuals during moments of emotional overwhelm by providing structured, easy-to-follow coping strategies.
+
+### IDD Toolkit - My Coping Tool Form
+
+- URL: https://iddtoolkit.vkcsites.org/behavioral-and-mental-health-issues/my-coping-tool/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official downloadable form from IDD Toolkit designed to help individuals and caregivers create personalized, accessible coping tools specifically for managing stress and behavioral challenges in neurodivergent populations.
+
+### Teachers Pay Teachers - Coping Skills Tool Box Guide
+
+- URL: https://www.teacherspayteachers.com/browse/elementary/free?search=coping+skills+tool+box
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official listing for an accessible, free educational resource on building a Coping Skills Tool Box, suitable for neurodivergent students, offering guided activities and self-reflection tools for teachers and caregivers.
+
+### e-Wellbeing - Coping Skills Toolbox PDF
+
+- URL: https://e-wellbeing.co.uk/wp-content/uploads/2022/09/Coping-Skills-Toolkit-5.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility coping skills tool
+- Found: 2026-06-30
+- Description: Official PDF document from e-Wellbeing detailing an accessible coping skills toolbox with practical strategies like exercise, writing, doodling, and social engagement, designed to support neurodivergent individuals in managing daily stress.
