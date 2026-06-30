@@ -178,3 +178,103 @@
 - Query: accessibility learning support mobile app
 - Found: 2026-06-29
 - Description: Mobile app supporting reading, PDF editing, and text magnification with neurodivergence-friendly features like text-to-speech and visual customization.
+
+### Accessible Mobile Reading Apps - National Library Service for the ...
+
+- URL: https://www.loc.gov/nls/services-and-resources/informational-publications/accessible-mobile-reading-apps/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility reading support iOS Android
+- Found: 2026-06-30
+- Description: Gives users access to Bookshare books in braille and audio through their iOS devices. App lets users change backgrounds, color, and font size. Also allows for ...
+
+### Screen Reader Accessibility Guide: Tips for Android and iPhone Users
+
+- URL: https://www.uswitch.com/mobiles/guides/screen-reader-accessibility-everything-you-need-to-know/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility reading support iOS Android
+- Found: 2026-06-30
+- Description: Discover how to improve smartphone accessibility with screen readers. Learn how to set up TalkBack on Android, VoiceOver on iPhone, ...
+
+### Mobile Screen Readers: Accessibility 101 Guide
+
+- URL: https://www.levelaccess.com/blog/part-1-mobile-screen-readers/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility reading support iOS Android
+- Found: 2026-06-30
+- Description: Mobile screen readers like VoiceOver and TalkBack help blind and low-vision users navigate smartphones. Understand how they work. Learn more.
+
+### Android vs iOS Accessibility Audit: Key Differences
+
+- URL: https://accessible.org/android-ios-accessibility-audit/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility reading support iOS Android
+- Found: 2026-06-30
+- Description: An Android + iOS accessibility audit covers the same WCAG success criteria across both platforms, but the evaluation work is not identical.
+
+### Can screen readers speak text size on iOS or Android? - Facebook
+
+- URL: https://www.facebook.com/groups/webaccessibilityeducation/posts/951943112842957/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility reading support iOS Android
+- Found: 2026-06-30
+- Description: 1. Open your device's Settings app Settings. 2. Open Accessibility, then TalkBack. 3. Turn on TalkBack. 4. In the confirmation dialog, tap OK. ...
+
+### Accessibility - Apple
+
+- URL: https://www.apple.com/accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility reading support iOS Android
+- Found: 2026-06-30
+- Description: With Reader Mode, Accessibility Reader integrates with Magnifier so you can seamlessly interact with text in the real world, such as in books or on dining menus ...
+
+### Tools for Teachers - California Department of Education
+
+- URL: https://cdle.cde.ca.gov/tools-for-teachers/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility classroom tool
+- Found: 2026-06-30
+- Description: Central repository providing K-12 educators with standard-aligned accessibility strategies, including universal tools and assistive technologies to support neurodivergent students in the classroom.
+
+### Assistive Software for Literacy - CTI
+
+- URL: https://www.cti.com/special-needs-education-tools-enhancing-accessibility-in-the-classroom/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility classroom tool
+- Found: 2026-06-30
+- Description: List of assistive classroom tools including speech-to-text and text-to-speech software designed to enhance learning for students with literacy difficulties and neurodivergence.
+
+### Special Needs Education Tools Repository - CTI
+
+- URL: https://www.cosn.org/accessible-digital-instructional-materials-meeting-the-new-title-ii-rule-for-all-students/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility classroom tool
+- Found: 2026-06-30
+- Description: Repository of digital instructional materials and classroom tools meeting Title II requirements, focused on accessibility for students with disabilities and learning challenges.
+
+### AASL Best Digital Tools for Teaching & Learning - ALA
+
+- URL: https://www.ala.org/aasl/awards/best
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: accessibility classroom tool
+- Found: 2026-06-30
+- Description: Annual award list of remote-accessible digital classroom tools recognized for their improvements in usability and accessibility, including resources for neurodivergent support.

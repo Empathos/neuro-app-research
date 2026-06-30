@@ -278,3 +278,53 @@
 - Query: accessibility clinician tool mobile app
 - Found: 2026-06-29
 - Description: Official repository of mobile apps from the Centers for Disease Control for consumers and healthcare providers.
+
+### Android Accessibility Features - Official Documentation
+
+- URL: https://www.android.com/accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility therapy support iOS Android
+- Found: 2026-06-30
+- Description: Official guide to Android's built-in accessibility tools including TalkBack, Live Transcribe, magnification, and voice commands designed to support neurodivergent users and those with disabilities.
+
+### VoiceOver - iOS Screen Reader
+
+- URL: https://support.apple.com/en-us/102738
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility therapy support iOS Android
+- Found: 2026-06-30
+- Description: Apple's official screen reader for iOS that enables navigation and interaction for users with visual impairments and supports neurodivergent users through auditory feedback and customization.
+
+### Guided Access (iOS) - Official Support
+
+- URL: https://support.apple.com/en-us/102740
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility therapy support iOS Android
+- Found: 2026-06-30
+- Description: iOS feature that limits device use to a single app, reducing distractions and supporting focus for individuals with ADHD and other neurodivergent conditions during therapy sessions.
+
+### Appt.org - App Accessibility Guide
+
+- URL: https://appt.org/en/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility therapy support iOS Android
+- Found: 2026-06-30
+- Description: Comprehensive guide for making apps accessible on iOS, Android, and cross-platform frameworks, offering documentation on best practices for neurodivergence support and therapy tool development.
+
+### SensusAccess
+
+- URL: https://www.sensusaccess.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: accessibility parent support tool
+- Found: 2026-06-30
+- Description: Document conversion service that transforms PDFs and Word files into accessible formats like audio and ePubs, enabling parents to support children with diverse learning needs.

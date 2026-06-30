@@ -528,3 +528,43 @@
 - Query: accessibility AAC mobile app
 - Found: 2026-06-29
 - Description: Official demo showing how Guided Hands helps individuals with neurodivergence or mobility challenges access AAC devices through adaptive hand support techniques.
+
+### Supported Conversation for Adults with Aphasia (SCATM)
+
+- URL: https://www.aphasia.ca/communication-tools-communicative-access-sca/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility conversation support tool
+- Found: 2026-06-30
+- Description: A communication method and tool designed to support adults with aphasia by using spoken/written keywords, body language, gestures, and pictographs to facilitate natural conversation and reveal competence.
+
+### Dragon Voice Control Accessibility Software
+
+- URL: https://www.acquia.com/blog/tools-web-accessibility-for-disability
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility conversation support tool
+- Found: 2026-06-30
+- Description: A leading voice control software that converts speech to text and allows users to command computers via voice, enabling accessibility for those unable to use keyboards or mice during conversation.
+
+### Olark ADA-Compliant Live Chat
+
+- URL: https://www.olark.com/ada-accessible-live-chat/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility conversation support tool
+- Found: 2026-06-30
+- Description: An official product page for an ADA-compliant live chat platform that exceeds WCAG 2.1 AA standards, ensuring accessible conversation support for users with disabilities.
+
+### Microsoft Accessibility Tools & Technology
+
+- URL: https://www.microsoft.com/en-us/accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility conversation support tool
+- Found: 2026-06-30
+- Description: The official Microsoft repository for accessibility tools, including features like Narrator and dictation, designed to support accessible conversation and text input for users with diverse needs.

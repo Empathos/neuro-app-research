@@ -198,3 +198,103 @@
 - Query: accessibility independence mobile app
 - Found: 2026-06-29
 - Description: Official Apple support documentation detailing built-in iOS and macOS accessibility tools like VoiceOver, Magnification, and Siri, which are essential for mobile app independence for neurodivergent and disabled users.
+
+### Google Screen Time (Android) - Google Help
+
+- URL: https://support.google.com/android/1060
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility life skills iOS Android
+- Found: 2026-06-30
+- Description: Android's native app usage tracker and limit tool that helps users stay focused on tasks and avoid overuse of distracting applications.
+
+### Switch Access (Android) - Google Accessibility
+
+- URL: https://support.google.com/android/1060-switch-access
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility life skills iOS Android
+- Found: 2026-06-30
+- Description: Official Android feature allowing device control via external switches, supporting users with mobility impairments to access life skills and communication tools.
+
+### LAR (Augmented Reality Housing Assessment Tool) by UW-Madison
+
+- URL: https://www.youtube.com/watch?v=-In8VMkMx3w
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: An augmented reality app developed by University of Wisconsin-Madison researchers to assess home accessibility. It uses LAR sensors on iPhones to measure turning radii, door widths, and fixture heights, helping users identify routine-friendly modifications for neurodivergent or disabled individuals.
+
+### Home Accessibility Checklist by UDServices
+
+- URL: https://udservices.org/blog/home-accessibility-checklist/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: A comprehensive public checklist detailing specific measurements for doorways, ramps, kitchens, and bathrooms to create an accessible home routine. Covers ADA standards for wheelchair access and neurodivergent-friendly layouts.
+
+### Smart Home Voice Systems for Accessibility
+
+- URL: https://comprehensiverehabilitationconsultants.com/home-accessibility-modifications-and-costs-to-make-your-home-fit-for-you/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: Documentation on using voice-activated smart systems to control lights, thermostats, and appliances. These tools support daily routines by reducing dexterity barriers and enabling automated home environments for neurodivergent users.
+
+### 9 Ways to Create a Handicap Accessible Home by BraunAbility
+
+- URL: https://www.braunability.com/us/en/blog/accessible-living/9-ways-to-create-a-handicap-accessible-home.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: A public guide offering 9 actionable steps for home accessibility, including ramps, open floor plans, and smart devices. Provides a structured approach to designing a routine-friendly home for wheelchair users and those with neurodivergence.
+
+### Home Accessibility Checklist by CT.gov
+
+- URL: https://portal.ct.gov/ads/knowledge-base/articles/accessibility-services/accessibility-at-home/accessibility-at-home
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: Official state resource listing assistive technology and tools for home accessibility, including motion-sensor lights, grab bars, and railings. Designed to support daily routines for individuals with disabilities.
+
+### Accessible Work-from-Home Tools by Understood.org
+
+- URL: https://www.understood.org/en/articles/accessible-work-from-home-tools
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: A curated list of digital tools (e.g., Google Meet, Otter, Zoom) with accessibility features like captions, screen readers, and keyboard shortcuts. Supports neurodivergent individuals in managing daily work and home routines remotely.
+
+### Accessible Wellness Guide by FunctionalHand
+
+- URL: https://functionalhand.com/accessible-daily-routines/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: A wellness guide offering tools and tips to empower individuals with disabilities. Focuses on affordable methods to enhance daily routines and well-being, relevant to neurodivergent support in home settings.
+
+### Home Accessibility Guide by Mr. Handyman
+
+- URL: https://www.mrhandyman.com/blog/accessible-home-modifications/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: accessibility home routine tool
+- Found: 2026-06-30
+- Description: A practical guide on modifying homes for accessibility, including ramps, widened doorways, and level transitions. Provides a routine-oriented checklist for making homes safer and easier to navigate for individuals with mobility or neurodivergent challenges.

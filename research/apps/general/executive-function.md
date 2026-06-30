@@ -318,3 +318,113 @@
 - Query: accessibility task initiation mobile app
 - Found: 2026-06-29
 - Description: A mobile application that uses 'sprint' modes and external accountability features to help users with neurodivergence initiate and sustain task engagement.
+
+### Android Accessibility Suite (TalkBack)
+
+- URL: https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility routine iOS Android
+- Found: 2026-06-30
+- Description: Official Google Play Store page for Android Accessibility Suite, the core tool for screen reader routines (TalkBack) on Android devices, enabling eyes-free navigation and accessibility automation.
+
+### VoiceOver (iOS Accessibility)
+
+- URL: https://support.apple.com/en-us/102400
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility routine iOS Android
+- Found: 2026-06-30
+- Description: Official Apple Support documentation for VoiceOver, the built-in screen reader on iOS that supports routine navigation gestures, accessibility testing, and assistive technology integration.
+
+### Accessibility Inspector (Xcode)
+
+- URL: https://help.apple.com/xcode/mac/current/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility routine iOS Android
+- Found: 2026-06-30
+- Description: Apple's official Xcode documentation for the Accessibility Inspector, the primary tool for auditing iOS app accessibility routines, verifying labels, and testing screen reader interactions.
+
+### Accessibility Test Framework (Android)
+
+- URL: https://developer.android.com/guide/topics/ui/accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility routine iOS Android
+- Found: 2026-06-30
+- Description: Official Android Developer guide on building accessible apps, including the Accessibility Test Framework for automated routine testing and automated accessibility assertions.
+
+### Mobile Accessibility: A Developer's Guide
+
+- URL: https://www.accessiblu.com/?p=2303
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility routine iOS Android
+- Found: 2026-06-30
+- Description: Public developer guide covering technical requirements for iOS and Android mobile accessibility routines, including touch target sizing, spacing, and interaction pattern standardization.
+
+### Accessibility Checker - Microsoft Support
+
+- URL: https://support.microsoft.com/en-us/accessibility/office-accessibility/improve-accessibility-with-the-accessibility-checker
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-06-30
+- Description: Official Microsoft documentation for the Accessibility Checker, a built-in tool in Microsoft 365 apps that identifies accessibility issues and provides recommended actions to make content accessible, including reminders for authors to fix issues.
+
+### Accessibility Reminder - YouTube
+
+- URL: https://www.youtube.com/watch?v=av_BRT_y_40
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-06-30
+- Description: Video introduction to Accessibility Reminder, an add-in that inserts reminder comments into documents with tips and links to help articles, notifying authors and contributors of accessibility issues to support neurodivergent users.
+
+### Cognitive Accessibility Design Pattern: Provide Reminders - W3C
+
+- URL: https://www.w3.org/WAI/WCAG2/supplemental/patterns/o7p07-reminders/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-06-30
+- Description: W3C guideline outlining design patterns for providing reminders to support cognitive accessibility, including best practices for setting timely reminders via calendar APIs without interrupting users, essential for neurodivergent support tools.
+
+### ANDI - Accessibility Testing Tool
+
+- URL: https://www.ssa.gov/accessibility/andi/help/howtouse.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-06-30
+- Description: Tutorial for ANDI, a free accessibility testing tool from the U.S. Social Security Administration that helps evaluate web pages for accessibility issues, including features useful for verifying neurodivergent-friendly reminder systems.
+
+### Talk Me Calendar - Social Media Discussion
+
+- URL: https://www.facebook.com/groups/assistive.technology.group/posts/8308529882535403/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-06-30
+- Description: Community discussion recommending Talk Me Calendar as an app providing persistent voice reminders for blind and neurodivergent users, with settings to speak notifications and integrate with VoiceOver.
+
+### Web Accessibility Checker - AndI by Design
+
+- URL: https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/web-accessibility-checkers/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-06-30
+- Description: Guide from Colorado State University on using automated and manual tools like JAWS to test web accessibility for reminders and neurodivergent-friendly features, including keyboard navigation and screen reader compatibility checks.

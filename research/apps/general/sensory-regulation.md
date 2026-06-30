@@ -408,3 +408,103 @@
 - Query: accessibility overload mobile app
 - Found: 2026-06-29
 - Description: A study analyzing how smartphone users experience mobile information overload and struggle with information tasks, providing a foundation for developing neurodivergence-supportive app tools.
+
+### Mindverse - Calming & Meditation Apps (iOS & Android)
+
+- URL: https://www.mindverse.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility calming iOS Android
+- Found: 2026-06-30
+- Description: A comprehensive collection of calming, meditation, and mindfulness apps designed for neurodivergent users, featuring sensory-friendly interfaces and guided sessions for anxiety relief on iOS and Android.
+
+### Calming - Sensory & Mindfulness Tools (iOS & Android)
+
+- URL: https://calming.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility calming iOS Android
+- Found: 2026-06-30
+- Description: An app repository and toolset featuring sensory-friendly games, breathing exercises, and visual calming patterns specifically designed to support emotional regulation and reduce stress for neurodivergent individuals.
+
+### Making Accessibility accessible: A flexible planning tool for enhanced urban analytics
+
+- URL: https://www.sciencedirect.com/science/article/abs/pii/S2210539523001001
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: A flexible planning tool designed to overcome ad-hoc limitations in existing accessibility analysis, offering enhanced urban analytics for environment planning with customizable geographic coverage and methodology.
+
+### Inclusive Digital Planning Tool
+
+- URL: https://discovery.ucl.ac.uk/10209167/1/1-s2.0-S0198971525000638-main.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: A collaborative digital planning tool tested with people with disabilities and municipal planners, specifically designed to support inclusive environment planning and accessibility assessment.
+
+### Eco Planning Tool
+
+- URL: https://maps.semcog.org/EcoPlanningTool/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: An official planning tool by SEMCOG that calculates environmental impacts and flags compliance priorities for road and development projects, aiding in environment planning and accessibility considerations.
+
+### Accessibility Self-Evaluation and Transition Plan (SETP) for Olympic National Park
+
+- URL: https://parkplanning.nps.gov/document.cfm?documentID=138578
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: A public NPS planning document and tool for self-evaluating park accessibility, identifying barriers for people with disabilities, and creating transition plans for environment planning improvements.
+
+### Special Education and Accessibility Self-Evaluation Tool (SEASET)
+
+- URL: https://evaluation.naaee.org/tools/special-education-and-accessibility-self-evaluation-tool
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: A tool by the NAAEE to help programs become more inclusive and accessible, featuring a five-step self-evaluation process for assessing accessibility environments and planning improvements.
+
+### Earthcheck Building Planning and Design Standard (BPDS) - Accessibility Rating
+
+- URL: https://www.sustainahaus.com/articles/understanding-accessibility-and-inclusion-within-the-built-environment-beyond-green-building-rating-tools
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: A rating tool and framework for building planning that rewards projects for implementing accessibility features, including non-slip flooring and tactile signage, to ensure inclusive environment planning.
+
+### UserWay Web Accessibility Solutions
+
+- URL: https://userway.org
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: A web accessibility solution platform offering tools to improve UX and achieve WCAG conformance, supporting environment planning for digital accessibility and neurodivergence inclusion.
+
+### Generate an Accessibility Statement - W3C
+
+- URL: https://www.w3.org/WAI/planning/statements/generator/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: accessibility environment planning tool
+- Found: 2026-06-30
+- Description: An official W3C tool for generating accessibility statements, helping organizations define accessible environments, support technologies, and plan for inclusive digital access.

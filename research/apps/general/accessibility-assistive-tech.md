@@ -238,3 +238,113 @@
 - Query: accessibility accessibility mobile app
 - Found: 2026-06-29
 - Description: Documentation on automated and manual testing strategies for mobile app accessibility, including PoUR principles and WCAG success criteria.
+
+### WCAG 2.2 - Web Content Accessibility Guidelines
+
+- URL: https://www.w3.org/TR/WCAG22/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Official W3C documentation for WCAG 2.2, which includes specific success criteria for mobile accessibility on iOS and Android, covering touch targets, gestures, and assistive technology support.
+
+### iOS Accessibility - Developer Documentation
+
+- URL: https://developer.apple.com/accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Apple's official developer guide for building accessible iOS applications, detailing VoiceOver integration, Accessibility Inspector tools, and UIAccessibility protocols.
+
+### Accessibility Inspector (Xcode Tool)
+
+- URL: https://developer.apple.com/xcode/accessibility-inspector/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: Official Xcode tool for iOS developers to inspect, debug, and test accessibility features like labels, hints, and contrast directly on the iOS simulator or device.
+
+### Mobile Accessibility - MDN Web Docs
+
+- URL: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/Mobile
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility mobile accessibility iOS Android
+- Found: 2026-06-30
+- Description: MDN's comprehensive guide on mobile web accessibility, covering responsive design, touch interactions, and screen reader testing strategies for both iOS and Android.
+
+### Web Accessibility Initiative (WAI) - Tools and Techniques
+
+- URL: https://www.w3.org/WAI/people-use-web/tools-techniques/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility adaptive tool
+- Found: 2026-06-30
+- Description: Official W3C documentation introducing assistive technologies and adaptive strategies used by people with disabilities, including screen readers, magnifiers, and speech recognition software.
+
+### Microsoft Accessibility: Technology for Everyone
+
+- URL: https://www.microsoft.com/en-us/accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility adaptive tool
+- Found: 2026-06-30
+- Description: Microsoft's official product page offering a comprehensive overview of built-in accessibility features across Windows, Android, and other platforms, including adaptive tools for neurodivergent users.
+
+### AbleNet - Assistive Technology and Adaptive Devices
+
+- URL: https://www.ablenet.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility adaptive tool
+- Found: 2026-06-30
+- Description: AbleNet, a world leader in assistive technology, offers adaptive devices and curriculum for individuals with disabilities, including tools designed to improve accessibility and independence.
+
+### HandiHelp.net - Adaptive Tools and DIY Ideas
+
+- URL: https://www.handihelp.net/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility adaptive tool
+- Found: 2026-06-30
+- Description: A website providing simple, inexpensive ideas and tools for adaptive living, including commercially available products and DIY solutions for improving accessibility.
+
+### TRAID Program - New York Assistive Technology
+
+- URL: https://traid.newyork.edu/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility adaptive tool
+- Found: 2026-06-30
+- Description: The Technology-Related Assistance for Individuals with Disabilities (TRAID) program provides access to assistive technology loans, training, and adaptive devices for people with disabilities in New York.
+
+### Level the Curve - Adaptive Products Store
+
+- URL: https://levelthecurve.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility adaptive tool
+- Found: 2026-06-30
+- Description: An online store offering affordable and innovative adaptive products, including mobility aids and assistive technology designed to enhance daily life for individuals with disabilities.
+
+### Adaptive Cooking Tools - Accessible Chef
+
+- URL: https://www.accessiblechef.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: accessibility adaptive tool
+- Found: 2026-06-30
+- Description: Resources for adaptive cooking tools that make physical, safety, and cognitive aspects of cooking easier for people with disabilities, including specialized utensils and equipment.
