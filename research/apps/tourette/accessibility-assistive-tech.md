@@ -308,3 +308,43 @@
 - Query: habit awareness adaptive tool
 - Found: 2026-06-30
 - Description: Research page from Alignment Lab exploring human-AI collaborative systems for habit awareness and adaptive support for neurodivergent adults across employment and daily life.
+
+### ORBIT (Online Remote Behavioural Intervention for Tics)
+
+- URL: https://www.nice.org.uk/guidance/ng200
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette assistive technology software
+- Found: 2026-07-01
+- Description: Official NICE guidance page for ORBIT, a web-based, therapist-supported digital therapy for children aged 9-17 with chronic tic disorders and Tourette syndrome, delivered via browser-based exposure and response prevention.
+
+### Scribd Reader with Text-to-Speech Plugin
+
+- URL: https://www.scribd.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette assistive technology software
+- Found: 2026-07-01
+- Description: Public platform offering accessible digital reading with text-to-speech plugins, useful for students with visual tics or difficulty focusing on text, supporting audiobooks and scanned pen integration.
+
+### InclusionHub Accessibility Directory
+
+- URL: https://www.inclusionhub.com/accessibility
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette accessibility directory
+- Found: 2026-07-01
+- Description: Accessibility directory offering web accessibility solutions and tools, potentially relevant for Tourette Syndrome support, hosted on cloud or private server infrastructure.
+
+### Tourette Syndrome Documentation Guidelines - College Board
+
+- URL: https://accommodations.collegeboard.org/request-accommodations/provide-documentation/by-disability/tic-disorders-tourettes
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette accessibility directory
+- Found: 2026-07-01
+- Description: College Board documentation guidelines for students with Tic Disorders or Tourette's, detailing requirements for testing accommodations and accessibility support in academic settings.

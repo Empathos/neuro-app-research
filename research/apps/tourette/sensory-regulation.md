@@ -438,3 +438,83 @@
 - Query: habit awareness environment planning tool
 - Found: 2026-06-30
 - Description: A fun iOS habit tracker app designed to make habit building engaging through gamification, helping users build good habits without feeling bored.
+
+### BrainWorks: Create Custom Sensory Diets & Visual Schedules
+
+- URL: https://sensationalbrain.com/brainworks/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette sensory regulation software
+- Found: 2026-07-01
+- Description: A customizable tool for parents, therapists, and educators to create sensory diets and visual schedules, specifically designed to help manage sensory dysregulation in children and teens with conditions like Tourette Syndrome.
+
+### Neupulse (Wearable Device for Tic Reduction)
+
+- URL: https://www.labiotech.eu/best-biotech/tourette-syndrome-research/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette sensory regulation software
+- Found: 2026-07-01
+- Description: A game-changing wearable device using electrical pulses to reduce tic severity and the urge-to-tic in Tourette Syndrome patients, with reported 35% reduction in severity and 59% of participants seeing 25% improvement.
+
+### Sensory Integration and Tourette Syndrome Webinar Resources
+
+- URL: https://www.youtube.com/watch?v=Z0aAm4FaS1Y
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette sensory regulation software
+- Found: 2026-07-01
+- Description: Webinar from the Tourette Association of America covering sensory integration strategies, including apps for visual sensory integration, calming apps (lava lamp, breathing), and behavioral reward tools for managing arousal and tics.
+
+### Occupational Therapy for Tic Disorders Tools
+
+- URL: https://www.youtube.com/watch?v=1O6JtOia7oo
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette sensory regulation software
+- Found: 2026-07-01
+- Description: Video from the Tourette Health and Education Program featuring occupational therapy tools and software recommendations, such as snap-type apps for worksheets, voice recording pins, and ergonomic clips to prevent tic-triggering positions.
+
+### Sensory experiences that impact tics: Research on Sensory Dysregulation
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/09638288.2025.2494227
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette sensory regulation software
+- Found: 2026-07-01
+- Description: Peer-reviewed research article examining how sensory dysregulation impacts everyday life in young people with tic disorders, providing evidence for the need for targeted sensory regulation software and interventions.
+
+### Emotional Overload Guide - Tourette Syndrome Toolkit
+
+- URL: https://tourette.org/resources/emotional-overload-understanding-non-tic-related-behaviors-tool-kit/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette overload directory
+- Found: 2026-07-01
+- Description: Free comprehensive toolkit outlining emotional overload (rage attacks, emotional dysregulation) and self-regulation strategies for neurodivergent support in Tourette Syndrome.
+
+### Emotional Overload Guide - Instagram Download
+
+- URL: https://www.instagram.com/p/DaK8R8NlnWM/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette overload directory
+- Found: 2026-07-01
+- Description: Official Instagram post offering a free download of the Emotional Overload Guide, tailored for managing non-tic behaviors and self-regulation in Tourette Syndrome.
+
+### TicClinic Resources - Tourette Syndrome Toolkit
+
+- URL: https://www.ticclinic.org/new-page
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette overload directory
+- Found: 2026-07-01
+- Description: TicClinic resource section providing tools for understanding and managing Tourette Syndrome, tic disorders, and associated emotional challenges.

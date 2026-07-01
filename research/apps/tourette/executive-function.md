@@ -618,3 +618,73 @@
 - Query: habit awareness reminders tool
 - Found: 2026-06-30
 - Description: An online habit tracker widget for daily progress tracking, goal achievement, and habit building in a productive app interface.
+
+### Neurotherapeutics Ltd - Tic Tracker App (Under Development)
+
+- URL: https://www.touretTES-action.org.uk/blog/tracking-tics-digital-age/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette planning software
+- Found: 2026-07-01
+- Description: Tic Tracker App under development by Neurotherapeutics Ltd, seeking individuals with Tourette Syndrome to test and help shape Tourette planning features.
+
+### Tourette Association of America - TIC-CON24 Conference App
+
+- URL: https://www.tourettes-action.org.uk/blog/tracking-tics-digital-age/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette planning software
+- Found: 2026-07-01
+- Description: Conference app for TIC-CON24 offering resources, speaker schedules, and community planning tools for Tourette syndrome support and advocacy.
+
+### TicHelper.com - Virtual CBIT for Independent Patient Use
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8809236/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette planning software
+- Found: 2026-07-01
+- Description: Virtual, self-guided CBIT platform for independent patient use, offering behavioral planning tools to manage tics and premonitory urges.
+
+### Mayo Clinic - Tourette Syndrome Treatment and Planning Guide
+
+- URL: https://www.mayoclinic.org/diseases-conditions/tourette-syndrome/diagnosis-treatment/drc-20350470
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette planning software
+- Found: 2026-07-01
+- Description: Official clinical guide on Tourette syndrome treatment, including behavior therapy, medication options, and planning strategies for managing tics.
+
+### Weill Cornell Medicine - Pediatric Tics and Tourette's Program
+
+- URL: https://weillcornell.org/pediatric-tics-and-tourette-s-program
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette planning software
+- Found: 2026-07-01
+- Description: Program offering neuropsychological evaluations and targeted planning for pediatric tics and Tourette syndrome, focusing on symptom cause and management.
+
+### Tourettes Action - Executive Functioning Factsheet
+
+- URL: https://www.tourettes-action.org.uk/storage/downloads/1759756611_Factsheet---Executive-Functioning-v1.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette task initiation directory
+- Found: 2026-07-01
+- Description: Public factsheet from the UK charity Tourettes Action detailing strategies for executive functioning, task initiation, and managing comorbid ADHD in individuals with Tourette Syndrome.
+
+### Tourettes Action - Resources & Support
+
+- URL: https://www.tourettes-action.org.uk/help-and-support/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette task initiation directory
+- Found: 2026-07-01
+- Description: Main support page for Tourettes Action containing links to downloadable guides, factsheets on executive functioning, and community resources for task initiation.
