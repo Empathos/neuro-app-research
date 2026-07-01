@@ -378,3 +378,73 @@
 - Query: overload reminders tool
 - Found: 2026-06-30
 - Description: Bit offers a reminder system with smart categorization, timer integration, and progress feedback to help users maintain focus, structure, and reduce mental clutter.
+
+### Sensory Processing Measure-2 (SPM-2) Official Tool
+
+- URL: https://www.simplepractice.com/blog/sensory-processing-measure/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing planning software
+- Found: 2026-07-01
+- Description: Official assessment tool for evaluating sensory processing planning (Praxis) and social participation across multiple environments; includes the validated SPM-2 by occupational therapists for clinical planning.
+
+### Sensory Profile 2 Assessment Platform
+
+- URL: https://www.pearsonassessments.com/en-us/Store/Professional-Assessments/Motor-Sensory/Sensory-Profile-2/p/100000822
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing planning software
+- Found: 2026-07-01
+- Description: Standardized assessment tool from Pearson determining sensory processing patterns and motor planning abilities to guide intervention planning for neurodivergent individuals.
+
+### Sensory Integration Equipment & Tools (TherapyShoppe)
+
+- URL: https://therapyshoppe.com/products/sensory-integration/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing planning software
+- Found: 2026-07-01
+- Description: Official product catalog for sensory integration equipment used in planning and executing sensory diets, regulation activities, and motor planning exercises.
+
+### 12 Sensory Seeking Behavior Strategies for Kids
+
+- URL: https://www.yourtherapysource.com/blog1/2026/03/13/sensory-seeking-behavior/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing task initiation directory
+- Found: 2026-07-01
+- Description: Curated list of sensory strategies to support task initiation in children, including weighted tools, movement breaks, and visual checklists for structured learning.
+
+### Sensory Processing Disorder and Executive Functioning - Savoiz
+
+- URL: https://www.savoiz.com/blogs/news/sensory-processing-disorder-and-executive-functioning-strategies-for-improved-functionality
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing task initiation directory
+- Found: 2026-07-01
+- Description: Resource directory explaining how sensory processing impacts executive function, with practical tools like heavy work activities, sensory bins, and regulated break spaces.
+
+### How To Develop Task Initiation In Children - NSPT4Kids
+
+- URL: https://www.nspt4kids.com/parenting/how-to-develop-task-initiation-in-children
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing task initiation directory
+- Found: 2026-07-01
+- Description: Age-specific strategies for developing task initiation skills in children, emphasizing verbal cues, task lists, and reinforcement of self-initiation behaviors.
+
+### Task Initiation Guide for Neurodivergent Kids - Instagram Insight
+
+- URL: https://www.instagram.com/p/DGVYXn4NtS1/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing task initiation directory
+- Found: 2026-07-01
+- Description: Visual guide highlighting practical tools like body doubling, sound cues, and movement prompts to help neurodivergent children start tasks more effectively.

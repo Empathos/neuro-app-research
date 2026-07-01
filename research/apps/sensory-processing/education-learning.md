@@ -418,3 +418,113 @@
 - Query: overload classroom tool
 - Found: 2026-06-30
 - Description: Official article on reducing digital overload by categorizing audiovisual tools and flexible infrastructure to preserve student brain space for learning.
+
+### Earobics
+
+- URL: https://earobics.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing student support software
+- Found: 2026-07-01
+- Description: Specialized educational software using phonological awareness games to strengthen neural pathways for students with auditory processing and sensory coordination challenges.
+
+### Fast ForWord
+
+- URL: https://fastforword.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing student support software
+- Found: 2026-07-01
+- Description: A comprehensive software program that uses structured auditory activities to improve reading and processing speed for students with sensory and learning difficulties.
+
+### Everway Autism Support Software
+
+- URL: https://www.everway.com/solutions/autism-support/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing student support software
+- Found: 2026-07-01
+- Description: Custom software designed to reduce anxiety and support communication for students with neurodivergence, including sensory processing disorders, in school and work settings.
+
+### STAR Institute Sensory Processing Resources
+
+- URL: https://sensoryinnovationtherapies.com/low-technology-supplies-and-activities-for-sensory-integration/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing student support software
+- Found: 2026-07-01
+- Description: Research-backed digital resources and tool recommendations from the premiere research center for sensory processing disorder, guiding the selection of support software.
+
+### STAR Institute Treatment Directory
+
+- URL: https://www.sensoryhealth.org/basic/resources-for-parents-and-professionals
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing learning support directory
+- Found: 2026-07-01
+- Description: Official online guide to occupational therapy and specialist services for sensory processing disorder (SPD), curated by the STAR Institute research team.
+
+### Sensory Processing Disorder Therapist Directory
+
+- URL: https://sensoryprocessingdisorderparentsupport.com/find-a-local-spd-therapist-directory.php
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing learning support directory
+- Found: 2026-07-01
+- Description: Pediatric therapist directory exclusively for specialists in sensory processing, designed to help families locate local SPD providers.
+
+### Source-backed Public App: Autify
+
+- URL: https://autify.ai
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing learning support directory
+- Found: 2026-07-01
+- Description: Neurodivergent-friendly learning support app with sensory integration tools and personalized learning paths for students with SPD.
+
+### American Occupational Therapy Association (AOTA) Resources
+
+- URL: https://www.aota.org/Practice/Children-Youth/SI.aspx
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing learning support directory
+- Found: 2026-07-01
+- Description: Official AOTA documentation and resource hub for sensory integration therapy, including guidelines for clinicians and families supporting neudivergent learning.
+
+### Sensory Processing Explained
+
+- URL: https://www.sensoryprocessingexplained.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing learning support directory
+- Found: 2026-07-01
+- Description: Comprehensive educational platform with in-depth information on sensory processing, learning behavior, and socialization strategies for neurodivergent learners.
+
+### SPD Foundation Learning Support Portal
+
+- URL: https://www.spdfoundation.net/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing learning support directory
+- Found: 2026-07-01
+- Description: Foundation for sensory processing disorder offering research, education, and advocacy resources, including a directory of SPD therapists and school support tools.
+
+### The Sensory Project
+
+- URL: https://www.thesensoryproject.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing learning support directory
+- Found: 2026-07-01
+- Description: Organization providing sensory play resources, workshops, and consultations tailored for children with sensory challenges in learning environments.

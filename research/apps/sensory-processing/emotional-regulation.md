@@ -308,3 +308,63 @@
 - Query: overload coping skills tool
 - Found: 2026-06-30
 - Description: A downloadable self-care resource from Maine.gov (referencing MHA content) offering step-by-step instructions to calm down, laugh, and build restful routines for overload management.
+
+### Sensory Strategies for Emotion Regulation (PDF Guide)
+
+- URL: https://ausm.org/wp-content/uploads/2024/09/Sensory-Strategies-for-Emotion-Regulation.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing emotional regulation software
+- Found: 2026-07-01
+- Description: A public open-access resource detailing tools like sensory profiles, mood trackers, and sensory circuits to help neurodivergent individuals manage emotional responses through sensory input.
+
+### Humber Sensory Processing Hub: Behavior & Regulation Tools
+
+- URL: https://connect.humber.nhs.uk/service/humber-sensory-processing-hub/behaviour/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing emotional regulation software
+- Found: 2026-07-01
+- Description: NHS-affiliated hub providing clinical information and public tools for emotional regulation in contexts of high sensory stimulation, tailored for neurodivergent support and behavior management.
+
+### STAR Institute Symptoms Checklist for School Age
+
+- URL: https://sensoryhealth.org/basic/symptoms-checklist
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing mood tracking directory
+- Found: 2026-07-01
+- Description: Public checklist from STAR Institute assessing sensory processing differences in school-age children, including manifestations relevant to mood and regulation.
+
+### DBSA Wellness Tracker
+
+- URL: https://www.dbsalliance.org/wellness/wellness-toolbox/wellness-tracker/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing mood tracking directory
+- Found: 2026-07-01
+- Description: Official wellness tracker from the Depression and Bipolar Support Alliance featuring a main mood tracker and seven supporting symptom and lifestyle trackers.
+
+### The OT Toolbox Sensory Processing Disorder Chart
+
+- URL: https://www.theottoolbox.com/free-sensory-processing-disorder/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing mood tracking directory
+- Found: 2026-07-01
+- Description: Printable chart from The OT Toolbox educating on sensory processing challenges, including modulation, discrimination, and motor disorder subtypes.
+
+### CAT Cote Academy Sensory Processing Booklet
+
+- URL: https://www.catcoteacademy.co.uk/wp-content/uploads/2020/07/sensory-processing-booklet-for-parents.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing mood tracking directory
+- Found: 2026-07-01
+- Description: PDF booklet for parents explaining sensory processing and self-regulation, including sensory activities and signs of overload to track.

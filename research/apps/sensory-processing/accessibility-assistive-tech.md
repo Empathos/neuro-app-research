@@ -198,3 +198,53 @@
 - Query: overload adaptive tool
 - Found: 2026-06-30
 - Description: A collaborative project management platform that serves as an adaptive tool to simplify complex workflows, assign roles clearly, and visualize progress to mitigate overload in research-heavy programs.
+
+### BrainWorks (Sensory App) - Official Product Page
+
+- URL: https://www.brainworksapp.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing assistive technology software
+- Found: 2026-07-01
+- Description: BrainWorks is a mobile app designed to help individuals with sensory processing differences regulate their nervous systems through structured activities, movement breaks, and cognitive self-regulation strategies.
+
+### Proloquo2Go - AAC & Sensory Communication App
+
+- URL: https://www.assistiveware.com/products/proloquo2go/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing assistive technology software
+- Found: 2026-07-01
+- Description: Proloquo2Go is an augmentative and alternative communication (AAC) app that supports nonverbal individuals with autism by using visual and auditory symbols, aiding expression and reducing sensory-related communication barriers.
+
+### MediAudio - Sensory App for Self-Regulation
+
+- URL: https://www.miraclemodus.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing assistive technology software
+- Found: 2026-07-01
+- Description: Miracle Modus (formerly known as MediAudio) is a sensory app offering calming soundscapes and structured activities to help regulate sensory systems and support individuals with autism and sensory processing challenges.
+
+### Rainmaker Toys & Sensory Software Tools
+
+- URL: https://www.sensorystuff.com/rainmaker/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing assistive technology software
+- Found: 2026-07-01
+- Description: Rainmaker devices and associated software tools provide auditory and tactile sensory input to help calm the nervous system and manage sensory sensitivities in neurodivergent individuals.
+
+### Understanding Sensory Processing Challenges: Classroom Accommodations
+
+- URL: https://www.understood.org/en/articles/classroom-accommodations-for-sensory-processing-challenges
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing accessibility directory
+- Found: 2026-07-01
+- Description: Detailed guide from Understood.org offering a printable list of classroom strategies and accessibility accommodations for students with sensory processing challenges, including seating, noise management, and visual supports.

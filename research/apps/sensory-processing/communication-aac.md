@@ -468,3 +468,73 @@
 - Query: overload conversation support tool
 - Found: 2026-06-30
 - Description: 1. Streamline applications  2. Limit internal email  3. Keep meetings to a minimum  4. Turn off notifications  5. Filtering the information flow  6. Organize ...
+
+### Autism Read & Write Pro
+
+- URL: https://autism.org/sensory-considerations-for-social-communication/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing communication support software
+- Found: 2026-07-01
+- Description: A multi-sensory app focusing on improving reading, writing, and spelling for autistic learners, designed to support communication through engaging visual and auditory elements.
+
+### Model Me Going Places
+
+- URL: https://www.thrive-autism.com/blog-posts/effective-autism-therapy-tools-for-your-childs-success/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing communication support software
+- Found: 2026-07-01
+- Description: Uses photo slideshows of children modeling appropriate communication and social behaviors in various community locations to support sensory-aware social communication.
+
+### AAC@utexas.edu (UNC Austin AAC Lab)
+
+- URL: https://slhs.utexas.edu/research/augmentative-and-alternative-communication-lab/resources
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing AAC directory
+- Found: 2026-07-01
+- Description: Official resource page for the UNC Austin AAC Lab, offering documentation, tools, and research on augmentative and alternative communication for neurodivergent individuals.
+
+### Goodwin Magnet System AAC Services
+
+- URL: https://www.goodwinmagnetsystem.org/educational-services/assistive-technology-aac-services
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing AAC directory
+- Found: 2026-07-01
+- Description: Provides assistive technology and AAC services, including professional training in fine motor skills, sensory processing, and visual motor skills for neurodivergent support.
+
+### NWACS AAC Provider Directory
+
+- URL: https://nwacs.info/resources/provider-directory/aac-provider-directory/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing AAC directory
+- Found: 2026-07-01
+- Description: A compiled list of AAC providers in Washington State, helping users search for school-based and non-school-based AAC specialists for neurodivergence support.
+
+### DrSensory Therapist Directory
+
+- URL: https://www.drsensory.com/join-drsensory-database/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing AAC directory
+- Found: 2026-07-01
+- Description: DrSensory therapist database and clinic directory serving as a comprehensive resource for patients searching for neurodivergence and sensory processing specialists.
+
+### YouTube: AAC and Sensory Processing Disorder
+
+- URL: https://www.youtube.com/watch?v=Q8uxjYftSAA
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing AAC directory
+- Found: 2026-07-01
+- Description: Presentation highlighting the use of speech-generating devices to supplement verbal communication for individuals with sensory processing disorder and neurodivergence.
