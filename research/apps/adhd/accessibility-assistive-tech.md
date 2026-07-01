@@ -268,3 +268,113 @@
 - Query: focus adaptive tool
 - Found: 2026-06-30
 - Description: Official report recommending adaptive sensory technologies (VR, 3D sound) and play-based approaches as reasonable adjustments to support neurodivergent children's mental health and sensory needs.
+
+### ADHD Assistive Technology Tools - ADHD Centre
+
+- URL: https://www.adhdcentre.co.uk/assistive-technology-for-adhd-best-tools-for-students-with-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD assistive technology software
+- Found: 2026-07-01
+- Description: Comprehensive guide listing top assistive technology apps and tools for students and adults with ADHD, including speech recognition software, reading tools, and distraction blockers.
+
+### Assistive Technology for ADHD - CareScribe
+
+- URL: https://carescribe.io/blog/assistive-technology-for-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD assistive technology software
+- Found: 2026-07-01
+- Description: Overview of captioning software, dictation tools, text-to-speech apps, and organizational tools designed to support productivity and focus for people with ADHD.
+
+### Assistive Technology for ADHD - WebMD
+
+- URL: https://www.webmd.com/add-adhd/childhood-adhd/assistive-technology-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD assistive technology software
+- Found: 2026-07-01
+- Description: Detailed resource on assistive technology devices and software for children with ADHD, including audiobooks, word-p prediction software, and speech recognition tools.
+
+### 18 Assistive Technology Apps and Extensions for Struggling Students - Additude
+
+- URL: https://www.additudemag.com/assistive-technology-for-students/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD assistive technology software
+- Found: 2026-07-01
+- Description: List of 18 Chrome extensions and apps tailored for students with ADHD, featuring text editors, thought triggers, and multi-sensory reading accommodations.
+
+### Updates in technology-based interventions for ADHD - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7575028/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD assistive technology software
+- Found: 2026-07-01
+- Description: Research review on recent technology-based interventions for ADHD, including cognitive training games, neurofeedback, and brain-computer interface tools.
+
+### How Assistive Technology Can Help Your Child's ADHD - Understood
+
+- URL: https://www.understood.org/en/podcasts/parenting-behavior/how-tech-can-help-with-your-childs-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD assistive technology software
+- Found: 2026-07-01
+- Description: Podcast and article explaining how virtual calendars, voice recording apps, and speech-to-text software can support children with ADHD in organizing tasks.
+
+### NCHPAD Directory for Accessibility and Adaptation
+
+- URL: https://www.instagram.com/p/DYh11iLjoZs/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD accessibility directory
+- Found: 2026-07-01
+- Description: Public directory by NCHPAD helping users discover organizations and places that support healthy living and accessibility for people with disabilities and mobility challenges.
+
+### Accessible Social Experts Directory
+
+- URL: https://www.accessible-social.com/experts
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD accessibility directory
+- Found: 2026-07-01
+- Description: Repository of over 125 accessibility and disability experts, speakers, and trainers, providing links to their websites and social media profiles for neurodivergence support.
+
+### InclusionHub Accessibility Directory
+
+- URL: https://www.inclusionhub.com/accessibility
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD accessibility directory
+- Found: 2026-07-01
+- Description: Official platform for digital accessibility and usability experts, offering resources to ensure websites and apps are accessible for neurodivergent users.
+
+### Columbia Health Disability Services Directory
+
+- URL: https://www.health.columbia.edu/content/disability-services-service-directory
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD accessibility directory
+- Found: 2026-07-01
+- Description: Columbia University's internal service directory listing ADHD evaluation, support workshops, and disability services for students.
+
+### Disney World Accessibility Services for Guests
+
+- URL: https://disneyworld.disney.go.com/guest-services/guests-with-disabilities/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD accessibility directory
+- Found: 2026-07-01
+- Description: Official Disney World guide for guests with disabilities, including pre-arrival resources and accessibility services available during visits.

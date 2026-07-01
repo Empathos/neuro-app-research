@@ -499,3 +499,113 @@
 - Found: 2026-06-30
 - Description: A guide on in-app support tools and practices, emphasizing tools like Intercom that pioneered chat bubble interfaces, offering accessible conversational support for neurodivergent users.
 
+
+### Understood MR - Real-Time Communication Support for Adults with ADHD
+
+- URL: https://dl.acm.org/doi/full/10.1145/3746059.3747602
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD communication support software
+- Found: 2026-07-01
+- Description: Research project presenting 'Understood,' a Mixed Reality app on Microsoft HoloLens 2 that provides real-time conversation summarization, context-aware word suggestions, and topic shifting detection for ADHD communication support.
+
+### ChatGPT - AI Conversational Assistant
+
+- URL: https://openai.com/chatgpt
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD communication support software
+- Found: 2026-07-01
+- Description: Official product page for ChatGPT by OpenAI, an advanced conversational AI that drafts emails, improves tone and clarity, and provides personalized communication suggestions for ADHD individuals.
+
+### Claude - Conversational AI by AI-PRO
+
+- URL: https://ai-pro.com/claude
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD communication support software
+- Found: 2026-07-01
+- Description: Official documentation for Claude, a conversational AI tool that simplifies decision-making, summarizes complex information, and assists with communication tasks for users with ADHD.
+
+### CareScribe - Assistive Technology for ADHD
+
+- URL: https://carescribe.io/blog/assistive-technology-for-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD communication support software
+- Found: 2026-07-01
+- Description: Documentation page detailing CareScribe's assistive technology, including real-time captioning and note-taking software designed to improve focus and reduce anxiety in ADHD communication.
+
+### CareScribe Captioning Software
+
+- URL: https://carescribe.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD communication support software
+- Found: 2026-07-01
+- Description: Official product page for CareScribe's captioning software, which provides real-time captions in live meetings and lectures, enhancing communication comprehension for neurodivergent users.
+
+### CHADD Professional Directory - Find an ADHD Professional
+
+- URL: https://chadd.org/professional-directory/?letter_sort=j%C2%A4t_page%3D1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD AAC directory
+- Found: 2026-07-01
+- Description: Official directory from CHADD (Children and Adults with ADHD) to locate ADHD professionals and service providers for families and individuals.
+
+### ADDA Professional Directory - Attention Deficit Disorder Association
+
+- URL: https://add.org/professional-directory/page/2/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD AAC directory
+- Found: 2026-07-01
+- Description: Professional directory from the Attention Deficit Disorder Association (ADDA) listing certified ADHD coaches, speakers, and support group leaders.
+
+### Center for Management of ADHD - Resources
+
+- URL: https://www.chop.edu/centers-programs/center-management-adhd/resources
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD AAC directory
+- Found: 2026-07-01
+- Description: Resource hub from Children's Hospital of Philadelphia (CHOP) offering safety and wellness guides for children with ADHD from their expert management center.
+
+### ADHD and AAC - AAC Community Blog
+
+- URL: https://aaccommunity.net/2021/04/adhd-and-aac/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD AAC directory
+- Found: 2026-07-01
+- Description: Article discussing the intersection of ADHD and Augmentative and Alternative Communication (AAC), offering strategies for visual support and dynamic display devices.
+
+### ASHA - Augmentative and Alternative Communication (AAC)
+
+- URL: https://www.asha.org/njc/aac/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD AAC directory
+- Found: 2026-07-01
+- Description: Official American Speech-Language-Hearing Association resource defining AAC modes (unaided and aided) and their use for individuals with severe expressive communication disorders.
+
+### ADHD AAC Directory - TherapyWorks Blog
+
+- URL: https://therapyworks.com/blog/autism/the-most-popular-aac-devices/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD AAC directory
+- Found: 2026-07-01
+- Description: Blog post listing popular AAC devices that can teach and reinforce communication, relevant for support strategies in neurodivergent contexts.
