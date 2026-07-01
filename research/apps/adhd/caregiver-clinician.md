@@ -398,3 +398,63 @@
 - Query: focus parent support tool
 - Found: 2026-06-30
 - Description: Community discussion confirming the availability of the FOCUS Mobile App in the App Store for viewing grades, attendance, and test scores for Fort Zumwalt students.
+
+### ParentCoach - mHealth App for Pediatric ADHD Caregivers
+
+- URL: https://www.frontiersin.org/articles/10.3389/fcomp.2025.1694747/full
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD caregiver app software
+- Found: 2026-07-01
+- Description: A mobile application designed to support parents of children with ADHD through brief daily lessons, reflection prompts, and skill-building activities to enhance caregiving strategies.
+
+### ADHD Assessment & Screening Tools for Adults & Children (Pearson)
+
+- URL: https://www.pearsonassessments.com/professional-assessments/featured-topics/adhd/products.html
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD clinician tool directory
+- Found: 2026-07-01
+- Description: Comprehensive catalog of clinically validated assessment and screening tools for ADHD, including tools used by clinicians for diagnosis and progress monitoring.
+
+### ADHD Assessment Tools Every Clinician Should Know (MindfulU)
+
+- URL: https://mindfulu.institute/2026/04/03/adhd-assessment-tools/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD clinician tool directory
+- Found: 2026-07-01
+- Description: Curated guide detailing essential ADHD assessment instruments for clinicians, including self-report scales, clinician-administered evaluations, and executive function tools.
+
+### Adult ADHD Toolkit For Family Physicians (AAFP)
+
+- URL: https://www.aafp.org/clinical-insights/cognitive-and-behavioral-health/adult-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD clinician tool directory
+- Found: 2026-07-01
+- Description: Evidence-based toolkit providing family physicians with validated screening tools, diagnostic interviews, and rating scales for managing adult ADHD.
+
+### ADHD Diagnosis: The Most Accurate Assessment Tools (MedCentral)
+
+- URL: https://www.medcentral.com/behavioral-mental/adhd/diagnosis-which-assessment-tools-to-use-and-why
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD clinician tool directory
+- Found: 2026-07-01
+- Description: Reference table listing gold-standard ADHD assessment tools, including rating scales, neuropsychological batteries, and clinical interviews for clinicians.
+
+### Mental Health America ADHD Test - Screening Tools
+
+- URL: https://screening.mhanational.org/screening-tools/adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD clinician tool directory
+- Found: 2026-07-01
+- Description: Free, scientifically validated online ADHD test for teens and adults, offering a starting point for clinicians to discuss symptoms with patients.

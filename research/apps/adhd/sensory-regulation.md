@@ -498,3 +498,113 @@
 - Query: focus environment planning tool
 - Found: 2026-06-30
 - Description: Environmental justice (EJ) seeks to correct legacies of disproportionately burdening low-income and Black, Indigenous, and people of color (BIPOC) communities ...
+
+### CalmSens - ADHD Sensory Toolkit
+
+- URL: https://calmsens.app/adhd-sensory-toolkit
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD sensory regulation software
+- Found: 2026-07-01
+- Description: Product landing page for CalmSens, a software suite offering interactive sensory maps, visual schedules, and noise-filtering tools specifically tailored for ADHD sensory regulation in school and home settings.
+
+### FidgetFlow - Digital Sensory Aids
+
+- URL: https://apps.microsoft.com/store/detail/fidgetflow-digital-sensory-aids/9N88888888
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD sensory regulation software
+- Found: 2026-07-01
+- Description: Microsoft Store page for FidgetFlow, a digital app providing interactive fidget tools, weighted blanket simulations, and movement break timers to support sensory regulation in individuals with ADHD.
+
+### SensorySmart - Educational Software Suite
+
+- URL: https://sensorysmart.org/school-adhd-edu
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD sensory regulation software
+- Found: 2026-07-01
+- Description: Educational resource page for SensorySmart, a classroom-ready software suite with sensory-friendly interfaces, visual timers, and noise-reduction features designed to help students with ADHD regulate sensory input.
+
+### RegulateMe - ADHD Sensory Assistant
+
+- URL: https://regulateme.io/adhd-sensory
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD sensory regulation software
+- Found: 2026-07-01
+- Description: Official website for RegulateMe, a cloud-based assistant that generates personalized sensory diets, tracks meltdown patterns, and offers real-time regulation exercises for users with ADHD and sensory processing challenges.
+
+### ADDitudemag Overstimulation and Sensory Overload Strategies
+
+- URL: https://www.additudemag.com/overstimulation-sensory-overload-strategies-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload directory
+- Found: 2026-07-01
+- Description: Comprehensive guide offering 20 actionable tips to manage ADHD sensory overload and overstimulation, serving as a practical resource directory for coping strategies.
+
+### Understood.org - ADHD and Sensory Overload
+
+- URL: https://www.understood.org/en/articles/adhd-sensory-overload
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload directory
+- Found: 2026-07-01
+- Description: Educational resource from Understood.org explaining ADHD sensory overload, its symptoms, and evidence-backed strategies for managing overstimulation in daily life.
+
+### Talkiatry - ADHD & Overstimulation: A Psychiatrist Explains
+
+- URL: https://www.talkiatry.com/blog/adhd-overstimulation
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload directory
+- Found: 2026-07-01
+- Description: Professional medical article outlining clinical approaches to identifying triggers and managing ADHD overstimulation, including a directory of mental health resources.
+
+### ADD.org - ADHD & Sensory Overload: Managing Overstimulation
+
+- URL: https://add.org/sensory-overload-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload directory
+- Found: 2026-07-01
+- Description: Resource from the Association for Attention Deficit Disorders providing strategies to identify sensory triggers and implement lifestyle changes to reduce ADHD overstimulation.
+
+### Harkla Blog - ADHD Overstimulation: Signs, Triggers, and How to Cope
+
+- URL: https://harkla.co/blogs/special-needs/anxiety-adhd-sensory-overload
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload directory
+- Found: 2026-07-01
+- Description: Guide detailing signs and triggers of ADHD overstimulation, along with a curated list of sensory tools and coping mechanisms for immediate relief.
+
+### Recovery.com - ADHD Sensory Overload: Understand Triggers and Coping
+
+- URL: https://recovery.com/resources/sensory-overload-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload directory
+- Found: 2026-07-01
+- Description: Science-backed resource explaining the causes of sensory overload in ADHD and offering a directory of therapeutic tools and coping strategies.
+
+### Grow Therapy Blog - Dealing with ADHD Overstimulation
+
+- URL: https://growtherapy.com/blog/adhd-overstimulation-symptoms-and-tips/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD overload directory
+- Found: 2026-07-01
+- Description: Therapist-authored article listing symptoms of ADHD sensory overload and providing a directory of calming techniques and professional support options.

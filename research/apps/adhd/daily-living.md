@@ -358,3 +358,93 @@
 - Query: focus home routine tool
 - Found: 2026-06-30
 - Description: Windows and MacOS software that tracks time spent on activities to help optimize focus and routine efficiency. Official product page with free trial and subscription options.
+
+### Due - Simple Task Tracker with Due Dates
+
+- URL: https://www.dueapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD daily living support software
+- Found: 2026-07-01
+- Description: Task tracker app allowing users to set due dates with a single tap, reducing cognitive load and helping manage procrastination and time blindness common in ADHD.
+
+### Brili - ADHD Routine & Schedule Planner
+
+- URL: https://briliapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD daily living support software
+- Found: 2026-07-01
+- Description: Routine scheduler app that lets users drag and drop tasks into a calendar, set start times and durations, and combat time blindness and procrastination for ADHD daily living.
+
+### Bespoke - Task Management & Habit Tracker
+
+- URL: https://bespokeapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD daily living support software
+- Found: 2026-07-01
+- Description: Task management and habit tracker app with customizable views and reminders, designed to support ADHD users in maintaining daily routines and tracking goals.
+
+### ADHD Independence-Building Strategies for Parents
+
+- URL: https://www.additudemag.com/self-advocacy-strategies-for-adhd-students/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD independence directory
+- Found: 2026-07-01
+- Description: Public article from ADDitude providing strategies for students with ADHD to build independence, including goal setting, self-advocacy, and executive function skills.
+
+### Encouraging Independence in Teenagers with ADHD
+
+- URL: https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD independence directory
+- Found: 2026-07-01
+- Description: Official resource from HealthyChildren.org offering a list of support groups and strategies to help teenagers with ADHD develop independence, such as using planners and making routines.
+
+### When To Let Go: Fostering Independence in ADHD Kids
+
+- URL: https://impactparents.com/blog/adhd/when-to-let-go-fostering-independence/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD independence directory
+- Found: 2026-07-01
+- Description: Comprehensive guide from Impact Parents on fostering independence in ADHD children, focusing on age-appropriate expectations and reducing parental hyper-control.
+
+### Supportive or Overparenting? Helping Your Teen with ADHD
+
+- URL: https://chadd.org/adhd-weekly/supportive-or-overparenting-helping-your-teen-with-adhd-develop-independence/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD independence directory
+- Found: 2026-07-01
+- Description: CHADD weekly article detailing how to balance support and independence for teens with ADHD, including advice on self-advocacy and managing daily routines.
+
+### ADHD Independence directory (Psychology Today)
+
+- URL: https://www.psychologytoday.com/us/psychiatrists/mo/independence?category=adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD independence directory
+- Found: 2026-07-01
+- Description: Current directory listing for ADHD medication management and psychiatrists in Independence, MO, available via Psychology Today's provider search.
+
+### ADHD Medicine Management Directory (LifeStance Health)
+
+- URL: https://lifestance.com/services/adhd-medication-management/mo/independence/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD independence directory
+- Found: 2026-07-01
+- Description: Official provider directory for ADHD medication management services in Independence, Missouri, maintained by LifeStance Health.

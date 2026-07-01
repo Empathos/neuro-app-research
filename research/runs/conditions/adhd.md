@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: adhd
-- UTC timestamp: 2026-06-30T20:46:07.630300+00:00
-- New findings: 69
-- Rejected dead links: 27
+- UTC timestamp: 2026-07-01T10:53:15.846688+00:00
+- New findings: 70
+- Rejected dead links: 17
 
 ## Support Categories
 
 ### communication-aac
 
-- `focus speech support iOS Android`: 3 new finding(s), 5 rejected dead link(s)
-- `focus conversation support tool`: 5 new finding(s), 0 rejected dead link(s)
+- `ADHD communication support software`: 5 new finding(s), 1 rejected dead link(s)
+- `ADHD AAC directory`: 6 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `focus routine iOS Android`: 6 new finding(s), 1 rejected dead link(s)
-- `focus reminders tool`: 3 new finding(s), 1 rejected dead link(s)
+- `ADHD planning software`: 2 new finding(s), 0 rejected dead link(s)
+- `ADHD task initiation directory`: 2 new finding(s), 4 rejected dead link(s)
 
 ### sensory-regulation
 
-- `focus calming iOS Android`: 3 new finding(s), 1 rejected dead link(s)
-- `focus environment planning tool`: 8 new finding(s), 0 rejected dead link(s)
+- `ADHD sensory regulation software`: 4 new finding(s), 4 rejected dead link(s)
+- `ADHD overload directory`: 7 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `focus reading support iOS Android`: 4 new finding(s), 0 rejected dead link(s)
-- `focus classroom tool`: 2 new finding(s), 3 rejected dead link(s)
+- `ADHD student support software`: 4 new finding(s), 1 rejected dead link(s)
+- `ADHD learning support directory`: 5 new finding(s), 1 rejected dead link(s)
 
 ### emotional-regulation
 
-- `focus self regulation iOS Android`: 1 new finding(s), 7 rejected dead link(s)
-- `focus coping skills tool`: 7 new finding(s), 0 rejected dead link(s)
+- `ADHD emotional regulation software`: 5 new finding(s), 0 rejected dead link(s)
+- `ADHD mood tracking directory`: 4 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `focus life skills iOS Android`: 2 new finding(s), 5 rejected dead link(s)
-- `focus home routine tool`: 4 new finding(s), 0 rejected dead link(s)
+- `ADHD daily living support software`: 3 new finding(s), 0 rejected dead link(s)
+- `ADHD independence directory`: 6 new finding(s), 1 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `focus therapy support iOS Android`: 5 new finding(s), 1 rejected dead link(s)
-- `focus parent support tool`: 7 new finding(s), 0 rejected dead link(s)
+- `ADHD caregiver app software`: 1 new finding(s), 2 rejected dead link(s)
+- `ADHD clinician tool directory`: 5 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `focus mobile accessibility iOS Android`: 5 new finding(s), 3 rejected dead link(s)
-- `focus adaptive tool`: 4 new finding(s), 0 rejected dead link(s)
+- `ADHD assistive technology software`: 6 new finding(s), 1 rejected dead link(s)
+- `ADHD accessibility directory`: 5 new finding(s), 2 rejected dead link(s)
 

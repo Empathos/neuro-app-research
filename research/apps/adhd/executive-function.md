@@ -418,3 +418,43 @@
 - Query: focus reminders tool
 - Found: 2026-06-30
 - Description: Serenes official site for a customizable focus app that includes ambient sounds, white noise, and nature-based reminders to support concentration and reduce overstimulation for neurodivergent minds.
+
+### Morgen - Task Manager with AI Time Blocking
+
+- URL: https://morgen.so/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD planning software
+- Found: 2026-07-01
+- Description: Morgen's official site featuring an AI-powered task manager that imports calendars and events into a single time-blocked view, ideal for ADHD professionals needing structured planning without losing control.
+
+### Brili Routines - Habit Tracker for ADHD Habit Formation
+
+- URL: https://apps.apple.com/us/app/brili-routines-habit-tracker/id1516036620
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD planning software
+- Found: 2026-07-01
+- Description: Apple App Store link for Brili Routines, a dedicated routine builder with guided step-by-step timers and ADHD-informed templates to minimize decision fatigue and support smoother daily transitions.
+
+### Tiimo Documentation - Task Initiation Guide
+
+- URL: https://help.tiimoapp.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD task initiation directory
+- Found: 2026-07-01
+- Description: Official documentation and help center for Tiimo, containing guides on how to use the app's features to improve task initiation.
+
+### Tiimo for ADHD - GitHub Repository (Community)
+
+- URL: https://github.com/topics/tiimo-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD task initiation directory
+- Found: 2026-07-01
+- Description: Community-driven GitHub topic page aggregating open-source tools and repositories related to Tiimo and ADHD task initiation support.

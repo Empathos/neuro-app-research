@@ -478,3 +478,93 @@
 - Query: focus coping skills tool
 - Found: 2026-06-30
 - Description: Research-backed user manual for the CSI-SF assessment tool, providing investigators with structured methods to evaluate coping behaviors including problem-focused and emotion-focused strategies relevant to neurodivergent populations.
+
+### EmoGalaxy: Video Game for Emotion Recognition and Regulation
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10831671/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD emotional regulation software
+- Found: 2026-07-01
+- Description: Public research documentation identifying EmoGalaxy, a video game tool designed to help children, including those with ADHD, recognize, express, and regulate emotions through interactive gameplay.
+
+### Nervous System Mastery: Tools for Adult ADHD Emotional Regulation
+
+- URL: https://www.nsmastery.com/masterclasses/adult-adhd-emotional-regulation-tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD emotional regulation software
+- Found: 2026-07-01
+- Description: Public repository of tools and guides from Jesse J. Anderson's Nervous System Mastery masterclass, offering actionable strategies like body checks, sensory tools, and wind-down plans for adult ADHD emotional regulation.
+
+### TherapyTools for ADHD: DBT and Mindfulness Strategies
+
+- URL: https://therapygroupdc.com/therapist-dc-blog/effective-adhd-emotion-regulation-strategies-for-managing-feelings
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD emotional regulation software
+- Found: 2026-07-01
+- Description: Public blog and resource page from Therapy Group DC detailing effective, non-software strategies like DBT, mindfulness, and deep breathing that complement digital tools for ADHD emotional regulation.
+
+### The Pyramid of Tools for ADHD Emotional Regulation
+
+- URL: https://theadhdclaritycoach.com/blog/emotional-regulation-the-pyramid-of-tools-that-actually-work-for-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD emotional regulation software
+- Found: 2026-07-01
+- Description: Public blog post from The ADHD Clarity Coach outlining a 'Pyramid of Tools' including action-based mindfulness, sensory techniques, and thought-based strategies for managing ADHD emotional regulation.
+
+### APA Guide: Cognitive Behavioral Therapy for ADHD Emotion Dysregulation
+
+- URL: https://www.apa.org/monitor/2024/04/adhd-managing-emotion-dysregulation
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD emotional regulation software
+- Found: 2026-07-01
+- Description: Official American Psychological Association article discussing CBT, social skills training, and parent training as evidence-based approaches to improve emotional symptoms in children with ADHD, often integrated into software solutions.
+
+### Moodfit
+
+- URL: https://www.etsy.com/market/adhd_mood_tracker_journal
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD mood tracking directory
+- Found: 2026-07-01
+- Description: Combines mood tracking with gratitude journaling, CBT-based tools, sleep and lifestyle tracking, and insights on how habits influence emotional patterns.
+
+### ADHD Journal and Mood Logger Template
+
+- URL: https://www.notion.com/templates/adhd-journal-and-mood-logger
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD mood tracking directory
+- Found: 2026-07-01
+- Description: Comes with three pre-built science-backed ADHD journals with music, timers, and prompts and a 90-second ADHD Mood Log Template specifically designed for ADHD traits.
+
+### Bearable
+
+- URL: https://bearable.app/adhd-symptom-tracker/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD mood tracking directory
+- Found: 2026-07-01
+- Description: Takes a holistic approach to mental and physical well-being, tracking mood, sleep, energy levels, and other customizable factors to identify ADHD triggers.
+
+### ADHD Mobile Resources
+
+- URL: https://add.org/mobile-resources/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD mood tracking directory
+- Found: 2026-07-01
+- Description: Routine-builder, symptom tracker, medication tracker, mood tracker, task challenger, and a to-do list for comprehensive ADHD management support.

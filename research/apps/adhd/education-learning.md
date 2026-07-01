@@ -648,3 +648,93 @@
 - Query: focus classroom tool
 - Found: 2026-06-30
 - Description: An official documentation page detailing transparent assignment design strategies that reduce cognitive load and support neurodivergent learners in classroom settings.
+
+### 6 of the Best Apps for College Students with ADHD
+
+- URL: https://www.saintleo.edu/about/stories/blog/6-best-apps-college-students-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD student support software
+- Found: 2026-07-01
+- Description: Curated list of top apps for ADHD college students including Glean (notetaking), Mint (budgeting), Todoist (task management), Forest (focus gaming), and Stoic (mental health).
+
+### Assistive Technology for ADHD Challenges at School - ADDitude
+
+- URL: https://www.additudemag.com/change-the-program/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD student support software
+- Found: 2026-07-01
+- Description: Detailed overview of assistive tech for ADHD students, covering electronic math worksheet software, talking calculators, OCR programs, speech synthesizers, and word-predictors.
+
+### Assistive Technology Supports for Managing ADHD - YouTube
+
+- URL: https://www.youtube.com/watch?v=0777OhJn4Bc
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD student support software
+- Found: 2026-07-01
+- Description: Video resource discussing self-monitoring aids like fitness trackers (WatchMinder, Revive), task managers (Sloth), and browser-based to-do apps (Any.do) for ADHD students.
+
+### ADHD student creates tool for learning support - Facebook
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/4210288712569542/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD student support software
+- Found: 2026-07-01
+- Description: Conceptual app project by an ADHD student designed to support studying, organization, and academic performance for peers with ADHD/ADD.
+
+### ADDitude ADHD and Learning Disabilities Directory
+
+- URL: https://directory.additudemag.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD learning support directory
+- Found: 2026-07-01
+- Description: Online directory to find help for ADHD/ADD or Learning Disabilities diagnosis, treatment, and coaching, including ADD coaches and learning support resources.
+
+### National Resource Center on AD/HD (NRC)
+
+- URL: https://www.help4adhd.org
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD learning support directory
+- Found: 2026-07-01
+- Description: Program of CHADD serving as the national clearinghouse for evidence-based information on AD/HD, including learning support guides and professional directories.
+
+### Texas Project First ADD/ADHD Resources
+
+- URL: https://texasprojectfirst.org/add-adhd-resources/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD learning support directory
+- Found: 2026-07-01
+- Description: State-specific directory of ADD/ADHD resources in Texas, including support groups, learning specialists, and educational tools for students with neurodivergence.
+
+### ADHD Learning Support at UT Disability and Access
+
+- URL: https://disability.utexas.edu/adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD learning support directory
+- Found: 2026-07-01
+- Description: Official university resource page offering learning support strategies, accommodation guides, and connections to specialists for students with ADHD.
+
+### Psychology Today ADHD Support Groups (Austin, TX)
+
+- URL: https://www.psychologytoday.com/us/groups/tx/austin?category=adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD learning support directory
+- Found: 2026-07-01
+- Description: Directory of ADHD group therapy and support groups in Austin, TX, including professionals specializing in learning support for neurodivergent individuals.
