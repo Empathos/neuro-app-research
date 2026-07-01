@@ -328,3 +328,73 @@
 - Query: accessibility parent support tool
 - Found: 2026-06-30
 - Description: Document conversion service that transforms PDFs and Word files into accessible formats like audio and ePubs, enabling parents to support children with diverse learning needs.
+
+### Thruday - To-Do App and Visual Planner
+
+- URL: https://neurodiversity.directory/listing/thruday-app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent caregiver app software
+- Found: 2026-07-01
+- Description: An inclusive visual planner and wellbeing app designed for neurodivergent individuals and caregivers to manage daily routines, track mood, and coordinate tasks with accessibility features.
+
+### Autism Tracker Pro: Track and Analyze ASD
+
+- URL: https://synthy.app/articles/best-apps-for-neurodivergent-students-caregivers/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent caregiver app software
+- Found: 2026-07-01
+- Description: A caregiver app that helps parents and professionals monitor symptoms, behaviors, mealtimes, medications, and daily solutions for autistic children, with trend analysis and reporting capabilities.
+
+### Choiceworks - Interactive Calendar for Autism and ADHD
+
+- URL: https://speechify.com/blog/best-apps-neurodivergent/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent caregiver app software
+- Found: 2026-07-01
+- Description: An interactive calendar app that supports caregivers and students with autism and ADHD to manage transitions between activities smoothly and ease transition anxiety.
+
+### Neurodivergent Practitioner Community
+
+- URL: https://thrivingautistic.org/practitioner-registration/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent clinician tool directory
+- Found: 2026-07-01
+- Description: Free community connecting neurodivergent clients with verified neurodivergent-affirming practitioners globally.
+
+### Inclusive Therapy Directories
+
+- URL: https://neurosparkhealth.com/resources/inclusive-therapy-directories
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent clinician tool directory
+- Found: 2026-07-01
+- Description: Compilation of inclusive directories helping users find identity-aware therapists who understand neurodivergence and culture.
+
+### Julie Bjelland Sensitive Practitioner Directory
+
+- URL: https://www.juliebjelland.com/directory
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent clinician tool directory
+- Found: 2026-07-01
+- Description: Service connecting sensitive and neurodivergent clients with aligned practitioners who support neurodivergence.
+
+### NeuroDirect UK Specialist Directory
+
+- URL: https://neurodirect.co.uk
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent clinician tool directory
+- Found: 2026-07-01
+- Description: UK-based directory connecting people to verified professionals for autism, ADHD, and neurodivergent support.

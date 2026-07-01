@@ -348,3 +348,123 @@
 - Query: accessibility adaptive tool
 - Found: 2026-06-30
 - Description: Resources for adaptive cooking tools that make physical, safety, and cognitive aspects of cooking easier for people with disabilities, including specialized utensils and equipment.
+
+### Proloquo2Go - Text-to-Speech App
+
+- URL: https://www.aidandaccess.com/proloquo2go
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent assistive technology software
+- Found: 2026-07-01
+- Description: Official text-to-speech application for iPhone, iPad, and Apple Watch designed to support communication for individuals with neurodivergence, including autism and dyslexia.
+
+### TouchChat - Symbol-Based Text-to-Speech
+
+- URL: https://www.aidandaccess.com/touchchat
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent assistive technology software
+- Found: 2026-07-01
+- Description: A symbol-based text-to-speech app providing communication support for neurodivergent users, available with a free trial called 'Discover'.
+
+### Caption.Ed - Live Captions & Note-Taking
+
+- URL: https://www.captioned.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent assistive technology software
+- Found: 2026-07-01
+- Description: AI-powered software that adds instant live captions to meetings, lectures, and seminars, with timestamped notes synced to transcripts for neurodivergent workers.
+
+### LucidChart - Diagram & Flowchart Building
+
+- URL: https://lucid.tech/lucidchart
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent assistive technology software
+- Found: 2026-07-01
+- Description: Free, web-based diagram and flowchart tool supporting visual thinking and organization for neurodivergent users in education and professional settings.
+
+### Desmos - Graphing Calculator
+
+- URL: https://www.desmos.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent assistive technology software
+- Found: 2026-07-01
+- Description: Free scientific and graphing calculator app and website aiding math learning for students with neurodivergence through visual and interactive tools.
+
+### Notability - Note-Taking with Drawing
+
+- URL: https://notability.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent assistive technology software
+- Found: 2026-07-01
+- Description: Free note-taking app supporting drawing, typing, and highlighting, designed to assist neurodivergent users in planning and organizing information.
+
+### CanPlan - Activity Reminder App
+
+- URL: https://canplan.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent assistive technology software
+- Found: 2026-07-01
+- Description: Free app for setting reminders and activity steps, helping neurodivergent individuals manage executive functioning and task prioritization.
+
+### Neurodiversity & Accessibility Glossary
+
+- URL: https://callingallminds.com/resources/glossary
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent accessibility directory
+- Found: 2026-07-01
+- Description: A detailed glossary of 200+ terms covering autism, ADHD, dyslexia, assistive technology, and workplace accessibility, supporting neurodivergence research and understanding.
+
+### Neurodiversity and libraries
+
+- URL: https://www.webjunction.org/news/webjunction/neurodiversity-libraries.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent accessibility directory
+- Found: 2026-07-01
+- Description: A resource from WebJunction offering definitions, tools, and strategies for creating inclusive experiences for neurodivergent staff and patrons in library settings.
+
+### Neurodiversity and UX: Essential Resources for Cognitive Accessibility
+
+- URL: https://stephaniewalter.design/blog/neurodiversity-and-ux-essential-resources-for-cognitive-accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent accessibility directory
+- Found: 2026-07-01
+- Description: A curated list of resources bridging cognitive accessibility and UX design, including government guidelines, design systems, and tips for neurodivergent-friendly interfaces.
+
+### Beyond Basic Accessibility: WCAG with a Neurodiversity Lens
+
+- URL: https://accessibleweb.com/webinar-video-archive/beyond-basic-accessibility-wcag-with-a-neurodiversity-lens-webinar/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent accessibility directory
+- Found: 2026-07-01
+- Description: A webinar archive from Accessible Web outlining WCAG criteria that apply to neurodiversity, focusing on plain language, consistent navigation, and sensory overload prevention.
+
+### Neurodivergent Individuals Database
+
+- URL: https://www.facebook.com/BaltimoreCityPolice/posts/bpd-launches-neurodivergent-individuals-database-expands-tools-to-support-safer-/1372136428275267/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent accessibility directory
+- Found: 2026-07-01
+- Description: A public announcement from Baltimore City Police regarding a new database and expanded tools to support safer interactions with neurodivergent individuals in the field.

@@ -508,3 +508,73 @@
 - Query: accessibility environment planning tool
 - Found: 2026-06-30
 - Description: An official W3C tool for generating accessibility statements, helping organizations define accessible environments, support technologies, and plan for inclusive digital access.
+
+### BrainWorks: Custom Sensory Diets & Visual Schedules
+
+- URL: https://sensationalbrain.com/brainworks/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent sensory regulation software
+- Found: 2026-07-01
+- Description: A customizable, user-friendly tool for parents, therapists, and educators to create sensory diets, visual schedules, and reflex integration programs tailored for neurodivergent children and teens.
+
+### Sensory Overload  Neurodivergent Learning Platform for Adults
+
+- URL: https://neurodiversity.directory/listing/sensory-overload-courses/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent overload directory
+- Found: 2026-07-01
+- Description: An official directory listing neural overload courses and resources for neurodivergent adults, grounded in science and lived experience.
+
+### Neurodivergent Insights: Understanding and Managing Sensory Overload
+
+- URL: https://neurodivergentinsights.com/understanding-and-managing-sensory-overload/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent overload directory
+- Found: 2026-07-01
+- Description: A comprehensive resource providing a free checklist of sensory calming techniques and a directory of triggers for lighting, environment, people, and movement.
+
+### PANDA: Neurodivergent Parents Managing Sensory Overload
+
+- URL: https://www.panda.org.au/articles/neurodivergent-parents
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent overload directory
+- Found: 2026-07-01
+- Description: A guide and toolkit directory for neurodivergent parents, offering self-soothing strategies and a national helpline directory for support.
+
+### Clearly Clinical: Understanding Sensory Overload in Neurodivergent Clients
+
+- URL: https://clearlyclinical.com/ceu-podcast-continuing-education-blog/2026/3/11/understanding-sensory-overload-in-neurodivergent-clients-a-new-podcast-ce-course
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent overload directory
+- Found: 2026-07-01
+- Description: A CE course podcast entry acting as a resource directory for clinicians on recognizing sensory overload as the root of oppositional or avoidant behaviors.
+
+### Neurodiverse Training: Understanding Neurodiversity Through a Sensory Lens
+
+- URL: https://sensoryhealth.org/node/2082
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent overload directory
+- Found: 2026-07-01
+- Description: A resource page acting as a directory for educational content on neurodiversity, listing diagnoses like ADHD, autism, and SPD through a sensory lens.
+
+### Scissortail CS: Reducing Sensory Overload for Neurodivergent Individuals
+
+- URL: https://scissortailcs.com/reducing-sensory-overload-for-neurodivergent-individuals/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent overload directory
+- Found: 2026-07-01
+- Description: A workplace guide and resource directory providing actionable tips for leaders to reduce overload for neurodivergent employees and learners.

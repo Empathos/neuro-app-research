@@ -298,3 +298,43 @@
 - Query: accessibility home routine tool
 - Found: 2026-06-30
 - Description: A practical guide on modifying homes for accessibility, including ramps, widened doorways, and level transitions. Provides a routine-oriented checklist for making homes safer and easier to navigate for individuals with mobility or neurodivergent challenges.
+
+### Peppy AI
+
+- URL: https://peppyai.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent daily living support software
+- Found: 2026-07-01
+- Description: An AI content creation partner for writing and brainstorming, designed to help neurodivergent users organize thoughts and tasks through whiteboards and custom reference data.
+
+### ORCHA Dorset App Library
+
+- URL: https://nhsdorset.nhs.uk/neurodiversity/support/resources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent independence directory
+- Found: 2026-07-01
+- Description: Public health repository listing digital health tools for neurodivergent people, searchable by condition-specific needs like organization, communication, and focus.
+
+### 1Password - Secure Account Manager
+
+- URL: https://1password.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent independence directory
+- Found: 2026-07-01
+- Description: Official app for iOS, Android, and browsers providing secure storage and autofill for login credentials, supporting independent and secure digital management.
+
+### The Arc - National Organization for Independence
+
+- URL: https://thearc.org
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent independence directory
+- Found: 2026-07-01
+- Description: Official national organization with local chapters offering training programs for life and job skills to support independence for autistic and neurodivergent adults.

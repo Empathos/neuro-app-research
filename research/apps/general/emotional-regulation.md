@@ -328,3 +328,83 @@
 - Query: accessibility coping skills tool
 - Found: 2026-06-30
 - Description: Official PDF document from e-Wellbeing detailing an accessible coping skills toolbox with practical strategies like exercise, writing, doodling, and social engagement, designed to support neurodivergent individuals in managing daily stress.
+
+### Feelu - Emotional Regulation App for Kids
+
+- URL: https://feelu.ca/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent emotional regulation software
+- Found: 2026-07-01
+- Description: An award-winning app designed to help neurodivergent children find healthy coping mechanisms by fostering gratitude, kindness, and mindfulness through gentle emotional regulation practices.
+
+### Peppy Pals - Social-Emotional Skills App
+
+- URL: https://apps.apple.com/us/app/peppy-pals/id1457065641
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent emotional regulation software
+- Found: 2026-07-01
+- Description: An educational app using farm animals to guide neurodivergent children through social scenarios, teaching essential emotional regulation vocabulary and coping strategies.
+
+### Wondergrade - Emotional Regulation App for Kids and Parents
+
+- URL: https://www.wondergrade.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent emotional regulation software
+- Found: 2026-07-01
+- Description: An app that teaches neurodivergent children and parents essential coping skills and vocabulary for managing big emotions, focusing on emotional regulation through interactive learning.
+
+### Lil Planner - Visual Schedule App
+
+- URL: https://www.lilplanner.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent emotional regulation software
+- Found: 2026-07-01
+- Description: A simple app that creates visual schedules for neurodivergent children, helping them follow routines and reduce anxiety through structured daily planning and reward systems.
+
+### Luvbug - Emotional Regulation Game Suite
+
+- URL: https://luvbuglearning.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent emotional regulation software
+- Found: 2026-07-01
+- Description: A collection of games designed to help neurodivergent kids develop vocabulary and tools to manage emotions, supporting emotional regulation through engaging play scenarios.
+
+### Weekly Mood Tracker | Neurodivergent Insights
+
+- URL: https://neurodivergentinsights.com/free/weekly-mood-tracker/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent mood tracking directory
+- Found: 2026-07-01
+- Description: A free printable weekly mood tracker by Dr. Megan Anna Neff using the Emotion Matrix to track emotional patterns for neurodivergent individuals.
+
+### How We Feel - Emotion Tracker App
+
+- URL: https://howwefeel.co/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent mood tracking directory
+- Found: 2026-07-01
+- Description: A free iOS and Android app that tracks emotions and helps identify factors impacting mood, with data analysis to reveal emotional patterns.
+
+### Bearable - Symptom & Mood Tracker
+
+- URL: https://bearable.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent mood tracking directory
+- Found: 2026-07-01
+- Description: An iOS and Android app for tracking symptoms, mood, sleep, nutrition, and health measurements, offering analysis features to identify patterns affecting your well-being.
