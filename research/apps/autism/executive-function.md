@@ -518,3 +518,133 @@
 - Query: AAC reminders tool
 - Found: 2026-06-30
 - Description: Search results for AAC classroom reminder tools, featuring visual aids and checklists to help educators and caregivers ensure consistent AAC device availability and usage.
+
+### SOFA: Stories Online For Autism - Download Guide
+
+- URL: https://www.bath.ac.uk/guides/download-and-get-started-with-the-stories-online-for-autism-sofa-app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story planning software
+- Found: 2026-07-01
+- Description: A co-developed app with the autism community to support writing personalized stories for autistic children. It serves as a public repository and tool for social story planning and generation.
+
+### Storyboard That - Social Story Creator
+
+- URL: https://www.storyboardthat.com/articles/e/introduction-to-social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story planning software
+- Found: 2026-07-01
+- Description: An official web-based tool and documentation page allowing users and students to create custom social stories with their own voice and photos. It includes templates for planning social narratives.
+
+### Glint - Social Story Maker (AI Generator)
+
+- URL: https://www.nerchat.com/social-story-maker
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story planning software
+- Found: 2026-07-01
+- Description: An AI-powered visual supports generator that creates personalized social stories with visuals and voice instantly. It is a public tool for rapid social story planning and generation.
+
+### Kid in Story Book Maker - App Overview
+
+- URL: https://www.facebook.com/groups/253712334753788/posts/3216882371770088/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story planning software
+- Found: 2026-07-01
+- Description: A personalized social story creator app reviewed by ABA specialists, designed to help users customize stories for specific events or skills. It is a public tool for individual story planning.
+
+### LessonPix - Social Story Visuals
+
+- URL: https://theautismhelper.com/focus-on-five-writing-social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story planning software
+- Found: 2026-07-01
+- Description: A public repository and tool referenced in social story planning guides for creating visual supports. While not a standalone app, it is a critical resource for planning and formatting social narratives in tools like Google Slides.
+
+### ChatGPT - Generative AI for Social Stories
+
+- URL: https://www.lifeisadvocate.com/blog/how-to-write-a-social-story/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story planning software
+- Found: 2026-07-01
+- Description: A public documentation guide on using generative AI platforms like ChatGPT to plan and create structured, personalized social story text and images when given specific prompts.
+
+### Task Initiation Social Story by Diana T. Sylvander
+
+- URL: https://www.teacherspayteachers.com/Product/Task-Initiation-Social-Story-5446932
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story task initiation directory
+- Found: 2026-07-01
+- Description: A public social story resource addressing delayed task initiation due to boring tasks, difficulty, short attention span, or lack of understanding. Designed for classroom use to reinforce positive behaviors.
+
+### Special Education Task Initiation Starting Work Social Story
+
+- URL: https://www.teacherspayteachers.com/Product/Special-Education-Task-Initiation-Starting-Work-Social-Story-8768802
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story task initiation directory
+- Found: 2026-07-01
+- Description: A targeted social story for special education students with autism, ADHD, and anxiety to reinforce positive behaviors related to starting work and task initiation.
+
+### How to Write a Social StoryTM - Vanderbilt Kennedy Center
+
+- URL: https://vkc.vumc.org/assets/files/tipsheets/socialstoriestips.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story task initiation directory
+- Found: 2026-07-01
+- Description: Official documentation and guide from the Vanderbilt Kennedy Center on writing social stories, including specific ratios of descriptive to directive sentences and strategies for task initiation.
+
+### How to Write a Social Story - HeadStart.gov
+
+- URL: https://headstart.gov/children-disabilities/article/social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story task initiation directory
+- Found: 2026-07-01
+- Description: Public resource guide from HeadStart.gov detailing how to create child-focused social stories, including downloadable zip packs and templates for task initiation and other social skills.
+
+### Printable Social Stories for Kids - And Next Comes L
+
+- URL: https://www.andnextcomesl.com/p/printable-social-stories.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story task initiation directory
+- Found: 2026-07-01
+- Description: A collection of free and paid social story examples with editable templates, featuring detailed narratives and illustrations suitable for teaching task initiation skills.
+
+### Staying On Task In Class Social Story - YouTube
+
+- URL: https://www.youtube.com/watch?v=ZmGrcjL-beM
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story task initiation directory
+- Found: 2026-07-01
+- Description: A video-based social story resource featuring a student named Nathan struggling to stay on task, with a peer helper, serving as a visual tool for task initiation discussions.
+
+### Executive Functioning Skills for Students - Instagram Post
+
+- URL: https://www.instagram.com/p/DLSNH2ihjav/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story task initiation directory
+- Found: 2026-07-01
+- Description: A social media post highlighting tools and stories to help students build executive functioning skills, specifically waiting, planning, organizing, time management, and task initiation.

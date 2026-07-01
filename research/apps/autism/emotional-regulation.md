@@ -378,3 +378,113 @@
 - Query: AAC coping skills tool
 - Found: 2026-06-30
 - Description: Public resource page by an AAC specialist offering free resources, tools, and strategies for implementing AAC, including potential links to apps that support coping skills for neurodivergent learners.
+
+### Bongo Blows His Top (Social Picture Story)
+
+- URL: https://www.teachyourmonster.org/monster-news/social-stories-to-help-with-tricky-emotions/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story emotional regulation software
+- Found: 2026-07-01
+- Description: A free, illustrated comic strip and digital story tool from Teach Your Monster that teaches emotional regulation strategies (identifying, speaking about, and coping with tricky emotions) to children with neurodivergence.
+
+### Emotional Regulation Social Stories Library (Teachers Pay Teachers)
+
+- URL: https://www.teacherspayteachers.com/browse/free?search=emotional+regulation+social+stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story emotional regulation software
+- Found: 2026-07-01
+- Description: A public repository of free and customizable digital social story templates focused on teaching emotional regulation and coping strategies for frustration and anxiety.
+
+### And Next Comes L Social Stories Collection
+
+- URL: https://www.andnextcomesl.com/2022/12/free-social-stories-for-calming-down.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story emotional regulation software
+- Found: 2026-07-01
+- Description: A curated repository of free printable and video social stories specifically designed for calming down, building self-regulation strategies, and teaching coping skills for neurodivergent children.
+
+### Emotions Social Story & Activity (ABAINS School)
+
+- URL: https://www.youtube.com/watch?v=alreMaHs3FM
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story emotional regulation software
+- Found: 2026-07-01
+- Description: A digital video social story resource that teaches young learners to identify, understand, and manage secondary emotions like boredom and frustration, designed for visual and hands-on learners.
+
+### Zones of Regulation Social Story (AutismWorks)
+
+- URL: https://www.autismworks.com/zones-of-regulation-social-story
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story emotional regulation software
+- Found: 2026-07-01
+- Description: A free 12-page digital social story tool helping children with autism understand emotions and manage them in under ten minutes by recognizing triggers to avoid meltdowns.
+
+### Alayna AI Social Story Generator
+
+- URL: https://www.alayna.ai/use-cases/social-story-for-emotional-regulation-in-8th-grade-boys-created-in-minutes
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story emotional regulation software
+- Found: 2026-07-01
+- Description: An AI-powered tool that creates personalized social stories for emotional regulation in minutes, helping users recognize big emotions and use coping strategies independently.
+
+### Autism Tracker Lite
+
+- URL: https://itunes.apple.com/us/app/autism-tracker-lite/id478527813?mt=8
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story mood tracking directory
+- Found: 2026-07-01
+- Description: An app for tracking mood and emotions in neurodivergent individuals, monitoring happiness, stress, activity level, sensory arousal, weather, and mood notes on a scaling basis.
+
+### Breathe, Think, Do with Sesame
+
+- URL: https://itunes.apple.com/us/app/breathe-think-do-with-sesame/id721853597?mt=8
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story mood tracking directory
+- Found: 2026-07-01
+- Description: A free app guiding children through self-regulation steps (breathe, think, do) to manage emotions and track mood progression during challenging social situations.
+
+### Calm Counter Social Story and Anger Management Tool
+
+- URL: https://itunes.apple.com/us/app/calm-counter-social-story-anger-management-tool/id470369893?mt=8
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story mood tracking directory
+- Found: 2026-07-01
+- Description: A paid tool combining social stories with a counter mechanism to track and manage anger episodes, supporting mood regulation for autistic children.
+
+### Mood Tracker Day (Printable)
+
+- URL: https://www.teacherspayteachers.com/browse/free?search=mood+tracker+day
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story mood tracking directory
+- Found: 2026-07-01
+- Description: A free monthly printable mood tracker to help build self-awareness by visually logging emotions and feelings, suitable for neurodivergent individuals and caregivers.
+
+### Social Stories Resource Library (Sheffield Children's NHS)
+
+- URL: https://library.sheffieldchildrens.nhs.uk/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story mood tracking directory
+- Found: 2026-07-01
+- Description: An official NHS guide on creating personalized social stories with descriptive and coaching sentences, including mood tracking elements to reduce anxiety in autistic children.

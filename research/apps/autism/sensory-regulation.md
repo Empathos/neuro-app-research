@@ -478,3 +478,113 @@
 - Query: AAC environment planning tool
 - Found: 2026-06-30
 - Description: The goal of this process is to determine what AAC tools will optimize communication for the student across all environments. Data collection and device ...
+
+### SocialBlossom: Social Stories
+
+- URL: https://play.google.com/store/apps/details?id=life.socialstories.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story sensory regulation software
+- Found: 2026-07-01
+- Description: A mobile app designed to help neurodivergent kids build emotional awareness, social skills, and confidence through 80+ therapy-designed SEL games and customizable social stories for sensory regulation.
+
+### Social Story Creator & Library
+
+- URL: https://therapyworks.com/blog/language-development/home-tips/using-social-stories-improve-childs-development/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story sensory regulation software
+- Found: 2026-07-01
+- Description: An official tool and app mentioned by Therapy Works that allows parents and educators to create, customize, and manage digital social stories specifically tailored for sensory and behavioral regulation.
+
+### Social Stories for Autism (Free Library)
+
+- URL: https://autismbehaviorservices.com/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story sensory regulation software
+- Found: 2026-07-01
+- Description: A digital repository of free, downloadable social stories for autism and neurodivergence, covering topics like sensory needs, coping strategies, and self-regulation in accessible digital book formats.
+
+### Sensory Needs Social Stories Templates
+
+- URL: https://www.thewatsoninstitute.org/resource/sensory-needs/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story sensory regulation software
+- Found: 2026-07-01
+- Description: A public resource repository offering customizable PowerPoint templates and social stories specifically designed to address sensory needs and support regulation in children.
+
+### Sensory Support Toolkit
+
+- URL: https://www.instagram.com/reel/DVRez9oDdVy/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story sensory regulation software
+- Found: 2026-07-01
+- Description: A classroom secret weapon toolkit featuring 27+ sensory stories and visual supports to help students regulate and focus instantly; includes social stories for sensory regulation.
+
+### Social/Sensory Stories (Tools to Grow)
+
+- URL: https://www.toolstogrowot.com/therapy-resources/sensory-processing/socialsensory-stories-1629913289
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story sensory regulation software
+- Found: 2026-07-01
+- Description: A therapy resource library containing simple, short stories describing real-life social and sensory situations, designed to support sensory processing and regulation in children.
+
+### What is a Social Story? (8 Pro Tips)
+
+- URL: https://theinspiredtreehouse.com/what-is-a-social-story/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story sensory regulation software
+- Found: 2026-07-01
+- Description: An educational resource with pro tips on creating and using social stories for sensory regulation, including free library links and guidance on internalizing regulated responses.
+
+### Carol Gray Social Stories - Official Resource
+
+- URL: https://carolgraysocialstories.com/social-stories/social-story-sampler/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story overload directory
+- Found: 2026-07-01
+- Description: The official social story sampler from Carol Gray, featuring research-supported models for handling challenging topics like sensory overload.
+
+### Undivided - What Is a Social Story
+
+- URL: https://undivided.io/resources/what-is-a-social-story-featuring-carol-gray-2202/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story overload directory
+- Found: 2026-07-01
+- Description: Educational resource defining the 10 social story criteria, including how to structure stories for neurodivergent individuals to manage sensory experiences.
+
+### Scribd - Coping with Sensory Overload Tips (PDF)
+
+- URL: https://www.scribd.com/document/855365509/Social-story-new-places
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story overload directory
+- Found: 2026-07-01
+- Description: A PDF document sharing personal experiences and coping tips for sensory overload when visiting new places, formatted as a social story.
+
+### Wheaton Park District - Social StoriesTM Resources
+
+- URL: https://wheatonparkdistrict.com/general/inclusion-services/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story overload directory
+- Found: 2026-07-01
+- Description: New resources assisting families and caregivers in navigating new experiences with ease, including social stories for managing environmental changes and overload.

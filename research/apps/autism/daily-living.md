@@ -348,3 +348,63 @@
 - Query: AAC home routine tool
 - Found: 2026-06-30
 - Description: A comprehensive public repository of AAC tools, apps, and printable resources for home routines. Features links to free core vocabulary boards and routine-specific visual supports.
+
+### Visual Schedules And Social Stories
+
+- URL: https://www.schedulenstories.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story daily living support software
+- Found: 2026-07-01
+- Description: Official website for a visual support app combining visual schedules and social stories to improve socially appropriate behaviors in children with autism, focusing on daily living routines and community participation.
+
+### Crowages Kids App - Social Stories
+
+- URL: https://www.courageouskidsapp.com/game-changing-tools/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story daily living support software
+- Found: 2026-07-01
+- Description: Official website section for a tool that generates personalized social stories by tailoring content to a child's specific needs, age, and daily living challenges to support anxiety and autism.
+
+### Social Stories for Autism - Kids Club ABA
+
+- URL: https://kidsclubaba.com/social-stories-for-autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story independence directory
+- Found: 2026-07-01
+- Description: A comprehensive guide and repository of social stories supporting independence, covering routines, transitions, and safety for neurodivergent children and adults.
+
+### Social Stories for Autism - Palm Beach County Library System
+
+- URL: https://www.pbclibrary.org/disability_neurodiversity/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story independence directory
+- Found: 2026-07-01
+- Description: Library system resource offering social stories to assist neurodivergent individuals in navigating library spaces independently, including routines and transitions.
+
+### Social Stories Directory - TPT Safety Social Story
+
+- URL: https://www.teacherspayteachers.com/browse?search=safety+social+story+free
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story independence directory
+- Found: 2026-07-01
+- Description: Free and paid safety social stories on Teachers Pay Teachers, teaching students to stay in safe areas and navigate groups independently.
+
+### Social Narrative Research Scoping Review - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11263915/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story independence directory
+- Found: 2026-07-01
+- Description: A scoping review synthesizing social narrative research for behavior change in ASD, including independence skills like communication and direction compliance.
