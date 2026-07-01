@@ -308,3 +308,93 @@
 - Query: coordination coping skills tool
 - Found: 2026-06-30
 - Description: YouTube video by Kim Sundal demonstrating step-by-step strategies to build a coping skills tool box, including sensory grounding, breathing, and activity-based tools tailored for coordination and neurodivergence support.
+
+### Mightier - Biofeedback for Emotional Regulation
+
+- URL: https://mightier.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional regulation software
+- Found: 2026-07-01
+- Description: Official product page for Mightier, a biofeedback program using video games and heart rate monitoring to help children aged 6-14 learn emotional regulation skills.
+
+### COCO THINKS and COCO MOVES - Relaxation Apps for Children
+
+- URL: https://coco-thinks.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional regulation software
+- Found: 2026-07-01
+- Description: Documentation and product page for COCO THINKS and COCO MOVES, mobile apps offering relaxation exercises, emotional recognition, and stress management tailored for children, including those with dyspraxia.
+
+### Mightier: Mind, Body & Child Review
+
+- URL: https://mindbodychild.com/modalities/mightier/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional regulation software
+- Found: 2026-07-01
+- Description: Independent review page detailing Mightier's core concept of combining video games with biofeedback technology to teach emotional regulation, reduce anxiety, and improve focus in children.
+
+### Emotion Regulation App (Eda) for Children - Transdiagnostic Study
+
+- URL: https://jmir.org/2022/1/e28300/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional regulation software
+- Found: 2026-07-01
+- Description: Research article page describing the development of a new mental health app with four modules (play, relax, watch, tools) targeting emotion regulation abilities in children aged 10-12.
+
+### Just-in-Time Adaptive Interventions (JITAI) for Emotion Regulation
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8846444/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional regulation software
+- Found: 2026-07-01
+- Description: PMC article discussing digital technologies and JITAI frameworks that provide real-time, tailored support for emotion regulation, offering a repository of concepts for dyspraxia support software.
+
+### Dyspraxia Emotional Regulation Strategies - Dyspraxic Adults Forum
+
+- URL: https://www.dyspraxicadults.org.uk/forums/viewtopic.php?t=8894
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional regulation software
+- Found: 2026-07-01
+- Description: Community forum thread sharing concise strategies like mindfulness, deep breathing, and routine maintenance to manage emotional regulation specifically for individuals with dyspraxia.
+
+### Emotional Regulation Guide - CoordiKids Homeschool
+
+- URL: https://www.coordikids.com/homeschool-activities/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional regulation software
+- Found: 2026-07-01
+- Description: Homeschool lesson plan repository from CoordiKids designed for children with motor skills challenges and dyspraxia, featuring activities to support emotional regulation and self-regulation.
+
+### DBSA Wellness Tracker
+
+- URL: https://www.dbsalliance.org/wellness/wellness-toolbox/wellness-tracker/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia mood tracking directory
+- Found: 2026-07-01
+- Description: The DBSA Wellness Tracker includes a main Mood Tracker and seven supporting symptom, behavior, and lifestyle trackers designed to work together for comprehensive mood and wellness monitoring.
+
+### Daylio Mood and Activity Tracker
+
+- URL: https://positivepsychology.com/mood-charts-track-your-mood/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia mood tracking directory
+- Found: 2026-07-01
+- Description: A highly visual, tap-based mood and activity tracker that helps users log feelings throughout the day, visualize emotional patterns, and track habits and goals with minimal typing.

@@ -198,3 +198,113 @@
 - Query: coordination therapy support iOS Android
 - Found: 2026-06-30
 - Description: Research-backed therapy app for iOS that improves fine motor control, visual-motor integration, and coordination recovery after stroke. Used globally in schools and clinics.
+
+### Using an Evidence-Based Online Module to Improve Parents' Ability ...
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/27155793/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination parent support tool
+- Found: 2026-07-01
+- Description: Objective: To examine whether an evidence-based online module can increase the perceived knowledge and skills of parents of children with DCD, and lead to ...
+
+### A Caregiver Digital Intervention to Support Shared Decision Making ...
+
+- URL: https://formative.jmir.org/2021/6/e24896/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination parent support tool
+- Found: 2026-07-01
+- Description: This paper aims to describe the development of an evidence-based, theoretically informed digital decision support intervention for parents and caregivers of ...
+
+### Tools and training in parenting coordination - APA Services
+
+- URL: https://www.apaservices.org/practice/update/2010/04-29/parenting-coordination
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination parent support tool
+- Found: 2026-07-01
+- Description: PC is designed to help parents implement and comply with their parenting plans, make timely decisions in a manner consistent with children's ...
+
+### [PDF] Care coordination for children with a disability or developmental ...
+
+- URL: https://orca.cardiff.ac.uk/id/eprint/161830/1/cch.13158.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination parent support tool
+- Found: 2026-07-01
+- Description: Results: This evaluation found perceived improvements in families' abilities to navi- gate, organize and understand care and increased parental engagement.
+
+### Developmental model of parent-child coordination for self-regulation ...
+
+- URL: https://www.sciencedirect.com/science/article/abs/pii/S0273229717300874
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination parent support tool
+- Found: 2026-07-01
+- Description: A developmental model is presented that traces how positive parental involvement is coordinated with a child's self-regulation skills.
+
+### A Parent to Parent Model of Service Coordination for Families of ...
+
+- URL: https://uconnucedd.org/early-childhood-intervention-projects/parent-to-parent-model/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination parent support tool
+- Found: 2026-07-01
+- Description: The purpose of the research project was to examine the effects of a culturally compatible parent to parent model of support ... system for their child.
+
+### An Efficacy Study of Peer-Support for Parents of Middle School ...
+
+- URL: https://ies.ed.gov/use-work/awards/parent-connectors-efficacy-study-peer-support-parents-middle-school-youth-emotional-disturbance
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: coordination parent support tool
+- Found: 2026-07-01
+- Description: The purpose of this project is to evaluate the efficacy of Parent Connectors, an innovative parent-to-parent intervention developed to support the families of ...
+
+### Empathy Caregiver
+
+- URL: https://apps.apple.com/us/app/empathy-caregiver/id1561000954
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver app software
+- Found: 2026-07-01
+- Description: A mobile app for caregivers enabling ADL charting, schedule checking, and communication tools without consulting supervisors.
+
+### Empathy Caregiver Mobile App
+
+- URL: https://aaniie.com/who-we-benefit/caregivers-and-nurses/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver app software
+- Found: 2026-07-01
+- Description: Point-of-care software offering caregivers schedules, tasks, EVV, and communication tools in one platform.
+
+### A Guide to Finding the Right Caregiver App
+
+- URL: https://shiftcare.com/us/blog/a-guide-to-finding-the-right-caregiver-app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver app software
+- Found: 2026-07-01
+- Description: Resource for selecting caregiver apps with features for scheduling, notes, communication, and mobile care delivery.
+
+### Dyspraxia Support - Facebook Post
+
+- URL: https://www.facebook.com/thecontentedchild/posts/anatomy-of-a-child-with-dyspraxia/1317703605044671/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver app software
+- Found: 2026-07-01
+- Description: Community discussion on a child's dyspraxia diagnosis and the challenges with local waiting times for support services.

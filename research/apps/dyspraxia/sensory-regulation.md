@@ -468,3 +468,123 @@
 - Query: coordination environment planning tool
 - Found: 2026-06-30
 - Description: A curated list of public data repositories for coordination environment planning, including neurodivergent-accessible climate, physical, and socioeconomic data portals for global and regional analysis.
+
+### A Total Approach - Dyspraxia Disorders Program
+
+- URL: https://atotalapproach.com/dyspraxia-disorders/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory regulation software
+- Found: 2026-07-01
+- Description: Documentation of intensive neurodivergence support programs focusing on sensory modulation, reflex integration, and motor skills regulation for children and adults with dyspraxia.
+
+### Maude Le Roux Academy - Dyspraxia Clinical Strategies
+
+- URL: https://www.maudeleroux.com/sensory-processing
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory regulation software
+- Found: 2026-07-01
+- Description: Educational series and repository of clinical strategies for dyspraxia, emphasizing the Developmental Pathways Model and sensory regulation interventions.
+
+### Sensory Health - Patterns of Sensory Integration Differences
+
+- URL: https://sensoryhealth.org/basic/patterns-or-subtypes-of-differences-sensory-integration-processing
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory regulation software
+- Found: 2026-07-01
+- Description: Public guide explaining sensory modulation, discrimination, and motor differences in dyspraxia, providing a framework for regulation support research.
+
+### Flourish with Neurodiversity - Sensory Regulation Guide
+
+- URL: https://flourishwithneurodiversity.com/sensory-processing-dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory regulation software
+- Found: 2026-07-01
+- Description: Support resource explaining how sensory regulation techniques reduce overwhelm and improve focus for individuals with dyspraxia and developmental coordination disorders.
+
+### Dr. Sharon Cermak - ASI Theory Tuesday Webinar
+
+- URL: https://www.youtube.com/watch?v=lIXeqxQoJhk
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory regulation software
+- Found: 2026-07-01
+- Description: Video recording of a clinical webinar discussing sensory modulation impairments in dyspraxia and DCD, useful for understanding regulation deficits.
+
+### Sajot Journal - Sensory Modulation and DCD
+
+- URL: https://scielo.org.za/pdf/sajot/v40n3/05.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory regulation software
+- Found: 2026-07-01
+- Description: Peer-reviewed research article exploring the relationship between developmental dyspraxia and sensory modulation dysfunction, providing academic leads for regulation software development.
+
+### Developmental Coordination Disorder (Dyspraxia) - StatPearls
+
+- URL: https://www.ncbi.nlm.nih.gov/books/NBK603724/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia overload directory
+- Found: 2026-07-01
+- Description: Official clinical documentation from NIH/NCBI detailing the diagnosis, symptoms, and evidence-based occupational and physical therapy interventions for Dyspraxia (DCD).
+
+### Dyspraxia and Sensory Processing Issues
+
+- URL: https://theabilitytoolbox.com/dyspraxia-sensory-processing-issues/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia overload directory
+- Found: 2026-07-01
+- Description: Practical guide from a public neurodivergence support tool offering strategies for sensory overload, including tactile tools like fidget spinners and quiet environment modifications.
+
+### 5 Things You Never Knew About Dyspraxia
+
+- URL: https://thecodpast.org/2015/03/5-things-you-never-knew-about-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia overload directory
+- Found: 2026-07-01
+- Description: Public article expanding on the definition of Dyspraxia beyond clumsiness, covering spatial awareness, hand-eye coordination, and processing difficulties.
+
+### Dyspraxia - Learning Disabilities Association of America
+
+- URL: https://ldaamerica.org/disabilities/dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia overload directory
+- Found: 2026-07-01
+- Description: Official association resource providing school and workplace support tools, sensory integration training referrals, and environmental adjustment checklists for students.
+
+### What is Dyspraxia? - GriffinOT
+
+- URL: https://www.griffinot.com/what-is-dyspraxia-myths-explained/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia overload directory
+- Found: 2026-07-01
+- Description: Occupational therapy documentation debunking myths about Dyspraxia, emphasizing the need for executive function support and ideation planning strategies.
+
+### Dyspraxia/DCD  How does it affect adults?
+
+- URL: https://www.youtube.com/watch?v=qy2HRDvMiG8
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia overload directory
+- Found: 2026-07-01
+- Description: Video resource presenting self-management strategies for cognitive fatigue and stress in adults with Dyspraxia, including brainstorming and goal-identification techniques.

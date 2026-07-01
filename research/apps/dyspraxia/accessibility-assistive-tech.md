@@ -248,3 +248,123 @@
 - Query: coordination adaptive tool
 - Found: 2026-06-30
 - Description: Official documentation for the Soundbuddy system, detailing how to coordinate adaptive tools like timers, visual prompts, and movement breaks for effective neurodivergence support.
+
+### ModMath - Assistive Technology for Dysgraphia and Dyscalculia
+
+- URL: https://modmath.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia assistive technology software
+- Found: 2026-07-01
+- Description: A touchscreen-based math tool designed to simplify solving math problems and equations for students with dysgraphia, dyscalculia, and dyspraxia by removing handwriting barriers.
+
+### Bookshare - Digital Library for Learning Disabilities
+
+- URL: https://www.bookshare.org/cms/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia assistive technology software
+- Found: 2026-07-01
+- Description: A free digital library offering textbooks in multiple formats (audio, large print, text) to support students with dyspraxia, dyslexia, and other learning disabilities.
+
+### Read & Write for Google Chrome - Accessibility Extension
+
+- URL: https://chrome.google.com/webstore/detail/readwrite-for-google-chro/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia assistive technology software
+- Found: 2026-07-01
+- Description: A Chrome extension providing text-to-speech, word prediction, and dictionary tools to improve reading and writing accessibility for students with dyspraxia.
+
+### Audio Notetaker - Note-Taking and Research Software
+
+- URL: https://sonocent.com/audio-notetaker/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia assistive technology software
+- Found: 2026-07-01
+- Description: Desktop software with a companion app that helps students with dyspraxia take notes, write essays, compile research, and brainstorm using audio integration.
+
+### Book Creator - Collaborative Digital Publishing Tool
+
+- URL: https://bookcreator.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia assistive technology software
+- Found: 2026-07-01
+- Description: A collaborative platform allowing teachers and students to create books, comics, and reports across devices, supporting creative expression for those with dyspraxia.
+
+### Dyspraxia Support Tools - Learning Differences
+
+- URL: https://www.ala.org/accessibility/learning-differences
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility directory
+- Found: 2026-07-01
+- Description: American Library Association guidelines on dyspraxia, a coordination disorder, including assistive technology recommendations like audio input/output, screen magnifiers, and captioning.
+
+### Accessible Social Experts Directory
+
+- URL: https://www.accessible-social.com/experts
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility directory
+- Found: 2026-07-01
+- Description: Directory of experts, speakers, trainers, and presenters specializing in accessibility and disability, including neurodivergence support and dyspraxia-related expertise.
+
+### InclusionHub Accessibility Directory
+
+- URL: https://www.inclusionhub.com/accessibility
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility directory
+- Found: 2026-07-01
+- Description: Digital accessibility and usability experts directory focused on ensuring websites, apps, and digital services are accessible for people with disabilities including dyspraxia.
+
+### ADA Accessibility Guidance - Web Accessibility
+
+- URL: https://www.ada.gov/resources/web-guidance/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility directory
+- Found: 2026-07-01
+- Description: Official ADA.gov guidance on web accessibility, including best practices for labels, keyboard navigation, and error reporting critical for users with dyspraxia.
+
+### U.S. Access Board - ADA Accessibility Standards
+
+- URL: https://www.access-board.gov/ada/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility directory
+- Found: 2026-07-01
+- Description: Federal standards for accessible design promoting equality for people with disabilities, including guidelines relevant to neurodivergent users and dyspraxia accommodations.
+
+### NCHPAD on Instagram - Accessible Directory
+
+- URL: https://www.instagram.com/p/DYh11iLjoZs/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility directory
+- Found: 2026-07-01
+- Description: NCHPAD Directory enabling discovery of organizations and places supporting healthy living for people with disabilities and mobility challenges, including neurodivergence support.
+
+### Disability Network Directory - Montgomery County
+
+- URL: https://www.montgomerycountymd.gov/department-health-human-services/about-us/aging-disability-services/commission-people-disabilities/disability-network-directory
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility directory
+- Found: 2026-07-01
+- Description: Regional directory of providers, agencies, and advocacy organizations offering access to services for people with disabilities, including dyspraxia support and accessibility resources.

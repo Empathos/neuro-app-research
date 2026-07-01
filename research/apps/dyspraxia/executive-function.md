@@ -418,3 +418,83 @@
 - Query: coordination reminders tool
 - Found: 2026-06-30
 - Description: Microsoft To Do provides coordination reminders, task lists, and collaborative planning tools that support neurodivergent users in organizing daily activities and maintaining coordination.
+
+### Inspiration 9 - Mind Mapping Software
+
+- URL: https://www.inspiration.com/products/inspiration-9
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia planning software
+- Found: 2026-07-01
+- Description: Visual planning and mind mapping software recommended for dyspraxia users to create structured plans, organize thoughts, and support sequential thinking with drag-and-drop features.
+
+### Kidspiration - Mind Mapping for Kids
+
+- URL: https://www.inspiration.com/products/kidspiration
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia planning software
+- Found: 2026-07-01
+- Description: Child-friendly mind mapping tool designed to help students with dyspraxia plan tasks, visualize steps, and build organizational skills through colorful, interactive interfaces.
+
+### Comic Creator - Visual Planning Tool
+
+- URL: https://www.readwritethink.org/parent-afterschool-resources/games-tools/comic-creator
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia planning software
+- Found: 2026-07-01
+- Description: A web-based comic creation tool that helps dyspraxia users plan sequences and stories visually, supporting task breakdown and chronological planning through image-based storytelling.
+
+### BBC Dance Mat Typing - Planning & Coordination Game
+
+- URL: https://www.bbc.co.uk/schools/typing
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia planning software
+- Found: 2026-07-01
+- Description: Interactive typing game that combines motor skill development with task planning, helping dyspraxia users practice sequencing and coordination in an engaging, gamified format.
+
+### Nessy Fingers - Adaptive Planning Game
+
+- URL: https://www.nessy.com/uk
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia planning software
+- Found: 2026-07-01
+- Description: Adaptive typing and planning game suite for dyspraxia, combining motor skill training with structured task planning activities to improve sequencing and coordination.
+
+### Parent guide to task follow-through for neurodivergent learners
+
+- URL: https://tutoring.k12.com/resources/skills/executive-function/task-initiation-follow-through/parent-guide-to-task-follow-through-for-neurodivergent-learners/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia task initiation directory
+- Found: 2026-07-01
+- Description: Discover the parent guide to task follow through for neurodivergent learners with actionable steps and resources to help your child succeed at home.
+
+### Assistance with task initiation skills - Facebook
+
+- URL: https://www.facebook.com/groups/337907878132865/posts/1469078241682484/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia task initiation directory
+- Found: 2026-07-01
+- Description: Task initiation is the executive function skill that allows a person to independently begin a task without excessive delay or procrastination.
+
+### Task initiation can be really challenging for some of our kids with ...
+
+- URL: https://www.instagram.com/p/DGVYXn4NtS1/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia task initiation directory
+- Found: 2026-07-01
+- Description: Great strategies for supporting task initiation! Modeling, verbal cues, and backward chaining are so effective for kids with ADHD and motor ...

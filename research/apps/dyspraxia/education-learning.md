@@ -538,3 +538,93 @@
 - Query: coordination classroom tool
 - Found: 2026-06-30
 - Description: Official training program documentation for designing coordinated, neurodiversity-inclusive classrooms with practical tools for instruction and environmental adjustments.
+
+### Assistive Technology Apps and Extensions for Struggling Students - ADDitude
+
+- URL: https://www.additudemag.com/assistive-technology-for-students/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia student support software
+- Found: 2026-07-01
+- Description: Guide featuring 18 tools including Mindomo for mind mapping, EquatIO for math expressions, Seeing AI for low vision, and Book Creator for collaborative report and comic creation.
+
+### Apps and Software for Success - Student Accessibility Services (UNI)
+
+- URL: https://sas.uni.edu/resources/apps-and-software-success
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia student support software
+- Found: 2026-07-01
+- Description: Official accessibility portal offering tools like ModMath for dyslexia/dysgraphia math, myHomework Student Planner for assignment tracking, and Voice Dream Writer for text-to-speech proofreading.
+
+### What technologies can help a high school student with dysgraphia - LDRFA
+
+- URL: https://www.ldrfa.org/speech-to-text-apps-tools-and-software/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia student support software
+- Found: 2026-07-01
+- Description: Resource highlighting speech-to-text tools and extensions, including Smartpen for combining audio notes with drawings and digital voice recorders for journal entries.
+
+### Google Docs Speech to Text for Dysgraphia Support
+
+- URL: https://www.facebook.com/groups/iepeduc/posts/1206644604855726/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia student support software
+- Found: 2026-07-01
+- Description: Facebook community recommendation confirming Google Docs speech-to-text feature (under Tools tab) as an effective, free tool for dysgraphia and dyspraxia support in special education.
+
+### Tennessee Dyslexia Centers - Nashville Parent
+
+- URL: https://nashvilleparent.com/directory/tennessee-dyslexia-centers/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia learning support directory
+- Found: 2026-07-01
+- Description: Directory of dyslexia and dyspraxia support resources in Tennessee, including contact information for centers offering learning disorder assessments.
+
+### Learning Disorder Programs in Nashville, TN - Brain Balance Centers
+
+- URL: https://www.brainbalancecenters.com/locations/tennessee/nashville/learning-disorders
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia learning support directory
+- Found: 2026-07-01
+- Description: Programs that help with dyslexia, dysgraphia, dyscalculia, and dyspraxia, offering tailored learning support for children with neurodevelopmental disorders.
+
+### Dyspraxia: What It Is, Causes, Symptoms - Cleveland Clinic
+
+- URL: https://my.clevelandclinic.org/health/diseases/23963-dyspraxia-developmental-coordination-disorder-dcd
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia learning support directory
+- Found: 2026-07-01
+- Description: Comprehensive medical resource on dyspraxia (DCD), including diagnosis criteria, symptoms, and therapy options for motor skill and coordination difficulties.
+
+### Resources Educators - Dyspraxia DCD America
+
+- URL: https://www.dyspraxiadcdamerica.org/resources-educators/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia learning support directory
+- Found: 2026-07-01
+- Description: Curated educational resources on living with dyspraxia/DCD, including UK-based videos and tools to support children with motor skill challenges.
+
+### Dyspraxia - Learning Disabilities Association of Georgia
+
+- URL: https://ldaga.org/dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia learning support directory
+- Found: 2026-07-01
+- Description: Information on dyspraxia problems with movement, coordination, language, and speech, including muscle control difficulties and support strategies.
