@@ -368,3 +368,53 @@
 - Query: task initiation routine iOS Android
 - Found: 2026-06-30
 - Description: Guide to using Brain.fm as an audio foundation for neurodivergent productivity, helping users initiate and maintain attention on tasks via purpose-driven focus music on iOS and Android.
+
+### Magic To-Do List: Executive Functioning Tool
+
+- URL: https://magic.todo-list.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function planning software
+- Found: 2026-07-01
+- Description: A web-based tool that breaks down tasks into manageable to-do steps, ideal for neurodivergent users needing planning support. Enter a task like 'clean my room' to get a customized breakdown.
+
+### Stickies - Computer Based Sticky Notes
+
+- URL: https://stickies.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function planning software
+- Found: 2026-07-01
+- Description: Free digital sticky notes with reminders, useful for quick planning and organization. Supports visual task management for executive function support.
+
+### StudyBlue - Audio and Visual Study Tool
+
+- URL: https://studyblue.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function planning software
+- Found: 2026-07-01
+- Description: Includes picture and audio support for study planning, with flashcards and note-syncing features ideal for structured learning and task breakdown.
+
+### Notability - Audio and Text Input Tool
+
+- URL: https://notability.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function planning software
+- Found: 2026-07-01
+- Description: Syncs audio to inputted text for later review, supporting planning through multimedia notes. Includes handwriting recognition and organizational features.
+
+### Teachers Pay Teachers: Executive Function Task Initiation Charts
+
+- URL: https://www.teacherspayteachers.com/browse/free?search=executive+function+task+initation
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function task initiation directory
+- Found: 2026-07-01
+- Description: A collection of downloadable educational charts and tools designed to guide students through the planning and initiating steps of executive functioning tasks in classroom and home settings.

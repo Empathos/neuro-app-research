@@ -366,3 +366,93 @@
 - Query: task initiation environment planning tool
 - Found: 2026-06-30
 - Description: A seamless task manager for Microsoft users that supports task initiation with features like My Day, reminders, and list organization for structured planning.
+
+### Relationships between Sensory Processing and Executive Function - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11201769/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-07-01
+- Description: Scientific study analyzing the distinctive etiology of executive function deficits in children with ASD and ADHD, revealing significant associations between sensory processing and executive functioning metrics.
+
+### Effect of Sensory-Motor Integration Trainings on Executive Functions
+
+- URL: https://brieflands.com/journals/jmcl/articles/147293
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-07-01
+- Description: Research article demonstrating that sensory-motor integration training programs can effectively enhance executive functions and social interactions in children with neurodevelopmental disorders.
+
+### From Sensory Processing to Executive Functioning
+
+- URL: https://www.maudeleroux.com/publications/sensory-processing-executive-functioning
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-07-01
+- Description: Publication discussing the role of the reticular activating system in modulating sensory systems and aiding emotional regulation, leading to the development of executive functioning capabilities.
+
+### Effective Coping Strategies for Sensory Differences and Executive Function
+
+- URL: https://autism.org/compensation-skills/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function sensory regulation software
+- Found: 2026-07-01
+- Description: Research-based resource from The Autism Organization sharing effective coping strategies developed by autistic adults to compensate for non-social challenges related to sensory differences and executive function.
+
+### CHADD - Executive Function Skills Guide
+
+- URL: https://chadd.org/about-adhd/executive-function-skills/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-07-01
+- Description: Comprehensive guide from the premier ADHD organization detailing executive function skills and practical strategies to reduce cognitive overload.
+
+### ADDitude - Executive Function Support Tools
+
+- URL: https://www.additudemag.com/executive-function-disorder/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-07-01
+- Description: Curated directory of apps, planners, and digital tools specifically designed to help neurodivergent adults manage executive function challenges.
+
+### Sachs Center - Executive Function Help for Adults
+
+- URL: https://sachscenter.com/executive-function-help-for-adults/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-07-01
+- Description: Practical strategies and tool recommendations for adults struggling with executive function, including brain dumps and the Eisenhower Matrix.
+
+### LifeSkills Advocate - Executive Dysfunction Strategies
+
+- URL: https://lifeskillsadvocate.com/blog/executive-dysfunction-signs-and-strategies/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-07-01
+- Description: Blog offering medication-free strategies and app recommendations to shrink the first action and reduce executive function overload.
+
+### ADDter - Executive Function Toolkit for Neurodivergent Adults
+
+- URL: https://addter.com/executive-function-toolkit/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function overload directory
+- Found: 2026-07-01
+- Description: Digital toolkit featuring visual planners, reminder apps, and task-breakdown strategies tailored for neurodivergent individuals facing overload.
