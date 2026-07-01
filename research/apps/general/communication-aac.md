@@ -568,3 +568,73 @@
 - Query: accessibility conversation support tool
 - Found: 2026-06-30
 - Description: The official Microsoft repository for accessibility tools, including features like Narrator and dictation, designed to support accessible conversation and text input for users with diverse needs.
+
+### TouchChat HD
+
+- URL: https://www.wordtalking.com/touchchat
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent communication support software
+- Found: 2026-07-01
+- Description: AAC app that turns iPads and iPhones into spoken word communication devices using customizable word boards for neurodivergent users.
+
+### Helperbird - Accessibility & Communication Tools
+
+- URL: https://helperbird.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent communication support software
+- Found: 2026-07-01
+- Description: Chrome extension and web tool offering communication support features including sticky notes, text adaptation, and dictionary for neurodivergent users.
+
+### Grid 3 - AAC Software by Smartbox
+
+- URL: https://www.smartboxas.com/grid-3
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent communication support software
+- Found: 2026-07-01
+- Description: Family of AAC software and devices for non-verbal and minimally verbal individuals, offering customizable communication boards for neurodivergent support.
+
+### Hiki - Dating & Friendship for Neurodivergent Community
+
+- URL: https://www.hikiapp.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent communication support software
+- Found: 2026-07-01
+- Description: iOS and Android app providing social connection and communication support specifically for individuals with autism, ADHD, and neurodivergence.
+
+### Neurodivergent Therapists Directory
+
+- URL: https://ndtherapists.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent AAC directory
+- Found: 2026-07-01
+- Description: Expanded directory of providers who identify as neurodivergent and offer affirming care, including AAC support and communication therapy.
+
+### Directory Signposting - Thriving Autistic
+
+- URL: https://thrivingautistic.org/directory-signposting/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent AAC directory
+- Found: 2026-07-01
+- Description: Curated list of neurodivergent therapists, practitioners, and specialists diagnosing autism, including AAC-focused professionals.
+
+### National Autistic Society Neurodiversity Directory
+
+- URL: https://www.autism.org.uk/autism-services-directory/the-neurodiversity-directory
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent AAC directory
+- Found: 2026-07-01
+- Description: National resource offering no-strings access to counseling, therapy, and specialist equipment, including AAC adaptations for neurodivergent individuals.

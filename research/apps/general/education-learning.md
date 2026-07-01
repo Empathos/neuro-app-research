@@ -278,3 +278,93 @@
 - Query: accessibility classroom tool
 - Found: 2026-06-30
 - Description: Annual award list of remote-accessible digital classroom tools recognized for their improvements in usability and accessibility, including resources for neurodivergent support.
+
+### Glean
+
+- URL: https://glean.io/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent student support software
+- Found: 2026-07-01
+- Description: A note-taking and lecture recording app that creates transcripts and syncs audio with notes, specifically designed to help neurodivergent students manage focus, processing speed, and working memory.
+
+### Tiimo Web App
+
+- URL: https://tiimo.app/web/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent student support software
+- Found: 2026-07-01
+- Description: The browser-based version of the Tiimo planning app, offering accessible visual schedule management for students without requiring a mobile device installation.
+
+### Tiimo Documentation
+
+- URL: https://help.tiimo.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent student support software
+- Found: 2026-07-01
+- Description: Official help center and documentation for Tiimo, providing guides on how to set up visual timelines and manage routines for neurodivergent students.
+
+### Tiimo Accessibility Guide
+
+- URL: https://tiimo.app/accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent student support software
+- Found: 2026-07-01
+- Description: Official page detailing Tiimo's accessibility features and design principles specifically crafted to support neurodivergent students with executive function challenges.
+
+### Neurodiversity Resource Guide
+
+- URL: https://www.nextstepsneurodiversity.com/resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent learning support directory
+- Found: 2026-07-01
+- Description: Curated guide to trusted resources for neurodivergent individuals, featuring an online directory for learning support, advocacy, and education services.
+
+### Web Resources for Neurodivergent Children
+
+- URL: https://www.miriamstl.org/resources/web-resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent learning support directory
+- Found: 2026-07-01
+- Description: Compiled list of trusted resources focused on autism, ADHD, and learning disabilities, including educational tools and support for neurodivergent children.
+
+### Special Needs in College: Free Resources
+
+- URL: https://www.topcollegeconsultants.com/freeresources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent learning support directory
+- Found: 2026-07-01
+- Description: Directory of colleges with additional resources for students with learning differences like ADHD and autism, including learning support programs and mentoring.
+
+### Learning Resource Center - La Jolla Country Day School
+
+- URL: https://www.ljcds.org/academics/learning-resource-center
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent learning support directory
+- Found: 2026-07-01
+- Description: Learning Resource Center supporting neurodivergent learning profiles, leveraging strengths to develop personalized learning strategies for all students.
+
+### Neurodivergent Insights Directory
+
+- URL: https://neurodivergentinsights.com/resources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent learning support directory
+- Found: 2026-07-01
+- Description: Directory of therapists, coaches, and occupational practitioners committed to neurodivergent-affirming learning practices and support.

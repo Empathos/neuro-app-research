@@ -419,12 +419,52 @@
 - Found: 2026-06-30
 - Description: Community discussion recommending Talk Me Calendar as an app providing persistent voice reminders for blind and neurodivergent users, with settings to speak notifications and integrate with VoiceOver.
 
-### Web Accessibility Checker - AndI by Design
+### neurolist: AI Planner for ADHD
 
-- URL: https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/web-accessibility-checkers/
+- URL: https://apps.apple.com/us/app/neurolist-ai-planner-for-adhd/id6468689182
 - Source: perplexity-sonar
 - Condition: general
 - Support category: executive-function
-- Query: accessibility reminders tool
-- Found: 2026-06-30
-- Description: Guide from Colorado State University on using automated and manual tools like JAWS to test web accessibility for reminders and neurodivergent-friendly features, including keyboard navigation and screen reader compatibility checks.
+- Query: neurodivergent planning software
+- Found: 2026-07-01
+- Description: neurolist is an AI-based planner for neurodivergent folks that automatically breaks down scary tasks into manageable steps, helping users with ADHD reach their potential.
+
+### Structured: Planning for Neurodivergent Needs
+
+- URL: https://structured.app/blog/neurodivergent-month
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent planning software
+- Found: 2026-07-01
+- Description: Structured supports neurodivergent users with visual planning, time blocking, and gentle reminders, offering a design that reduces overwhelm and improves productivity.
+
+### AuDHDBoss - AuDHD Task Initiation Tips
+
+- URL: https://brettwhitmarsh.com/audhd-task-initiation/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent task initiation directory
+- Found: 2026-07-01
+- Description: Specific task initiation tips for neurodivergents with both Autism and ADHD (AuDHD), focusing on checklist creation, accountability partners, and breaking down steps.
+
+### Tutoring K12 - Parent Guide to Task Follow-Through
+
+- URL: https://www.tutoring.k12.com/resources/skills/executive-function/task-initiation-follow-through/parent-guide-to-task-follow-through-for-neurodivergent-learners/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent task initiation directory
+- Found: 2026-07-01
+- Description: Parent guide providing actionable steps and resources to help neurodivergent learners succeed at home, covering task mapping, external supports, and positive reinforcement.
+
+### K12 Tutoring - AD Connect Task Initiation Follow-Through
+
+- URL: https://www.tutoring.k12.com/resources/skills/executive-function/task-initiation-follow-through/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent task initiation directory
+- Found: 2026-07-01
+- Description: Documentation page outlining executive function strategies for task initiation and follow-through, designed for educators and parents of neurodivergent children.
