@@ -538,3 +538,43 @@
 - Query: habit awareness conversation support tool
 - Found: 2026-06-30
 - Description: Community-driven forum for users of the HabitAware device to share experiences, discuss habit awareness strategies, and provide peer support for neurodivergent behaviors.
+
+### Tele-CBIT for Tourette Syndrome (Research Insights)
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7775481/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette communication support software
+- Found: 2026-07-01
+- Description: Research article highlighting tele-CBIT as a promising tool for delivering behavioral therapies and improving compliance in Tourette syndrome patients.
+
+### Tourette Association YouTube: Resource Refresher
+
+- URL: https://www.youtube.com/watch?v=1gu3wnwYoOE
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette AAC directory
+- Found: 2026-07-01
+- Description: Video guide from the Tourette Association of America introducing new community resources, AAC tools, and programs for individuals with Tourette Syndrome and Tic Disorders.
+
+### AAC Directory for Tourette AAC Users
+
+- URL: https://aac-directory.org/tourette
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette AAC directory
+- Found: 2026-07-01
+- Description: Public AAC directory listing apps, tools, and communication aids specifically designed for individuals with Tourette Syndrome, including reviews and user recommendations.
+
+### Tourette AAC Support Group Forum
+
+- URL: https://forum.tourette-aac-support.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette AAC directory
+- Found: 2026-07-01
+- Description: Community forum for individuals using AAC tools for Tourette Syndrome, offering discussions on app recommendations, troubleshooting, and sharing experiences with communication aids.

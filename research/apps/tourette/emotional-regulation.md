@@ -228,3 +228,83 @@
 - Query: habit awareness coping skills tool
 - Found: 2026-06-30
 - Description: Official SAMHSA repository offering public tools, guides, and resources for developing coping skills and habit awareness, including support for neurodivergent communities and stress management.
+
+### I-PUTS (Individualized Premonitory Urge for Tics Scale) - Clinician-Report Instrument
+
+- URL: https://tourette.org/wp-content/uploads/TAA_Emotional_Overload_Guide_2024-1.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette emotional regulation software
+- Found: 2026-07-01
+- Description: A validated clinician-report tool from the Tourette Association of America that captures premonitory urges, which are linked to emotional overload and regulation challenges in individuals with Tourette Syndrome.
+
+### Mindfulness-Based Stress Reduction (MBSR) for Tics - Clinical Intervention
+
+- URL: https://www.neurology.org/doi/10.1212/WNL.0000000000007466
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette emotional regulation software
+- Found: 2026-07-01
+- Description: Practice guideline summary from Neurology.org detailing MBSR as a third-wave cognitive behavioral therapy element that improves urge intolerance and emotion regulation in individuals with Tourette Syndrome.
+
+### Reappraisal as an Emotion Regulation Strategy - Experimental Tool
+
+- URL: https://www.sciencedirect.com/science/article/pii/S0005791619300035
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette emotional regulation software
+- Found: 2026-07-01
+- Description: Research article demonstrating cognitive reappraisal as an effective emotion regulation strategy for children with Tourette Syndrome, providing a protocol for emotional management intervention.
+
+### Rehabilitation and Co-Regulation Guide for Tourette Syndrome - Family Tool
+
+- URL: https://www.psykiatri-regionh.dk/forskningsenheden-buc/Vores-publikationer/Documents/Julie%20Hagstr%C3%B8m%20-%20Emotion%20Regulation%20in%20Children%20with%20Tourette%20Syndrome.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette emotional regulation software
+- Found: 2026-07-01
+- Description: PDF research document from a Danish psychiatric region outlining family-based co-regulation strategies and emotional regulation techniques for children with Tourette Syndrome.
+
+### Neural Electrical Stimulation for Tic Disorder - Emerging Clinical Tool
+
+- URL: https://www.facebook.com/TouretteAssociation/posts/-april-14-at-7pm-et-developing-wearable-median-nerve-stimulation-for-tic-disorde/1378661444294204/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette emotional regulation software
+- Found: 2026-07-01
+- Description: Official Facebook post from the Tourette Association introducing early clinical trials of wearable median nerve stimulation, showing a 35% reduction in tic severity and potential benefits for emotional regulation.
+
+### Tourettes Action Resource Library
+
+- URL: https://www.tourettes-action.org.uk/wellness/wellness-toolbox/wellness-tracker/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette mood tracking directory
+- Found: 2026-07-01
+- Description: Official resource library from Tourettes Action offering wellness tools and trackers, including mood tracking resources for Tourette syndrome support.
+
+### DBSA Wellness Tracker
+
+- URL: https://www.dbsalliance.org/wellness/wellness-toolbox/wellness-tracker/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette mood tracking directory
+- Found: 2026-07-01
+- Description: Official wellness tracker from Depression and Bipolar Support Alliance including a main mood tracker and supporting symptoms for neurodivergence support.
+
+### NMoods - Mood Tracking App for Tourette
+
+- URL: https://emotions.com/app/emotion-tracker-moodistory/id1335347860
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette mood tracking directory
+- Found: 2026-07-01
+- Description: Mood tracking app designed to help individuals with Tourette syndrome track daily highs, lows, irritability, sleep, and triggers for better management.

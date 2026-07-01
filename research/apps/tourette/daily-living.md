@@ -188,3 +188,83 @@
 - Query: habit awareness home routine tool
 - Found: 2026-06-30
 - Description: A daily routine planning tool that helps users organize home habits and awareness through a guided, mindful approach to scheduling and tracking daily activities.
+
+### CBIT Resources (TSA-NYC)
+
+- URL: https://www.tsa-nyc.org/resources
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette daily living support software
+- Found: 2026-07-01
+- Description: Official resource page from the Tourette Syndrome Association (NYC) providing information on CBIT, habit reversal therapy (HRT), telemedicine options, and support networks for daily living management of Tourette Syndrome.
+
+### Frontline Home-Based Behavioral Therapy
+
+- URL: https://www.johnshopkinssolutions.com/solution/frontline
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette daily living support software
+- Found: 2026-07-01
+- Description: A home-based behavioral therapy program for children ages 7-17 with Tourette Syndrome, featuring a 42-minute instructional video and comprehensive parent guide for daily tic management.
+
+### Wide Open School - Free Learning Collection
+
+- URL: https://wideopenschool.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette daily living support software
+- Found: 2026-07-01
+- Description: A free collection of online learning experiences for students of all ages, including those with neurodivergent conditions like Tourette Syndrome, offering virtual tutoring and executive functioning assistance.
+
+### Transitions to Independence - Tourette Association of America
+
+- URL: https://tourette.org/resource/transitions-to-independence/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette independence directory
+- Found: 2026-07-01
+- Description: Dedicated resource guide focusing on transitions to independence for individuals with Tourette Syndrome, offering support strategies and expert insights.
+
+### Tools for Educators - Accommodations & Rights
+
+- URL: https://tourette.org/resources/overview/tools-for-educators/accommodations-education-rights/iep-504-accommodations/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette independence directory
+- Found: 2026-07-01
+- Description: Detailed guide on educational accommodations, IEP/504 plans, and rights for students with Tourette Syndrome to support independence in academic settings.
+
+### Tourette Syndrome Center of Excellence - Kennedy Krieger
+
+- URL: https://www.kennedykrieger.org/patient-care/centers-and-programs/tourette-syndrome-center-of-excellence
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette independence directory
+- Found: 2026-07-01
+- Description: Clinical center providing expert diagnostic services and treatment for children and adults with Tourette Syndrome, supporting independence through comprehensive care.
+
+### Tourette Syndrome Resources - NM PED
+
+- URL: https://web.ped.nm.gov/bureaus/special-education/disability-categories/additional-tourettes-syndrome-information-and-links-under-ohi/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette independence directory
+- Found: 2026-07-01
+- Description: New Mexico state resources on Tourette Syndrome, including symptoms, educational strategies, support services, and links to independence guides for students.
+
+### Tourette Association MA Chapter - Support Groups
+
+- URL: https://tourette.org/chapter/ma/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette independence directory
+- Found: 2026-07-01
+- Description: Volunteer-led Massachusetts chapter offering local support groups, tools, and resources for families and individuals navigating independence with Tourette Syndrome.

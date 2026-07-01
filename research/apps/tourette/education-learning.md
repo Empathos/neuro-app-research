@@ -418,3 +418,73 @@
 - Query: habit awareness classroom tool
 - Found: 2026-06-30
 - Description: A habit change app recommended for students that uses gamification and social accountability features to modify behavior.
+
+### Dragon Dictation - Free Speech-to-Text Mobile App
+
+- URL: https://www.nuance.com/dragon-dictation.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette student support software
+- Found: 2026-07-01
+- Description: A free mobile app for converting spoken words into text, helping students with Tourette Syndrome put information on paper without worrying about handwriting.
+
+### Apple Pages - Dictation and Voice Control Features
+
+- URL: https://www.apple.com/pages/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette student support software
+- Found: 2026-07-01
+- Description: Offers voice dictation and accessibility tools to help students create documents without relying on physical writing, compensating for Tourette-related motor challenges.
+
+### Tourette Syndrome in Schools: Understanding Tics and Learning Impact (CDC Course)
+
+- URL: https://www.cdc.gov/tourette-syndrome/info-for-educators/index.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette student support software
+- Found: 2026-07-01
+- Description: A free, self-paced educational course for educators and parents to understand Tourette Syndrome, its impact on learning, and strategies for supporting students in school.
+
+### Ask the Experts: School Support for Students with Tourette Syndrome
+
+- URL: https://www.youtube.com/watch?v=Qy22KRmlPMo
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette learning support directory
+- Found: 2026-07-01
+- Description: A video panel featuring the TAA's Education Advisory Board discussing school accommodations, support services, and strategies for students with Tourette Syndrome.
+
+### Tourette Association of America - Foundation Directory
+
+- URL: https://fconline.foundationcenter.org/fdo-grantmaker-profile/?collection=grantmakers&activity=result&key=TOUR414
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette learning support directory
+- Found: 2026-07-01
+- Description: Official profile of the Tourette Association of America with contact details, location in Bayside, NY, and URL for accessing their educational and support resources.
+
+### Support for Tourette Disorder - NYU Langone Health
+
+- URL: https://nyulangone.org/conditions/tourette-disorder/support
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette learning support directory
+- Found: 2026-07-01
+- Description: Hospital-based support services for children and young adults with Tourette disorder, including family education and learning support resources.
+
+### Support Groups for Tourette's Disorder - NetworkTherapy.com
+
+- URL: https://www.networktherapy.com/resources/support_groups/topic.asp?id=419
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette learning support directory
+- Found: 2026-07-01
+- Description: Directory of local and online support groups, including Usenet newsgroups and web-based bulletin boards for Tourette's Disorder and related learning support.

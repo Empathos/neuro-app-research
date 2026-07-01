@@ -328,3 +328,63 @@
 - Query: habit awareness parent support tool
 - Found: 2026-06-30
 - Description: A community discussion on effective habit and chore tracking apps for kids with ADHD. Highlights tools like Kids Daily Habit Tracker for teaching productive routines and habit awareness.
+
+### TicTracker App - Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.swyftops.caregiver
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette caregiver app software
+- Found: 2026-07-01
+- Description: Caregiver-focused app to record tic data, manage daily healthcare, medication, treatment tasks, and maintain caregiver profiles for Tourette support.
+
+### SwyftOps - Caregiver App
+
+- URL: https://play.google.com/store/apps/details?id=com.swyftops.caregiver&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette caregiver app software
+- Found: 2026-07-01
+- Description: App enabling caregivers to track daily healthcare, medication, treatment caregiving tasks, manage schedules, and maintain profiles for Tourette patients.
+
+### TicTracker Demo Info
+
+- URL: https://www.appstore.com/tictracker-tourette-log
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette caregiver app software
+- Found: 2026-07-01
+- Description: Demo and information page for TicTracker, a Tourette tracking app designed for caregivers to monitor tic frequency and manage treatment plans.
+
+### Tourette Clinician Tool Directory - Tourette Association of America
+
+- URL: https://www.tourette.org/resource-directory/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette clinician tool directory
+- Found: 2026-07-01
+- Description: Official resource directory housing helpful tools and information for Tourette Syndrome and tic disorders, including clinician resources and provider toolkits.
+
+### Tourette Association of America Center of Excellence - Mount Sinai
+
+- URL: https://www.mountsinai.org/care/psychiatry/services/ocd-tics/tourette-coe
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette clinician tool directory
+- Found: 2026-07-01
+- Description: Mount Sinai Center of Excellence offering comprehensive evaluations, consultations, and clinician tools for Tourette's disorder and related conditions.
+
+### Clinical Assessment of Tourette Syndrome - PMC
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3674220/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette clinician tool directory
+- Found: 2026-07-01
+- Description: Peer-reviewed article detailing clinical assessment tools, rating scales, and diagnostic criteria for Tourette Syndrome to support clinician tool development.
