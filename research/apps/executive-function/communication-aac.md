@@ -487,3 +487,53 @@
 - Query: task initiation conversation support tool
 - Found: 2026-06-30
 - Description: Updated 2025 educator resource providing visual and verbal supports, behavior contracts, and conversation frameworks specifically designed to support task initiation in neurodivergent students.
+
+### Flipd  Focus & Communication Goal Tracker
+
+- URL: https://flipd.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function communication support software
+- Found: 2026-07-01
+- Description: Flipd helps users set and track weekly focus goals, categorize communication time, and use focus audio files to improve executive function while managing digital distractions during work or social interactions.
+
+### Tiimo Documentation  Executive Function & Communication Features
+
+- URL: https://tiimo.app/help
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function communication support software
+- Found: 2026-07-01
+- Description: Official documentation for Tiimo detailing how the app supports executive function through visual timelines, AI task breakdown, and structured communication planning for autistic and neurodivergent users.
+
+### Flipd Documentation  Focus Goals and Social Skills Support
+
+- URL: https://flipd.com/support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function communication support software
+- Found: 2026-07-01
+- Description: Flipds support page explaining how to use focus audio, track sleep, and categorize communication time to enhance executive function and reduce anxiety during social interactions.
+
+### Principles for Improving Executive Function Skills and AAC resources
+
+- URL: https://www.youtube.com/watch?v=Y9KWJcOz5tA
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-07-01
+- Description: Comments ; AT Forward 11-9-23 Part 3: Vocabulary Needed for Executive Functioning Skills. Wisconsin DPI - Resources for the Field  102 views ; AT ...
+
+### Executive Function and AAC Connections
+
+- URL: https://pbuckingham.com/2025/03/28/executive-function-and-aac-connections/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function AAC directory
+- Found: 2026-07-01
+- Description: Executive Function and AAC Connections  Planning. Simple Instructions  Time Management. Time concepts; Follows Visual Schedule  Task Initiation.

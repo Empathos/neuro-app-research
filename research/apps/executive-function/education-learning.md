@@ -318,3 +318,93 @@
 - Query: task initiation classroom tool
 - Found: 2026-06-30
 - Description: Article listing effective apps like Tiimo and Forest that lower activation energy for task initiation, with specific mentions of visual schedules useful in classrooms.
+
+### ReadyEF: Executive Function Tools for Students
+
+- URL: https://www.readyef.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-07-01
+- Description: Official product page for ReadyEF, a suite of executive function tools designed to help students improve organization, focus, and academic success in the classroom.
+
+### Jotit: Executive Functioning Tool for Students
+
+- URL: https://www.jotit.io/learning-solutions/executive-functioning-tools
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-07-01
+- Description: Jotit offers student-centric learning software that serves as an executive functioning tool to improve organization and focus, with a focus on boosting academic success.
+
+### Read&Write Executive Functioning Software
+
+- URL: https://www.twbtraining.com/assistive-technology/read-and-write
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-07-01
+- Description: Official documentation for Read&Write, an intuitive toolbar that makes websites and documents accessible, assisting students with reading text aloud, proofreading, and research tasks.
+
+### Notion: All-in-One Workspace for Students
+
+- URL: https://www.notion.com/student
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function student support software
+- Found: 2026-07-01
+- Description: Official student page for Notion, an all-in-one workspace that helps students manage to-do lists, collaborate on projects, take notes, and organize study materials with customizable templates.
+
+### Supporting Students With Executive Functioning Difficulties
+
+- URL: https://www.youtube.com/watch?v=g7d8mJoYtdI
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-07-01
+- Description: An educational video guide by Seth Perler outlining a step-by-step approach to supporting neurodivergent students, covering secure connections, smart goals, accountability, and breaking tasks into manageable chunks.
+
+### CHADD Resource Directory: Find an ADHD Professional
+
+- URL: https://chadd.org/professional-directory/?letter_sort=e%C2%A4t_page%3D1
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-07-01
+- Description: A national directory from CHADD for finding ADHD and executive function professionals, including coaches and therapists who can provide personalized support for neurodivergent individuals and families.
+
+### Executive Functioning Coaching - Strive Learning Solutions
+
+- URL: https://strivelearningsolutions.com/executive-functioning-coaching
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-07-01
+- Description: A service page for executive functioning coaching in Denver, offering specialized support for students to improve focus, time management, independence, and organizational skills through personalized coaching plans.
+
+### CHADD Resource Directory: Resources for Identifying and Supporting Executive Function Skills
+
+- URL: https://sais.org/resource/supporting-executive-function-in-the-classroom/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-07-01
+- Description: A resource section providing classroom strategies and tools for identifying and supporting executive function skills, including teaching and learning academic support guides for educators.
+
+### The Educator's Guide to Executive Functions
+
+- URL: https://demarleinc.com/the-educators-guide-to-executive-functions-how-to-understand-and-support-students-in-need/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function learning support directory
+- Found: 2026-07-01
+- Description: A guide for educators explaining the fundamentals of executive function, how to understand student needs, and practical methods to support productive, organized learning in neurodivergent students.

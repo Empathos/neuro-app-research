@@ -358,3 +358,93 @@
 - Query: task initiation coping skills tool
 - Found: 2026-06-30
 - Description: Official documentation and resource hub from Inflow offering evidence-based tactics like implementation intentions and environmental design to support task initiation in neurodivergent adults.
+
+### MindShift CBT (Anxiety & Emotional Regulation App)
+
+- URL: https://www.anxietycanada.com/products/mindshift-cbt/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-07-01
+- Description: Free official app page from Anxiety Canada for MindShift CBT, which uses scientifically proven Cognitive Behavioural Therapy strategies to help manage anxiety and improve emotional regulation.
+
+### ExQ Executive Function Curriculum (Game-Based Training)
+
+- URL: https://exqinfiniteknowhow.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-07-01
+- Description: Official product page for ExQ, a game-based tool designed to systematically train fundamental cognitive skills including focus, planning, impulse control, and emotional regulation.
+
+### Self-Help for Anxiety Management (SAM App)
+
+- URL: https://www.selfhelpforanxiety.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-07-01
+- Description: Official site for the SAM app, a free tool developed by psychologists and computer scientists to provide self-help tools for managing anxiety and improving emotional control.
+
+### Breethe (Mindfulness & Relaxation App)
+
+- URL: https://www.breethe.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-07-01
+- Description: Official product page for Breethe, an app offering mindfulness, meditation, and relaxation strategies to support emotional regulation and reduce stress.
+
+### Mood Meter (Emotion Vocabulary & Self-Regulation)
+
+- URL: https://www.estherdarden.com/moodmeter/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function emotional regulation software
+- Found: 2026-07-01
+- Description: Official site for Mood Meter, an app designed to increase self-awareness, promote self-regulation, and build a nuanced emotion vocabulary to support executive function.
+
+### HowWeFeel - Mood & Mental Wellness Tracker
+
+- URL: https://howwefeel.org/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function mood tracking directory
+- Found: 2026-07-01
+- Description: Official website for HowWeFeel, a science-backed app that helps users understand and track their emotions with a focus on emotional granularity and self-regulation.
+
+### Moodnotes - Mindful Mood Tracker
+
+- URL: https://moodnotes.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function mood tracking directory
+- Found: 2026-07-01
+- Description: Official website for Moodnotes, a mood tracking app that uses cognitive behavioral therapy (CBT) principles to help users identify thought patterns and regulate emotions.
+
+### Goblin Tools - Magic ToDo & Mood Helpers
+
+- URL: https://magic.goblin.tools/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function mood tracking directory
+- Found: 2026-07-01
+- Description: Official repository page for Goblin Tools' Magic ToDo, an AI tool that breaks down vague tasks and includes mood-related helpers to support executive function for neurodivergent users.
+
+### MindMeister - Mood & Thought Mapping
+
+- URL: https://www.mindmeister.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function mood tracking directory
+- Found: 2026-07-01
+- Description: Official website for MindMeister, a mind-mapping tool that users often employ to visually organize thoughts, track mood patterns, and manage executive function tasks.

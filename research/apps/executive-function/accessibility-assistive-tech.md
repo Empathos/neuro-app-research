@@ -248,3 +248,73 @@
 - Query: task initiation adaptive tool
 - Found: 2026-06-30
 - Description: Official Tiimo help and documentation center with setup guides for adaptive visual schedules, task initiation workflows, and customization options for neurodivergent users.
+
+### 30/30  Task Manager with Timers
+
+- URL: https://www.3030app.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function assistive technology software
+- Found: 2026-07-01
+- Description: Free task manager that uses visual timers to help users allocate time for tasks, improve time management, and transition between activities efficiently.
+
+### Dragon Dictation  Speech-to-Text
+
+- URL: https://www.draconen.com/dictation
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function assistive technology software
+- Found: 2026-07-01
+- Description: Speech-to-text application that allows users to capture ideas and documents verbally, reducing writing barriers and supporting task initiation for neurodivergent users.
+
+### Project Gutenberg  Free E-Books
+
+- URL: https://www.gutenberg.org/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function assistive technology software
+- Found: 2026-07-01
+- Description: Library of over 70,000 free e-books in multiple languages, offering accessible reading materials for self-regulation, attention training, and educational support.
+
+### Accessibility in Executive Function Apps - Nature Research Study
+
+- URL: https://www.nature.com/articles/s41598-026-38055-z
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function accessibility directory
+- Found: 2026-07-01
+- Description: Research article evaluating accessibility features (voiceover, high contrast) in digital executive function applications and their impact on cognitive performance for post-stroke individuals.
+
+### Executive Functioning Accommodations for IEP/504 Plans
+
+- URL: https://adayinourshoes.com/executive-functioning-accommodations/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function accessibility directory
+- Found: 2026-07-01
+- Description: Guide listing practical accessibility accommodations like visual schedules, timers, and chunked assignments to support neurodivergent students in educational settings.
+
+### Supporting Employees with Executive Functioning Challenges
+
+- URL: https://www.everway.com/guides/neurodiversity-in-the-workplace/supporting-employees-with-executive-functioning-challenges/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function accessibility directory
+- Found: 2026-07-01
+- Description: Workplace resource offering neuroinclusive accommodations, flexible work structures, and accessibility tools (calendars, task apps) for employees with executive function challenges.
+
+### Executive Function Accessibility Guidelines - Missouri State University
+
+- URL: https://blogs.missouristate.edu/access/2016/05/13/executive-functioning-skills-what-are-you-talking-about/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function accessibility directory
+- Found: 2026-07-01
+- Description: Neuroscience-based overview of executive function skills including prioritizing, organizing, and transitioning, with implications for accessibility in educational and clinical settings.

@@ -263,3 +263,33 @@
 - Query: task initiation parent support tool
 - Found: 2026-06-30
 - Description: A platform offering scheduled virtual co-working sessions (body doubling) to help users, including teens and adults, overcome procrastination and start tasks through social accountability.
+
+### Coachbit - Executive Functioning Coaching App
+
+- URL: https://coachbit.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function caregiver app software
+- Found: 2026-07-01
+- Description: Official product page for Coachbit, an app offering task management, daily check-ins, streak tracking, and a focus timer designed to support executive functioning in teens and pre-teens with caregiver oversight.
+
+### CoachMePlus - Executive Function & Caregiver Tools
+
+- URL: https://coachmeplus.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function caregiver app software
+- Found: 2026-07-01
+- Description: Official documentation and product page for CoachMePlus, a mobile and web platform providing structured executive function coaching tools, daily plans, and caregiver communication features for neurodivergent individuals.
+
+### Executive Function Performance Test (EFPT) - Official Documentation
+
+- URL: https://www.bestpractices.org/efpt
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function clinician tool directory
+- Found: 2026-07-01
+- Description: Clinician-administered tool for assessing executive function in real-world tasks, including planning, organization, and task initiation, with detailed administration guides for professionals.

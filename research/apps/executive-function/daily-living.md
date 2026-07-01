@@ -198,3 +198,83 @@
 - Query: task initiation home routine tool
 - Found: 2026-06-30
 - Description: Time management tool using the Pomodoro technique (25-minute work intervals with 5-minute breaks), helping users break tasks into manageable chunks and initiate work through structured routines.
+
+### AnyList - Grocery Shopping & Meal Planning
+
+- URL: https://www.anylist.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function daily living support software
+- Found: 2026-07-01
+- Description: Official product page for AnyList, a visual app that organizes grocery shopping, recipes, and meal planning with shared lists and smart categorization to reduce daily overwhelm.
+
+### Executive Function: What It Is and How to Improve (Cleveland Clinic)
+
+- URL: https://my.clevelandclinic.org/health/articles/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function independence directory
+- Found: 2026-07-01
+- Description: Official medical resource defining executive function pillars (working memory, cognitive flexibility, inhibition) and providing evidence-based strategies for improving independence in neurodivergent individuals with ADHD and autism.
+
+### Executive Functioning Skills for Kids to Adults (The OT Toolbox)
+
+- URL: https://www.theottoolbox.com/executive-functioning-skills/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function independence directory
+- Found: 2026-07-01
+- Description: Comprehensive public guide and toolkit library offering practical exercises, checklists, and organizational tools (e.g., post-it strategies, check-in routines) to build independence in attention, problem-solving, and emotional control.
+
+### Executive Function Skills By Age (Gemm Learning)
+
+- URL: https://www.gemmlearning.com/blog/learning-issues/executive-function-skills-by-age/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function independence directory
+- Found: 2026-07-01
+- Description: Age-graded milestone guide for tracking executive function maturation, with actionable steps for parents to support independence in planning, prioritizing, and initiating tasks from early childhood through adulthood.
+
+### Executive Function | Children's Hospital of Philadelphia (CHOP)
+
+- URL: https://www.chop.edu/conditions-diseases/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function independence directory
+- Found: 2026-07-01
+- Description: Official clinical resource explaining executive function deficits and listing therapeutic interventions, organizational skills training, and family education programs to foster independence in children and teens.
+
+### Executive Function Deficits (ASHA)
+
+- URL: https://www.asha.org/practice-portal/clinical-topics/executive-function-deficits/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function independence directory
+- Found: 2026-07-01
+- Description: Public practice portal detailing cognitive processes affected by EF deficits and providing environmental accommodations, self-advocacy strategies, and safety-focused modifications to support daily independence.
+
+### Executive Function Independence: Building Skills for Adult Life (Neurodiverse You)
+
+- URL: https://neurodiverseyou.com/blog/2025/03/27/executive-functioning-independence-building-the-skills-for-adult-life/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function independence directory
+- Found: 2026-07-01
+- Description: Practical blog post offering neurodivergent-friendly tools for independence, including visual timers, 'done lists', body doubling techniques, and low-effort task versions to reduce friction in daily routines.
+
+### A Guide to Executive Function (Harvard Center on the Developing Child)
+
+- URL: https://developingchild.harvard.edu/resource-guides/guide-executive-function/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function independence directory
+- Found: 2026-07-01
+- Description: Official resource guide from Harvard University outlining the core pillars of executive function (planning, organizing, initiating, regulating) and linking to evidence-based programs for developing these skills across the lifespan.
