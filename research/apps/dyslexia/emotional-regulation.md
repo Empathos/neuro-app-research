@@ -38,3 +38,53 @@
 - Found: 2026-06-26
 - Description: An open-source AI chatbot demo built on HuggingFace that answers questions and designs evidence-based learning plans for struggling readers, including those with dyslexia, using the U.S. Department of Education's clearinghouse data.
 
+
+### Nessy  Dyslexia Learning Platform
+
+- URL: https://www.nessy.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional regulation software
+- Found: 2026-07-01
+- Description: Popular online platform offering games and instruction specifically designed for dyslexic learners. Includes features to support focus and emotional engagement through structured play.
+
+### Dysolve AI  Clinically Proven Dyslexia Solution
+
+- URL: https://dysolve.ai
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional regulation software
+- Found: 2026-07-01
+- Description: AI-based solution addressing dyslexia at its source to support general education inclusion. Focuses on individualized learning that reduces frustration and improves emotional resilience.
+
+### iWordQ  Text-to-Speech for Dyslexia
+
+- URL: https://www.iwordq.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional regulation software
+- Found: 2026-07-01
+- Description: Assistive reading and writing tool for struggling readers and writers. Provides text-to-speech, text highlighting, and word prediction to ease cognitive load and support confidence.
+
+### Dyslexia Referral Checklist Manuals (CLI Engage)
+
+- URL: https://public.cliengage.org/training/support/how-to-guides/dyslexia-referral-checklist-manuals/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia mood tracking directory
+- Found: 2026-07-01
+- Description: Official CLI Engage manuals and online checklist for tracking student data related to dyslexia referrals, usable with any progress monitoring tool to support neurodivergent education.
+
+### Reading Rockets
+
+- URL: https://readingrockets.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia mood tracking directory
+- Found: 2026-07-01
+- Description: National public media literacy initiative offering research-based strategies to help all kids, including those with dyslexia, become skilled readers, with supplemental resources for emotional and mood tracking in education.

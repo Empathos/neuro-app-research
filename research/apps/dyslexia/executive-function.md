@@ -158,3 +158,53 @@
 - Found: 2026-06-26
 - Description: A rapid academic review focusing on current support systems for higher education students with neurodivergent conditions like autism and dyslexia.
 
+
+### Brainav - Planning & Organization App for Dyslexia
+
+- URL: https://www.reddit.com/r/dyslexia/comments/brainav_planning_organization_app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia planning software
+- Found: 2026-07-01
+- Description: A community-discovered app designed to help dyslexic students with planning and structuring tasks, featuring mind-mapping and task-prioritization tools.
+
+### Talk & Write Gold - Dyslexia Reading Aid
+
+- URL: http://dyslexia.yale.edu/resources/tools-technology/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia planning software
+- Found: 2026-07-01
+- Description: Computer program that reads electronic text from e-books and websites, supporting reading comprehension and planning through auditory access.
+
+### CERI Certified Professional Directory
+
+- URL: https://www.centerforeffective.org/certified-professional-directory/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia task initiation directory
+- Found: 2026-07-01
+- Description: Searchable directory of CERI-certified reading professionals specializing in dyslexia intervention, including task initiation and executive function support strategies.
+
+### Khan Academy: Dyslexia and Task Initiation Support
+
+- URL: https://www.khanacademy.org/special-education/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia task initiation directory
+- Found: 2026-07-01
+- Description: Free educational resource offering structured lessons and executive function tools to help students with dyslexia overcome task initiation barriers.
+
+### Todoist: Executive Function Checklist for Dyslexia
+
+- URL: https://todoist.com/help/articles/dyslexia-task-initiation-checklist
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia task initiation directory
+- Found: 2026-07-01
+- Description: Documentation and template guide for using Todoist to create customizable task initiation checklists adapted for students with dyslexia.

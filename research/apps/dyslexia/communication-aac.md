@@ -158,3 +158,93 @@
 - Found: 2026-06-26
 - Description: OpenStax provides free, open-source textbooks and course materials, offering accessible reading resources for students, including those with neurodivergent learning needs.
 
+
+### Grammarly - Writing Support for Dyslexia
+
+- URL: https://www.grammarly.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication support software
+- Found: 2026-07-01
+- Description: Official product page for Grammarly, an AI-powered writing assistant that provides real-time spelling, grammar, and punctuation corrections to reduce communication barriers for dyslexic writers.
+
+### Read&Write - Assistive Technology by Texthelp
+
+- URL: https://www.texthelp.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication support software
+- Found: 2026-07-01
+- Description: Official documentation for Read&Write, an assistive technology suite featuring text-to-speech, speech-to-text, and reading support tools tailored for students with dyslexia.
+
+### Provider Directories - International Dyslexia Association
+
+- URL: https://dyslexiaida.org/provider-directories/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC directory
+- Found: 2026-07-01
+- Description: The International Dyslexia Association (IDA) and the Center for Effective Reading Instruction (CERI) each provide directories of professionals who provide.
+
+### Service Providers - Reading SEPAC
+
+- URL: https://sepac.reading.k12.ma.us/resources-for-families/service-providers
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC directory
+- Found: 2026-07-01
+- Description: Provider Directory - International Dyslexia Association (Specific to Dyslexia). Professionals Database - Dysgraphia Life (Specific to Dysgraphia).
+
+### Directory of Dyslexia Service Providers
+
+- URL: https://dyslexialibrary.org/sample-page/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC directory
+- Found: 2026-07-01
+- Description: IDA maintains information on professionals offering services such as: Assessment/Evaluation, Academic Language, Educational or Speech-Language Therapy, Tutoring ...
+
+### Support for Dyslexics & Web Resources - Dyslexia Help
+
+- URL: https://dyslexiahelp.umich.edu/answers/resources/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC directory
+- Found: 2026-07-01
+- Description: This list is designed to help dyslexics, parents, and professionals find the resources they need, from scholarly articles and reviewed books to online forums ...
+
+### Dyslexic Advantage World Wide List of Dyslexia Tutors and ...
+
+- URL: https://www.dyslexicadvantage.org/dyslexic-advantage-world-wide-list-of-dyslexia-tutors-and-learning-centers/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC directory
+- Found: 2026-07-01
+- Description: Dyslexic Advantage has removed our crowdsourced list of dyslexia tutors and learning centers because of the unfortunate misuse of such a list by a few ...
+
+### Recommended Websites & Books - Dyslexia Resource Center
+
+- URL: https://www.dyslexiasc.org/useful-resources
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC directory
+- Found: 2026-07-01
+- Description: Websites. International Dyslexia Association Fact Sheets about dyslexia, dysgraphia, ADHD; dyslexia advocacy, suggested readings for parents and teachers.
+
+### Top 5 Assistive Technology Tools for Children with Dyslexia
+
+- URL: https://www.youtube.com/watch?v=AZKmRv9PIiE
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia AAC directory
+- Found: 2026-07-01
+- Description: Discover five powerful assistive technology tools designed to support children with dyslexia! From text-to-speech software to ...
