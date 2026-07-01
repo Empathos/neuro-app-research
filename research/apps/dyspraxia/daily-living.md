@@ -298,3 +298,63 @@
 - Query: coordination home routine tool
 - Found: 2026-06-30
 - Description: A DCReport.org article listing practical tools (e.g., motion-sensor lighting, grab rails, anti-slip mats) that facilitate safe and effective daily routines, directly addressing home coordination needs for neurodivergent individuals.
+
+### Dyspraxia Foundation  Official Resources and Support
+
+- URL: https://www.dyspraxiafoundation.org.uk/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia independence directory
+- Found: 2026-07-01
+- Description: Official UK organization providing expert advice, support groups, and resources for individuals and families affected by dyspraxia (Developmental Coordination Disorder).
+
+### Dyspraxia DCD America  Provider Directory
+
+- URL: https://www.dyspraxiadcdamerica.org/find-a-provider/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia independence directory
+- Found: 2026-07-01
+- Description: US-based national directory helping families find certified healthcare providers specializing in diagnosis and treatment of dyspraxia/DCD.
+
+### NHS  Developmental Coordination Disorder (Dyspraxia) Information
+
+- URL: https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia independence directory
+- Found: 2026-07-01
+- Description: UK National Health Service page with current medical guidance, diagnosis criteria, and support options for adults and children with dyspraxia.
+
+### Healthline  Dyspraxia Symptoms, Causes & Treatments
+
+- URL: https://www.healthline.com/health/dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia independence directory
+- Found: 2026-07-01
+- Description: Public health article detailing lifelong management strategies, cognitive behavioral therapy options, and practical daily living adaptations for dyspraxia.
+
+### Additudemag  Self-Test for Dyspraxia Symptoms in Children
+
+- URL: https://www.additudemag.com/self-test-dyspraxia-symptoms-in-children/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia independence directory
+- Found: 2026-07-01
+- Description: Free interactive symptom assessment tool designed to help parents identify potential signs of dyspraxia in children for early intervention.
+
+### Dyspraxia Action!  Reading List and Resource Directory
+
+- URL: https://dyspraxiaaction.wordpress.com/resources/reading-list/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia independence directory
+- Found: 2026-07-01
+- Description: Community-curated repository of books, guides, and_provider_contact information for diagnosis and support of dyspraxia in children and adults.

@@ -419,12 +419,3 @@
 - Found: 2026-06-30
 - Description: Community discussion recommending Talk Me Calendar as an app providing persistent voice reminders for blind and neurodivergent users, with settings to speak notifications and integrate with VoiceOver.
 
-### Web Accessibility Checker - AndI by Design
-
-- URL: https://www.chhs.colostate.edu/accessibility/best-practices-how-tos/web-accessibility-checkers/
-- Source: perplexity-sonar
-- Condition: general
-- Support category: executive-function
-- Query: accessibility reminders tool
-- Found: 2026-06-30
-- Description: Guide from Colorado State University on using automated and manual tools like JAWS to test web accessibility for reminders and neurodivergent-friendly features, including keyboard navigation and screen reader compatibility checks.

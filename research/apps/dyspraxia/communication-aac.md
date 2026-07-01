@@ -558,3 +558,73 @@
 - Query: coordination conversation support tool
 - Found: 2026-06-30
 - Description: This tool is meant to help locate NIH-supported repositories for sharing research data. Answer the questions on the left-hand side to narrow the number of ...
+
+### iCommunicate for iPad - AAC App
+
+- URL: https://www.hcbsprovider.com/12-apps-that-help-people-with-speech-and-communication/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication support software
+- Found: 2026-07-01
+- Description: An augmentative/alternative communication (AAC) app for iPad that allows users to create pictures, flashcards, storyboards, routines, and visual schedules, and record custom audio to support communication for those with dyspraxia.
+
+### Speechify - Text-to-Speech for Dyspraxia
+
+- URL: https://speechify.com/blog/dyspraxia-treatment/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication support software
+- Found: 2026-07-01
+- Description: An AI-powered text-to-speech (TTS) program that transforms written text into natural-sounding speech, helping children and adults with dyspraxia access written content without reading difficulties.
+
+### ASHA Practice Portal on AAC
+
+- URL: https://www.asha.org/practice-portal/augmentative-and-alternative-communication/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia AAC directory
+- Found: 2026-07-01
+- Description: Official clinical practice portal from the American Speech-Language-Hearing Association detailing AAC methods, tools, and assessment guidelines for individuals with dyspraxia and other communication disorders.
+
+### PRC-Saltillo NovaChat Device
+
+- URL: https://www.prc-saltillo.com/novachat-device.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia AAC directory
+- Found: 2026-07-01
+- Description: Popular speech-generating device (SGD) tailored for individuals with apraxia and dyspraxia, featuring customizable AAC apps and intuitive access methods.
+
+### Lingraphica AAC Devices for Apraxia
+
+- URL: https://www.lingraphica.com/conditions/aac-devices-for-apraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia AAC directory
+- Found: 2026-07-01
+- Description: Specialized documentation and product page for AAC devices designed to improve communication for people with acquired apraxia of speech and related dyspraxia conditions.
+
+### Child Apraxia Treatment AAC Resources
+
+- URL: https://childapraxiatreatment.org/aac-slp/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia AAC directory
+- Found: 2026-07-01
+- Description: Comprehensive guide to AAC tools, apps, and directories for speech-language pathologists (SLPs) and families supporting children with developmental apraxia and dyspraxia.
+
+### AppNCENTS AAC Provider Directory (Washington State)
+
+- URL: https://nwacs.info/resources/provider-directory/aac-provider-directory/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia AAC directory
+- Found: 2026-07-01
+- Description: Compiled list of non-school-based AAC specialists and providers in Washington State, useful for locating local support for individuals with dyspraxia.
