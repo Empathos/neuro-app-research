@@ -148,3 +148,63 @@
 - Found: 2026-06-26
 - Description: Startup Reading offers a calming digital lesson library for early reading support, aligned with the Science of Reading, designed to empower neurodivergent students with evidence-based decoding strategies and reduced anxiety.
 
+
+### Dybuster - Neuromedia for Dyslexia
+
+- URL: https://www.dybuster.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory regulation software
+- Found: 2026-07-01
+- Description: Official product page for Dybuster, a sensory regulation software using color, sound, and visual patterns to train dyslexic children in spelling and reading comprehension through multisensory engagement.
+
+### Read&Write for Dyslexia
+
+- URL: https://www.tobiiro.com/products/read-write/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory regulation software
+- Found: 2026-07-01
+- Description: Official product page for Read&Write, a literacy overlay toolbar offering text-to-speech, word prediction, and dual-color highlighting to support dyslexic users with sensory reading regulation.
+
+### Capti Voice - Literacy Platform for Dyslexia
+
+- URL: https://captivoice.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory regulation software
+- Found: 2026-07-01
+- Description: Official product page for Capti Voice, an award-winning literacy platform allowing educators to personalize reading instruction with text-to-speech and sensory regulation features for dyslexic students.
+
+### ClaroRead - Dyslexia Support Software
+
+- URL: https://www.claroread.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory regulation software
+- Found: 2026-07-01
+- Description: Official product page for ClaroRead, a customizable software system specifically designed to assist individuals with dyslexia and visual stress through multisensory reading and writing support.
+
+### Decoding Dyslexia - Parent-Led Advocacy Network
+
+- URL: https://decodingdyslexia.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia overload directory
+- Found: 2026-07-01
+- Description: National grassroots movement offering resources and advocacy for dyslexia support in public schools, helping families navigate overload and access interventions.
+
+### National Center on Improving Literacy (NCIL) - Evidence-Based Tools
+
+- URL: https://improvingliteracy.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia overload directory
+- Found: 2026-07-01
+- Description: Research-based repository of screening, identification, and teaching tools for students with dyslexia and other literacy-related disabilities.

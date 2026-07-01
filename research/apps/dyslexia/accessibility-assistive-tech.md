@@ -48,3 +48,43 @@
 - Found: 2026-06-30
 - Description: Free Microsoft Word add-in providing text-to-speech functionality directly within Word, supporting users with reading difficulties and dyslexia.
 
+
+### Speech Central
+
+- URL: https://speechcentral.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia assistive technology software
+- Found: 2026-07-01
+- Description: Official website for Speech Central, an iOS and Android app providing text-to-speech and audiobook support designed to assist users with dyslexia.
+
+### Top 10 Tools for Web Accessibility for Dyslexia
+
+- URL: https://www.webability.io/blog/web-accessibility-for-dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility directory
+- Found: 2026-07-01
+- Description: A curated directory of top web accessibility tools for dyslexia, featuring AI-enhanced widgets, text-to-speech solutions, and customizable assistive toolbars from providers like WebAbility.io, Texthelp, and Recite Me.
+
+### Assistive Technology for Dyslexia: Unlocking Potential
+
+- URL: https://www.accessibilitychecker.org/blog/assistive-technology-for-dyslexia/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility directory
+- Found: 2026-07-01
+- Description: Comprehensive guide listing speech-to-text, text-to-speech, screen readers, and writing tools like Learning Ally, Speechify, Bookshare, and Co:Writer for students with dyslexia.
+
+### Advocating for a Child with Dyslexia Within Public Education
+
+- URL: https://dyslexiaida.org/advocating-for-a-child-with-dyslexia-within-the-public-education-system/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility directory
+- Found: 2026-07-01
+- Description: Directory of advocacy resources, fact sheets, and parent group networks from the International Dyslexia Association to support students with dyslexia in public schools.

@@ -98,3 +98,63 @@
 - Found: 2026-06-26
 - Description: Official product page for Read&Write, a comprehensive literacy support startup offering text-to-speech, word prediction, and study tools designed for neurodivergent learners including those with dyslexia.
 
+
+### Microsoft Immersive Reader
+
+- URL: https://www.microsoft.com/education/products/immersive-reader
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia student support software
+- Found: 2026-07-01
+- Description: Official Microsoft tool built into Word and OneNote that reads text aloud, adjusts font size/spacing, and improves reading comprehension for students with dyslexia.
+
+### Co:Writer Universal (Dyslexia Edition)
+
+- URL: https://www.datascope.com/products/cowriter-universal
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia student support software
+- Found: 2026-07-01
+- Description: AI-powered word prediction tool with a dedicated dyslexia edition that supports sentence curation and grammar for students with writing difficulties.
+
+### ModMath
+
+- URL: https://www.modmath.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia student support software
+- Found: 2026-07-01
+- Description: iPad app specifically designed for students with dyslexia and dysgraphia to type math problems neatly, avoiding handwriting issues while working on equations.
+
+### Good Sensory Learning Organizations Directory
+
+- URL: https://goodsensorylearning.com/pages/organizations-serving-dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia learning support directory
+- Found: 2026-07-01
+- Description: Aggregated public list of organizations, apps, and tools serving individuals with dyslexia, including non-profits, curriculum providers, and support groups.
+
+### Arizona Department of Education Dyslexia Resources
+
+- URL: https://www.azed.gov/mowr/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia learning support directory
+- Found: 2026-07-01
+- Description: State government resource page providing official guidance, legislative information, and links to local support directories for students with dyslexia characteristics in Arizona.
+
+### Children's Dyslexia Centers Resources
+
+- URL: https://www.childrensdyslexiacenters.org/resources/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia learning support directory
+- Found: 2026-07-01
+- Description: Repository from the Children's Dyslexia Centers network offering definitions, support tools, and links to centers providing specialized dyslexia learning support.
