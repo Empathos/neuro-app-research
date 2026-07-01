@@ -328,3 +328,63 @@
 - Query: overload home routine tool
 - Found: 2026-06-30
 - Description: Official blog from GrassIron outlining a 30-minute home routine tool strategy focusing on Volume, Density, and Frequency to systematically increase training stress without a gym.
+
+### Breathe, Think, Do with Sesame
+
+- URL: https://www.sesamestudio.com/breathe-think-do-with-sesame/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing daily living support software
+- Found: 2026-07-01
+- Description: An app for children aged 25 that uses sensory and problem-solving strategies to build personal skills like persistence, emotional regulation, and overcoming stressful situations during daily tasks.
+
+### MyAutismTeam
+
+- URL: https://www.myautismteam.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing daily living support software
+- Found: 2026-07-01
+- Description: A support app for parents of children with ASD providing emotional support, practical tips on therapies, and tools to manage daily living challenges through sensory-friendly strategies.
+
+### STAR Institute Treatment Directory
+
+- URL: https://sensoryhealth.org/treatment-directory
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing independence directory
+- Found: 2026-07-01
+- Description: Official provider directory for professionals working with individuals with disordered sensory processing, including occupational therapists, physicians, and educators experienced in neurodivergence support.
+
+### Autism Research Institute: Sensory Processing Resources
+
+- URL: https://autism.org/sensory-processing-resources/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing independence directory
+- Found: 2026-07-01
+- Description: Curated collection of webinars, articles, and toolkits supporting sensory independence strategies for individuals with autism and other neurodivergent conditions.
+
+### Growing Independence: Pediatric Occupational Therapy Directory
+
+- URL: https://www.facebook.com/groups/394986361597553/posts/1590971858665658/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing independence directory
+- Found: 2026-07-01
+- Description: Community-sourced directory for connecting families with pediatric occupational therapists specializing in sensory processing and independence skills.
+
+### CDE: Sensory Processing Part 02  Self-Advocacy and Strategies
+
+- URL: https://www.cde.state.co.us/professionaldevelopment/detailondemand/pd_autism_sensory-processing-part02
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing independence directory
+- Found: 2026-07-01
+- Description: Official educational resource on proactive strategies, self-advocacy, and sensory independence techniques for individuals with autism.

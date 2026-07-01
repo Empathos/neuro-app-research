@@ -388,3 +388,93 @@
 - Query: overload environment planning tool
 - Found: 2026-06-30
 - Description: EPA feature service providing geospatial boundaries of Superfund sites, supporting environment planning and risk assessment for affected communities.
+
+### GriffinOT Free Sensory Processing Course & Tools
+
+- URL: https://www.griffinot.com/sensory-processing-disorder-training/free-sensory-course-sensory-integration/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing sensory regulation software
+- Found: 2026-07-01
+- Description: A free online course and toolset for school staff and parents to understand sensory behaviors, featuring software-based learning modules and practical sensory integration strategies.
+
+### Therapy Band & Sensory Input Tools Repository
+
+- URL: https://libguides.francis.edu/c.php?g=1148452&p=8480052
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing sensory regulation software
+- Found: 2026-07-01
+- Description: A library repository listing assistive technology tools like therapy bands for sensory regulation, including software guides and documentation for implementation in neurodivergence support.
+
+### Sensory Processing Disorder (SPD) - Cleveland Clinic
+
+- URL: https://my.clevelandclinic.org/health/diseases/sensory-processing-disorder-spd
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing overload directory
+- Found: 2026-07-01
+- Description: Official clinical resource on SPD covering symptoms, causes, and occupational therapy strategies for managing sensory processing differences.
+
+### Sensory Process Disorder (SPD): Symptoms and Treatment
+
+- URL: https://www.medicalnewstoday.com/articles/sensory-processing-disorder
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing overload directory
+- Found: 2026-07-01
+- Description: Comprehensive overview of SPD symptoms, causes, and treatment options including occupational therapy and environmental modifications.
+
+### Sensory Overload: Symptoms, Causes, and Treatment
+
+- URL: https://www.medicalnewstoday.com/articles/sensory-overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing overload directory
+- Found: 2026-07-01
+- Description: Evidence-based guide on sensory overload triggers, coping strategies, and management techniques for individuals with autism and ADHD.
+
+### Sensory Health: Patterns of Sensory Processing Differences
+
+- URL: https://sensoryhealth.org/basic/patterns-or-subtypes-of-differences-sensory-integration-processing
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing overload directory
+- Found: 2026-07-01
+- Description: Repository detailing major patterns of sensory processing differences including modulation, discrimination, and motor-based challenges.
+
+### Sensory Overload through Real Examples - ABTaba
+
+- URL: https://www.abtaba.com/blog/sensory-overload-through-examples
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing overload directory
+- Found: 2026-07-01
+- Description: Practical examples of sensory overload in autism with coping strategies including sensory tools, calming spaces, and visual supports.
+
+### Free Checklist: Sensory Calming Techniques | NeuroDivergent Insights
+
+- URL: https://neurodivergentinsights.com/understanding-and-managing-sensory-overload
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing overload directory
+- Found: 2026-07-01
+- Description: Downloadable checklist of sensory calming techniques and trigger identification tools for managing sensory overload in neurodivergent individuals.
+
+### Sensory Processing Disorder in Adults - ADDitude
+
+- URL: https://www.additudemag.com/sensory-processing-disorder-in-adults
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing overload directory
+- Found: 2026-07-01
+- Description: Article outlining small but significant signs of SPD in adults, including sensory sensitivities and coping strategies for daily life.

@@ -308,3 +308,53 @@
 - Query: overload parent support tool
 - Found: 2026-06-30
 - Description: NY State caregiver support network offering resources for families of neurodivergent children, with direct contact for assistance.
+
+### Top Autism & ABA Therapy Apps and Digital Tools in 2026 - Ouva
+
+- URL: https://ouva.co/blog/top-autism-aba-therapy-apps-digital-tools-2026/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing caregiver app software
+- Found: 2026-07-01
+- Description: Discover autism and ABA therapy apps, software solutions, AAC tools, caregiver trackers, and interactive sensory environments in 2026.
+
+### Free sensory integration guides for caregivers and educators
+
+- URL: https://www.facebook.com/groups/OccupationalTherapyCommunity/posts/1852380112102600/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing caregiver app software
+- Found: 2026-07-01
+- Description: SenseCity app enables users to spread education about sensory processing skills in their community. Download the SenseCity app now.
+
+### Multilingual Caregiver Mobile Application -CareSmartz360 App
+
+- URL: https://www.caresmartz360.com/features/caregiver-mobile-app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing caregiver app software
+- Found: 2026-07-01
+- Description: A Multilingual home care mobile app for caregivers. Seamlessly manage documents, check scheduling calendar, clock in/out, and shift details on the go.
+
+### The OT Toolbox Sensory Processing Disorder Checklist & Tools
+
+- URL: https://www.theottoolbox.com/sensory-processing-disorder-checklist/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing clinician tool directory
+- Found: 2026-07-01
+- Description: A massive checklist and tool guide breaking down sensory behaviors, listing appropriate assessment tools like SIPT, Sensory Profile 2, and EASI for clinicians.
+
+### SensationalBrain Free Resources
+
+- URL: https://sensationalbrain.com/free-resources/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing clinician tool directory
+- Found: 2026-07-01
+- Description: A collection of free resources for therapists, including sensory symptom checklists and webinars, aiding clinicians in sensory processing research and support.
