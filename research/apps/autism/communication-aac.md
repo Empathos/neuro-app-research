@@ -488,3 +488,143 @@
 - Query: AAC conversation support tool
 - Found: 2026-06-30
 - Description: Loaded AAC resource packs with tools to build consistency across environments and align communication partners for successful AAC implementation.
+
+### Social Story Creator & Library
+
+- URL: https://apps.apple.com/us/app/social-story-creator-library/id588180598
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story communication support software
+- Found: 2026-07-01
+- Description: Official iOS app for creating, sharing, and printing educational social stories, visual schedules, and memories tailored for autistic children.
+
+### SOFA (Stories Online For Autism)
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10791792/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story communication support software
+- Found: 2026-07-01
+- Description: Research-backed digital application for smartphones and tablets that supports the development and delivery of social stories in real-world settings, featuring adult and child writing modes.
+
+### Calm Schedule
+
+- URL: https://apps.apple.com/gb/app/calm-schedule/id6758255597
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story communication support software
+- Found: 2026-07-01
+- Description: iOS app designed by a pediatric OT and autism parent to create simple social stories and routines using personal photos, ideal for communication support.
+
+### Boardmaker
+
+- URL: https://www.boardmaker.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story communication support software
+- Found: 2026-07-01
+- Description: Professional tool for creating visual supports, including social stories and communication boards, widely used in special education and therapy settings.
+
+### Google Slides
+
+- URL: https://www.google.com/slides/about/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story communication support software
+- Found: 2026-07-01
+- Description: Free web-based presentation tool commonly used by educators and parents to create custom social stories by combining images and text.
+
+### Teachers Pay Teachers (Social Stories)
+
+- URL: https://www.teacherspayteachers.com/browse?search=social+stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story communication support software
+- Found: 2026-07-01
+- Description: Online repository of downloadable, teacher-created social stories covering various topics like handwashing, sharing, and routines for neurodivergent learners.
+
+### Autism Little Learners Social Story Library
+
+- URL: https://autismlittlelearners.com/the-social-story-library/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story communication support software
+- Found: 2026-07-01
+- Description: Free repository of research-supported social stories designed to help autistic children understand routines, transitions, and new experiences.
+
+### PrAACtical AAC: Social Stories and Narratives Directory
+
+- URL: https://praacticalaac.org/praactical/praactical-resources-social-stories-and-narratives/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story AAC directory
+- Found: 2026-07-01
+- Description: A comprehensive public directory of social stories and narratives for AAC users, featuring free downloadable resources, AFIRM modules, and curated links for autism and neurodivergent support.
+
+### And Next Comes L: Free AAC Social Stories Collection
+
+- URL: https://www.andnextcomesl.com/2023/01/free-social-stories-about-using-an-aac-device.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story AAC directory
+- Found: 2026-07-01
+- Description: A repository of free, printable social stories focused on using AAC devices and iPads, including video stories and links to paid resources on Teachers Pay Teachers for speech therapy.
+
+### AbleNet: Social Stories for AAC Understanding
+
+- URL: https://www.ablesnet.com/aac-education-and-resources/using-social-stories-to-support-aac-understanding/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story AAC directory
+- Found: 2026-07-01
+- Description: Official resource page from AbleNet offering social stories to support AAC device adoption, featuring educational guides and links to LessonPix for creating custom neurodivergent support materials.
+
+### Erickson International: Social Stories with AAC Guide
+
+- URL: https://www.erickson.international/en/social-stories-with-aac/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story AAC directory
+- Found: 2026-07-01
+- Description: Professional documentation from Erickson International explaining the use of social stories with AAC, including text-based descriptions of skills and outcomes for neurodivergent learners.
+
+### Little Puddins: Free Autism Social Visual Guides
+
+- URL: https://www.littlepuddins.ie/visual-supports/free-autism-social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story AAC directory
+- Found: 2026-07-01
+- Description: An evidence-informed repository of free social visual guides replacing traditional stories, designed for families and educators to support common situations with neurodivergent children.
+
+### YouTube: AAC Social Story Video Directory
+
+- URL: https://www.youtube.com/watch?v=68PgH5mdjNU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story AAC directory
+- Found: 2026-07-01
+- Description: A video social story titled 'I Use My Device to Talk!' focusing on functional AAC communication, part of a broader YouTube directory of AAC behavior and usage stories for therapy.
+
+### Boardmaker Online: AAC Social Story Preview
+
+- URL: https://boardmakeronline.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story AAC directory
+- Found: 2026-07-01
+- Description: Official platform for previewing and accessing AAC-focused social stories like 'Using My AAC Device' and 'Taking Care of My Speech Device,' with tools for customizing neurodivergent support materials.

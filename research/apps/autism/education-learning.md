@@ -508,3 +508,53 @@
 - Query: AAC classroom tool
 - Found: 2026-06-30
 - Description: AAC app designed for iOS with features like sentence building, vocabulary customization, and classroom-friendly communication support.
+
+### Watson Institute Social Stories Resources
+
+- URL: https://www.thewatsoninstitute.org/resources/behavior-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story student support software
+- Found: 2026-07-01
+- Description: Special education resources designed to teach appropriate behaviors and social skills for children with special needs through structured social stories.
+
+### Social Stories Directory - Autism Behavior Services, Inc.
+
+- URL: https://www.autismbehaviorservices.com/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story learning support directory
+- Found: 2026-07-01
+- Description: Official repository of free, downloadable social story digital books for neurodivergent children, covering topics like eye contact, patience, and emotional regulation with video counterparts.
+
+### 15 Resources for Social Stories - AutismClassroom.com
+
+- URL: https://www.autismclassroom.com/blog/16-resources-for-social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story learning support directory
+- Found: 2026-07-01
+- Description: Curated directory of 15 public links and tools for finding or creating social stories, including templates, printable stories, and creator apps for smartphones.
+
+### Social Stories for Autistic Children - The Ultimate Guide
+
+- URL: https://www.autismparentingmagazine.com/social-stories-for-autistic-children/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story learning support directory
+- Found: 2026-07-01
+- Description: Comprehensive guide featuring links to free social story templates, downloadable PDFs, and recommendations for social story creator apps for neurodivergent support.
+
+### Social Stories for Kids - I Can Use My Words - YouTube
+
+- URL: https://www.youtube.com/watch?v=8kikXDV--io
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story learning support directory
+- Found: 2026-07-01
+- Description: Video-based social story resource for teaching communication skills and social emotional learning (SEL) in early childhood education settings.

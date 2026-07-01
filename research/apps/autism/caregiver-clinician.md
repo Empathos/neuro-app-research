@@ -298,3 +298,73 @@
 - Query: AAC parent support tool
 - Found: 2026-06-30
 - Description: Parent-friendly documentation and step-by-step guides for introducing AAC devices, including app recommendations and home practice templates.
+
+### Social Stories Creator and Library (Appetize)
+
+- URL: https://itunes.apple.com/us/app/social-stories-creator-library/id588180598?mt=8
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story caregiver app software
+- Found: 2026-07-01
+- Description: Official iOS app for caregivers to create, share, and print personalized social stories, visual schedules, and memories using pictures, recordings, and text. Free version available with pre-made stories.
+
+### Social Stories Creator for Educators
+
+- URL: https://itunes.apple.com/us/app/social-stories-creator-for/id998334331?mt=8
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story caregiver app software
+- Found: 2026-07-01
+- Description: Paid iOS app designed for educators and caregivers to build and share educational social stories and visual schedules with photos, audio, and text. Includes 20 pre-made stories focused on social skills.
+
+### BridgingApps - Social Stories Collection
+
+- URL: https://bridgingapps.org/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story caregiver app software
+- Found: 2026-07-01
+- Description: Curated repository of apps and tools for caregivers to create and use social stories, including reviews and links to official app-store pages for children with autism and special needs.
+
+### PDF: Social Story Apps Guide
+
+- URL: http://www.delawarepbs.org/wp-content/uploads/2011/08/Social-Story-Apps.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story caregiver app software
+- Found: 2026-07-01
+- Description: Public PDF guide listing 12 computer programs, websites, and apps for caregivers to make effective social stories, including official links to app-store pages and descriptions of features.
+
+### Social Workers Toolbox  Social Story Library
+
+- URL: https://socialworkerstoolbox.com/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story clinician tool directory
+- Found: 2026-07-01
+- Description: A curated repository of social story templates and tools specifically designed for therapists, clinicians, and social workers supporting neurodivergent individuals.
+
+### Watson Institute  Social Story Resources
+
+- URL: https://www.watsoninstitute.org/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story clinician tool directory
+- Found: 2026-07-01
+- Description: Evidence-based social story tools and clinician guides from the Watson Institute, focusing on structured support for individuals with autism and developmental delays.
+
+### Therapy Place NJ  Social Stories User Manual
+
+- URL: https://www.therapyplacenj.com/social-stories-for-kids-a-user-manual-for-new-situations/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story clinician tool directory
+- Found: 2026-07-01
+- Description: A clinician-focused user manual and tool directory for implementing social stories with children who have developmental delays, autism, or social challenges.

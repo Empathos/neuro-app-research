@@ -298,3 +298,53 @@
 - Query: AAC adaptive tool
 - Found: 2026-06-30
 - Description: TalkTabletPRO is a multilingual speech app for people with autism and other speech conditions, offering adaptive communication support.
+
+### Picture It! (Slater Software)
+
+- URL: https://www.slater-software.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story assistive technology software
+- Found: 2026-07-01
+- Description: Text-to-graphic symbol software that converts written words into line drawings for social stories, enhancing understanding for children with communication challenges.
+
+### Cheap Talk 4 Communicator
+
+- URL: https://enablingdevices.com/product/cheap-talk-4/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story assistive technology software
+- Found: 2026-07-01
+- Description: Low-tech assistive device with 4 message buttons for recording social story phrases, enabling non-verbal students to communicate behaviors and routines.
+
+### Storyboard That
+
+- URL: https://storyboardthat.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story assistive technology software
+- Found: 2026-07-01
+- Description: Free online tool for creating simple social story images and comics with speech bubbles, used to visualize emotions and expected behaviors for neurodivergent learners.
+
+### Social Stories, AI, and Autism - Autism Speaks
+
+- URL: https://autism.org/social-stories-ai-and-autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story accessibility directory
+- Found: 2026-07-01
+- Description: Resource page offering free social stories and templates for common experiences, with guidance on using generative AI for personalized accessibility.
+
+### Inclusive Social Stories - Autism Speaks Community
+
+- URL: https://www.autismspeaks.org/community/social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story accessibility directory
+- Found: 2026-07-01
+- Description: Community-driven repository featuring user-submitted and verified accessible social stories for diverse neurodivergent conditions.
