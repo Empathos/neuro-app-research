@@ -448,3 +448,43 @@
 - Query: sensory processing task initiation directory
 - Found: 2026-07-01
 - Description: Visual guide highlighting practical tools like body doubling, sound cues, and movement prompts to help neurodivergent children start tasks more effectively.
+
+### Sensory Integration Therapy App
+
+- URL: https://www.sensorytreat.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing routine startup
+- Found: 2026-07-02
+- Description: A free Android app designed to help parents and occupational therapists manage sensory diets, build daily routines, and track therapy progress for children with sensory processing issues.
+
+### Labs Without Walls (Open-Source Sensory Tasks for ResearchKit)
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11754352/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing reminders open source
+- Found: 2026-07-02
+- Description: Open-source cognitive and sensory task framework administered via Apple ResearchKit, including validated TMT, Stroop, dBHL Audiometry, and Ishihara Color Deficiency tasks for remote neurodivergent support testing.
+
+### Go/No-Go Open-Source Platform for OpenBehavior (Go/No-Go Tasks)
+
+- URL: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.621493/full
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing reminders open source
+- Found: 2026-07-02
+- Description: Arduino and Python-based open-source platform for Go/No-Go tasks, developed by Florey Institute researchers for behavioral sensory stimulation and neurodivergence support research.
+
+### MindLink-Eumpy (Open-Source Multimodal Emotion Recognition Toolbox)
+
+- URL: https://www.sciencedirect.com/science/article/pii/S0022096521000618
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory processing reminders open source
+- Found: 2026-07-02
+- Description: Open-source Python toolbox for recognizing continuous movie-induced emotions using EEG and facial expression data, designed to support neurodivergent individuals with sensory processing challenges.
