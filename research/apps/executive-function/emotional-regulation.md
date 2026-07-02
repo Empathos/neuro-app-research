@@ -448,3 +448,63 @@
 - Query: executive function mood tracking directory
 - Found: 2026-07-01
 - Description: Official website for MindMeister, a mind-mapping tool that users often employ to visually organize thoughts, track mood patterns, and manage executive function tasks.
+
+### Humavi - Executive Function & Self-Regulation Tracker
+
+- URL: https://humavi.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-07-02
+- Description: Mobile app designed to help neurodivergent users track and improve executive function skills through structured routines, self-regulation exercises, and visual progress dashboards.
+
+### Focus Factor - Self-Regulation Startup Toolkit
+
+- URL: https://focusfactor.io/startup
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-07-02
+- Description: Web-based startup toolkit for neurodivergent entrepreneurs offering planning templates, cognitive flexibility drills, and emotional regulation strategies tailored for early-stage business development.
+
+### SparkStart - AD/HD Startup App
+
+- URL: https://sparkstart.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-07-02
+- Description: iOS/Android app helping users with ADHD and executive function challenges launch startups by breaking tasks into steps, managing time, and providing real-time self-regulation prompts.
+
+### PreFrontal - Neurodivergent Startup Lab
+
+- URL: https://prefrontal-lab.org/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-07-02
+- Description: Online lab and repository for neurodivergent entrepreneurs providing tools for working memory training, inhibitory control exercises, and collaborative self-regulation frameworks.
+
+### CalmChain - Executive Function Startup App
+
+- URL: https://calmchain.app/startup
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-07-02
+- Description: App integrating calming techniques with executive function planning, designed for startup founders to reduce anxiety, improve focus, and regulate emotions while managing complex tasks.
+
+### NeuroLaunch - Self-Regulation Startup Repository
+
+- URL: https://neurolaunch.dev/repo
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive function self regulation startup
+- Found: 2026-07-02
+- Description: Public code repository and documentation hub for developers building neurodivergence-supportive startups, featuring APIs for self-regulation tracking and executive function analytics.
