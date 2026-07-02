@@ -638,3 +638,83 @@
 - Query: neurodivergent AAC directory
 - Found: 2026-07-01
 - Description: National resource offering no-strings access to counseling, therapy, and specialist equipment, including AAC adaptations for neurodivergent individuals.
+
+### Bloom - AI Support Tool for Neurodivergent Families
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/4344862969112115/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent speech support startup
+- Found: 2026-07-02
+- Description: An AI-powered support tool built by an autism/ADHD household to assist neurodivergent families, offering personalized resources and communication strategies.
+
+### Chatty Child - Pediatric Speech & Occupational Therapy Startup
+
+- URL: https://www.chattychild.com/what-does-neurodivergent-affirming-care-look-like-in-practice/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent speech support startup
+- Found: 2026-07-02
+- Description: A neurodivergent-affirming speech therapy startup in NYC providing in-person and online pediatric speech and occupational therapy for children.
+
+### Autistic SLT - Neurodivergent-Affirming Speech Therapy
+
+- URL: https://www.autisticslt.com/nd-affirmingslt
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent speech support startup
+- Found: 2026-07-02
+- Description: A startup offering neurodivergent-affirming speech and language therapy for autistic children, focusing on practical communication strategies and sensory support.
+
+### Adina Levy - Neurodivergent Speech Therapist
+
+- URL: https://playlearnchat.com/about/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent speech support startup
+- Found: 2026-07-02
+- Description: A neurodivergent speech therapist startup dedicated to helping families and educators understand neurodivergent children through evidence-based speech support.
+
+### Neurotwist Podcast - Speech Therapy & Neurodiversity
+
+- URL: https://podcasts.apple.com/us/podcast/neurotwist-a-speech-pathologists-journey-through/id1675868711
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent speech support startup
+- Found: 2026-07-02
+- Description: A podcast and resource platform led by a speech pathologist, exploring neurodiversity paradigms, autism stories, and best practices in speech therapy.
+
+### tl;dv - Meeting Recorder & AI Note Taker
+
+- URL: https://tldv.io/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent conversation support open source
+- Found: 2026-07-02
+- Description: Popular open-friendly tool for recording, transcribing, summarizing, and generating AI meeting insights for Google Meet, Zoom, and Teams to support neurodivergent users in processing conversations.
+
+### InFlow
+
+- URL: https://inflowacademy.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent conversation support open source
+- Found: 2026-07-02
+- Description: Science-based app for managing ADHD that includes conversation planners and tools to prepare for social interactions, reducing anxiety and improving clarity.
+
+### Freedom TTS (Text-to-Speech)
+
+- URL: https://freedomtts.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent conversation support open source
+- Found: 2026-07-02
+- Description: Open-source text-to-speech software designed for dyslexia and ADHD users, transforming written content into spoken words to enhance comprehension and reduce cognitive strain.

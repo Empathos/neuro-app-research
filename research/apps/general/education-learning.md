@@ -368,3 +368,103 @@
 - Query: neurodivergent learning support directory
 - Found: 2026-07-01
 - Description: Directory of therapists, coaches, and occupational practitioners committed to neurodivergent-affirming learning practices and support.
+
+### Benetech - Accessible Reading & Learning
+
+- URL: https://benetech.org/accessible-reading-learning/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent reading support startup
+- Found: 2026-07-02
+- Description: Benetech provides accessible reading and learning solutions that remove barriers through accessible formats, assistive technologies, and innovative tools for neurodivergent students.
+
+### Social Cipher by Castaneda Gill
+
+- URL: https://www.socialcipher.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent reading support startup
+- Found: 2026-07-02
+- Description: Social Cipher is a video game startup addressing learning needs of neurodivergent kids aged 1015, helping them develop skills like making friends, managing emotions, and setting boundaries.
+
+### TextAid Assistive Technology
+
+- URL: https://www.textaid.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent reading support startup
+- Found: 2026-07-02
+- Description: TextAid is assistive technology software for struggling readers, including neurodivergent individuals, offering tools like text-to-speech, highlighting, and dictionary support.
+
+### Mentra Hiring Platform
+
+- URL: https://mentra.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent reading support startup
+- Found: 2026-07-02
+- Description: Mentra is a hiring platform designed for neurodivergent individuals, supporting job seekers with autism, ADHD, dyslexia, and other forms of neurodivergence.
+
+### Reach Out and Read Resources
+
+- URL: https://www.reachoutandread.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent reading support startup
+- Found: 2026-07-02
+- Description: Reach Out and Read provides reading tips, book examples, and organizational resources for families and providers, including neurodiverse children and autism support.
+
+### Keybr | Open Source Typing Tutor for Neurodivergent Learners
+
+- URL: https://keybr.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent classroom open source
+- Found: 2026-07-02
+- Description: An open-source, adaptive typing tutor that uses algorithmic learning to help users with dyslexia and other cognitive differences improve typing speed and accuracy without visual distractions.
+
+### Dyslens | Open Source Browser Extension for Dyslexia
+
+- URL: https://dyslens.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent classroom open source
+- Found: 2026-07-02
+- Description: An open-source browser extension designed to make reading accessible for individuals with dyslexia and neurodiverse conditions by adjusting font rendering and spacing.
+
+### Tiimo | Open Visual Timeline for Executive Dysfunction
+
+- URL: https://tiimo.it
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent classroom open source
+- Found: 2026-07-02
+- Description: A visual planning app with open-source principles that replaces abstract to-do lists with timelines, helping neurodivergent students manage schedules and executive dysfunction effectively.
+
+### Learning Ally | Open Accessible Audiobooks Repository
+
+- URL: https://learningally.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent classroom open source
+- Found: 2026-07-02
+- Description: A repository of accessible audiobooks and learning resources tailored for individuals with neurodivergent conditions, dyslexia, and cognitive challenges.
+
+### Mindomo | Open Neurodiversity Mind Mapping Hub
+
+- URL: https://mindomo.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent classroom open source
+- Found: 2026-07-02
+- Description: An open mind-mapping tool that transforms information processing for neurodivergent students, integrating with assistive software like JAWS and ZoomText for screen reading.
