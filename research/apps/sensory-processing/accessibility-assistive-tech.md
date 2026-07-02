@@ -248,3 +248,73 @@
 - Query: sensory processing accessibility directory
 - Found: 2026-07-01
 - Description: Detailed guide from Understood.org offering a printable list of classroom strategies and accessibility accommodations for students with sensory processing challenges, including seating, noise management, and visual supports.
+
+### KultureCity Sensory Activation Vehicle (S.A.V.)
+
+- URL: https://www.kulturecity.org
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing mobile accessibility startup
+- Found: 2026-07-02
+- Description: Official website of KultureCity, the nonprofit partner bringing the mobile Sensory Activation Vehicle (S.A.V.) to stadiums and public spaces, providing accessible sensory rooms for individuals with sensory processing disorders.
+
+### LWSRA Sensory Mobile Project
+
+- URL: https://www.facebook.com/LWSRA/videos/the-lwsra-sensory-mobile-is-here/705481015739693/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing mobile accessibility startup
+- Found: 2026-07-02
+- Description: Video and information page showcasing the LWSRA Sensory Mobile, a mobile calming sensory room designed to support individuals with sensory processing needs in accessible public environments.
+
+### Nook - Certified Autism Resource Mobile Platform
+
+- URL: https://www.instagram.com/reel/DPEP0fqitIn/?hl=bg
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing mobile accessibility startup
+- Found: 2026-07-02
+- Description: Official showcase of Nook, a mobile sensory-friendly platform certified as an Autism Resource, built to empower autistic individuals and strengthen families through inclusive accessibility design.
+
+### Startups Using AI for Accessibility Solutions (YouTube)
+
+- URL: https://www.youtube.com/watch?v=55nkKAWd1Vg
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing mobile accessibility startup
+- Found: 2026-07-02
+- Description: YouTube interview featuring startups like Tatum Robotics and Travaxy developing AI-powered mobile tools and accessibility solutions for deaf-blind and neurodivergent individuals.
+
+### Wilbarger Protocol (TPCI) - Adaptive Brushing Tool
+
+- URL: https://www.childmind.org/article/treating-sensory-processing-issues/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing adaptive tool open source
+- Found: 2026-07-02
+- Description: The Wilbarger protocol is a widely used adaptive tool involving soft-bristled brushing and joint compressions. While the physical tool is proprietary, the protocol and software guides are often shared openly in occupational therapy communities for sensory defensiveness treatment.
+
+### Sensory Diet & Adaptive Activity Guides - Open Source
+
+- URL: https://www.facebook.com/groups/248675758568554/posts/1274593615976758/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing adaptive tool open source
+- Found: 2026-07-02
+- Description: Community-shared open-source guides for creating sensory diets, which are tailored adaptive activities to improve sensory input processing and regulation. These resources act as a repository for personalized, open-access neurodivergence support tools.
+
+### SensorySmart Parenting - Free Adaptive Tools & Listening Programs
+
+- URL: https://www.raisingasensysmartchild.com/resources
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory processing adaptive tool open source
+- Found: 2026-07-02
+- Description: A public resource hub offering free adaptive tools, including listening program guides and sensory smart home adaptations. It provides open documentation on using auditory and tactile tools to support sensory integration in children.

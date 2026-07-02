@@ -528,3 +528,83 @@
 - Query: sensory processing learning support directory
 - Found: 2026-07-01
 - Description: Organization providing sensory play resources, workshops, and consultations tailored for children with sensory challenges in learning environments.
+
+### Sensory W.I.S.E. Solutions Podcast for Parents
+
+- URL: https://podcasts.apple.com/us/podcast/sensory-w-i-s-e-solutions-podcast-for-parents/id1580675883
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing reading support startup
+- Found: 2026-07-02
+- Description: A podcast app teaching parents how to identify sensory profiles, understand behaviors, and apply sensory strategiesincluding reading supportfor children with sensory processing challenges.
+
+### Success with Sensory Supports - Jessica Kingsley Publishers
+
+- URL: https://us.jkp.com/products/success-with-sensory-supports
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing reading support startup
+- Found: 2026-07-02
+- Description: Official guidebook and resource by occupational therapist Kim Griffin for implementing sensory strategies in school settings, including reading-focused tools and environmental modifications.
+
+### LimeLiteTM LED Ball (Dimmable Lamp for Sensory Environments)
+
+- URL: https://funandfunction.com/blogs/blog/5-tips-to-help-struggling-readers
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing reading support startup
+- Found: 2026-07-02
+- Description: A physical product and tool for creating sensory-friendly lighting in reading spaces, reducing glare and visual distraction to help children with sensory processing issues focus on books.
+
+### Open-Source Sensory Regulation Toolkit for School-Based Occupational Therapists
+
+- URL: https://www.sensoryintegrationeducation.com/pages/toolkit-school-based-ot
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing classroom open source
+- Found: 2026-07-02
+- Description: An online, open-source toolkit created for OTs in MCPS to reduce barriers and enhance access to culturally responsive resources for ethnic minority parents of children with sensory processing needs.
+
+### Sensory Processing Measure (SPM) School Assessment Tool
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9688399/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing classroom open source
+- Found: 2026-07-02
+- Description: Caregiver/teacher-report questionnaire for assessing sensory processing, praxis, and social participation in school environments; includes home and school versions.
+
+### Sensory-Friendly Online Course Design Guide
+
+- URL: https://www.sensoryintegrationeducation.com/pages/news-creating-sensory-friendly-online-courses
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing classroom open source
+- Found: 2026-07-02
+- Description: Guidelines for creating sensory-friendly online courses with simple visual designs, clear captions, and movement breaks to support students with sensory processing differences.
+
+### How Sensory Processing Issues Affect Kids in School
+
+- URL: https://childmind.org/article/how-sensory-processing-issues-affect-kids-in-school/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing classroom open source
+- Found: 2026-07-02
+- Description: Strategies for helping children thrive in the classroom, including sensory breaks, fidgets, visual schedules, and accommodations for assembly and cafeteria settings.
+
+### AJOT: Evidence Synthesis for Sensory Supports in Schools
+
+- URL: https://research.aota.org/ajot/article/78/6/7806205010/25970/Evidence-Synthesis-and-Clinical-Recommendations
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing classroom open source
+- Found: 2026-07-02
+- Description: Review of current literature providing evidence on supports for school children with sensory processing challenges, including seating, weighted vests, and multisensory environments.

@@ -388,3 +388,53 @@
 - Query: sensory processing independence directory
 - Found: 2026-07-01
 - Description: Official educational resource on proactive strategies, self-advocacy, and sensory independence techniques for individuals with autism.
+
+### SkillSteps: Autism Learning
+
+- URL: https://apps.apple.com/us/app/skillsteps-autism-learning/id6759471583
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing life skills startup
+- Found: 2026-07-02
+- Description: Comprehensive app for neurodivergent individuals providing social stories, communication support, mood tracking, and calming sensory tools to develop life skills.
+
+### Sensory Processing Therapy App
+
+- URL: https://bibic.org.uk/news/top-book-and-app-recommendations-to-support-sensory-processing/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing life skills startup
+- Found: 2026-07-02
+- Description: App designed to help families manage care and therapy schedules for loved ones with SPD, including tracking OT routines, managing calm-down protocols, and receiving activity reminders.
+
+### Toca Boca Series
+
+- URL: https://kidsclubaba.com/autism-apps-for-children/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing life skills startup
+- Found: 2026-07-02
+- Description: Open-ended play apps recommended by occupational therapists for children who benefit from structured, pressure-free play opportunities to support creativity.
+
+### Arduino Gyro (Proprioceptive Input Tool) - GitHub Repository
+
+- URL: https://github.com/topics/proprioceptive-input
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing home routine open source
+- Found: 2026-07-02
+- Description: Open-source repository for DIY handmade tools using Arduino and Arduino Gyro to create proprioceptive input devices for sensory processing routines at home.
+
+### SkyTeam (Andrea Sachs) Sensory Diet Strategies - YouTube
+
+- URL: https://www.youtube.com/watch?v=uZpGsCKFtOI
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory processing home routine open source
+- Found: 2026-07-02
+- Description: Occupational therapist Andrea Sachs demonstrates open-source strategies and functional tasks for creating sensory diets and home routines, including visual schedules and timers.
