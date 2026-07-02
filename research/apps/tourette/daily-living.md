@@ -268,3 +268,63 @@
 - Query: Tourette independence directory
 - Found: 2026-07-01
 - Description: Volunteer-led Massachusetts chapter offering local support groups, tools, and resources for families and individuals navigating independence with Tourette Syndrome.
+
+### TOBY Playpad - Therapy Outcomes by You
+
+- URL: https://www.thetransmitter.org/spectrum/children-autism-tablet-app-may-deliver-life-skills/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette life skills startup
+- Found: 2026-07-02
+- Description: An iPad application designed to deliver life skills for children with autism through behavioral therapy tasks, including imitation and sensory discrimination, serving as a potential startup model for neurodivergence support tools.
+
+### Wefayo - Interactive Social Skill Development
+
+- URL: https://wefayo.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette life skills startup
+- Found: 2026-07-02
+- Description: A free service offering interactive character-based social skill development for children with autism, created by an autism father to support his son's social communication needs.
+
+### CanPlan - Task Management for Cognitive Independence
+
+- URL: https://canplan.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette life skills startup
+- Found: 2026-07-02
+- Description: A task management app breaking down activities into easy-to-follow steps with visual and audio cues, promoting independence for users with cognitive impairments.
+
+### Loop Habit Tracker
+
+- URL: https://github.com/iSoron/uhabits
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette home routine open source
+- Found: 2026-07-02
+- Description: A mobile app for Android that helps users create and maintain good habits with detailed graphs and statistics. Open source and suitable for building consistent daily routines for neurodivergent individuals.
+
+### Beaver Habit Tracker
+
+- URL: https://habiter.space
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette home routine open source
+- Found: 2026-07-02
+- Description: A self-hosted, open-source habit tracker with a simple list, calendar, and check system. Supports daily habit tracking and routine management without goal-based pressure.
+
+### NHS - Tourette Syndrome Support and Routine Guidance
+
+- URL: https://www.nhs.uk/conditions/tourette-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: Tourette home routine open source
+- Found: 2026-07-02
+- Description: Official NHS guidance on managing Tourette syndrome, emphasizing consistent daily routines, physical activity, and calm bedtime habits. Includes tool recommendations and support group links.

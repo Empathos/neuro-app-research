@@ -308,3 +308,103 @@
 - Query: Tourette mood tracking directory
 - Found: 2026-07-01
 - Description: Mood tracking app designed to help individuals with Tourette syndrome track daily highs, lows, irritability, sleep, and triggers for better management.
+
+### NeuPulse - Wearable Device for Tourette Syndrome
+
+- URL: https://neupulse.co/en-us/blogs/news/clinical-trial-launched-for-wearable-device-to-control-tourette-syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette self regulation startup
+- Found: 2026-07-02
+- Description: A wearable wrist device delivering electrical pulses to reduce tic severity in Tourette Syndrome, with a clinical trial launched for technology testing and self-regulation support.
+
+### Beyond Lucid Technologies - Startup for Tourette Syndrome
+
+- URL: https://www.inc.com/laura-montini/life-as-a-ceo-with-tourettes.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette self regulation startup
+- Found: 2026-07-02
+- Description: Startup founded by Jonathon Feit, CEO with Tourette Syndrome, developing technology solutions for tic management and self-regulation through neurodivergent-focused innovation.
+
+### Neurofeedback for Natural Tourette Management
+
+- URL: https://healthywithin.com/tourettes/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette self regulation startup
+- Found: 2026-07-02
+- Description: Non-invasive brain training using EEG biofeedback to self-regulate neural patterns associated with tics, improving motor and vocal control in Tourette Syndrome.
+
+### Centring Tourettic Experiences in Technology
+
+- URL: https://journals.sagepub.com/doi/10.1177/27546330261423083
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette self regulation startup
+- Found: 2026-07-02
+- Description: Research paper exploring median nerve stimulation technology and its role in addressing self-harm and stigma, with insights for Tourette self-regulation startups.
+
+### TAA Rising Leader: Emauni Crawley
+
+- URL: https://www.facebook.com/TouretteAssociation/posts/-emauni-crawley-a-taa-rising-leader-has-impacted-the-tourettesyndrome-and-ticdis/1229839755843041/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette self regulation startup
+- Found: 2026-07-02
+- Description: 14-week courses designed to help students override impulses and demonstrate self-control, offering a template for neurodivergent self-regulation startup programs.
+
+### [PDF] Tic Tips: Strategies to help you manage your Tourette Syndrome
+
+- URL: https://www.tourettes-action.org.uk/storage/downloads/1374586646_Tic-tips---managing-your-TS.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette coping skills open source
+- Found: 2026-07-02
+- Description: Banging and tapping  Try put something softer on the table (eg a mouse mat) to avoid hurting hands and fingers  Try putting plasters on the fingers or hands. ...
+
+### Living with Tourette's Syndrome - Lone Star Neurology
+
+- URL: https://lonestarneurology.net/blog/living-with-tourettes-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette coping skills open source
+- Found: 2026-07-02
+- Description: Mindful Tics Management: Explore and adopt effective strategies for tics. Among them are incorporating mindfulness, deep breathing, or ...
+
+### How To Navigate Tourette And Other Tic Disorders - One Behavioral
+
+- URL: https://onebehavioralhealth.com/tourette-syndrome-how-to-navigate-tourette-and-other-tic-disorders/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette coping skills open source
+- Found: 2026-07-02
+- Description: Habit reverse training, which is a component of cognitive-behavioral therapy, assists in the monitoring of tics by recognizing worrisome urges and providing ...
+
+### Behavioral treatments for Tourette's disorder and tics
+
+- URL: https://www.apa.org/monitor/2026/06/behavioral-treatments-tourette-disorder-tics
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette coping skills open source
+- Found: 2026-07-02
+- Description: Behavioral techniques are as effective as medication for reducing tic severity, without the potential side effects.
+
+### A systematic review exploring perceptions of Tourette syndrome and ...
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12080458/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: Tourette coping skills open source
+- Found: 2026-07-02
+- Description: This systematic review aimed to use the CSM to synthesise findings from published studies exploring illness perceptions in people with TDs and parents.

@@ -488,3 +488,123 @@
 - Query: Tourette learning support directory
 - Found: 2026-07-01
 - Description: Directory of local and online support groups, including Usenet newsgroups and web-based bulletin boards for Tourette's Disorder and related learning support.
+
+### Team Tourette - Reading Support Community
+
+- URL: https://teamtourette.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette reading support startup
+- Found: 2026-07-02
+- Description: Team Tourette is a community initiative offering support for children, families, and adults with Tourette Syndrome, featuring reading assistance programs and educational strategies for neurodivergent learners.
+
+### Tourette Support & Education - Reading Tools
+
+- URL: https://tourettesupport.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette reading support startup
+- Found: 2026-07-02
+- Description: A nonprofit providing free reading tools, educational resources, and a supportive community for people with Tourette Syndrome, including startup-level reading support initiatives.
+
+### TAA - Reading Startup Initiative
+
+- URL: https://www.instagram.com/reel/DQME55DAk2k/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette reading support startup
+- Found: 2026-07-02
+- Description: Instagram reel from the TAA Chief Research Officer discussing reading startup initiatives and clinical trial support for neurodivergent reading assistance programs.
+
+### TAA - Reading Support for Employees
+
+- URL: https://www.reed.com/article/tourette-syndrome-understanding-and-supporting-your-employees
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette reading support startup
+- Found: 2026-07-02
+- Description: Article exploring how employers can support professionals with Tourette Syndrome, including reading support strategies and workplace accommodations for neurodivergent individuals.
+
+### TAA - Reading Awareness Month
+
+- URL: https://www.facebook.com/TouretteAssociation/posts/-happy-tourettesyndrome-awareness-month-kick-off-day-from-may-15-june-15-this-in/10156954645142676/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette reading support startup
+- Found: 2026-07-02
+- Description: Facebook post from the TAA promoting reading awareness month and offering ways to get involved in reading support initiatives for individuals with Tourette Syndrome.
+
+### TAA - Young Professionals Reading Group
+
+- URL: https://www.facebook.com/TouretteAssociation/posts/this-year-i-joined-the-taa-african-american-black-young-adult-support-group-and-/1067308608762824/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette reading support startup
+- Found: 2026-07-02
+- Description: Facebook post about the TAA's Young Professionals reading group for advocates and individuals with Tourette Syndrome in the New York metro area.
+
+### TAA - Reading & Tic Disorder Community
+
+- URL: https://www.youtube.com/watch?v=Lj8V_XHn-bk
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette reading support startup
+- Found: 2026-07-02
+- Description: YouTube video featuring a person with Tourette Syndrome demonstrating how the condition impacts everyday reading tasks and offering support for neurodivergent reading challenges.
+
+### Tourette Syndrome in Schools: Understanding Tics, the Impact on Learning, and How to Manage in the School Environment
+
+- URL: https://fixel.ufhealth.org/2024/08/29/understanding-and-managing-tourette-syndrome-in-schools-a-new-course-for-educators-and-parents/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette classroom open source
+- Found: 2026-07-02
+- Description: A free, self-paced online course developed by the Norman Fixel Institute of Neurological Diseases TS Center of Excellence, offering educators and parents essential knowledge and practical strategies for supporting students with Tourette Syndrome in classroom environments.
+
+### Classroom Strategies and Techniques for Students with Tourette Syndrome (PDF)
+
+- URL: https://www.parentcenterhub.org/wp-content/uploads/2015/04/Classroom-Strategies-Techniques1.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette classroom open source
+- Found: 2026-07-02
+- Description: A downloadable open resource detailing practical classroom modifications such as preferential seating, extended time limits, oral testing, and organizational supports for students with Tourette Syndrome.
+
+### Tourette Syndrome in the Classroom (PDF Guide)
+
+- URL: http://pacfamilyresourcecenter.pbworks.com/f/Tourette+Syndrome+in+the+Classroom.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette classroom open source
+- Found: 2026-07-02
+- Description: A comprehensive PDF guide outlining classroom modifications including computer use, break schedules, task segmentation, and mandatory teacher in-service training for supporting students with Tourette Syndrome.
+
+### Tics and Tourette Syndrome Lesson Plan for School Counselors
+
+- URL: https://tics.wustl.edu/ts-and-tics-for-school-counselors/tics-and-tourette-syndrome-lesson-plan/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette classroom open source
+- Found: 2026-07-02
+- Description: An open lesson plan from Washington University designed for school counselors to help students understand tics, the urge to tic, and the classroom experience of having Tourette Syndrome.
+
+### Tourette Syndrome in the Classroom: Collaboration and Advocacy (YouTube Resource)
+
+- URL: https://www.youtube.com/watch?v=jMfGyUm0jjE
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: Tourette classroom open source
+- Found: 2026-07-02
+- Description: A public educational video featuring NYU Langone psychologist Dr. Samantha Busa discussing advocacy strategies, classroom setup, and organizational support for children with tics and Tourette Syndrome.

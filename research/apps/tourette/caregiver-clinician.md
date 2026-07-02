@@ -388,3 +388,23 @@
 - Query: Tourette clinician tool directory
 - Found: 2026-07-01
 - Description: Peer-reviewed article detailing clinical assessment tools, rating scales, and diagnostic criteria for Tourette Syndrome to support clinician tool development.
+
+### Tourette Association of America - Centers of Excellence
+
+- URL: https://tourette.org/about-tourette/overview/centers-of-excellence/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette therapy support startup
+- Found: 2026-07-02
+- Description: A directory of 'Centers of Excellence' providing evidence-based care, including CBIT and ERP therapies, for individuals with Tourette Syndrome. These centers offer multidisciplinary approaches integrating neurologists, psychiatrists, and therapists.
+
+### Children's Hospital Boston - Tic Disorders and Tourette Syndrome Program
+
+- URL: https://www.childrenshospital.org/services/tic-disorders-and-tourette-syndrome-program/patient-resources
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: Tourette parent support open source
+- Found: 2026-07-02
+- Description: Comprehensive patient resources including parent support groups, one-on-one support, and educational materials for families.
