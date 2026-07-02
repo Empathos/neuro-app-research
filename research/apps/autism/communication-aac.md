@@ -628,3 +628,73 @@
 - Query: social story AAC directory
 - Found: 2026-07-01
 - Description: Official platform for previewing and accessing AAC-focused social stories like 'Using My AAC Device' and 'Taking Care of My Speech Device,' with tools for customizing neurodivergent support materials.
+
+### Social Story Creator & Library - Product Overview
+
+- URL: https://www.autismconnect.com/resources/apps/social-story-creator-library
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story speech support startup
+- Found: 2026-07-02
+- Description: Documentation page describing the Social Story Creator & Library app as a universal tool for creating personalized social stories and visual schedules to aid speech development and social understanding in children with autism.
+
+### Calm Schedule - Speech & Routine App
+
+- URL: https://hi, anyone can download https://apps.apple.com/gb/app/calm-schedule/id6758255597
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story speech support startup
+- Found: 2026-07-02
+- Description: Apple App Store link for the Calm Schedule app, which allows users to create simple social stories and routines using personal photos and text, supporting speech development and daily structure for neurodivergent individuals.
+
+### Social Stories for Talking & Conversation Skills
+
+- URL: https://www.thewatsoninstitute.org/resource/talking/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story conversation support open source
+- Found: 2026-07-02
+- Description: Watson Institute resource page providing specific social stories focused on teaching conversation fundamentals and talking skills for students.
+
+### The OT Toolbox Social Stories
+
+- URL: https://otttoolbox.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story conversation support open source
+- Found: 2026-07-02
+- Description: Popular online toolbox offering free social story resources with visuals, frequently cited by educators and therapists for conversation and behavior support.
+
+### Teachers Pay Teachers Social Stories
+
+- URL: https://www.teacherspayteachers.com/Browse/Social-Story
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story conversation support open source
+- Found: 2026-07-02
+- Description: Marketplace repository containing thousands of user-created social stories, including specific categories for conversation and interaction skills.
+
+### Do2Learn Social Stories
+
+- URL: https://www.do2learn.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story conversation support open source
+- Found: 2026-07-02
+- Description: Educational website providing free printable social stories and resources for special education, including materials for social interaction support.
+
+### Canva for Social Stories
+
+- URL: https://www.canva.com/create/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: social story conversation support open source
+- Found: 2026-07-02
+- Description: Official Canva documentation and template page for creating custom social stories with visuals, enabling users to build personalized conversation aids.

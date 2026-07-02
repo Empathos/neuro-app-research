@@ -588,3 +588,73 @@
 - Query: social story overload directory
 - Found: 2026-07-01
 - Description: New resources assisting families and caregivers in navigating new experiences with ease, including social stories for managing environmental changes and overload.
+
+### Social Stories Library by EZducate
+
+- URL: https://www.ezducate.ai/social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story calming startup
+- Found: 2026-07-02
+- Description: A repository of 746+ free, evidence-based social stories covering routines, school, emotions, and safety for autistic children and adults in Carol Gray's format.
+
+### Social Story Creator & Library
+
+- URL: https://apps.apple.com/app/social-story-creator-library/id588180598
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story environment planning open source
+- Found: 2026-07-02
+- Description: Official app-store page for an educational tool to easily create, share, and print social stories, visual schedules, and memories for neurodivergent support.
+
+### NiteStory.AI
+
+- URL: https://github.com/AsiShvets/NiteStory.AI
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story environment planning open source
+- Found: 2026-07-02
+- Description: Open-source GitHub repository for an AI-powered storytelling tool using Retrieval-Augmented Generation (RAG) to create personalized social stories for children.
+
+### How to Write a Social StoryTM - Vanderbilt Kennedy Center
+
+- URL: https://checker.vumc.org/assets/files/tipsheets/socialstoriestips.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story environment planning open source
+- Found: 2026-07-02
+- Description: Official documentation guide from the Vanderbilt Kennedy Center on writing descriptive, directive, and perspective sentences for effective social story planning.
+
+### Boardmaker 3
+
+- URL: https://www.boardmaker.com/boardmaker-3
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story environment planning open source
+- Found: 2026-07-02
+- Description: Official product page for a leading tool used by educators and therapists to create visual schedules and custom social stories for environment planning.
+
+### Social StoriesTM Guidelines - Vanderbilt Kennedy Center
+
+- URL: https://www.vkc.vumc.org/social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story environment planning open source
+- Found: 2026-07-02
+- Description: Official resource page providing the foundational guidelines and best practices for creating Social StoriesTM to support neurodivergent individuals.
+
+### Calm Schedule App
+
+- URL: https://apps.apple.com/app/calm-schedule/id6758255597
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: social story environment planning open source
+- Found: 2026-07-02
+- Description: Official Apple App Store page for an iPhone app designed to create simple social stories and routines with custom photos for environment planning.

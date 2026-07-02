@@ -538,3 +538,53 @@
 - Query: sensory processing AAC directory
 - Found: 2026-07-01
 - Description: Presentation highlighting the use of speech-generating devices to supplement verbal communication for individuals with sensory processing disorder and neurodivergence.
+
+### Sensory SLP (Jessie Ginsburg) - Sensory Training & Routines
+
+- URL: https://www.sensoryslp.com
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing speech support startup
+- Found: 2026-07-02
+- Description: Official website of Jessie Ginsburg, a Sensory Trained SLP, offering free and professional sensory training webinars, sensory-based language building routines, and consultation for neurodivergent children's speech support.
+
+### The Inspired Treehouse - Sensory Processing Disorder & Speech Resources
+
+- URL: https://theinspiredtreehouse.com/sensory-processing-disorder-and-speech-problems/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing speech support startup
+- Found: 2026-07-02
+- Description: A comprehensive resource guide explaining the overlap between sensory processing disorder and speech problems, featuring practical strategies for SLPs and parents to support functional communication in children.
+
+### Advanced Therapy Clinic - Occupational Therapy & Sensory Integration
+
+- URL: https://www.advancedtherapyclinic.com/blog/how-occupational-therapy-helps-children-with-sensory-processing-issues
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing speech support startup
+- Found: 2026-07-02
+- Description: Resource detailing manualized Sensory Integration Therapy (SIT) protocols and their effectiveness in improving speech, language, and self-regulation for children with autism and sensory processing challenges.
+
+### Children's Hospital Colorado - Sensory Processing Disorder Guide
+
+- URL: https://www.childrenscolorado.org/just-ask-childrens/articles/sensory-processing-disorder/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing speech support startup
+- Found: 2026-07-02
+- Description: A definitive guide from a leading pediatric hospital explaining sensory processing, the 'sensory budget' (diet), and the two-pronged OT approach (remediation and compensation) for supporting children with sensory and speech needs.
+
+### Sensory Processing and Integration in Fragile X Syndrome
+
+- URL: https://fragilex.org/resources/treatment/sensory/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing conversation support open source
+- Found: 2026-07-02
+- Description: Resource addressing sensory-based hyperarousal in Fragile X Syndrome, offering proactive management strategies for individuals with sensory processing and integration challenges.

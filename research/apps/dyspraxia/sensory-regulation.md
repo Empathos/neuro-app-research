@@ -588,3 +588,93 @@
 - Query: dyspraxia overload directory
 - Found: 2026-07-01
 - Description: Video resource presenting self-management strategies for cognitive fatigue and stress in adults with Dyspraxia, including brainstorming and goal-identification techniques.
+
+### Beats Medical Dyspraxia App (Dystant Galaxy)
+
+- URL: https://apps.apple.com/cz/app/beats-medical-dyspraxia-app/id1194965395
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia calming startup
+- Found: 2026-07-02
+- Description: Interactive therapy app for children aged 5-14 with dyspraxia, offering evidence-based exercises targeting speech, fine motor, and gross motor skills through fun, space-themed activities.
+
+### New App for Children with Dyspraxia - Irish Health Pro
+
+- URL: https://www.irishhealthpro.com/content/news/show/name/new-app-for-children-with-dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia calming startup
+- Found: 2026-07-02
+- Description: News article detailing the launch of an innovative app by Beats Medical for children with dyspraxia, providing interactive games and adapted exercises for ages 314 to support speech and motor development.
+
+### Dyspraxia: Dyspraxic Assistive Technology
+
+- URL: https://www.youtube.com/watch?v=wZ2ghTuIL9s
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia calming startup
+- Found: 2026-07-02
+- Description: YouTube video discussing assistive technology and tools for dyspraxia, including software alternatives, smart pens, and digital calendars that may help with calming and organizational support.
+
+### Join Dystant Galaxy - Dyspraxia Community
+
+- URL: https://www.instagram.com/p/CjsghlZtuMd/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia calming startup
+- Found: 2026-07-02
+- Description: Instagram post promoting sign-up for the Dystant Galaxy app, highlighting its evidence-based exercises focused on common speech and movement symptoms of dyspraxia.
+
+### Dyspraxia Support in Neurodivergent Groups
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/4304799813118431/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia calming startup
+- Found: 2026-07-02
+- Description: Facebook group discussion where parents share experiences with software and apps supporting children with dyspraxia, ADHD, and dyslexia, exploring helpful tools for calming and learning.
+
+### Dyspraxia and Calming: Neurodivergent Insights
+
+- URL: https://www.instagram.com/reel/C4NY4z0MuD7/?hl=en
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia calming startup
+- Found: 2026-07-02
+- Description: Instagram reel offering personal insights on dyspraxia, including the term 'clumsy child syndrome,' and discussing strategies for calming and managing neurodivergent challenges.
+
+### Cognassist - Dyspraxia in the Workplace: Environment Planning
+
+- URL: https://cognassist.com/insights/blog/dyspraxia-in-the-workplace/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia environment planning open source
+- Found: 2026-07-02
+- Description: Cognassists blog offers detailed environment planning strategies for dyspraxic employees, including lighting, noise control, and workspace design. It promotes open, inclusive practices for employers to support neurodivergence.
+
+### GriffinOT - 8 Support Strategies for Children with Dyspraxia
+
+- URL: https://www.griffinot.com/how-to-help-children-with-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia environment planning open source
+- Found: 2026-07-02
+- Description: GriffinOT outlines eight evidence-based support strategies for children with dyspraxia, emphasizing patience, planning scaffolds, and environmental adaptations. The guide includes open-access tools for educators and parents.
+
+### AHEAD Journal - Personal Experiences of Dyspraxia Management
+
+- URL: https://www.ahead.ie/journal/My-Personal-Experiences-of-Dyspraxia-Management-strategies-and-resources-for-all
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia environment planning open source
+- Found: 2026-07-02
+- Description: AHEAD Journal features a personal account of dyspraxia management, offering open strategies for environment planning, routine building, and multisensory approaches. It includes resources for educators and employers.

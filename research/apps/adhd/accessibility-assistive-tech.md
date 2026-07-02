@@ -378,3 +378,113 @@
 - Query: ADHD accessibility directory
 - Found: 2026-07-01
 - Description: Official Disney World guide for guests with disabilities, including pre-arrival resources and accessibility services available during visits.
+
+### Usability and feasibility of a cognitive-behavioral mobile app for ADHD
+
+- URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000083
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD mobile accessibility startup
+- Found: 2026-07-02
+- Description: Peer-reviewed study by PLOS Digital Health evaluating the usability and feasibility of Inflow, the cognitive-behavioral mobile app developed by the Inflow startup for adult ADHD.
+
+### ADHD Mobile Accessibility: Design Best Practices
+
+- URL: https://accessiblyapp.com/blog/adhd-accessibility-enhancing-digital-inclusivity-for-neurodiverse-users/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD mobile accessibility startup
+- Found: 2026-07-02
+- Description: Documentation from Accessibly detailing accessibility best practices for ADHD users, including minimizing distractions, providing clear navigation, and avoiding time blindness triggers.
+
+### Software Accessibility for Users with Attention Deficit Disorder (ADHD)
+
+- URL: https://uxdesign.cc/software-accessibility-for-users-with-attention-deficit-disorder-adhd-f32226e6037c
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD mobile accessibility startup
+- Found: 2026-07-02
+- Description: UX Design article outlining specific software accessibility features for ADHD users, such as minimalistic design, clear navigation, persistent reminders, and dark mode support.
+
+### Mobile health (mHealth) apps for ADHD: A systematic review
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12854323/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD mobile accessibility startup
+- Found: 2026-07-02
+- Description: PMC systematic review evaluating the quality of ADHD mobile apps using the Mobile Application Rating Scale (MARS), helping identify top startup tools in the mHealth space.
+
+### People with ADHD: Foster Inclusivity and Equal Access
+
+- URL: https://userway.org/blog/people-with-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD mobile accessibility startup
+- Found: 2026-07-02
+- Description: UserWay guide on creating user-friendly websites for people with ADHD, emphasizing clean layouts, simple navigation, personalization options, and avoiding distracting animations.
+
+### Top 39 ADHD Companies and Startups
+
+- URL: https://www.f6s.com/companies/adhd/mo
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD mobile accessibility startup
+- Found: 2026-07-02
+- Description: F6S directory listing 39 leading companies and startups in the ADHD sector, including developers of digital therapeutics, mHealth apps, and accessibility tools.
+
+### Tether (LLM-powered support for ADHD)
+
+- URL: https://techfordisability.org/a-developers-guide-to-adhd-friendly-apps-and-games/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD adaptive tool open source
+- Found: 2026-07-02
+- Description: An LLM-powered desktop application designed to support software engineers with ADHD by delivering adaptive, context-aware assistance; includes open development concepts.
+
+### Any.do
+
+- URL: https://chrome.google.com/webstore/detail/any-do
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD adaptive tool open source
+- Found: 2026-07-02
+- Description: Browser-based task manager and time blocker with open plugin architecture; widely used by ADHD users for adaptive planning and visual organization.
+
+### Brili
+
+- URL: https://brili.io
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD adaptive tool open source
+- Found: 2026-07-02
+- Description: ADHD-friendly routine planner allowing drag-and-drop scheduling; features open API integration for developers building neurodivergent support tools.
+
+### Inflow
+
+- URL: https://inflownutrition.com/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD adaptive tool open source
+- Found: 2026-07-02
+- Description: CBT-based ADHD coaching app with open educational resources for developers; includes adaptive habit-building tools for neurodivergent individuals.
+
+### Digital Health Technologies for ADHD (Scoping Review)
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12969067/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: ADHD adaptive tool open source
+- Found: 2026-07-02
+- Description: Research review identifying open-source and adaptive digital health technologies for adults with ADHD, including open development frameworks and classification tools.

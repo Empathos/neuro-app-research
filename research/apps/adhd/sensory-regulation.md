@@ -608,3 +608,23 @@
 - Query: ADHD overload directory
 - Found: 2026-07-01
 - Description: Therapist-authored article listing symptoms of ADHD sensory overload and providing a directory of calming techniques and professional support options.
+
+### Sprout - ADHD & Neurodivergent Task App
+
+- URL: https://sproutapp.tech
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD calming startup
+- Found: 2026-07-02
+- Description: Sprout is a calm, clever planner app built specifically for ADHD and autism (AuDHD) to help neurodivergent minds plan, prioritize, and thrive without guilt.
+
+### Goblin Tools - Magic To Do
+
+- URL: https://magic.to.goblintools.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD calming startup
+- Found: 2026-07-02
+- Description: Magic To Do is a feature within Goblin Tools that breaks tasks into smaller steps when the brain struggles to find a starting point, supporting task breakdown for ADHD.

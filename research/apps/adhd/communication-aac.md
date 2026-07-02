@@ -609,3 +609,133 @@
 - Query: ADHD AAC directory
 - Found: 2026-07-01
 - Description: Blog post listing popular AAC devices that can teach and reinforce communication, relevant for support strategies in neurodivergent contexts.
+
+### Centered - Desktop App for ADHD Focus
+
+- URL: https://centered.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-02
+- Description: A desktop app that provides AI voice coaches to help ADHD sufferers stay focused, featuring Pomodoro timers, calendaring, and Buddy Sessions with productivity coaches.
+
+### Inflow - ADHD Management App
+
+- URL: https://inflowapp.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-02
+- Description: An app that helps members better manage ADHD through Cognitive Behavioral Therapy (CBT) based support, offering tools for daily management and mental health.
+
+### Sidekick - Productivity Browser for ADHD
+
+- URL: https://sidekickapp.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-02
+- Description: A productivity browser launched for ADHD sufferers and attention-distracted individuals, featuring tailored tools and a host of ADHD-focused features.
+
+### Numo - Gamified Task App for ADHD Adults
+
+- URL: https://numo.io
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-02
+- Description: An app for adults with ADHD that gamifies daily tasks and provides support, helping users stay engaged and motivated with their routine.
+
+### Revibe Technologies - SaMD for ADHD Treatment
+
+- URL: https://revibetech.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-02
+- Description: Develops Software as a Medical Device (SaMD) to treat neurological conditions, with ADHD and Autism as their first targeted areas.
+
+### Mentra - Hiring Platform for Neurodivergent Individuals
+
+- URL: https://mentra.co
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-02
+- Description: A hiring platform specifically for neurodivergent individuals, including those with autism, ADHD, and dyslexity, helping job seekers find inclusive opportunities.
+
+### Helios - ADHD Mental Health Platform
+
+- URL: https://helioshealth.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-02
+- Description: A platform that covers a range of mental health conditions, including ADHD, matching patients with licensed therapists for comprehensive care.
+
+### Leantime - Open Source Project Management for ADHD
+
+- URL: https://leantime.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support open source
+- Found: 2026-07-02
+- Description: Leantime is an open-source project management tool specifically designed for ADHD and autistic brains, offering features to support neurodivergent individuals in organizing tasks and managing workflows.
+
+### XargsUK/awesome-adhd - Curated ADHD Resources Repository
+
+- URL: https://github.com/XargsUK/awesome-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support open source
+- Found: 2026-07-02
+- Description: A GitHub-curated list of ADHD apps, books, tools, and virtual support groups, providing accessible resources and training for neurodivergent individuals seeking conversation and life support.
+
+### Tether - LLM-powered Support for Software Engineers with ADHD
+
+- URL: https://github.com/SeallLab/Tether/releases/tag/v0.3.0
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support open source
+- Found: 2026-07-02
+- Description: An open-source desktop application using LLM and RAG to provide adaptive, context-aware prompts and gamified feedback for software engineers with ADHD, supporting focus and dialogue.
+
+### ADHD Conversation Support Tips - ADDitude Magazine
+
+- URL: https://www.additudemag.com/how-to-have-a-conversation-social-skills-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support open source
+- Found: 2026-07-02
+- Description: A public resource offering pointers for naturally flowing conversations for adults with ADHD, including open-source friendly strategies like mirroring, summarizing, and using the APPLE acronym.
+
+### Small Talk Guide for Adults with ADHD - add.org
+
+- URL: https://add.org/small-talk-101/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support open source
+- Found: 2026-07-02
+- Description: An open-access guide providing tips for initiating and maintaining small talk for adults with ADHD, emphasizing practice, confidence, and active listening techniques.
+
+### Facebook-based ADHD Support Groups - Research on Online Communities
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12885087/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support open source
+- Found: 2026-07-02
+- Description: A public study analyzing Facebook-based ADHD groups as open, supportive networks providing informational, emotional, and social support for neurodivergent individuals navigating conversation challenges.

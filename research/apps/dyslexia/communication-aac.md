@@ -248,3 +248,53 @@
 - Query: dyslexia AAC directory
 - Found: 2026-07-01
 - Description: Discover five powerful assistive technology tools designed to support children with dyslexia! From text-to-speech software to ...
+
+### Capti Voice
+
+- URL: https://www.captivoice.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia speech support startup
+- Found: 2026-07-02
+- Description: An award-winning literacy platform that personalizes reading instruction with text-to-speech features for educators and independent users with dyslexia.
+
+### Lexy (AI-driven Dyslexia Diagnosis App)
+
+- URL: https://www.ie.edu/uncover-ie/dyslexia-in-education-international-mba-startup-labs/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia speech support startup
+- Found: 2026-07-02
+- Description: An AI-driven application startup focused on transforming early dyslexia diagnosis and providing tailored academic support for dyslexic students.
+
+### Prizmo (OCR & Text-to-Speech)
+
+- URL: https://www.prizmoapp.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia speech support startup
+- Found: 2026-07-02
+- Description: An iOS app that scans text and converts it to readable audio using OCR, ideal for students with dyslexia needing audio access to worksheets and books.
+
+### MBROLA Speech Synthesizer
+
+- URL: https://www.iro.umontreal.ca/mbrola/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia conversation support open source
+- Found: 2026-07-02
+- Description: An open-source speech synthesis library (MBROLA) used in trio-installation setups with Festival to provide speech-to-text and text-to-speech aids for dyslexic learners.
+
+### Open Source Tools for Learning Difficulties (Overview)
+
+- URL: https://opensource.com/article/22/4/open-source-tools-learning-difficulties
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia conversation support open source
+- Found: 2026-07-02
+- Description: A curated article listing open-source accommodations for ADHD, dyslexia, and Autism, including OpenDyslexic and integrations with TensorFlow for accessibility.

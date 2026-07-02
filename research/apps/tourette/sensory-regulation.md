@@ -518,3 +518,103 @@
 - Query: Tourette overload directory
 - Found: 2026-07-01
 - Description: TicClinic resource section providing tools for understanding and managing Tourette Syndrome, tic disorders, and associated emotional challenges.
+
+### Tourette's Cop - Instagram
+
+- URL: https://www.instagram.com/tourettescop
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette calming startup
+- Found: 2026-07-02
+- Description: Instagram personality using social media to educate followers about Tourette's, sharing calming strategies and personal experiences.
+
+### TikTok Tourette's - Functional Tic-Like Behaviors Research
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9733629/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette calming startup
+- Found: 2026-07-02
+- Description: Research article on functional tic-like behaviors influenced by social media portrayals, offering insights for neurodivergence support research.
+
+### Emily - TikTok
+
+- URL: https://www.tiktok.com/@thistrippyhippie/video/7593094520510663958
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette calming startup
+- Found: 2026-07-02
+- Description: TikToker sharing content about understanding Tourette's struggles in public, including calming techniques and educational videos.
+
+### The Green Paths Route Planning Software for Exposure-Optimised ...
+
+- URL: https://openresearchsoftware.metajnl.com/articles/10.5334/jors.400
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning open source
+- Found: 2026-07-02
+- Description: The Green Paths software is a prototype for exposure-optimised routing engines. It is an open-source software written in the Python programming language. Python ...
+
+### Open Source Project Management Software | Plane
+
+- URL: https://plane.so/open-source
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning open source
+- Found: 2026-07-02
+- Description: Open source project management with work items, cycles, wiki, and views. Run on Docker/K8s, own your data, and extend with Commercial or Air-Gapped.
+
+### Open Sustainable Technology
+
+- URL: https://opensustain.tech
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning open source
+- Found: 2026-07-02
+- Description: A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
+
+### Orchard: An Open-Source Agentic Modeling Framework - Microsoft
+
+- URL: https://www.microsoft.com/en-us/research/publication/orchard-an-open-source-agentic-modeling-framework/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning open source
+- Found: 2026-07-02
+- Description: We present Orchard, an open-source framework for scalable agentic modeling. At its core is Orchard Env, a lightweight environment service ...
+
+### makeplane/plane: Open-source Jira, Linear, Monday, and ... - GitHub
+
+- URL: https://github.com/makeplane/plane
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning open source
+- Found: 2026-07-02
+- Description: An open-source project management tool to track issues, run sprints cycles, and manage product roadmaps without the chaos of managing the tool itself.
+
+### Open Source Friday: Sustainability Workshop - YouTube
+
+- URL: https://www.youtube.com/watch?v=e1SD01RmAs0
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning open source
+- Found: 2026-07-02
+- Description: ... open source - Risk management for both maintainers and users of open source software.
+
+### 8 environment-friendly open software projects you should know
+
+- URL: https://opensource.com/article/19/4/environment-projects
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: Tourette environment planning open source
+- Found: 2026-07-02
+- Description: For the last few years, I've been helping Greenpeace build its first fully open source software project, Planet 4.

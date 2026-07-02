@@ -308,3 +308,73 @@
 - Query: dyspraxia caregiver app software
 - Found: 2026-07-01
 - Description: Community discussion on a child's dyspraxia diagnosis and the challenges with local waiting times for support services.
+
+### Speech-language Pathologist Directory - Apraxia Kids
+
+- URL: https://www.apraxia-kids.org/speech-language-pathologist-directory/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia clinician tool directory
+- Found: 2026-07-02
+- Description: An online directory connecting families with SLPs across the US and Canada who specialize in treating children with apraxia of speech, which is often linked to dyspraxia research and support.
+
+### Dyspraxia Checklist  A Practical Screening & Support Tool (Tes)
+
+- URL: https://www.tes.com/en-us/teaching-resource/dyspraxia-checklist-a-practical-screening-and-support-tool-13267965
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia clinician tool directory
+- Found: 2026-07-02
+- Description: A practitioner-designed screening tool for teachers, SENCOs, therapists, and parents to identify dyspraxia, useful for clinicians as a reference assessment instrument.
+
+### Adult Developmental Coordination Disorders/Dyspraxia Checklist (ADC)
+
+- URL: https://www.dyspraxiadcdamerica.org/dyspraxia-dcd-adults/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia clinician tool directory
+- Found: 2026-07-02
+- Description: A self-report questionnaire for identifying adults with Dyspraxia/DCD, serving as a diagnostic screening tool for clinicians evaluating adult patients.
+
+### Movement ABC - NHS Conditions
+
+- URL: https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia clinician tool directory
+- Found: 2026-07-02
+- Description: Official documentation describing the Movement ABC assessment method used by occupational therapists and pediatricians to diagnose DCD/dyspraxia in children.
+
+### Lexicon Reading Center Dyspraxia Activities
+
+- URL: https://www.lexiconreadingcenter.org/dyspraxia-treatment-activities/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia therapy support startup
+- Found: 2026-07-02
+- Description: Curated list of treatment activities for dyspraxia including occupational therapy, physiotherapy, and specialized physical education, with examples of obstacle courses and adapted sports.
+
+### Tumble N' Dots Dyspraxia & OT Support Guide
+
+- URL: https://tumblendots.com/blog/understanding-dyspraxia-and-how-ot-supports-it/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia therapy support startup
+- Found: 2026-07-02
+- Description: Public documentation on how occupational therapy supports dyspraxia, detailing task breakdown, visual checklists, and motor load management techniques for effective home and clinic practice.
+
+### British Dyspraxia Foundation Adapted Learning
+
+- URL: https://www.britishdyspraxia.org.uk/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia therapy support startup
+- Found: 2026-07-02
+- Description: Official repository for adapted learning guides and resources, including obstacle course suggestions and alternative sports recommendations to build confidence and sequencing skills for children with dyspraxia.

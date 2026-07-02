@@ -537,3 +537,23 @@
 - Query: executive function AAC directory
 - Found: 2026-07-01
 - Description: Executive Function and AAC Connections  Planning. Simple Instructions  Time Management. Time concepts; Follows Visual Schedule  Task Initiation.
+
+### SWAPS Executive Function Framework
+
+- URL: https://www.theinformedslp.com/review/organizing-executive-function-part-one
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function speech support startup
+- Found: 2026-07-02
+- Description: The Informed SLP review of the SWAPS framework (Stop, What, Alternatives, Pick, Satisfied), a structured method used in speech therapy to support executive function decision-making and self-monitoring.
+
+### Speechify - Speech-to-Text and Text-to-Speech
+
+- URL: https://speechify.io/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function conversation support open source
+- Found: 2026-07-02
+- Description: AI-powered speech-to-text and text-to-speech platform that reduces friction in communication; supports neurodivergent users with executive function challenges by enabling voice-based note-taking and reminders.

@@ -408,3 +408,73 @@
 - Query: executive function learning support directory
 - Found: 2026-07-01
 - Description: A guide for educators explaining the fundamentals of executive function, how to understand student needs, and practical methods to support productive, organized learning in neurodivergent students.
+
+### SMARTS Executive Function Research-Based Strategies
+
+- URL: https://smarts-ef.org/blog/executive-function-and-reading/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-07-02
+- Description: SMARTS provides research-based executive function strategies and tools specifically designed to support reading development in neurodivergent students, including lessons on self-monitoring and planning.
+
+### Clarifyly - Reading Support for Executive Function
+
+- URL: https://clarifyly.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-07-02
+- Description: Clarifyly is a web-based app that helps students with executive function challenges improve reading comprehension through guided self-monitoring, summarizing, and goal-setting exercises.
+
+### Enrichment Therapies - Reading Together EF Support
+
+- URL: https://enrichmenttherapies.com/3-ways-to-support-executive-function-when-reading-together/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-07-02
+- Description: Enrichment Therapies provides parent- and educator-friendly guides on supporting executive function during shared reading, including self-monitoring techniques and movement breaks for focus.
+
+### Key to Literacy - Executive Functions in Reading & Writing
+
+- URL: https://keystoliteracy.com/blog/the-role-of-executive-functions-in-reading-and-writing/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function reading support startup
+- Found: 2026-07-02
+- Description: Key to Literacy provides instructional frameworks and tools that integrate executive function strategies like organizing, predicting, and visualizing into reading and writing lessons.
+
+### SMARTS Executive Function Curriculum
+
+- URL: https://www.smartse.org/curriculum
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-07-02
+- Description: Comprehensive executive function curriculum for K-12 classrooms. While not open source, it is the leading evidence-based program widely adopted in schools for teaching planning, organization, and self-monitoring skills.
+
+### Cult of Pedagogy: Teaching Executive Functions
+
+- URL: https://www.cultofpedagogy.com/executive-functions/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-07-02
+- Description: Open educational resource guide featuring the 'Organized Binder' system and free worksheets. Includes step-by-step open classroom strategies for organizing materials and managing academic workloads without proprietary software.
+
+### The Organized Binder (Weathers System)
+
+- URL: https://mitch@organizedbinder.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive function classroom open source
+- Found: 2026-07-02
+- Description: Open classroom methodology for organizing binders and materials. Uses a free, non-proprietary system with open templates for table of contents, academic toolkits, and lesson tracking.

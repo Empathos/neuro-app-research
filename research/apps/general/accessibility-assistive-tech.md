@@ -468,3 +468,73 @@
 - Query: neurodivergent accessibility directory
 - Found: 2026-07-01
 - Description: A public announcement from Baltimore City Police regarding a new database and expanded tools to support safer interactions with neurodivergent individuals in the field.
+
+### MinDesign Labs
+
+- URL: https://mindesignlabs.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent mobile accessibility startup
+- Found: 2026-07-02
+- Description: Develops immersive XR tools for neurodivergent adults in day habilitation centers, co-designed to improve motor control and engagement through adaptive VR environments.
+
+### Compliance Warden
+
+- URL: https://compliancewarden.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent mobile accessibility startup
+- Found: 2026-07-02
+- Description: A SaaS platform combining cloud security and web/mobile accessibility testing to simplify compliance, with AI-driven workflows for neuroinclusive mobile and web applications.
+
+### Rolling Nation Network
+
+- URL: https://rollingnationnetwork.org
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent mobile accessibility startup
+- Found: 2026-07-02
+- Description: A community fund advocating for wheelchair adaptive vehicles and inclusion through music, supporting neurodivergent and disabled individuals with accessible travel solutions.
+
+### Newton Tech
+
+- URL: https://newtontech.io
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent mobile accessibility startup
+- Found: 2026-07-02
+- Description: A startup leveraging AI to create accessibility solutions, including tools that help neurodivergent children communicate and play, featured in Microsoft's accessibility showcase.
+
+### SocialMind
+
+- URL: https://socialmind.app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent mobile accessibility startup
+- Found: 2026-07-02
+- Description: An app offering opportunities for children with autism to communicate and play, using science-based tools to support neurodivergent social interaction and learning.
+
+### Travaxy
+
+- URL: https://travaxy.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent mobile accessibility startup
+- Found: 2026-07-02
+- Description: An accessible travel startup enabling hotels and airlines to better serve customers with disabilities, using unique data sets to offer suitable rooms and experiences for neurodivergent travelers.
+
+### NeuronWriter - Brain-Based Writing Assistant
+
+- URL: https://neuronwriter.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: neurodivergent adaptive tool open source
+- Found: 2026-07-02
+- Description: AI writing assistant combining neuroscience principles with content creation tailored to specific cognitive styles of neurodivergent individuals.

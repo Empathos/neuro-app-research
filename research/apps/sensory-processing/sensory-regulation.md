@@ -478,3 +478,83 @@
 - Query: sensory processing overload directory
 - Found: 2026-07-01
 - Description: Article outlining small but significant signs of SPD in adults, including sensory sensitivities and coping strategies for daily life.
+
+### Harkla Deep Pressure Therapy Tools
+
+- URL: https://harkla.co/blogs/special-needs/deep-pressure-therapy
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing calming startup
+- Found: 2026-07-02
+- Description: Product line and educational resource for deep pressure therapy items including weighted blankets, compression garments, and sensory tools designed to calm sensory processing anxiety and support regulation.
+
+### Goldstar Rehabilitation Calming Environment Kit
+
+- URL: https://www.goldstarrehab.com/parent-resources/creating-a-calming-environment-for-autism
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing calming startup
+- Found: 2026-07-02
+- Description: Startup-recommended toolkit and guide for creating sensory-friendly calming rooms with weighted blankets, mood lighting, and organized storage bins to reduce anxiety for individuals with autism and sensory processing differences.
+
+### Just One Norfolk Sensory Calming Aids
+
+- URL: https://www.justonenorfolk.nhs.uk/occupational-therapy-for-parents-carers/sensory-regulation/sensory-calming/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing calming startup
+- Found: 2026-07-02
+- Description: Public health repository listing validated sensory calming activities and tools such as deep pressure touch, heavy work, and oral input strategies for children with sensory processing needs.
+
+### The Inspired Treehouse Sensory Calming Products
+
+- URL: https://theinspiredtreehouse.com/simplest-calming-sensory-trick-deep-pressure/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing calming startup
+- Found: 2026-07-02
+- Description: Educational blog and product directory featuring deep pressure tools like weighted lap pads, compression vests, bean bag chairs, and body socks used to quickly calm overstimulated children.
+
+### Sensory Therapy Place Calming Aids Store
+
+- URL: https://www.sensorytherapyplace.com/collections/calming-regulation-aids
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing calming startup
+- Found: 2026-07-02
+- Description: OT-recommended online store offering weighted blankets, compression swings, sensory tunnels, and deep-pressure tools specifically curated for kids with anxiety, autism, and ADHD to support emotional regulation.
+
+### eSpecial Needs Deep Pressure Therapy Shop
+
+- URL: https://especialneeds.com/collections/deep-pressure
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing calming startup
+- Found: 2026-07-02
+- Description: Specialty retailer providing deep pressure products including weighted blankets, compression vests, and sensory support tools designed to enhance relaxation, focus, and body awareness for neurodivergent individuals.
+
+### Herefordshire & Worcestershire Health Calming Strategies Video
+
+- URL: https://www.youtube.com/watch?v=Pu05WNLpyjY
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing calming startup
+- Found: 2026-07-02
+- Description: Public health video resource demonstrating practical calming strategies for sensory processing, including deep breathing, grounding exercises, and environmental modifications like dimming lights and reducing noise.
+
+### Aluma Care - Sensory Friendly Environment Guide
+
+- URL: https://alumacare.com/blog/creating-a-sensory-friendly-environment
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory processing environment planning open source
+- Found: 2026-07-02
+- Description: Public guide with open strategies for lighting, acoustics, and layout to create sensory-friendly spaces, including downloadable planning templates.
