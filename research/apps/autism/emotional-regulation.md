@@ -488,3 +488,73 @@
 - Query: social story mood tracking directory
 - Found: 2026-07-01
 - Description: An official NHS guide on creating personalized social stories with descriptive and coaching sentences, including mood tracking elements to reduce anxiety in autistic children.
+
+### Abains School - Social Stories
+
+- URL: https://abainschool.com/ipk4
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story self regulation startup
+- Found: 2026-07-02
+- Description: Digital repository offering downloadable and video-based social stories for self-regulation, including 'When I am Frustrated,' designed for preschool and special education settings.
+
+### Teachers Pay Teachers - Social Stories for Self-Regulation
+
+- URL: https://www.teacherspayteachers.com/browse?search=social+stories+self+regulation
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story self regulation startup
+- Found: 2026-07-02
+- Description: Marketplace for educator-created social story tools and printable packs focused on self-regulation, anxiety reduction, and emotional coping strategies.
+
+### Psycho Education Research - Social Stories Intervention
+
+- URL: https://repository.lsu.edu/gradschool_theses/6102/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story self regulation startup
+- Found: 2026-07-02
+- Description: Academic research thesis documenting the effectiveness of social story interventions in improving self-regulation and reducing impulsive behaviors in neurodivergent children.
+
+### Social Story Creator & Library
+
+- URL: https://www.teacherspayteachers.com/Product/Social-Story-Creator-Library-App-7089089
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story coping skills open source
+- Found: 2026-07-02
+- Description: A mobile app and repository for creating, customizing, and managing social stories, including coping skills narratives. Available on iOS and Android with open customization options.
+
+### Free Coping Skills Social Stories
+
+- URL: https://www.teacherspayteachers.com/browse/free?search=coping+skills++social+stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story coping skills open source
+- Found: 2026-07-02
+- Description: A collection of downloadable 10-page social stories focused on coping strategies like breathing, yoga, and asking for help. Free to access and customize for open use.
+
+### Teachers Pay Teachers - Social Story Templates
+
+- URL: https://www.teacherspayteachers.com/search?q=social+story+coping+skills
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story coping skills open source
+- Found: 2026-07-02
+- Description: Search results for open-access and low-cost social story templates with coping skills content. Includes editable files for customization.
+
+### YouTube - Emotional Regulation Social Story Songs
+
+- URL: https://www.youtube.com/watch?v=Va8ewW7nUVE
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: social story coping skills open source
+- Found: 2026-07-02
+- Description: Video resources featuring open-access social story songs on emotional regulation and coping. Includes lyrics and visual aids for interactive learning.

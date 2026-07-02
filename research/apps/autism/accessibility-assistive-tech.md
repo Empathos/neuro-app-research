@@ -348,3 +348,33 @@
 - Query: social story accessibility directory
 - Found: 2026-07-01
 - Description: Community-driven repository featuring user-submitted and verified accessible social stories for diverse neurodivergent conditions.
+
+### Ozzystory | AI Social Narratives
+
+- URL: https://ozzystory.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story mobile accessibility startup
+- Found: 2026-07-02
+- Description: An AI-powered platform creating interactive social narratives and SEL tools for kids, enabling navigation of social-emotional challenges through video and stories.
+
+### Universiti Tenaga Nasional Interactive Social Storybook Prototype
+
+- URL: https://www.facebook.com/malaysiatechnologyexpo/videos/-interactive-social-storybook-for-autistic-children-and-caregivers-a-mobile-appl/1167251351582862/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story mobile accessibility startup
+- Found: 2026-07-02
+- Description: A mobile application prototype for autistic children and caregivers featuring interactive social storybooks, developed by Universiti Tenaga Nasional.
+
+### Autism Classroom Resources - Social Stories Guide
+
+- URL: https://autismclassroomresources.com/social-stories-research/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: social story adaptive tool open source
+- Found: 2026-07-02
+- Description: A public resource guide detailing Carol Gray's model for adaptive social stories, including sentence types and structure for creating effective, personalized narratives for neurodivergent students.
