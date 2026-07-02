@@ -456,3 +456,83 @@
 - Query: executive function overload directory
 - Found: 2026-07-01
 - Description: Digital toolkit featuring visual planners, reminder apps, and task-breakdown strategies tailored for neurodivergent individuals facing overload.
+
+### Goblin Tools - Chef Feature for Simplified Planning
+
+- URL: https://goblin.tools/chef
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function calming startup
+- Found: 2026-07-02
+- Description: AI-powered tool within Goblin Tools that generates meal plans and step-by-step recipes based on limited ingredients, reducing executive function stress.
+
+### Noisli - White Noise and Focus Sound Generator
+
+- URL: https://noisli.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function calming startup
+- Found: 2026-07-02
+- Description: Provider of white noise and focus sounds (nature, ambient) to create auditory environments that support calm and sustained attention.
+
+### Headspace - Mindfulness and Meditation for Stress Management
+
+- URL: https://headspace.com
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function calming startup
+- Found: 2026-07-02
+- Description: Mindfulness app offering guided meditations and stress management techniques to calm anxiety and improve self-regulation for neurodivergent users.
+
+### Cold Turkey - Distraction Blocking for Focused Work
+
+- URL: https://coldturkey.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function calming startup
+- Found: 2026-07-02
+- Description: Distraction-blocking application that prevents access to social media and games during work sessions, creating a calm, focused environment for executive function support.
+
+### Finch: Self-Care & Goals
+
+- URL: https://www.finchselfcare.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function environment planning open source
+- Found: 2026-07-02
+- Description: An open to use, gamified self-care app designed to help users build executive function skills through daily planning and goal tracking, with a focus on neurodivergent support.
+
+### Focus Friend
+
+- URL: https://www.focusfriendapp.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function environment planning open source
+- Found: 2026-07-02
+- Description: A productivity tool for neurodivergent individuals that aids in environment planning and executive function development through structured task management and visual scheduling.
+
+### Open Executive: Neurodivergent Planners
+
+- URL: https://openexec.org/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function environment planning open source
+- Found: 2026-07-02
+- Description: An open-source initiative providing neurodivergent-friendly planners and environment planning tools to support executive function development with a focus on accessibility and customization.
+
+### GitLab: Neurodivergent Support Repositories
+
+- URL: https://gitlab.com/topics/neurodivergent-support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function environment planning open source
+- Found: 2026-07-02
+- Description: A repository of open-source projects and tools for neurodivergent support, including executive function environment planners and open documentation for daily planning and skill enhancement.

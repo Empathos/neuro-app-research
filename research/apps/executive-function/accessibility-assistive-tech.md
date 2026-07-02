@@ -318,3 +318,33 @@
 - Query: executive function accessibility directory
 - Found: 2026-07-01
 - Description: Neuroscience-based overview of executive function skills including prioritizing, organizing, and transitioning, with implications for accessibility in educational and clinical settings.
+
+### FREE (Free Research Executive Evaluation) Test Battery
+
+- URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.627219/full
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function adaptive tool open source
+- Found: 2026-07-02
+- Description: An open-access test battery with two adaptive tasks per executive domain, designed to support neurodivergent research by using non-copyrighted, hardware-free tools validated across sociocultural contexts.
+
+### Assessment Tools for Executive Function and Adaptive Functioning
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9381467/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function adaptive tool open source
+- Found: 2026-07-02
+- Description: A scoping review of purpose-built open-source and adapted assessment tools for executive function and adaptive functioning in low-and-middle-income countries, documenting knowledge gaps.
+
+### 4 AR Tools to Build Executive Function and Engagement
+
+- URL: https://iste.org/blog/4-ar-tools-to-build-executive-function-and-engagement
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive function adaptive tool open source
+- Found: 2026-07-02
+- Description: Open-access guide to adaptive augmented reality tools (BlippAR, Aurasma) that support executive function through interactive, engaging, and customizable educational experiences.
