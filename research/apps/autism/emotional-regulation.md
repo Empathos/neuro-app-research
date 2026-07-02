@@ -489,16 +489,6 @@
 - Found: 2026-07-01
 - Description: An official NHS guide on creating personalized social stories with descriptive and coaching sentences, including mood tracking elements to reduce anxiety in autistic children.
 
-### Abains School - Social Stories
-
-- URL: https://abainschool.com/ipk4
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: emotional-regulation
-- Query: social story self regulation startup
-- Found: 2026-07-02
-- Description: Digital repository offering downloadable and video-based social stories for self-regulation, including 'When I am Frustrated,' designed for preschool and special education settings.
-
 ### Teachers Pay Teachers - Social Stories for Self-Regulation
 
 - URL: https://www.teacherspayteachers.com/browse?search=social+stories+self+regulation

@@ -439,16 +439,6 @@
 - Found: 2026-07-02
 - Description: Enrichment Therapies provides parent- and educator-friendly guides on supporting executive function during shared reading, including self-monitoring techniques and movement breaks for focus.
 
-### SMARTS for Schools - EF Curriculum for Reading
-
-- URL: https://smarts-ef.org/for-schools/
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: education-learning
-- Query: executive function reading support startup
-- Found: 2026-07-02
-- Description: SMARTS offers a structured curriculum for schools to teach executive function skills within reading instruction, targeting planning, flexibility, and self-monitoring for neurodivergent students.
-
 ### Key to Literacy - Executive Functions in Reading & Writing
 
 - URL: https://keystoliteracy.com/blog/the-role-of-executive-functions-in-reading-and-writing/

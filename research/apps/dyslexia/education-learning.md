@@ -179,16 +179,6 @@
 - Found: 2026-07-02
 - Description: Official site for KOBI, a real-time app that applies dyslexia-friendly overlays and text-to-speech to digital content to enhance fluency and reading speed.
 
-### GraphoGame Reading
-
-- URL: https://graphogame.com/reading
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: education-learning
-- Query: dyslexia reading support startup
-- Found: 2026-07-02
-- Description: Research-backed game for early readers that uses letter-sound practice and multisensory feedback to build foundational decoding skills for dyslexic students.
-
 ### OneNote (Open Source & Free for Dyslexia)
 
 - URL: https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app

@@ -589,16 +589,6 @@
 - Found: 2026-07-02
 - Description: A free, open-source iOS and Android app co-developed with the autism community for creating personalized digitally-mediated social stories. Used in research trials for classroom behavior intervention.
 
-### Social Stories for School - Autism Little Learners Free Library
-
-- URL: https://autismlittlelearners.com/social-stories-for-school/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: education-learning
-- Query: social story classroom open source
-- Found: 2026-07-02
-- Description: A free, publicly accessible repository of printable social stories designed for school and classroom use. Contains research-supported stories to help autistic children understand routines and transitions.
-
 ### Lesson Pix - Social Story Templates
 
 - URL: https://www.lessonpix.com/
