@@ -284,3 +284,82 @@
 - Found: 2026-07-01
 - Description: Official documentation and product page for CoachMePlus, a mobile and web platform providing structured executive function coaching tools, daily plans, and caregiver communication features for neurodivergent individuals.
 
+### Pacific Coast Executive Function Therapy
+
+- URL: https://www.pacificcoasttherapy.com/executive-function-therapy/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function therapy support startup
+- Found: 2026-07-02
+- Description: Startup providing executive function therapy using CBT to strengthen focus, memory, and emotional control for neurodivergent kids and adults.
+
+### Therapists of New York - Executive Functioning & ADHD
+
+- URL: https://www.therapistsofny.com/services/executive-functioning-adhd
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function therapy support startup
+- Found: 2026-07-02
+- Description: NYC-based neurodivergence support startup offering executive function coaching to improve planning, organization, and task follow-through.
+
+### Just2 Neurodivergent Support Services
+
+- URL: https://www.facebook.com/groups/226392121037615/posts/2692985491044920/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function therapy support startup
+- Found: 2026-07-02
+- Description: Startup supporting neurodivergent students and adults in grades 6 to college with executive function and organizational skill development.
+
+### SMARTS@Home: Executive Function Curriculum for Parents
+
+- URL: https://smarts-ef.org/blog/executive-function-at-home-the-parent-perspective/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function parent support open source
+- Found: 2026-07-02
+- Description: A parent-focused curriculum developed by SMARTS to teach specific executive function strategies based on a child's needs; while not open source, it offers free resources and guides for neurodivergent support.
+
+### RTSD Parent Training on Executive Functioning (Part 1)
+
+- URL: https://www.youtube.com/watch?v=B5vyQAv1FwQ
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function parent support open source
+- Found: 2026-07-02
+- Description: Free video training for parents explaining executive function through everyday behaviors, offering actionable tips and open-source conceptual models for neurodivergent support.
+
+### Forman School: Simple Strategies for Neurodivergent Teens
+
+- URL: https://www.formanschool.org/blog/simple-strategies-for-supporting-executive-functions-in-neurodivergent-teens-in-school-and-at-home
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function parent support open source
+- Found: 2026-07-02
+- Description: Open-access resource with practical tips for parents supporting neurodivergent teens, including organizational tools and school-home integration strategies.
+
+### Facebook: Secular Homeschool Families  Executive Function Tools
+
+- URL: https://www.facebook.com/groups/Secular.Homeschool.Families/posts/10159152547351035/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function parent support open source
+- Found: 2026-07-02
+- Description: Community post sharing open-source, visual, and consistent tools for homeschoolers teaching executive function to neurodivergent children, emphasizing non-rigid planner alternatives.
+
+### ResearchGate: Parental Scaffolding and Executive Function Narratives
+
+- URL: https://www.tandfonline.com/doi/abs/10.1080/10409289.2024.2360872
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive function parent support open source
+- Found: 2026-07-02
+- Description: Academic study exploring parental scaffolding styles in co-constructed narratives; offers open-access insights for developing parent-led executive function support tools for neurodivergent children.

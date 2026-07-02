@@ -278,3 +278,63 @@
 - Query: executive function independence directory
 - Found: 2026-07-01
 - Description: Official resource guide from Harvard University outlining the core pillars of executive function (planning, organizing, initiating, regulating) and linking to evidence-based programs for developing these skills across the lifespan.
+
+### Outschool Executive Function Classes
+
+- URL: https://outschool.com/online-classes/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function life skills startup
+- Found: 2026-07-02
+- Description: Engaging online classes designed for kids and teens to boost executive function skills, enhancing organization, planning, and time management.
+
+### CentralReach Executive Functioning Toolkit
+
+- URL: https://centralreach.com/blog/executive-functioning-at-every-age-transforming-lessons-into-life-skills-with-silas-and-the-mccloskey-toolkit/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function life skills startup
+- Found: 2026-07-02
+- Description: Expert guidance on teaching executive functioning skills at every age, transforming lessons into practical life skills using the Silas and McCloskey Toolkit.
+
+### GoGoBrain Executive Function Tools
+
+- URL: https://gogobrain.com/executive-function/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function life skills startup
+- Found: 2026-07-02
+- Description: Resource hub defining the 8 core executive function skills and offering practical strategies like role-play to develop these skills in children.
+
+### Brain Bootboot Executive Functioning for Teens
+
+- URL: https://www.youtube.com/watch?v=B1f-vIeNx-Q
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function life skills startup
+- Found: 2026-07-02
+- Description: A video series offering life skills lessons and executive functioning strategies for teens, including chunking, repetition, visualization, and backup planning.
+
+### CIP Worldwide - Executive Function Strategies Guide
+
+- URL: https://cipworldwide.org/learning-hub/executive-functioning/executive-function-strategies-for-your-morning-routine/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function home routine open source
+- Found: 2026-07-02
+- Description: A public guide offering open strategies for structuring morning routines to improve executive function, planning, and organizing for neurodivergent individuals.
+
+### Executive Functioning Success - Routines Guide
+
+- URL: https://executivefunctioningsuccess.com/routines-lighten-the-load-for-your-brains-executive-functioning/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive function home routine open source
+- Found: 2026-07-02
+- Description: A public guide detailing open strategies for intentional morning routines that lighten the load on executive function for neurodivergent individuals.

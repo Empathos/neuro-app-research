@@ -418,3 +418,73 @@
 - Query: executive function task initiation directory
 - Found: 2026-07-01
 - Description: A collection of downloadable educational charts and tools designed to guide students through the planning and initiating steps of executive functioning tasks in classroom and home settings.
+
+### Google Keep - Notes and Lists
+
+- URL: https://play.google.com/store/apps/details?id=com.google.android.keep
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function routine startup
+- Found: 2026-07-02
+- Description: Official Google app for creating visual checklists, setting reminders, and organizing daily routines with color-coding and voice input to support executive function startup.
+
+### Pomodone - Time Management Pomodoro
+
+- URL: https://pomodone.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function routine startup
+- Found: 2026-07-02
+- Description: Official product page for a tool integrating the Pomodoro technique with project management apps, using timers and visual progress to reduce activation energy for starting routines.
+
+### Microsoft To Do
+
+- URL: https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function routine startup
+- Found: 2026-07-02
+- Description: Official Microsoft documentation for an app featuring 'My Day' auto-planning, recurring tasks, and step-by-step breakdowns to streamline routine initiation.
+
+### Voice Assistant (Google Assistant)
+
+- URL: https://assistant.google.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function routine startup
+- Found: 2026-07-02
+- Description: Official Google Assistant documentation detailing how to set voice-activated reminders and routine shortcuts (e.g., 'Good morning' routines) to assist with starting tasks passively.
+
+### Todoist: Open Source Project Management for ADHD
+
+- URL: https://leantime.io/open-source-project-management-for-adhd-why-we-built-leantime-for-neurodivergent-productivity/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function reminders open source
+- Found: 2026-07-02
+- Description: Leantime is an open-source project management tool designed specifically for ADHD and neurodivergent productivity, offering routine reminders and task planning features.
+
+### Free Timer: Focus Timer for ADHD
+
+- URL: https://www.facebook.com/groups/bcbaresources/posts/1261876109401855/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function reminders open source
+- Found: 2026-07-02
+- Description: Free Timer is a simple, open-access focus timer app for ADHD users that provides visual countdowns and alert reminders for task transitions and routine management.
+
+### Google Keep: Collaborative Digital Notes App
+
+- URL: https://www.embracethemuchness.com/blog/my-top-10-tech-tools-to-support-adhd-and-executive-functioning
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive function reminders open source
+- Found: 2026-07-02
+- Description: Google Keep is a collaborative digital notes app with reminder features, helping neurodivergent users manage memory, tasks, and routine alerts across devices.
