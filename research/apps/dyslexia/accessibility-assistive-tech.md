@@ -88,3 +88,93 @@
 - Query: dyslexia accessibility directory
 - Found: 2026-07-01
 - Description: Directory of advocacy resources, fact sheets, and parent group networks from the International Dyslexia Association to support students with dyslexia in public schools.
+
+### Helperbird: Reading, Writing & Accessibility Assistant
+
+- URL: https://www.helperbird.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia mobile accessibility startup
+- Found: 2026-07-02
+- Description: A browser extension providing dyslexia-friendly fonts, text-to-speech, and reading guides with 40+ tools to support mobile and web accessibility for dyslexic users.
+
+### ReadSpeaker: Assistive Technology for Dyslexia
+
+- URL: https://www.readspeaker.com/blog/assistive-technology-for-dyslexia/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia mobile accessibility startup
+- Found: 2026-07-02
+- Description: Documentation on text-to-speech (TTS) software essential for dyslexia, explaining how it converts written text to spoken words to improve reading comprehension.
+
+### Dolphin Computer Access: Assistive Technology for Dyslexia
+
+- URL: https://info.yourdolphin.com/assistive-technology-for-dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia mobile accessibility startup
+- Found: 2026-07-02
+- Description: Public resources and products from Dolphin designed to make reading and learning more accessible for young people with dyslexia and additional learning requirements.
+
+### Lexo: AI-Powered Accessibility Tool
+
+- URL: https://www.facebook.com/NottinghamTrentUniversity/posts/introducing-lexo-an-innovative-aipowered-accessibility-tool-created-by-bsc-produ/1430261669132428/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia mobile accessibility startup
+- Found: 2026-07-02
+- Description: An innovative AI-powered accessibility tool created by University of Nebraska-Lincoln students with dyslexia, designed to assist with mobile accessibility needs.
+
+### OpenDyslexic for Chrome
+
+- URL: https://chrome.google.com/webstore/detail/opendyslexic-for-chrome
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia adaptive tool open source
+- Found: 2026-07-02
+- Description: An open-source Chrome extension that overrides all fonts on web pages with the OpenDyslexic font to make digital content more readable for users with dyslexia.
+
+### Co:Writer
+
+- URL: https://cowriter.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia adaptive tool open source
+- Found: 2026-07-02
+- Description: An open-source web and iOS writing tool designed for people with dyslexia, offering predictive text and sentence-building features to assist with spelling and composition.
+
+### ModMath
+
+- URL: https://www.modmath.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia adaptive tool open source
+- Found: 2026-07-02
+- Description: A free, open-source digital tool for students with dysgraphia and dyslexia that allows them to complete math problems on a computer without handwriting, using a virtual keyboard.
+
+### Lexie
+
+- URL: https://www.lexie.ai
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia adaptive tool open source
+- Found: 2026-07-02
+- Description: An open-source reading assistant and text-to-speech platform that reads text aloud automatically, specifically designed to help children with dyslexia and reading difficulties.
+
+### MYdys
+
+- URL: https://www.mydys.com
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia adaptive tool open source
+- Found: 2026-07-02
+- Description: An open-source application for children and adults with dyslexia that instantly translates, reads, and listens to text, integrating color overlays and OpenDyslexic font support.
