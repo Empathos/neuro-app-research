@@ -368,3 +368,33 @@
 - Query: social story clinician tool directory
 - Found: 2026-07-01
 - Description: A clinician-focused user manual and tool directory for implementing social stories with children who have developmental delays, autism, or social challenges.
+
+### And Next Comes L - Social Story Downloads
+
+- URL: https://andnextcomesl.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story therapy support startup
+- Found: 2026-07-02
+- Description: A popular educational blog and resource hub offering a wide variety of free downloadable social stories on topics ranging from handwashing to school routines, widely used in neurodivergent therapy.
+
+### The OT Toolbox - Social Story Resources
+
+- URL: https://theottoolbox.com
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story parent support open source
+- Found: 2026-07-02
+- Description: A highly recommended resource for occupational therapists and parents featuring a vast collection of free social stories, including printables and digital formats for neurodivergent support.
+
+### Canva - Social Story Templates
+
+- URL: https://www.canva.com/templates/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: social story parent support open source
+- Found: 2026-07-02
+- Description: A public design platform offering open-access, customizable social story templates. Users can edit text and visuals to create personalized open-source stories for their children.
