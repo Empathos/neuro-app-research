@@ -168,3 +168,33 @@
 - Query: dyslexia independence directory
 - Found: 2026-07-01
 - Description: Parent center resource explaining dyslexia characteristics, genetic factors, and research-based educational instruction methods to foster independence.
+
+### Lexy - Smart Literacy Learning
+
+- URL: https://apps.apple.com/be/app/lexy-smart-literacy-learning/id1564885095
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia life skills startup
+- Found: 2026-07-02
+- Description: AI-driven literacy learning app that adapts to a child's pace, offering 50+ lessons to help with dyslexia diagnosis and early intervention. Join 10K+ families using smarter AI tutoring.
+
+### Nessus (Nessy)
+
+- URL: https://www.nessy.com.au/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia life skills startup
+- Found: 2026-07-02
+- Description: Game-based learning platform for kids with dyslexia, offering fun activities to build reading, spelling, and comprehension skills while improving life skills.
+
+### Competency-Aligned Instructional Routines (Open Source, Structured Literacy for Dyslexia)
+
+- URL: https://portal.ct.gov/sde/office-of-dyslexia-and-reading-disabilities/educator-competency-aligned-instructional-routines
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia home routine open source
+- Found: 2026-07-02
+- Description: Curated open-source, evidence-aligned instructional routines mapped to Structured Literacy and Dyslexia educator competencies, designed to support home and classroom routines.

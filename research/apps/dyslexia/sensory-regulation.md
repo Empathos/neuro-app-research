@@ -208,3 +208,83 @@
 - Query: dyslexia overload directory
 - Found: 2026-07-01
 - Description: Research-based repository of screening, identification, and teaching tools for students with dyslexia and other literacy-related disabilities.
+
+### Promova: Dyslexia Mode Feature Launch
+
+- URL: https://techcrunch.com/2023/10/03/promovas-new-feature-helps-people-with-dyslexia-learn-a-new-language/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia calming startup
+- Found: 2026-07-02
+- Description: Language learning app 'Promova' launched 'Dyslexia Mode' using specialized typeface Dysfont, reduced color brightness, and multi-sensory techniques to calm and support dyslexic learners in language acquisition.
+
+### Dystech: First Dyslexia and Motor Dysgraphia Screening App
+
+- URL: https://aws.amazon.com/blogs/publicsector/dystech-first-dyslexia-motor-dysgraphia-screening-app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia calming startup
+- Found: 2026-07-02
+- Description: AWS EdStart member Dystech launched the world's first screening app for dyslexia and motor dysgraphia, aiming to provide early, non-invasive diagnosis to reduce anxiety and support timely interventions.
+
+### FACIL'iti MYdys Assistive Tech at CES 2024
+
+- URL: https://www.youtube.com/watch?v=6Aq2hqsOUW4
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia calming startup
+- Found: 2026-07-02
+- Description: French startup FACIL'iti's MYdys app demonstrated at CES 2024 as a mobile assistive tool using customizable text displays to help dyslexic readers differentiate letters, offering a calming user experience.
+
+### OpenDyslexic Font
+
+- URL: https://github.com/antijingoist/open-dyslexic
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia environment planning open source
+- Found: 2026-07-02
+- Description: An open-source, evenly spaced font designed to improve readability for people with dyslexia by reducing letter confusion (e.g., 'a' vs 'd'). Licensed under Creative Commons.
+
+### Readapt (Contentsquare Foundation)
+
+- URL: https://github.com/ContentSquare/readapt
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia environment planning open source
+- Found: 2026-07-02
+- Description: An open-source software platform that helps users with dyslexia and other reading challenges more easily read digital text by adapting layout and formatting.
+
+### Nextcloud (Productivity Suite for Dyslexia Support)
+
+- URL: https://nextcloud.com/install/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia environment planning open source
+- Found: 2026-07-02
+- Description: Open-source cloud productivity suite replacing Office 365/Google Apps, offering private, encrypted tools including text-to-speech, note-taking, and document access for inclusive learning environments.
+
+### Festival Speech Synthesis System
+
+- URL: https://www.cstr.ed.ac.uk/projects/festival/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia environment planning open source
+- Found: 2026-07-02
+- Description: Open-source text-to-speech engine used in dyslexia support tools to convert written text into spoken words, reducing cognitive load during reading exercises.
+
+### MBROLA Speech Synthesis
+
+- URL: https://www.tiinf.ufr-j.de/projects/mbrola/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia environment planning open source
+- Found: 2026-07-02
+- Description: Open-source speech synthesis system supporting multi-language text-to-speech for dyslexia aids, including Italian, German, and English voice generation.

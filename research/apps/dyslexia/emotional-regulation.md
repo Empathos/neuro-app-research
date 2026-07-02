@@ -88,3 +88,83 @@
 - Query: dyslexia mood tracking directory
 - Found: 2026-07-01
 - Description: National public media literacy initiative offering research-based strategies to help all kids, including those with dyslexia, become skilled readers, with supplemental resources for emotional and mood tracking in education.
+
+### Dysolve - AI Platform for Dyslexia and Self-Regulation
+
+- URL: https://dysolve.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia self regulation startup
+- Found: 2026-07-02
+- Description: A New York startup founded in 2017 that uses AI to generate dynamic HTML5 games for diagnosing and treating dyslexia, dysgraphia, and dyscalculia, while helping students improve self-regulation and language processing efficiency.
+
+### Dyslexia and Self-Regulation Study Strategies Research
+
+- URL: https://dyslexiahelp.umich.edu/latest/investigating-self-regulated-study-strategies-among-dyslexic-and-non-dyslexic-students/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia self regulation startup
+- Found: 2026-07-02
+- Description: University of Michigan research study investigating self-regulated study strategies among dyslexic and non-dyslexic students, showing a strong relationship between study strategies and self-efficacy leading to better class performance.
+
+### Mayo Clinic - Dyslexia Symptoms and Self-Regulation Support
+
+- URL: https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-causes/syc-20353552
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia self regulation startup
+- Found: 2026-07-02
+- Description: Official Mayo Clinic resource explaining dyslexia as a learning disorder affecting speech sound identification and decoding, with emphasis on emotional support and early intervention to prevent low self-esteem and behavior problems related to poor self-regulation.
+
+### Dyslexia and Executive Functioning: Self-Regulation Strategies
+
+- URL: https://metaoh.org/dyslexia-and-executive-functioning-challenges-understanding-the-connection-2/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia self regulation startup
+- Found: 2026-07-02
+- Description: Article detailing how dyslexia affects executive functioning (working memory, organization, task initiation) and provides 5 effective strategies for self-regulation including visual supports, assistive technology, checklists, broken-down assignments, and self-monitoring.
+
+### Adult Reading History Questionnaire (ARHQ) - Dyslexia Screener
+
+- URL: https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia self regulation startup
+- Found: 2026-07-02
+- Description: Official self-report screening tool from the International Dyslexia Association designed to measure risk of reading disability (dyslexia) in adults, with instructions for calculating total score to assess self-regulation challenges related to dyslexia.
+
+### BeeLine Reader
+
+- URL: https://beeline-reader.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia coping skills open source
+- Found: 2026-07-02
+- Description: Open-source eye-guiding tool that uses a color gradient to help dyslexic users read more easily and maintain focus. Free for many institutions including Stanford.
+
+### GNOME Attention Access
+
+- URL: https://gitlab.gnome.org/GNOME/gnome-control-center
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia coping skills open source
+- Found: 2026-07-02
+- Description: Open-source accessibility features in Linux including tools for color contrast, font scaling, and text-to-speech integration to support dyslexic users.
+
+### NVDA (Non-Visual Desktop Access)
+
+- URL: https://github.com/nvaccess/nvda
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia coping skills open source
+- Found: 2026-07-02
+- Description: Open-source screen reader for Windows that includes text-to-speech and accessibility features to support dyslexic users in navigating digital content.

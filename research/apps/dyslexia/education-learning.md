@@ -158,3 +158,83 @@
 - Query: dyslexia learning support directory
 - Found: 2026-07-01
 - Description: Repository from the Children's Dyslexia Centers network offering definitions, support tools, and links to centers providing specialized dyslexia learning support.
+
+### Nessy: Dyslexia Reading Games & Phonics
+
+- URL: https://nessy.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia reading support startup
+- Found: 2026-07-02
+- Description: Official website for Nessy, an app store-leading dyslexia support tool offering OG-based phonics games for ages 5-12 to improve reading fluency and comprehension.
+
+### KOBI: Dyslexia-Friendly Reading Overlay
+
+- URL: https://kobiapp.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia reading support startup
+- Found: 2026-07-02
+- Description: Official site for KOBI, a real-time app that applies dyslexia-friendly overlays and text-to-speech to digital content to enhance fluency and reading speed.
+
+### GraphoGame Reading
+
+- URL: https://graphogame.com/reading
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia reading support startup
+- Found: 2026-07-02
+- Description: Research-backed game for early readers that uses letter-sound practice and multisensory feedback to build foundational decoding skills for dyslexic students.
+
+### OneNote (Open Source & Free for Dyslexia)
+
+- URL: https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom open source
+- Found: 2026-07-02
+- Description: A free digital note-taking app with executive function support, used widely in dyslexia classrooms to organize notes with audio, rich-text formatting, and voice dictation.
+
+### Kolibri (Open Source Educational Platform)
+
+- URL: https://learningequality.org/kolibri/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom open source
+- Found: 2026-07-02
+- Description: An open-source offline educational platform and repository providing access to dyslexia-friendly content, including books, videos, and interactive lessons for classroom use.
+
+### Ghotit Real Writer & Reader
+
+- URL: https://ghotit.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom open source
+- Found: 2026-07-02
+- Description: A specialized text correction and writing assistance tool for dysgraphia and dyslexia, offering advanced word prediction, grammar awareness, and phonetics support for students.
+
+### Read&Write Education (Open Source Compatible)
+
+- URL: https://www.technologyharmonysolutions.com/read-and-write-education/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom open source
+- Found: 2026-07-02
+- Description: An assistive technology suite for dyslexia learners, offering text-to-speech, screen masking, and web highlighting tools that integrate with open-source classroom platforms.
+
+### LibriVox (Open Source Audiobooks)
+
+- URL: https://librivox.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia classroom open source
+- Found: 2026-07-02
+- Description: A volunteer-driven, open-source project providing free human-narrated audiobooks in the public domain, ideal for dyslexia classrooms to support reading through listening.

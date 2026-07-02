@@ -208,3 +208,43 @@
 - Query: dyslexia task initiation directory
 - Found: 2026-07-01
 - Description: Documentation and template guide for using Todoist to create customizable task initiation checklists adapted for students with dyslexia.
+
+### EqualWave (EquatIO) - Equation Editor for Dyslexia
+
+- URL: https://equatio.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine startup
+- Found: 2026-07-02
+- Description: Official product page for an equation editor that allows students to create math equations via typing, handwriting, or speech, reducing visual stress for dyslexic users.
+
+### ModMath - Math Typing Tool for Dysgraphia/Dyslexia
+
+- URL: https://www.modmathapp.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia routine startup
+- Found: 2026-07-02
+- Description: Official website for ModMath, a specialized application enabling students with dyslexia and dysgraphia to type math problems neatly without handwriting alignment issues.
+
+### OpenDyslexic Font
+
+- URL: https://github.com/antijingoist/opendyslexic
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders open source
+- Found: 2026-07-02
+- Description: A free, open-source typeface specifically designed for dyslexia that uses weighted bottoms to prevent letters from being flipped or rotated, reducing reading confusion.
+
+### Kidspiration Maps
+
+- URL: https://www.myhappyteacher.com/post/assistive-technology-for-dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders open source
+- Found: 2026-07-02
+- Description: An educational app for iPad that helps children visually organize thoughts and manage tasks, including creating reminders for learning vocabulary and math skills.
