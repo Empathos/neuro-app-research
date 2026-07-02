@@ -628,3 +628,93 @@
 - Query: dyspraxia AAC directory
 - Found: 2026-07-01
 - Description: Compiled list of non-school-based AAC specialists and providers in Washington State, useful for locating local support for individuals with dyspraxia.
+
+### Apraxia Hammer - SAY IT Labs
+
+- URL: https://www.sayitlabs.com/apraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia speech support startup
+- Found: 2026-07-02
+- Description: A dedicated tool for children with Childhood Apraxia of Speech (CAS) designed to provide intensive, repetitive motor-speech practice.
+
+### Articulation Station Hive - Little Bee Speech
+
+- URL: https://www.forbrain.com/speech-therapy-for-kids/speech-therapy-apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia speech support startup
+- Found: 2026-07-02
+- Description: A speech therapy app created by SLPs and parents to assess and treat articulation, phonological disorders, and apraxia of speech with hierarchical activities.
+
+### Makaton Communication Tool
+
+- URL: https://makaton.org/TMC/TMC/About_Makaton/Help_with_verbal_dyspraxia_and_communication.aspx
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia speech support startup
+- Found: 2026-07-02
+- Description: A communication support system using signs, symbols, and speech to help individuals with verbal dyspraxia improve their communication skills.
+
+### Apraxia Kids Support Resource
+
+- URL: https://www.apraxia-kids.org/about-apraxia-kids/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia speech support startup
+- Found: 2026-07-02
+- Description: The leading nonprofit strengthening support systems for children with apraxia of speech, providing resources and community connections for dyspraxia support.
+
+### CMU Pronouncing Dictionary (CMUdict)
+
+- URL: https://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia conversation support open source
+- Found: 2026-07-02
+- Description: An open-source, machine-readable pronunciation dictionary for North American English with over 134,000 words and pronunciations, used to support speech generation and dyspraxia conversation tools.
+
+### SpeechBITE
+
+- URL: https://www.speechbite.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia conversation support open source
+- Found: 2026-07-02
+- Description: A free, open database of intervention studies across Speech Pathology, providing evidence-based strategies and tools for dyspraxia and apraxia of speech treatment.
+
+### Apraxia Kids
+
+- URL: https://apraxiakids.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia conversation support open source
+- Found: 2026-07-02
+- Description: A nonprofit organization providing open education resources, support systems, and toolkits for children with apraxia of speech and families, including conversation strategies.
+
+### Dyspraxia UK
+
+- URL: https://dyspraxiauk.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia conversation support open source
+- Found: 2026-07-02
+- Description: A UK-based organization offering open information sheets, advice, and support tools for children, teenagers, and adults with dyspraxia, including communication and conversation strategies.
+
+### Trip Database
+
+- URL: https://www.tripdatabase.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia conversation support open source
+- Found: 2026-07-02
+- Description: A clinical search engine providing free access to high-quality research evidence on communication disorders, including studies on dyspraxia conversation support methods.

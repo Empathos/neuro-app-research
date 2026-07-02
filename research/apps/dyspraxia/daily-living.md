@@ -358,3 +358,83 @@
 - Query: dyspraxia independence directory
 - Found: 2026-07-01
 - Description: Community-curated repository of books, guides, and_provider_contact information for diagnosis and support of dyspraxia in children and adults.
+
+### Pictello  Visual Storytelling App for Communication Challenges
+
+- URL: https://help.assistivetech.net/pictello
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia life skills startup
+- Found: 2026-07-02
+- Description: A visual storytelling app helping individuals with communication challenges, including those with dyspraxia, create and share personal stories and schedules. Supports literacy and social skills through text-to-speech and customizable templates.
+
+### MagnusCards  Digital Card Decks for Daily Tasks
+
+- URL: https://magnuscards.org
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia life skills startup
+- Found: 2026-07-02
+- Description: Free app offering digital card decks guiding users through everyday tasks, designed to enhance independence for individuals with autism, dyspraxia, and other cognitive disabilities.
+
+### Cognitopia  Life Management Apps for Cognitive Disabilities
+
+- URL: https://www.cognitopia.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia life skills startup
+- Found: 2026-07-02
+- Description: Eugene-based startup creating life management apps for children and adults with cognitive disabilities, including tools to support executive function and life skills development relevant to dyspraxia.
+
+### Tips for Making Daily Tasks and Routines Easier for Children with ...
+
+- URL: https://beatsmedical.com/tips-for-making-daily-tasks-and-routines-easier-for-children-with-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia home routine open source
+- Found: 2026-07-02
+- Description: The Dystant Galaxy app helps children with Dyspraxia to develop crucial skills. Our app gives children access to daily exercises, facilitating the development ...
+
+### 3 open source tools for people with learning difficulties
+
+- URL: https://opensource.com/article/22/4/open-source-tools-learning-difficulties
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia home routine open source
+- Found: 2026-07-02
+- Description: Nextcloud is a productivity suite you run on your own server. I set mine up on a Raspberry Pi, but you can find preconfigured versions on Linode, Vultr, or ...
+
+### Dyspraxia Courses Online: Supporting Children and Adults
+
+- URL: https://www.coordikids.com/dyspraxia-courses-online/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia home routine open source
+- Found: 2026-07-02
+- Description: CoordiKids Home Course is an online resource that offers valuable support for children with dyspraxia. Developed by experts in the field, it provides a ...
+
+### Dyspraxia: Symptoms, Causes, and Treatment - Patient.info
+
+- URL: https://patient.info/childrens-health/dyspraxia-developmental-co-ordination-disorder
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia home routine open source
+- Found: 2026-07-02
+- Description: Dyspraxia in children is a common condition which principally affects motor coordination. It affects activities such as handwriting and balance.
+
+### Dyspraxia or developmental coordination disorder? Unravelling the ...
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC2066137/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia home routine open source
+- Found: 2026-07-02
+- Description: In the absence of any known neurological condition or intellectual impairment, dyspraxia is the inability to plan, organise and coordinate movement. It results ...
