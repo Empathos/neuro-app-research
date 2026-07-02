@@ -408,3 +408,93 @@
 - Query: neurodivergent mood tracking directory
 - Found: 2026-07-01
 - Description: An iOS and Android app for tracking symptoms, mood, sleep, nutrition, and health measurements, offering analysis features to identify patterns affecting your well-being.
+
+### SR-MRehab Trial Registration (NCT04418921)
+
+- URL: https://clinicaltrials.gov/ct2/show/NCT04418921
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent self regulation startup
+- Found: 2026-07-02
+- Description: Official clinical trial registration for the SR-MRehab virtual reality program, detailing the methodology and evaluation of its effectiveness for self-regulation training in children.
+
+### Neuro Boost Network
+
+- URL: https://www.nature.com/articles/s41598-025-21208-x
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent self regulation startup
+- Found: 2026-07-02
+- Description: A growing network and community platform for neurodivergent entrepreneurs, offering networking and business-building opportunities to develop self-regulation startups.
+
+### AutPlay Therapy - Regulation Strategies for Neurodivergent Children
+
+- URL: https://autplaytherapy.com/neurodivergence-and-dysregulation/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent self regulation startup
+- Found: 2026-07-02
+- Description: Documentation of evidence-based regulation strategies and tools (movement, sensory, gaming) often used as a foundation for developing self-regulation apps and tools for neurodivergent children.
+
+### Anthropic Cybersecurity Skills (Open Source)
+
+- URL: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent coping skills open source
+- Found: 2026-07-02
+- Description: An open-source collection of reusable, security-focused skills designed for AI assistance and cybersecurity workflows. While focused on security, it demonstrates the open-source skill aggregation model relevant to coping skill repositories.
+
+### Supermemory AI
+
+- URL: https://github.com/supermemoryai/supermemory
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent coping skills open source
+- Found: 2026-07-02
+- Description: An open-source platform providing persistent memory for AI applications. It helps AI agents retrieve and use unstructured information, which can be adapted to support neurodivergent users by remembering personal coping strategies and context.
+
+### Trivy
+
+- URL: https://github.com/aquasecurity/trivy
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent coping skills open source
+- Found: 2026-07-02
+- Description: A comprehensive open-source vulnerability scanner for misconfigurations and vulnerabilities. While a security tool, it represents the open-source ecosystem for building robust, safe AI applications that can support neurodivergent users.
+
+### Temporal
+
+- URL: https://github.com/temporalio/temporal
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent coping skills open source
+- Found: 2026-07-02
+- Description: An open-source durable workflow orchestration system for distributed systems. It enables reliable execution of complex workflows, which can be used to build reliable, automated coping skill reminders and therapeutic routines.
+
+### MoneyPrinterTurbo
+
+- URL: https://github.com/harry0703/MoneyPrinterTurbo
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent coping skills open source
+- Found: 2026-07-02
+- Description: An open-source automated short-form video generation tool. It can be utilized to create accessible, visual content explaining coping skills and mindfulness techniques for neurodivergent audiences.
+
+### Oh-my-pi (Raspberry Pi Toolkit)
+
+- URL: https://github.com/can1357/oh-my-pi
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: neurodivergent coping skills open source
+- Found: 2026-07-02
+- Description: An open-source toolkit simplifying Raspberry Pi setup and management. It enables the creation of custom, low-cost hardware devices for neurodiversity support, such as sensory soothers or calming environment controllers.

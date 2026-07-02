@@ -578,3 +578,73 @@
 - Query: neurodivergent overload directory
 - Found: 2026-07-01
 - Description: A workplace guide and resource directory providing actionable tips for leaders to reduce overload for neurodivergent employees and learners.
+
+### Synchrony - Social App for Neurodivergent Adults
+
+- URL: https://joinsynchrony.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent calming startup
+- Found: 2026-07-02
+- Description: A first-of-its-kind social connection platform designed to support neurodivergent adults as they form friendships, build confidence, and experience belonging through safety, structure, and optional communication support tools.
+
+### Augmental Technologies - Parent Companion App
+
+- URL: https://augmentaltech.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent calming startup
+- Found: 2026-07-02
+- Description: South African company developing 'Tracto', a parent companion app providing on-demand personalized parent training video guides for families of children with ADHD, autism, and related conditions.
+
+### SleepTown - Sleep Goal App
+
+- URL: https://www.sleeptown.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent calming startup
+- Found: 2026-07-02
+- Description: iOS and Android app that helps users build virtual houses by reaching sleep goals, promoting healthy sleep routines for neurodivergent individuals.
+
+### StayFocusd - Chrome Focus Extension
+
+- URL: https://stayfocusd.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent calming startup
+- Found: 2026-07-02
+- Description: Free Chrome extension that blocks access to distracting websites, helping neurodivergent users stay focused on important tasks through customizable time limits.
+
+### Leantime: Open Source Project Management with Neurodiversity Features
+
+- URL: https://leantime.io/open-source-project-management-neurodiversity/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent environment planning open source
+- Found: 2026-07-02
+- Description: Open-source project management tool offering visual Kanban boards, customizable notifications, and interface modifications to reduce sensory overload for neurodivergent users.
+
+### rivva: Energy Management Tool for Neurodivergent Professionals
+
+- URL: https://blog.rivva.app/p/complete-guide-to-productivity-tools-neurodivergent-professionals
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent environment planning open source
+- Found: 2026-07-02
+- Description: Productivity app designed to align high-demand tasks with peak energy windows, featuring customizable interfaces for neurodivergent planning and execution.
+
+### Tiimo Documentation: Neurodiversity-Inclusive Environment Planning
+
+- URL: https://tiimo.app/help/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent environment planning open source
+- Found: 2026-07-02
+- Description: Documentation detailing how Tiimo supports neurodiversity-inclusive environment planning through visual routines, sensory-friendly settings, and adaptive scheduling.

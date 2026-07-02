@@ -338,3 +338,63 @@
 - Query: neurodivergent independence directory
 - Found: 2026-07-01
 - Description: Official national organization with local chapters offering training programs for life and job skills to support independence for autistic and neurodivergent adults.
+
+### Life Skills Coaching for Neurodivergent Minds
+
+- URL: https://learningforapurpose.com/teaching-life-skills-to-neurodivergent-young-adults/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent life skills startup
+- Found: 2026-07-02
+- Description: Provides personalized mentorship for neurodivergent individuals aged 14+ focusing on personal and professional development, including executive function and independence training.
+
+### CIP Independent Living Skills Program
+
+- URL: https://cipworldwide.org/learning-hub/independent-living-skills/building-independence-life-skills-independent-learning-for-neurodivergent-young-adults/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent life skills startup
+- Found: 2026-07-02
+- Description: A comprehensive transition program for young adults with autism and ADHD, focusing on building independent living competencies and self-advocacy.
+
+### Daivergent
+
+- URL: https://www.daivergent.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent life skills startup
+- Found: 2026-07-02
+- Description: Delivers personalized face-to-face and online job training and life coaching for teens and adults living with disability, including neurodivergent individuals.
+
+### Thrive Emerge
+
+- URL: https://www.thriveemerge.com/about-thrive-emerge
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent life skills startup
+- Found: 2026-07-02
+- Description: Dedicated to helping neurodivergent young adults gain the skills, confidence, and independence to navigate life successfully through targeted life skills training.
+
+### xargsUK/awesome-adhd - Curated ADHD & Neurodivergence Resources
+
+- URL: https://github.com/xargsUK/awesome-adhd
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent home routine open source
+- Found: 2026-07-02
+- Description: GitHub repository containing a curated list of open-source apps, books, ideas, and tools for ADHD and neurodivergence, including resources for home routines and organization.
+
+### BlockSite - Chrome Extension for Focus & Routine Blocks
+
+- URL: https://blocksite.co
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: neurodivergent home routine open source
+- Found: 2026-07-02
+- Description: Official product page for BlockSite, a free Chrome extension that blocks distracting websites to help maintain focus and build consistent home routines for neurodivergent users.
