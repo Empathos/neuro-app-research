@@ -448,3 +448,43 @@
 - Query: ADHD independence directory
 - Found: 2026-07-01
 - Description: Official provider directory for ADHD medication management services in Independence, Missouri, maintained by LifeStance Health.
+
+### Tiimo Team - ADHD Skills Startup
+
+- URL: https://tiimo.app/team/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD life skills startup
+- Found: 2026-07-02
+- Description: Enterprise-focused solutions from Tiimo designed to help companies support neurodivergent employees with ADHD through structured workflows, skill-building tools, and inclusive scheduling.
+
+### Tiimo - ADHD & Life Skills App Store
+
+- URL: https://apps.apple.com/us/app/tiimo-visual-planner/id1516036620
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD life skills startup
+- Found: 2026-07-02
+- Description: Mobile app store page for Tiimo, a visual planner app that helps users with ADHD manage daily tasks, build routines, and develop essential life skills through intuitive design.
+
+### Mind Mapping with Aoya - ADHD Support Tool
+
+- URL: https://www.ayoa.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD life skills startup
+- Found: 2026-07-02
+- Description: A mind-mapping tool designed to help users with ADHD visualize thoughts, break down complex tasks, and develop problem-solving life skills through interactive session planning.
+
+### Super Productivity
+
+- URL: https://super-productivity.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: ADHD home routine open source
+- Found: 2026-07-02
+- Description: Free and open-source ADHD-friendly task manager with visual timers, timeboxing, and routine breakdown tools designed to transform overwhelming to-do lists into manageable work sessions.

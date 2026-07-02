@@ -568,3 +568,33 @@
 - Query: ADHD mood tracking directory
 - Found: 2026-07-01
 - Description: Routine-builder, symptom tracker, medication tracker, mood tracker, task challenger, and a to-do list for comprehensive ADHD management support.
+
+### Focus For All: ADHD Self-Regulation App
+
+- URL: https://focusforall.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD self regulation startup
+- Found: 2026-07-02
+- Description: A mobile app designed to help individuals with ADHD self-regulate emotions through co-designed mindfulness exercises, real-time prompts, and gamified progress tracking.
+
+### Co-Design Lab for ADHD DHIs
+
+- URL: https://co-designlab.org/adhd-dhis
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD self regulation startup
+- Found: 2026-07-02
+- Description: A collaborative platform for developing digital health interventions (DHIs) using co-design principles with adolescents with ADHD, focusing on engagement and sustained adherence.
+
+### ADHD Emotion Regulation API
+
+- URL: https://docs.adhd-api.org/emotion-regulation
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD self regulation startup
+- Found: 2026-07-02
+- Description: Developer-focused API documentation for integrating CBT, mindfulness, and medication-adaptive self-regulation algorithms into neurodivergent support applications.

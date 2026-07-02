@@ -458,3 +458,53 @@
 - Query: ADHD task initiation directory
 - Found: 2026-07-01
 - Description: Community-driven GitHub topic page aggregating open-source tools and repositories related to Tiimo and ADHD task initiation support.
+
+### Brili - Routine Planner for ADHD & Autism
+
+- URL: https://www.brililife.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD routine startup
+- Found: 2026-07-02
+- Description: Official site for Brili, an app that enables drag-and-drop scheduling of routine tasks with start times and durations to combat procrastination and time blindness.
+
+### Thruday - Visual Planner for Chaotic Days
+
+- URL: https://thruday.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD routine startup
+- Found: 2026-07-02
+- Description: Official app page for Thruday, a neurodivergent-friendly visual planner designed to reduce time-blindness and help plan routines, manage tasks, and track mood.
+
+### Pinger  ADHD Reminder & Focus
+
+- URL: https://apps.apple.com/us/app/pinger-adhd-reminder-focus/id1665450640
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD reminders open source
+- Found: 2026-07-02
+- Description: A simple reminder app designed to help people with ADHD stay on track, build habits, and feel in control without stress. Listed on the Apple App Store.
+
+### Leantime - Open Source Project Management for ADHD
+
+- URL: https://leantime.io/open-source-project-management-for-adhd-why-we-built-leantime-for-neurodivergent-productivity/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD reminders open source
+- Found: 2026-07-02
+- Description: An open-source project management tool specifically designed for ADHD and autistic brains, offering free access and community contribution options.
+
+### xTiles - Digital Planner for ADHD
+
+- URL: https://www.tevapharm.com/patients-and-caregivers/all-stories/my-favorite-apps-and-tools-for-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD reminders open source
+- Found: 2026-07-02
+- Description: A digital planner that helps users organize chaos into a less overwhelming view, with free access available for testing.
