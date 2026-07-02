@@ -738,3 +738,53 @@
 - Query: ADHD learning support directory
 - Found: 2026-07-01
 - Description: Directory of ADHD group therapy and support groups in Austin, TX, including professionals specializing in learning support for neurodivergent individuals.
+
+### Mindgrasp
+
+- URL: https://www.mindgrasp.ai
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD reading support startup
+- Found: 2026-07-02
+- Description: An AI-driven tool tailored for diverse content that bridges the gap between dense text and the reader, featuring a Bionic Reading Mode to highlight critical segments and improve focus for users with ADHD.
+
+### Vooks
+
+- URL: https://www.vooks.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD reading support startup
+- Found: 2026-07-02
+- Description: A subscription-based digital library of animated storybooks that pairs on-screen text with professional narration and subtle animation, allowing children to see and hear stories simultaneously for better engagement.
+
+### Epic
+
+- URL: https://www.getepic.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD reading support startup
+- Found: 2026-07-02
+- Description: A subscription-based digital reading library providing access to thousands of fiction and non-fiction titles for children ages 2-12, focusing on choice-driven independent reading across various genres.
+
+### Quantum School (No Fear Reading Program)
+
+- URL: https://www.nofearreading.com
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD reading support startup
+- Found: 2026-07-02
+- Description: A program designed for dyslexia, ADHD, and APD that uses games, buzzers, and role-play during 15-minute lessons to intrigue and engage the ADHD brain, utilizing a step-by-step system for neurodiverse learners.
+
+### MindShift (Neurodiversity & Learning Podcast)
+
+- URL: https://www.mindshift.org
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD classroom open source
+- Found: 2026-07-02
+- Description: An open, free project by KQED and NPR offering podcasts, articles, and newsletters exploring the future of learning and raising kids with ADHD and other thinking differences.

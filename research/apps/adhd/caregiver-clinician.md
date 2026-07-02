@@ -458,3 +458,83 @@
 - Query: ADHD clinician tool directory
 - Found: 2026-07-01
 - Description: Free, scientifically validated online ADHD test for teens and adults, offering a starting point for clinicians to discuss symptoms with patients.
+
+### Inflow  The ADHD App for Skills & CBT-Based Learning
+
+- URL: https://www.inflowacademy.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD therapy support startup
+- Found: 2026-07-02
+- Description: A comprehensive digital program designed by ADHD clinicians using Cognitive Behavioral Therapy (CBT) to build ADHD skills, featuring daily tools and expert-led courses.
+
+### Tiimo Daily Planner App (Product Page)
+
+- URL: https://tiimo.app/daily-planner
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD therapy support startup
+- Found: 2026-07-02
+- Description: Official product documentation for Tiimo's neurodivergent daily planner, highlighting features like visual schedules, habit tracking, and routine management.
+
+### ParentCoach: designing an mHealth parenting app to enhance ...
+
+- URL: https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2025.1694747/full
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support open source
+- Found: 2026-07-02
+- Description: This paper introduces ParentCoach, a mobile application designed to support parents of children with ADHD through brief daily lessons, ...
+
+### Online ADHD Parent Support Group - Hallowell Todaro
+
+- URL: https://hallowelltodaro.com/classes-groups-webinars/online-adhd-parent-support-group
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support open source
+- Found: 2026-07-02
+- Description: Who: This group is open to parents of a child (under 18) who has ADHD. You do NOT need to be an existing Hallowell Todaro client to attend this group. Cost: $15 ...
+
+### ADHD Resources for Parents - Camp Sequoia
+
+- URL: https://www.camp-sequoia.com/blog/adhd-resources-for-parents/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support open source
+- Found: 2026-07-02
+- Description: Looking for support, testimonies, research, and networks for children with ADHD? Here is a helpful page full of ADHD specific resources.
+
+### Eisenberg Family Depression Center: Open Source Hub
+
+- URL: https://code.depressioncenter.org
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support open source
+- Found: 2026-07-02
+- Description: The Eisenberg Family Depression Center publishes open source tools, automations, and research workflows designed to accelerate mental health discoveries while ...
+
+### ADHD Support Groups for Parents: Moms Who Understand - ADDitude
+
+- URL: https://www.additudemag.com/youre-not-alone/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support open source
+- Found: 2026-07-02
+- Description: Parent support groups and networking are important for us. They can help us to see the light at the end of the tunnel, and to find support along the way.
+
+### Looking for an online support group for parents of children with adhd ...
+
+- URL: https://www.facebook.com/groups/2248314252100341/posts/3967429670188782/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: ADHD parent support open source
+- Found: 2026-07-02
+- Description: Hi! I'm a neuropsychologist and launching a virtual group for parents of children with ADHD. I'm also a parent of a 2e kiddo so I understand ...
