@@ -398,3 +398,103 @@
 - Query: neurodivergent clinician tool directory
 - Found: 2026-07-01
 - Description: UK-based directory connecting people to verified professionals for autism, ADHD, and neurodivergent support.
+
+### Moorestown Therapy Collective
+
+- URL: https://www.moorestowntherapy.com/neurodivergent-therapy/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent therapy support startup
+- Found: 2026-07-02
+- Description: A neurodiversity-affirming therapy practice in New Jersey offering inclusive care for neurodivergent adults, teens, and children, with a focus on startup-aligned therapeutic models.
+
+### Kindred Therapy LLC
+
+- URL: https://kindredtherapyllc.com
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent therapy support startup
+- Found: 2026-07-02
+- Description: Provides neurodiversity-affirming therapy for adults and adolescents in the Greater Philadelphia area, NJ & PA, with a startup-driven approach to personalized mental health support.
+
+### Prosper Health
+
+- URL: https://www.prosperhealth.io/therapy
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent therapy support startup
+- Found: 2026-07-02
+- Description: Offers online autism therapy for adults via telehealth, covering insurance and integrating neurodivergent-affirming tools into their startup-supported care model.
+
+### Spring Health - Therapy That Understands Neurodivergence
+
+- URL: https://www.springhealth.com/blog/therapy-that-understands-neurodivergence
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent therapy support startup
+- Found: 2026-07-02
+- Description: A resource on neurodivergent-affirming therapy that adapts to unique needs, highlighting startup innovations in trauma-informed care, sensory sensitivity, and flexibility in therapeutic processes.
+
+### New York - Neurodivergent Therapists Directory
+
+- URL: https://ndtherapists.com/new-york/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent therapy support startup
+- Found: 2026-07-02
+- Description: A directory of neurodivergent therapists in New York offering individual, couples, and support group therapy, with a focus on startup-driven LGBTQ+ and inclusive care models.
+
+### Neurodiversity and Autism: The Journey with Your Child
+
+- URL: https://www.thrive.psu.edu/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent parent support open source
+- Found: 2026-07-02
+- Description: Free, self-paced online training module for parents and caregivers of neurodivergent children, developed by the Clearinghouse for Military Family Readiness at Penn State.
+
+### How to ADHD
+
+- URL: https://www.youtube.com/howtoadhd
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent parent support open source
+- Found: 2026-07-02
+- Description: YouTube channel by Jessica McCabe offering free, open-source videos, tools, and community support for parents of children with ADHD.
+
+### SWAN Scotland Parent Support
+
+- URL: https://swanscotland.org.uk/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent parent support open source
+- Found: 2026-07-02
+- Description: Autistic-led charity providing free, open-source information, support services, and community groups for parents of neurodivergent women and girls in Scotland.
+
+### AANE Parent Support Groups
+
+- URL: https://aane.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent parent support open source
+- Found: 2026-07-02
+- Description: Non-profit organization offering free, open-source Zoom-based parent support groups and educational resources for families of neurodivergent individuals.
+
+### ADDitude Parent-to-Parent Community
+
+- URL: https://www.addituden.com/forums/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: neurodivergent parent support open source
+- Found: 2026-07-02
+- Description: Free forum and website offering open-source articles, peer support, and community resources for parents of children with ADHD and other neurodivergences.

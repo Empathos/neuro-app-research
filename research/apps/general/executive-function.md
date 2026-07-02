@@ -468,3 +468,63 @@
 - Query: neurodivergent task initiation directory
 - Found: 2026-07-01
 - Description: Documentation page outlining executive function strategies for task initiation and follow-through, designed for educators and parents of neurodivergent children.
+
+### Leantime - Open Source Project Management for ADHD
+
+- URL: https://leantime.io/open-source-project-management-for-adhd-why-we-built-leantime-for-neurodivergent-productivity/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-02
+- Description: Leantime is a free-to-try, open source project management tool designed specifically for ADHD and autistic brains, featuring reminders, task tracking, and visual boards.
+
+### ADHDExec - Virtual Executive Assistant Repository
+
+- URL: https://github.com/lyndskg/ADHDExec
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-02
+- Description: ADHDExec is an innovative coding project creating a virtual executive assistant for individuals with ADHD, combining calendar, reminders, clock, and notes functionality with an iOS-style UI.
+
+### Tiimo - Visual Timer & Reminders for Neurodivergent People
+
+- URL: https://www.timio.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-02
+- Description: Tiimo is a visual timer and reminder app built for neurodivergent people, offering checklists, reminders, and customizable views; 1 month free with monthly subscription.
+
+### Omnivore - Open Source Bookmark Manager with Tags
+
+- URL: https://github.com/omnivore-app/omnivore
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-02
+- Description: Omnivore is an open source bookmark manager that enhances article reading and organization, featuring tags and reminders for tracking content, useful for neurodivergent productivity.
+
+### Obsidian - Open Source Knowledge Base with Reminders
+
+- URL: https://github.com/obsidianmd/obsidian-releases
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-02
+- Description: Obsidian is a private and flexible open source knowledge base app that supports plugins like reminders, task tracking, and calendar views for neurodivergent users.
+
+### InFlow - Science-Based ADHD App with Reminders
+
+- URL: https://www.inflowadhd.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-02
+- Description: InFlow is a science-based app for managing ADHD, created by clinicians, featuring reminders, task organization, and support tailored to neurodivergent brains; not open source but highly relevant.
