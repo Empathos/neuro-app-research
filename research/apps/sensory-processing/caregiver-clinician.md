@@ -358,3 +358,73 @@
 - Query: sensory processing clinician tool directory
 - Found: 2026-07-01
 - Description: A collection of free resources for therapists, including sensory symptom checklists and webinars, aiding clinicians in sensory processing research and support.
+
+### Sensory Integration Therapy for Autism
+
+- URL: https://wbma.cc/sensory-integration-therapy-for-autism/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing therapy support startup
+- Found: 2026-07-02
+- Description: Detailed guide on how sensory integration therapy improves daily functioning for children with autism, offering insights for startup product development in neurodivergence support.
+
+### Coral Care: In-Home Pediatric Therapy
+
+- URL: https://www.joincoralcare.com/care/sensory-processing
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing therapy support startup
+- Found: 2026-07-02
+- Description: In-home pediatric therapy service specializing in sensory processing support, no diagnosis required, demonstrating a scalable model for startup ventures in care delivery.
+
+### Coaching Parents of Children with Sensory Integration Difficulties
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8225452/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing therapy support startup
+- Found: 2026-07-02
+- Description: Research review on occupational therapy coaching interventions for parents, supporting startup development of parent-focused digital tools for sensory integration.
+
+### Ivy Rehab: Sensory Integration in Pediatric Occupational Therapy
+
+- URL: https://ivyrehab.com/health-resources/careers/sensory-integration-in-pediatric-occupational-therapy-why-it-matters-and-how-therapists-make-a-difference/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing therapy support startup
+- Found: 2026-07-02
+- Description: Article explaining how sensory integration therapy enables meaningful everyday participation, offering foundational knowledge for startups building therapy support apps.
+
+### Happy Hands OT: Sensory Integration Therapy
+
+- URL: https://www.facebook.com/Twiniversity/posts/what-exactly-does-occupational-therapy-help-withand-what-is-sensory-processing-d/1507327840980643/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing therapy support startup
+- Found: 2026-07-02
+- Description: Social media post highlighting a therapy center trained in sensory integration, illustrating real-world application and community demand for supportive startup solutions.
+
+### Pediatric Therapy For Sensory-Processing Disorder
+
+- URL: https://triumphpediatrics.com/conditions/sensory-processing-disorder/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing therapy support startup
+- Found: 2026-07-02
+- Description: Clinic resource outlining sensory-friendly environments and routine strategies, providing a model for startups designing accessible care platforms for neurodivergent children.
+
+### Sensory Smarts - Kidsource Therapy
+
+- URL: https://kidsourcetherapy.com/parental-therapy-resources/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory processing parent support open source
+- Found: 2026-07-02
+- Description: A resource hub offering practical, parent-friendly open-access solutions for daily sensory challenges, from tooth-brushing to bedtime routines.

@@ -368,3 +368,43 @@
 - Query: sensory processing mood tracking directory
 - Found: 2026-07-01
 - Description: PDF booklet for parents explaining sensory processing and self-regulation, including sensory activities and signs of overload to track.
+
+### Regul-A: Sensory Regulation App for Children with ASD (Research Prototype)
+
+- URL: https://www.pmc.ncbi.nlm.nih.gov/articles/PMC8508158/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing self regulation startup
+- Found: 2026-07-02
+- Description: Research prototype of an app named Regul-A that uses sensory strategies to help parents regulate children with ASD (ages 36) in home routines, documented in a peer-reviewed PMC article.
+
+### OTtoolbox: Self-Regulation Strategies Repository
+
+- URL: https://www.facebook.com/TheOTtoolbox/posts/here-are-some-self-regulation-strategies-and-tools-need-more-ideas-to-help-kids-/1091628799672202/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing coping skills open source
+- Found: 2026-07-02
+- Description: Community-driven repository of self-regulation strategies including deep breathing, sensory input reduction, and comfort items for children and neurodivergent individuals.
+
+### FLOAAT Center: Sensory-Friendly Coping Strategies
+
+- URL: https://www.floaatcenter.com/blog/sensory-friendly-coping-strategies-for-anxiety
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing coping skills open source
+- Found: 2026-07-02
+- Description: Open access blog post offering practical coping strategies including weighted blankets, noise-canceling tools, and sensory toolkit creation for anxiety management.
+
+### Small Victories Wellness: Sensory Skills as Coping Toolkit
+
+- URL: https://www.smallvictorieswellness.com/blog/a-professional-counselors-take-on-sensory-skills-as-coping-skills
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing coping skills open source
+- Found: 2026-07-02
+- Description: Professional counselor's guide to building portable sensory toolkits with open instructions for items like fidgets, scents, and grounding tools.
