@@ -368,3 +368,73 @@
 - Query: dyspraxia accessibility directory
 - Found: 2026-07-01
 - Description: Regional directory of providers, agencies, and advocacy organizations offering access to services for people with disabilities, including dyspraxia support and accessibility resources.
+
+### JoMe - AI Navigation for Neurodivergent Individuals
+
+- URL: https://www.f6s.com/companies/accessibility/mo
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia mobile accessibility startup
+- Found: 2026-07-02
+- Description: An AI-powered platform that helps individuals with autism, ADHD, and sensory sensitivities (including dyspraxia) navigate public spaces with confidence by providing real-time sensory guidance based on crowd levels, noise, and lighting.
+
+### Biped - Smart Harness for Blind and Visually Impaired
+
+- URL: https://accountancycloud.com/blogs/accessibility-tech-startups-leading-innovation
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia mobile accessibility startup
+- Found: 2026-07-02
+- Description: A data-driven smart harness using assistive technology to guide individuals with mobility problems, offering support for those with dyspraxia by improving navigation and spatial orientation.
+
+### FACIL'iti - Web Accessibility Solution for Disabilities
+
+- URL: https://sifted.eu/articles/startups-convince-vcs-disability-tech
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia mobile accessibility startup
+- Found: 2026-07-02
+- Description: A web solution that makes sites more user-friendly for individuals with visual, motor, and cognitive disabilities, including dyspraxia, by adapting content to match user-specific accessibility needs.
+
+### Owll.ai AI Note-Taking App
+
+- URL: https://www.owll.ai
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia adaptive tool open source
+- Found: 2026-07-02
+- Description: AI-powered note-taking and transcription app that helps users with dyspraxia capture, organize, and review lessons with automatic speech-to-text and dyslexia-friendly formatting features.
+
+### Handwriting Without Tears Programs
+
+- URL: https://handwritingwithouttears.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia adaptive tool open source
+- Found: 2026-07-02
+- Description: Set of tactile and digital writing programs including Wet-Dry-Try and Keyboarding Without Tears, specifically designed to support fine motor development and handwriting fluency for those with dyspraxia.
+
+### LetterSchool Handwriting Fluency App
+
+- URL: https://www.letterschool.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia adaptive tool open source
+- Found: 2026-07-02
+- Description: Fun, interactive app for tracing letters and practicing handwriting fluency, offering engaging animations and feedback to support motor skill development in children with dyspraxia.
+
+### Equatio Digital Math Instruction Tool
+
+- URL: https://www.softkare.com/equatio
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia adaptive tool open source
+- Found: 2026-07-02
+- Description: Digital math instruction tool that helps students with dyspraxia visualize and hear math equations read aloud, supporting both comprehension and problem-solving through multi-sensory engagement.

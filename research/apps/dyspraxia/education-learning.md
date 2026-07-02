@@ -628,3 +628,43 @@
 - Query: dyspraxia learning support directory
 - Found: 2026-07-01
 - Description: Information on dyspraxia problems with movement, coordination, language, and speech, including muscle control difficulties and support strategies.
+
+### COCO THINKS
+
+- URL: https://www.coco-thinks.com
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia reading support startup
+- Found: 2026-07-02
+- Description: Specialized educational application with over 30 games designed for children with dyspraxia, focusing on graphomotor skills, hand-eye coordination, and executive functions to support reading and learning.
+
+### OrCam Read
+
+- URL: https://www.orcam.com/orcam-read
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia reading support startup
+- Found: 2026-07-02
+- Description: Assistive AI-powered reader app that uses a wearable camera to instantly read and pronounce text aloud, helping students with dyspraxia access textual content without decoding difficulties.
+
+### Diverse Learners - Open Source Podcasts and Vodcasts
+
+- URL: https://www.diverse-learners.co.uk
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia classroom open source
+- Found: 2026-07-02
+- Description: Open educational resource providing podcasts, vodcasts, and guides for educators and families supporting students with dyspraxia, dyslexia, and ADHD in classroom settings.
+
+### Inclusive Education - Dyspraxia and Learning Guide
+
+- URL: https://inclusive.tki.org.nz/guides/dyspraxia-and-learning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia classroom open source
+- Found: 2026-07-02
+- Description: Open-access guide from the New Zealand Ministry of Education offering evidence-based classroom strategies, organizational support, and multisensory teaching methods for students with dyspraxia.
