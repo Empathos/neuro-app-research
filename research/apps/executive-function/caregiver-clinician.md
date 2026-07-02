@@ -284,12 +284,3 @@
 - Found: 2026-07-01
 - Description: Official documentation and product page for CoachMePlus, a mobile and web platform providing structured executive function coaching tools, daily plans, and caregiver communication features for neurodivergent individuals.
 
-### Executive Function Performance Test (EFPT) - Official Documentation
-
-- URL: https://www.bestpractices.org/efpt
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: caregiver-clinician
-- Query: executive function clinician tool directory
-- Found: 2026-07-01
-- Description: Clinician-administered tool for assessing executive function in real-world tasks, including planning, organization, and task initiation, with detailed administration guides for professionals.
