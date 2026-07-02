@@ -408,3 +408,63 @@
 - Query: social story independence directory
 - Found: 2026-07-01
 - Description: A scoping review synthesizing social narrative research for behavior change in ASD, including independence skills like communication and direction compliance.
+
+### How To Write A Social Story (A Step-By-Step Guide)
+
+- URL: https://lifeskillsadvocate.com/blog/how-to-write-a-social-story/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story life skills startup
+- Found: 2026-07-02
+- Description: A detailed documentation guide outlining Carol Gray's 10 defining criteria and step-by-step instructions for creating custom social stories for life skills.
+
+### Social Story Examples for Teachers: SEL & SpEd Guide
+
+- URL: https://www.storyboardthat.com/articles/e/social-story-examples
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story life skills startup
+- Found: 2026-07-02
+- Description: A curated collection of social story examples tailored for preschool through elementary classrooms to support social-emotional learning and behavior management.
+
+### Printable Social Stories (30 for Special Education)
+
+- URL: https://www.facebook.com/groups/iepeduc/posts/1131364305717090/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story life skills startup
+- Found: 2026-07-02
+- Description: A post sharing a set of 30 one-page social stories addressing key social situations and life skills relevant to older kids in special education.
+
+### Social Story Creator & Library
+
+- URL: https://apps.apple.com/ba/app/social-story-creator-library/id588180598
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story home routine open source
+- Found: 2026-07-02
+- Description: An award-winning iOS app for easily creating, sharing, and printing educational social stories and visual schedules. Supports custom photo integration and routine templates for neurodivergent children.
+
+### Google Slides for Social Stories
+
+- URL: https://www.youtube.com/watch?v=LbpaGtqQVW4
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story home routine open source
+- Found: 2026-07-02
+- Description: A widely used open-source tool for creating visual social stories. Free to use with a Gmail account, allowing users to copy paste images and add text for custom home routine templates.
+
+### Boardmaker Social Stories
+
+- URL: https://www.facebook.com/groups/202243656776282/posts/2774970382836917/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: social story home routine open source
+- Found: 2026-07-02
+- Description: A popular professional tool for creating and printing social stories and visual aids. Supports custom routine pages and open editable templates for neurodivergent support.

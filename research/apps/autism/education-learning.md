@@ -558,3 +558,63 @@
 - Query: social story learning support directory
 - Found: 2026-07-01
 - Description: Video-based social story resource for teaching communication skills and social emotional learning (SEL) in early childhood education settings.
+
+### TCI Social Stories
+
+- URL: https://www.tcies.com/social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story reading support startup
+- Found: 2026-07-02
+- Description: Public repository of free, downloadable social story templates and digital books for autism and neurodivergence support, aligned with Carol Gray's methodology.
+
+### Autism Speaks Social Stories Library
+
+- URL: https://www.autismspeaks.org/family-services/resource-library/social-stories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story reading support startup
+- Found: 2026-07-02
+- Description: Curated collection of free, evidence-based social stories covering routines, emotions, and safety, designed for parents and clinicians to support social learning.
+
+### SOFA App (Stories Online For Autism) - Official Website
+
+- URL: https://sofa-app.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story classroom open source
+- Found: 2026-07-02
+- Description: A free, open-source iOS and Android app co-developed with the autism community for creating personalized digitally-mediated social stories. Used in research trials for classroom behavior intervention.
+
+### Social Stories for School - Autism Little Learners Free Library
+
+- URL: https://autismlittlelearners.com/social-stories-for-school/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story classroom open source
+- Found: 2026-07-02
+- Description: A free, publicly accessible repository of printable social stories designed for school and classroom use. Contains research-supported stories to help autistic children understand routines and transitions.
+
+### Lesson Pix - Social Story Templates
+
+- URL: https://www.lessonpix.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story classroom open source
+- Found: 2026-07-02
+- Description: A platform offering customizable social story templates and visual supports for educators. Includes resources for creating open, printable classroom materials for neurodivergent students.
+
+### TextingStory - Chat Story Maker for Social Skills
+
+- URL: https://textingstory.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: social story classroom open source
+- Found: 2026-07-02
+- Description: An app that uses text messaging format to create social stories, ideal for teens and young adults in classroom settings to practice social communication skills.

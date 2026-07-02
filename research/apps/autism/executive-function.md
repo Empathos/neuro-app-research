@@ -648,3 +648,53 @@
 - Query: social story task initiation directory
 - Found: 2026-07-01
 - Description: A social media post highlighting tools and stories to help students build executive functioning skills, specifically waiting, planning, organizing, time management, and task initiation.
+
+### And Next Comes L - Social Story Templates
+
+- URL: https://andonextcomesl.com/social-stories/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story routine startup
+- Found: 2026-07-02
+- Description: Curated repository of free, printable social story templates for routines like morning, bedtime, and transitions, tailored for neurodivergent children.
+
+### Teachers Pay Teachers - Social Story Resources
+
+- URL: https://www.teacherspayteachers.com/browse?search=social+stories+routine
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story routine startup
+- Found: 2026-07-02
+- Description: Marketplace for purchasing and downloading professional social story resources, including routine-specific templates and visual aids for autism and ADHD support.
+
+### Autism Action for Children - Social Story Guide
+
+- URL: https://parents.actionforchildren.org.uk/neurodiversity/understanding-needs/making-social-stories-and-scripts-to-support-your-child/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story routine startup
+- Found: 2026-07-02
+- Description: Parent-focused guide on creating custom social stories for routines, with step-by-step instructions and examples for transitions and behavioral support.
+
+### Boardmaker (by The Knowledge Learning Company)
+
+- URL: https://www.makingboards.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story reminders open source
+- Found: 2026-07-02
+- Description: A widely used tool for creating visual schedules, social stories, and reminders for neurodivergent individuals. It supports custom image and text integration for personalized routine management.
+
+### Teachers Pay Teachers - Social Stories
+
+- URL: https://www.teacherspayteachers.com/browse?search=social+stories+autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: social story reminders open source
+- Found: 2026-07-02
+- Description: A public marketplace hosting thousands of user-generated social stories and reminder tools for autism and neurodivergence. Educators and parents can download or purchase customizable story templates.
