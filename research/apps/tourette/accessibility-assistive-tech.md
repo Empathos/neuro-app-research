@@ -348,3 +348,63 @@
 - Query: Tourette accessibility directory
 - Found: 2026-07-01
 - Description: College Board documentation guidelines for students with Tic Disorders or Tourette's, detailing requirements for testing accommodations and accessibility support in academic settings.
+
+### DeafTawk  AI-Powered Accessibility Platform
+
+- URL: https://www.f6s.com/companies/accessibility/mo
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette mobile accessibility startup
+- Found: 2026-07-02
+- Description: DeafTawk offers an AI-driven platform enhancing communication for individuals with communication disorders, including some with neurodivergent conditions like Tourette Syndrome, via mobile apps that convert text to voice and vice versa.
+
+### JoMe  Neurodivergent Navigation Platform
+
+- URL: https://www.youtube.com/watch?v=55nkKAWd1Vg
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette mobile accessibility startup
+- Found: 2026-07-02
+- Description: JoMe is an AI-powered mobile platform helping neurodivergent individuals, including those with autism, ADHD, and sensory sensitivities (common in Tourette Syndrome), navigate public spaces with real-time sensory guidance and crowd analytics.
+
+### Mobile App Accessibility Guidelines
+
+- URL: https://www.bitrise.io/blog/post/an-introduction-to-mobile-app-accessibility
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette mobile accessibility startup
+- Found: 2026-07-02
+- Description: Comprehensive guide on mobile app accessibility design principles, including robust touch targets, functional keyboards, and clear UI labeling, essential for startups creating tools for users with Tourette Syndrome and other motor/speech disorders.
+
+### Mobile Game Accessibility Guidelines
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2651346
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette mobile accessibility startup
+- Found: 2026-07-02
+- Description: Systematic review of accessibility strategies for mobile games, including adjustable touch sensitivity and gesture recognition thresholds, beneficial for developers creating inclusive apps for users with Tourette Syndrome and dual motor-speech challenges.
+
+### iOS Accessibility Features Overview
+
+- URL: https://www.youtube.com/watch?v=qMpelhjW_is
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette mobile accessibility startup
+- Found: 2026-07-02
+- Description: Educational video demonstrating iOS accessibility settings and features, including VoiceOver and Switch Control, critical for neurodivergence support and mobile accessibility tool development for individuals with Tourette Syndrome.
+
+### Responsive Deep Brain Stimulation for Tourette Syndrome
+
+- URL: https://www.nature.com/articles/s41598-024-57071-5
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: Tourette adaptive tool open source
+- Found: 2026-07-02
+- Description: Research on responsive DBS as an adaptive neurotechnological tool for treating motor and vocal tics in Tourette syndrome.

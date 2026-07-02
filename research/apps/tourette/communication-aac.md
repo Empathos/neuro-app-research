@@ -578,3 +578,103 @@
 - Query: Tourette AAC directory
 - Found: 2026-07-01
 - Description: Community forum for individuals using AAC tools for Tourette Syndrome, offering discussions on app recommendations, troubleshooting, and sharing experiences with communication aids.
+
+### Tourette Association of America - National Health Council
+
+- URL: https://nationalhealthcouncil.org/member/tourette-association-of-america/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette speech support startup
+- Found: 2026-07-02
+- Description: The only national organization serving the community, and works to raise awareness, advance research, and provide ongoing support to patients and families.
+
+### Speech Therapies and Pathologies - Tourette Association of America
+
+- URL: https://tourette.org/resources/overview/tools-for-educators/classroom-strategies-techniques/speech-therapies-pathologies/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette speech support startup
+- Found: 2026-07-02
+- Description: Speech-language pathologists do not typically provide therapy for tics. At this time, treatment for tics is typically provided by counselors, psychologists, ...
+
+### "I have spent my life trying to support and empower the Tourette's ...
+
+- URL: https://www.facebook.com/BuzzFeedVideo/posts/i-have-spent-my-life-trying-to-support-and-empower-the-tourettes-community-and-t/1430530522062527/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette speech support startup
+- Found: 2026-07-02
+- Description: "I have spent my life trying to support and empower the Tourette's community and to teach empathy, kindness and understanding from others ...
+
+### Take a look at this video to see why we were so busy just before the ...
+
+- URL: https://www.instagram.com/reel/DUGQmHdghkw/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette speech support startup
+- Found: 2026-07-02
+- Description: If you're looking for support with Tourette's, or if you just want ... How LENS Therapy Supports Speech Recovery Reduces Cognitive ...
+
+### Tourette Syndrome Support Group - Online
+
+- URL: https://tourette.org/online-support-groups-tourette-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette conversation support open source
+- Found: 2026-07-02
+- Description: Official online support group for adults with Tourette Syndrome and Tic Disorders, offering a secure space to connect, share experiences, and discuss conversation strategies.
+
+### Using Online Support Communities for Tourette Syndrome and Tic Disorders
+
+- URL: https://www.tourettes-action.org.uk/news-755-using-online-support-communities-for-tourette-syndrome-and-tic-disorders-online-survey-of-users-experiences.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette conversation support open source
+- Found: 2026-07-02
+- Description: Research by Tourettes Action UK detailing how online communities host conversational support for individuals with tic disorders, including open-access survey data on user experiences.
+
+### Exploring Social Support in an Online Support Community for Tourette Syndrome
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9579925/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette conversation support open source
+- Found: 2026-07-02
+- Description: Open-access PubMed Central study analyzing conversation themes in online support groups for Tourette Syndrome, providing data on peer-to-peer communication support.
+
+### How to Help Someone with Tourette Syndrome
+
+- URL: https://lonestarneurology.net/blog/how-to-help-someone-with-tourette-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette conversation support open source
+- Found: 2026-07-02
+- Description: Clinical blog from Lone Star Neurology providing tools for open communication, non-judgmental listening, and creating supportive environments for conversation.
+
+### Join Online Tourette Syndrome Support Groups (Starting Jan 2025)
+
+- URL: https://www.facebook.com/TouretteAssociation/posts/-register-before-january-17-for-our-new-cohort-of-online-support-groups-join-one/989090383251314/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette conversation support open source
+- Found: 2026-07-02
+- Description: Official announcement from the Tourette Association of America for new cohorts of online support groups focused on conversation and community building.
+
+### Voice Chat Solutions for Gamers with Tourette's
+
+- URL: https://www.youtube.com/watch?v=-RDcGeQDEV4
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: Tourette conversation support open source
+- Found: 2026-07-02
+- Description: Video resource discussing accessible voice chat tools and communication alternatives for gamers with Tourette Syndrome, highlighting open-access solutions for in-game conversation.
