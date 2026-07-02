@@ -398,3 +398,73 @@
 - Query: dyspraxia mood tracking directory
 - Found: 2026-07-01
 - Description: A highly visual, tap-based mood and activity tracker that helps users log feelings throughout the day, visualize emotional patterns, and track habits and goals with minimal typing.
+
+### CoordiKids Home Course for Dyspraxia
+
+- URL: https://www.coordikids.com/developmental-coordination-disorder/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia self regulation startup
+- Found: 2026-07-02
+- Description: Educational resource and home course designed to assist children with dyspraxia in developing motor coordination and self-regulation skills.
+
+### Expressable Adult Dyspraxia Therapy Guide
+
+- URL: https://www.expressable.com/learning-center/adults/dyspraxia-in-adults-signs-diagnosis-and-treatment
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia self regulation startup
+- Found: 2026-07-02
+- Description: Guide for adults detailing therapy options including CBT, occupational therapy, and self-regulation techniques for developmental coordination disorder.
+
+### The Conversation: Dyspraxia and Emotional Regulation
+
+- URL: https://theconversation.com/dyspraxia-is-more-than-just-clumsy-child-syndrome-it-can-cause-emotional-distress-and-anxiety-throughout-life-66948
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia self regulation startup
+- Found: 2026-07-02
+- Description: Article exploring the link between dyspraxia, emotional distress, and self-regulation challenges, emphasizing that it is not a result of laziness or brain damage.
+
+### FasterCapital Project Management for Dyspraxia
+
+- URL: http://fastercapital.com/content/Dyspraxia-and-Project-Management-Navigating-Dyspraxia--Project-Management-Strategies-for-Entrepreneurs.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia self regulation startup
+- Found: 2026-07-02
+- Description: Strategies for entrepreneurs with dyspraxia to improve self-evaluation, self-regulation, and confidence in project management contexts.
+
+### PMC Self-Regulation in Developmental Coordination Disorder
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5818572/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia self regulation startup
+- Found: 2026-07-02
+- Description: Research paper examining physical and emotional coherence and self-regulation mechanisms in young people with developmental coordination disorder.
+
+### Motor Skills Screening & Coping Tools
+
+- URL: https://www.portwood.org.au/resources/motor-skilling-screening-coping-tools
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia coping skills open source
+- Found: 2026-07-02
+- Description: Publicly available screening instrument and accompanying coping skill worksheets developed by Portwood, a recognized leader in dyspraxia research.
+
+### Dyspraxia Task Manager - Flutter App
+
+- URL: https://pub.dev/packages/dyspraxia-task-manager
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia coping skills open source
+- Found: 2026-07-02
+- Description: Open-source Flutter-based task manager with simplified interfaces, voice-to-text input, and routine automation features for individuals with dyspraxia.

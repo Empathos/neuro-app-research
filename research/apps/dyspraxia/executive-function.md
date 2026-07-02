@@ -498,3 +498,73 @@
 - Query: dyspraxia task initiation directory
 - Found: 2026-07-01
 - Description: Great strategies for supporting task initiation! Modeling, verbal cues, and backward chaining are so effective for kids with ADHD and motor ...
+
+### Tiimo Documentation: Setting Up Your First Routine
+
+- URL: https://help.tiimo.app/en/collections/setting-up-routines
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia routine startup
+- Found: 2026-07-02
+- Description: Official Tiimo help documentation detailing step-by-step guides for creating custom routines, using visual cues, and starting daily tasks for neurodivergent users.
+
+### Dyspraxia Foundation: Routine Support Tools Guide
+
+- URL: https://dyspraxiafoundation.org/adults/tips/routine-tools
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia routine startup
+- Found: 2026-07-02
+- Description: Official guide from the Dyspraxia Foundation listing recommended apps and tools (including Tiimo and Magic ToDo) for starting and managing daily routines effectively.
+
+### Stretchly - The break time reminder app
+
+- URL: https://hovancik.net/stretchly/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia reminders open source
+- Found: 2026-07-02
+- Description: Open-source, cross-platform app that reminds you to take breaks when working on your computer, supporting neurodivergent users with structure and routine.
+
+### Stretchly Package
+
+- URL: https://www.npmjs.com/package/stretchly
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia reminders open source
+- Found: 2026-07-02
+- Description: npm package for Stretchly, open-source break reminder tool used by developers for neurodivergent productivity and routine support apps.
+
+### Best Open Source Reminder Apps 2026
+
+- URL: https://sourceforge.net/directory/reminder/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia reminders open source
+- Found: 2026-07-02
+- Description: SourceForge directory listing open-source reminder apps including Stretchly and others curated for neurodivergence and neuroplanning support.
+
+### Stretchly on OpenURL
+
+- URL: https://openurl.app/apps/stretchly/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia reminders open source
+- Found: 2026-07-02
+- Description: OpenURL app page for Stretchly, open-source break reminder tool with features for neurodivergent users needing structure and routine.
+
+### Stretchly on RepoHub
+
+- URL: https://rephub.io/repo/stretchly/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia reminders open source
+- Found: 2026-07-02
+- Description: RepoHub repository page for Stretchly, open-source break reminder app with documentation and community support for neurodivergence.
