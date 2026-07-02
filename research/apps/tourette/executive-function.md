@@ -688,3 +688,63 @@
 - Query: Tourette task initiation directory
 - Found: 2026-07-01
 - Description: Main support page for Tourettes Action containing links to downloadable guides, factsheets on executive functioning, and community resources for task initiation.
+
+### Neurotherapeutics Tic Tracker App (Beta)
+
+- URL: https://play.google.com/store/apps/details?id=com.roubit&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette routine startup
+- Found: 2026-07-02
+- Description: A beta tic tracker app currently under development by Neurotherapeutics Ltd, designed for individuals with Tourette Syndrome to log and manage their tics and routines.
+
+### Tourette Association of America: Routine Tips
+
+- URL: https://tourette.org/about-tourette/adults-ticcing-public/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette routine startup
+- Found: 2026-07-02
+- Description: Resource page from the Tourette Association of America offering practical tips and strategies for managing daily routines and minimizing tic impacts in public settings.
+
+### Business Insider: Tourette Influencers and Tools
+
+- URL: https://www.businessinsider.com/tourette-syndrome-influencers-using-platform-to-educate-face-backlash-2020-2
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette routine startup
+- Found: 2026-07-02
+- Description: Article highlighting Tourette Syndrome influencers using social media platforms to educate and share tools for routine management and community support.
+
+### YouTube: Immersive App for Tourette Education
+
+- URL: https://www.youtube.com/watch?v=-fA3bOSRbeY
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette routine startup
+- Found: 2026-07-02
+- Description: Video showcasing an immersive Australian app designed to educate about Tourette Syndrome, including tools for routine planning and tic management.
+
+### Smart Reminder App - FOSS Open-source alternative
+
+- URL: https://fossunited.org/hack/fosshack25/p/rm03bfajfs
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette reminders open source
+- Found: 2026-07-02
+- Description: Open-source alternative to traditional reminder apps integrating location-based triggers and AI-powered smart reminders for context-aware task management.
+
+### Tourette Stimulator Project - GitHub
+
+- URL: https://github.com/EstebanValverde/Tourette-stimulator
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: Tourette reminders open source
+- Found: 2026-07-02
+- Description: GitHub repository for a bracelet stimulator designed for Tourette's patients, offering open-source development opportunities for neurodivergent support tools.
