@@ -458,3 +458,23 @@
 - Query: ADHD task initiation directory
 - Found: 2026-07-01
 - Description: Community-driven GitHub topic page aggregating open-source tools and repositories related to Tiimo and ADHD task initiation support.
+
+### coconuthead-Sentinel-core/sentinel-forge-personal-development
+
+- URL: https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development
+- Source: github-search
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD reminders open source
+- Found: 2026-07-04
+- Description: Accessible Windows reading & study workstation (dyslexia/ADHD/dysgraphia): neural read-aloud with follow-along highlights, offline Whisper voice dictation (Fast/Accurate/Best), book Library, and a tabbed Study workspace incl. Eisenhower matrix & Sunsama-style planner.
+
+### apl9000/agenda
+
+- URL: https://github.com/apl9000/agenda
+- Source: github-search
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD reminders open source
+- Found: 2026-07-04
+- Description: Agenda is an opinated MCP server for interacting with Apple's reminders and calendar apps.

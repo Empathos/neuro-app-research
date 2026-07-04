@@ -608,3 +608,13 @@
 - Query: ADHD overload directory
 - Found: 2026-07-01
 - Description: Therapist-authored article listing symptoms of ADHD sensory overload and providing a directory of calming techniques and professional support options.
+
+### ifilex/Freedows8Bit
+
+- URL: https://github.com/ifilex/Freedows8Bit
+- Source: github-search
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD environment planning open source
+- Found: 2026-07-04
+- Description: WineBOX: From technical emulator to cognitive tool. A low-fidelity digital environment that, through its simplicity, reduces sensory overload and trains executive functions in neurodivergent minds. Open source, science-backed. #Neurodiversity #AssistiveTech

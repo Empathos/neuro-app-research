@@ -609,3 +609,23 @@
 - Query: ADHD AAC directory
 - Found: 2026-07-01
 - Description: Blog post listing popular AAC devices that can teach and reinforce communication, relevant for support strategies in neurodivergent contexts.
+
+### Momen959/Dopa_Pal
+
+- URL: https://github.com/Momen959/Dopa_Pal
+- Source: github-search
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD speech support startup
+- Found: 2026-07-04
+- Description: An omnipresent, non-intrusive cognitive companion for the ADHD brain that transforms rigid task deadlines into anxiety-free, auto-sliced micro-blocks paced to your daily energy levels.
+
+### Data-Wise/craft
+
+- URL: https://github.com/Data-Wise/craft
+- Source: github-search
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support open source
+- Found: 2026-07-04
+- Description: Full-stack developer toolkit - 86 commands, 8 agents, 21 skills for code, git, docs, testing, architecture, CI/CD, and ADHD-friendly workflows. Claude Code plugin.
