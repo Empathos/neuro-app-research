@@ -456,3 +456,13 @@
 - Query: executive function overload directory
 - Found: 2026-07-01
 - Description: Digital toolkit featuring visual planners, reminder apps, and task-breakdown strategies tailored for neurodivergent individuals facing overload.
+
+### ifilex/Freedows8Bit
+
+- URL: https://github.com/ifilex/Freedows8Bit
+- Source: github-search
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive function environment planning open source
+- Found: 2026-07-04
+- Description: WineBOX: From technical emulator to cognitive tool. A low-fidelity digital environment that, through its simplicity, reduces sensory overload and trains executive functions in neurodivergent minds. Open source, science-backed. #Neurodiversity #AssistiveTech
