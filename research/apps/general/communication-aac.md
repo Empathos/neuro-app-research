@@ -638,3 +638,13 @@
 - Query: neurodivergent AAC directory
 - Found: 2026-07-01
 - Description: National resource offering no-strings access to counseling, therapy, and specialist equipment, including AAC adaptations for neurodivergent individuals.
+
+### vaibhav585/EduEase-ai-adaptive-assistant
+
+- URL: https://github.com/vaibhav585/EduEase-ai-adaptive-assistant
+- Source: github-search
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent speech support startup
+- Found: 2026-07-04
+- Description: ai-adaptive-assistant for neurodivergent learners

@@ -458,3 +458,13 @@
 - Query: neurodivergent task initiation directory
 - Found: 2026-07-01
 - Description: Documentation page outlining executive function strategies for task initiation and follow-through, designed for educators and parents of neurodivergent children.
+
+### ayanimea/aurorae-haven
+
+- URL: https://github.com/ayanimea/aurorae-haven
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-04
+- Description: Aurorae Haven is a calm, astro-themed productivity app for neurodivergent users. It supports routines, tasks, habits, notes, and stats with Markdown import/export, reminders, gamification, and strong security for local and mobile use.
