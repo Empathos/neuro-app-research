@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-07-01T10:59:36.044033+00:00
-- New findings: 74
-- Rejected dead links: 5
+- UTC timestamp: 2026-07-04T09:35:55.205670+00:00
+- New findings: 0
+- Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `dyspraxia communication support software`: 2 new finding(s), 0 rejected dead link(s)
-- `dyspraxia AAC directory`: 5 new finding(s), 0 rejected dead link(s)
+- `dyspraxia speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `dyspraxia planning software`: 5 new finding(s), 2 rejected dead link(s)
-- `dyspraxia task initiation directory`: 3 new finding(s), 0 rejected dead link(s)
+- `dyspraxia routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyspraxia sensory regulation software`: 6 new finding(s), 0 rejected dead link(s)
-- `dyspraxia overload directory`: 6 new finding(s), 0 rejected dead link(s)
+- `dyspraxia calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `dyspraxia student support software`: 4 new finding(s), 0 rejected dead link(s)
-- `dyspraxia learning support directory`: 5 new finding(s), 0 rejected dead link(s)
+- `dyspraxia reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyspraxia emotional regulation software`: 7 new finding(s), 0 rejected dead link(s)
-- `dyspraxia mood tracking directory`: 2 new finding(s), 0 rejected dead link(s)
+- `dyspraxia self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyspraxia daily living support software`: 0 new finding(s), 2 rejected dead link(s)
-- `dyspraxia independence directory`: 6 new finding(s), 0 rejected dead link(s)
+- `dyspraxia life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `coordination parent support tool`: 7 new finding(s), 0 rejected dead link(s)
-- `dyspraxia caregiver app software`: 4 new finding(s), 0 rejected dead link(s)
+- `dyspraxia clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyspraxia assistive technology software`: 5 new finding(s), 1 rejected dead link(s)
-- `dyspraxia accessibility directory`: 7 new finding(s), 0 rejected dead link(s)
+- `dyspraxia mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
