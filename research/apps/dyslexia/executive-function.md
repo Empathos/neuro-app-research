@@ -208,3 +208,13 @@
 - Query: dyslexia task initiation directory
 - Found: 2026-07-01
 - Description: Documentation and template guide for using Todoist to create customizable task initiation checklists adapted for students with dyslexia.
+
+### coconuthead-Sentinel-core/sentinel-forge-personal-development
+
+- URL: https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development
+- Source: github-search
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia reminders open source
+- Found: 2026-07-04
+- Description: Accessible Windows reading & study workstation (dyslexia/ADHD/dysgraphia): neural read-aloud with follow-along highlights, offline Whisper voice dictation (Fast/Accurate/Best), book Library, and a tabbed Study workspace incl. Eisenhower matrix & Sunsama-style planner.
