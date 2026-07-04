@@ -589,16 +589,6 @@
 - Found: 2026-07-01
 - Description: Directory of dyslexia and dyspraxia support resources in Tennessee, including contact information for centers offering learning disorder assessments.
 
-### Learning Disorder Programs in Nashville, TN - Brain Balance Centers
-
-- URL: https://www.brainbalancecenters.com/locations/tennessee/nashville/learning-disorders
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: education-learning
-- Query: dyspraxia learning support directory
-- Found: 2026-07-01
-- Description: Programs that help with dyslexia, dysgraphia, dyscalculia, and dyspraxia, offering tailored learning support for children with neurodevelopmental disorders.
-
 ### Dyspraxia: What It Is, Causes, Symptoms - Cleveland Clinic
 
 - URL: https://my.clevelandclinic.org/health/diseases/23963-dyspraxia-developmental-coordination-disorder-dcd
