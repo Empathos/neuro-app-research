@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: tourette
-- UTC timestamp: 2026-07-01T11:06:18.857705+00:00
-- New findings: 53
-- Rejected dead links: 12
+- UTC timestamp: 2026-07-04T09:38:48.720668+00:00
+- New findings: 0
+- Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `Tourette communication support software`: 1 new finding(s), 0 rejected dead link(s)
-- `Tourette AAC directory`: 3 new finding(s), 3 rejected dead link(s)
+- `Tourette speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `Tourette planning software`: 5 new finding(s), 0 rejected dead link(s)
-- `Tourette task initiation directory`: 2 new finding(s), 2 rejected dead link(s)
+- `Tourette routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `Tourette sensory regulation software`: 5 new finding(s), 0 rejected dead link(s)
-- `Tourette overload directory`: 3 new finding(s), 0 rejected dead link(s)
+- `Tourette calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `Tourette student support software`: 4 new finding(s), 3 rejected dead link(s)
-- `Tourette learning support directory`: 4 new finding(s), 0 rejected dead link(s)
+- `Tourette reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `Tourette emotional regulation software`: 5 new finding(s), 0 rejected dead link(s)
-- `Tourette mood tracking directory`: 3 new finding(s), 2 rejected dead link(s)
+- `Tourette self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `Tourette daily living support software`: 3 new finding(s), 0 rejected dead link(s)
-- `Tourette independence directory`: 5 new finding(s), 0 rejected dead link(s)
+- `Tourette life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `Tourette caregiver app software`: 3 new finding(s), 0 rejected dead link(s)
-- `Tourette clinician tool directory`: 3 new finding(s), 0 rejected dead link(s)
+- `Tourette therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `Tourette assistive technology software`: 2 new finding(s), 1 rejected dead link(s)
-- `Tourette accessibility directory`: 2 new finding(s), 1 rejected dead link(s)
+- `Tourette mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `Tourette adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
