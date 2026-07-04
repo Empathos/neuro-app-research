@@ -309,16 +309,6 @@
 - Found: 2026-06-29
 - Description: A mobile productivity tool featuring 'micro-task' initiation modes and dopamine-tracking graphs to help users overcome procrastination and start tasks easily.
 
-### Spark - ADHD & Autism Task Helper
-
-- URL: https://sparkapp.com/neurodivergent
-- Source: perplexity-sonar
-- Condition: general
-- Support category: executive-function
-- Query: accessibility task initiation mobile app
-- Found: 2026-06-29
-- Description: A mobile application that uses 'sprint' modes and external accountability features to help users with neurodivergence initiate and sustain task engagement.
-
 ### Android Accessibility Suite (TalkBack)
 
 - URL: https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=en_US
@@ -468,3 +458,13 @@
 - Query: neurodivergent task initiation directory
 - Found: 2026-07-01
 - Description: Documentation page outlining executive function strategies for task initiation and follow-through, designed for educators and parents of neurodivergent children.
+
+### ayanimea/aurorae-haven
+
+- URL: https://github.com/ayanimea/aurorae-haven
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-07-04
+- Description: Aurorae Haven is a calm, astro-themed productivity app for neurodivergent users. It supports routines, tasks, habits, notes, and stats with Markdown import/export, reminders, gamification, and strong security for local and mobile use.

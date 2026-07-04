@@ -578,3 +578,13 @@
 - Query: neurodivergent overload directory
 - Found: 2026-07-01
 - Description: A workplace guide and resource directory providing actionable tips for leaders to reduce overload for neurodivergent employees and learners.
+
+### ifilex/Freedows8Bit
+
+- URL: https://github.com/ifilex/Freedows8Bit
+- Source: github-search
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent environment planning open source
+- Found: 2026-07-04
+- Description: WineBOX: From technical emulator to cognitive tool. A low-fidelity digital environment that, through its simplicity, reduces sensory overload and trains executive functions in neurodivergent minds. Open source, science-backed. #Neurodiversity #AssistiveTech
