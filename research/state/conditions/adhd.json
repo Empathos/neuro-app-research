@@ -114,7 +114,23 @@
     "ADHD caregiver app software",
     "ADHD clinician tool directory",
     "ADHD assistive technology software",
-    "ADHD accessibility directory"
+    "ADHD accessibility directory",
+    "ADHD speech support startup",
+    "ADHD conversation support open source",
+    "ADHD routine startup",
+    "ADHD reminders open source",
+    "ADHD calming startup",
+    "ADHD environment planning open source",
+    "ADHD reading support startup",
+    "ADHD classroom open source",
+    "ADHD self regulation startup",
+    "ADHD coping skills open source",
+    "ADHD life skills startup",
+    "ADHD home routine open source",
+    "ADHD therapy support startup",
+    "ADHD parent support open source",
+    "ADHD mobile accessibility startup",
+    "ADHD adaptive tool open source"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -546,7 +562,12 @@
     "https://www.understood.org/en/articles/adhd-sensory-overload",
     "https://www.understood.org/en/podcasts/parenting-behavior/how-tech-can-help-with-your-childs-adhd",
     "https://www.webmd.com/add-adhd/childhood-adhd/assistive-technology-adhd",
-    "https://www.youtube.com/watch?v=0777OhJn4Bc"
+    "https://www.youtube.com/watch?v=0777OhJn4Bc",
+    "https://github.com/Data-Wise/craft",
+    "https://github.com/Momen959/Dopa_Pal",
+    "https://github.com/apl9000/agenda",
+    "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
+    "https://github.com/ifilex/Freedows8Bit"
   ],
-  "updated_at": "2026-07-01T10:53:15.846688+00:00"
+  "updated_at": "2026-07-04T09:32:37.505645+00:00"
 }
