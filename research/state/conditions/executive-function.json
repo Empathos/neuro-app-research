@@ -130,7 +130,23 @@
     "executive function therapy support startup",
     "executive function parent support open source",
     "executive function mobile accessibility startup",
-    "executive function adaptive tool open source"
+    "executive function adaptive tool open source",
+    "routine communication support app",
+    "routine AAC mobile app",
+    "routine planning app",
+    "routine task initiation mobile app",
+    "routine sensory regulation app",
+    "routine overload mobile app",
+    "routine student support app",
+    "routine learning support mobile app",
+    "routine emotional regulation app",
+    "routine mood tracking mobile app",
+    "routine daily living support app",
+    "routine independence mobile app",
+    "routine caregiver app",
+    "routine clinician tool mobile app",
+    "routine assistive technology app",
+    "routine accessibility mobile app"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -455,7 +471,11 @@
     "https://www.twbtraining.com/assistive-technology/read-and-write",
     "https://www.youtube.com/watch?v=Y9KWJcOz5tA",
     "https://www.youtube.com/watch?v=g7d8mJoYtdI",
-    "https://github.com/ifilex/Freedows8Bit"
+    "https://github.com/ifilex/Freedows8Bit",
+    "https://github.com/Iris408/bloom-app",
+    "https://github.com/Stayuptildawn/routine-tracker",
+    "https://github.com/jiwoo7/subtlesense",
+    "https://github.com/ranfysvalle02/famjam"
   ],
-  "updated_at": "2026-07-04T09:41:52.187247+00:00"
+  "updated_at": "2026-07-05T09:58:13.868881+00:00"
 }
