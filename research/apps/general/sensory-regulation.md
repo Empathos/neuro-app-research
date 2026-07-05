@@ -588,3 +588,13 @@
 - Query: neurodivergent environment planning open source
 - Found: 2026-07-04
 - Description: WineBOX: From technical emulator to cognitive tool. A low-fidelity digital environment that, through its simplicity, reduces sensory overload and trains executive functions in neurodivergent minds. Open source, science-backed. #Neurodiversity #AssistiveTech
+
+### expert530/my-spectrum
+
+- URL: https://github.com/expert530/my-spectrum
+- Source: github-search
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodiversity sensory regulation app
+- Found: 2026-07-05
+- Description: A tool to help understand your Neurodiversity Profile
