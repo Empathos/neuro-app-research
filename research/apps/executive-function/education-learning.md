@@ -408,3 +408,13 @@
 - Query: executive function learning support directory
 - Found: 2026-07-01
 - Description: A guide for educators explaining the fundamentals of executive function, how to understand student needs, and practical methods to support productive, organized learning in neurodivergent students.
+
+### jiwoo7/subtlesense
+
+- URL: https://github.com/jiwoo7/subtlesense
+- Source: github-search
+- Condition: executive-function
+- Support category: education-learning
+- Query: routine learning support mobile app
+- Found: 2026-07-05
+- Description: SubtleSense is an AI-powered emotion detection platform designed to uncover the feelings people dont express out loud. Using advanced computer vision and machine learning, the app analyzes facial expressions from live webcam or video input to detect hidden, suppressed, and micro-emotions that are often missed in everyday interactions.

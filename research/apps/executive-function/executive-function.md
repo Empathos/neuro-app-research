@@ -418,3 +418,33 @@
 - Query: executive function task initiation directory
 - Found: 2026-07-01
 - Description: A collection of downloadable educational charts and tools designed to guide students through the planning and initiating steps of executive functioning tasks in classroom and home settings.
+
+### Stayuptildawn/routine-tracker
+
+- URL: https://github.com/Stayuptildawn/routine-tracker
+- Source: github-search
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning app
+- Found: 2026-07-05
+- Description: A routine tracker that works with your brain, whatever it's like. Just write "took my meds" and it ticks the box for you. Free, no subscription.
+
+### Iris408/bloom-app
+
+- URL: https://github.com/Iris408/bloom-app
+- Source: github-search
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning app
+- Found: 2026-07-05
+- Description: Neurodivergent-friendly visual routine builder built with React, Vite, Tailwind CSS, and accessibility-focused design.
+
+### ranfysvalle02/famjam
+
+- URL: https://github.com/ranfysvalle02/famjam
+- Source: github-search
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine task initiation mobile app
+- Found: 2026-07-05
+- Description: a family chore and habit management platform with user authentication, task assignment, reward tracking, mood logging, and event calendars. Parents can register, invite children, create tasks or repeating chores, approve completed tasks for points, and manage a quarterly FamJam plan.

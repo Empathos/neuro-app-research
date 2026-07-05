@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-07-04T09:41:52.187247+00:00
-- New findings: 1
+- UTC timestamp: 2026-07-05T09:58:13.868881+00:00
+- New findings: 4
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `executive function speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `routine communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `executive function routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `routine planning app`: 2 new finding(s), 0 rejected dead link(s)
+- `routine task initiation mobile app`: 1 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `executive function calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function environment planning open source`: 1 new finding(s), 0 rejected dead link(s)
+- `routine sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `executive function reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `routine student support app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine learning support mobile app`: 1 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `executive function self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `routine emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `executive function life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `routine daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `executive function therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `routine caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `executive function mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `routine assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
