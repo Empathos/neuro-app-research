@@ -158,3 +158,13 @@
 - Query: dyslexia learning support directory
 - Found: 2026-07-01
 - Description: Repository from the Children's Dyslexia Centers network offering definitions, support tools, and links to centers providing specialized dyslexia learning support.
+
+### SiriMudaddla/Neuro-Assistant
+
+- URL: https://github.com/SiriMudaddla/Neuro-Assistant
+- Source: github-search
+- Condition: dyslexia
+- Support category: education-learning
+- Query: reading support student support app
+- Found: 2026-07-05
+- Description: AI for Learning Disabilities - An educational assistant for students with dyslexia or ADHD.
