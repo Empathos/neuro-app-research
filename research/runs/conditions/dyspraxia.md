@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-07-04T09:35:55.205670+00:00
-- New findings: 0
+- UTC timestamp: 2026-07-05T09:51:28.477300+00:00
+- New findings: 1
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `dyspraxia speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `dyspraxia routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyspraxia calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `dyspraxia reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning student support app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyspraxia self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning mood tracking mobile app`: 1 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyspraxia life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyspraxia clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning caregiver app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyspraxia mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
