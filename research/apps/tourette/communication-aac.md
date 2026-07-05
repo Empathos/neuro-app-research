@@ -578,3 +578,13 @@
 - Query: Tourette AAC directory
 - Found: 2026-07-01
 - Description: Community forum for individuals using AAC tools for Tourette Syndrome, offering discussions on app recommendations, troubleshooting, and sharing experiences with communication aids.
+
+### turnerworks/inclusiveflow-ai
+
+- URL: https://github.com/turnerworks/inclusiveflow-ai
+- Source: github-search
+- Condition: tourette
+- Support category: communication-aac
+- Query: tic tracking communication support app
+- Found: 2026-07-05
+- Description: A disability-friendly AI communication tool for neurodivergent individuals. Transform messy, unfiltered thoughts into professional, structured communication.
