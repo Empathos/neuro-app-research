@@ -528,3 +528,13 @@
 - Query: sensory processing learning support directory
 - Found: 2026-07-01
 - Description: Organization providing sensory play resources, workshops, and consultations tailored for children with sensory challenges in learning environments.
+
+### NandhiniRK/ACCESSEZY
+
+- URL: https://github.com/NandhiniRK/ACCESSEZY
+- Source: github-search
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation learning support mobile app
+- Found: 2026-07-05
+- Description: Final year project- Learning and Analytics dashboard for neurodivergent children
