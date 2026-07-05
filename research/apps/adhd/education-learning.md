@@ -738,3 +738,13 @@
 - Query: ADHD learning support directory
 - Found: 2026-07-01
 - Description: Directory of ADHD group therapy and support groups in Austin, TX, including professionals specializing in learning support for neurodivergent individuals.
+
+### CV17-09/Instruction-Simplifier-for-Neurodivergent-Students
+
+- URL: https://github.com/CV17-09/Instruction-Simplifier-for-Neurodivergent-Students
+- Source: github-search
+- Condition: adhd
+- Support category: education-learning
+- Query: executive function student support app
+- Found: 2026-07-05
+- Description: An accessibility-first web app that transforms dense school instructions (syllabi, assignment prompts, rubric text, emails) into clear, manageable, neurodivergent-friendly formats: plain-language summaries, step-by-step checklists, do this first starters, and time/break plans.
