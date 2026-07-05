@@ -398,3 +398,13 @@
 - Query: dyspraxia mood tracking directory
 - Found: 2026-07-01
 - Description: A highly visual, tap-based mood and activity tracker that helps users log feelings throughout the day, visualize emotional patterns, and track habits and goals with minimal typing.
+
+### darkcosm/pumcutie-daily-diary
+
+- URL: https://github.com/darkcosm/pumcutie-daily-diary
+- Source: github-search
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: motor planning mood tracking mobile app
+- Found: 2026-07-05
+- Description: Neurodivergent-friendly daily diary with local storage - gentle planning for kids, teens, and ND folk
