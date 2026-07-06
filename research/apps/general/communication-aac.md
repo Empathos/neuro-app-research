@@ -648,3 +648,13 @@
 - Query: neurodivergent speech support startup
 - Found: 2026-07-04
 - Description: ai-adaptive-assistant for neurodivergent learners
+
+### Alkhadi/neurobreath-platform
+
+- URL: https://github.com/Alkhadi/neurobreath-platform
+- Source: github-search
+- Condition: general
+- Support category: communication-aac
+- Query: neurodiversity speech support iOS Android
+- Found: 2026-07-06
+- Description: NeuroBreath: neurodiversity-affirming wellbeing + learning platform (web-first) with evidence-informed tools, structured practice, ethical gamification, progress dashboards, and supporter resources. Includes Focus Garden productivity module. Supportive tools, not medical care.
