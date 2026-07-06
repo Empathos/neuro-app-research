@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-07-05T09:51:28.477300+00:00
-- New findings: 1
+- UTC timestamp: 2026-07-06T11:39:57.063830+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `motor planning communication support app`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `motor planning planning app`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning reminders tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `motor planning sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `motor planning student support app`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `motor planning emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning mood tracking mobile app`: 1 new finding(s), 0 rejected dead link(s)
+- `motor planning self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `motor planning daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyspraxia parent support open source`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `motor planning assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `motor planning accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `motor planning adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
