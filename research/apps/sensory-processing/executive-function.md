@@ -448,3 +448,13 @@
 - Query: sensory processing task initiation directory
 - Found: 2026-07-01
 - Description: Visual guide highlighting practical tools like body doubling, sound cues, and movement prompts to help neurodivergent children start tasks more effectively.
+
+### jennatnguyen/mindfull-GirlHacks2025
+
+- URL: https://github.com/jennatnguyen/mindfull-GirlHacks2025
+- Source: github-search
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory regulation routine iOS Android
+- Found: 2026-07-06
+- Description: Mindfull is a life-assistant app designed for neurodivergent needs, helping reduce stress around daily routines. It combines a meal planner that generates tailored grocery lists and a medication reminder that requires photo confirmation with a alarm, ensuring accountability in a simple, easy-to-use way.

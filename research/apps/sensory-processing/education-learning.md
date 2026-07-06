@@ -538,3 +538,13 @@
 - Query: sensory regulation learning support mobile app
 - Found: 2026-07-05
 - Description: Final year project- Learning and Analytics dashboard for neurodivergent children
+
+### boktoday/neuroclassroom-agent-ecosystem
+
+- URL: https://github.com/boktoday/neuroclassroom-agent-ecosystem
+- Source: github-search
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory regulation classroom tool
+- Found: 2026-07-06
+- Description: Multi-agent AI system for neuro-affirming classrooms - orchestrator model with sensory, lesson chunking, communication agents
