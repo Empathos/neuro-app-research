@@ -146,7 +146,23 @@
     "tic tracking caregiver app",
     "tic tracking clinician tool mobile app",
     "tic tracking assistive technology app",
-    "tic tracking accessibility mobile app"
+    "tic tracking accessibility mobile app",
+    "tic tracking speech support iOS Android",
+    "tic tracking conversation support tool",
+    "tic tracking routine iOS Android",
+    "tic tracking reminders tool",
+    "tic tracking calming iOS Android",
+    "tic tracking environment planning tool",
+    "tic tracking reading support iOS Android",
+    "tic tracking classroom tool",
+    "tic tracking self regulation iOS Android",
+    "tic tracking coping skills tool",
+    "tic tracking life skills iOS Android",
+    "tic tracking home routine tool",
+    "tic tracking therapy support iOS Android",
+    "tic tracking parent support tool",
+    "tic tracking mobile accessibility iOS Android",
+    "tic tracking adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -512,5 +528,5 @@
     "https://www.youtube.com/watch?v=Z0aAm4FaS1Y",
     "https://github.com/turnerworks/inclusiveflow-ai"
   ],
-  "updated_at": "2026-07-05T09:54:53.708762+00:00"
+  "updated_at": "2026-07-06T11:42:54.760112+00:00"
 }
