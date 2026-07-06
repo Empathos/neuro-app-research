@@ -368,3 +368,13 @@
 - Query: neurodivergent learning support directory
 - Found: 2026-07-01
 - Description: Directory of therapists, coaches, and occupational practitioners committed to neurodivergent-affirming learning practices and support.
+
+### philipobrien-sdm/Teachers-Aid
+
+- URL: https://github.com/philipobrien-sdm/Teachers-Aid
+- Source: github-search
+- Condition: general
+- Support category: education-learning
+- Query: neurodiversity classroom tool
+- Found: 2026-07-06
+- Description: A teachers tool to help communicate across language and cultural hurdles with children.
