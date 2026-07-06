@@ -146,7 +146,23 @@
     "reading support caregiver app",
     "reading support clinician tool mobile app",
     "reading support assistive technology app",
-    "reading support accessibility mobile app"
+    "reading support accessibility mobile app",
+    "reading support speech support iOS Android",
+    "reading support conversation support tool",
+    "reading support routine iOS Android",
+    "reading support reminders tool",
+    "reading support calming iOS Android",
+    "reading support environment planning tool",
+    "reading support reading support iOS Android",
+    "reading support classroom tool",
+    "reading support self regulation iOS Android",
+    "reading support coping skills tool",
+    "reading support life skills iOS Android",
+    "reading support home routine tool",
+    "reading support therapy support iOS Android",
+    "reading support parent support tool",
+    "reading support mobile accessibility iOS Android",
+    "reading support adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -546,5 +562,5 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/SiriMudaddla/Neuro-Assistant"
   ],
-  "updated_at": "2026-07-05T09:51:28.847463+00:00"
+  "updated_at": "2026-07-06T11:39:48.577882+00:00"
 }
