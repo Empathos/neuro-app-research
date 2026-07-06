@@ -537,3 +537,13 @@
 - Query: executive function AAC directory
 - Found: 2026-07-01
 - Description: Executive Function and AAC Connections  Planning. Simple Instructions  Time Management. Time concepts; Follows Visual Schedule  Task Initiation.
+
+### martijnzuiderbaan/high-complexity-contribution-tool
+
+- URL: https://github.com/martijnzuiderbaan/high-complexity-contribution-tool
+- Source: github-search
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine conversation support tool
+- Found: 2026-07-06
+- Description: Private-beta static and Markdown package for the High-Complexity Contribution Tool

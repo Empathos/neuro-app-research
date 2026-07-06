@@ -146,7 +146,23 @@
     "routine caregiver app",
     "routine clinician tool mobile app",
     "routine assistive technology app",
-    "routine accessibility mobile app"
+    "routine accessibility mobile app",
+    "routine speech support iOS Android",
+    "routine conversation support tool",
+    "routine routine iOS Android",
+    "routine reminders tool",
+    "routine calming iOS Android",
+    "routine environment planning tool",
+    "routine reading support iOS Android",
+    "routine classroom tool",
+    "routine self regulation iOS Android",
+    "routine coping skills tool",
+    "routine life skills iOS Android",
+    "routine home routine tool",
+    "routine therapy support iOS Android",
+    "routine parent support tool",
+    "routine mobile accessibility iOS Android",
+    "routine adaptive tool"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -475,7 +491,8 @@
     "https://github.com/Iris408/bloom-app",
     "https://github.com/Stayuptildawn/routine-tracker",
     "https://github.com/jiwoo7/subtlesense",
-    "https://github.com/ranfysvalle02/famjam"
+    "https://github.com/ranfysvalle02/famjam",
+    "https://github.com/martijnzuiderbaan/high-complexity-contribution-tool"
   ],
-  "updated_at": "2026-07-05T09:58:13.868881+00:00"
+  "updated_at": "2026-07-06T11:46:19.409587+00:00"
 }
