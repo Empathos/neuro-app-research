@@ -146,7 +146,23 @@
     "sensory regulation caregiver app",
     "sensory regulation clinician tool mobile app",
     "sensory regulation assistive technology app",
-    "sensory regulation accessibility mobile app"
+    "sensory regulation accessibility mobile app",
+    "sensory regulation speech support iOS Android",
+    "sensory regulation conversation support tool",
+    "sensory regulation routine iOS Android",
+    "sensory regulation reminders tool",
+    "sensory regulation calming iOS Android",
+    "sensory regulation environment planning tool",
+    "sensory regulation reading support iOS Android",
+    "sensory regulation classroom tool",
+    "sensory regulation self regulation iOS Android",
+    "sensory regulation coping skills tool",
+    "sensory regulation life skills iOS Android",
+    "sensory regulation home routine tool",
+    "sensory regulation therapy support iOS Android",
+    "sensory regulation parent support tool",
+    "sensory regulation mobile accessibility iOS Android",
+    "sensory regulation adaptive tool"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -487,7 +503,9 @@
     "https://www.understood.org/en/articles/classroom-accommodations-for-sensory-processing-challenges",
     "https://www.yourtherapysource.com/blog1/2026/03/13/sensory-seeking-behavior/",
     "https://www.youtube.com/watch?v=Q8uxjYftSAA",
-    "https://github.com/NandhiniRK/ACCESSEZY"
+    "https://github.com/NandhiniRK/ACCESSEZY",
+    "https://github.com/boktoday/neuroclassroom-agent-ecosystem",
+    "https://github.com/jennatnguyen/mindfull-GirlHacks2025"
   ],
-  "updated_at": "2026-07-05T09:55:00.783265+00:00"
+  "updated_at": "2026-07-06T11:43:06.968631+00:00"
 }
