@@ -448,3 +448,13 @@
 - Query: executive function mood tracking directory
 - Found: 2026-07-01
 - Description: Official website for MindMeister, a mind-mapping tool that users often employ to visually organize thoughts, track mood patterns, and manage executive function tasks.
+
+### biancakhambatta/focuslink-adhd-habit-app
+
+- URL: https://github.com/biancakhambatta/focuslink-adhd-habit-app
+- Source: github-search
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: task initiation mood tracking directory
+- Found: 2026-07-07
+- Description: AI powered ADHD habit tracking app built with React Native, Firebase and OpenAI GPT. Final year capstone project. Grade: A+
