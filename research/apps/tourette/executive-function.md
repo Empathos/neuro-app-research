@@ -688,3 +688,13 @@
 - Query: Tourette task initiation directory
 - Found: 2026-07-01
 - Description: Main support page for Tourettes Action containing links to downloadable guides, factsheets on executive functioning, and community resources for task initiation.
+
+### biancakhambatta/focuslink-adhd-habit-app
+
+- URL: https://github.com/biancakhambatta/focuslink-adhd-habit-app
+- Source: github-search
+- Condition: tourette
+- Support category: executive-function
+- Query: habit awareness task initiation directory
+- Found: 2026-07-07
+- Description: AI powered ADHD habit tracking app built with React Native, Firebase and OpenAI GPT. Final year capstone project. Grade: A+
