@@ -478,3 +478,13 @@
 - Query: ADHD reminders open source
 - Found: 2026-07-04
 - Description: Agenda is an opinated MCP server for interacting with Apple's reminders and calendar apps.
+
+### biancakhambatta/focuslink-adhd-habit-app
+
+- URL: https://github.com/biancakhambatta/focuslink-adhd-habit-app
+- Source: github-search
+- Condition: adhd
+- Support category: executive-function
+- Query: focus task initiation directory
+- Found: 2026-07-07
+- Description: AI powered ADHD habit tracking app built with React Native, Firebase and OpenAI GPT. Final year capstone project. Grade: A+
