@@ -488,3 +488,13 @@
 - Query: Tourette learning support directory
 - Found: 2026-07-01
 - Description: Directory of local and online support groups, including Usenet newsgroups and web-based bulletin boards for Tourette's Disorder and related learning support.
+
+### xdelin/awesome-agent4edu
+
+- URL: https://github.com/xdelin/awesome-agent4edu
+- Source: github-search
+- Condition: tourette
+- Support category: education-learning
+- Query: habit awareness student support software
+- Found: 2026-07-07
+- Description: Awesome Agent4Edu: The ultimate collection of Educational AI Agents, MCP Servers, Claude Skills & LLM Apps for students and researchers.
