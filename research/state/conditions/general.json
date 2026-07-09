@@ -178,7 +178,23 @@
     "accessibility caregiver app software",
     "accessibility clinician tool directory",
     "accessibility assistive technology software",
-    "accessibility accessibility directory"
+    "accessibility accessibility directory",
+    "accessibility speech support startup",
+    "accessibility conversation support open source",
+    "accessibility routine startup",
+    "accessibility reminders open source",
+    "accessibility calming startup",
+    "accessibility environment planning open source",
+    "accessibility reading support startup",
+    "accessibility classroom open source",
+    "accessibility self regulation startup",
+    "accessibility coping skills open source",
+    "accessibility life skills startup",
+    "accessibility home routine open source",
+    "accessibility therapy support startup",
+    "accessibility parent support open source",
+    "accessibility mobile accessibility startup",
+    "accessibility adaptive tool open source"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -554,7 +570,8 @@
     "https://github.com/expert530/my-spectrum",
     "https://github.com/Alkhadi/neurobreath-platform",
     "https://github.com/philipobrien-sdm/Teachers-Aid",
-    "https://github.com/lukeslp/awesome-accessibility"
+    "https://github.com/lukeslp/awesome-accessibility",
+    "https://github.com/adiseshvsanklapur/AccessMapAI"
   ],
-  "updated_at": "2026-07-07T10:43:56.955933+00:00"
+  "updated_at": "2026-07-09T08:17:43.377913+00:00"
 }
