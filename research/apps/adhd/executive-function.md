@@ -488,3 +488,13 @@
 - Query: focus task initiation directory
 - Found: 2026-07-07
 - Description: AI powered ADHD habit tracking app built with React Native, Firebase and OpenAI GPT. Final year capstone project. Grade: A+
+
+### intrepid-falcon/ATLAS--Student-Study-and-Life-Assistant
+
+- URL: https://github.com/intrepid-falcon/ATLAS--Student-Study-and-Life-Assistant
+- Source: github-search
+- Condition: adhd
+- Support category: executive-function
+- Query: focus reminders open source
+- Found: 2026-07-09
+- Description: A multi-agent personal operations system that plans your day, manages your commitments, and protects your focus. Built with Google's Agent Development Kit (ADK), Antigravity, and the Model Context Protocol (MCP).
