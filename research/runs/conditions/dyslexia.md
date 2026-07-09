@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-07-07T10:37:07.654432+00:00
+- UTC timestamp: 2026-07-09T08:07:23.584556+00:00
 - New findings: 0
 - Rejected dead links: 1
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `text to speech communication support software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech AAC directory`: 0 new finding(s), 1 rejected dead link(s)
+- `text to speech speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `text to speech planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `text to speech sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `text to speech student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `text to speech emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech coping skills open source`: 0 new finding(s), 1 rejected dead link(s)
 
 ### daily-living
 
-- `text to speech daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `text to speech caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `text to speech assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
