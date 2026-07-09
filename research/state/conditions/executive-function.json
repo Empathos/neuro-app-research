@@ -178,7 +178,23 @@
     "task initiation caregiver app software",
     "task initiation clinician tool directory",
     "task initiation assistive technology software",
-    "task initiation accessibility directory"
+    "task initiation accessibility directory",
+    "task initiation speech support startup",
+    "task initiation conversation support open source",
+    "task initiation routine startup",
+    "task initiation reminders open source",
+    "task initiation calming startup",
+    "task initiation environment planning open source",
+    "task initiation reading support startup",
+    "task initiation classroom open source",
+    "task initiation self regulation startup",
+    "task initiation coping skills open source",
+    "task initiation life skills startup",
+    "task initiation home routine open source",
+    "task initiation therapy support startup",
+    "task initiation parent support open source",
+    "task initiation mobile accessibility startup",
+    "task initiation adaptive tool open source"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -511,5 +527,5 @@
     "https://github.com/martijnzuiderbaan/high-complexity-contribution-tool",
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app"
   ],
-  "updated_at": "2026-07-07T10:43:51.700354+00:00"
+  "updated_at": "2026-07-09T08:14:00.186210+00:00"
 }
