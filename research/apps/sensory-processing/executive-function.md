@@ -458,3 +458,13 @@
 - Query: sensory regulation routine iOS Android
 - Found: 2026-07-06
 - Description: Mindfull is a life-assistant app designed for neurodivergent needs, helping reduce stress around daily routines. It combines a meal planner that generates tailored grocery lists and a medication reminder that requires photo confirmation with a alarm, ensuring accountability in a simple, easy-to-use way.
+
+### FeyaBloom/Magic-Snooze
+
+- URL: https://github.com/FeyaBloom/Magic-Snooze
+- Source: github-search
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload reminders open source
+- Found: 2026-07-09
+- Description: A productivity app that built around recovery. Real life has dips - low-energy days, executive dysfunction, burnout, emotional overload. Those moments shouldnt erase your progress or force you to start from zero. Consistency shouldnt collapse because you needed rest. Magic Snooze protects your continuity - even when you cant show up.
