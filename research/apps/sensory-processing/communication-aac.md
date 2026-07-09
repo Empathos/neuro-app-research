@@ -538,3 +538,13 @@
 - Query: sensory processing AAC directory
 - Found: 2026-07-01
 - Description: Presentation highlighting the use of speech-generating devices to supplement verbal communication for individuals with sensory processing disorder and neurodivergence.
+
+### tmneld/Noversa-AI
+
+- URL: https://github.com/tmneld/Noversa-AI
+- Source: github-search
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: overload conversation support open source
+- Found: 2026-07-09
+- Description: Conversational AI platform for PDF tools, LaTeX editing, and document productivity.

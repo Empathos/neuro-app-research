@@ -178,7 +178,23 @@
     "overload caregiver app software",
     "overload clinician tool directory",
     "overload assistive technology software",
-    "overload accessibility directory"
+    "overload accessibility directory",
+    "overload speech support startup",
+    "overload conversation support open source",
+    "overload routine startup",
+    "overload reminders open source",
+    "overload calming startup",
+    "overload environment planning open source",
+    "overload reading support startup",
+    "overload classroom open source",
+    "overload self regulation startup",
+    "overload coping skills open source",
+    "overload life skills startup",
+    "overload home routine open source",
+    "overload therapy support startup",
+    "overload parent support open source",
+    "overload mobile accessibility startup",
+    "overload adaptive tool open source"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -523,7 +539,9 @@
     "https://github.com/boktoday/neuroclassroom-agent-ecosystem",
     "https://github.com/jennatnguyen/mindfull-GirlHacks2025",
     "https://github.com/FolatheDuckofDuckingburg/Noggin",
-    "https://github.com/Vania1021/focusflow-main"
+    "https://github.com/Vania1021/focusflow-main",
+    "https://github.com/FeyaBloom/Magic-Snooze",
+    "https://github.com/tmneld/Noversa-AI"
   ],
-  "updated_at": "2026-07-07T10:40:22.191037+00:00"
+  "updated_at": "2026-07-09T08:10:38.449317+00:00"
 }
