@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-07-09T08:17:43.377913+00:00
-- New findings: 1
+- UTC timestamp: 2026-07-09T10:43:43.034417+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `accessibility speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general communication-aac neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general communication-aac neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `accessibility routine startup`: 1 new finding(s), 0 rejected dead link(s)
-- `accessibility reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general executive-function neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general executive-function neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `accessibility calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general sensory-regulation neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general sensory-regulation neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `accessibility reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general education-learning neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general education-learning neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `accessibility self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general emotional-regulation neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general emotional-regulation neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `accessibility life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general daily-living neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general daily-living neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `accessibility therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general caregiver-clinician neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general caregiver-clinician neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `accessibility mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `general accessibility-assistive-tech neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `general accessibility-assistive-tech neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
