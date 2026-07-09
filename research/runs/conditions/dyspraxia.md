@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-07-09T08:07:26.310364+00:00
+- UTC timestamp: 2026-07-09T10:36:36.147322+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `coordination speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia communication-aac neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia communication-aac neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `coordination routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia executive-function neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia executive-function neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `coordination calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia sensory-regulation neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia sensory-regulation neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `coordination reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia education-learning neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia education-learning neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `coordination self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia emotional-regulation neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia emotional-regulation neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `coordination life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia daily-living neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia daily-living neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `coordination clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `coordination mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia accessibility-assistive-tech neurodivergent app research pass 193`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia accessibility-assistive-tech neurodivergent app research pass 194`: 0 new finding(s), 0 rejected dead link(s)
 
