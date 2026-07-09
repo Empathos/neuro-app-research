@@ -178,7 +178,23 @@
     "focus caregiver app software",
     "focus clinician tool directory",
     "focus assistive technology software",
-    "focus accessibility directory"
+    "focus accessibility directory",
+    "focus speech support startup",
+    "focus conversation support open source",
+    "focus routine startup",
+    "focus reminders open source",
+    "focus calming startup",
+    "focus environment planning open source",
+    "focus reading support startup",
+    "focus classroom open source",
+    "focus self regulation startup",
+    "focus coping skills open source",
+    "focus life skills startup",
+    "focus home routine open source",
+    "focus therapy support startup",
+    "focus parent support open source",
+    "focus mobile accessibility startup",
+    "focus adaptive tool open source"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -617,7 +633,8 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/ifilex/Freedows8Bit",
     "https://github.com/CV17-09/Instruction-Simplifier-for-Neurodivergent-Students",
-    "https://github.com/biancakhambatta/focuslink-adhd-habit-app"
+    "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
+    "https://github.com/intrepid-falcon/ATLAS--Student-Study-and-Life-Assistant"
   ],
-  "updated_at": "2026-07-07T10:33:37.809980+00:00"
+  "updated_at": "2026-07-09T08:03:43.386054+00:00"
 }
