@@ -389,16 +389,6 @@
 - Found: 2026-06-29
 - Description: A leading AAC application noted by speech therapists for effectively supporting nonverbal children, with planning features to customize communication needs and progress tracking.
 
-### TD Snap - Official App Page
-
-- URL: https://tdsnap.com/apps/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: executive-function
-- Query: AAC planning app
-- Found: 2026-06-29
-- Description: Official documentation for TD Snap, an AAC app designed for planning and executing personalized communication interventions for neurodivergent individuals.
-
 ### AAC Conference: Modeling and Implementation Plan
 
 - URL: https://presenters.aacconference.com/videos/UVRjMFFUSXk=
