@@ -468,3 +468,13 @@
 - Query: neurodivergent reminders open source
 - Found: 2026-07-04
 - Description: Aurorae Haven is a calm, astro-themed productivity app for neurodivergent users. It supports routines, tasks, habits, notes, and stats with Markdown import/export, reminders, gamification, and strong security for local and mobile use.
+
+### adiseshvsanklapur/AccessMapAI
+
+- URL: https://github.com/adiseshvsanklapur/AccessMapAI
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: accessibility routine startup
+- Found: 2026-07-09
+- Description: A multimodal AI accessibility intelligence platform that builds a dynamic digital twin of urban/campus accessibility for different physical and cognitive needs.

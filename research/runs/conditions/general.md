@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-07-07T10:43:56.955933+00:00
+- UTC timestamp: 2026-07-09T08:17:43.377913+00:00
 - New findings: 1
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `accessibility communication support software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility AAC directory`: 1 new finding(s), 0 rejected dead link(s)
+- `accessibility speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `accessibility planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility routine startup`: 1 new finding(s), 0 rejected dead link(s)
+- `accessibility reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `accessibility sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `accessibility student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `accessibility emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `accessibility daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `accessibility caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `accessibility assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `accessibility accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
