@@ -242,7 +242,23 @@
     "tourette caregiver-clinician neurodivergent app research pass 225",
     "tourette caregiver-clinician neurodivergent app research pass 226",
     "tourette accessibility-assistive-tech neurodivergent app research pass 225",
-    "tourette accessibility-assistive-tech neurodivergent app research pass 226"
+    "tourette accessibility-assistive-tech neurodivergent app research pass 226",
+    "tourette communication-aac neurodivergent app research pass 241",
+    "tourette communication-aac neurodivergent app research pass 242",
+    "tourette executive-function neurodivergent app research pass 241",
+    "tourette executive-function neurodivergent app research pass 242",
+    "tourette sensory-regulation neurodivergent app research pass 241",
+    "tourette sensory-regulation neurodivergent app research pass 242",
+    "tourette education-learning neurodivergent app research pass 241",
+    "tourette education-learning neurodivergent app research pass 242",
+    "tourette emotional-regulation neurodivergent app research pass 241",
+    "tourette emotional-regulation neurodivergent app research pass 242",
+    "tourette daily-living neurodivergent app research pass 241",
+    "tourette daily-living neurodivergent app research pass 242",
+    "tourette caregiver-clinician neurodivergent app research pass 241",
+    "tourette caregiver-clinician neurodivergent app research pass 242",
+    "tourette accessibility-assistive-tech neurodivergent app research pass 241",
+    "tourette accessibility-assistive-tech neurodivergent app research pass 242"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -610,5 +626,5 @@
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/xdelin/awesome-agent4edu"
   ],
-  "updated_at": "2026-07-11T09:07:59.349507+00:00"
+  "updated_at": "2026-07-12T09:26:32.299256+00:00"
 }
