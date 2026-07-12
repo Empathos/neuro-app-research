@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-07-11T09:04:37.375990+00:00
+- UTC timestamp: 2026-07-12T09:23:12.541400+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `dyslexia communication-aac neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia communication-aac neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia communication-aac neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia communication-aac neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `dyslexia executive-function neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia executive-function neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia executive-function neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia executive-function neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyslexia sensory-regulation neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia sensory-regulation neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia sensory-regulation neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia sensory-regulation neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `dyslexia education-learning neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia education-learning neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia education-learning neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia education-learning neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyslexia emotional-regulation neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia emotional-regulation neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia emotional-regulation neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia emotional-regulation neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyslexia daily-living neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia daily-living neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia daily-living neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia daily-living neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyslexia caregiver-clinician neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia caregiver-clinician neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia caregiver-clinician neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia caregiver-clinician neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyslexia accessibility-assistive-tech neurodivergent app research pass 225`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia accessibility-assistive-tech neurodivergent app research pass 226`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia accessibility-assistive-tech neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia accessibility-assistive-tech neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
 
