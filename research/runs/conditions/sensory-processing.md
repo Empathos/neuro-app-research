@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-07-12T09:26:39.391156+00:00
+- UTC timestamp: 2026-07-13T10:43:15.531368+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `sensory-processing communication-aac neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing communication-aac neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing communication-aac neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing communication-aac neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `sensory-processing executive-function neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing executive-function neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing executive-function neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing executive-function neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory-processing sensory-regulation neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing sensory-regulation neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing sensory-regulation neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing sensory-regulation neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `sensory-processing education-learning neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing education-learning neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing education-learning neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing education-learning neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory-processing emotional-regulation neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing emotional-regulation neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing emotional-regulation neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing emotional-regulation neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory-processing daily-living neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing daily-living neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing daily-living neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing daily-living neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory-processing caregiver-clinician neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing caregiver-clinician neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing caregiver-clinician neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing caregiver-clinician neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory-processing accessibility-assistive-tech neurodivergent app research pass 241`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing accessibility-assistive-tech neurodivergent app research pass 242`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing accessibility-assistive-tech neurodivergent app research pass 257`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing accessibility-assistive-tech neurodivergent app research pass 258`: 0 new finding(s), 0 rejected dead link(s)
 
