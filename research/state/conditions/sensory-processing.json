@@ -258,7 +258,23 @@
     "sensory-processing caregiver-clinician neurodivergent app research pass 241",
     "sensory-processing caregiver-clinician neurodivergent app research pass 242",
     "sensory-processing accessibility-assistive-tech neurodivergent app research pass 241",
-    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 242"
+    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 242",
+    "sensory-processing communication-aac neurodivergent app research pass 257",
+    "sensory-processing communication-aac neurodivergent app research pass 258",
+    "sensory-processing executive-function neurodivergent app research pass 257",
+    "sensory-processing executive-function neurodivergent app research pass 258",
+    "sensory-processing sensory-regulation neurodivergent app research pass 257",
+    "sensory-processing sensory-regulation neurodivergent app research pass 258",
+    "sensory-processing education-learning neurodivergent app research pass 257",
+    "sensory-processing education-learning neurodivergent app research pass 258",
+    "sensory-processing emotional-regulation neurodivergent app research pass 257",
+    "sensory-processing emotional-regulation neurodivergent app research pass 258",
+    "sensory-processing daily-living neurodivergent app research pass 257",
+    "sensory-processing daily-living neurodivergent app research pass 258",
+    "sensory-processing caregiver-clinician neurodivergent app research pass 257",
+    "sensory-processing caregiver-clinician neurodivergent app research pass 258",
+    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 257",
+    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 258"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -607,5 +623,5 @@
     "https://github.com/FeyaBloom/Magic-Snooze",
     "https://github.com/tmneld/Noversa-AI"
   ],
-  "updated_at": "2026-07-12T09:26:39.391156+00:00"
+  "updated_at": "2026-07-13T10:43:15.531368+00:00"
 }
