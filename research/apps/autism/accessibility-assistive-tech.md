@@ -199,16 +199,6 @@
 - Found: 2026-06-26
 - Description: A blocks-based, accessible programming environment and intro to programming for neurodivergent users, providing an open-source tool to learn programming concepts adaptively.
 
-### Otsimo AAC Tool
-
-- URL: https://autismawarenesscentre.com/resource-topics/technology/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autistic adaptive tool open source
-- Found: 2026-06-26
-- Description: A free open-source AAC (Augmentative and Alternative Communication) tool developed for nonverbal children with autism, available as an app for Apple iPad to support communication.
-
 ### BridgingApps AAC App List - Resource Directory
 
 - URL: https://bridgingapps.org/list-highlight-bridgingapps-aac-app-list/
