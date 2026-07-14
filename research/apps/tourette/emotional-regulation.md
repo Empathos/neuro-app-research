@@ -69,16 +69,6 @@
 - Found: 2026-06-26
 - Description: Case study providing preliminary support for psychosocial interventions addressing coping with chronic tic disorders in young adults, including coping skills frameworks.
 
-### Liven - Emotional Awareness & Mood Tracking
-
-- URL: https://apps.apple.com/us/app/healthy-emotional-regulation/id6503719268
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: emotional-regulation
-- Query: habit awareness emotional regulation app
-- Found: 2026-06-29
-- Description: A mobile app designed for emotional awareness and regulation, featuring mood tracking, AI companion support, journaling, and CBT mini-courses to help users notice patterns and manage reactive emotions.
-
 ### MindShift CBT - Anxiety & Habit Awareness
 
 - URL: https://theliven.com/blog/wellbeing/dopamine-management/top-apps-for-emotional-regulation
