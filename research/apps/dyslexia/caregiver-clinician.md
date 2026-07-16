@@ -69,16 +69,6 @@
 - Found: 2026-07-01
 - Description: Product page for TTRS, an award-winning multi-sensory course and app for learning touch typing, reading, and spelling, designed to support caregivers in structured literacy development.
 
-### Children's Dyslexia Centers - Tutor Directory
-
-- URL: https://www.childrensdyslexiacenters.org/tutors/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: caregiver-clinician
-- Query: dyslexia clinician tool directory
-- Found: 2026-07-01
-- Description: Certified practitioners and therapists directory for children's dyslexia centers, listing professionals who specialize in dyslexia support.
-
 ### ALTA - Find an ALTA-Certified Professional
 
 - URL: https://www.altaread.org/find-therapist?state=TX
