@@ -1,13 +1,3 @@
-### ClaroSpeak
-
-- URL: https://www.clarosoftware.com/clarospeak/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: communication-aac
-- Query: dyslexia communication support app
-- Found: 2026-06-20
-- Description: Text-to-speech and word-prediction app that reads text aloud and supports writing; listed as a dyslexia-support tool.
-
 ### NaturalReader
 
 - URL: https://www.naturalreaders.com/
