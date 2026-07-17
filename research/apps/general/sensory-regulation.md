@@ -209,16 +209,6 @@
 - Found: 2026-06-25
 - Description: A practical video guide presenting a 5-tool sensory overload kit for neurodivergent adults, including anchor objects, visual input reduction, and grounding techniques.
 
-### Autentik AI - 43 Digital Tools for Neurodivergents
-
-- URL: https://www.autentik.ai/blog/digital-tools-for-neurodivergents
-- Source: perplexity-sonar
-- Condition: general
-- Support category: sensory-regulation
-- Query: neurodiversity overload directory
-- Found: 2026-06-25
-- Description: A curated repository of 43 science-based apps and tools for autistic individuals and ADHDers, covering sensory management, information retrieval, and predictability.
-
 ### NHS Dorset - Autism and ADHD Resources
 
 - URL: https://neurodiversity.directory/neurodiversity-statistics/
