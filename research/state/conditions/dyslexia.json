@@ -322,7 +322,23 @@
     "dyslexia caregiver-clinician neurodivergent app research pass 305",
     "dyslexia caregiver-clinician neurodivergent app research pass 306",
     "dyslexia accessibility-assistive-tech neurodivergent app research pass 305",
-    "dyslexia accessibility-assistive-tech neurodivergent app research pass 306"
+    "dyslexia accessibility-assistive-tech neurodivergent app research pass 306",
+    "dyslexia communication-aac neurodivergent app research pass 321",
+    "dyslexia communication-aac neurodivergent app research pass 322",
+    "dyslexia executive-function neurodivergent app research pass 321",
+    "dyslexia executive-function neurodivergent app research pass 322",
+    "dyslexia sensory-regulation neurodivergent app research pass 321",
+    "dyslexia sensory-regulation neurodivergent app research pass 322",
+    "dyslexia education-learning neurodivergent app research pass 321",
+    "dyslexia education-learning neurodivergent app research pass 322",
+    "dyslexia emotional-regulation neurodivergent app research pass 321",
+    "dyslexia emotional-regulation neurodivergent app research pass 322",
+    "dyslexia daily-living neurodivergent app research pass 321",
+    "dyslexia daily-living neurodivergent app research pass 322",
+    "dyslexia caregiver-clinician neurodivergent app research pass 321",
+    "dyslexia caregiver-clinician neurodivergent app research pass 322",
+    "dyslexia accessibility-assistive-tech neurodivergent app research pass 321",
+    "dyslexia accessibility-assistive-tech neurodivergent app research pass 322"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -722,5 +738,5 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/SiriMudaddla/Neuro-Assistant"
   ],
-  "updated_at": "2026-07-16T09:35:09.075854+00:00"
+  "updated_at": "2026-07-17T09:26:36.724330+00:00"
 }
