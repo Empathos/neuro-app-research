@@ -49,16 +49,6 @@
 - Found: 2026-06-26
 - Description: Comprehensive resource explaining occupational therapy's role in addressing movement and coordination problems, including motor planning difficulties in neurodivergent children.
 
-### Child Development Center Australia
-
-- URL: https://cstacademy.com/services/occupational-therapy/gross-motor-skills/
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: caregiver-clinician
-- Query: motor planning therapy support startup
-- Found: 2026-06-26
-- Description: Website for CST Academy's pediatric occupational therapy program offering play-based, individualized treatment to build gross motor skills and address motor planning difficulties.
-
 ### The Valens Group
 
 - URL: https://thevalensgroup.com/blog/overcoming-motor-planning-difficulties-in-kids/
