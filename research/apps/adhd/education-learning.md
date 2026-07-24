@@ -439,16 +439,6 @@
 - Found: 2026-06-26
 - Description: Open-access NIH review summarizing evidence-based open classroom activities like PATHS, CSRP, mindfulness, and yoga programs that improve executive function.
 
-### Focus - Student Information System (Pinellas County Schools)
-
-- URL: https://focusschoolsoftware.com/focus/auth/
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: education-learning
-- Query: focus student support app
-- Found: 2026-06-29
-- Description: Official student information system app for Pinellas County Schools, allowing students and families to view assignments, monitor grades, and track attendance.
-
 ### Team BCPS - Focus App (Google Play)
 
 - URL: https://play.google.com/store/apps/details?id=com.focusschoolsoftware.community.baltimore&hl=en_US
