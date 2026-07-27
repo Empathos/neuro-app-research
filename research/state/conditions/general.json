@@ -418,7 +418,23 @@
     "general caregiver-clinician neurodivergent app research pass 401",
     "general caregiver-clinician neurodivergent app research pass 402",
     "general accessibility-assistive-tech neurodivergent app research pass 401",
-    "general accessibility-assistive-tech neurodivergent app research pass 402"
+    "general accessibility-assistive-tech neurodivergent app research pass 402",
+    "general communication-aac neurodivergent app research pass 417",
+    "general communication-aac neurodivergent app research pass 418",
+    "general executive-function neurodivergent app research pass 417",
+    "general executive-function neurodivergent app research pass 418",
+    "general sensory-regulation neurodivergent app research pass 417",
+    "general sensory-regulation neurodivergent app research pass 418",
+    "general education-learning neurodivergent app research pass 417",
+    "general education-learning neurodivergent app research pass 418",
+    "general emotional-regulation neurodivergent app research pass 417",
+    "general emotional-regulation neurodivergent app research pass 418",
+    "general daily-living neurodivergent app research pass 417",
+    "general daily-living neurodivergent app research pass 418",
+    "general caregiver-clinician neurodivergent app research pass 417",
+    "general caregiver-clinician neurodivergent app research pass 418",
+    "general accessibility-assistive-tech neurodivergent app research pass 417",
+    "general accessibility-assistive-tech neurodivergent app research pass 418"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -797,5 +813,5 @@
     "https://github.com/lukeslp/awesome-accessibility",
     "https://github.com/adiseshvsanklapur/AccessMapAI"
   ],
-  "updated_at": "2026-07-26T20:01:10.115385+00:00"
+  "updated_at": "2026-07-27T11:02:07.195948+00:00"
 }
