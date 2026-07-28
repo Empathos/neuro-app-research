@@ -359,16 +359,6 @@
 - Found: 2026-06-29
 - Description: Leading AAC app designed to prevent cognitive overload with customizable grid sizes and simplified interface for neurodivergent users.
 
-### TouchChat HD - AAC App by WordSpring
-
-- URL: https://www.wordspring.com/en/aac/touchchat-hd
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: sensory-regulation
-- Query: AAC overload mobile app
-- Found: 2026-06-29
-- Description: AAC app featuring adjustable vocabulary grids and motor planning options to reduce cognitive overload during mobile communication.
-
 ### LAMP Words for Life - AAC App by PRC
 
 - URL: https://prc-saltillo.com/en/aac/lamp-for-life

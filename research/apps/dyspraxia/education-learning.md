@@ -199,16 +199,6 @@
 - Found: 2026-06-26
 - Description: Free, open-access printable activities like 'Dance Party Motor Planning' and 'Clothespin Ninja' designed to support motor planning and gross motor skills in classroom settings with multi-step directions.
 
-### Frontiers Open Access - Motor Planning in Educational Settings
-
-- URL: https://www.frontiersin.org/subjects/motor-planning
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: education-learning
-- Query: motor planning classroom open source
-- Found: 2026-06-26
-- Description: Collection of open-access scientific articles examining the link between motor planning and cognitive functions like attention and memory, providing evidence-based strategies for classroom implementation.
-
 ### eLife - Motor Planning and Somatosensory Cortex Study Tools
 
 - URL: https://elifesciences.org/articles/69517
