@@ -619,16 +619,6 @@
 - Found: 2026-07-01
 - Description: Expanded directory of providers who identify as neurodivergent and offer affirming care, including AAC support and communication therapy.
 
-### Directory Signposting - Thriving Autistic
-
-- URL: https://thrivingautistic.org/directory-signposting/
-- Source: perplexity-sonar
-- Condition: general
-- Support category: communication-aac
-- Query: neurodivergent AAC directory
-- Found: 2026-07-01
-- Description: Curated list of neurodivergent therapists, practitioners, and specialists diagnosing autism, including AAC-focused professionals.
-
 ### National Autistic Society Neurodiversity Directory
 
 - URL: https://www.autism.org.uk/autism-services-directory/the-neurodiversity-directory
