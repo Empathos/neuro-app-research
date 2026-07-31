@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-07-30T09:44:52.451056+00:00
+- UTC timestamp: 2026-07-31T10:00:20.065407+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `autism communication-aac neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism communication-aac neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism communication-aac neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism communication-aac neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `autism executive-function neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism executive-function neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism executive-function neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism executive-function neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autism sensory-regulation neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism sensory-regulation neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism sensory-regulation neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism sensory-regulation neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autism education-learning neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism education-learning neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism education-learning neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism education-learning neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autism emotional-regulation neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism emotional-regulation neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism emotional-regulation neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism emotional-regulation neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `autism daily-living neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism daily-living neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism daily-living neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism daily-living neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autism caregiver-clinician neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism caregiver-clinician neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism caregiver-clinician neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism caregiver-clinician neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autism accessibility-assistive-tech neurodivergent app research pass 465`: 0 new finding(s), 0 rejected dead link(s)
-- `autism accessibility-assistive-tech neurodivergent app research pass 466`: 0 new finding(s), 0 rejected dead link(s)
+- `autism accessibility-assistive-tech neurodivergent app research pass 481`: 0 new finding(s), 0 rejected dead link(s)
+- `autism accessibility-assistive-tech neurodivergent app research pass 482`: 0 new finding(s), 0 rejected dead link(s)
 
