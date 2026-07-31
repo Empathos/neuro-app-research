@@ -129,7 +129,7 @@ The workflow uses `RESEARCH_BOT_TOKEN` when configured, falling back to `GITHUB_
 
 ## Current status
 
-Prototype-ready. The collector uses Perplexity Sonar when `PERPLEXITY_API_KEY` is configured in GitHub Actions secrets. If the key is unavailable or the API call fails, it falls back to GitHub repository search.
+Operational prototype. The daily eight-condition research and merge workflow is running through GitHub Actions. The collector uses Perplexity Sonar when `PERPLEXITY_API_KEY` is configured in GitHub Actions secrets. If the key is unavailable or the API call fails, it falls back to GitHub repository search.
 
 The static site is configured for `research.empathos.ai` and publishes through GitHub Pages from the `main` branch build workflow.
 
