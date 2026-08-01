@@ -3,18 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory processing communication support app",
-    "sensory processing planning app",
-    "sensory processing sensory regulation app",
-    "sensory processing student support app",
-    "sensory processing emotional regulation app",
-    "sensory processing daily living support app",
-    "sensory processing caregiver app",
-    "sensory processing assistive technology app",
-    "sensory processing AAC mobile app",
-    "sensory processing task initiation mobile app",
-    "sensory processing overload mobile app",
-    "sensory processing learning support mobile app",
     "sensory processing mood tracking mobile app",
     "sensory processing independence mobile app",
     "sensory processing clinician tool mobile app",
@@ -498,7 +486,23 @@
     "sensory-processing caregiver-clinician neurodivergent app research pass 481",
     "sensory-processing caregiver-clinician neurodivergent app research pass 482",
     "sensory-processing accessibility-assistive-tech neurodivergent app research pass 481",
-    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 482"
+    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 482",
+    "sensory-processing communication-aac neurodivergent app research pass 497",
+    "sensory-processing communication-aac neurodivergent app research pass 498",
+    "sensory-processing executive-function neurodivergent app research pass 497",
+    "sensory-processing executive-function neurodivergent app research pass 498",
+    "sensory-processing sensory-regulation neurodivergent app research pass 497",
+    "sensory-processing sensory-regulation neurodivergent app research pass 498",
+    "sensory-processing education-learning neurodivergent app research pass 497",
+    "sensory-processing education-learning neurodivergent app research pass 498",
+    "sensory-processing emotional-regulation neurodivergent app research pass 497",
+    "sensory-processing emotional-regulation neurodivergent app research pass 498",
+    "sensory-processing daily-living neurodivergent app research pass 497",
+    "sensory-processing daily-living neurodivergent app research pass 498",
+    "sensory-processing caregiver-clinician neurodivergent app research pass 497",
+    "sensory-processing caregiver-clinician neurodivergent app research pass 498",
+    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 497",
+    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 498"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -847,5 +851,5 @@
     "https://github.com/FeyaBloom/Magic-Snooze",
     "https://github.com/tmneld/Noversa-AI"
   ],
-  "updated_at": "2026-07-31T10:08:34.011358+00:00"
+  "updated_at": "2026-08-01T09:31:11.332418+00:00"
 }
