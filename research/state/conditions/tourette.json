@@ -3,18 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "Tourette communication support app",
-    "Tourette planning app",
-    "Tourette sensory regulation app",
-    "Tourette student support app",
-    "Tourette emotional regulation app",
-    "Tourette daily living support app",
-    "Tourette caregiver app",
-    "Tourette assistive technology app",
-    "Tourette AAC mobile app",
-    "Tourette task initiation mobile app",
-    "Tourette overload mobile app",
-    "Tourette learning support mobile app",
     "Tourette mood tracking mobile app",
     "Tourette independence mobile app",
     "Tourette clinician tool mobile app",
@@ -498,7 +486,23 @@
     "tourette caregiver-clinician neurodivergent app research pass 481",
     "tourette caregiver-clinician neurodivergent app research pass 482",
     "tourette accessibility-assistive-tech neurodivergent app research pass 481",
-    "tourette accessibility-assistive-tech neurodivergent app research pass 482"
+    "tourette accessibility-assistive-tech neurodivergent app research pass 482",
+    "tourette communication-aac neurodivergent app research pass 497",
+    "tourette communication-aac neurodivergent app research pass 498",
+    "tourette executive-function neurodivergent app research pass 497",
+    "tourette executive-function neurodivergent app research pass 498",
+    "tourette sensory-regulation neurodivergent app research pass 497",
+    "tourette sensory-regulation neurodivergent app research pass 498",
+    "tourette education-learning neurodivergent app research pass 497",
+    "tourette education-learning neurodivergent app research pass 498",
+    "tourette emotional-regulation neurodivergent app research pass 497",
+    "tourette emotional-regulation neurodivergent app research pass 498",
+    "tourette daily-living neurodivergent app research pass 497",
+    "tourette daily-living neurodivergent app research pass 498",
+    "tourette caregiver-clinician neurodivergent app research pass 497",
+    "tourette caregiver-clinician neurodivergent app research pass 498",
+    "tourette accessibility-assistive-tech neurodivergent app research pass 497",
+    "tourette accessibility-assistive-tech neurodivergent app research pass 498"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -866,5 +870,5 @@
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/xdelin/awesome-agent4edu"
   ],
-  "updated_at": "2026-07-31T10:07:56.076363+00:00"
+  "updated_at": "2026-08-01T09:31:44.633600+00:00"
 }
