@@ -3,18 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "neurodivergent communication support app",
-    "neurodivergent planning app",
-    "neurodivergent sensory regulation app",
-    "neurodivergent student support app",
-    "neurodivergent emotional regulation app",
-    "neurodivergent daily living support app",
-    "neurodivergent caregiver app",
-    "neurodivergent assistive technology app",
-    "neurodivergent AAC mobile app",
-    "neurodivergent task initiation mobile app",
-    "neurodivergent overload mobile app",
-    "neurodivergent learning support mobile app",
     "neurodivergent mood tracking mobile app",
     "neurodivergent independence mobile app",
     "neurodivergent clinician tool mobile app",
@@ -498,7 +486,23 @@
     "general caregiver-clinician neurodivergent app research pass 481",
     "general caregiver-clinician neurodivergent app research pass 482",
     "general accessibility-assistive-tech neurodivergent app research pass 481",
-    "general accessibility-assistive-tech neurodivergent app research pass 482"
+    "general accessibility-assistive-tech neurodivergent app research pass 482",
+    "general communication-aac neurodivergent app research pass 497",
+    "general communication-aac neurodivergent app research pass 498",
+    "general executive-function neurodivergent app research pass 497",
+    "general executive-function neurodivergent app research pass 498",
+    "general sensory-regulation neurodivergent app research pass 497",
+    "general sensory-regulation neurodivergent app research pass 498",
+    "general education-learning neurodivergent app research pass 497",
+    "general education-learning neurodivergent app research pass 498",
+    "general emotional-regulation neurodivergent app research pass 497",
+    "general emotional-regulation neurodivergent app research pass 498",
+    "general daily-living neurodivergent app research pass 497",
+    "general daily-living neurodivergent app research pass 498",
+    "general caregiver-clinician neurodivergent app research pass 497",
+    "general caregiver-clinician neurodivergent app research pass 498",
+    "general accessibility-assistive-tech neurodivergent app research pass 497",
+    "general accessibility-assistive-tech neurodivergent app research pass 498"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -877,5 +881,5 @@
     "https://github.com/lukeslp/awesome-accessibility",
     "https://github.com/adiseshvsanklapur/AccessMapAI"
   ],
-  "updated_at": "2026-07-31T10:12:07.394332+00:00"
+  "updated_at": "2026-08-01T09:35:10.076713+00:00"
 }
