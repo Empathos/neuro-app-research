@@ -378,3 +378,13 @@
 - Query: neurodiversity classroom tool
 - Found: 2026-07-06
 - Description: A teachers tool to help communicate across language and cultural hurdles with children.
+
+### CristhianneDeLeon/neuroguIA-conversational-ai
+
+- URL: https://github.com/CristhianneDeLeon/neuroguIA-conversational-ai
+- Source: github-search
+- Condition: general
+- Support category: education-learning
+- Query: neurodivergent student support app
+- Found: 2026-08-02
+- Description: Hybrid conversational AI system for socioemotional support in neurodivergent contexts using NLP, contextual memory, adaptive conversational routing, and supervised generative AI.

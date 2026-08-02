@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-08-01T09:35:10.076713+00:00
-- New findings: 0
+- UTC timestamp: 2026-08-02T09:36:09.344679+00:00
+- New findings: 4
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `general communication-aac neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general communication-aac neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent communication support app`: 1 new finding(s), 0 rejected dead link(s)
+- `neurodivergent AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `general executive-function neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general executive-function neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent task initiation mobile app`: 2 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `general sensory-regulation neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general sensory-regulation neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `general education-learning neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general education-learning neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent student support app`: 1 new finding(s), 0 rejected dead link(s)
+- `neurodivergent learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `general emotional-regulation neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general emotional-regulation neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `general daily-living neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general daily-living neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent daily living support app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `general caregiver-clinician neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general caregiver-clinician neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent caregiver app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `general accessibility-assistive-tech neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `general accessibility-assistive-tech neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
 
