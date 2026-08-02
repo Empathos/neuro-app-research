@@ -618,3 +618,13 @@
 - Query: ADHD environment planning open source
 - Found: 2026-07-04
 - Description: WineBOX: From technical emulator to cognitive tool. A low-fidelity digital environment that, through its simplicity, reduces sensory overload and trains executive functions in neurodivergent minds. Open source, science-backed. #Neurodiversity #AssistiveTech
+
+### ilhamilha-creator/mimicecho-ai
+
+- URL: https://github.com/ilhamilha-creator/mimicecho-ai
+- Source: github-search
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD sensory regulation app
+- Found: 2026-08-02
+- Description: AI-powered sensory translation system for neurodivergent individuals - IncludAI Hackathon 2026
