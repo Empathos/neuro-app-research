@@ -3,18 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory processing mood tracking mobile app",
-    "sensory processing independence mobile app",
-    "sensory processing clinician tool mobile app",
-    "sensory processing accessibility mobile app",
-    "sensory processing speech support iOS Android",
-    "sensory processing conversation support tool",
-    "sensory processing routine iOS Android",
-    "sensory processing reminders tool",
-    "sensory processing calming iOS Android",
-    "sensory processing environment planning tool",
-    "sensory processing reading support iOS Android",
-    "sensory processing classroom tool",
     "sensory processing self regulation iOS Android",
     "sensory processing coping skills tool",
     "sensory processing life skills iOS Android",
@@ -502,7 +490,19 @@
     "sensory-processing caregiver-clinician neurodivergent app research pass 497",
     "sensory-processing caregiver-clinician neurodivergent app research pass 498",
     "sensory-processing accessibility-assistive-tech neurodivergent app research pass 497",
-    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 498"
+    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 498",
+    "sensory processing communication support app",
+    "sensory processing AAC mobile app",
+    "sensory processing planning app",
+    "sensory processing task initiation mobile app",
+    "sensory processing sensory regulation app",
+    "sensory processing overload mobile app",
+    "sensory processing student support app",
+    "sensory processing learning support mobile app",
+    "sensory processing emotional regulation app",
+    "sensory processing daily living support app",
+    "sensory processing caregiver app",
+    "sensory processing assistive technology app"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -849,7 +849,9 @@
     "https://github.com/FolatheDuckofDuckingburg/Noggin",
     "https://github.com/Vania1021/focusflow-main",
     "https://github.com/FeyaBloom/Magic-Snooze",
-    "https://github.com/tmneld/Noversa-AI"
+    "https://github.com/tmneld/Noversa-AI",
+    "https://github.com/FolatheDuckofDuckingburg/PenPal",
+    "https://github.com/Syntax-Syndicate-Ltd/NeuroLearn"
   ],
-  "updated_at": "2026-08-01T09:31:11.332418+00:00"
+  "updated_at": "2026-08-02T09:32:33.114514+00:00"
 }
