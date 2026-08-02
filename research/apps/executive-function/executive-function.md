@@ -189,16 +189,6 @@
 - Found: 2026-06-25
 - Description: Google Suite includes Calendar, Docs, and Keep, which synchronize across devices to simplify routine planning, note-taking, and collaboration, offering high accessibility for neurodivergent users.
 
-### The OT Toolbox - Task Initiation Strategies Directory
-
-- URL: https://www.theottoolbox.com/category/task-initiation/
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: executive-function
-- Query: routine task initiation directory
-- Found: 2026-06-25
-- Description: A curated directory of evidence-based task initiation strategies, tools, and environmental designs specifically for children and adults with ADHD and executive function challenges.
-
 ### ND Connect - Ultimate Guide to ADHD Task Initiation
 
 - URL: https://www.ndconnect.app/blog/the-ultimate-guide-to-adhd-task-initiation/

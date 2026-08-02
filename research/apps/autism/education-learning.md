@@ -558,3 +558,13 @@
 - Query: social story learning support directory
 - Found: 2026-07-01
 - Description: Video-based social story resource for teaching communication skills and social emotional learning (SEL) in early childhood education settings.
+
+### nicola-empower/liams-match-day
+
+- URL: https://github.com/nicola-empower/liams-match-day
+- Source: github-search
+- Condition: autism
+- Support category: education-learning
+- Query: autism learning support mobile app
+- Found: 2026-08-02
+- Description: Liams Match Day is a bespoke PWA engineered to support a young adult with autism, epilepsy, learning disabilities, and right-sided hemiplegia as he builds crucial daily independence.
