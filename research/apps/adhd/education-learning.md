@@ -738,3 +738,13 @@
 - Query: executive function student support app
 - Found: 2026-07-05
 - Description: An accessibility-first web app that transforms dense school instructions (syllabi, assignment prompts, rubric text, emails) into clear, manageable, neurodivergent-friendly formats: plain-language summaries, step-by-step checklists, do this first starters, and time/break plans.
+
+### StudentSuite/awesome-student-resources
+
+- URL: https://github.com/StudentSuite/awesome-student-resources
+- Source: github-search
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD student support app
+- Found: 2026-08-02
+- Description: A curated list of the best software, tools, textbooks, channels, and resources for students. IB, IGCSE, SAT, and any student anywhere.

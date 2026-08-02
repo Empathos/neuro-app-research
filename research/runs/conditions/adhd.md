@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: adhd
-- UTC timestamp: 2026-08-01T09:24:05.014818+00:00
-- New findings: 0
+- UTC timestamp: 2026-08-02T09:24:26.403317+00:00
+- New findings: 4
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `adhd communication-aac neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd communication-aac neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `adhd executive-function neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd executive-function neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD planning app`: 1 new finding(s), 0 rejected dead link(s)
+- `ADHD task initiation mobile app`: 1 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `adhd sensory-regulation neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd sensory-regulation neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD sensory regulation app`: 1 new finding(s), 0 rejected dead link(s)
+- `ADHD overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `adhd education-learning neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd education-learning neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD student support app`: 1 new finding(s), 0 rejected dead link(s)
+- `ADHD learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `adhd emotional-regulation neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd emotional-regulation neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `adhd daily-living neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd daily-living neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD daily living support app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `adhd caregiver-clinician neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd caregiver-clinician neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD caregiver app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `adhd accessibility-assistive-tech neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
-- `adhd accessibility-assistive-tech neurodivergent app research pass 498`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `ADHD assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
 

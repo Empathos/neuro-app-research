@@ -498,3 +498,23 @@
 - Query: focus reminders open source
 - Found: 2026-07-09
 - Description: A multi-agent personal operations system that plans your day, manages your commitments, and protects your focus. Built with Google's Agent Development Kit (ADK), Antigravity, and the Model Context Protocol (MCP).
+
+### domi-oss/dlectroflow
+
+- URL: https://github.com/domi-oss/dlectroflow
+- Source: github-search
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD planning app
+- Found: 2026-08-02
+- Description: ADHD-friendly productivity app: brain-dump tasks, let AI break them into tiny steps, schedule to your calendar, focus with a Pomodoro style visual timer, and earn rewards & streaks.
+
+### JuginMuz/NextTask
+
+- URL: https://github.com/JuginMuz/NextTask
+- Source: github-search
+- Condition: adhd
+- Support category: executive-function
+- Query: ADHD task initiation mobile app
+- Found: 2026-08-02
+- Description: An accessible web application to improve focus and productivity for neurodivergent users
