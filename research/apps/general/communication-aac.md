@@ -658,3 +658,13 @@
 - Query: accessibility AAC directory
 - Found: 2026-07-07
 - Description: Curated list of accessibility resources, tools, and best practices for creating inclusive digital experiences
+
+### ilhamilha-creator/mimicecho-ai
+
+- URL: https://github.com/ilhamilha-creator/mimicecho-ai
+- Source: github-search
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent communication support app
+- Found: 2026-08-02
+- Description: AI-powered sensory translation system for neurodivergent individuals - IncludAI Hackathon 2026

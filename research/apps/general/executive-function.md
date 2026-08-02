@@ -478,3 +478,23 @@
 - Query: accessibility routine startup
 - Found: 2026-07-09
 - Description: A multimodal AI accessibility intelligence platform that builds a dynamic digital twin of urban/campus accessibility for different physical and cognitive needs.
+
+### JDUB1216/neurolift-ai-fusion
+
+- URL: https://github.com/JDUB1216/neurolift-ai-fusion
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent task initiation mobile app
+- Found: 2026-08-02
+- Description: NeuroLift Technologies AI Fusion System - TOI-OTOI Framework with AvatarAideAdvocate Architecture for Neurodivergent Support
+
+### JuginMuz/NextTask
+
+- URL: https://github.com/JuginMuz/NextTask
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent task initiation mobile app
+- Found: 2026-08-02
+- Description: An accessible web application to improve focus and productivity for neurodivergent users
