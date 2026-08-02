@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-08-01T09:28:02.631631+00:00
+- UTC timestamp: 2026-08-02T09:28:28.250064+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `dyspraxia communication-aac neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia communication-aac neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `dyspraxia executive-function neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia executive-function neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyspraxia sensory-regulation neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia sensory-regulation neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `dyspraxia education-learning neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia education-learning neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia student support app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia student support app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyspraxia emotional-regulation neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia emotional-regulation neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyspraxia daily-living neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia daily-living neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia daily living support app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyspraxia caregiver-clinician neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia caregiver-clinician neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia caregiver-clinician neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia caregiver-clinician neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyspraxia accessibility-assistive-tech neurodivergent app research pass 496`: 0 new finding(s), 0 rejected dead link(s)
-- `dyspraxia accessibility-assistive-tech neurodivergent app research pass 497`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
 
