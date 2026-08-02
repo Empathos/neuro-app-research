@@ -548,3 +548,13 @@
 - Query: overload conversation support open source
 - Found: 2026-07-09
 - Description: Conversational AI platform for PDF tools, LaTeX editing, and document productivity.
+
+### FolatheDuckofDuckingburg/PenPal
+
+- URL: https://github.com/FolatheDuckofDuckingburg/PenPal
+- Source: github-search
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing communication support app
+- Found: 2026-08-02
+- Description: An adaptive, social-first language learning platform designed specifically for learners with dyslexia, English as a Second Language and visual processing differences.

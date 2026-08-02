@@ -568,3 +568,13 @@
 - Query: overload student support software
 - Found: 2026-07-07
 - Description: For millions of neurodivergent students, the digital world isnt just distracting : its a barrier. FocusFlow is an AI-powered cognitive accessibility layer that moves beyond passive summarization to create a proactive, bio-adaptive learning environment.
+
+### Syntax-Syndicate-Ltd/NeuroLearn
+
+- URL: https://github.com/Syntax-Syndicate-Ltd/NeuroLearn
+- Source: github-search
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory processing student support app
+- Found: 2026-08-02
+- Description: An AI-powered adaptive learning platform that transforms PDFs and text into personalized, multi-sensory learning experiences with arcade games, real-time emotion detection, and multilingual TTS. Built for neurodivergent and neurotypical learners alike.
