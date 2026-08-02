@@ -3,18 +3,6 @@
   "condition_cursor": 1,
   "modifier_cursor": 0,
   "seen_queries": [
-    "autism mood tracking mobile app",
-    "autism independence mobile app",
-    "autism clinician tool mobile app",
-    "autism accessibility mobile app",
-    "autism speech support iOS Android",
-    "autism conversation support tool",
-    "autism routine iOS Android",
-    "autism reminders tool",
-    "autism calming iOS Android",
-    "autism environment planning tool",
-    "autism reading support iOS Android",
-    "autism classroom tool",
     "autism self regulation iOS Android",
     "autism coping skills tool",
     "autism life skills iOS Android",
@@ -502,7 +490,19 @@
     "autism caregiver-clinician neurodivergent app research pass 497",
     "autism caregiver-clinician neurodivergent app research pass 498",
     "autism accessibility-assistive-tech neurodivergent app research pass 497",
-    "autism accessibility-assistive-tech neurodivergent app research pass 498"
+    "autism accessibility-assistive-tech neurodivergent app research pass 498",
+    "autism communication support app",
+    "autism AAC mobile app",
+    "autism planning app",
+    "autism task initiation mobile app",
+    "autism sensory regulation app",
+    "autism overload mobile app",
+    "autism student support app",
+    "autism learning support mobile app",
+    "autism emotional regulation app",
+    "autism daily living support app",
+    "autism caregiver app",
+    "autism assistive technology app"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/thruday/id1645552771",
@@ -911,7 +911,9 @@
     "https://www.youtube.com/watch?v=68PgH5mdjNU",
     "https://www.youtube.com/watch?v=8kikXDV--io",
     "https://www.youtube.com/watch?v=ZmGrcjL-beM",
-    "https://www.youtube.com/watch?v=alreMaHs3FM"
+    "https://www.youtube.com/watch?v=alreMaHs3FM",
+    "https://github.com/ilhamilha-creator/mimicecho-ai",
+    "https://github.com/nicola-empower/liams-match-day"
   ],
-  "updated_at": "2026-08-01T09:23:58.067253+00:00"
+  "updated_at": "2026-08-02T09:24:33.655183+00:00"
 }

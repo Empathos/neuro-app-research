@@ -578,3 +578,13 @@
 - Query: social story overload directory
 - Found: 2026-07-01
 - Description: New resources assisting families and caregivers in navigating new experiences with ease, including social stories for managing environmental changes and overload.
+
+### ilhamilha-creator/mimicecho-ai
+
+- URL: https://github.com/ilhamilha-creator/mimicecho-ai
+- Source: github-search
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory regulation app
+- Found: 2026-08-02
+- Description: AI-powered sensory translation system for neurodivergent individuals - IncludAI Hackathon 2026
