@@ -3,18 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "executive function mood tracking mobile app",
-    "executive function independence mobile app",
-    "executive function clinician tool mobile app",
-    "executive function accessibility mobile app",
-    "executive function speech support iOS Android",
-    "executive function conversation support tool",
-    "executive function routine iOS Android",
-    "executive function reminders tool",
-    "executive function calming iOS Android",
-    "executive function environment planning tool",
-    "executive function reading support iOS Android",
-    "executive function classroom tool",
     "executive function self regulation iOS Android",
     "executive function coping skills tool",
     "executive function life skills iOS Android",
@@ -502,7 +490,19 @@
     "executive-function caregiver-clinician neurodivergent app research pass 497",
     "executive-function caregiver-clinician neurodivergent app research pass 498",
     "executive-function accessibility-assistive-tech neurodivergent app research pass 497",
-    "executive-function accessibility-assistive-tech neurodivergent app research pass 498"
+    "executive-function accessibility-assistive-tech neurodivergent app research pass 498",
+    "executive function communication support app",
+    "executive function AAC mobile app",
+    "executive function planning app",
+    "executive function task initiation mobile app",
+    "executive function sensory regulation app",
+    "executive function overload mobile app",
+    "executive function student support app",
+    "executive function learning support mobile app",
+    "executive function emotional regulation app",
+    "executive function daily living support app",
+    "executive function caregiver app",
+    "executive function assistive technology app"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -835,5 +835,5 @@
     "https://github.com/martijnzuiderbaan/high-complexity-contribution-tool",
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app"
   ],
-  "updated_at": "2026-08-01T09:34:34.384384+00:00"
+  "updated_at": "2026-08-02T09:35:29.666021+00:00"
 }
