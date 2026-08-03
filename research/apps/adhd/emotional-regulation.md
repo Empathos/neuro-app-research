@@ -568,3 +568,13 @@
 - Query: ADHD mood tracking directory
 - Found: 2026-07-01
 - Description: Routine-builder, symptom tracker, medication tracker, mood tracker, task challenger, and a to-do list for comprehensive ADHD management support.
+
+### kaafihai/baajit
+
+- URL: https://github.com/kaafihai/baajit
+- Source: github-search
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: ADHD mood tracking mobile app
+- Found: 2026-08-03
+- Description: Free, open-source app for ADHD, autism & bipolar disorder. Local-first, no cloud, MIT licence.
