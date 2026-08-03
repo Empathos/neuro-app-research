@@ -628,3 +628,13 @@
 - Query: social story AAC directory
 - Found: 2026-07-01
 - Description: Official platform for previewing and accessing AAC-focused social stories like 'Using My AAC Device' and 'Taking Care of My Speech Device,' with tools for customizing neurodivergent support materials.
+
+### LSUDOKO/signal
+
+- URL: https://github.com/LSUDOKO/signal
+- Source: github-search
+- Condition: autism
+- Support category: communication-aac
+- Query: autism conversation support tool
+- Found: 2026-08-03
+- Description: Signal is a Slack agent that makes work chat less overwhelming and more understandable for people with ADHD and autismusing AI to translate social tone, smart search to answer "what did I miss?", and calendar integration to protect focus time.

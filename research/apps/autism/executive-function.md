@@ -638,3 +638,13 @@
 - Query: social story task initiation directory
 - Found: 2026-07-01
 - Description: A social media post highlighting tools and stories to help students build executive functioning skills, specifically waiting, planning, organizing, time management, and task initiation.
+
+### kaafihai/baajit
+
+- URL: https://github.com/kaafihai/baajit
+- Source: github-search
+- Condition: autism
+- Support category: executive-function
+- Query: autism reminders tool
+- Found: 2026-08-03
+- Description: Free, open-source app for ADHD, autism & bipolar disorder. Local-first, no cloud, MIT licence.

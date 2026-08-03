@@ -3,18 +3,6 @@
   "condition_cursor": 1,
   "modifier_cursor": 0,
   "seen_queries": [
-    "autism self regulation iOS Android",
-    "autism coping skills tool",
-    "autism life skills iOS Android",
-    "autism home routine tool",
-    "autism therapy support iOS Android",
-    "autism parent support tool",
-    "autism mobile accessibility iOS Android",
-    "autism adaptive tool",
-    "autistic communication support software",
-    "autistic AAC directory",
-    "autistic planning software",
-    "autistic task initiation directory",
     "autistic sensory regulation software",
     "autistic overload directory",
     "autistic student support software",
@@ -502,7 +490,19 @@
     "autism emotional regulation app",
     "autism daily living support app",
     "autism caregiver app",
-    "autism assistive technology app"
+    "autism assistive technology app",
+    "autism speech support iOS Android",
+    "autism conversation support tool",
+    "autism routine iOS Android",
+    "autism reminders tool",
+    "autism calming iOS Android",
+    "autism environment planning tool",
+    "autism reading support iOS Android",
+    "autism classroom tool",
+    "autism mood tracking mobile app",
+    "autism independence mobile app",
+    "autism clinician tool mobile app",
+    "autism accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/thruday/id1645552771",
@@ -913,7 +913,10 @@
     "https://www.youtube.com/watch?v=ZmGrcjL-beM",
     "https://www.youtube.com/watch?v=alreMaHs3FM",
     "https://github.com/ilhamilha-creator/mimicecho-ai",
-    "https://github.com/nicola-empower/liams-match-day"
+    "https://github.com/nicola-empower/liams-match-day",
+    "https://github.com/LSUDOKO/signal",
+    "https://github.com/kaafihai/baajit",
+    "https://github.com/rs2030dev/Say_it"
   ],
-  "updated_at": "2026-08-02T09:24:33.655183+00:00"
+  "updated_at": "2026-08-03T10:52:03.172766+00:00"
 }
