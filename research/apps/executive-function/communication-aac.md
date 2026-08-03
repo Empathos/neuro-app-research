@@ -538,3 +538,13 @@
 - Found: 2026-07-01
 - Description: Executive Function and AAC Connections  Planning. Simple Instructions  Time Management. Time concepts; Follows Visual Schedule  Task Initiation.
 
+
+### JackReis/neurodivergent-visual-org
+
+- URL: https://github.com/JackReis/neurodivergent-visual-org
+- Source: github-search
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive function conversation support tool
+- Found: 2026-08-03
+- Description: Visual organization tools for neurodivergent thinking - Claude Code skill with compassionate task breakdowns, decision trees, and focus support
