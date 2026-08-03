@@ -588,3 +588,13 @@
 - Query: autism sensory regulation app
 - Found: 2026-08-02
 - Description: AI-powered sensory translation system for neurodivergent individuals - IncludAI Hackathon 2026
+
+### rs2030dev/Say_it
+
+- URL: https://github.com/rs2030dev/Say_it
+- Source: github-search
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism environment planning tool
+- Found: 2026-08-03
+- Description: A digital health and assistive technology tool built with an accessibility-first philosophy to facilitate action-verb learning for neurodivergent kids (ages 3-7, ASD). Blends clinical speech methodologies with a low-sensory UI, showcasing clean execution across product management, UX design, and product engineering.

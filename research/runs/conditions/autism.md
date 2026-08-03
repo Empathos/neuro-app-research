@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-08-02T09:24:33.655183+00:00
-- New findings: 2
+- UTC timestamp: 2026-08-03T10:52:03.172766+00:00
+- New findings: 3
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `autism communication support app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism conversation support tool`: 1 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `autism planning app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism reminders tool`: 1 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autism sensory regulation app`: 1 new finding(s), 0 rejected dead link(s)
-- `autism overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism environment planning tool`: 1 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autism student support app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism learning support mobile app`: 1 new finding(s), 0 rejected dead link(s)
+- `autism reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autism emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `autism daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autism caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autism assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
