@@ -3,18 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "neurodivergent self regulation iOS Android",
-    "neurodivergent coping skills tool",
-    "neurodivergent life skills iOS Android",
-    "neurodivergent home routine tool",
-    "neurodivergent therapy support iOS Android",
-    "neurodivergent parent support tool",
-    "neurodivergent mobile accessibility iOS Android",
-    "neurodivergent adaptive tool",
-    "neurodiversity communication support software",
-    "neurodiversity AAC directory",
-    "neurodiversity planning software",
-    "neurodiversity task initiation directory",
     "neurodiversity sensory regulation software",
     "neurodiversity overload directory",
     "neurodiversity student support software",
@@ -502,7 +490,19 @@
     "neurodivergent emotional regulation app",
     "neurodivergent daily living support app",
     "neurodivergent caregiver app",
-    "neurodivergent assistive technology app"
+    "neurodivergent assistive technology app",
+    "neurodivergent speech support iOS Android",
+    "neurodivergent conversation support tool",
+    "neurodivergent routine iOS Android",
+    "neurodivergent reminders tool",
+    "neurodivergent calming iOS Android",
+    "neurodivergent environment planning tool",
+    "neurodivergent reading support iOS Android",
+    "neurodivergent classroom tool",
+    "neurodivergent mood tracking mobile app",
+    "neurodivergent independence mobile app",
+    "neurodivergent clinician tool mobile app",
+    "neurodivergent accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -883,7 +883,9 @@
     "https://github.com/CristhianneDeLeon/neuroguIA-conversational-ai",
     "https://github.com/JDUB1216/neurolift-ai-fusion",
     "https://github.com/JuginMuz/NextTask",
-    "https://github.com/ilhamilha-creator/mimicecho-ai"
+    "https://github.com/ilhamilha-creator/mimicecho-ai",
+    "https://github.com/michaelcraft17/nexus-scenario-practice",
+    "https://github.com/njefferson/ND-toolbox"
   ],
-  "updated_at": "2026-08-02T09:36:09.344679+00:00"
+  "updated_at": "2026-08-03T11:03:42.173796+00:00"
 }
