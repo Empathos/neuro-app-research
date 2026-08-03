@@ -3,18 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "dyslexia self regulation iOS Android",
-    "dyslexia coping skills tool",
-    "dyslexia life skills iOS Android",
-    "dyslexia home routine tool",
-    "dyslexia therapy support iOS Android",
-    "dyslexia parent support tool",
-    "dyslexia mobile accessibility iOS Android",
-    "dyslexia adaptive tool",
-    "reading support communication support software",
-    "reading support AAC directory",
-    "reading support planning software",
-    "reading support task initiation directory",
     "reading support sensory regulation software",
     "reading support overload directory",
     "reading support student support software",
@@ -502,7 +490,19 @@
     "dyslexia emotional regulation app",
     "dyslexia daily living support app",
     "dyslexia caregiver app",
-    "dyslexia assistive technology app"
+    "dyslexia assistive technology app",
+    "dyslexia speech support iOS Android",
+    "dyslexia conversation support tool",
+    "dyslexia routine iOS Android",
+    "dyslexia reminders tool",
+    "dyslexia calming iOS Android",
+    "dyslexia environment planning tool",
+    "dyslexia reading support iOS Android",
+    "dyslexia classroom tool",
+    "dyslexia mood tracking mobile app",
+    "dyslexia independence mobile app",
+    "dyslexia clinician tool mobile app",
+    "dyslexia accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -902,5 +902,5 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/SiriMudaddla/Neuro-Assistant"
   ],
-  "updated_at": "2026-08-02T09:28:02.937352+00:00"
+  "updated_at": "2026-08-03T10:55:46.921493+00:00"
 }
