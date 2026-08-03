@@ -3,18 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "Tourette self regulation iOS Android",
-    "Tourette coping skills tool",
-    "Tourette life skills iOS Android",
-    "Tourette home routine tool",
-    "Tourette therapy support iOS Android",
-    "Tourette parent support tool",
-    "Tourette mobile accessibility iOS Android",
-    "Tourette adaptive tool",
-    "tic tracking communication support software",
-    "tic tracking AAC directory",
-    "tic tracking planning software",
-    "tic tracking task initiation directory",
     "tic tracking sensory regulation software",
     "tic tracking overload directory",
     "tic tracking student support software",
@@ -502,7 +490,19 @@
     "Tourette emotional regulation app",
     "Tourette daily living support app",
     "Tourette caregiver app",
-    "Tourette assistive technology app"
+    "Tourette assistive technology app",
+    "Tourette speech support iOS Android",
+    "Tourette conversation support tool",
+    "Tourette routine iOS Android",
+    "Tourette reminders tool",
+    "Tourette calming iOS Android",
+    "Tourette environment planning tool",
+    "Tourette reading support iOS Android",
+    "Tourette classroom tool",
+    "Tourette mood tracking mobile app",
+    "Tourette independence mobile app",
+    "Tourette clinician tool mobile app",
+    "Tourette accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -870,5 +870,5 @@
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/xdelin/awesome-agent4edu"
   ],
-  "updated_at": "2026-08-02T09:31:37.196276+00:00"
+  "updated_at": "2026-08-03T10:59:43.992782+00:00"
 }
