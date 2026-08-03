@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-08-02T09:28:02.937352+00:00
+- UTC timestamp: 2026-08-03T10:55:46.921493+00:00
 - New findings: 0
-- Rejected dead links: 0
+- Rejected dead links: 3
 
 ## Support Categories
 
 ### communication-aac
 
-- `dyslexia communication support app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia conversation support tool`: 0 new finding(s), 1 rejected dead link(s)
 
 ### executive-function
 
-- `dyslexia planning app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia reminders tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyslexia sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia environment planning tool`: 0 new finding(s), 2 rejected dead link(s)
 
 ### education-learning
 
-- `dyslexia student support app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyslexia emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyslexia daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyslexia caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyslexia assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
