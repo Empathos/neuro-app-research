@@ -668,3 +668,13 @@
 - Query: neurodivergent communication support app
 - Found: 2026-08-02
 - Description: AI-powered sensory translation system for neurodivergent individuals - IncludAI Hackathon 2026
+
+### michaelcraft17/nexus-scenario-practice
+
+- URL: https://github.com/michaelcraft17/nexus-scenario-practice
+- Source: github-search
+- Condition: general
+- Support category: communication-aac
+- Query: neurodivergent conversation support tool
+- Found: 2026-08-03
+- Description: Nexus  a social-scenario-practice app for neurodivergent users. Built for the IncludAI Neurodiversity Hackathon.

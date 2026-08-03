@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-08-02T09:36:09.344679+00:00
-- New findings: 4
+- UTC timestamp: 2026-08-03T11:03:42.173796+00:00
+- New findings: 2
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `neurodivergent communication support app`: 1 new finding(s), 0 rejected dead link(s)
-- `neurodivergent AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent conversation support tool`: 1 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `neurodivergent planning app`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent task initiation mobile app`: 2 new finding(s), 0 rejected dead link(s)
+- `neurodivergent routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent reminders tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `neurodivergent sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent calming iOS Android`: 1 new finding(s), 0 rejected dead link(s)
+- `neurodivergent environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `neurodivergent student support app`: 1 new finding(s), 0 rejected dead link(s)
-- `neurodivergent learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `neurodivergent emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `neurodivergent daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `neurodivergent caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `neurodivergent assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 

@@ -588,3 +588,13 @@
 - Query: neurodiversity sensory regulation app
 - Found: 2026-07-05
 - Description: A tool to help understand your Neurodiversity Profile
+
+### njefferson/ND-toolbox
+
+- URL: https://github.com/njefferson/ND-toolbox
+- Source: github-search
+- Condition: general
+- Support category: sensory-regulation
+- Query: neurodivergent calming iOS Android
+- Found: 2026-08-03
+- Description: Local-first PWA  a calm suite of tools for neurodivergent internal states. No account, offline, on-device. Not a clinical or diagnostic tool.
