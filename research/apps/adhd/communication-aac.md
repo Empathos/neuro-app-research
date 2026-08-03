@@ -629,3 +629,13 @@
 - Query: ADHD conversation support open source
 - Found: 2026-07-04
 - Description: Full-stack developer toolkit - 86 commands, 8 agents, 21 skills for code, git, docs, testing, architecture, CI/CD, and ADHD-friendly workflows. Claude Code plugin.
+
+### JackReis/neurodivergent-visual-org
+
+- URL: https://github.com/JackReis/neurodivergent-visual-org
+- Source: github-search
+- Condition: adhd
+- Support category: communication-aac
+- Query: ADHD conversation support tool
+- Found: 2026-08-03
+- Description: Visual organization tools for neurodivergent thinking - Claude Code skill with compassionate task breakdowns, decision trees, and focus support

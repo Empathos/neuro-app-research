@@ -3,18 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "ADHD self regulation iOS Android",
-    "ADHD coping skills tool",
-    "ADHD life skills iOS Android",
-    "ADHD home routine tool",
-    "ADHD therapy support iOS Android",
-    "ADHD parent support tool",
-    "ADHD mobile accessibility iOS Android",
-    "ADHD adaptive tool",
-    "executive function communication support software",
-    "executive function AAC directory",
-    "executive function planning software",
-    "executive function task initiation directory",
     "executive function sensory regulation software",
     "executive function overload directory",
     "executive function student support software",
@@ -502,7 +490,19 @@
     "ADHD emotional regulation app",
     "ADHD daily living support app",
     "ADHD caregiver app",
-    "ADHD assistive technology app"
+    "ADHD assistive technology app",
+    "ADHD speech support iOS Android",
+    "ADHD conversation support tool",
+    "ADHD routine iOS Android",
+    "ADHD reminders tool",
+    "ADHD calming iOS Android",
+    "ADHD environment planning tool",
+    "ADHD reading support iOS Android",
+    "ADHD classroom tool",
+    "ADHD mood tracking mobile app",
+    "ADHD independence mobile app",
+    "ADHD clinician tool mobile app",
+    "ADHD accessibility mobile app"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -946,7 +946,10 @@
     "https://github.com/JuginMuz/NextTask",
     "https://github.com/StudentSuite/awesome-student-resources",
     "https://github.com/domi-oss/dlectroflow",
-    "https://github.com/ilhamilha-creator/mimicecho-ai"
+    "https://github.com/ilhamilha-creator/mimicecho-ai",
+    "https://github.com/CompanyMaster/companymaster-saas",
+    "https://github.com/JackReis/neurodivergent-visual-org",
+    "https://github.com/kaafihai/baajit"
   ],
-  "updated_at": "2026-08-02T09:24:26.403317+00:00"
+  "updated_at": "2026-08-03T10:52:15.612867+00:00"
 }

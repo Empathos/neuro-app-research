@@ -748,3 +748,13 @@
 - Query: ADHD student support app
 - Found: 2026-08-02
 - Description: A curated list of the best software, tools, textbooks, channels, and resources for students. IB, IGCSE, SAT, and any student anywhere.
+
+### CompanyMaster/companymaster-saas
+
+- URL: https://github.com/CompanyMaster/companymaster-saas
+- Source: github-search
+- Condition: adhd
+- Support category: education-learning
+- Query: ADHD classroom tool
+- Found: 2026-08-03
+- Description: SaaS MVP with URL shortener and QR tools
