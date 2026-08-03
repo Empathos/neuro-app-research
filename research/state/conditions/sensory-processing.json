@@ -3,18 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory processing self regulation iOS Android",
-    "sensory processing coping skills tool",
-    "sensory processing life skills iOS Android",
-    "sensory processing home routine tool",
-    "sensory processing therapy support iOS Android",
-    "sensory processing parent support tool",
-    "sensory processing mobile accessibility iOS Android",
-    "sensory processing adaptive tool",
-    "sensory regulation communication support software",
-    "sensory regulation AAC directory",
-    "sensory regulation planning software",
-    "sensory regulation task initiation directory",
     "sensory regulation sensory regulation software",
     "sensory regulation overload directory",
     "sensory regulation student support software",
@@ -502,7 +490,19 @@
     "sensory processing emotional regulation app",
     "sensory processing daily living support app",
     "sensory processing caregiver app",
-    "sensory processing assistive technology app"
+    "sensory processing assistive technology app",
+    "sensory processing speech support iOS Android",
+    "sensory processing conversation support tool",
+    "sensory processing routine iOS Android",
+    "sensory processing reminders tool",
+    "sensory processing calming iOS Android",
+    "sensory processing environment planning tool",
+    "sensory processing reading support iOS Android",
+    "sensory processing classroom tool",
+    "sensory processing mood tracking mobile app",
+    "sensory processing independence mobile app",
+    "sensory processing clinician tool mobile app",
+    "sensory processing accessibility mobile app"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -851,7 +851,8 @@
     "https://github.com/FeyaBloom/Magic-Snooze",
     "https://github.com/tmneld/Noversa-AI",
     "https://github.com/FolatheDuckofDuckingburg/PenPal",
-    "https://github.com/Syntax-Syndicate-Ltd/NeuroLearn"
+    "https://github.com/Syntax-Syndicate-Ltd/NeuroLearn",
+    "https://github.com/rs2030dev/Say_it"
   ],
-  "updated_at": "2026-08-02T09:32:33.114514+00:00"
+  "updated_at": "2026-08-03T11:00:11.100589+00:00"
 }
