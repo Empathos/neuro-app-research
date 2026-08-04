@@ -3,22 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "executive function sensory regulation software",
-    "executive function overload directory",
-    "executive function student support software",
-    "executive function learning support directory",
-    "executive function emotional regulation software",
-    "executive function mood tracking directory",
-    "executive function daily living support software",
-    "executive function independence directory",
-    "executive function caregiver app software",
-    "executive function clinician tool directory",
-    "executive function assistive technology software",
-    "executive function accessibility directory",
-    "executive function speech support startup",
-    "executive function conversation support open source",
-    "executive function routine startup",
-    "executive function reminders open source",
     "executive function calming startup",
     "executive function environment planning open source",
     "executive function reading support startup",
@@ -502,7 +486,23 @@
     "ADHD mood tracking mobile app",
     "ADHD independence mobile app",
     "ADHD clinician tool mobile app",
-    "ADHD accessibility mobile app"
+    "ADHD accessibility mobile app",
+    "executive function communication support software",
+    "executive function AAC directory",
+    "executive function planning software",
+    "executive function task initiation directory",
+    "adhd sensory-regulation neurodivergent app research pass 501",
+    "adhd sensory-regulation neurodivergent app research pass 502",
+    "adhd education-learning neurodivergent app research pass 501",
+    "adhd education-learning neurodivergent app research pass 502",
+    "ADHD self regulation iOS Android",
+    "ADHD coping skills tool",
+    "ADHD life skills iOS Android",
+    "ADHD home routine tool",
+    "ADHD therapy support iOS Android",
+    "ADHD parent support tool",
+    "ADHD mobile accessibility iOS Android",
+    "ADHD adaptive tool"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -951,5 +951,5 @@
     "https://github.com/JackReis/neurodivergent-visual-org",
     "https://github.com/kaafihai/baajit"
   ],
-  "updated_at": "2026-08-03T10:52:15.612867+00:00"
+  "updated_at": "2026-08-04T10:00:33.406342+00:00"
 }
