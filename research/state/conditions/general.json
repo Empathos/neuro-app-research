@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "neurodiversity sensory regulation software",
-    "neurodiversity overload directory",
-    "neurodiversity student support software",
-    "neurodiversity learning support directory",
-    "neurodiversity emotional regulation software",
-    "neurodiversity mood tracking directory",
-    "neurodiversity daily living support software",
-    "neurodiversity independence directory",
-    "neurodiversity caregiver app software",
-    "neurodiversity clinician tool directory",
-    "neurodiversity assistive technology software",
-    "neurodiversity accessibility directory",
-    "neurodiversity speech support startup",
-    "neurodiversity conversation support open source",
-    "neurodiversity routine startup",
-    "neurodiversity reminders open source",
     "neurodiversity calming startup",
     "neurodiversity environment planning open source",
     "neurodiversity reading support startup",
@@ -502,7 +486,23 @@
     "neurodivergent mood tracking mobile app",
     "neurodivergent independence mobile app",
     "neurodivergent clinician tool mobile app",
-    "neurodivergent accessibility mobile app"
+    "neurodivergent accessibility mobile app",
+    "neurodiversity communication support software",
+    "neurodiversity AAC directory",
+    "neurodiversity planning software",
+    "neurodiversity task initiation directory",
+    "general sensory-regulation neurodivergent app research pass 501",
+    "general sensory-regulation neurodivergent app research pass 502",
+    "general education-learning neurodivergent app research pass 501",
+    "general education-learning neurodivergent app research pass 502",
+    "neurodivergent self regulation iOS Android",
+    "neurodivergent coping skills tool",
+    "neurodivergent life skills iOS Android",
+    "neurodivergent home routine tool",
+    "neurodivergent therapy support iOS Android",
+    "neurodivergent parent support tool",
+    "neurodivergent mobile accessibility iOS Android",
+    "neurodivergent adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -887,5 +887,5 @@
     "https://github.com/michaelcraft17/nexus-scenario-practice",
     "https://github.com/njefferson/ND-toolbox"
   ],
-  "updated_at": "2026-08-03T11:03:42.173796+00:00"
+  "updated_at": "2026-08-04T10:12:13.473789+00:00"
 }
