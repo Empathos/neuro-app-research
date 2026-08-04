@@ -3,22 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "tic tracking sensory regulation software",
-    "tic tracking overload directory",
-    "tic tracking student support software",
-    "tic tracking learning support directory",
-    "tic tracking emotional regulation software",
-    "tic tracking mood tracking directory",
-    "tic tracking daily living support software",
-    "tic tracking independence directory",
-    "tic tracking caregiver app software",
-    "tic tracking clinician tool directory",
-    "tic tracking assistive technology software",
-    "tic tracking accessibility directory",
-    "tic tracking speech support startup",
-    "tic tracking conversation support open source",
-    "tic tracking routine startup",
-    "tic tracking reminders open source",
     "tic tracking calming startup",
     "tic tracking environment planning open source",
     "tic tracking reading support startup",
@@ -502,7 +486,23 @@
     "Tourette mood tracking mobile app",
     "Tourette independence mobile app",
     "Tourette clinician tool mobile app",
-    "Tourette accessibility mobile app"
+    "Tourette accessibility mobile app",
+    "tic tracking communication support software",
+    "tic tracking AAC directory",
+    "tic tracking planning software",
+    "tic tracking task initiation directory",
+    "tourette sensory-regulation neurodivergent app research pass 501",
+    "tourette sensory-regulation neurodivergent app research pass 502",
+    "tourette education-learning neurodivergent app research pass 501",
+    "tourette education-learning neurodivergent app research pass 502",
+    "Tourette self regulation iOS Android",
+    "Tourette coping skills tool",
+    "Tourette life skills iOS Android",
+    "Tourette home routine tool",
+    "Tourette therapy support iOS Android",
+    "Tourette parent support tool",
+    "Tourette mobile accessibility iOS Android",
+    "Tourette adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -870,5 +870,5 @@
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/xdelin/awesome-agent4edu"
   ],
-  "updated_at": "2026-08-03T10:59:43.992782+00:00"
+  "updated_at": "2026-08-04T10:07:53.565625+00:00"
 }
