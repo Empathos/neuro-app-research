@@ -3,22 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "reading support sensory regulation software",
-    "reading support overload directory",
-    "reading support student support software",
-    "reading support learning support directory",
-    "reading support emotional regulation software",
-    "reading support mood tracking directory",
-    "reading support daily living support software",
-    "reading support independence directory",
-    "reading support caregiver app software",
-    "reading support clinician tool directory",
-    "reading support assistive technology software",
-    "reading support accessibility directory",
-    "reading support speech support startup",
-    "reading support conversation support open source",
-    "reading support routine startup",
-    "reading support reminders open source",
     "reading support calming startup",
     "reading support environment planning open source",
     "reading support reading support startup",
@@ -502,7 +486,23 @@
     "dyslexia mood tracking mobile app",
     "dyslexia independence mobile app",
     "dyslexia clinician tool mobile app",
-    "dyslexia accessibility mobile app"
+    "dyslexia accessibility mobile app",
+    "reading support communication support software",
+    "reading support AAC directory",
+    "reading support planning software",
+    "reading support task initiation directory",
+    "dyslexia sensory-regulation neurodivergent app research pass 501",
+    "dyslexia sensory-regulation neurodivergent app research pass 502",
+    "dyslexia education-learning neurodivergent app research pass 501",
+    "dyslexia education-learning neurodivergent app research pass 502",
+    "dyslexia self regulation iOS Android",
+    "dyslexia coping skills tool",
+    "dyslexia life skills iOS Android",
+    "dyslexia home routine tool",
+    "dyslexia therapy support iOS Android",
+    "dyslexia parent support tool",
+    "dyslexia mobile accessibility iOS Android",
+    "dyslexia adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -902,5 +902,5 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/SiriMudaddla/Neuro-Assistant"
   ],
-  "updated_at": "2026-08-03T10:55:46.921493+00:00"
+  "updated_at": "2026-08-04T10:04:20.486592+00:00"
 }
