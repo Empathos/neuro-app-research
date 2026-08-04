@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-08-03T11:00:11.100589+00:00
-- New findings: 1
+- UTC timestamp: 2026-08-04T10:08:29.862109+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory processing speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `sensory processing routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing reminders tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory processing calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing environment planning tool`: 1 new finding(s), 0 rejected dead link(s)
+- `sensory-processing sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `sensory processing reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing education-learning neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory processing mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory processing independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory processing clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing parent support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory processing accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
