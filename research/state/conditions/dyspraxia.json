@@ -3,20 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "motor planning task initiation directory",
-    "motor planning sensory regulation software",
-    "motor planning overload directory",
-    "motor planning student support software",
-    "motor planning learning support directory",
-    "motor planning emotional regulation software",
-    "motor planning mood tracking directory",
-    "motor planning daily living support software",
-    "motor planning independence directory",
-    "dyspraxia parent support tool",
-    "motor planning caregiver app software",
-    "motor planning assistive technology software",
-    "motor planning accessibility directory",
-    "motor planning speech support startup",
     "motor planning conversation support open source",
     "motor planning routine startup",
     "motor planning reminders open source",
@@ -502,7 +488,21 @@
     "dyspraxia mood tracking mobile app",
     "dyspraxia independence mobile app",
     "dyspraxia caregiver app",
-    "dyspraxia accessibility mobile app"
+    "dyspraxia accessibility mobile app",
+    "motor planning communication support software",
+    "motor planning AAC directory",
+    "motor planning planning software",
+    "dyspraxia sensory-regulation neurodivergent app research pass 501",
+    "dyspraxia sensory-regulation neurodivergent app research pass 502",
+    "dyspraxia classroom tool",
+    "dyspraxia self regulation iOS Android",
+    "dyspraxia coping skills tool",
+    "dyspraxia life skills iOS Android",
+    "dyspraxia home routine tool",
+    "dyspraxia clinician tool mobile app",
+    "dyspraxia therapy support iOS Android",
+    "dyspraxia mobile accessibility iOS Android",
+    "dyspraxia adaptive tool"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-03T10:56:13.953453+00:00"
+  "updated_at": "2026-08-04T10:04:20.249145+00:00"
 }
