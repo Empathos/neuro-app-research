@@ -3,22 +3,6 @@
   "condition_cursor": 1,
   "modifier_cursor": 0,
   "seen_queries": [
-    "autistic sensory regulation software",
-    "autistic overload directory",
-    "autistic student support software",
-    "autistic learning support directory",
-    "autistic emotional regulation software",
-    "autistic mood tracking directory",
-    "autistic daily living support software",
-    "autistic independence directory",
-    "autistic caregiver app software",
-    "autistic clinician tool directory",
-    "autistic assistive technology software",
-    "autistic accessibility directory",
-    "autistic speech support startup",
-    "autistic conversation support open source",
-    "autistic routine startup",
-    "autistic reminders open source",
     "autistic calming startup",
     "autistic environment planning open source",
     "autistic reading support startup",
@@ -502,7 +486,23 @@
     "autism mood tracking mobile app",
     "autism independence mobile app",
     "autism clinician tool mobile app",
-    "autism accessibility mobile app"
+    "autism accessibility mobile app",
+    "autistic communication support software",
+    "autistic AAC directory",
+    "autistic planning software",
+    "autistic task initiation directory",
+    "autism sensory-regulation neurodivergent app research pass 501",
+    "autism sensory-regulation neurodivergent app research pass 502",
+    "autism education-learning neurodivergent app research pass 501",
+    "autism education-learning neurodivergent app research pass 502",
+    "autism self regulation iOS Android",
+    "autism coping skills tool",
+    "autism life skills iOS Android",
+    "autism home routine tool",
+    "autism therapy support iOS Android",
+    "autism parent support tool",
+    "autism mobile accessibility iOS Android",
+    "autism adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/thruday/id1645552771",
@@ -918,5 +918,5 @@
     "https://github.com/kaafihai/baajit",
     "https://github.com/rs2030dev/Say_it"
   ],
-  "updated_at": "2026-08-03T10:52:03.172766+00:00"
+  "updated_at": "2026-08-04T10:00:39.939561+00:00"
 }

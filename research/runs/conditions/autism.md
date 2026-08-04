@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-08-03T10:52:03.172766+00:00
-- New findings: 3
+- UTC timestamp: 2026-08-04T10:00:39.939561+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `autism speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `autism conversation support tool`: 1 new finding(s), 0 rejected dead link(s)
+- `autistic communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `autism routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `autism reminders tool`: 1 new finding(s), 0 rejected dead link(s)
+- `autistic planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autism calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `autism environment planning tool`: 1 new finding(s), 0 rejected dead link(s)
+- `autism sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `autism sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autism reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `autism classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `autism education-learning neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `autism education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autism mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `autism independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autism clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism parent support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autism accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `autism accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `autism mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `autism adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
