@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-08-03T11:03:33.010388+00:00
-- New findings: 1
+- UTC timestamp: 2026-08-04T10:12:07.507384+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `executive function speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function conversation support tool`: 1 new finding(s), 0 rejected dead link(s)
+- `routine communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `routine AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `executive function routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function reminders tool`: 0 new finding(s), 0 rejected dead link(s)
+- `routine planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `routine task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `executive function calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `executive function reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function education-learning neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `executive function mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `executive function independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `executive function clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function parent support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `executive function accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 

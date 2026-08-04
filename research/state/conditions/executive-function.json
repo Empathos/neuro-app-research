@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "routine sensory regulation software",
-    "routine overload directory",
-    "routine student support software",
-    "routine learning support directory",
-    "routine emotional regulation software",
-    "routine mood tracking directory",
-    "routine daily living support software",
-    "routine independence directory",
-    "routine caregiver app software",
-    "routine clinician tool directory",
-    "routine assistive technology software",
-    "routine accessibility directory",
-    "routine speech support startup",
-    "routine conversation support open source",
-    "routine routine startup",
-    "routine reminders open source",
     "routine calming startup",
     "routine environment planning open source",
     "routine reading support startup",
@@ -502,7 +486,23 @@
     "executive function mood tracking mobile app",
     "executive function independence mobile app",
     "executive function clinician tool mobile app",
-    "executive function accessibility mobile app"
+    "executive function accessibility mobile app",
+    "routine communication support software",
+    "routine AAC directory",
+    "routine planning software",
+    "routine task initiation directory",
+    "executive-function sensory-regulation neurodivergent app research pass 501",
+    "executive-function sensory-regulation neurodivergent app research pass 502",
+    "executive-function education-learning neurodivergent app research pass 501",
+    "executive-function education-learning neurodivergent app research pass 502",
+    "executive function self regulation iOS Android",
+    "executive function coping skills tool",
+    "executive function life skills iOS Android",
+    "executive function home routine tool",
+    "executive function therapy support iOS Android",
+    "executive function parent support tool",
+    "executive function mobile accessibility iOS Android",
+    "executive function adaptive tool"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -836,5 +836,5 @@
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/JackReis/neurodivergent-visual-org"
   ],
-  "updated_at": "2026-08-03T11:03:33.010388+00:00"
+  "updated_at": "2026-08-04T10:12:07.507384+00:00"
 }
