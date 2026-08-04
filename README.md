@@ -2,7 +2,7 @@
 
 Neuro App Research is a GitHub-native research loop for finding public apps, tools, directories, and repositories that may support neurodivergent people.
 
-The goal is simple: run one script, collect condition-specific research through GitHub Actions, review the results through pull requests, and publish merged findings as a static research site.
+The goal is simple: run one script, collect condition-specific research through GitHub Actions, review the results through pull requests, and publish merged findings as a static research site .
 
 Public site: [research.empathos.ai](https://research.empathos.ai/)
 
