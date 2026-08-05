@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "routine calming startup",
-    "routine environment planning open source",
-    "routine reading support startup",
-    "routine classroom open source",
-    "routine self regulation startup",
-    "routine coping skills open source",
-    "routine life skills startup",
-    "routine home routine open source",
-    "routine therapy support startup",
-    "routine parent support open source",
-    "routine mobile accessibility startup",
-    "routine adaptive tool open source",
-    "task initiation communication support app",
-    "task initiation AAC mobile app",
-    "task initiation planning app",
-    "task initiation task initiation mobile app",
     "task initiation sensory regulation app",
     "task initiation overload mobile app",
     "task initiation student support app",
@@ -502,7 +486,23 @@
     "executive function therapy support iOS Android",
     "executive function parent support tool",
     "executive function mobile accessibility iOS Android",
-    "executive function adaptive tool"
+    "executive function adaptive tool",
+    "routine speech support startup",
+    "routine conversation support open source",
+    "routine routine startup",
+    "routine reminders open source",
+    "routine sensory regulation software",
+    "routine overload directory",
+    "routine student support software",
+    "routine learning support directory",
+    "routine emotional regulation software",
+    "routine mood tracking directory",
+    "routine daily living support software",
+    "routine independence directory",
+    "routine caregiver app software",
+    "routine clinician tool directory",
+    "routine assistive technology software",
+    "routine accessibility directory"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -836,5 +836,5 @@
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/JackReis/neurodivergent-visual-org"
   ],
-  "updated_at": "2026-08-04T10:12:07.507384+00:00"
+  "updated_at": "2026-08-05T10:10:29.108892+00:00"
 }
