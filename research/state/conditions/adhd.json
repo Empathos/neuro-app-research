@@ -3,22 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "executive function calming startup",
-    "executive function environment planning open source",
-    "executive function reading support startup",
-    "executive function classroom open source",
-    "executive function self regulation startup",
-    "executive function coping skills open source",
-    "executive function life skills startup",
-    "executive function home routine open source",
-    "executive function therapy support startup",
-    "executive function parent support open source",
-    "executive function mobile accessibility startup",
-    "executive function adaptive tool open source",
-    "focus communication support app",
-    "focus AAC mobile app",
-    "focus planning app",
-    "focus task initiation mobile app",
     "focus sensory regulation app",
     "focus overload mobile app",
     "focus student support app",
@@ -502,7 +486,23 @@
     "ADHD therapy support iOS Android",
     "ADHD parent support tool",
     "ADHD mobile accessibility iOS Android",
-    "ADHD adaptive tool"
+    "ADHD adaptive tool",
+    "executive function speech support startup",
+    "executive function conversation support open source",
+    "executive function routine startup",
+    "executive function reminders open source",
+    "executive function sensory regulation software",
+    "executive function overload directory",
+    "executive function student support software",
+    "executive function learning support directory",
+    "executive function emotional regulation software",
+    "executive function mood tracking directory",
+    "executive function daily living support software",
+    "executive function independence directory",
+    "executive function caregiver app software",
+    "executive function clinician tool directory",
+    "executive function assistive technology software",
+    "executive function accessibility directory"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -951,5 +951,5 @@
     "https://github.com/JackReis/neurodivergent-visual-org",
     "https://github.com/kaafihai/baajit"
   ],
-  "updated_at": "2026-08-04T10:00:33.406342+00:00"
+  "updated_at": "2026-08-05T09:59:01.497855+00:00"
 }
