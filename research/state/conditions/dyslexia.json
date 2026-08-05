@@ -3,22 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "reading support calming startup",
-    "reading support environment planning open source",
-    "reading support reading support startup",
-    "reading support classroom open source",
-    "reading support self regulation startup",
-    "reading support coping skills open source",
-    "reading support life skills startup",
-    "reading support home routine open source",
-    "reading support therapy support startup",
-    "reading support parent support open source",
-    "reading support mobile accessibility startup",
-    "reading support adaptive tool open source",
-    "text to speech communication support app",
-    "text to speech AAC mobile app",
-    "text to speech planning app",
-    "text to speech task initiation mobile app",
     "text to speech sensory regulation app",
     "text to speech overload mobile app",
     "text to speech student support app",
@@ -502,7 +486,23 @@
     "dyslexia therapy support iOS Android",
     "dyslexia parent support tool",
     "dyslexia mobile accessibility iOS Android",
-    "dyslexia adaptive tool"
+    "dyslexia adaptive tool",
+    "reading support speech support startup",
+    "reading support conversation support open source",
+    "reading support routine startup",
+    "reading support reminders open source",
+    "reading support sensory regulation software",
+    "reading support overload directory",
+    "reading support student support software",
+    "reading support learning support directory",
+    "reading support emotional regulation software",
+    "reading support mood tracking directory",
+    "reading support daily living support software",
+    "reading support independence directory",
+    "reading support caregiver app software",
+    "reading support clinician tool directory",
+    "reading support assistive technology software",
+    "reading support accessibility directory"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -902,5 +902,5 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/SiriMudaddla/Neuro-Assistant"
   ],
-  "updated_at": "2026-08-04T10:04:20.486592+00:00"
+  "updated_at": "2026-08-05T10:02:55.348695+00:00"
 }
