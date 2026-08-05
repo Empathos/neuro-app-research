@@ -169,16 +169,6 @@
 - Found: 2026-07-01
 - Description: Official product page for Read&Write, a literacy overlay toolbar offering text-to-speech, word prediction, and dual-color highlighting to support dyslexic users with sensory reading regulation.
 
-### Capti Voice - Literacy Platform for Dyslexia
-
-- URL: https://captivoice.com/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: sensory-regulation
-- Query: dyslexia sensory regulation software
-- Found: 2026-07-01
-- Description: Official product page for Capti Voice, an award-winning literacy platform allowing educators to personalize reading instruction with text-to-speech and sensory regulation features for dyslexic students.
-
 ### ClaroRead - Dyslexia Support Software
 
 - URL: https://www.claroread.com/

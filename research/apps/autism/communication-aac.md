@@ -638,3 +638,13 @@
 - Query: autism conversation support tool
 - Found: 2026-08-03
 - Description: Signal is a Slack agent that makes work chat less overwhelming and more understandable for people with ADHD and autismusing AI to translate social tone, smart search to answer "what did I miss?", and calendar integration to protect focus time.
+
+### AutARK-Research-Project/SmartHeadphones
+
+- URL: https://github.com/AutARK-Research-Project/SmartHeadphones
+- Source: github-search
+- Condition: autism
+- Support category: communication-aac
+- Query: autistic conversation support open source
+- Found: 2026-08-05
+- Description: Assisting autistic people by controlling ANC headphones via wake words and creating adaptive masking noise
