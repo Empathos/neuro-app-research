@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: tourette
-- UTC timestamp: 2026-08-04T10:07:53.565625+00:00
+- UTC timestamp: 2026-08-05T10:06:42.955584+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `tic tracking communication support software`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking AAC directory`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `tic tracking planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `tourette sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `tourette sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking overload directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `tourette education-learning neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `tourette education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking student support software`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking learning support directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `Tourette self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `Tourette coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `Tourette life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `Tourette home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `Tourette therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `Tourette parent support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `Tourette mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `Tourette adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 
