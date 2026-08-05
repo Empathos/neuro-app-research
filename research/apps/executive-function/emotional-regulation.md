@@ -129,16 +129,6 @@
 - Found: 2026-06-26
 - Description: A sensory-based intervention program teaching individuals to recognize and adjust alertness levels, incorporating structured routines and movement breaks to support self-regulation in neurodiverse populations.
 
-### Conscious Discipline
-
-- URL: https://consciousdiscipline.com/blog/empowering-educators-for-life-long-self-regulation-a-transformational-workshop-for-students-with-asd-and-caregivers/
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: emotional-regulation
-- Query: routine self regulation startup
-- Found: 2026-06-26
-- Description: An adult-first, evidence-based approach focusing on enhanced routines, rituals, and self-regulation strategies to support social, emotional, and academic success for students with ASD.
-
 ### Self Regulation MVP (Concept)
 
 - URL: https://www.sciencedirect.com/science/article/pii/S0890856725020106
