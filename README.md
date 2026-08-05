@@ -118,7 +118,7 @@ The scheduled flow:
 
 ```text
 daily clock
-  -> select 5–8 condition collectors for that run
+  -> select 5–7 condition collectors for that run
   -> run each selected collector with max_results=8 and query_count=2
   -> push/update one research branch per condition
   -> open/update one pull request per changed condition
@@ -131,7 +131,7 @@ daily clock
 The workflow uses `RESEARCH_BOT_TOKEN` when configured, falling back to `GITHUB_TOKEN`. Use `RESEARCH_BOT_TOKEN` for the fully automated path so branch pushes, main pushes, CI, and Pages behave like normal repository activity.
 
 The daily condition count is intentionally a soft range rather than a quota. Each
-scheduled run selects 5–8 distinct condition lanes using the auditable GitHub run
+scheduled run selects 5–7 distinct condition lanes using the auditable GitHub run
 ID as its random seed. A lane that finds no real research change remains a no-op;
 the workflow never creates filler commits. Manual runs can override the minimum
 and maximum, including setting both to `8` for a complete pass.

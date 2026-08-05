@@ -24,9 +24,9 @@ on:
         default: "5"
         type: string
       maximum_conditions:
-        description: Maximum condition lanes to research. Scheduled runs default to 8.
+        description: Maximum condition lanes to research. Scheduled runs default to 7.
         required: false
-        default: "8"
+        default: "7"
         type: string
   schedule:
     - cron: "17 7 * * *"
@@ -51,7 +51,7 @@ jobs:
         id: select
         env:
           MINIMUM_CONDITIONS: ${{ inputs.minimum_conditions || '5' }}
-          MAXIMUM_CONDITIONS: ${{ inputs.maximum_conditions || '8' }}
+          MAXIMUM_CONDITIONS: ${{ inputs.maximum_conditions || '7' }}
         run: |
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
           import json
