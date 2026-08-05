@@ -118,7 +118,8 @@ The scheduled flow:
 
 ```text
 daily clock
-  -> run all 8 condition collectors with max_results=8 and query_count=2
+  -> select 5–8 condition collectors for that run
+  -> run each selected collector with max_results=8 and query_count=2
   -> push/update one research branch per condition
   -> open/update one pull request per changed condition
   -> merge condition branches into main one by one as Mitchell <mitchell@empathos.ai>
@@ -129,9 +130,15 @@ daily clock
 
 The workflow uses `RESEARCH_BOT_TOKEN` when configured, falling back to `GITHUB_TOKEN`. Use `RESEARCH_BOT_TOKEN` for the fully automated path so branch pushes, main pushes, CI, and Pages behave like normal repository activity.
 
+The daily condition count is intentionally a soft range rather than a quota. Each
+scheduled run selects 5–8 distinct condition lanes using the auditable GitHub run
+ID as its random seed. A lane that finds no real research change remains a no-op;
+the workflow never creates filler commits. Manual runs can override the minimum
+and maximum, including setting both to `8` for a complete pass.
+
 ## Current status
 
-Operational prototype. The daily eight-condition research and merge workflow is running through GitHub Actions. The collector uses Perplexity Sonar when `PERPLEXITY_API_KEY` is configured in GitHub Actions secrets. If the key is unavailable or the API call fails, it falls back to GitHub repository search.
+Operational prototype. The daily variable-condition research and merge workflow is running through GitHub Actions. The collector uses Perplexity Sonar when `PERPLEXITY_API_KEY` is configured in GitHub Actions secrets. If the key is unavailable or the API call fails, it falls back to GitHub repository search.
 
 The static site is configured for `research.empathos.ai` and publishes through GitHub Pages from the `main` branch build workflow.
 
