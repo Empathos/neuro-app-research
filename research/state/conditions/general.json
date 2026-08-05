@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "neurodiversity calming startup",
-    "neurodiversity environment planning open source",
-    "neurodiversity reading support startup",
-    "neurodiversity classroom open source",
-    "neurodiversity self regulation startup",
-    "neurodiversity coping skills open source",
-    "neurodiversity life skills startup",
-    "neurodiversity home routine open source",
-    "neurodiversity therapy support startup",
-    "neurodiversity parent support open source",
-    "neurodiversity mobile accessibility startup",
-    "neurodiversity adaptive tool open source",
-    "accessibility communication support app",
-    "accessibility AAC mobile app",
-    "accessibility planning app",
-    "accessibility task initiation mobile app",
     "accessibility sensory regulation app",
     "accessibility overload mobile app",
     "accessibility student support app",
@@ -502,7 +486,23 @@
     "neurodivergent therapy support iOS Android",
     "neurodivergent parent support tool",
     "neurodivergent mobile accessibility iOS Android",
-    "neurodivergent adaptive tool"
+    "neurodivergent adaptive tool",
+    "neurodiversity speech support startup",
+    "neurodiversity conversation support open source",
+    "neurodiversity routine startup",
+    "neurodiversity reminders open source",
+    "neurodiversity sensory regulation software",
+    "neurodiversity overload directory",
+    "neurodiversity student support software",
+    "neurodiversity learning support directory",
+    "neurodiversity emotional regulation software",
+    "neurodiversity mood tracking directory",
+    "neurodiversity daily living support software",
+    "neurodiversity independence directory",
+    "neurodiversity caregiver app software",
+    "neurodiversity clinician tool directory",
+    "neurodiversity assistive technology software",
+    "neurodiversity accessibility directory"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -887,5 +887,5 @@
     "https://github.com/michaelcraft17/nexus-scenario-practice",
     "https://github.com/njefferson/ND-toolbox"
   ],
-  "updated_at": "2026-08-04T10:12:13.473789+00:00"
+  "updated_at": "2026-08-05T10:10:49.055990+00:00"
 }
