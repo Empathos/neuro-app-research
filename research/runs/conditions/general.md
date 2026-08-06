@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-08-05T10:10:49.055990+00:00
-- New findings: 0
+- UTC timestamp: 2026-08-06T10:06:06.908718+00:00
+- New findings: 1
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `neurodiversity speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `neurodiversity routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `accessibility task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `neurodiversity sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `neurodiversity student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity classroom open source`: 1 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `neurodiversity emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `neurodiversity daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `neurodiversity caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `neurodiversity assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodiversity accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 

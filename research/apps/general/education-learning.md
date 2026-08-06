@@ -388,3 +388,13 @@
 - Query: neurodivergent student support app
 - Found: 2026-08-02
 - Description: Hybrid conversational AI system for socioemotional support in neurodivergent contexts using NLP, contextual memory, adaptive conversational routing, and supervised generative AI.
+
+### saiaathish/UnseenLab
+
+- URL: https://github.com/saiaathish/UnseenLab
+- Source: github-search
+- Condition: general
+- Support category: education-learning
+- Query: neurodiversity classroom open source
+- Found: 2026-08-06
+- Description: An adaptive virtual STEM laboratory where students safely perform experiments that are dangerous, expensive, microscopic, massive, slow, or otherwise inaccessible in a normal classroom.
