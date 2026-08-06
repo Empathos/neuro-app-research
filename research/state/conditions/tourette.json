@@ -3,22 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "habit awareness sensory regulation app",
-    "habit awareness overload mobile app",
-    "habit awareness student support app",
-    "habit awareness learning support mobile app",
-    "habit awareness emotional regulation app",
-    "habit awareness mood tracking mobile app",
-    "habit awareness daily living support app",
-    "habit awareness independence mobile app",
-    "habit awareness caregiver app",
-    "habit awareness clinician tool mobile app",
-    "habit awareness assistive technology app",
-    "habit awareness accessibility mobile app",
-    "habit awareness speech support iOS Android",
-    "habit awareness conversation support tool",
-    "habit awareness routine iOS Android",
-    "habit awareness reminders tool",
     "habit awareness calming iOS Android",
     "habit awareness environment planning tool",
     "habit awareness reading support iOS Android",
@@ -502,7 +486,23 @@
     "tic tracking caregiver app software",
     "tic tracking clinician tool directory",
     "tic tracking assistive technology software",
-    "tic tracking accessibility directory"
+    "tic tracking accessibility directory",
+    "habit awareness communication support app",
+    "habit awareness AAC mobile app",
+    "habit awareness planning app",
+    "habit awareness task initiation mobile app",
+    "tic tracking calming startup",
+    "tic tracking environment planning open source",
+    "tic tracking reading support startup",
+    "tic tracking classroom open source",
+    "tic tracking self regulation startup",
+    "tic tracking coping skills open source",
+    "tic tracking life skills startup",
+    "tic tracking home routine open source",
+    "tic tracking therapy support startup",
+    "tic tracking parent support open source",
+    "tic tracking mobile accessibility startup",
+    "tic tracking adaptive tool open source"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -870,5 +870,5 @@
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/xdelin/awesome-agent4edu"
   ],
-  "updated_at": "2026-08-05T10:06:42.955584+00:00"
+  "updated_at": "2026-08-06T10:05:46.566389+00:00"
 }
