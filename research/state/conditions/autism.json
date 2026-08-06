@@ -3,22 +3,6 @@
   "condition_cursor": 1,
   "modifier_cursor": 0,
   "seen_queries": [
-    "AAC sensory regulation app",
-    "AAC overload mobile app",
-    "AAC student support app",
-    "AAC learning support mobile app",
-    "AAC emotional regulation app",
-    "AAC mood tracking mobile app",
-    "AAC daily living support app",
-    "AAC independence mobile app",
-    "AAC caregiver app",
-    "AAC clinician tool mobile app",
-    "AAC assistive technology app",
-    "AAC accessibility mobile app",
-    "AAC speech support iOS Android",
-    "AAC conversation support tool",
-    "AAC routine iOS Android",
-    "AAC reminders tool",
     "AAC calming iOS Android",
     "AAC environment planning tool",
     "AAC reading support iOS Android",
@@ -502,7 +486,23 @@
     "autistic caregiver app software",
     "autistic clinician tool directory",
     "autistic assistive technology software",
-    "autistic accessibility directory"
+    "autistic accessibility directory",
+    "AAC communication support app",
+    "AAC AAC mobile app",
+    "AAC planning app",
+    "AAC task initiation mobile app",
+    "autistic calming startup",
+    "autistic environment planning open source",
+    "autistic reading support startup",
+    "autistic classroom open source",
+    "autistic self regulation startup",
+    "autistic coping skills open source",
+    "autistic life skills startup",
+    "autistic home routine open source",
+    "autistic therapy support startup",
+    "autistic parent support open source",
+    "autistic mobile accessibility startup",
+    "autistic adaptive tool open source"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/thruday/id1645552771",
@@ -917,7 +917,9 @@
     "https://github.com/LSUDOKO/signal",
     "https://github.com/kaafihai/baajit",
     "https://github.com/rs2030dev/Say_it",
-    "https://github.com/AutARK-Research-Project/SmartHeadphones"
+    "https://github.com/AutARK-Research-Project/SmartHeadphones",
+    "https://github.com/MaheshKumarsg036/NeuroClear",
+    "https://github.com/WobblyWanderer/BridgeTranslate"
   ],
-  "updated_at": "2026-08-05T09:58:51.987106+00:00"
+  "updated_at": "2026-08-06T10:09:37.468681+00:00"
 }

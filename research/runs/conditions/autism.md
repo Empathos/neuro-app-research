@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-08-05T09:58:51.987106+00:00
-- New findings: 1
+- UTC timestamp: 2026-08-06T10:09:37.468681+00:00
+- New findings: 2
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `autistic speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic conversation support open source`: 1 new finding(s), 0 rejected dead link(s)
+- `AAC communication support app`: 1 new finding(s), 0 rejected dead link(s)
+- `AAC AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `autistic routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autistic sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic calming startup`: 1 new finding(s), 0 rejected dead link(s)
+- `autistic environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autistic student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autistic emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `autistic daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autistic caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autistic assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `autistic adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 

@@ -598,3 +598,13 @@
 - Query: autism environment planning tool
 - Found: 2026-08-03
 - Description: A digital health and assistive technology tool built with an accessibility-first philosophy to facilitate action-verb learning for neurodivergent kids (ages 3-7, ASD). Blends clinical speech methodologies with a low-sensory UI, showcasing clean execution across product management, UX design, and product engineering.
+
+### MaheshKumarsg036/NeuroClear
+
+- URL: https://github.com/MaheshKumarsg036/NeuroClear
+- Source: github-search
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autistic calming startup
+- Found: 2026-08-06
+- Description: NeuroClear is a web assistant designed to help neurodiverse readers by reformatting dense documents into more accessible versions. Users upload documents, select a support mode tailored to their needs (e.g., ADHD, anxiety), and receive a reworded version with simplified language and calming tones.
