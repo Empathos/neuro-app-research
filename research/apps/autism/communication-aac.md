@@ -648,3 +648,13 @@
 - Query: autistic conversation support open source
 - Found: 2026-08-05
 - Description: Assisting autistic people by controlling ANC headphones via wake words and creating adaptive masking noise
+
+### WobblyWanderer/BridgeTranslate
+
+- URL: https://github.com/WobblyWanderer/BridgeTranslate
+- Source: github-search
+- Condition: autism
+- Support category: communication-aac
+- Query: AAC communication support app
+- Found: 2026-08-06
+- Description: AI-powered communication translator for neurodivergent people
