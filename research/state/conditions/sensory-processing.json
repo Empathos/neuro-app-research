@@ -3,22 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "overload sensory regulation app",
-    "overload overload mobile app",
-    "overload student support app",
-    "overload learning support mobile app",
-    "overload emotional regulation app",
-    "overload mood tracking mobile app",
-    "overload daily living support app",
-    "overload independence mobile app",
-    "overload caregiver app",
-    "overload clinician tool mobile app",
-    "overload assistive technology app",
-    "overload accessibility mobile app",
-    "overload speech support iOS Android",
-    "overload conversation support tool",
-    "overload routine iOS Android",
-    "overload reminders tool",
     "overload calming iOS Android",
     "overload environment planning tool",
     "overload reading support iOS Android",
@@ -502,7 +486,23 @@
     "sensory regulation caregiver app software",
     "sensory regulation clinician tool directory",
     "sensory regulation assistive technology software",
-    "sensory regulation accessibility directory"
+    "sensory regulation accessibility directory",
+    "overload communication support app",
+    "overload AAC mobile app",
+    "overload planning app",
+    "overload task initiation mobile app",
+    "sensory regulation calming startup",
+    "sensory regulation environment planning open source",
+    "sensory regulation reading support startup",
+    "sensory regulation classroom open source",
+    "sensory regulation self regulation startup",
+    "sensory regulation coping skills open source",
+    "sensory regulation life skills startup",
+    "sensory regulation home routine open source",
+    "sensory regulation therapy support startup",
+    "sensory regulation parent support open source",
+    "sensory regulation mobile accessibility startup",
+    "sensory regulation adaptive tool open source"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -852,7 +852,8 @@
     "https://github.com/tmneld/Noversa-AI",
     "https://github.com/FolatheDuckofDuckingburg/PenPal",
     "https://github.com/Syntax-Syndicate-Ltd/NeuroLearn",
-    "https://github.com/rs2030dev/Say_it"
+    "https://github.com/rs2030dev/Say_it",
+    "https://github.com/YUCHENLU666/calm-journey-melbourne"
   ],
-  "updated_at": "2026-08-05T10:06:55.257334+00:00"
+  "updated_at": "2026-08-06T10:01:44.008456+00:00"
 }
