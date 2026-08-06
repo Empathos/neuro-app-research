@@ -468,3 +468,13 @@
 - Query: overload reminders open source
 - Found: 2026-07-09
 - Description: A productivity app that built around recovery. Real life has dips - low-energy days, executive dysfunction, burnout, emotional overload. Those moments shouldnt erase your progress or force you to start from zero. Consistency shouldnt collapse because you needed rest. Magic Snooze protects your continuity - even when you cant show up.
+
+### YUCHENLU666/calm-journey-melbourne
+
+- URL: https://github.com/YUCHENLU666/calm-journey-melbourne
+- Source: github-search
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: overload planning app
+- Found: 2026-08-06
+- Description: A sensory-aware journey planning web prototype for Melbourne CBD commuters.
