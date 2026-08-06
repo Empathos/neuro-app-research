@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-08-05T10:10:29.108892+00:00
+- UTC timestamp: 2026-08-06T10:13:28.827158+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `routine speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `routine conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `routine routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `routine reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `routine sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `routine overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `routine calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `routine environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `routine student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `routine learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `routine reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `routine classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `routine emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `routine mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `routine self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `routine coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `routine daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `routine independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `routine life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `routine home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `routine caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `routine clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `routine therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `routine parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `routine assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `routine accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `routine mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `routine adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
