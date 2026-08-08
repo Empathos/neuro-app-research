@@ -99,16 +99,6 @@
 - Description: Official product page for Read&Write, a comprehensive literacy support startup offering text-to-speech, word prediction, and study tools designed for neurodivergent learners including those with dyslexia.
 
 
-### Microsoft Immersive Reader
-
-- URL: https://www.microsoft.com/education/products/immersive-reader
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: education-learning
-- Query: dyslexia student support software
-- Found: 2026-07-01
-- Description: Official Microsoft tool built into Word and OneNote that reads text aloud, adjusts font size/spacing, and improves reading comprehension for students with dyslexia.
-
 ### Co:Writer Universal (Dyslexia Edition)
 
 - URL: https://www.datascope.com/products/cowriter-universal
