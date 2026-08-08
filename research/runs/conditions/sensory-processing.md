@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-08-06T10:01:44.008456+00:00
+- UTC timestamp: 2026-08-08T08:02:25.044465+00:00
 - New findings: 1
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `overload communication support app`: 0 new finding(s), 0 rejected dead link(s)
-- `overload AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `overload conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `overload planning app`: 1 new finding(s), 0 rejected dead link(s)
-- `overload task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `overload reminders tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory regulation calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `overload sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `sensory regulation reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `overload student support app`: 1 new finding(s), 0 rejected dead link(s)
+- `overload learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory regulation self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `overload emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory regulation life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `overload daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory regulation therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `overload caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory regulation mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `overload assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `overload accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
