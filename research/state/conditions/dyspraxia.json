@@ -3,20 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "coordination caregiver app",
-    "coordination assistive technology app",
-    "coordination accessibility mobile app",
-    "coordination speech support iOS Android",
-    "coordination conversation support tool",
-    "coordination routine iOS Android",
-    "coordination reminders tool",
-    "coordination calming iOS Android",
-    "coordination environment planning tool",
-    "coordination reading support iOS Android",
-    "coordination classroom tool",
-    "coordination self regulation iOS Android",
-    "coordination coping skills tool",
-    "coordination life skills iOS Android",
     "coordination home routine tool",
     "coordination clinician tool mobile app",
     "coordination therapy support iOS Android",
@@ -502,7 +488,21 @@
     "motor planning home routine open source",
     "motor planning clinician tool directory",
     "motor planning therapy support startup",
-    "motor planning mobile accessibility startup"
+    "motor planning mobile accessibility startup",
+    "coordination communication support app",
+    "coordination AAC mobile app",
+    "coordination planning app",
+    "coordination task initiation mobile app",
+    "coordination sensory regulation app",
+    "coordination overload mobile app",
+    "coordination student support app",
+    "coordination learning support mobile app",
+    "coordination emotional regulation app",
+    "coordination mood tracking mobile app",
+    "coordination daily living support app",
+    "coordination independence mobile app",
+    "motor planning parent support open source",
+    "motor planning adaptive tool open source"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-06T10:01:50.838031+00:00"
+  "updated_at": "2026-08-08T08:02:23.310080+00:00"
 }
