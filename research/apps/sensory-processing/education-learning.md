@@ -189,16 +189,6 @@
 - Found: 2026-06-29
 - Description: Official Google Play page for the TELUS Health Student Support app, offering students access to the TELUS Health Student Support Program with counseling via app, phone, and web.
 
-### TELUS Health Student Support App - Texas A&M University
-
-- URL: https://uhs.tamu.edu/mental-health/student-support.html
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: education-learning
-- Query: overload student support app
-- Found: 2026-06-29
-- Description: University Health Services documentation guiding Texas A&M students to download and use the TELUS Health Student Support app for 24/7 emotional health support and counseling.
-
 ### Student Support case overload: Five proven ways technology can help
 
 - URL: https://www.tribalgroup.com/tribal-blog/student-support-case-overload-five-proven-ways-technology-can-help

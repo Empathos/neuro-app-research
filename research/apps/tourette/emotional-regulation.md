@@ -288,3 +288,13 @@
 - Query: Tourette mood tracking directory
 - Found: 2026-07-01
 - Description: Mood tracking app designed to help individuals with Tourette syndrome track daily highs, lows, irritability, sleep, and triggers for better management.
+
+### alexisvassquez/trackthatmoney
+
+- URL: https://github.com/alexisvassquez/trackthatmoney
+- Source: github-search
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: habit awareness mood tracking mobile app
+- Found: 2026-08-08
+- Description: An expense tracking mobile app built in Flutter to know why you're broke. For ND individuals who get overwhelmed dealing with finances.
