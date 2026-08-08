@@ -578,3 +578,13 @@
 - Query: sensory processing student support app
 - Found: 2026-08-02
 - Description: An AI-powered adaptive learning platform that transforms PDFs and text into personalized, multi-sensory learning experiences with arcade games, real-time emotion detection, and multilingual TTS. Built for neurodivergent and neurotypical learners alike.
+
+### dev-Adhithiya/GentlePath
+
+- URL: https://github.com/dev-Adhithiya/GentlePath
+- Source: github-search
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: overload student support app
+- Found: 2026-08-08
+- Description: Web app that helps neurodivergent students
