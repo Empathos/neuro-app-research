@@ -408,3 +408,13 @@
 - Query: neurodivergent mood tracking directory
 - Found: 2026-07-01
 - Description: An iOS and Android app for tracking symptoms, mood, sleep, nutrition, and health measurements, offering analysis features to identify patterns affecting your well-being.
+
+### alexisvassquez/trackthatmoney
+
+- URL: https://github.com/alexisvassquez/trackthatmoney
+- Source: github-search
+- Condition: general
+- Support category: emotional-regulation
+- Query: accessibility mood tracking mobile app
+- Found: 2026-08-08
+- Description: An expense tracking mobile app built in Flutter to know why you're broke. For ND individuals who get overwhelmed dealing with finances.
