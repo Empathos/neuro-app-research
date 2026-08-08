@@ -3,22 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "focus sensory regulation app",
-    "focus overload mobile app",
-    "focus student support app",
-    "focus learning support mobile app",
-    "focus emotional regulation app",
-    "focus mood tracking mobile app",
-    "focus daily living support app",
-    "focus independence mobile app",
-    "focus caregiver app",
-    "focus clinician tool mobile app",
-    "focus assistive technology app",
-    "focus accessibility mobile app",
-    "focus speech support iOS Android",
-    "focus conversation support tool",
-    "focus routine iOS Android",
-    "focus reminders tool",
     "focus calming iOS Android",
     "focus environment planning tool",
     "focus reading support iOS Android",
@@ -502,7 +486,23 @@
     "executive function caregiver app software",
     "executive function clinician tool directory",
     "executive function assistive technology software",
-    "executive function accessibility directory"
+    "executive function accessibility directory",
+    "focus communication support app",
+    "focus AAC mobile app",
+    "focus planning app",
+    "focus task initiation mobile app",
+    "executive function calming startup",
+    "executive function environment planning open source",
+    "executive function reading support startup",
+    "executive function classroom open source",
+    "executive function self regulation startup",
+    "executive function coping skills open source",
+    "executive function life skills startup",
+    "executive function home routine open source",
+    "executive function therapy support startup",
+    "executive function parent support open source",
+    "executive function mobile accessibility startup",
+    "executive function adaptive tool open source"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -949,7 +949,8 @@
     "https://github.com/ilhamilha-creator/mimicecho-ai",
     "https://github.com/CompanyMaster/companymaster-saas",
     "https://github.com/JackReis/neurodivergent-visual-org",
-    "https://github.com/kaafihai/baajit"
+    "https://github.com/kaafihai/baajit",
+    "https://github.com/tarang-tj/subtext"
   ],
-  "updated_at": "2026-08-05T09:59:01.497855+00:00"
+  "updated_at": "2026-08-08T08:06:19.262239+00:00"
 }
