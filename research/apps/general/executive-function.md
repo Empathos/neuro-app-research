@@ -498,3 +498,33 @@
 - Query: neurodivergent task initiation mobile app
 - Found: 2026-08-02
 - Description: An accessible web application to improve focus and productivity for neurodivergent users
+
+### Vilsee/Neuroscope
+
+- URL: https://github.com/Vilsee/Neuroscope
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-08-08
+- Description: An adaptive, multi-modal cognitive concept visualizer and pacing tool co-designed with neurodivergent learners.
+
+### TheWeirdDee/savepoint
+
+- URL: https://github.com/TheWeirdDee/savepoint
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-08-08
+- Description: An AI re-entry tool for neurodivergent students. Most tools restore your files. Save Point captures a lightweight snapshot of a study session and later reconstructs where you were, what you'd figured out, and the single next action to resume.
+
+### aumentovaneza/improved-todo-app
+
+- URL: https://github.com/aumentovaneza/improved-todo-app
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: accessibility reminders tool
+- Found: 2026-08-08
+- Description: FocusFlow is a modern, AI-assisted to-do app built with Laravel and React, designed to help users  especially those with ADHD  manage tasks, stay focused, and build productive habits through smart reminders, Pomodoro sessions, and gamified motivation.

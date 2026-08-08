@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "accessibility calming iOS Android",
-    "accessibility environment planning tool",
-    "accessibility reading support iOS Android",
-    "accessibility classroom tool",
-    "accessibility self regulation iOS Android",
-    "accessibility coping skills tool",
-    "accessibility life skills iOS Android",
-    "accessibility home routine tool",
-    "accessibility therapy support iOS Android",
-    "accessibility parent support tool",
-    "accessibility mobile accessibility iOS Android",
-    "accessibility adaptive tool",
-    "neurodivergent communication support software",
-    "neurodivergent AAC directory",
-    "neurodivergent planning software",
-    "neurodivergent task initiation directory",
     "neurodivergent sensory regulation software",
     "neurodivergent overload directory",
     "neurodivergent student support software",
@@ -502,7 +486,23 @@
     "neurodiversity therapy support startup",
     "neurodiversity parent support open source",
     "neurodiversity mobile accessibility startup",
-    "neurodiversity adaptive tool open source"
+    "neurodiversity adaptive tool open source",
+    "accessibility speech support iOS Android",
+    "accessibility conversation support tool",
+    "accessibility routine iOS Android",
+    "accessibility reminders tool",
+    "accessibility sensory regulation app",
+    "accessibility overload mobile app",
+    "accessibility student support app",
+    "accessibility learning support mobile app",
+    "accessibility emotional regulation app",
+    "accessibility mood tracking mobile app",
+    "accessibility daily living support app",
+    "accessibility independence mobile app",
+    "accessibility caregiver app",
+    "accessibility clinician tool mobile app",
+    "accessibility assistive technology app",
+    "accessibility accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -886,7 +886,13 @@
     "https://github.com/ilhamilha-creator/mimicecho-ai",
     "https://github.com/michaelcraft17/nexus-scenario-practice",
     "https://github.com/njefferson/ND-toolbox",
-    "https://github.com/saiaathish/UnseenLab"
+    "https://github.com/saiaathish/UnseenLab",
+    "https://github.com/TheWeirdDee/savepoint",
+    "https://github.com/Vilsee/Neuroscope",
+    "https://github.com/alexisvassquez/trackthatmoney",
+    "https://github.com/aumentovaneza/improved-todo-app",
+    "https://github.com/krmaazha/BestKeptSecrets",
+    "https://github.com/tarang-tj/subtext"
   ],
-  "updated_at": "2026-08-06T10:06:06.908718+00:00"
+  "updated_at": "2026-08-08T08:06:20.050171+00:00"
 }
