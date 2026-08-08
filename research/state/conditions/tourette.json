@@ -3,22 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "habit awareness calming iOS Android",
-    "habit awareness environment planning tool",
-    "habit awareness reading support iOS Android",
-    "habit awareness classroom tool",
-    "habit awareness self regulation iOS Android",
-    "habit awareness coping skills tool",
-    "habit awareness life skills iOS Android",
-    "habit awareness home routine tool",
-    "habit awareness therapy support iOS Android",
-    "habit awareness parent support tool",
-    "habit awareness mobile accessibility iOS Android",
-    "habit awareness adaptive tool",
-    "Tourette communication support software",
-    "Tourette AAC directory",
-    "Tourette planning software",
-    "Tourette task initiation directory",
     "Tourette sensory regulation software",
     "Tourette overload directory",
     "Tourette student support software",
@@ -502,7 +486,23 @@
     "tic tracking therapy support startup",
     "tic tracking parent support open source",
     "tic tracking mobile accessibility startup",
-    "tic tracking adaptive tool open source"
+    "tic tracking adaptive tool open source",
+    "habit awareness speech support iOS Android",
+    "habit awareness conversation support tool",
+    "habit awareness routine iOS Android",
+    "habit awareness reminders tool",
+    "habit awareness sensory regulation app",
+    "habit awareness overload mobile app",
+    "habit awareness student support app",
+    "habit awareness learning support mobile app",
+    "habit awareness emotional regulation app",
+    "habit awareness mood tracking mobile app",
+    "habit awareness daily living support app",
+    "habit awareness independence mobile app",
+    "habit awareness caregiver app",
+    "habit awareness clinician tool mobile app",
+    "habit awareness assistive technology app",
+    "habit awareness accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -868,7 +868,8 @@
     "https://www.youtube.com/watch?v=Z0aAm4FaS1Y",
     "https://github.com/turnerworks/inclusiveflow-ai",
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
-    "https://github.com/xdelin/awesome-agent4edu"
+    "https://github.com/xdelin/awesome-agent4edu",
+    "https://github.com/alexisvassquez/trackthatmoney"
   ],
-  "updated_at": "2026-08-06T10:05:46.566389+00:00"
+  "updated_at": "2026-08-08T08:09:37.649269+00:00"
 }
