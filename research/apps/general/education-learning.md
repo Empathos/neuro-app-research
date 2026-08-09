@@ -398,3 +398,13 @@
 - Query: neurodiversity classroom open source
 - Found: 2026-08-06
 - Description: An adaptive virtual STEM laboratory where students safely perform experiments that are dangerous, expensive, microscopic, massive, slow, or otherwise inaccessible in a normal classroom.
+
+### SeCuReDmE-main-dev/algoquest-ams-discovry-labs-module-
+
+- URL: https://github.com/SeCuReDmE-main-dev/algoquest-ams-discovry-labs-module-
+- Source: github-search
+- Condition: general
+- Support category: education-learning
+- Query: accessibility classroom tool
+- Found: 2026-08-09
+- Description: Classroom algorithm-learning runtime with student and teacher surfaces, local contracts, and SecuredMe gateway-compatible handoff.
