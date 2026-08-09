@@ -548,3 +548,13 @@
 - Query: executive function conversation support tool
 - Found: 2026-08-03
 - Description: Visual organization tools for neurodivergent thinking - Claude Code skill with compassionate task breakdowns, decision trees, and focus support
+
+### skodityala/onramp
+
+- URL: https://github.com/skodityala/onramp
+- Source: github-search
+- Condition: executive-function
+- Support category: communication-aac
+- Query: task initiation conversation support tool
+- Found: 2026-08-09
+- Description: The first step, and only the first step. An accessibility-first task decomposer for executive dysfunction.

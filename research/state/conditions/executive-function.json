@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "task initiation calming iOS Android",
-    "task initiation environment planning tool",
-    "task initiation reading support iOS Android",
-    "task initiation classroom tool",
-    "task initiation self regulation iOS Android",
-    "task initiation coping skills tool",
-    "task initiation life skills iOS Android",
-    "task initiation home routine tool",
-    "task initiation therapy support iOS Android",
-    "task initiation parent support tool",
-    "task initiation mobile accessibility iOS Android",
-    "task initiation adaptive tool",
-    "executive function communication support software",
-    "executive function AAC directory",
-    "executive function planning software",
-    "executive function task initiation directory",
     "executive function sensory regulation software",
     "executive function overload directory",
     "executive function student support software",
@@ -502,7 +486,23 @@
     "routine therapy support startup",
     "routine parent support open source",
     "routine mobile accessibility startup",
-    "routine adaptive tool open source"
+    "routine adaptive tool open source",
+    "task initiation speech support iOS Android",
+    "task initiation conversation support tool",
+    "task initiation routine iOS Android",
+    "task initiation reminders tool",
+    "task initiation sensory regulation app",
+    "task initiation overload mobile app",
+    "task initiation student support app",
+    "task initiation learning support mobile app",
+    "task initiation emotional regulation app",
+    "task initiation mood tracking mobile app",
+    "task initiation daily living support app",
+    "task initiation independence mobile app",
+    "task initiation caregiver app",
+    "task initiation clinician tool mobile app",
+    "task initiation assistive technology app",
+    "task initiation accessibility mobile app"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -834,7 +834,8 @@
     "https://github.com/ranfysvalle02/famjam",
     "https://github.com/martijnzuiderbaan/high-complexity-contribution-tool",
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
-    "https://github.com/JackReis/neurodivergent-visual-org"
+    "https://github.com/JackReis/neurodivergent-visual-org",
+    "https://github.com/skodityala/onramp"
   ],
-  "updated_at": "2026-08-06T10:13:28.827158+00:00"
+  "updated_at": "2026-08-09T08:10:59.551651+00:00"
 }
