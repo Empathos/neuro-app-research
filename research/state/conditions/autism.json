@@ -3,22 +3,6 @@
   "condition_cursor": 1,
   "modifier_cursor": 0,
   "seen_queries": [
-    "AAC calming iOS Android",
-    "AAC environment planning tool",
-    "AAC reading support iOS Android",
-    "AAC classroom tool",
-    "AAC self regulation iOS Android",
-    "AAC coping skills tool",
-    "AAC life skills iOS Android",
-    "AAC home routine tool",
-    "AAC therapy support iOS Android",
-    "AAC parent support tool",
-    "AAC mobile accessibility iOS Android",
-    "AAC adaptive tool",
-    "social story communication support software",
-    "social story AAC directory",
-    "social story planning software",
-    "social story task initiation directory",
     "social story sensory regulation software",
     "social story overload directory",
     "social story student support software",
@@ -502,7 +486,23 @@
     "autistic therapy support startup",
     "autistic parent support open source",
     "autistic mobile accessibility startup",
-    "autistic adaptive tool open source"
+    "autistic adaptive tool open source",
+    "AAC speech support iOS Android",
+    "AAC conversation support tool",
+    "AAC routine iOS Android",
+    "AAC reminders tool",
+    "AAC sensory regulation app",
+    "AAC overload mobile app",
+    "AAC student support app",
+    "AAC learning support mobile app",
+    "AAC emotional regulation app",
+    "AAC mood tracking mobile app",
+    "AAC daily living support app",
+    "AAC independence mobile app",
+    "AAC caregiver app",
+    "AAC clinician tool mobile app",
+    "AAC assistive technology app",
+    "AAC accessibility mobile app"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/thruday/id1645552771",
@@ -921,5 +921,5 @@
     "https://github.com/MaheshKumarsg036/NeuroClear",
     "https://github.com/WobblyWanderer/BridgeTranslate"
   ],
-  "updated_at": "2026-08-06T10:09:37.468681+00:00"
+  "updated_at": "2026-08-09T08:07:41.521086+00:00"
 }
