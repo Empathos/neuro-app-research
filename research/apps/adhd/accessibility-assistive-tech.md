@@ -378,3 +378,13 @@
 - Query: ADHD accessibility directory
 - Found: 2026-07-01
 - Description: Official Disney World guide for guests with disabilities, including pre-arrival resources and accessibility services available during visits.
+
+### skodityala/onramp
+
+- URL: https://github.com/skodityala/onramp
+- Source: github-search
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: focus accessibility mobile app
+- Found: 2026-08-09
+- Description: The first step, and only the first step. An accessibility-first task decomposer for executive dysfunction.

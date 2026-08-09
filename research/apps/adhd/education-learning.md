@@ -758,3 +758,13 @@
 - Query: ADHD classroom tool
 - Found: 2026-08-03
 - Description: SaaS MVP with URL shortener and QR tools
+
+### akshat0714/bridge-includai
+
+- URL: https://github.com/akshat0714/bridge-includai
+- Source: github-search
+- Condition: adhd
+- Support category: education-learning
+- Query: focus student support app
+- Found: 2026-08-09
+- Description: Bridge: accessible communication for neurodivergent students, inspired by Childhood Apraxia of Speech

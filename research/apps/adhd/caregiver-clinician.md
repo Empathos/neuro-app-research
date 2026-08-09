@@ -458,3 +458,13 @@
 - Query: ADHD clinician tool directory
 - Found: 2026-07-01
 - Description: Free, scientifically validated online ADHD test for teens and adults, offering a starting point for clinicians to discuss symptoms with patients.
+
+### eliospina/neuroljus-canon-stable
+
+- URL: https://github.com/eliospina/neuroljus-canon-stable
+- Source: github-search
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: focus caregiver app
+- Found: 2026-08-09
+- Description: Empathic, privacy-first AI companion for caregivers of non-verbal autistic individuals

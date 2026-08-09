@@ -3,22 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "focus calming iOS Android",
-    "focus environment planning tool",
-    "focus reading support iOS Android",
-    "focus classroom tool",
-    "focus self regulation iOS Android",
-    "focus coping skills tool",
-    "focus life skills iOS Android",
-    "focus home routine tool",
-    "focus therapy support iOS Android",
-    "focus parent support tool",
-    "focus mobile accessibility iOS Android",
-    "focus adaptive tool",
-    "ADHD communication support software",
-    "ADHD AAC directory",
-    "ADHD planning software",
-    "ADHD task initiation directory",
     "ADHD sensory regulation software",
     "ADHD overload directory",
     "ADHD student support software",
@@ -502,7 +486,23 @@
     "executive function therapy support startup",
     "executive function parent support open source",
     "executive function mobile accessibility startup",
-    "executive function adaptive tool open source"
+    "executive function adaptive tool open source",
+    "focus speech support iOS Android",
+    "focus conversation support tool",
+    "focus routine iOS Android",
+    "focus reminders tool",
+    "focus sensory regulation app",
+    "focus overload mobile app",
+    "focus student support app",
+    "focus learning support mobile app",
+    "focus emotional regulation app",
+    "focus mood tracking mobile app",
+    "focus daily living support app",
+    "focus independence mobile app",
+    "focus caregiver app",
+    "focus clinician tool mobile app",
+    "focus assistive technology app",
+    "focus accessibility mobile app"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -950,7 +950,10 @@
     "https://github.com/CompanyMaster/companymaster-saas",
     "https://github.com/JackReis/neurodivergent-visual-org",
     "https://github.com/kaafihai/baajit",
-    "https://github.com/tarang-tj/subtext"
+    "https://github.com/tarang-tj/subtext",
+    "https://github.com/akshat0714/bridge-includai",
+    "https://github.com/eliospina/neuroljus-canon-stable",
+    "https://github.com/skodityala/onramp"
   ],
-  "updated_at": "2026-08-08T08:06:19.262239+00:00"
+  "updated_at": "2026-08-09T08:03:53.661401+00:00"
 }
