@@ -3,20 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "coordination home routine tool",
-    "coordination clinician tool mobile app",
-    "coordination therapy support iOS Android",
-    "coordination mobile accessibility iOS Android",
-    "coordination adaptive tool",
-    "dyspraxia communication support software",
-    "dyspraxia AAC directory",
-    "dyspraxia planning software",
-    "dyspraxia task initiation directory",
-    "dyspraxia sensory regulation software",
-    "dyspraxia overload directory",
-    "dyspraxia student support software",
-    "dyspraxia learning support directory",
-    "dyspraxia emotional regulation software",
     "dyspraxia mood tracking directory",
     "dyspraxia daily living support software",
     "dyspraxia independence directory",
@@ -502,7 +488,21 @@
     "coordination daily living support app",
     "coordination independence mobile app",
     "motor planning parent support open source",
-    "motor planning adaptive tool open source"
+    "motor planning adaptive tool open source",
+    "coordination speech support iOS Android",
+    "coordination conversation support tool",
+    "coordination routine iOS Android",
+    "coordination reminders tool",
+    "coordination calming iOS Android",
+    "coordination environment planning tool",
+    "coordination reading support iOS Android",
+    "coordination classroom tool",
+    "coordination self regulation iOS Android",
+    "coordination coping skills tool",
+    "coordination life skills iOS Android",
+    "coordination caregiver app",
+    "coordination assistive technology app",
+    "coordination accessibility mobile app"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-08T08:02:23.310080+00:00"
+  "updated_at": "2026-08-09T08:07:18.354358+00:00"
 }
