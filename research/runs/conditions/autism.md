@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-08-06T10:09:37.468681+00:00
-- New findings: 2
+- UTC timestamp: 2026-08-09T08:07:41.521086+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `AAC communication support app`: 1 new finding(s), 0 rejected dead link(s)
-- `AAC AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `AAC planning app`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC reminders tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autistic calming startup`: 1 new finding(s), 0 rejected dead link(s)
-- `autistic environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `autistic reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC student support app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `autistic self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `autistic life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `autistic therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `autistic mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `autistic adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
