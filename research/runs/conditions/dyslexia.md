@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-08-06T10:09:50.060045+00:00
+- UTC timestamp: 2026-08-09T08:10:54.769278+00:00
 - New findings: 0
 - Rejected dead links: 1
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `text to speech communication support app`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `text to speech planning app`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech reminders tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `reading support calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `reading support environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `reading support reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `reading support classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech student support app`: 0 new finding(s), 1 rejected dead link(s)
+- `text to speech learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `reading support self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `reading support coping skills open source`: 0 new finding(s), 1 rejected dead link(s)
+- `text to speech emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `reading support life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `reading support home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `reading support therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `reading support parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `reading support mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `reading support adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `text to speech accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
