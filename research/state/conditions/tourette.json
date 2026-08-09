@@ -3,22 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "Tourette sensory regulation software",
-    "Tourette overload directory",
-    "Tourette student support software",
-    "Tourette learning support directory",
-    "Tourette emotional regulation software",
-    "Tourette mood tracking directory",
-    "Tourette daily living support software",
-    "Tourette independence directory",
-    "Tourette caregiver app software",
-    "Tourette clinician tool directory",
-    "Tourette assistive technology software",
-    "Tourette accessibility directory",
-    "Tourette speech support startup",
-    "Tourette conversation support open source",
-    "Tourette routine startup",
-    "Tourette reminders open source",
     "Tourette calming startup",
     "Tourette environment planning open source",
     "Tourette reading support startup",
@@ -502,7 +486,23 @@
     "habit awareness caregiver app",
     "habit awareness clinician tool mobile app",
     "habit awareness assistive technology app",
-    "habit awareness accessibility mobile app"
+    "habit awareness accessibility mobile app",
+    "Tourette communication support software",
+    "Tourette AAC directory",
+    "Tourette planning software",
+    "Tourette task initiation directory",
+    "habit awareness calming iOS Android",
+    "habit awareness environment planning tool",
+    "habit awareness reading support iOS Android",
+    "habit awareness classroom tool",
+    "habit awareness self regulation iOS Android",
+    "habit awareness coping skills tool",
+    "habit awareness life skills iOS Android",
+    "habit awareness home routine tool",
+    "habit awareness therapy support iOS Android",
+    "habit awareness parent support tool",
+    "habit awareness mobile accessibility iOS Android",
+    "habit awareness adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -871,5 +871,5 @@
     "https://github.com/xdelin/awesome-agent4edu",
     "https://github.com/alexisvassquez/trackthatmoney"
   ],
-  "updated_at": "2026-08-08T08:09:37.649269+00:00"
+  "updated_at": "2026-08-09T08:03:43.127147+00:00"
 }
