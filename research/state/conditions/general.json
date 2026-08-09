@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "neurodivergent sensory regulation software",
-    "neurodivergent overload directory",
-    "neurodivergent student support software",
-    "neurodivergent learning support directory",
-    "neurodivergent emotional regulation software",
-    "neurodivergent mood tracking directory",
-    "neurodivergent daily living support software",
-    "neurodivergent independence directory",
-    "neurodivergent caregiver app software",
-    "neurodivergent clinician tool directory",
-    "neurodivergent assistive technology software",
-    "neurodivergent accessibility directory",
-    "neurodivergent speech support startup",
-    "neurodivergent conversation support open source",
-    "neurodivergent routine startup",
-    "neurodivergent reminders open source",
     "neurodivergent calming startup",
     "neurodivergent environment planning open source",
     "neurodivergent reading support startup",
@@ -502,7 +486,23 @@
     "accessibility caregiver app",
     "accessibility clinician tool mobile app",
     "accessibility assistive technology app",
-    "accessibility accessibility mobile app"
+    "accessibility accessibility mobile app",
+    "neurodivergent communication support software",
+    "neurodivergent AAC directory",
+    "neurodivergent planning software",
+    "neurodivergent task initiation directory",
+    "accessibility calming iOS Android",
+    "accessibility environment planning tool",
+    "accessibility reading support iOS Android",
+    "accessibility classroom tool",
+    "accessibility self regulation iOS Android",
+    "accessibility coping skills tool",
+    "accessibility life skills iOS Android",
+    "accessibility home routine tool",
+    "accessibility therapy support iOS Android",
+    "accessibility parent support tool",
+    "accessibility mobile accessibility iOS Android",
+    "accessibility adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -892,7 +892,10 @@
     "https://github.com/alexisvassquez/trackthatmoney",
     "https://github.com/aumentovaneza/improved-todo-app",
     "https://github.com/krmaazha/BestKeptSecrets",
-    "https://github.com/tarang-tj/subtext"
+    "https://github.com/tarang-tj/subtext",
+    "https://github.com/SeCuReDmE-main-dev/algoquest-ams-discovry-labs-module-",
+    "https://github.com/shahaman098/momentum",
+    "https://github.com/skodityala/onramp"
   ],
-  "updated_at": "2026-08-08T08:06:20.050171+00:00"
+  "updated_at": "2026-08-09T08:14:24.116073+00:00"
 }

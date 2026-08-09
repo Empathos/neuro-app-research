@@ -528,3 +528,23 @@
 - Query: accessibility reminders tool
 - Found: 2026-08-08
 - Description: FocusFlow is a modern, AI-assisted to-do app built with Laravel and React, designed to help users  especially those with ADHD  manage tasks, stay focused, and build productive habits through smart reminders, Pomodoro sessions, and gamified motivation.
+
+### shahaman098/momentum
+
+- URL: https://github.com/shahaman098/momentum
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent planning software
+- Found: 2026-08-09
+- Description: Momentum: adaptive chemistry learning app for neurodivergent learners
+
+### skodityala/onramp
+
+- URL: https://github.com/skodityala/onramp
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent task initiation directory
+- Found: 2026-08-09
+- Description: The first step, and only the first step. An accessibility-first task decomposer for executive dysfunction.
