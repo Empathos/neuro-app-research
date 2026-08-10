@@ -3,22 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory processing sensory regulation software",
-    "sensory processing overload directory",
-    "sensory processing student support software",
-    "sensory processing learning support directory",
-    "sensory processing emotional regulation software",
-    "sensory processing mood tracking directory",
-    "sensory processing daily living support software",
-    "sensory processing independence directory",
-    "sensory processing caregiver app software",
-    "sensory processing clinician tool directory",
-    "sensory processing assistive technology software",
-    "sensory processing accessibility directory",
-    "sensory processing speech support startup",
-    "sensory processing conversation support open source",
-    "sensory processing routine startup",
-    "sensory processing reminders open source",
     "sensory processing calming startup",
     "sensory processing environment planning open source",
     "sensory processing reading support startup",
@@ -502,7 +486,23 @@
     "overload caregiver app",
     "overload clinician tool mobile app",
     "overload assistive technology app",
-    "overload accessibility mobile app"
+    "overload accessibility mobile app",
+    "sensory processing communication support software",
+    "sensory processing AAC directory",
+    "sensory processing planning software",
+    "sensory processing task initiation directory",
+    "overload calming iOS Android",
+    "overload environment planning tool",
+    "overload reading support iOS Android",
+    "overload classroom tool",
+    "overload self regulation iOS Android",
+    "overload coping skills tool",
+    "overload life skills iOS Android",
+    "overload home routine tool",
+    "overload therapy support iOS Android",
+    "overload parent support tool",
+    "overload mobile accessibility iOS Android",
+    "overload adaptive tool"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -856,5 +856,5 @@
     "https://github.com/YUCHENLU666/calm-journey-melbourne",
     "https://github.com/dev-Adhithiya/GentlePath"
   ],
-  "updated_at": "2026-08-08T08:02:25.044465+00:00"
+  "updated_at": "2026-08-10T08:57:05.451185+00:00"
 }
