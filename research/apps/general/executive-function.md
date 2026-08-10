@@ -548,3 +548,13 @@
 - Query: neurodivergent task initiation directory
 - Found: 2026-08-09
 - Description: The first step, and only the first step. An accessibility-first task decomposer for executive dysfunction.
+
+### mrfentmen/neuroreader
+
+- URL: https://github.com/mrfentmen/neuroreader
+- Source: github-search
+- Condition: general
+- Support category: executive-function
+- Query: neurodivergent reminders open source
+- Found: 2026-08-10
+- Description: Free, private reading tool for neurodivergent brains. Variable Fixation Formula  paste text, transform, read. Nothing leaves your browser.
