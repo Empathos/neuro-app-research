@@ -3,22 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "dyslexia sensory regulation software",
-    "dyslexia overload directory",
-    "dyslexia student support software",
-    "dyslexia learning support directory",
-    "dyslexia emotional regulation software",
-    "dyslexia mood tracking directory",
-    "dyslexia daily living support software",
-    "dyslexia independence directory",
-    "dyslexia caregiver app software",
-    "dyslexia clinician tool directory",
-    "dyslexia assistive technology software",
-    "dyslexia accessibility directory",
-    "dyslexia speech support startup",
-    "dyslexia conversation support open source",
-    "dyslexia routine startup",
-    "dyslexia reminders open source",
     "dyslexia calming startup",
     "dyslexia environment planning open source",
     "dyslexia reading support startup",
@@ -502,7 +486,23 @@
     "text to speech caregiver app",
     "text to speech clinician tool mobile app",
     "text to speech assistive technology app",
-    "text to speech accessibility mobile app"
+    "text to speech accessibility mobile app",
+    "dyslexia communication support software",
+    "dyslexia AAC directory",
+    "dyslexia planning software",
+    "dyslexia task initiation directory",
+    "text to speech calming iOS Android",
+    "text to speech environment planning tool",
+    "text to speech reading support iOS Android",
+    "text to speech classroom tool",
+    "text to speech self regulation iOS Android",
+    "text to speech coping skills tool",
+    "text to speech life skills iOS Android",
+    "text to speech home routine tool",
+    "text to speech therapy support iOS Android",
+    "text to speech parent support tool",
+    "text to speech mobile accessibility iOS Android",
+    "text to speech adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -902,5 +902,5 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/SiriMudaddla/Neuro-Assistant"
   ],
-  "updated_at": "2026-08-09T08:10:54.769278+00:00"
+  "updated_at": "2026-08-10T08:52:57.258386+00:00"
 }
