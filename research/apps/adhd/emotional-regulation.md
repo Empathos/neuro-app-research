@@ -578,3 +578,13 @@
 - Query: ADHD mood tracking mobile app
 - Found: 2026-08-03
 - Description: Free, open-source app for ADHD, autism & bipolar disorder. Local-first, no cloud, MIT licence.
+
+### welshDog/HYPERFOCUSzone-Community
+
+- URL: https://github.com/welshDog/HYPERFOCUSzone-Community
+- Source: github-search
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: focus coping skills tool
+- Found: 2026-08-10
+- Description: HYPERFOCUS Mega Fusion Ecosystem - Community Showcase

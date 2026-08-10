@@ -438,3 +438,13 @@
 - Query: ADHD independence directory
 - Found: 2026-07-01
 - Description: Official provider directory for ADHD medication management services in Independence, Missouri, maintained by LifeStance Health.
+
+### biswasprateek/paperr
+
+- URL: https://github.com/biswasprateek/paperr
+- Source: github-search
+- Condition: adhd
+- Support category: daily-living
+- Query: focus home routine tool
+- Found: 2026-08-10
+- Description: paperr is a private, self-hosted platform for you, your household or team  tasks, projects, calendar, notes, routines,focus tools, a shared wall dashboard, and a built-in AI assistant & agents, all running on your own network.

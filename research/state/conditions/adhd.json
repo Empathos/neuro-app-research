@@ -3,22 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "ADHD sensory regulation software",
-    "ADHD overload directory",
-    "ADHD student support software",
-    "ADHD learning support directory",
-    "ADHD emotional regulation software",
-    "ADHD mood tracking directory",
-    "ADHD daily living support software",
-    "ADHD independence directory",
-    "ADHD caregiver app software",
-    "ADHD clinician tool directory",
-    "ADHD assistive technology software",
-    "ADHD accessibility directory",
-    "ADHD speech support startup",
-    "ADHD conversation support open source",
-    "ADHD routine startup",
-    "ADHD reminders open source",
     "ADHD calming startup",
     "ADHD environment planning open source",
     "ADHD reading support startup",
@@ -502,7 +486,23 @@
     "focus caregiver app",
     "focus clinician tool mobile app",
     "focus assistive technology app",
-    "focus accessibility mobile app"
+    "focus accessibility mobile app",
+    "ADHD communication support software",
+    "ADHD AAC directory",
+    "ADHD planning software",
+    "ADHD task initiation directory",
+    "focus calming iOS Android",
+    "focus environment planning tool",
+    "focus reading support iOS Android",
+    "focus classroom tool",
+    "focus self regulation iOS Android",
+    "focus coping skills tool",
+    "focus life skills iOS Android",
+    "focus home routine tool",
+    "focus therapy support iOS Android",
+    "focus parent support tool",
+    "focus mobile accessibility iOS Android",
+    "focus adaptive tool"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -953,7 +953,10 @@
     "https://github.com/tarang-tj/subtext",
     "https://github.com/akshat0714/bridge-includai",
     "https://github.com/eliospina/neuroljus-canon-stable",
-    "https://github.com/skodityala/onramp"
+    "https://github.com/skodityala/onramp",
+    "https://github.com/biswasprateek/paperr",
+    "https://github.com/scottgabe2005/flow-state-studio-content-hub",
+    "https://github.com/welshDog/HYPERFOCUSzone-Community"
   ],
-  "updated_at": "2026-08-09T08:03:53.661401+00:00"
+  "updated_at": "2026-08-10T09:00:47.488405+00:00"
 }
