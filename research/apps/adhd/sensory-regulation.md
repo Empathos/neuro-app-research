@@ -628,3 +628,13 @@
 - Query: ADHD sensory regulation app
 - Found: 2026-08-02
 - Description: AI-powered sensory translation system for neurodivergent individuals - IncludAI Hackathon 2026
+
+### scottgabe2005/flow-state-studio-content-hub
+
+- URL: https://github.com/scottgabe2005/flow-state-studio-content-hub
+- Source: github-search
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: focus environment planning tool
+- Found: 2026-08-10
+- Description: Browser-based content workspace that brings planning, writing, and AI content generation together for neurodivergent creatives in one simple environment.
