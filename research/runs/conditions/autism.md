@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-08-09T08:07:41.521086+00:00
+- UTC timestamp: 2026-08-10T08:52:54.732092+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `AAC speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `AAC routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC reminders tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `AAC sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `AAC student support app`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `AAC emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `AAC daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `AAC caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC parent support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `AAC assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `AAC adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
