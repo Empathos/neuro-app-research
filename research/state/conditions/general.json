@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "neurodivergent calming startup",
-    "neurodivergent environment planning open source",
-    "neurodivergent reading support startup",
-    "neurodivergent classroom open source",
-    "neurodivergent self regulation startup",
-    "neurodivergent coping skills open source",
-    "neurodivergent life skills startup",
-    "neurodivergent home routine open source",
-    "neurodivergent therapy support startup",
-    "neurodivergent parent support open source",
-    "neurodivergent mobile accessibility startup",
-    "neurodivergent adaptive tool open source",
-    "neurodiversity communication support app",
-    "neurodiversity AAC mobile app",
-    "neurodiversity planning app",
-    "neurodiversity task initiation mobile app",
     "neurodiversity sensory regulation app",
     "neurodiversity overload mobile app",
     "neurodiversity student support app",
@@ -502,7 +486,23 @@
     "accessibility therapy support iOS Android",
     "accessibility parent support tool",
     "accessibility mobile accessibility iOS Android",
-    "accessibility adaptive tool"
+    "accessibility adaptive tool",
+    "neurodivergent speech support startup",
+    "neurodivergent conversation support open source",
+    "neurodivergent routine startup",
+    "neurodivergent reminders open source",
+    "neurodivergent sensory regulation software",
+    "neurodivergent overload directory",
+    "neurodivergent student support software",
+    "neurodivergent learning support directory",
+    "neurodivergent emotional regulation software",
+    "neurodivergent mood tracking directory",
+    "neurodivergent daily living support software",
+    "neurodivergent independence directory",
+    "neurodivergent caregiver app software",
+    "neurodivergent clinician tool directory",
+    "neurodivergent assistive technology software",
+    "neurodivergent accessibility directory"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -895,7 +895,11 @@
     "https://github.com/tarang-tj/subtext",
     "https://github.com/SeCuReDmE-main-dev/algoquest-ams-discovry-labs-module-",
     "https://github.com/shahaman098/momentum",
-    "https://github.com/skodityala/onramp"
+    "https://github.com/skodityala/onramp",
+    "https://github.com/DrSRasin/LEVELLING_THE_FIELD",
+    "https://github.com/arxhr007/neurolearn",
+    "https://github.com/kushagra-d/EduEase",
+    "https://github.com/mrfentmen/neuroreader"
   ],
-  "updated_at": "2026-08-09T08:14:24.116073+00:00"
+  "updated_at": "2026-08-10T08:58:09.301375+00:00"
 }
