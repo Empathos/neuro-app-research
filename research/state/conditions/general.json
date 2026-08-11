@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "neurodiversity sensory regulation app",
-    "neurodiversity overload mobile app",
-    "neurodiversity student support app",
-    "neurodiversity learning support mobile app",
-    "neurodiversity emotional regulation app",
-    "neurodiversity mood tracking mobile app",
-    "neurodiversity daily living support app",
-    "neurodiversity independence mobile app",
-    "neurodiversity caregiver app",
-    "neurodiversity clinician tool mobile app",
-    "neurodiversity assistive technology app",
-    "neurodiversity accessibility mobile app",
-    "neurodiversity speech support iOS Android",
-    "neurodiversity conversation support tool",
-    "neurodiversity routine iOS Android",
-    "neurodiversity reminders tool",
     "neurodiversity calming iOS Android",
     "neurodiversity environment planning tool",
     "neurodiversity reading support iOS Android",
@@ -502,7 +486,23 @@
     "neurodivergent caregiver app software",
     "neurodivergent clinician tool directory",
     "neurodivergent assistive technology software",
-    "neurodivergent accessibility directory"
+    "neurodivergent accessibility directory",
+    "neurodiversity communication support app",
+    "neurodiversity AAC mobile app",
+    "neurodiversity planning app",
+    "neurodiversity task initiation mobile app",
+    "neurodivergent calming startup",
+    "neurodivergent environment planning open source",
+    "neurodivergent reading support startup",
+    "neurodivergent classroom open source",
+    "neurodivergent self regulation startup",
+    "neurodivergent coping skills open source",
+    "neurodivergent life skills startup",
+    "neurodivergent home routine open source",
+    "neurodivergent therapy support startup",
+    "neurodivergent parent support open source",
+    "neurodivergent mobile accessibility startup",
+    "neurodivergent adaptive tool open source"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -901,5 +901,5 @@
     "https://github.com/kushagra-d/EduEase",
     "https://github.com/mrfentmen/neuroreader"
   ],
-  "updated_at": "2026-08-10T08:58:09.301375+00:00"
+  "updated_at": "2026-08-11T08:16:07.299336+00:00"
 }
