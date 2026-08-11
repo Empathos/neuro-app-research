@@ -3,22 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "ADHD calming startup",
-    "ADHD environment planning open source",
-    "ADHD reading support startup",
-    "ADHD classroom open source",
-    "ADHD self regulation startup",
-    "ADHD coping skills open source",
-    "ADHD life skills startup",
-    "ADHD home routine open source",
-    "ADHD therapy support startup",
-    "ADHD parent support open source",
-    "ADHD mobile accessibility startup",
-    "ADHD adaptive tool open source",
-    "executive function communication support app",
-    "executive function AAC mobile app",
-    "executive function planning app",
-    "executive function task initiation mobile app",
     "executive function sensory regulation app",
     "executive function overload mobile app",
     "executive function student support app",
@@ -502,7 +486,23 @@
     "focus therapy support iOS Android",
     "focus parent support tool",
     "focus mobile accessibility iOS Android",
-    "focus adaptive tool"
+    "focus adaptive tool",
+    "ADHD speech support startup",
+    "ADHD conversation support open source",
+    "ADHD routine startup",
+    "ADHD reminders open source",
+    "ADHD sensory regulation software",
+    "ADHD overload directory",
+    "ADHD student support software",
+    "ADHD learning support directory",
+    "ADHD emotional regulation software",
+    "ADHD mood tracking directory",
+    "ADHD daily living support software",
+    "ADHD independence directory",
+    "ADHD caregiver app software",
+    "ADHD clinician tool directory",
+    "ADHD assistive technology software",
+    "ADHD accessibility directory"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -958,5 +958,5 @@
     "https://github.com/scottgabe2005/flow-state-studio-content-hub",
     "https://github.com/welshDog/HYPERFOCUSzone-Community"
   ],
-  "updated_at": "2026-08-10T09:00:47.488405+00:00"
+  "updated_at": "2026-08-11T08:19:57.166176+00:00"
 }
