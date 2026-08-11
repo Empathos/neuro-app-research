@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "executive function sensory regulation software",
-    "executive function overload directory",
-    "executive function student support software",
-    "executive function learning support directory",
-    "executive function emotional regulation software",
-    "executive function mood tracking directory",
-    "executive function daily living support software",
-    "executive function independence directory",
-    "executive function caregiver app software",
-    "executive function clinician tool directory",
-    "executive function assistive technology software",
-    "executive function accessibility directory",
-    "executive function speech support startup",
-    "executive function conversation support open source",
-    "executive function routine startup",
-    "executive function reminders open source",
     "executive function calming startup",
     "executive function environment planning open source",
     "executive function reading support startup",
@@ -502,7 +486,23 @@
     "task initiation caregiver app",
     "task initiation clinician tool mobile app",
     "task initiation assistive technology app",
-    "task initiation accessibility mobile app"
+    "task initiation accessibility mobile app",
+    "executive function communication support software",
+    "executive function AAC directory",
+    "executive function planning software",
+    "executive function task initiation directory",
+    "task initiation calming iOS Android",
+    "task initiation environment planning tool",
+    "task initiation reading support iOS Android",
+    "task initiation classroom tool",
+    "task initiation self regulation iOS Android",
+    "task initiation coping skills tool",
+    "task initiation life skills iOS Android",
+    "task initiation home routine tool",
+    "task initiation therapy support iOS Android",
+    "task initiation parent support tool",
+    "task initiation mobile accessibility iOS Android",
+    "task initiation adaptive tool"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -837,5 +837,5 @@
     "https://github.com/JackReis/neurodivergent-visual-org",
     "https://github.com/skodityala/onramp"
   ],
-  "updated_at": "2026-08-09T08:10:59.551651+00:00"
+  "updated_at": "2026-08-11T08:19:59.101320+00:00"
 }
