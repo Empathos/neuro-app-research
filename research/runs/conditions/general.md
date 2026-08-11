@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-08-10T08:58:09.301375+00:00
-- New findings: 4
+- UTC timestamp: 2026-08-11T08:16:07.299336+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `neurodivergent speech support startup`: 2 new finding(s), 0 rejected dead link(s)
-- `neurodivergent conversation support open source`: 1 new finding(s), 0 rejected dead link(s)
+- `neurodiversity communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `neurodivergent routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent reminders open source`: 1 new finding(s), 0 rejected dead link(s)
+- `neurodiversity planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodiversity task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `neurodivergent sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `neurodivergent student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `neurodivergent emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `neurodivergent daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `neurodivergent caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `neurodivergent assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `neurodivergent accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `neurodivergent adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
