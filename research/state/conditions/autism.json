@@ -3,22 +3,6 @@
   "condition_cursor": 1,
   "modifier_cursor": 0,
   "seen_queries": [
-    "social story calming startup",
-    "social story environment planning open source",
-    "social story reading support startup",
-    "social story classroom open source",
-    "social story self regulation startup",
-    "social story coping skills open source",
-    "social story life skills startup",
-    "social story home routine open source",
-    "social story therapy support startup",
-    "social story parent support open source",
-    "social story mobile accessibility startup",
-    "social story adaptive tool open source",
-    "autism communication-aac neurodivergent app research pass 129",
-    "autism communication-aac neurodivergent app research pass 130",
-    "autism executive-function neurodivergent app research pass 129",
-    "autism executive-function neurodivergent app research pass 130",
     "autism sensory-regulation neurodivergent app research pass 129",
     "autism sensory-regulation neurodivergent app research pass 130",
     "autism education-learning neurodivergent app research pass 129",
@@ -502,7 +486,23 @@
     "AAC therapy support iOS Android",
     "AAC parent support tool",
     "AAC mobile accessibility iOS Android",
-    "AAC adaptive tool"
+    "AAC adaptive tool",
+    "social story speech support startup",
+    "social story conversation support open source",
+    "social story routine startup",
+    "social story reminders open source",
+    "social story sensory regulation software",
+    "social story overload directory",
+    "social story student support software",
+    "social story learning support directory",
+    "social story emotional regulation software",
+    "social story mood tracking directory",
+    "social story daily living support software",
+    "social story independence directory",
+    "social story caregiver app software",
+    "social story clinician tool directory",
+    "social story assistive technology software",
+    "social story accessibility directory"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/thruday/id1645552771",
@@ -919,7 +919,8 @@
     "https://github.com/rs2030dev/Say_it",
     "https://github.com/AutARK-Research-Project/SmartHeadphones",
     "https://github.com/MaheshKumarsg036/NeuroClear",
-    "https://github.com/WobblyWanderer/BridgeTranslate"
+    "https://github.com/WobblyWanderer/BridgeTranslate",
+    "https://github.com/mohitagw15856/pm-claude-skills"
   ],
-  "updated_at": "2026-08-10T08:52:54.732092+00:00"
+  "updated_at": "2026-08-11T08:15:58.628141+00:00"
 }
