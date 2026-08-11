@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-08-10T08:52:54.732092+00:00
-- New findings: 0
+- UTC timestamp: 2026-08-11T08:15:58.628141+00:00
+- New findings: 1
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `social story communication support software`: 0 new finding(s), 0 rejected dead link(s)
-- `social story AAC directory`: 0 new finding(s), 0 rejected dead link(s)
+- `social story speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `social story conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `social story planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `social story task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `social story routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `social story reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `AAC calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story overload directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `AAC reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story student support software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story learning support directory`: 1 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `AAC self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `AAC life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `AAC therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC parent support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `AAC mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `AAC adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `social story assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `social story accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 
