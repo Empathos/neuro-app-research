@@ -3,22 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "Tourette calming startup",
-    "Tourette environment planning open source",
-    "Tourette reading support startup",
-    "Tourette classroom open source",
-    "Tourette self regulation startup",
-    "Tourette coping skills open source",
-    "Tourette life skills startup",
-    "Tourette home routine open source",
-    "Tourette therapy support startup",
-    "Tourette parent support open source",
-    "Tourette mobile accessibility startup",
-    "Tourette adaptive tool open source",
-    "tic tracking communication support app",
-    "tic tracking AAC mobile app",
-    "tic tracking planning app",
-    "tic tracking task initiation mobile app",
     "tic tracking sensory regulation app",
     "tic tracking overload mobile app",
     "tic tracking student support app",
@@ -502,7 +486,23 @@
     "habit awareness therapy support iOS Android",
     "habit awareness parent support tool",
     "habit awareness mobile accessibility iOS Android",
-    "habit awareness adaptive tool"
+    "habit awareness adaptive tool",
+    "Tourette speech support startup",
+    "Tourette conversation support open source",
+    "Tourette routine startup",
+    "Tourette reminders open source",
+    "Tourette sensory regulation software",
+    "Tourette overload directory",
+    "Tourette student support software",
+    "Tourette learning support directory",
+    "Tourette emotional regulation software",
+    "Tourette mood tracking directory",
+    "Tourette daily living support software",
+    "Tourette independence directory",
+    "Tourette caregiver app software",
+    "Tourette clinician tool directory",
+    "Tourette assistive technology software",
+    "Tourette accessibility directory"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -871,5 +871,5 @@
     "https://github.com/xdelin/awesome-agent4edu",
     "https://github.com/alexisvassquez/trackthatmoney"
   ],
-  "updated_at": "2026-08-09T08:03:43.127147+00:00"
+  "updated_at": "2026-08-11T08:23:45.937639+00:00"
 }
