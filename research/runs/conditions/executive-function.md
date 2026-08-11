@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-08-09T08:10:59.551651+00:00
-- New findings: 1
+- UTC timestamp: 2026-08-11T08:19:59.101320+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `task initiation speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation conversation support tool`: 1 new finding(s), 0 rejected dead link(s)
+- `executive function communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `task initiation routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation reminders tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `task initiation sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `task initiation student support app`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `task initiation emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `task initiation daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `task initiation caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation parent support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `task initiation assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
