@@ -3,22 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "tic tracking sensory regulation app",
-    "tic tracking overload mobile app",
-    "tic tracking student support app",
-    "tic tracking learning support mobile app",
-    "tic tracking emotional regulation app",
-    "tic tracking mood tracking mobile app",
-    "tic tracking daily living support app",
-    "tic tracking independence mobile app",
-    "tic tracking caregiver app",
-    "tic tracking clinician tool mobile app",
-    "tic tracking assistive technology app",
-    "tic tracking accessibility mobile app",
-    "tic tracking speech support iOS Android",
-    "tic tracking conversation support tool",
-    "tic tracking routine iOS Android",
-    "tic tracking reminders tool",
     "tic tracking calming iOS Android",
     "tic tracking environment planning tool",
     "tic tracking reading support iOS Android",
@@ -502,7 +486,23 @@
     "Tourette caregiver app software",
     "Tourette clinician tool directory",
     "Tourette assistive technology software",
-    "Tourette accessibility directory"
+    "Tourette accessibility directory",
+    "tic tracking communication support app",
+    "tic tracking AAC mobile app",
+    "tic tracking planning app",
+    "tic tracking task initiation mobile app",
+    "Tourette calming startup",
+    "Tourette environment planning open source",
+    "Tourette reading support startup",
+    "Tourette classroom open source",
+    "Tourette self regulation startup",
+    "Tourette coping skills open source",
+    "Tourette life skills startup",
+    "Tourette home routine open source",
+    "Tourette therapy support startup",
+    "Tourette parent support open source",
+    "Tourette mobile accessibility startup",
+    "Tourette adaptive tool open source"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -871,5 +871,5 @@
     "https://github.com/xdelin/awesome-agent4edu",
     "https://github.com/alexisvassquez/trackthatmoney"
   ],
-  "updated_at": "2026-08-11T08:23:45.937639+00:00"
+  "updated_at": "2026-08-12T08:41:03.132905+00:00"
 }
