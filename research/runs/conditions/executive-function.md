@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-08-11T08:19:59.101320+00:00
+- UTC timestamp: 2026-08-12T08:45:26.339588+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `executive function communication support software`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function AAC directory`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `executive function planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `executive function task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `task initiation calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function overload directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `task initiation reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function student support software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function learning support directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `task initiation self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `task initiation life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `task initiation therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation parent support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `task initiation mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `task initiation adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `executive function accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 
