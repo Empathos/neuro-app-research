@@ -3,20 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "dyspraxia mood tracking directory",
-    "dyspraxia daily living support software",
-    "dyspraxia independence directory",
-    "coordination parent support tool",
-    "dyspraxia caregiver app software",
-    "dyspraxia assistive technology software",
-    "dyspraxia accessibility directory",
-    "dyspraxia speech support startup",
-    "dyspraxia conversation support open source",
-    "dyspraxia routine startup",
-    "dyspraxia reminders open source",
-    "dyspraxia calming startup",
-    "dyspraxia environment planning open source",
-    "dyspraxia reading support startup",
     "dyspraxia classroom open source",
     "dyspraxia self regulation startup",
     "dyspraxia coping skills open source",
@@ -502,7 +488,21 @@
     "coordination life skills iOS Android",
     "coordination caregiver app",
     "coordination assistive technology app",
-    "coordination accessibility mobile app"
+    "coordination accessibility mobile app",
+    "dyspraxia communication support software",
+    "dyspraxia AAC directory",
+    "dyspraxia planning software",
+    "dyspraxia task initiation directory",
+    "dyspraxia sensory regulation software",
+    "dyspraxia overload directory",
+    "dyspraxia student support software",
+    "dyspraxia learning support directory",
+    "dyspraxia emotional regulation software",
+    "coordination home routine tool",
+    "coordination clinician tool mobile app",
+    "coordination therapy support iOS Android",
+    "coordination mobile accessibility iOS Android",
+    "coordination adaptive tool"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-09T08:07:18.354358+00:00"
+  "updated_at": "2026-08-12T08:45:14.731023+00:00"
 }

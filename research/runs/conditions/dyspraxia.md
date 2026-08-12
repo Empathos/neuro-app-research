@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-08-09T08:07:18.354358+00:00
+- UTC timestamp: 2026-08-12T08:45:14.731023+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `coordination speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `coordination routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination reminders tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `coordination calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia overload directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `coordination reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia student support software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia learning support directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `coordination self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `coordination life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `coordination caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `coordination assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
