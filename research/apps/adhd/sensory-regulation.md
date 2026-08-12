@@ -638,3 +638,13 @@
 - Query: focus environment planning tool
 - Found: 2026-08-10
 - Description: Browser-based content workspace that brings planning, writing, and AI content generation together for neurodivergent creatives in one simple environment.
+
+### punithbr27/Nena
+
+- URL: https://github.com/punithbr27/Nena
+- Source: github-search
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: ADHD calming startup
+- Found: 2026-08-12
+- Description: An AI-powered behavioral tracking platform connecting parents of ADHD and Autism children with doctors through VAPI voice agents, RAG-powered clinical insights, and structured ABC data.
