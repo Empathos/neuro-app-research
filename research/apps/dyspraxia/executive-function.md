@@ -459,16 +459,6 @@
 - Found: 2026-07-01
 - Description: Interactive typing game that combines motor skill development with task planning, helping dyspraxia users practice sequencing and coordination in an engaging, gamified format.
 
-### Nessy Fingers - Adaptive Planning Game
-
-- URL: https://www.nessy.com/uk
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: executive-function
-- Query: dyspraxia planning software
-- Found: 2026-07-01
-- Description: Adaptive typing and planning game suite for dyspraxia, combining motor skill training with structured task planning activities to improve sequencing and coordination.
-
 ### Parent guide to task follow-through for neurodivergent learners
 
 - URL: https://tutoring.k12.com/resources/skills/executive-function/task-initiation-follow-through/parent-guide-to-task-follow-through-for-neurodivergent-learners/
