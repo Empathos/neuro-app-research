@@ -9,16 +9,6 @@
 - Found: 2026-06-26
 - Description: Official site for the Assessment of Motor and Process Skills (AMPS), a clinician-administered tool for evaluating motor and process skills in occupational therapy, requiring 5-day training for certification.
 
-### AMPS International - Training Workshops & Certification
-
-- URL: https://www.ampsintl.com/workshops.htm
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: caregiver-clinician
-- Query: motor planning clinician tool directory
-- Found: 2026-06-26
-- Description: Directory of official 5-day training and calibration workshops for occupational therapists to become certified AMPS clinicians, including registration and session information.
-
 ### Pearson Assessments - Motor Skills for Occupational Therapy
 
 - URL: https://www.pearsonassessments.com/professional-assessments/featured-topics/occupational-therapy/motor-skills.html
