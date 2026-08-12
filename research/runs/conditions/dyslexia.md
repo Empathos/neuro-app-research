@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-08-10T08:52:57.258386+00:00
+- UTC timestamp: 2026-08-12T08:41:07.458243+00:00
 - New findings: 0
 - Rejected dead links: 1
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `dyslexia communication support software`: 0 new finding(s), 1 rejected dead link(s)
-- `dyslexia AAC directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `dyslexia planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `text to speech calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia overload directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `text to speech reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia student support software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia learning support directory`: 0 new finding(s), 1 rejected dead link(s)
 
 ### emotional-regulation
 
-- `text to speech self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `text to speech life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `text to speech therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech parent support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `text to speech mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 

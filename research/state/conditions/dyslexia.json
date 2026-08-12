@@ -3,22 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "dyslexia calming startup",
-    "dyslexia environment planning open source",
-    "dyslexia reading support startup",
-    "dyslexia classroom open source",
-    "dyslexia self regulation startup",
-    "dyslexia coping skills open source",
-    "dyslexia life skills startup",
-    "dyslexia home routine open source",
-    "dyslexia therapy support startup",
-    "dyslexia parent support open source",
-    "dyslexia mobile accessibility startup",
-    "dyslexia adaptive tool open source",
-    "reading support communication support app",
-    "reading support AAC mobile app",
-    "reading support planning app",
-    "reading support task initiation mobile app",
     "reading support sensory regulation app",
     "reading support overload mobile app",
     "reading support student support app",
@@ -502,7 +486,23 @@
     "text to speech therapy support iOS Android",
     "text to speech parent support tool",
     "text to speech mobile accessibility iOS Android",
-    "text to speech adaptive tool"
+    "text to speech adaptive tool",
+    "dyslexia speech support startup",
+    "dyslexia conversation support open source",
+    "dyslexia routine startup",
+    "dyslexia reminders open source",
+    "dyslexia sensory regulation software",
+    "dyslexia overload directory",
+    "dyslexia student support software",
+    "dyslexia learning support directory",
+    "dyslexia emotional regulation software",
+    "dyslexia mood tracking directory",
+    "dyslexia daily living support software",
+    "dyslexia independence directory",
+    "dyslexia caregiver app software",
+    "dyslexia clinician tool directory",
+    "dyslexia assistive technology software",
+    "dyslexia accessibility directory"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -902,5 +902,5 @@
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
     "https://github.com/SiriMudaddla/Neuro-Assistant"
   ],
-  "updated_at": "2026-08-10T08:52:57.258386+00:00"
+  "updated_at": "2026-08-12T08:41:07.458243+00:00"
 }
