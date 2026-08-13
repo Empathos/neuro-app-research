@@ -3,22 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "executive function calming iOS Android",
-    "executive function environment planning tool",
-    "executive function reading support iOS Android",
-    "executive function classroom tool",
-    "executive function self regulation iOS Android",
-    "executive function coping skills tool",
-    "executive function life skills iOS Android",
-    "executive function home routine tool",
-    "executive function therapy support iOS Android",
-    "executive function parent support tool",
-    "executive function mobile accessibility iOS Android",
-    "executive function adaptive tool",
-    "focus communication support software",
-    "focus AAC directory",
-    "focus planning software",
-    "focus task initiation directory",
     "focus sensory regulation software",
     "focus overload directory",
     "focus student support software",
@@ -502,7 +486,23 @@
     "ADHD therapy support startup",
     "ADHD parent support open source",
     "ADHD mobile accessibility startup",
-    "ADHD adaptive tool open source"
+    "ADHD adaptive tool open source",
+    "executive function speech support iOS Android",
+    "executive function conversation support tool",
+    "executive function routine iOS Android",
+    "executive function reminders tool",
+    "executive function sensory regulation app",
+    "executive function overload mobile app",
+    "executive function student support app",
+    "executive function learning support mobile app",
+    "executive function emotional regulation app",
+    "executive function mood tracking mobile app",
+    "executive function daily living support app",
+    "executive function independence mobile app",
+    "executive function caregiver app",
+    "executive function clinician tool mobile app",
+    "executive function assistive technology app",
+    "executive function accessibility mobile app"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -957,7 +957,8 @@
     "https://github.com/biswasprateek/paperr",
     "https://github.com/scottgabe2005/flow-state-studio-content-hub",
     "https://github.com/welshDog/HYPERFOCUSzone-Community",
-    "https://github.com/punithbr27/Nena"
+    "https://github.com/punithbr27/Nena",
+    "https://github.com/dustin12342986-hue/adulting"
   ],
-  "updated_at": "2026-08-12T08:49:01.049172+00:00"
+  "updated_at": "2026-08-13T08:53:34.825233+00:00"
 }

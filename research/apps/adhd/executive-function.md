@@ -518,3 +518,13 @@
 - Query: ADHD task initiation mobile app
 - Found: 2026-08-02
 - Description: An accessible web application to improve focus and productivity for neurodivergent users
+
+### dustin12342986-hue/adulting
+
+- URL: https://github.com/dustin12342986-hue/adulting
+- Source: github-search
+- Condition: adhd
+- Support category: executive-function
+- Query: executive function reminders tool
+- Found: 2026-08-13
+- Description: an all in one adulting app for the neuro divergent, it also uses copyrighted broadcast checklist as a tool to help streamline adn automate organization.
