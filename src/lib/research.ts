@@ -55,9 +55,16 @@ export function getCategoryLabel(categoryId: string): string {
   return getSupportCategories().find((category) => category.id === categoryId)?.label ?? categoryId;
 }
 
+let leadCache: ResearchLead[] | null = null;
+
 export function getLeads(): ResearchLead[] {
+  if (leadCache) {
+    return leadCache;
+  }
+
   if (!fs.existsSync(appsPath)) {
-    return [];
+    leadCache = [];
+    return leadCache;
   }
 
   const leads: ResearchLead[] = [];
@@ -77,7 +84,8 @@ export function getLeads(): ResearchLead[] {
     }
   }
 
-  return leads.sort((a, b) => b.found.localeCompare(a.found) || a.title.localeCompare(b.title));
+  leadCache = leads.sort((a, b) => b.found.localeCompare(a.found) || a.title.localeCompare(b.title));
+  return leadCache;
 }
 
 export function getLeadsForCondition(conditionId: string): ResearchLead[] {
