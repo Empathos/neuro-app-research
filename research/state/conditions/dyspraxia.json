@@ -3,20 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "dyspraxia classroom open source",
-    "dyspraxia self regulation startup",
-    "dyspraxia coping skills open source",
-    "dyspraxia life skills startup",
-    "dyspraxia home routine open source",
-    "dyspraxia clinician tool directory",
-    "dyspraxia therapy support startup",
-    "dyspraxia mobile accessibility startup",
-    "dyspraxia adaptive tool open source",
-    "motor planning communication support app",
-    "motor planning AAC mobile app",
-    "motor planning planning app",
-    "motor planning task initiation mobile app",
-    "motor planning sensory regulation app",
     "motor planning overload mobile app",
     "motor planning student support app",
     "motor planning learning support mobile app",
@@ -502,7 +488,21 @@
     "coordination clinician tool mobile app",
     "coordination therapy support iOS Android",
     "coordination mobile accessibility iOS Android",
-    "coordination adaptive tool"
+    "coordination adaptive tool",
+    "dyspraxia speech support startup",
+    "dyspraxia conversation support open source",
+    "dyspraxia routine startup",
+    "dyspraxia reminders open source",
+    "dyspraxia calming startup",
+    "dyspraxia environment planning open source",
+    "dyspraxia reading support startup",
+    "dyspraxia mood tracking directory",
+    "dyspraxia daily living support software",
+    "dyspraxia independence directory",
+    "coordination parent support tool",
+    "dyspraxia caregiver app software",
+    "dyspraxia assistive technology software",
+    "dyspraxia accessibility directory"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-12T08:45:14.731023+00:00"
+  "updated_at": "2026-08-13T08:49:57.239986+00:00"
 }
