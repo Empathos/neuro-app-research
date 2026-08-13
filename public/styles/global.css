@@ -15,6 +15,23 @@
   --code-ink: #d8f3e9;
   --toggle-track: #d8e2dc;
   --toggle-knob: #ffffff;
+
+  /* Sequential ramp, one hue, light -> dark with magnitude.
+     Validated: monotone lightness, adjacent dL >= 0.06, light end 2.49:1 on panel. */
+  --heat-0: var(--surface);
+  --heat-1: #14b8a6;
+  --heat-2: #0d9488;
+  --heat-3: #0f766e;
+  --heat-4: #115e59;
+  --heat-5: #0c3b38;
+  --heat-0-ink: var(--muted);
+  /* In-cell values are 13.6px bold, so they need the 4.5:1 normal-text ratio, not 3:1.
+     #17201b on --heat-2 lands at 4.46:1; this ink clears it at 5.03:1. */
+  --heat-1-ink: #0b1310;
+  --heat-2-ink: #0b1310;
+  --heat-3-ink: #ffffff;
+  --heat-4-ink: #ffffff;
+  --heat-5-ink: #ffffff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,6 +52,19 @@
     --code-ink: #d8f3e9;
     --toggle-track: #2c4740;
     --toggle-knob: #d8f3e9;
+
+    /* Same hue, anchor flipped: magnitude runs dark -> bright against the dark panel.
+       Validated separately against #17231f; low end holds 4.33:1. */
+    --heat-1: #0d9488;
+    --heat-2: #14b8a6;
+    --heat-3: #2dd4bf;
+    --heat-4: #5eead4;
+    --heat-5: #ccfbf1;
+    --heat-1-ink: #07100d;
+    --heat-2-ink: #07100d;
+    --heat-3-ink: #07100d;
+    --heat-4-ink: #07100d;
+    --heat-5-ink: #07100d;
   }
 }
 
@@ -55,6 +85,17 @@
   --code-ink: #d8f3e9;
   --toggle-track: #2c4740;
   --toggle-knob: #d8f3e9;
+
+  --heat-1: #0d9488;
+  --heat-2: #14b8a6;
+  --heat-3: #2dd4bf;
+  --heat-4: #5eead4;
+  --heat-5: #ccfbf1;
+  --heat-1-ink: #07100d;
+  --heat-2-ink: #07100d;
+  --heat-3-ink: #07100d;
+  --heat-4-ink: #07100d;
+  --heat-5-ink: #07100d;
 }
 
 * {
@@ -380,6 +421,209 @@ h3 {
   background: var(--code-surface);
   color: var(--code-ink);
   white-space: pre-wrap;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* Coverage heatmap ------------------------------------------------------- */
+
+.coverage {
+  margin: 0;
+}
+
+.coverage-caption {
+  margin-bottom: 18px;
+}
+
+.coverage-caption h2 {
+  margin-bottom: 10px;
+}
+
+.coverage-scroll {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.coverage-grid {
+  width: 100%;
+  min-width: 720px;
+  /* Fixed layout so the label column takes a set share and the cells split the rest
+     evenly, instead of the label column absorbing all the slack. */
+  table-layout: fixed;
+  border-collapse: separate;
+  /* The 2px surface gap is what separates the cells — never a border on the mark. */
+  border-spacing: 2px;
+  padding: 10px;
+  background: var(--panel);
+  font-size: 0.85rem;
+}
+
+.coverage-grid .corner {
+  /* Wide enough for the longest label ("General Neurodivergence") at this weight,
+     because table-layout: fixed lets a nowrap row header spill into the first cell. */
+  width: 196px;
+  text-align: left;
+}
+
+.coverage-grid .total-head {
+  width: 68px;
+}
+
+.coverage-grid th {
+  font-weight: 700;
+}
+
+.coverage-grid .corner,
+.coverage-grid .col-head {
+  padding: 6px 4px 10px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.2;
+  vertical-align: bottom;
+}
+
+.coverage-grid .col-head {
+  text-align: center;
+}
+
+.coverage-grid .row-head {
+  padding: 0 12px 0 6px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.coverage-grid .row-head a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.coverage-grid .row-head a:hover,
+.coverage-grid .row-head a:focus-visible {
+  text-decoration: underline;
+  text-decoration-color: var(--link-underline);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.cell {
+  height: 44px;
+  border-radius: 4px;
+  background: var(--heat-0);
+  color: var(--heat-0-ink);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  text-align: center;
+}
+
+.cell[data-bin="1"] { background: var(--heat-1); color: var(--heat-1-ink); }
+.cell[data-bin="2"] { background: var(--heat-2); color: var(--heat-2-ink); }
+.cell[data-bin="3"] { background: var(--heat-3); color: var(--heat-3-ink); }
+.cell[data-bin="4"] { background: var(--heat-4); color: var(--heat-4-ink); }
+.cell[data-bin="5"] { background: var(--heat-5); color: var(--heat-5-ink); }
+
+.cell:hover {
+  outline: 2px solid var(--ink);
+  outline-offset: 1px;
+}
+
+.coverage-grid .row-total,
+.coverage-grid .col-total,
+.coverage-grid .grand-total {
+  padding: 0 6px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+}
+
+.coverage-grid .row-total,
+.coverage-grid .grand-total {
+  color: var(--ink);
+  font-weight: 800;
+}
+
+.coverage-grid tfoot td,
+.coverage-grid tfoot th {
+  padding-top: 10px;
+}
+
+.coverage-legend {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin-top: 16px;
+}
+
+.legend-label {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.legend-scale {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.legend-step {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.legend-swatch {
+  width: 18px;
+  height: 12px;
+  border-radius: 3px;
+  background: var(--heat-0);
+}
+
+.legend-swatch[data-bin="0"] {
+  border: 1px solid var(--line);
+}
+
+.legend-swatch[data-bin="1"] { background: var(--heat-1); }
+.legend-swatch[data-bin="2"] { background: var(--heat-2); }
+.legend-swatch[data-bin="3"] { background: var(--heat-3); }
+.legend-swatch[data-bin="4"] { background: var(--heat-4); }
+.legend-swatch[data-bin="5"] { background: var(--heat-5); }
+
+.coverage-note {
+  max-width: 720px;
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+@media (forced-colors: active) {
+  .cell {
+    forced-color-adjust: none;
+    border: 1px solid CanvasText;
+    background: Canvas;
+    color: CanvasText;
+  }
 }
 
 @media (max-width: 760px) {
