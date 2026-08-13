@@ -438,3 +438,13 @@
 - Query: routine task initiation mobile app
 - Found: 2026-07-05
 - Description: a family chore and habit management platform with user authentication, task assignment, reward tracking, mood logging, and event calendars. Parents can register, invite children, create tasks or repeating chores, approve completed tasks for points, and manage a quarterly FamJam plan.
+
+### oceana1129/MyNestFinance
+
+- URL: https://github.com/oceana1129/MyNestFinance
+- Source: github-search
+- Condition: executive-function
+- Support category: executive-function
+- Query: routine planning app
+- Found: 2026-08-13
+- Description: MyNest is a full-stack budgeting and financial planning web application designed to help young adults organize and manage their finances in a way that feels approachable, supportive, and adaptable.

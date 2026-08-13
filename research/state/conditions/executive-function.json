@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "routine sensory regulation app",
-    "routine overload mobile app",
-    "routine student support app",
-    "routine learning support mobile app",
-    "routine emotional regulation app",
-    "routine mood tracking mobile app",
-    "routine daily living support app",
-    "routine independence mobile app",
-    "routine caregiver app",
-    "routine clinician tool mobile app",
-    "routine assistive technology app",
-    "routine accessibility mobile app",
-    "routine speech support iOS Android",
-    "routine conversation support tool",
-    "routine routine iOS Android",
-    "routine reminders tool",
     "routine calming iOS Android",
     "routine environment planning tool",
     "routine reading support iOS Android",
@@ -502,7 +486,23 @@
     "executive function caregiver app software",
     "executive function clinician tool directory",
     "executive function assistive technology software",
-    "executive function accessibility directory"
+    "executive function accessibility directory",
+    "routine communication support app",
+    "routine AAC mobile app",
+    "routine planning app",
+    "routine task initiation mobile app",
+    "executive function calming startup",
+    "executive function environment planning open source",
+    "executive function reading support startup",
+    "executive function classroom open source",
+    "executive function self regulation startup",
+    "executive function coping skills open source",
+    "executive function life skills startup",
+    "executive function home routine open source",
+    "executive function therapy support startup",
+    "executive function parent support open source",
+    "executive function mobile accessibility startup",
+    "executive function adaptive tool open source"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -835,7 +835,9 @@
     "https://github.com/martijnzuiderbaan/high-complexity-contribution-tool",
     "https://github.com/biancakhambatta/focuslink-adhd-habit-app",
     "https://github.com/JackReis/neurodivergent-visual-org",
-    "https://github.com/skodityala/onramp"
+    "https://github.com/skodityala/onramp",
+    "https://github.com/oceana1129/MyNestFinance",
+    "https://github.com/vanshikashh/steppy"
   ],
-  "updated_at": "2026-08-12T08:45:26.339588+00:00"
+  "updated_at": "2026-08-13T08:45:40.572195+00:00"
 }
