@@ -558,3 +558,13 @@
 - Query: task initiation conversation support tool
 - Found: 2026-08-09
 - Description: The first step, and only the first step. An accessibility-first task decomposer for executive dysfunction.
+
+### vanshikashh/steppy
+
+- URL: https://github.com/vanshikashh/steppy
+- Source: github-search
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine communication support app
+- Found: 2026-08-13
+- Description: Steppy is an AI-powered adaptive cognitive routine platform built specifically for neurodivergent children.

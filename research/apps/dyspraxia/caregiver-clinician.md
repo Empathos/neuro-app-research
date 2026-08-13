@@ -249,16 +249,6 @@
 - Found: 2026-07-01
 - Description: The purpose of this project is to evaluate the efficacy of Parent Connectors, an innovative parent-to-parent intervention developed to support the families of ...
 
-### Empathy Caregiver
-
-- URL: https://apps.apple.com/us/app/empathy-caregiver/id1561000954
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: caregiver-clinician
-- Query: dyspraxia caregiver app software
-- Found: 2026-07-01
-- Description: A mobile app for caregivers enabling ADL charting, schedule checking, and communication tools without consulting supervisors.
-
 ### Empathy Caregiver Mobile App
 
 - URL: https://aaniie.com/who-we-benefit/caregivers-and-nurses/
