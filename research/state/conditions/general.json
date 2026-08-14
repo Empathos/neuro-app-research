@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "accessibility sensory regulation software",
-    "accessibility overload directory",
-    "accessibility student support software",
-    "accessibility learning support directory",
-    "accessibility emotional regulation software",
-    "accessibility mood tracking directory",
-    "accessibility daily living support software",
-    "accessibility independence directory",
-    "accessibility caregiver app software",
-    "accessibility clinician tool directory",
-    "accessibility assistive technology software",
-    "accessibility accessibility directory",
-    "accessibility speech support startup",
-    "accessibility conversation support open source",
-    "accessibility routine startup",
-    "accessibility reminders open source",
     "accessibility calming startup",
     "accessibility environment planning open source",
     "accessibility reading support startup",
@@ -502,7 +486,23 @@
     "neurodiversity caregiver app",
     "neurodiversity clinician tool mobile app",
     "neurodiversity assistive technology app",
-    "neurodiversity accessibility mobile app"
+    "neurodiversity accessibility mobile app",
+    "accessibility communication support software",
+    "accessibility AAC directory",
+    "accessibility planning software",
+    "accessibility task initiation directory",
+    "neurodiversity calming iOS Android",
+    "neurodiversity environment planning tool",
+    "neurodiversity reading support iOS Android",
+    "neurodiversity classroom tool",
+    "neurodiversity self regulation iOS Android",
+    "neurodiversity coping skills tool",
+    "neurodiversity life skills iOS Android",
+    "neurodiversity home routine tool",
+    "neurodiversity therapy support iOS Android",
+    "neurodiversity parent support tool",
+    "neurodiversity mobile accessibility iOS Android",
+    "neurodiversity adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -901,5 +901,5 @@
     "https://github.com/kushagra-d/EduEase",
     "https://github.com/mrfentmen/neuroreader"
   ],
-  "updated_at": "2026-08-13T08:45:40.223921+00:00"
+  "updated_at": "2026-08-14T08:47:51.045759+00:00"
 }
