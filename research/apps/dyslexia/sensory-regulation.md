@@ -198,3 +198,13 @@
 - Query: dyslexia overload directory
 - Found: 2026-07-01
 - Description: Research-based repository of screening, identification, and teaching tools for students with dyslexia and other literacy-related disabilities.
+
+### brightleap-app/brightleap
+
+- URL: https://github.com/brightleap-app/brightleap
+- Source: github-search
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia environment planning open source
+- Found: 2026-08-14
+- Description: Dyslexia-friendly KS2 SATs spelling and maths revision app for UK Year 6 children
