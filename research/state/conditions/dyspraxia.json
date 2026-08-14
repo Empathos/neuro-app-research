@@ -3,20 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "motor planning overload mobile app",
-    "motor planning student support app",
-    "motor planning learning support mobile app",
-    "motor planning emotional regulation app",
-    "motor planning mood tracking mobile app",
-    "motor planning daily living support app",
-    "motor planning independence mobile app",
-    "dyspraxia parent support open source",
-    "motor planning caregiver app",
-    "motor planning assistive technology app",
-    "motor planning accessibility mobile app",
-    "motor planning speech support iOS Android",
-    "motor planning conversation support tool",
-    "motor planning routine iOS Android",
     "motor planning reminders tool",
     "motor planning calming iOS Android",
     "motor planning environment planning tool",
@@ -502,7 +488,21 @@
     "coordination parent support tool",
     "dyspraxia caregiver app software",
     "dyspraxia assistive technology software",
-    "dyspraxia accessibility directory"
+    "dyspraxia accessibility directory",
+    "motor planning communication support app",
+    "motor planning AAC mobile app",
+    "motor planning planning app",
+    "motor planning task initiation mobile app",
+    "motor planning sensory regulation app",
+    "dyspraxia classroom open source",
+    "dyspraxia self regulation startup",
+    "dyspraxia coping skills open source",
+    "dyspraxia life skills startup",
+    "dyspraxia home routine open source",
+    "dyspraxia clinician tool directory",
+    "dyspraxia therapy support startup",
+    "dyspraxia mobile accessibility startup",
+    "dyspraxia adaptive tool open source"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-13T08:49:57.239986+00:00"
+  "updated_at": "2026-08-14T08:39:30.836376+00:00"
 }
