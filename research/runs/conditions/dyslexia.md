@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-08-12T08:41:07.458243+00:00
-- New findings: 0
-- Rejected dead links: 1
+- UTC timestamp: 2026-08-14T08:44:22.240499+00:00
+- New findings: 1
+- Rejected dead links: 5
 
 ## Support Categories
 
 ### communication-aac
 
-- `dyslexia speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support communication support app`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `dyslexia routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support planning app`: 0 new finding(s), 0 rejected dead link(s)
+- `reading support task initiation mobile app`: 0 new finding(s), 1 rejected dead link(s)
 
 ### sensory-regulation
 
-- `dyslexia sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia calming startup`: 0 new finding(s), 1 rejected dead link(s)
+- `dyslexia environment planning open source`: 1 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `dyslexia student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia learning support directory`: 0 new finding(s), 1 rejected dead link(s)
+- `dyslexia reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `dyslexia emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `dyslexia daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `dyslexia caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `dyslexia assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `dyslexia accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia mobile accessibility startup`: 0 new finding(s), 1 rejected dead link(s)
+- `dyslexia adaptive tool open source`: 0 new finding(s), 2 rejected dead link(s)
 

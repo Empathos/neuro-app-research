@@ -3,22 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "reading support sensory regulation app",
-    "reading support overload mobile app",
-    "reading support student support app",
-    "reading support learning support mobile app",
-    "reading support emotional regulation app",
-    "reading support mood tracking mobile app",
-    "reading support daily living support app",
-    "reading support independence mobile app",
-    "reading support caregiver app",
-    "reading support clinician tool mobile app",
-    "reading support assistive technology app",
-    "reading support accessibility mobile app",
-    "reading support speech support iOS Android",
-    "reading support conversation support tool",
-    "reading support routine iOS Android",
-    "reading support reminders tool",
     "reading support calming iOS Android",
     "reading support environment planning tool",
     "reading support reading support iOS Android",
@@ -502,7 +486,23 @@
     "dyslexia caregiver app software",
     "dyslexia clinician tool directory",
     "dyslexia assistive technology software",
-    "dyslexia accessibility directory"
+    "dyslexia accessibility directory",
+    "reading support communication support app",
+    "reading support AAC mobile app",
+    "reading support planning app",
+    "reading support task initiation mobile app",
+    "dyslexia calming startup",
+    "dyslexia environment planning open source",
+    "dyslexia reading support startup",
+    "dyslexia classroom open source",
+    "dyslexia self regulation startup",
+    "dyslexia coping skills open source",
+    "dyslexia life skills startup",
+    "dyslexia home routine open source",
+    "dyslexia therapy support startup",
+    "dyslexia parent support open source",
+    "dyslexia mobile accessibility startup",
+    "dyslexia adaptive tool open source"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -900,7 +900,8 @@
     "https://www.webability.io/blog/web-accessibility-for-dyslexia",
     "https://www.youtube.com/watch?v=AZKmRv9PIiE",
     "https://github.com/coconuthead-Sentinel-core/sentinel-forge-personal-development",
-    "https://github.com/SiriMudaddla/Neuro-Assistant"
+    "https://github.com/SiriMudaddla/Neuro-Assistant",
+    "https://github.com/brightleap-app/brightleap"
   ],
-  "updated_at": "2026-08-12T08:41:07.458243+00:00"
+  "updated_at": "2026-08-14T08:44:22.240499+00:00"
 }
