@@ -1,0 +1,114 @@
+---
+import { getCoverage } from "../lib/research";
+
+const coverage = getCoverage();
+
+// Column headers have ~80px each at the narrowest supported width, so the visible
+// header is abbreviated and the full label is exposed to assistive tech.
+const shortLabels: Record<string, string> = {
+  "communication-aac": "Comm. & AAC",
+  "executive-function": "Exec. function",
+  "sensory-regulation": "Sensory reg.",
+  "education-learning": "Education",
+  "emotional-regulation": "Emotional reg.",
+  "daily-living": "Daily living",
+  "caregiver-clinician": "Caregiver",
+  "accessibility-assistive-tech": "Assistive tech"
+};
+
+const short = (id: string, label: string) => shortLabels[id] ?? label;
+const nf = new Intl.NumberFormat("en-US");
+
+const cells = coverage.rows.flatMap((row) => row.cells);
+const thinnest = cells.reduce((low, cell) => (cell.count < low.count ? cell : low));
+const thickest = cells.reduce((high, cell) => (cell.count > high.count ? cell : high));
+
+// Built in the frontmatter: interpolating these inline collapses the surrounding
+// whitespace and welds the words together.
+const range =
+  `Thinnest lane is ${thinnest.conditionLabel} / ${thinnest.categoryLabel.toLowerCase()} at ` +
+  `${nf.format(thinnest.count)}; thickest is ${thickest.conditionLabel} / ` +
+  `${thickest.categoryLabel.toLowerCase()} at ${nf.format(thickest.count)}.`;
+---
+<figure class="coverage">
+  <figcaption class="coverage-caption">
+    <p class="eyebrow">Coverage</p>
+    <h2>Where the research is thick, and where it is thin</h2>
+    <p class="lede">
+      Merged leads in each condition and support-category lane, scaled by the legend below.
+      A thick lane is a well-worked one, not a better one &mdash; this maps review effort,
+      not lead quality. {range}
+    </p>
+  </figcaption>
+
+  <div class="coverage-scroll">
+    <table class="coverage-grid">
+      <caption class="sr-only">
+        Merged public-source leads by condition and support category. {nf.format(coverage.total)} leads
+        across {coverage.rows.length} conditions and {coverage.categories.length} support categories.
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col" class="corner">Condition</th>
+          {coverage.categories.map((category) => (
+            <th scope="col" class="col-head">
+              <span aria-hidden="true">{short(category.id, category.label)}</span>
+              <span class="sr-only">{category.label}</span>
+            </th>
+          ))}
+          <th scope="col" class="col-head total-head">Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        {coverage.rows.map((row) => (
+          <tr>
+            <th scope="row" class="row-head">
+              <a href={`/conditions/${row.conditionId}/`}>{row.conditionLabel}</a>
+            </th>
+            {row.cells.map((cell) => (
+              <td
+                class="cell"
+                data-bin={cell.bin}
+                title={`${cell.conditionLabel} · ${cell.categoryLabel}: ${nf.format(cell.count)} merged lead${cell.count === 1 ? "" : "s"}`}
+              >
+                {cell.count > 0 ? nf.format(cell.count) : <span aria-hidden="true">&ndash;</span>}
+                {cell.count === 0 && <span class="sr-only">0</span>}
+              </td>
+            ))}
+            <td class="row-total">{nf.format(row.total)}</td>
+          </tr>
+        ))}
+      </tbody>
+      <tfoot>
+        <tr>
+          <th scope="row" class="row-head">All conditions</th>
+          {coverage.categoryTotals.map((category) => (
+            <td class="col-total">{nf.format(category.total)}</td>
+          ))}
+          <td class="grand-total">{nf.format(coverage.total)}</td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <div class="coverage-legend">
+    <span class="legend-label">Merged leads per lane</span>
+    <ol class="legend-scale">
+      <li class="legend-step">
+        <span class="legend-swatch" data-bin="0" aria-hidden="true"></span>
+        <span>none</span>
+      </li>
+      {coverage.bins.map((bin) => (
+        <li class="legend-step">
+          <span class="legend-swatch" data-bin={bin.bin} aria-hidden="true"></span>
+          <span>{bin.label}</span>
+        </li>
+      ))}
+    </ol>
+  </div>
+
+  <p class="coverage-note">
+    Dyslexia reads thin by design: it is the only lane with a condition-specific evidence
+    gate in the collector, so leads that never name the condition are rejected before publish.
+  </p>
+</figure>
