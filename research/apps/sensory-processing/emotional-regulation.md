@@ -368,3 +368,13 @@
 - Query: sensory processing mood tracking directory
 - Found: 2026-07-01
 - Description: PDF booklet for parents explaining sensory processing and self-regulation, including sensory activities and signs of overload to track.
+
+### Dharaneesh20/Neuro-Nav-Tab
+
+- URL: https://github.com/Dharaneesh20/Neuro-Nav-Tab
+- Source: github-search
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory processing mood tracking directory
+- Found: 2026-08-14
+- Description: Navigate the city with confidence. Neuro-Nav helps individuals avoid sensory overload with real-time noise data, crowd avoidance alerts, and instant safe haven recommendations.

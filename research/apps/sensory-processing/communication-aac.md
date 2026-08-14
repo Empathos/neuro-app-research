@@ -558,3 +558,13 @@
 - Query: sensory processing communication support app
 - Found: 2026-08-02
 - Description: An adaptive, social-first language learning platform designed specifically for learners with dyslexia, English as a Second Language and visual processing differences.
+
+### shangyanting56-web/cityflow-5120-team18
+
+- URL: https://github.com/shangyanting56-web/cityflow-5120-team18
+- Source: github-search
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory processing conversation support open source
+- Found: 2026-08-14
+- Description: Sensory-aware wayfinding for calmer and more predictable journeys through Melbourne CBD.

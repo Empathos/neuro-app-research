@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-08-10T08:57:05.451185+00:00
-- New findings: 0
+- UTC timestamp: 2026-08-14T08:48:02.888421+00:00
+- New findings: 2
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory processing communication support software`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing AAC directory`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing conversation support open source`: 1 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `sensory processing planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `overload calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `overload environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing overload directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `overload reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `overload classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing student support software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing learning support directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `overload self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `overload coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing mood tracking directory`: 1 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `overload life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `overload home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `overload therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `overload parent support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `overload mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `overload adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory processing accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 

@@ -3,22 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory processing calming startup",
-    "sensory processing environment planning open source",
-    "sensory processing reading support startup",
-    "sensory processing classroom open source",
-    "sensory processing self regulation startup",
-    "sensory processing coping skills open source",
-    "sensory processing life skills startup",
-    "sensory processing home routine open source",
-    "sensory processing therapy support startup",
-    "sensory processing parent support open source",
-    "sensory processing mobile accessibility startup",
-    "sensory processing adaptive tool open source",
-    "sensory regulation communication support app",
-    "sensory regulation AAC mobile app",
-    "sensory regulation planning app",
-    "sensory regulation task initiation mobile app",
     "sensory regulation sensory regulation app",
     "sensory regulation overload mobile app",
     "sensory regulation student support app",
@@ -502,7 +486,23 @@
     "overload therapy support iOS Android",
     "overload parent support tool",
     "overload mobile accessibility iOS Android",
-    "overload adaptive tool"
+    "overload adaptive tool",
+    "sensory processing speech support startup",
+    "sensory processing conversation support open source",
+    "sensory processing routine startup",
+    "sensory processing reminders open source",
+    "sensory processing sensory regulation software",
+    "sensory processing overload directory",
+    "sensory processing student support software",
+    "sensory processing learning support directory",
+    "sensory processing emotional regulation software",
+    "sensory processing mood tracking directory",
+    "sensory processing daily living support software",
+    "sensory processing independence directory",
+    "sensory processing caregiver app software",
+    "sensory processing clinician tool directory",
+    "sensory processing assistive technology software",
+    "sensory processing accessibility directory"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -854,7 +854,9 @@
     "https://github.com/Syntax-Syndicate-Ltd/NeuroLearn",
     "https://github.com/rs2030dev/Say_it",
     "https://github.com/YUCHENLU666/calm-journey-melbourne",
-    "https://github.com/dev-Adhithiya/GentlePath"
+    "https://github.com/dev-Adhithiya/GentlePath",
+    "https://github.com/Dharaneesh20/Neuro-Nav-Tab",
+    "https://github.com/shangyanting56-web/cityflow-5120-team18"
   ],
-  "updated_at": "2026-08-10T08:57:05.451185+00:00"
+  "updated_at": "2026-08-14T08:48:02.888421+00:00"
 }
