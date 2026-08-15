@@ -29,16 +29,6 @@
 - Found: 2026-06-25
 - Description: Student Support Time is a customizable solution designed to meet the needs of busy educators, offering features for intervention scheduling, club meetings, and small group attendance management.
 
-### Student Advising System by Creatrix Campus
-
-- URL: https://www.creatrixcampus.com/student-success-advising-system
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: education-learning
-- Query: routine student support software
-- Found: 2026-06-25
-- Description: A comprehensive advising platform supporting routine student management, including degree planning, early alerts, and retention tracking for higher education institutions.
-
 ### Student Retention Software Guide - Modern Campus
 
 - URL: https://moderncampus.com/blog/student-retention-software.html

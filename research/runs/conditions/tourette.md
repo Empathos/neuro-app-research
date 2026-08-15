@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: tourette
-- UTC timestamp: 2026-08-14T08:51:12.950223+00:00
+- UTC timestamp: 2026-08-15T07:45:49.173493+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `tic tracking speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `habit awareness communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `habit awareness AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `tic tracking routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking reminders tool`: 0 new finding(s), 0 rejected dead link(s)
+- `habit awareness planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `habit awareness task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `tic tracking sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `tic tracking student support app`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `tic tracking emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `tic tracking daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `tic tracking caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking parent support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `tic tracking assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `tic tracking accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `tic tracking adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
