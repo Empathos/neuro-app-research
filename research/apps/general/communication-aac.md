@@ -728,3 +728,13 @@
 - Query: neurodivergent conversation support open source
 - Found: 2026-08-10
 - Description: Adaptive Malayalam AI tutor for neurodivergent learners with personalized learning and mastery tracking.
+
+### Thes-IS-IT/Easylens
+
+- URL: https://github.com/Thes-IS-IT/Easylens
+- Source: github-search
+- Condition: general
+- Support category: communication-aac
+- Query: accessibility speech support startup
+- Found: 2026-08-15
+- Description: Easylens is a state-of-the-art accessibility assistant mobile application designed to empower visually impaired and neurodivergent users. By blending local computer vision, on-device and cloud large language models, cloud storage databases, and edge wearable glasses integration, Easylens functions as a real-time smart companion.
