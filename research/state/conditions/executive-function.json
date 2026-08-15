@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "routine calming iOS Android",
-    "routine environment planning tool",
-    "routine reading support iOS Android",
-    "routine classroom tool",
-    "routine self regulation iOS Android",
-    "routine coping skills tool",
-    "routine life skills iOS Android",
-    "routine home routine tool",
-    "routine therapy support iOS Android",
-    "routine parent support tool",
-    "routine mobile accessibility iOS Android",
-    "routine adaptive tool",
-    "task initiation communication support software",
-    "task initiation AAC directory",
-    "task initiation planning software",
-    "task initiation task initiation directory",
     "task initiation sensory regulation software",
     "task initiation overload directory",
     "task initiation student support software",
@@ -502,7 +486,23 @@
     "executive function therapy support startup",
     "executive function parent support open source",
     "executive function mobile accessibility startup",
-    "executive function adaptive tool open source"
+    "executive function adaptive tool open source",
+    "routine speech support iOS Android",
+    "routine conversation support tool",
+    "routine routine iOS Android",
+    "routine reminders tool",
+    "routine sensory regulation app",
+    "routine overload mobile app",
+    "routine student support app",
+    "routine learning support mobile app",
+    "routine emotional regulation app",
+    "routine mood tracking mobile app",
+    "routine daily living support app",
+    "routine independence mobile app",
+    "routine caregiver app",
+    "routine clinician tool mobile app",
+    "routine assistive technology app",
+    "routine accessibility mobile app"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -837,7 +837,8 @@
     "https://github.com/JackReis/neurodivergent-visual-org",
     "https://github.com/skodityala/onramp",
     "https://github.com/oceana1129/MyNestFinance",
-    "https://github.com/vanshikashh/steppy"
+    "https://github.com/vanshikashh/steppy",
+    "https://github.com/Bengineer700/sequenceTimerApp"
   ],
-  "updated_at": "2026-08-13T08:45:40.572195+00:00"
+  "updated_at": "2026-08-15T07:45:53.521110+00:00"
 }

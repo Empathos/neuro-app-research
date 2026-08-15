@@ -568,3 +568,13 @@
 - Query: routine communication support app
 - Found: 2026-08-13
 - Description: Steppy is an AI-powered adaptive cognitive routine platform built specifically for neurodivergent children.
+
+### Bengineer700/sequenceTimerApp
+
+- URL: https://github.com/Bengineer700/sequenceTimerApp
+- Source: github-search
+- Condition: executive-function
+- Support category: communication-aac
+- Query: routine speech support iOS Android
+- Found: 2026-08-15
+- Description: a versatile PWA that allows you to create spoken cue timer with discrete steps. Initial usecase is yoga routines, but can also be a useful task scheduling tool for neurodivergent individuals
