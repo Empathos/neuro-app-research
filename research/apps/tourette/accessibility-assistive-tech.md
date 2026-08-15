@@ -189,16 +189,6 @@
 - Found: 2026-06-29
 - Description: Public resource showcasing habit-awareness apps and assistive tools like adaptive kitchen tools and visual scheduling systems that support neurodivergent users in building and maintaining daily habits.
 
-### HabitMind Mobile
-
-- URL: https://www.habitmindapp.com/download
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: accessibility-assistive-tech
-- Query: habit awareness accessibility mobile app
-- Found: 2026-06-29
-- Description: Mobile app promoting habit awareness through accessibility-centered design, including text-to-speech support, simplified UI, and adaptive habit schedules for neurodivergent users.
-
 ### HabitAwarely Documentation
 
 - URL: https://docs.habitawarely.com/neurodivergent-support
