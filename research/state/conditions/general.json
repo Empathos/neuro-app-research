@@ -3,22 +3,6 @@
   "condition_cursor": 0,
   "modifier_cursor": 0,
   "seen_queries": [
-    "accessibility calming startup",
-    "accessibility environment planning open source",
-    "accessibility reading support startup",
-    "accessibility classroom open source",
-    "accessibility self regulation startup",
-    "accessibility coping skills open source",
-    "accessibility life skills startup",
-    "accessibility home routine open source",
-    "accessibility therapy support startup",
-    "accessibility parent support open source",
-    "accessibility mobile accessibility startup",
-    "accessibility adaptive tool open source",
-    "general communication-aac neurodivergent app research pass 193",
-    "general communication-aac neurodivergent app research pass 194",
-    "general executive-function neurodivergent app research pass 193",
-    "general executive-function neurodivergent app research pass 194",
     "general sensory-regulation neurodivergent app research pass 193",
     "general sensory-regulation neurodivergent app research pass 194",
     "general education-learning neurodivergent app research pass 193",
@@ -502,7 +486,23 @@
     "neurodiversity therapy support iOS Android",
     "neurodiversity parent support tool",
     "neurodiversity mobile accessibility iOS Android",
-    "neurodiversity adaptive tool"
+    "neurodiversity adaptive tool",
+    "accessibility speech support startup",
+    "accessibility conversation support open source",
+    "accessibility routine startup",
+    "accessibility reminders open source",
+    "accessibility sensory regulation software",
+    "accessibility overload directory",
+    "accessibility student support software",
+    "accessibility learning support directory",
+    "accessibility emotional regulation software",
+    "accessibility mood tracking directory",
+    "accessibility daily living support software",
+    "accessibility independence directory",
+    "accessibility caregiver app software",
+    "accessibility clinician tool directory",
+    "accessibility assistive technology software",
+    "accessibility accessibility directory"
   ],
   "seen_urls": [
     "https://apps.apple.com/ca/app/senlife-adhd-autism-support/id6450156262",
@@ -899,7 +899,8 @@
     "https://github.com/DrSRasin/LEVELLING_THE_FIELD",
     "https://github.com/arxhr007/neurolearn",
     "https://github.com/kushagra-d/EduEase",
-    "https://github.com/mrfentmen/neuroreader"
+    "https://github.com/mrfentmen/neuroreader",
+    "https://github.com/Thes-IS-IT/Easylens"
   ],
-  "updated_at": "2026-08-14T08:47:51.045759+00:00"
+  "updated_at": "2026-08-15T07:53:20.927458+00:00"
 }

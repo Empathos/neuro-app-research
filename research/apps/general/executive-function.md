@@ -499,16 +499,6 @@
 - Found: 2026-08-02
 - Description: An accessible web application to improve focus and productivity for neurodivergent users
 
-### Vilsee/Neuroscope
-
-- URL: https://github.com/Vilsee/Neuroscope
-- Source: github-search
-- Condition: general
-- Support category: executive-function
-- Query: accessibility reminders tool
-- Found: 2026-08-08
-- Description: An adaptive, multi-modal cognitive concept visualizer and pacing tool co-designed with neurodivergent learners.
-
 ### TheWeirdDee/savepoint
 
 - URL: https://github.com/TheWeirdDee/savepoint
