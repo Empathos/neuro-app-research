@@ -3,22 +3,6 @@
   "condition_cursor": 5,
   "modifier_cursor": 0,
   "seen_queries": [
-    "habit awareness sensory regulation software",
-    "habit awareness overload directory",
-    "habit awareness student support software",
-    "habit awareness learning support directory",
-    "habit awareness emotional regulation software",
-    "habit awareness mood tracking directory",
-    "habit awareness daily living support software",
-    "habit awareness independence directory",
-    "habit awareness caregiver app software",
-    "habit awareness clinician tool directory",
-    "habit awareness assistive technology software",
-    "habit awareness accessibility directory",
-    "habit awareness speech support startup",
-    "habit awareness conversation support open source",
-    "habit awareness routine startup",
-    "habit awareness reminders open source",
     "habit awareness calming startup",
     "habit awareness environment planning open source",
     "habit awareness reading support startup",
@@ -502,7 +486,23 @@
     "tic tracking caregiver app",
     "tic tracking clinician tool mobile app",
     "tic tracking assistive technology app",
-    "tic tracking accessibility mobile app"
+    "tic tracking accessibility mobile app",
+    "habit awareness communication support software",
+    "habit awareness AAC directory",
+    "habit awareness planning software",
+    "habit awareness task initiation directory",
+    "tic tracking calming iOS Android",
+    "tic tracking environment planning tool",
+    "tic tracking reading support iOS Android",
+    "tic tracking classroom tool",
+    "tic tracking self regulation iOS Android",
+    "tic tracking coping skills tool",
+    "tic tracking life skills iOS Android",
+    "tic tracking home routine tool",
+    "tic tracking therapy support iOS Android",
+    "tic tracking parent support tool",
+    "tic tracking mobile accessibility iOS Android",
+    "tic tracking adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/au/app/beanemo-by-aurazones-emotions/id6741928995",
@@ -871,5 +871,5 @@
     "https://github.com/xdelin/awesome-agent4edu",
     "https://github.com/alexisvassquez/trackthatmoney"
   ],
-  "updated_at": "2026-08-14T08:51:12.950223+00:00"
+  "updated_at": "2026-08-15T07:45:49.173493+00:00"
 }
