@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: adhd
-- UTC timestamp: 2026-08-15T07:49:27.166266+00:00
+- UTC timestamp: 2026-08-16T07:51:24.936792+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `focus speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd communication-aac neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd communication-aac neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `focus routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd executive-function neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd executive-function neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `focus sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `focus overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `focus calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `focus environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `focus student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `focus learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `focus reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `focus classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `focus emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `focus mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `focus self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `focus coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `focus daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `focus independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `focus life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `focus home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `focus caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `focus clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `focus therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `focus parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `focus assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `focus accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `focus mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `focus adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
