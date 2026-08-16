@@ -3,22 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory regulation sensory regulation app",
-    "sensory regulation overload mobile app",
-    "sensory regulation student support app",
-    "sensory regulation learning support mobile app",
-    "sensory regulation emotional regulation app",
-    "sensory regulation mood tracking mobile app",
-    "sensory regulation daily living support app",
-    "sensory regulation independence mobile app",
-    "sensory regulation caregiver app",
-    "sensory regulation clinician tool mobile app",
-    "sensory regulation assistive technology app",
-    "sensory regulation accessibility mobile app",
-    "sensory regulation speech support iOS Android",
-    "sensory regulation conversation support tool",
-    "sensory regulation routine iOS Android",
-    "sensory regulation reminders tool",
     "sensory regulation calming iOS Android",
     "sensory regulation environment planning tool",
     "sensory regulation reading support iOS Android",
@@ -502,7 +486,23 @@
     "sensory processing caregiver app software",
     "sensory processing clinician tool directory",
     "sensory processing assistive technology software",
-    "sensory processing accessibility directory"
+    "sensory processing accessibility directory",
+    "sensory regulation communication support app",
+    "sensory regulation AAC mobile app",
+    "sensory regulation planning app",
+    "sensory regulation task initiation mobile app",
+    "sensory processing calming startup",
+    "sensory processing environment planning open source",
+    "sensory processing reading support startup",
+    "sensory processing classroom open source",
+    "sensory processing self regulation startup",
+    "sensory processing coping skills open source",
+    "sensory processing life skills startup",
+    "sensory processing home routine open source",
+    "sensory processing therapy support startup",
+    "sensory processing parent support open source",
+    "sensory processing mobile accessibility startup",
+    "sensory processing adaptive tool open source"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -858,5 +858,5 @@
     "https://github.com/Dharaneesh20/Neuro-Nav-Tab",
     "https://github.com/shangyanting56-web/cityflow-5120-team18"
   ],
-  "updated_at": "2026-08-14T08:48:02.888421+00:00"
+  "updated_at": "2026-08-16T07:54:51.624442+00:00"
 }
