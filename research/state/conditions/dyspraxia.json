@@ -3,20 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "coordination AAC directory",
-    "coordination planning software",
-    "coordination task initiation directory",
-    "coordination sensory regulation software",
-    "coordination overload directory",
-    "coordination student support software",
-    "coordination learning support directory",
-    "coordination emotional regulation software",
-    "coordination mood tracking directory",
-    "coordination daily living support software",
-    "coordination independence directory",
-    "motor planning parent support tool",
-    "coordination caregiver app software",
-    "coordination assistive technology software",
     "coordination accessibility directory",
     "coordination speech support startup",
     "coordination conversation support open source",
@@ -502,7 +488,21 @@
     "dyspraxia parent support open source",
     "motor planning caregiver app",
     "motor planning assistive technology app",
-    "motor planning accessibility mobile app"
+    "motor planning accessibility mobile app",
+    "coordination communication support software",
+    "motor planning reminders tool",
+    "motor planning calming iOS Android",
+    "motor planning environment planning tool",
+    "motor planning reading support iOS Android",
+    "motor planning classroom tool",
+    "motor planning self regulation iOS Android",
+    "motor planning coping skills tool",
+    "motor planning life skills iOS Android",
+    "motor planning home routine tool",
+    "motor planning clinician tool mobile app",
+    "motor planning therapy support iOS Android",
+    "motor planning mobile accessibility iOS Android",
+    "motor planning adaptive tool"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-16T07:47:51.595888+00:00"
+  "updated_at": "2026-08-17T08:11:02.371707+00:00"
 }
