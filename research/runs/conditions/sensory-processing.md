@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-08-16T07:54:51.624442+00:00
-- New findings: 0
+- UTC timestamp: 2026-08-17T08:03:00.653411+00:00
+- New findings: 1
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory regulation communication support app`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation AAC mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation speech support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `sensory regulation planning app`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation task initiation mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation reminders tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory processing calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `sensory processing reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation student support app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory processing self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation emotional regulation app`: 1 new finding(s), 0 rejected dead link(s)
+- `sensory regulation mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory processing life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation daily living support app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory processing therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation caregiver app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory processing mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory processing adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory regulation accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
 

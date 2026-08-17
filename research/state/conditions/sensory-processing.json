@@ -3,22 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory regulation calming iOS Android",
-    "sensory regulation environment planning tool",
-    "sensory regulation reading support iOS Android",
-    "sensory regulation classroom tool",
-    "sensory regulation self regulation iOS Android",
-    "sensory regulation coping skills tool",
-    "sensory regulation life skills iOS Android",
-    "sensory regulation home routine tool",
-    "sensory regulation therapy support iOS Android",
-    "sensory regulation parent support tool",
-    "sensory regulation mobile accessibility iOS Android",
-    "sensory regulation adaptive tool",
-    "overload communication support software",
-    "overload AAC directory",
-    "overload planning software",
-    "overload task initiation directory",
     "overload sensory regulation software",
     "overload overload directory",
     "overload student support software",
@@ -502,7 +486,23 @@
     "sensory processing therapy support startup",
     "sensory processing parent support open source",
     "sensory processing mobile accessibility startup",
-    "sensory processing adaptive tool open source"
+    "sensory processing adaptive tool open source",
+    "sensory regulation speech support iOS Android",
+    "sensory regulation conversation support tool",
+    "sensory regulation routine iOS Android",
+    "sensory regulation reminders tool",
+    "sensory regulation sensory regulation app",
+    "sensory regulation overload mobile app",
+    "sensory regulation student support app",
+    "sensory regulation learning support mobile app",
+    "sensory regulation emotional regulation app",
+    "sensory regulation mood tracking mobile app",
+    "sensory regulation daily living support app",
+    "sensory regulation independence mobile app",
+    "sensory regulation caregiver app",
+    "sensory regulation clinician tool mobile app",
+    "sensory regulation assistive technology app",
+    "sensory regulation accessibility mobile app"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -856,7 +856,8 @@
     "https://github.com/YUCHENLU666/calm-journey-melbourne",
     "https://github.com/dev-Adhithiya/GentlePath",
     "https://github.com/Dharaneesh20/Neuro-Nav-Tab",
-    "https://github.com/shangyanting56-web/cityflow-5120-team18"
+    "https://github.com/shangyanting56-web/cityflow-5120-team18",
+    "https://github.com/whoamaiii/neurologg-pro"
   ],
-  "updated_at": "2026-08-16T07:54:51.624442+00:00"
+  "updated_at": "2026-08-17T08:03:00.653411+00:00"
 }

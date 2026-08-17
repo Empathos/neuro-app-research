@@ -378,3 +378,13 @@
 - Query: sensory processing mood tracking directory
 - Found: 2026-08-14
 - Description: Navigate the city with confidence. Neuro-Nav helps individuals avoid sensory overload with real-time noise data, crowd avoidance alerts, and instant safe haven recommendations.
+
+### whoamaiii/neurologg-pro
+
+- URL: https://github.com/whoamaiii/neurologg-pro
+- Source: github-search
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory regulation emotional regulation app
+- Found: 2026-08-17
+- Description: NeuroLogg Pro  PWA for tracking and analyzing emotional/behavioral patterns in neurodivergent children
