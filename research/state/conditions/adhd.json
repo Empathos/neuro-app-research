@@ -3,14 +3,6 @@
   "condition_cursor": 2,
   "modifier_cursor": 0,
   "seen_queries": [
-    "adhd sensory-regulation neurodivergent app research pass 209",
-    "adhd sensory-regulation neurodivergent app research pass 210",
-    "adhd education-learning neurodivergent app research pass 209",
-    "adhd education-learning neurodivergent app research pass 210",
-    "adhd emotional-regulation neurodivergent app research pass 209",
-    "adhd emotional-regulation neurodivergent app research pass 210",
-    "adhd daily-living neurodivergent app research pass 209",
-    "adhd daily-living neurodivergent app research pass 210",
     "adhd caregiver-clinician neurodivergent app research pass 209",
     "adhd caregiver-clinician neurodivergent app research pass 210",
     "adhd accessibility-assistive-tech neurodivergent app research pass 209",
@@ -502,7 +494,15 @@
     "focus therapy support startup",
     "focus parent support open source",
     "focus mobile accessibility startup",
-    "focus adaptive tool open source"
+    "focus adaptive tool open source",
+    "adhd emotional-regulation neurodivergent app research pass 501",
+    "adhd emotional-regulation neurodivergent app research pass 502",
+    "adhd daily-living neurodivergent app research pass 501",
+    "adhd daily-living neurodivergent app research pass 502",
+    "adhd caregiver-clinician neurodivergent app research pass 501",
+    "adhd caregiver-clinician neurodivergent app research pass 502",
+    "adhd accessibility-assistive-tech neurodivergent app research pass 501",
+    "adhd accessibility-assistive-tech neurodivergent app research pass 502"
   ],
   "seen_urls": [
     "https://add.org/adhd-tools-for-adults/",
@@ -960,5 +960,5 @@
     "https://github.com/punithbr27/Nena",
     "https://github.com/dustin12342986-hue/adulting"
   ],
-  "updated_at": "2026-08-16T07:51:24.936792+00:00"
+  "updated_at": "2026-08-17T08:07:21.614834+00:00"
 }

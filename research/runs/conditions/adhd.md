@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: adhd
-- UTC timestamp: 2026-08-16T07:51:24.936792+00:00
+- UTC timestamp: 2026-08-17T08:07:21.614834+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -19,31 +19,31 @@
 
 ### sensory-regulation
 
-- `focus calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `focus reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus classroom open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd education-learning neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `focus self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd emotional-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd emotional-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `focus life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd daily-living neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd daily-living neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `focus therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd caregiver-clinician neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd caregiver-clinician neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `focus mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `focus adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd accessibility-assistive-tech neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `adhd accessibility-assistive-tech neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
