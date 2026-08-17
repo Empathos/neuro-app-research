@@ -3,22 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "text to speech sensory regulation software",
-    "text to speech overload directory",
-    "text to speech student support software",
-    "text to speech learning support directory",
-    "text to speech emotional regulation software",
-    "text to speech mood tracking directory",
-    "text to speech daily living support software",
-    "text to speech independence directory",
-    "text to speech caregiver app software",
-    "text to speech clinician tool directory",
-    "text to speech assistive technology software",
-    "text to speech accessibility directory",
-    "text to speech speech support startup",
-    "text to speech conversation support open source",
-    "text to speech routine startup",
-    "text to speech reminders open source",
     "text to speech calming startup",
     "text to speech environment planning open source",
     "text to speech reading support startup",
@@ -502,7 +486,23 @@
     "reading support caregiver app",
     "reading support clinician tool mobile app",
     "reading support assistive technology app",
-    "reading support accessibility mobile app"
+    "reading support accessibility mobile app",
+    "text to speech communication support software",
+    "text to speech AAC directory",
+    "text to speech planning software",
+    "text to speech task initiation directory",
+    "reading support calming iOS Android",
+    "reading support environment planning tool",
+    "reading support reading support iOS Android",
+    "reading support classroom tool",
+    "reading support self regulation iOS Android",
+    "reading support coping skills tool",
+    "reading support life skills iOS Android",
+    "reading support home routine tool",
+    "reading support therapy support iOS Android",
+    "reading support parent support tool",
+    "reading support mobile accessibility iOS Android",
+    "reading support adaptive tool"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -903,5 +903,5 @@
     "https://github.com/SiriMudaddla/Neuro-Assistant",
     "https://github.com/brightleap-app/brightleap"
   ],
-  "updated_at": "2026-08-16T07:52:13.248868+00:00"
+  "updated_at": "2026-08-17T08:08:05.115100+00:00"
 }
