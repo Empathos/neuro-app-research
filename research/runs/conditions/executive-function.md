@@ -1,49 +1,49 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-08-15T07:45:53.521110+00:00
-- New findings: 1
+- UTC timestamp: 2026-08-17T08:03:00.439390+00:00
+- New findings: 0
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `routine speech support iOS Android`: 1 new finding(s), 0 rejected dead link(s)
-- `routine conversation support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation communication support software`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation AAC directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `routine routine iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `routine reminders tool`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation planning software`: 0 new finding(s), 0 rejected dead link(s)
+- `task initiation task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `routine sensory regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `routine overload mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `routine environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `routine student support app`: 0 new finding(s), 0 rejected dead link(s)
-- `routine learning support mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `routine classroom tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `routine emotional regulation app`: 0 new finding(s), 0 rejected dead link(s)
-- `routine mood tracking mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `routine coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `routine daily living support app`: 0 new finding(s), 0 rejected dead link(s)
-- `routine independence mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `routine home routine tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `routine caregiver app`: 0 new finding(s), 0 rejected dead link(s)
-- `routine clinician tool mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `routine parent support tool`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `routine assistive technology app`: 0 new finding(s), 0 rejected dead link(s)
-- `routine accessibility mobile app`: 0 new finding(s), 0 rejected dead link(s)
+- `routine mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
+- `routine adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
 
