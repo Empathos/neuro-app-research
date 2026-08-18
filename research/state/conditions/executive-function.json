@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "task initiation calming startup",
-    "task initiation environment planning open source",
-    "task initiation reading support startup",
-    "task initiation classroom open source",
-    "task initiation self regulation startup",
-    "task initiation coping skills open source",
-    "task initiation life skills startup",
-    "task initiation home routine open source",
-    "task initiation therapy support startup",
-    "task initiation parent support open source",
-    "task initiation mobile accessibility startup",
-    "task initiation adaptive tool open source",
-    "executive-function communication-aac neurodivergent app research pass 193",
-    "executive-function communication-aac neurodivergent app research pass 194",
-    "executive-function executive-function neurodivergent app research pass 193",
-    "executive-function executive-function neurodivergent app research pass 194",
     "executive-function sensory-regulation neurodivergent app research pass 193",
     "executive-function sensory-regulation neurodivergent app research pass 194",
     "executive-function education-learning neurodivergent app research pass 193",
@@ -502,7 +486,23 @@
     "routine therapy support iOS Android",
     "routine parent support tool",
     "routine mobile accessibility iOS Android",
-    "routine adaptive tool"
+    "routine adaptive tool",
+    "task initiation speech support startup",
+    "task initiation conversation support open source",
+    "task initiation routine startup",
+    "task initiation reminders open source",
+    "task initiation sensory regulation software",
+    "task initiation overload directory",
+    "task initiation student support software",
+    "task initiation learning support directory",
+    "task initiation emotional regulation software",
+    "task initiation mood tracking directory",
+    "task initiation daily living support software",
+    "task initiation independence directory",
+    "task initiation caregiver app software",
+    "task initiation clinician tool directory",
+    "task initiation assistive technology software",
+    "task initiation accessibility directory"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -840,5 +840,5 @@
     "https://github.com/vanshikashh/steppy",
     "https://github.com/Bengineer700/sequenceTimerApp"
   ],
-  "updated_at": "2026-08-17T08:03:00.439390+00:00"
+  "updated_at": "2026-08-18T08:07:07.120135+00:00"
 }
