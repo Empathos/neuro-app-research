@@ -139,16 +139,6 @@
 - Found: 2026-06-25
 - Description: A comprehensive public repository of occupational therapy activities, games, and tools specifically designed to build motor planning skills in children.
 
-### Jefferson-Morgan School District: OT Resources for Motor Planning
-
-- URL: https://www.jmsd.org/apps/pages/index.jsp?uREC_ID=410976&type=d&pREC_ID=1864546
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: education-learning
-- Query: motor planning learning support directory
-- Found: 2026-06-25
-- Description: Official school district page linking to verified occupational therapy resources, including OT Mom, The OT Toolbox, and other motor planning learning tools for parents.
-
 ### Look, Say, Move (Orton-Gillingham Multisensory Approach)
 
 - URL: https://pridereadingprogram.com/why-multisensory-instruction-works-for-apraxia-of-speech/
