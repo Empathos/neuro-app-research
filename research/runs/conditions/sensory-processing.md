@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-08-18T08:03:51.414180+00:00
+- UTC timestamp: 2026-08-19T08:04:05.177702+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `overload communication support software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload AAC directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `overload planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `sensory regulation calming iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation environment planning tool`: 0 new finding(s), 0 rejected dead link(s)
+- `overload sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `overload overload directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `sensory regulation reading support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation classroom tool`: 0 new finding(s), 0 rejected dead link(s)
+- `overload student support software`: 0 new finding(s), 0 rejected dead link(s)
+- `overload learning support directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `sensory regulation self regulation iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation coping skills tool`: 0 new finding(s), 0 rejected dead link(s)
+- `overload emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
+- `overload mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `sensory regulation life skills iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation home routine tool`: 0 new finding(s), 0 rejected dead link(s)
+- `overload daily living support software`: 0 new finding(s), 0 rejected dead link(s)
+- `overload independence directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `sensory regulation therapy support iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation parent support tool`: 0 new finding(s), 0 rejected dead link(s)
+- `overload caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `overload clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `sensory regulation mobile accessibility iOS Android`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory regulation adaptive tool`: 0 new finding(s), 0 rejected dead link(s)
+- `overload assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `overload accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 

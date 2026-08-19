@@ -3,22 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "overload calming startup",
-    "overload environment planning open source",
-    "overload reading support startup",
-    "overload classroom open source",
-    "overload self regulation startup",
-    "overload coping skills open source",
-    "overload life skills startup",
-    "overload home routine open source",
-    "overload therapy support startup",
-    "overload parent support open source",
-    "overload mobile accessibility startup",
-    "overload adaptive tool open source",
-    "sensory-processing communication-aac neurodivergent app research pass 193",
-    "sensory-processing communication-aac neurodivergent app research pass 194",
-    "sensory-processing executive-function neurodivergent app research pass 193",
-    "sensory-processing executive-function neurodivergent app research pass 194",
     "sensory-processing sensory-regulation neurodivergent app research pass 193",
     "sensory-processing sensory-regulation neurodivergent app research pass 194",
     "sensory-processing education-learning neurodivergent app research pass 193",
@@ -502,7 +486,23 @@
     "sensory regulation therapy support iOS Android",
     "sensory regulation parent support tool",
     "sensory regulation mobile accessibility iOS Android",
-    "sensory regulation adaptive tool"
+    "sensory regulation adaptive tool",
+    "overload speech support startup",
+    "overload conversation support open source",
+    "overload routine startup",
+    "overload reminders open source",
+    "overload sensory regulation software",
+    "overload overload directory",
+    "overload student support software",
+    "overload learning support directory",
+    "overload emotional regulation software",
+    "overload mood tracking directory",
+    "overload daily living support software",
+    "overload independence directory",
+    "overload caregiver app software",
+    "overload clinician tool directory",
+    "overload assistive technology software",
+    "overload accessibility directory"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -859,5 +859,5 @@
     "https://github.com/shangyanting56-web/cityflow-5120-team18",
     "https://github.com/whoamaiii/neurologg-pro"
   ],
-  "updated_at": "2026-08-18T08:03:51.414180+00:00"
+  "updated_at": "2026-08-19T08:04:05.177702+00:00"
 }
