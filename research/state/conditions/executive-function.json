@@ -3,22 +3,6 @@
   "condition_cursor": 7,
   "modifier_cursor": 0,
   "seen_queries": [
-    "executive-function sensory-regulation neurodivergent app research pass 193",
-    "executive-function sensory-regulation neurodivergent app research pass 194",
-    "executive-function education-learning neurodivergent app research pass 193",
-    "executive-function education-learning neurodivergent app research pass 194",
-    "executive-function emotional-regulation neurodivergent app research pass 193",
-    "executive-function emotional-regulation neurodivergent app research pass 194",
-    "executive-function daily-living neurodivergent app research pass 193",
-    "executive-function daily-living neurodivergent app research pass 194",
-    "executive-function caregiver-clinician neurodivergent app research pass 193",
-    "executive-function caregiver-clinician neurodivergent app research pass 194",
-    "executive-function accessibility-assistive-tech neurodivergent app research pass 193",
-    "executive-function accessibility-assistive-tech neurodivergent app research pass 194",
-    "executive-function communication-aac neurodivergent app research pass 209",
-    "executive-function communication-aac neurodivergent app research pass 210",
-    "executive-function executive-function neurodivergent app research pass 209",
-    "executive-function executive-function neurodivergent app research pass 210",
     "executive-function sensory-regulation neurodivergent app research pass 209",
     "executive-function sensory-regulation neurodivergent app research pass 210",
     "executive-function education-learning neurodivergent app research pass 209",
@@ -502,7 +486,23 @@
     "task initiation caregiver app software",
     "task initiation clinician tool directory",
     "task initiation assistive technology software",
-    "task initiation accessibility directory"
+    "task initiation accessibility directory",
+    "executive-function communication-aac neurodivergent app research pass 501",
+    "executive-function communication-aac neurodivergent app research pass 502",
+    "executive-function executive-function neurodivergent app research pass 501",
+    "executive-function executive-function neurodivergent app research pass 502",
+    "task initiation calming startup",
+    "task initiation environment planning open source",
+    "task initiation reading support startup",
+    "task initiation classroom open source",
+    "task initiation self regulation startup",
+    "task initiation coping skills open source",
+    "task initiation life skills startup",
+    "task initiation home routine open source",
+    "task initiation therapy support startup",
+    "task initiation parent support open source",
+    "task initiation mobile accessibility startup",
+    "task initiation adaptive tool open source"
   ],
   "seen_urls": [
     "https://ausm.org/ausm-resources/executive-function-resources/",
@@ -840,5 +840,5 @@
     "https://github.com/vanshikashh/steppy",
     "https://github.com/Bengineer700/sequenceTimerApp"
   ],
-  "updated_at": "2026-08-18T08:07:07.120135+00:00"
+  "updated_at": "2026-08-19T07:56:20.636183+00:00"
 }
