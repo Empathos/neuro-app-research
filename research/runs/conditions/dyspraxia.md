@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-08-18T08:00:04.905499+00:00
+- UTC timestamp: 2026-08-20T08:03:31.790127+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `coordination AAC directory`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination AAC directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination speech support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `coordination planning software`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination task initiation directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination routine startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination reminders open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `coordination sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `coordination student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `coordination emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `coordination daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `motor planning parent support tool`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `coordination assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
 
