@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-08-19T08:04:05.177702+00:00
+- UTC timestamp: 2026-08-20T07:59:19.208813+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -9,41 +9,41 @@
 
 ### communication-aac
 
-- `overload speech support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `overload conversation support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing communication-aac neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing communication-aac neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `overload routine startup`: 0 new finding(s), 0 rejected dead link(s)
-- `overload reminders open source`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing executive-function neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing executive-function neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `overload sensory regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload overload directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload calming startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `overload student support software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload learning support directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload reading support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload classroom open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `overload emotional regulation software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload mood tracking directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload coping skills open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `overload daily living support software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload independence directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload life skills startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload home routine open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `overload caregiver app software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload clinician tool directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `overload assistive technology software`: 0 new finding(s), 0 rejected dead link(s)
-- `overload accessibility directory`: 0 new finding(s), 0 rejected dead link(s)
+- `overload mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
+- `overload adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
 
