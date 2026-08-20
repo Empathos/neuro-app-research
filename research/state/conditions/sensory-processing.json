@@ -3,22 +3,6 @@
   "condition_cursor": 6,
   "modifier_cursor": 0,
   "seen_queries": [
-    "sensory-processing sensory-regulation neurodivergent app research pass 193",
-    "sensory-processing sensory-regulation neurodivergent app research pass 194",
-    "sensory-processing education-learning neurodivergent app research pass 193",
-    "sensory-processing education-learning neurodivergent app research pass 194",
-    "sensory-processing emotional-regulation neurodivergent app research pass 193",
-    "sensory-processing emotional-regulation neurodivergent app research pass 194",
-    "sensory-processing daily-living neurodivergent app research pass 193",
-    "sensory-processing daily-living neurodivergent app research pass 194",
-    "sensory-processing caregiver-clinician neurodivergent app research pass 193",
-    "sensory-processing caregiver-clinician neurodivergent app research pass 194",
-    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 193",
-    "sensory-processing accessibility-assistive-tech neurodivergent app research pass 194",
-    "sensory-processing communication-aac neurodivergent app research pass 209",
-    "sensory-processing communication-aac neurodivergent app research pass 210",
-    "sensory-processing executive-function neurodivergent app research pass 209",
-    "sensory-processing executive-function neurodivergent app research pass 210",
     "sensory-processing sensory-regulation neurodivergent app research pass 209",
     "sensory-processing sensory-regulation neurodivergent app research pass 210",
     "sensory-processing education-learning neurodivergent app research pass 209",
@@ -502,7 +486,23 @@
     "overload caregiver app software",
     "overload clinician tool directory",
     "overload assistive technology software",
-    "overload accessibility directory"
+    "overload accessibility directory",
+    "sensory-processing communication-aac neurodivergent app research pass 501",
+    "sensory-processing communication-aac neurodivergent app research pass 502",
+    "sensory-processing executive-function neurodivergent app research pass 501",
+    "sensory-processing executive-function neurodivergent app research pass 502",
+    "overload calming startup",
+    "overload environment planning open source",
+    "overload reading support startup",
+    "overload classroom open source",
+    "overload self regulation startup",
+    "overload coping skills open source",
+    "overload life skills startup",
+    "overload home routine open source",
+    "overload therapy support startup",
+    "overload parent support open source",
+    "overload mobile accessibility startup",
+    "overload adaptive tool open source"
   ],
   "seen_urls": [
     "https://github.com/cboard-org/cboard",
@@ -859,5 +859,5 @@
     "https://github.com/shangyanting56-web/cityflow-5120-team18",
     "https://github.com/whoamaiii/neurologg-pro"
   ],
-  "updated_at": "2026-08-19T08:04:05.177702+00:00"
+  "updated_at": "2026-08-20T07:59:19.208813+00:00"
 }
