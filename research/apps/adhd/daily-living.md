@@ -269,16 +269,6 @@
 - Found: 2026-06-29
 - Description: Research-backed insights on mobile app best practices for supporting independence in daily routines, including personalization, notifications, and content optimization for neurodivergent users.
 
-### Project 1: App for Youth Employment Independence
-
-- URL: https://www.blind.msstate.edu/research/current/project-1-development-app-help-parents-and-youth-focus-employment
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: daily-living
-- Query: focus independence mobile app
-- Found: 2026-06-29
-- Description: Development of a new app providing transition resources to parents and youth with disabilities, supporting independence in employment and daily life for neurodivergent individuals.
-
 ### Holistic Analysis of Mobile Mental Health App Engagement
 
 - URL: https://dl.acm.org/doi/10.1145/3706598.3713732

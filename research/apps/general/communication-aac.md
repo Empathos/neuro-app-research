@@ -699,16 +699,6 @@
 - Found: 2026-08-08
 - Description: Best Kept Secrets - The Ultimate Digital Tools Reference Hub featuring 200+ curated tools across AI, development, design, and more.
 
-### DrSRasin/LEVELLING_THE_FIELD
-
-- URL: https://github.com/DrSRasin/LEVELLING_THE_FIELD
-- Source: github-search
-- Condition: general
-- Support category: communication-aac
-- Query: neurodivergent speech support startup
-- Found: 2026-08-10
-- Description: Development doctrine, architecture manifesto, and umbrella framework for neurodivergent-first accessible software. Covers VoxFaktura  LogoSoma  Mnemaxis  Atlas MA. Founder: Dr. Simon Rasin  neuroscientist, war injury survivor, Wernicke-area cavernoma. EAA 2019/882  WCAG 2.2 AA  EIC/NCBiR grant anchor.
-
 ### kushagra-d/EduEase
 
 - URL: https://github.com/kushagra-d/EduEase
