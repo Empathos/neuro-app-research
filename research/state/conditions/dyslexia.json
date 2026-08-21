@@ -3,14 +3,6 @@
   "condition_cursor": 3,
   "modifier_cursor": 0,
   "seen_queries": [
-    "dyslexia sensory-regulation neurodivergent app research pass 209",
-    "dyslexia sensory-regulation neurodivergent app research pass 210",
-    "dyslexia education-learning neurodivergent app research pass 209",
-    "dyslexia education-learning neurodivergent app research pass 210",
-    "dyslexia emotional-regulation neurodivergent app research pass 209",
-    "dyslexia emotional-regulation neurodivergent app research pass 210",
-    "dyslexia daily-living neurodivergent app research pass 209",
-    "dyslexia daily-living neurodivergent app research pass 210",
     "dyslexia caregiver-clinician neurodivergent app research pass 209",
     "dyslexia caregiver-clinician neurodivergent app research pass 210",
     "dyslexia accessibility-assistive-tech neurodivergent app research pass 209",
@@ -502,7 +494,15 @@
     "text to speech therapy support startup",
     "text to speech parent support open source",
     "text to speech mobile accessibility startup",
-    "text to speech adaptive tool open source"
+    "text to speech adaptive tool open source",
+    "dyslexia emotional-regulation neurodivergent app research pass 501",
+    "dyslexia emotional-regulation neurodivergent app research pass 502",
+    "dyslexia daily-living neurodivergent app research pass 501",
+    "dyslexia daily-living neurodivergent app research pass 502",
+    "dyslexia caregiver-clinician neurodivergent app research pass 501",
+    "dyslexia caregiver-clinician neurodivergent app research pass 502",
+    "dyslexia accessibility-assistive-tech neurodivergent app research pass 501",
+    "dyslexia accessibility-assistive-tech neurodivergent app research pass 502"
   ],
   "seen_urls": [
     "https://apps.apple.com/us/app/dyslexiabuddy/id1565832172",
@@ -903,5 +903,5 @@
     "https://github.com/SiriMudaddla/Neuro-Assistant",
     "https://github.com/brightleap-app/brightleap"
   ],
-  "updated_at": "2026-08-19T07:56:21.806316+00:00"
+  "updated_at": "2026-08-21T08:08:34.688172+00:00"
 }

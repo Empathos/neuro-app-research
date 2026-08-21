@@ -1,9 +1,9 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-08-19T07:56:21.806316+00:00
+- UTC timestamp: 2026-08-21T08:08:34.688172+00:00
 - New findings: 0
-- Rejected dead links: 2
+- Rejected dead links: 0
 
 ## Support Categories
 
@@ -19,31 +19,31 @@
 
 ### sensory-regulation
 
-- `text to speech calming startup`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech environment planning open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `text to speech reading support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech classroom open source`: 0 new finding(s), 1 rejected dead link(s)
+- `dyslexia education-learning neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
-- `text to speech self regulation startup`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech coping skills open source`: 0 new finding(s), 1 rejected dead link(s)
+- `dyslexia emotional-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia emotional-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
-- `text to speech life skills startup`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech home routine open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia daily-living neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia daily-living neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `text to speech therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia caregiver-clinician neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia caregiver-clinician neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `text to speech mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `text to speech adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia accessibility-assistive-tech neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyslexia accessibility-assistive-tech neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
