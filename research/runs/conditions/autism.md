@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-08-18T07:56:12.447871+00:00
+- UTC timestamp: 2026-08-21T08:00:13.974325+00:00
 - New findings: 0
 - Rejected dead links: 0
 
