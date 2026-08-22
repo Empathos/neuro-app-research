@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-08-21T08:11:59.234831+00:00
+- UTC timestamp: 2026-08-22T07:48:24.730211+00:00
 - New findings: 0
 - Rejected dead links: 0
 
@@ -39,11 +39,11 @@
 
 ### caregiver-clinician
 
-- `coordination therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination therapy support startup`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination parent support open source`: 0 new finding(s), 0 rejected dead link(s)
+- `coordination parent support open source`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `coordination mobile accessibility startup`: 0 new finding(s), 0 rejected dead link(s)
-- `coordination adaptive tool open source`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia accessibility-assistive-tech neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `dyspraxia accessibility-assistive-tech neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 

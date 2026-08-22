@@ -3,9 +3,6 @@
   "condition_cursor": 4,
   "modifier_cursor": 0,
   "seen_queries": [
-    "dyspraxia emotional-regulation neurodivergent app research pass 209",
-    "dyspraxia daily-living neurodivergent app research pass 208",
-    "dyspraxia daily-living neurodivergent app research pass 209",
     "dyspraxia caregiver-clinician neurodivergent app research pass 208",
     "dyspraxia caregiver-clinician neurodivergent app research pass 209",
     "dyspraxia accessibility-assistive-tech neurodivergent app research pass 208",
@@ -502,7 +499,10 @@
     "dyspraxia daily-living neurodivergent app research pass 502",
     "coordination therapy support startup",
     "coordination mobile accessibility startup",
-    "coordination adaptive tool open source"
+    "coordination adaptive tool open source",
+    "coordination parent support open source",
+    "dyspraxia accessibility-assistive-tech neurodivergent app research pass 501",
+    "dyspraxia accessibility-assistive-tech neurodivergent app research pass 502"
   ],
   "seen_urls": [
     "https://aloha.rennes-sb.com/hc/en-us/articles/20169532383772-Apps-that-make-life-and-school-easier-especially-if-you-have-a-disability",
@@ -887,5 +887,5 @@
     "https://www.youtube.com/watch?v=qy2HRDvMiG8",
     "https://github.com/darkcosm/pumcutie-daily-diary"
   ],
-  "updated_at": "2026-08-21T08:11:59.234831+00:00"
+  "updated_at": "2026-08-22T07:48:24.730211+00:00"
 }
