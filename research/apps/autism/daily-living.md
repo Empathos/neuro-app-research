@@ -89,16 +89,6 @@
 - Found: 2026-06-26
 - Description: The Autism Life Skills Lady is a mission-driven resource helping parents of autistic children increase their child's quality of life and independence through structured life skills training and support.
 
-### Thrive Autism Services - Life Skills Training
-
-- URL: https://www.thrive-autism.com/services/life-skills-for-children
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: daily-living
-- Query: autistic life skills startup
-- Found: 2026-06-26
-- Description: Thrive Autism offers personalized, in-person and online life skills training for children with autism, focusing on building independence, practical daily skills, and self-care routines.
-
 ### LifeLab Kids - Life Skills Resources
 
 - URL: https://www.lifelabkids.org/blogs/building-life-skills-for-children-with-autism/
