@@ -479,16 +479,6 @@
 - Found: 2026-07-01
 - Description: A multi-sensory app focusing on improving reading, writing, and spelling for autistic learners, designed to support communication through engaging visual and auditory elements.
 
-### Model Me Going Places
-
-- URL: https://www.thrive-autism.com/blog-posts/effective-autism-therapy-tools-for-your-childs-success/
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: communication-aac
-- Query: sensory processing communication support software
-- Found: 2026-07-01
-- Description: Uses photo slideshows of children modeling appropriate communication and social behaviors in various community locations to support sensory-aware social communication.
-
 ### AAC@utexas.edu (UNC Austin AAC Lab)
 
 - URL: https://slhs.utexas.edu/research/augmentative-and-alternative-communication-lab/resources
