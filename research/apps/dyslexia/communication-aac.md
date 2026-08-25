@@ -8,16 +8,6 @@
 - Found: 2026-06-20
 - Description: Text-to-speech reading app that converts documents and text into audio, useful for dyslexia-related reading support.
 
-### Voice Dream Reader
-
-- URL: https://www.voicedream.com/reader/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: communication-aac
-- Query: dyslexia communication support app
-- Found: 2026-06-20
-- Description: Reading app with text-to-speech support for listening to articles, books, and documents instead of decoding every word.
-
 ### ClaroSpeak
 
 - URL: https://www.callscotland.org.uk/downloads/posters-and-leaflets/android-apps-for-learners-with-dyslexia/
