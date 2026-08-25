@@ -429,16 +429,6 @@
 - Found: 2026-06-30
 - Description: A text-to-speech and reading support app for iOS and Android that reads accessible and inaccessible text from websites, PDFs, and Google Drive. Features vocabulary leveling for comprehension and translation services.
 
-### Voice Dream Reader
-
-- URL: https://voicedream.com/reader
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: education-learning
-- Query: AAC reading support iOS Android
-- Found: 2026-06-30
-- Description: Advanced text-to-speech reader for iOS and Android designed for various reading styles, from audio-only to text-highlighting. Supports high-level configuration for screen layout and accessibility.
-
 ### Tar Heel Reader
 
 - URL: http://tarheelreader.com
