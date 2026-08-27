@@ -119,16 +119,6 @@
 - Found: 2026-06-29
 - Description: BetterSleep is a mobile app offering sleep sounds and relaxation features to help users with sensory overload and anxiety unwind, reducing cognitive load before bedtime with customizable audio and visual environments.
 
-### SwiftKey and Gboard
-
-- URL: https://www.swiftkey.com/
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: accessibility-assistive-tech
-- Query: overload accessibility mobile app
-- Found: 2026-06-29
-- Description: SwiftKey and Gboard are mobile keyboards with swipe typing and word prediction, designed to assist users with motor impairments and sensory overload by simplifying input and reducing cognitive effort during typing.
-
 ### Exploring Accessibility Trends and Challenges in Mobile App ... - arXiv
 
 - URL: https://arxiv.org/html/2409.07945v2
