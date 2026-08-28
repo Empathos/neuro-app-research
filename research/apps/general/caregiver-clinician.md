@@ -369,16 +369,6 @@
 - Found: 2026-07-01
 - Description: Free community connecting neurodivergent clients with verified neurodivergent-affirming practitioners globally.
 
-### Inclusive Therapy Directories
-
-- URL: https://neurosparkhealth.com/resources/inclusive-therapy-directories
-- Source: perplexity-sonar
-- Condition: general
-- Support category: caregiver-clinician
-- Query: neurodivergent clinician tool directory
-- Found: 2026-07-01
-- Description: Compilation of inclusive directories helping users find identity-aware therapists who understand neurodivergence and culture.
-
 ### Julie Bjelland Sensitive Practitioner Directory
 
 - URL: https://www.juliebjelland.com/directory
