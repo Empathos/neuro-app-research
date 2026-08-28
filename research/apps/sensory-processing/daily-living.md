@@ -229,16 +229,6 @@
 - Found: 2026-06-29
 - Description: An overview of how app overload can hinder independent living, emphasizing the need for curated, essential tools that support autonomy without overwhelming users.
 
-### Mobile Banking - Independence Bank
-
-- URL: https://www.ibyourbank.com/Mobile-Banking
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: overload independence mobile app
-- Found: 2026-06-29
-- Description: Official mobile banking page for Independence Bank, providing a streamlined app interface for account access and transactions, supporting independence with minimal cognitive load.
-
 ### Life Skills - Life Lessons
 
 - URL: https://play.google.com/store/apps/details?id=com.lifeskillseducation&hl=en_US
