@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: tourette
-- UTC timestamp: 2026-08-28T19:35:58.271654+00:00
+- UTC timestamp: 2026-08-29T13:14:51.564808+00:00
 - New findings: 0
 - Rejected dead links: 0
 
