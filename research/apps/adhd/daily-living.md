@@ -379,16 +379,6 @@
 - Found: 2026-07-01
 - Description: Public article from ADDitude providing strategies for students with ADHD to build independence, including goal setting, self-advocacy, and executive function skills.
 
-### Encouraging Independence in Teenagers with ADHD
-
-- URL: https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: daily-living
-- Query: ADHD independence directory
-- Found: 2026-07-01
-- Description: Official resource from HealthyChildren.org offering a list of support groups and strategies to help teenagers with ADHD develop independence, such as using planners and making routines.
-
 ### When To Let Go: Fostering Independence in ADHD Kids
 
 - URL: https://impactparents.com/blog/adhd/when-to-let-go-fostering-independence/
