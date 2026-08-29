@@ -144,16 +144,6 @@
 - Found: 2026-06-26
 - Description: Open guidelines and templates for creating visual routine schedules for neurodivergent kids, emphasizing safety, independence, and reduced conflict.
 
-### Routine Parent Support Resources (HealthyChildren.org)
-
-- URL: https://www.healthychildren.org/English/family-life/family-dynamics/Pages/The-Importance-of-Family-Routines.aspx
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: caregiver-clinician
-- Query: routine parent support open source
-- Found: 2026-06-26
-- Description: Parent guide on open-access routine strategies for children, including visual aids, consistent schedules, and family-based routine reinforcement.
-
 ### Open Source Family Routines (Wiley Systematic Review)
 
 - URL: https://onlinelibrary.wiley.com/doi/10.1111/jftr.12549
