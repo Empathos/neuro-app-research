@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyspraxia
-- UTC timestamp: 2026-08-29T13:15:03.456266+00:00
+- UTC timestamp: 2026-08-31T15:09:46.334273+00:00
 - New findings: 0
 - Rejected dead links: 0
 
