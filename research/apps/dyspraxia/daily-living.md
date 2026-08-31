@@ -289,16 +289,6 @@
 - Found: 2026-06-30
 - Description: A repository page from ToolstogrowOT providing visual Daily Routine Charts and pictures designed to increase independence in completing sequenced daily routines and tasks, supporting neurodivergent users.
 
-### Caregiver-Friendly Tools for Managing Daily Routines
-
-- URL: https://www.dcreport.org/2025/12/29/caregiver-friendly-tools-for-managing-daily-routines/
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: daily-living
-- Query: coordination home routine tool
-- Found: 2026-06-30
-- Description: A DCReport.org article listing practical tools (e.g., motion-sensor lighting, grab rails, anti-slip mats) that facilitate safe and effective daily routines, directly addressing home coordination needs for neurodivergent individuals.
-
 ### Dyspraxia Foundation  Official Resources and Support
 
 - URL: https://www.dyspraxiafoundation.org.uk/
