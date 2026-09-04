@@ -709,16 +709,6 @@
 - Found: 2026-07-01
 - Description: State-specific directory of ADD/ADHD resources in Texas, including support groups, learning specialists, and educational tools for students with neurodivergence.
 
-### ADHD Learning Support at UT Disability and Access
-
-- URL: https://disability.utexas.edu/adhd/
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: education-learning
-- Query: ADHD learning support directory
-- Found: 2026-07-01
-- Description: Official university resource page offering learning support strategies, accommodation guides, and connections to specialists for students with ADHD.
-
 ### Psychology Today ADHD Support Groups (Austin, TX)
 
 - URL: https://www.psychologytoday.com/us/groups/tx/austin?category=adhd
