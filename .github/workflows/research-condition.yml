@@ -47,7 +47,13 @@ jobs:
           branch="research/${safe_focus}"
           echo "condition=$safe_focus" >> "$GITHUB_OUTPUT"
           echo "branch=$branch" >> "$GITHUB_OUTPUT"
-          git switch -C "$branch" origin/main
+          if git ls-remote --exit-code --heads origin "$branch" >/dev/null 2>&1; then
+            git fetch origin "$branch:refs/remotes/origin/$branch"
+            git switch -c "$branch" "origin/$branch"
+            git merge --no-edit origin/main
+          else
+            git switch -c "$branch" origin/main
+          fi
 
       - name: Collect app leads
         env:
@@ -86,7 +92,7 @@ jobs:
             exit 0
           fi
           git commit -m "research: collect ${{ steps.condition.outputs.condition }} app leads"
-          git push --force-with-lease origin "${{ steps.condition.outputs.branch }}"
+          git push origin "${{ steps.condition.outputs.branch }}"
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Open or update pull request

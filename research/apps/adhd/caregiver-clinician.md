@@ -209,16 +209,6 @@
 - Found: 2026-06-29
 - Description: Comprehensive market analysis listing top caregiver app companies including AlayaCare, Caring Village, and Medisafe, with market size projections to 2035.
 
-### National Family Caregiver Support Program (NFCSP)
-
-- URL: http://acl.gov/programs/support-caregivers/national-family-caregiver-support-program
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: caregiver-clinician
-- Query: focus caregiver app
-- Found: 2026-06-29
-- Description: Federal program providing grants to states for supports helping family and informal caregivers care for older adults, including eligibility resources via Eldercare Locator.
-
 ### Systematic Review: Mobile Apps for Informal Caregivers
 
 - URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7916631/
