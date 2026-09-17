@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-09-16T12:42:32.066391+00:00
+- UTC timestamp: 2026-09-17T12:37:26.113290+00:00
 - New findings: 0
 - Rejected dead links: 0
 
