@@ -299,16 +299,6 @@
 - Found: 2026-06-30
 - Description: Practical guide featuring immediate strategies like 4-7-8 breathing, the 5-4-3-2-1 grounding method, and a curated list of on-the-go sensory tools (headphones, fidgets, weighted objects).
 
-### Mental Health America - Coping Toolbox (PDF)
-
-- URL: https://www.maine.gov/bhr/oeh/sites/maine.gov.bhr.oeh/files/inline-files/Q2%20Coping%20with%20sensory%20overload.pdf
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: emotional-regulation
-- Query: overload coping skills tool
-- Found: 2026-06-30
-- Description: A downloadable self-care resource from Maine.gov (referencing MHA content) offering step-by-step instructions to calm down, laugh, and build restful routines for overload management.
-
 ### Sensory Strategies for Emotion Regulation (PDF Guide)
 
 - URL: https://ausm.org/wp-content/uploads/2024/09/Sensory-Strategies-for-Emotion-Regulation.pdf
