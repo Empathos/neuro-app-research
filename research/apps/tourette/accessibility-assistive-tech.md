@@ -159,16 +159,6 @@
 - Found: 2026-06-29
 - Description: Chapter examining consumer digital tools with habit-awareness capabilities, including reminder apps and visual scheduling systems designed to support neurodivergent individuals in managing daily life.
 
-### Growing Assistive Technology Awareness through State Programs
-
-- URL: https://ltsschoices.aarp.org/resources-and-practices/growing-assistive-technology-awareness-through-state-programs-partnerships
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: accessibility-assistive-tech
-- Query: habit awareness assistive technology app
-- Found: 2026-06-29
-- Description: Official resource listing habit-awareness apps and assistive tools promoted through state partnerships, focusing on neurodivergent support and routine-building technologies.
-
 ### Lived experiences of assistive technology use among commuters with disabilities
 
 - URL: https://www.sciencedirect.com/science/article/pii/S2950196226000025
