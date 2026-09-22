@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-09-21T14:23:38.066592+00:00
+- UTC timestamp: 2026-09-22T12:44:42.292596+00:00
 - New findings: 0
 - Rejected dead links: 0
 
