@@ -269,16 +269,6 @@
 - Found: 2026-06-29
 - Description: Research article detailing behavioral design metrics and strategies for creating habit-forming mobile apps, including retention rates, session frequency, and feature adoption for neurodivergent learning support.
 
-### Gift Habit Tracker App Market Research Report
-
-- URL: https://dataintelo.com/report/habit-tracker-app-market
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: education-learning
-- Query: habit awareness learning support mobile app
-- Found: 2026-06-29
-- Description: Market research report on the habit tracker app industry, analyzing macro forces like mental wellness and digital behavior change tools relevant to neurodivergence support apps.
-
 ### Digital Behavior Change Intervention Designs for Habit Formation
 
 - URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/
