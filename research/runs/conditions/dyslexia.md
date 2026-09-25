@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: dyslexia
-- UTC timestamp: 2026-09-23T12:50:53.378608+00:00
+- UTC timestamp: 2026-09-25T12:55:45.909319+00:00
 - New findings: 0
 - Rejected dead links: 0
 
