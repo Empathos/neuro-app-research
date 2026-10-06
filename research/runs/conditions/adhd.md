@@ -1,7 +1,7 @@
 # Latest Research Run
 
 - Condition: adhd
-- UTC timestamp: 2026-10-05T16:15:03.158696+00:00
+- UTC timestamp: 2026-10-06T14:22:14.627498+00:00
 - New findings: 0
 - Rejected dead links: 0
 
