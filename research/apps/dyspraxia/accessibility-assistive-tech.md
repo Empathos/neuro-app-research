@@ -219,16 +219,6 @@
 - Found: 2026-06-30
 - Description: A comprehensive review coordinating adaptive tools including robotics, mobile apps, and virtual reality systems to support adaptive functioning in neurodivergent individuals across daily settings.
 
-### Contextual Adaptations for Neurodivergent Clients
-
-- URL: https://www.occupationaltherapy.com/articles/contextual-adaptations-for-neurodivergent-client-5711
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: accessibility-assistive-tech
-- Query: coordination adaptive tool
-- Found: 2026-06-30
-- Description: A clinical resource coordinating adaptive tools including AAC devices, visual handouts, and sensory comfort items to manage coordination of communication and adaptive functioning in acute care settings.
-
 ### Neurodiversity Toolkit - University of Plymouth
 
 - URL: https://www.plymouth.ac.uk/research/embedding-systemic-inclusion-for-neurodiverse-and-disabled-engineering-students/diversity-toolkit
