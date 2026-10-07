@@ -238,6 +238,14 @@ def perplexity_search(query: str, max_results: int) -> list[dict]:
         with urllib.request.urlopen(req, timeout=45) as response:
             raw = response.read().decode("utf-8", errors="replace")
         payload = json.loads(raw)
+    except urllib.error.HTTPError as exc:
+        if exc.code in (401, 403):
+            raise RuntimeError(
+                "Perplexity authentication failed; renew PERPLEXITY_API_KEY. "
+                "Refusing to report a successful research run."
+            ) from exc
+        print(f"perplexity-search failed for {query!r}: {exc}", file=sys.stderr)
+        return []
     except Exception as exc:
         print(f"perplexity-search failed for {query!r}: {exc}", file=sys.stderr)
         return []
