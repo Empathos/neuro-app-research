@@ -17,6 +17,19 @@ import collect_neuro_apps  # noqa: E402
 
 
 class CollectNeuroAppsTests(unittest.TestCase):
+    def test_provider_authentication_failure_does_not_look_like_empty_research(self):
+        for status in (401, 403):
+            with self.subTest(status=status), mock.patch.dict(
+                collect_neuro_apps.os.environ, {"PERPLEXITY_API_KEY": "test-only"}
+            ), mock.patch.object(
+                collect_neuro_apps.urllib.request, "urlopen",
+                side_effect=collect_neuro_apps.urllib.error.HTTPError(
+                    "https://api.perplexity.ai/v1/sonar", status, "Unauthorized", {}, None
+                ),
+            ):
+                with self.assertRaisesRegex(RuntimeError, "authentication failed"):
+                    collect_neuro_apps.perplexity_search("autism apps", 1)
+
     def test_validate_findings_rejects_dead_links_only(self) -> None:
         findings = [
             {
