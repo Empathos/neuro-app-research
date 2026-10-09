@@ -109,6 +109,11 @@ def validate_public_target(link: Link, allow_private: bool) -> Result | None:
         return Result(link.url, "dead", "Blocked private/loopback host", link.sources)
 
     try:
+        port = parsed.port
+    except ValueError:
+        return Result(link.url, "dead", "Invalid URL port", link.sources)
+
+    try:
         if is_private_address(normalized):
             return Result(link.url, "dead", "Blocked private/loopback address", link.sources)
     except ValueError:
@@ -117,7 +122,7 @@ def validate_public_target(link: Link, allow_private: bool) -> Result | None:
     try:
         addresses = {
             item[4][0]
-            for item in socket.getaddrinfo(hostname, parsed.port, type=socket.SOCK_STREAM)
+            for item in socket.getaddrinfo(hostname, port, type=socket.SOCK_STREAM)
         }
     except socket.gaierror as exc:
         return Result(link.url, "warning", f"DNS error: {exc}", link.sources)

@@ -79,6 +79,14 @@ class LinkCheckerTests(unittest.TestCase):
         self.assertEqual(result.status, "dead")
         self.assertIn("Blocked private/loopback", result.detail)
 
+    def test_classifies_invalid_port_without_crashing(self) -> None:
+        link = check_links.Link("https://example.com:not-a-port/path", ("fixture.md",))
+
+        result = check_links.check_link(link, timeout=2, strict_network=False)
+
+        self.assertEqual(result.status, "dead")
+        self.assertEqual(result.detail, "Invalid URL port")
+
     def test_blocks_private_redirect_targets_by_default(self) -> None:
         link = check_links.Link("https://example.com/fixture", ("fixture.md",))
 
