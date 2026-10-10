@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import CoverageHeatmap from "../components/CoverageHeatmap.astro";
 import { getConditions, getLeadCounts, getLeads } from "../lib/research";
 
 const conditions = getConditions();
@@ -31,6 +32,10 @@ const activeConditionCount = [...counts.values()].filter((count) => count > 0).l
         <span>tracked conditions</span>
       </div>
     </div>
+  </section>
+
+  <section class="section">
+    <CoverageHeatmap />
   </section>
 
   <section class="section">
