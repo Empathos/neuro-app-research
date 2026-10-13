@@ -458,3 +458,123 @@
 - Query: focus caregiver app
 - Found: 2026-08-09
 - Description: Empathic, privacy-first AI companion for caregivers of non-verbal autistic individuals
+
+### ADHD CARE
+
+- URL: https://adhdcare.online/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: ADHD companion app for parents, teachers, and clinicians, offering symptom and medication tracking, side-effect monitoring, daily tasks, and electronic assessment-form distribution.
+
+### The ADHD Platform That Connects Providers, Teachers & Parents
+
+- URL: https://threaded.care/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Care-coordination platform that lets providers collect observations from teachers, family members, and caregivers through secure shared links.
+
+### Calmtrack
+
+- URL: https://calmtrack.net/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: ADHD, autism, and neurodivergent care app for tracking emotional and behavioral health, identifying triggers, securely sharing information, and generating reports for doctors.
+
+### Neurodiverge App Methodology
+
+- URL: https://neurodiverge.app/methodology
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Documentation describing ADHD and neurodivergence self-screening methods, research-informed trait matching, limitations, and the need for qualified clinical assessment.
+
+### About Neurodiverge App
+
+- URL: https://neurodiverge.app/about
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official overview of free neurodivergence self-screens and guides for adults and parents of neurodivergent children, grounded in published research and lived experience.
+
+### awesome-adhd
+
+- URL: https://github.com/XargsUK/awesome-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Curated GitHub repository listing ADHD-friendly apps, open-source tools, books, resources, and support materials for individuals, families, educators, and clinicians.
+
+### Neurodiversity Support Software Directory
+
+- URL: https://www.f6s.com/software/category/neurodiversity-support
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public directory featuring neurodiversity-support tools including platforms connecting clinicians, educators, and families, plus ADHD planning and remote-intervention products.
+
+### Neuro Buddy
+
+- URL: https://play.google.com/store/apps/details?id=com.base69b6ac261ac8e0da2743c35a.app&hl=en_ZA
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: App for parents, educators, professionals, and neurodivergent adults. Provides ADHD/autism information, accommodation checklists, appointment tracking, child profiles, reports, and therapy-progress organization.
+
+### Kaboose
+
+- URL: https://www.kaboose.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodiversity support platform with expert-led learning modules, community resources, events, and practical guidance for people with ADHD and those supporting them, including family members and educators.
+
+### The Neuro Bridge
+
+- URL: https://play.google.com/store/apps/details?id=com.neurobridge.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Relationship-support app designed for ADHD and neurodivergent users, with social-capacity tracking, personalized reminders, follow-up prompts, and alerts when relationships may need attention.
+
+### NDFriends
+
+- URL: https://apps.apple.com/us/app/ndfriends-adhd-autism-social/id6763520512
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Social-support app for neurodivergent adults, including people with ADHD and autism, focused on peer connection, friendship, community, and shared understanding.
+
+### Systematic Review of Caregiver Burden of Children with ADHD
+
+- URL: https://www.sigmarepository.org/inrc/2025/presentations_2025/128/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public research presentation examining major burdens experienced by primary caregivers of children with ADHD; potentially relevant for caregiver-clinician support research.

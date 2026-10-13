@@ -588,3 +588,93 @@
 - Query: focus coping skills tool
 - Found: 2026-08-10
 - Description: HYPERFOCUS Mega Fusion Ecosystem - Community Showcase
+
+### Bonding Health: ADHD Calm
+
+- URL: https://apps.apple.com/us/app/bonding-health-adhd-calm/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iPhone app for ADHD emotional regulation, offering short Qiks audio interventions, check-ins, breathing exercises, and tools for overwhelm, spirals, burnout, and focus crashes.
+
+### NeuroCoach
+
+- URL: https://play.google.com/store/apps/details?id=com.neurocoach.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android app supporting ADHD, autism, emotional dysregulation, meltdowns, sensory overload, trigger tracking, coping strategies, and pattern identification.
+
+### Thruday
+
+- URL: https://apps.apple.com/ve/app/thruday/id1645552771?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: ADHD and autism planner app combining visual routines, mood tracking, journaling, task management, breathing exercises, and emotional-regulation tools.
+
+### Awesome ADHD Tools
+
+- URL: https://github.com/dicktracey909/awesome-adhd-tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public GitHub collection of ADHD-support tools, including mood tracking, meditation, self-care, and resources addressing emotional regulation, rejection sensitivity, and burnout.
+
+### Emotional regulation resources
+
+- URL: https://www.hct.nhs.uk/emotional-regulation
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: NHS resource page listing support options including Cogs, an app built by neurodivergent people to help identify burnout signs, understand energy levels, and develop wellbeing habits.
+
+### Neurodivergent Insights: Emotional Regulation Tools
+
+- URL: https://neurodivergentinsights.com/product-category/emotions/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodivergent-affirming resources addressing alexithymia, interoception, emotional awareness, and sensory-informed approaches to regulation.
+
+### Neurodivergent Insights: Emotions
+
+- URL: https://neurodivergentinsights.com/emotions/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Collection of workbooks and printable tools covering emotional literacy, interoception, cognitive and body-based factors, and practical emotion-regulation skills.
+
+### Mind: Neurodiversity-Affirming Mental Health App
+
+- URL: https://studio.com/apps/melanie/mind
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: App for ADHD, autistic, and AUDHD adults using bite-sized lessons, flexible exercises, and check-ins to support emotional regulation, self-compassion, and resilience.
+
+### Wisdom: The World of Emotions
+
+- URL: https://play.google.com/store/apps/details?id=com.WisdomEnglishunlockA.ipa&hl=en
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Android game for children ages 48, including children with ADHD or autism, using emotional-learning games, mindful breathing, meditation, and coping-skills activities.
