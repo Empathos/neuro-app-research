@@ -598,3 +598,83 @@
 - Query: dyspraxia learning support directory
 - Found: 2026-07-01
 - Description: Information on dyspraxia problems with movement, coordination, language, and speech, including muscle control difficulties and support strategies.
+
+### Touch-type Read and Spell
+
+- URL: https://apps.apple.com/us/app/touch-type-read-and-spell/id921091732
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Step-by-step touch-typing and literacy course designed for learners who may struggle with dyspraxia, dyslexia, dysgraphia, ADHD, or autism.
+
+### Magrid for Dyspraxia
+
+- URL: https://magrid.education/dyspraxia-dysgraphia-math-app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Educational math and visual-motor-skills app offering tapping, drawing, and dragging interactions to support different motor abilities.
+
+### Dystinct Magazine
+
+- URL: https://play.google.com/store/apps/details?id=com.bgadjjdffi.bddjbgadjjdffi&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android magazine app featuring interviews and content about learning difficulties including dyslexia, dyscalculia, dysgraphia, and dyspraxia.
+
+### Kaboose
+
+- URL: https://www.kaboose.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodivergent-focused web and mobile platform offering expert-led learning modules, community support, events, and practical resources; explicitly includes dyspraxia among the communities supported.
+
+### NeuroDifferent Apps
+
+- URL: https://neurodifferent.org/en/apps
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public directory of tools for neurodivergent children, including communication and learning-support applications.
+
+### NeuroLocker
+
+- URL: https://apps.apple.com/us/app/neurolocker/id6740707608
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Productivity app for neurodivergent students and adults, with lecture transcription, summaries, task creation, calendars, reminders, focus timers, and study-support features.
+
+### Neuroidentify Apps
+
+- URL: https://play.google.com/store/apps/dev?id=6776011752611601102
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Google Play developer page featuring tools intended to help educators identify neurodivergent learning needs and provide personalized educational support.
+
+### Neurodivergent Learner Tools Directory
+
+- URL: https://nd-apps.lovable.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Curated directory for educators and psychologists supporting neurodivergent students, including assistive math, note-taking, transcription, focus, and learning tools.

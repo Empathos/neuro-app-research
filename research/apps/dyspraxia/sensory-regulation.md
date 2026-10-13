@@ -588,3 +588,73 @@
 - Query: dyspraxia overload directory
 - Found: 2026-07-01
 - Description: Video resource presenting self-management strategies for cognitive fatigue and stress in adults with Dyspraxia, including brainstorming and goal-identification techniques.
+
+### SensoryMe
+
+- URL: https://www.sensoryme.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Browser-based sensory profile and strategy toolkit for neurodivergent adults, with sensory quizzes, personalized regulation strategies, and overwhelm check-ins.
+
+### SensoryMe App  National Autistic Society
+
+- URL: https://www.autism.org.uk/autism-services-directory/sensoryme-app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public service-directory listing describing SensoryMe's sensory exploration, personalized toolkit, and in-the-moment regulation features.
+
+### Together As We Are
+
+- URL: https://play.google.com/store/apps/details?id=com.storieswithoutlabels.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android caregiver toolkit with sensory supports, meltdown plans, regulation cues, visual schedules, communication tools, and co-regulation strategies.
+
+### Balanced Mind: ADHD & Autism
+
+- URL: https://play.google.com/store/apps/details?id=com.dfjtecnologia.menteequilibrada&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android app offering calming sounds, five-senses grounding, sensory regulation tools, and pattern reports that can be shared with professionals.
+
+### Neurodiverge App
+
+- URL: https://neurodiverge.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public neurodivergence self-screening and guidance platform covering dyspraxia, sensory differences, autism, ADHD, and related support needs.
+
+### Neurodiverge App Guides
+
+- URL: https://neurodiverge.app/guides
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free public guides on sensory channels, sensory overload, sensory diets, and regulation strategies, presented in accessible neuroaffirming language.
+
+### SensoryGift
+
+- URL: https://www.sensorygift.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Suite of sensory-aware apps and visual tools, including ViziCues for routines, SensyCues for sensory supports and pattern tracking, and Reset for lower-demand regulation assistance.
