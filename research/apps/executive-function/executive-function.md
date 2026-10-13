@@ -448,3 +448,53 @@
 - Query: routine planning app
 - Found: 2026-08-13
 - Description: MyNest is a full-stack budgeting and financial planning web application designed to help young adults organize and manage their finances in a way that feels approachable, supportive, and adaptable.
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/us/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Visual planning app for ADHD, autism, and AuDHD with routines, reminders, task breakdown, mood tracking, priority planning, and support for time blindness and executive-function challenges.
+
+### OneTask: ADHD App & Organizer
+
+- URL: https://play.google.com/store/apps/details?id=com.renkasoft.one_task
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Minimalist Android organizer that displays one priority task at a time, reducing visual noise and choice overload for users with ADHD, autism, or executive dysfunction.
+
+### Habi
+
+- URL: https://www.autism.org.uk/autism-services-directory/habi-free-habit-tracker-focus-timer-screen-time-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Habit tracker and focus app for autistic and neurodivergent people, combining visual routines, a Pomodoro timer, ambient sounds, and screen-time blocking to support executive function.
+
+### Facio: Neurodivergent Co-Pilot
+
+- URL: https://apps.apple.com/us/app/facio-neurodivergent-co-pilot/id6761283904
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Neurodivergent productivity app that uses voice capture to help with planning, prioritizing, organizing, task initiation, and emotional regulation.
+
+### Sprout - Smart ADHD Task App
+
+- URL: https://play.google.com/store/apps/details?id=com.sproutapp.sprout
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Android planner and task manager designed around executive dysfunction, time blindness, decision fatigue, reminders, and organization challenges.

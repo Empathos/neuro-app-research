@@ -268,3 +268,53 @@
 - Query: executive function independence directory
 - Found: 2026-07-01
 - Description: Official resource guide from Harvard University outlining the core pillars of executive function (planning, organizing, initiating, regulating) and linking to evidence-based programs for developing these skills across the lifespan.
+
+### Thruday Product Page
+
+- URL: https://thruday.com/product
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official product page describing visual timelines, reminders, task structure, transition support, and tools for daily executive-function support.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/us/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: ADHD-focused app offering daily insights, practical micro-challenges, habit building, agendas, and reminders.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/us/app/tiimo-to-do-list-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Executive-function support app offering AI-assisted planning, visual schedules, task prioritization, focus timers, and calendar integration.
+
+### ADHD Planner AI
+
+- URL: https://apps.apple.com/us/app/adhd-planner-ai/id6758739558
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Daily scheduling, habit, and emotion-tracking app intended to help develop routines and executive-function skills.
+
+### Neurodivergent Agent Skills
+
+- URL: https://github.com/jpoindexter/neurodivergent-agent-skills
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Open-source AI-agent skills grounded in executive-function research for neurodivergent developers, compatible with Claude Code, Codex, and similar assistants.

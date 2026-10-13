@@ -318,3 +318,73 @@
 - Query: executive function accessibility directory
 - Found: 2026-07-01
 - Description: Neuroscience-based overview of executive function skills including prioritizing, organizing, and transitioning, with implications for accessibility in educational and clinical settings.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/ro/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Visual planning and executive-function support app with accessibility features including Voice Control, speech output, and braille navigation.
+
+### Tiimo Accessibility
+
+- URL: https://www.tiimoapp.com/resource-hub/accessibility-gaad-2025
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official accessibility overview describing support for ADHD, autism, executive dysfunction, task breakdown, scheduling, voice input, and iOS Search.
+
+### Unstuck Coach
+
+- URL: https://github.com/simongonzalezdc/unstuck-coach
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open-source executive-function accessibility coach that externalizes context, next actions, time, transitions, and task closure.
+
+### Open Executive Functioning Resources Directory
+
+- URL: https://exef.org/open-ef-resources-directory
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public directory of open-access executive-function, cognitive-accessibility, neurodiversity, browser-support, and open-source app resources, including NeuroFlow and Tova.
+
+### Supporting Executive Function at Home and Work
+
+- URL: https://disabilities.temple.edu/assistive-technology/pa-tech-accelerator/tech-accelerator-webinar-archive/supporting-executive-function-home-work
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Assistive-technology resource page covering visual and audio cues, task chunking, NFC tags, smartphone features, and neurodivergent-focused apps such as Tiimo, Thruday, and Structured.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/ca/app/tiimo-ai-planner-to-do/id1480220328?platform=iphone
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Visual planning app with AI-assisted task prioritization, color-coded schedules, routines, and a focus timer designed to reduce executive-function load.
+
+### NeuroLocker
+
+- URL: https://neurolocker.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Productivity and organization app presented as support for ADHD, autism, dyslexia, and executive-function challenges, with tools for focus and follow-through.
