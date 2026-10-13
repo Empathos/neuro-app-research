@@ -338,3 +338,83 @@
 - Query: social story accessibility directory
 - Found: 2026-07-01
 - Description: Community-driven repository featuring user-submitted and verified accessible social stories for diverse neurodivergent conditions.
+
+### GitHub Autism Topic
+
+- URL: https://github.com/topics/autism?o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public repository index with projects including AAC systems, visual timers, accessible reading tools, autism learning games, and caregiver crisis-support tools.
+
+### Neuracare
+
+- URL: https://play.google.com/store/apps/details?id=com.neuracare.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android support app focused on social situations, daily routines, and emotional wellness for neurodivergent users.
+
+### Neurodiverge AI Coach
+
+- URL: https://neurodiverge.app/ai-coach
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Neurodivergent-affirming AI coaching tool covering autism, ADHD, AuDHD, sensory overload, burnout, masking, and related support topics.
+
+### Neurodiverge App
+
+- URL: https://neurodiverge.app/disclaimer
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public neurodivergence app offering identity-first self-screening resources and clearly stating that its content is not medical diagnosis or treatment.
+
+### AAC Messenger
+
+- URL: https://apps.apple.com/sg/app/aac-messenger/id6747913083
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iOS AAC communication app intended to help autistic people and others with speech impairments communicate with family, educators, and caregivers.
+
+### TSSFAA Assistive Devices
+
+- URL: https://www.tssfaa.com/assistive-devices.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Assistive technology resource covering AAC devices, switches, sensory tools, touch interfaces, sip-and-puff controls, and planned eye-tracking support.
+
+### Autism Association of Australia: Technology for Autistic Adults
+
+- URL: https://www.autismaustralia.org.au/navigating-autism/technology-to-support-autistic-adults
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public guide to assistive technology, AAC, text-to-speech, speech-to-text, visual schedules, educational software, and accessible note-taking tools.
+
+### Comparative Study on Accessibility for Autistic Users
+
+- URL: https://arxiv.org/html/2410.14033v1
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open research paper discussing autistic accessibility features, Apple Assistive Access, Live Speech, Point and Speak, and interface recommendations including GAIA guidance.
