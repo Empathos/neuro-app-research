@@ -388,3 +388,93 @@
 - Query: Tourette clinician tool directory
 - Found: 2026-07-01
 - Description: Peer-reviewed article detailing clinical assessment tools, rating scales, and diagnostic criteria for Tourette Syndrome to support clinician tool development.
+
+### TSBand: Tic Attack Monitoring System and Caretaker Companion App
+
+- URL: https://neuro.jmir.org/2023/1/e43351
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Research system combining a wearable wristband with a companion app that detects possible tic attacks, monitors selected vitals, and alerts paired caretakers.
+
+### Cog.nd
+
+- URL: https://cognd.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Care platform for neurodivergent children that includes Tourette syndrome support, daily progress tracking, care profiles, scheduling, clinical homework, professional collaboration, and community features.
+
+### InclusiCare
+
+- URL: https://inclusigear.com/developers/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Caregiver-focused SMART on FHIR application for neurodivergent individuals, offering daily tracking, intervention records, coping strategies, care-team coordination, and health-record integration.
+
+### InclusiCare on the Apple App Store
+
+- URL: https://apps.apple.com/us/app/inclusicare/id6760087721
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public iOS app listing describing care circles, caregiver and professional collaboration, wellness and behavior tracking, stress-event records, care notes, and document storage.
+
+### Speak Their Mind
+
+- URL: https://speaktheirmind.co.uk/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Support app for identifying behavioral triggers and patterns, recording stressful events, sharing preferences with caregivers and professionals, and accessing care resources.
+
+### Qrkiez: Neurodivergent Space
+
+- URL: https://play.google.com/store/apps/details?id=com.qrkiez.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android community app for families of neurodivergent people, connecting caregivers with other families, therapists, educators, specialists, and support resources.
+
+### Catalight Quality of Life Scales
+
+- URL: https://www.catalight.org/clinician-tools/quality-of-life-scales
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Clinician-oriented assessment tools covering caregiver stress, parental self-efficacy, wellbeing, self-determination, relationships, and self-management for neurodivergent people and families.
+
+### Spring Health Neurodiversity Program
+
+- URL: https://www.springhealth.com/what-we-do/neurodiversity
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Care model for neurodivergent children and caregivers offering care navigation, multidisciplinary support, caregiver skills training, neuropsychological assessment, and provider-facing collaborative care tools.
+
+### Neurodivergent Insights Clinical Resources
+
+- URL: https://neurodivergentinsights.com/shop-clinicians/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Clinician resources and workbooks addressing sensory needs, burnout, executive functioning, and emotional regulation for neurodivergent clients.

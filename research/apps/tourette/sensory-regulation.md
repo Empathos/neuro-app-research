@@ -518,3 +518,103 @@
 - Query: Tourette overload directory
 - Found: 2026-07-01
 - Description: TicClinic resource section providing tools for understanding and managing Tourette Syndrome, tic disorders, and associated emotional challenges.
+
+### SensoryMe
+
+- URL: https://www.sensoryme.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Digital sensory profile and strategy toolkit with check-ins and personalized regulation suggestions for neurodivergent adults.
+
+### Neurodiverge App
+
+- URL: https://neurodiverge.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Self-screening and profile tool covering autism, ADHD, dyspraxia, dyslexia, sensory differences, and tics, including an eight-channel sensory profile.
+
+### Together As We Are
+
+- URL: https://play.google.com/store/apps/details?id=com.storieswithoutlabels.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Caregiver toolkit offering meltdown plans, sensory supports, regulation cues, visual schedules, sleep tools, and recovery strategies.
+
+### Tourette Association of America Research
+
+- URL: https://tourette.org/research-medical/research/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official research hub covering Tourette Association consortia and work to improve CBIT and adapt interventions for diverse professionals and populations.
+
+### Tourette Association Clinical Trials and Research Studies
+
+- URL: https://tourette.org/research-medical/current-research-programs/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official listing of current clinical trials and studies focused on understanding and treating Tourette syndrome and tic disorders.
+
+### Tourette Association Current Research
+
+- URL: https://tourette.org/research-medical/current-research/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Research overview including wearable tic-tracking devices and studies of sensory processing, premonitory urges, and decision-making in Tourette syndrome.
+
+### NINDS Tourette Syndrome
+
+- URL: https://www.ninds.nih.gov/health-information/disorders/tourette-syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: National Institute of Neurological Disorders and Stroke information page directing researchers to NIH RePORTER for current and past Tourette research projects.
+
+### SensoryMe App  National Autistic Society
+
+- URL: https://www.autism.org.uk/autism-services-directory/sensoryme-app
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Independent directory listing for the SensoryMe web app, including sensory exploration, personalized toolkits, and in-the-moment re-regulation support.
+
+### Balanced Mind: ADHD & Autism
+
+- URL: https://play.google.com/store/apps/details?id=com.dfjtecnologia.menteequilibrada&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Android neurodiversity support app with calming sounds, five-senses grounding, sensory regulation tools, and shareable sensory-pattern reports.
+
+### Neurodiverge Sensory and Regulation Guides
+
+- URL: https://neurodiverge.app/guides
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public guides covering sensory processing, sensory overload, sensory diets, and practical regulation strategies for neurodivergent users and families.
