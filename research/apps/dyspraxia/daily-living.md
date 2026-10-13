@@ -348,3 +348,73 @@
 - Query: dyspraxia independence directory
 - Found: 2026-07-01
 - Description: Community-curated repository of books, guides, and_provider_contact information for diagnosis and support of dyspraxia in children and adults.
+
+### Thruday for Carers
+
+- URL: https://thruday.com/for-carers
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Visual planning and wellbeing app supporting shared routines, daily progress tracking, and caregiver coordination; explicitly describes support for people with dyspraxia and other neurodivergent traits.
+
+### Dyspraxia Resources  University of Exeter
+
+- URL: https://www.exeter.ac.uk/students/wellbeing/cornwall/advice/disability/spld/dyspraxia/resources/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: University resource directory covering public tools for time management, task planning, navigation, transport, voice-to-text, and accessible daily organisation, including Time Timer, Trello, what3words, Google Maps, Citymapper, and AudioPen.
+
+### Dyspraxia Neurodiversity Toolkit
+
+- URL: https://www.uhb.nhs.uk/Downloads/pdf/DyspraxiaNeurodiversityToolkit.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: NHS toolkit discussing practical accommodations and assistive technology, including speech-to-text and typed note-taking on phones, tablets, or computers.
+
+### Read&Write for Work
+
+- URL: https://www.everway.com/products/everway-for-work/read-and-write/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Assistive literacy and communication software offering text-to-speech, simplified text, rewording, and visual dictionary features that may support neurodivergent adults with reading, writing, and workplace daily-living tasks.
+
+### AdaptaLyfe: Autism Routine App
+
+- URL: https://play.google.com/store/apps/details?id=com.adaptalyfe.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Android app for daily routines and life skills, designed to support independence and structure for autistic, ADHD, and other neurodivergent users.
+
+### Neurodivergent Tracker
+
+- URL: https://neurodiverge.app/tracker
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Daily wellbeing and pattern-tracking tool with brief check-ins for sensory load, masking load, cognitive demand, energy, mood, sleep, focus, triggers, and notes.
+
+### Facio: Neurodivergent Co-Pilot
+
+- URL: https://apps.apple.com/us/app/facio-neurodivergent-co-pilot/id6761283904
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: iOS productivity and lifestyle app using voice capture to help neurodivergent users organize thoughts and act on tasks involving executive-function support.

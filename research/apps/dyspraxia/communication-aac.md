@@ -628,3 +628,63 @@
 - Query: dyspraxia AAC directory
 - Found: 2026-07-01
 - Description: Compiled list of non-school-based AAC specialists and providers in Washington State, useful for locating local support for individuals with dyspraxia.
+
+### Talk in Pictures X - AAC speak
+
+- URL: https://play.google.com/store/apps/details/Talk_in_Pictures_X_AAC_speak?id=com.itoucantalk&hl=en_NZ
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Customizable picture-based AAC app for children and adults with nonverbal communication needs, including verbal dyspraxia; supports user-defined cards and spoken sentences.
+
+### Speech Accessibility & Apps
+
+- URL: https://ors.ri.gov/sites/g/files/xkgbur441/files//speech-accessibility-apps.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public guide to speech-accessibility and AAC apps, including Proloquo2Go, Proloquo4Text, Assistive Express, TouchChat, and Verbally.
+
+### AAC iPad Apps
+
+- URL: https://www.mdusd.org/departments/special-education/augmentative-and-alternative-communcation-services/aac-ipad-apps
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: School-district resource page describing TouchChat, TD Snap, LAMP Words for Life, Grid for iPad, Proloquo2Go, and Unity AAC features and target users.
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/no/app/speech-assistant-aac/id1139762358
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Text-to-speech AAC app for people with aphasia, autism, cerebral palsy, stroke, and other speech impairments; supports saved phrase categories and keyboard input.
+
+### Caregiver and Clinician Resources
+
+- URL: https://aac.unl.edu/resources/caregiver-and-clinician-resources/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: University AAC resource page providing downloadable materials and support resources for caregivers, clinicians, and AAC learners.
+
+### Fluent AAC: Communication App
+
+- URL: https://apps.apple.com/lb/app/fluent-aac-communication-app/id1489807378
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Customizable AAC app for children and adults with autism, apraxia, stroke, ALS, Down syndrome, and other conditions affecting natural speech; includes a 3,000-plus-word vocabulary.

@@ -488,3 +488,103 @@
 - Query: dyspraxia task initiation directory
 - Found: 2026-07-01
 - Description: Great strategies for supporting task initiation! Modeling, verbal cues, and backward chaining are so effective for kids with ADHD and motor ...
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/us/app/goblin-tools-autism-pal-to-do/id1527180714
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Neurodivergent-focused productivity app offering task decomposition, time estimation, and tools intended to support executive-function challenges.
+
+### Autism Apps  Open-Source PWA
+
+- URL: https://github.com/yeager/autismapps
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open-source SvelteKit progressive web app containing AAC and TEACCH tools for neurodevelopmental conditions, including verbal dyspraxia and ADHD.
+
+### AskSheldon Neurodivergent Tools
+
+- URL: https://asksheldon.app/tools
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free executive-function support tools for ADHD and autism, including visual countdowns, Pomodoro-style focus support, if-stuck plans, and body doubling.
+
+### Booost: Tasks & Planning
+
+- URL: https://play.google.com/store/apps/details?id=com.booosteducation.booost.app&hl=en
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Planning and organisation app designed to help users prioritise, start, and complete tasks; explicitly includes dyspraxia and other specific learning differences among its target users.
+
+### Executive Function Toolkit
+
+- URL: https://executivefunctiontoolkit.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Collection of free and low-cost executive-function resources, including planners, worksheets, strategy guides, and tools for planning, organisation, time management, and emotional regulation.
+
+### Dyspraxiatheca
+
+- URL: https://www.dyspraxiatheca.eu/en/project
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: European resource platform for dyspraxic students and carers, offering adapted lessons, exercises, and practical support sheets in multiple languages.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/gb/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Visual planning app for routines, prioritisation, time management, and reducing cognitive load; relevant to executive-function support.
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/us/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Visual planner designed for neurodivergent users, including people with dyspraxia; supports routines, reminders, task management, mood tracking, and time blindness.
+
+### Neurodiversity Support Software
+
+- URL: https://www.f6s.com/software/category/neurodiversity-support
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public directory of neurodiversity-support tools, including planners, task-breakdown systems, sensory resources, and self-screening products covering dyspraxia-related traits.
+
+### Executive Function Support Software
+
+- URL: https://www.f6s.com/software/category/executive-function-support
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public software directory featuring executive-function tools such as visual planners, routine systems, and neurodivergent-focused project-management products.

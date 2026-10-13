@@ -358,3 +358,63 @@
 - Query: dyspraxia accessibility directory
 - Found: 2026-07-01
 - Description: Regional directory of providers, agencies, and advocacy organizations offering access to services for people with disabilities, including dyspraxia support and accessibility resources.
+
+### Modmath: Assistive Technology
+
+- URL: https://play.google.com/store/apps/details?id=com.and.modmathinc.com&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Digital math workspace replacing pencil and paper, designed for learners with dyslexia, dysgraphia, dyscalculia, dyspraxia, and other learning differences.
+
+### MYdys
+
+- URL: https://apps.apple.com/us/app/mydys-aid-for-dyslexia/id1640501383
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Reading and learning support app whose version history includes a cursive-font exercise option suitable for people with dyspraxia.
+
+### Accessibility for All  App Store
+
+- URL: https://apps.apple.com/us/story/id1895869577
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Apple App Store accessibility collection featuring neurodivergent-support tools such as Tiimo, an AI planner that breaks tasks into smaller subtasks.
+
+### GitHub Accessibility Documentation
+
+- URL: https://accessibility.github.com/documentation
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official documentation on accessibility features and assistive-technology usage, including screen-reader guidance and accessible product practices.
+
+### AnyToSpeech
+
+- URL: https://anytospeech.com/blog/text-to-speech-for-neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Converts PDFs, images, and URLs into audio, supporting auditory access for neurodivergent learners with visual tracking or note-taking challenges.
+
+### Accessibility for All: Neurodivergent Apps
+
+- URL: https://apps.apple.com/us/iphone/story/id1895869577
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Apple App Store collection featuring neurodivergent-support tools such as visual planning and task-breakdown apps.

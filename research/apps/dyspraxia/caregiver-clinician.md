@@ -278,3 +278,123 @@
 - Query: dyspraxia caregiver app software
 - Found: 2026-07-01
 - Description: Community discussion on a child's dyspraxia diagnosis and the challenges with local waiting times for support services.
+
+### Cog.nd
+
+- URL: https://cognd.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: AI-powered care platform for neurodivergent children, including dyspraxia/DCD; supports caregiver progress tracking, schedules, clinical homework, professional collaboration, and shared care profiles.[3]
+
+### Beats Medical Dyspraxia App
+
+- URL: https://www.beatsmedical.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Interactive smartphone and tablet exercises for children with dyspraxia, targeting speech, fine-motor, and gross-motor skills; designed to complement specialist care.[6]
+
+### Yogo: A Hybrid Toy-System for Children with DCD
+
+- URL: https://www.academia.edu/97846909/Yogo_a_Hybrid_Toy_System_for_children_with_DCD
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Research prototype combining tangible therapeutic toys, a therapist-customizable app, progress tracking, and a parent app for home support and therapist communication.[4]
+
+### Home-Based Immersive Virtual Reality for DCD
+
+- URL: https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/virtual-reality-games-may-improve-motor-skills-in-young-people-with-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: University of Exeter research lead on home-based VR gameplay using Beat Saber to investigate motor-performance improvements in young people with dyspraxia/DCD.[1]
+
+### Efficacy of Virtual Reality Games in Enhancing Motor Coordination
+
+- URL: https://jhrlmc.com/index.php/home/article/view/1711
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Published randomized-trial lead examining VR-based therapy for children with dyspraxia, including coordination, balance, fine-motor skills, and quality-of-life outcomes.[2]
+
+### Neurodiverge App
+
+- URL: https://neurodiverge.app/about
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free self-screening tools and neuroaffirming guides for adults exploring neurodivergence and parents raising neurodivergent children; useful as a caregiver-facing research lead.[7]
+
+### NeuroBloom
+
+- URL: https://neurobloom.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Connected support system focused on regulation, communication, independence, and reducing caregiver burnout for neurodivergent people and their supporters.[8]
+
+### Speak Their Mind
+
+- URL: https://speaktheirmind.co.uk/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Support app for identifying behavioral triggers, logging moods and activities, finding patterns, and sharing resources with parents, carers, social workers, healthcare professionals, teachers, and occupational therapists.
+
+### Qrkiez: Neurodivergent Space
+
+- URL: https://play.google.com/store/apps/details?id=com.qrkiez.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Community app for parents and families of neurodivergent people, with connections to therapists, educators, specialists, and practical support resources.
+
+### InclusiCare
+
+- URL: https://apps.apple.com/us/app/inclusicare/id6760087721
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Care-coordination app for families and professionals, featuring care circles, daily tracking, stress-event records, shareable care notes, technique resources, and document storage.
+
+### LabyrinthKey / KeyAide
+
+- URL: https://labyrinthkey.ai/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Caregiver-support platform whose KeyAide product provides an AI companion and focused tools for parents and caregivers of neurodivergent individuals.
+
+### Understanding Zoe
+
+- URL: https://play.google.com/store/apps/details?id=com.understandingzoe.understandingzoe&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neuroaffirming support app for families raising neurodivergent children and neurodivergent adults, with intended use by caregivers, allied health professionals, and educators.

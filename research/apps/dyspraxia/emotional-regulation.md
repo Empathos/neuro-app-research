@@ -408,3 +408,43 @@
 - Query: motor planning mood tracking mobile app
 - Found: 2026-07-05
 - Description: Neurodivergent-friendly daily diary with local storage - gentle planning for kids, teens, and ND folk
+
+### NeuroCoach
+
+- URL: https://play.google.com/store/apps/details?id=com.neurocoach.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: An Android app providing in-the-moment support for ADHD, autism, emotional dysregulation, meltdowns, sensory overload, trigger tracking, and coping-strategy selection.
+
+### Thruday  Daily Planner for ADHD/Autism
+
+- URL: https://apps.apple.com/ve/app/thruday/id1645552771?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: An iOS neurodivergent-support app combining visual routines, mood tracking, journaling, breathing exercises, task planning, and emotional-regulation tools, with dyspraxia explicitly included in its stated audience.
+
+### Emotional Regulation Guidance  Hertfordshire Community NHS Trust
+
+- URL: https://www.hct.nhs.uk/emotional-regulation
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: An NHS resource page on emotional regulation that highlights the Cogs app, described as being built by neurodivergent people to help identify burnout signs, understand energy levels, and develop wellbeing habits.
+
+### Apps for Neurodivergence
+
+- URL: https://neurovantageai.com/wp-content/uploads/2026/03/Apps-for-Neurodivergence.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public compilation of neurodivergence-focused apps, including mood tracking and journaling tools designed to record emotional states and identify thought patterns.
