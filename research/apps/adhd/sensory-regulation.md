@@ -638,3 +638,123 @@
 - Query: ADHD calming startup
 - Found: 2026-08-12
 - Description: An AI-powered behavioral tracking platform connecting parents of ADHD and Autism children with doctors through VAPI voice agents, RAG-powered clinical insights, and structured ABC data.
+
+### Sensory Diary: Regulation App
+
+- URL: https://play.google.com/store/apps/details?id=com.kindred.connect
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android app for autistic and ADHD users with emotion and sensory tracking, social-battery monitoring, grounding and breathing tools, communication phrases, offline use, and accessibility features.
+
+### SensoryMe
+
+- URL: https://www.sensoryme.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Digital sensory profile, check-in system, and practical strategy toolkit designed primarily for neurodivergent adults, including people with ADHD.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/us/app/stim-adhd-sensory-calm/id6758910859
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iOS sensory-regulation app combining reactive haptics, ambient soundscapes, and interactive visuals for ADHD and restless minds.
+
+### Balanced Mind: ADHD & Autism
+
+- URL: https://play.google.com/store/apps/details?id=com.dfjtecnologia.menteequilibrada
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android mental-health and neurodiversity app featuring calming sounds, sensory-regulation tools, and five-senses grounding exercises for ADHD, autism, and anxiety.
+
+### Bonding Health
+
+- URL: https://bondinghealth.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iPhone app for ADHD overwhelm and emotional regulation, offering short guided resets involving breathing, grounding, movement, sensory cues, check-ins, and nervous-system regulation.
+
+### ADHD Sensory Profile
+
+- URL: https://sensory-profile.vercel.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free browser-based sensory profile covering five senses, with locally saved results and related tools including a Sensory Regulator, Energy Tracker, and focus timer.
+
+### Sensory Diet app
+
+- URL: http://chrisaikenmd.com/apps/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Referenced as a BrainWorks app intended to help children and adults with ADHD manage sensory processing, focus, self-regulation, and structured sensory breaks.
+
+### SensoryMe App  National Autistic Society
+
+- URL: https://www.autism.org.uk/autism-services-directory/sensoryme-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Directory entry describing SensoryMes sensory exploration, personalized toolkit, and in-the-moment regulation strategies.
+
+### NeuroNest
+
+- URL: https://www.neuronest.global/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Sensory-safe companion app offering digital fidgets, breathing and grounding exercises, visual routines, sensory tracking, communication cards, and regulation supports.
+
+### Together As We Are
+
+- URL: https://play.google.com/store/apps/details?id=com.storieswithoutlabels.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Android caregiver toolkit for ADHD, autism, sensory processing differences, and emotional regulation, including meltdown plans, sensory supports, scripts, visual schedules, and sleep tools.
+
+### Together As We Are  App Store
+
+- URL: https://apps.apple.com/jp/app/together-as-we-are/id6759183214?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: iOS listing for a neurodivergent-family support app with calming plans, sensory strategies, visual supports, regulation tools, and communication resources.
+
+### Neurodiverge Sensory and Regulation Guides
+
+- URL: https://neurodiverge.app/guides
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public guide collection covering sensory processing, sensory overload, sensory diets, and regulation approaches for neurodivergent adults and families.

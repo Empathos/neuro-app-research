@@ -388,3 +388,43 @@
 - Query: focus accessibility mobile app
 - Found: 2026-08-09
 - Description: The first step, and only the first step. An accessibility-first task decomposer for executive dysfunction.
+
+### Neurodivergent Support  Spark & Anvil
+
+- URL: https://spark-and-anvil.com/neurodivergent/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Portfolio of apps designed with neurodivergent users in mind, including sensory overrides, focus scaffolds, predictable flows, and executive-function support for ADHD and other neurodivergent learners.
+
+### MyADHD
+
+- URL: https://apps.apple.com/us/app/myadhd/id6753119682
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iOS productivity app with ADHD-oriented task management, focus timers, body doubling, customizable intervals, gentle transitions, accessibility features, and low-pressure progress tracking.
+
+### FocusUp Browser Extension
+
+- URL: https://a11ybob.com/writing/reviews/69aee308e02738636dff3214
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Chrome extension concept for ADHD support that links tasks to websites and visualizes reading progress to reduce cognitive load and improve sustained attention.
+
+### Neurodiverge AI Coach
+
+- URL: https://neurodiverge.app/ai-coach
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: ND-affirming AI coaching resource covering ADHD, AuDHD, sensory overload, executive-function challenges, rejection-sensitive dysphoria, burnout, and workplace support.

@@ -758,3 +758,123 @@
 - Query: focus student support app
 - Found: 2026-08-09
 - Description: Bridge: accessible communication for neurodivergent students, inspired by Childhood Apraxia of Speech
+
+### SYNAPSE Adaptive Tutoring Platform
+
+- URL: https://github.com/giusyferrara/synapse-course
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public adaptive tutoring platform for Java, cybersecurity, and secure software development with a neurodivergent-first interface designed for learners with ADHD and executive-function needs.
+
+### Neurodiversity GitHub Topics
+
+- URL: https://github.com/topics/neurodiversity
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public repository index containing neurodiversity-focused projects, including ADHD executive-function assistants and educational resource collections.
+
+### ADHD Brain
+
+- URL: https://apps.apple.com/us/app/adhd-brain/id6766603877
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: App Store listing for an ADHD focus app intended to support concentration, memory, routines, overwhelm reduction, and calmer daily habits.
+
+### CHADD ADHD Education That Works
+
+- URL: https://chadd.thinkific.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Online ADHD education platform offering practical strategies for managing ADHD at home, in school, and in daily life.
+
+### Neurodiversity in AI Education
+
+- URL: https://edtechdev.github.io/aied/concepts/neurodiversity/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Educational technology resource discussing ADHD and autism in classrooms, including instructional-video chunking and fixed pauses to reduce cognitive load.
+
+### NDD Motor Diagnosis Meta Repository
+
+- URL: https://github.com/Neurodivergent-Motor-Testing-Lab/NDD_motor_diagnosis_meta_repository
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public GitHub repository associated with research code and anonymized data for deep-learning diagnosis and kinematic severity assessment of neurodivergent disorders.
+
+### Brain in Hand
+
+- URL: https://apps.apple.com/gb/app/brain-in-hand/id607805378
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodiversity support app for autistic and ADHD users, combining planning, mood tracking, personalized strategies, coaching, and on-demand human support across education, work, and daily life.
+
+### InControl - ADHD Daily Planner
+
+- URL: https://apps.apple.com/us/app/incontrol-adhd-daily-planner/id6751820814
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: ADHD planner and focus timer for adults and teens, with task organization, distraction management, self-coaching, and study-related categories.
+
+### Neurodivergent Support GitHub Topics
+
+- URL: https://github.com/topics/neurodivergent-support
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public repository directory containing neurodivergent-support projects, including visual learning resources, task-focused tools, time-boxing utilities, and neuro-inclusive education projects.
+
+### FocusBuddy: ADHD Learning
+
+- URL: https://apps.apple.com/us/app/focusbuddy-adhd-learning/id6763799107
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Learning companion for children with ADHD that breaks educational activities into short sessions with small rewards and motivational feedback.
+
+### Sprout: Smart ADHD Task App
+
+- URL: https://apps.apple.com/us/app/sprout-smart-adhd-task-app/id6754895173
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Gamified ADHD task manager and focus planner aimed at students and neurodivergent users managing assignments, routines, and executive-function challenges.
+
+### Numo: ADHD Brain Dump
+
+- URL: https://apps.apple.com/us/app/numo-adhd-brain-dump/id1628994767
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: ADHD-focused app combining task gamification, community features, voice notes, and short educational content about coping skills, procrastination, and time management.

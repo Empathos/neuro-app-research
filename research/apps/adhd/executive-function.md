@@ -528,3 +528,83 @@
 - Query: executive function reminders tool
 - Found: 2026-08-13
 - Description: an all in one adulting app for the neuro divergent, it also uses copyrighted broadcast checklist as a tool to help streamline adn automate organization.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/tt/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: An app designed for adults with ADHD to support clearer thinking, deliberate action, and executive-function challenges.
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/us/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: A visual planner for ADHD, autism, and AuDHD with routines, reminders, task breakdowns, mood tracking, focus tools, and time-blindness support.
+
+### Neurodivergent Apps: Prism
+
+- URL: https://apps.apple.com/sa/app/neurodivergent-tools-prism/id6738650371
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: An ADHD and autism planner offering task breakdown, thought organization, communication assistance, daily guidance, and a low-distraction interface.
+
+### Thruday
+
+- URL: https://thruday.com/product
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodivergent-led daily planning app with visual planning, reminders, routines, mood tracking, breathing tools, and support for task initiation and transitions.
+
+### NeuroLocker
+
+- URL: https://play.google.com/store/apps/details?id=com.neuro.locker&hl=en
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Android productivity and executive-function support app offering notes, reminders, focus tools, calendar features, and strategies for neurodivergent users.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/us/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: iPhone app for people with ADHD featuring short daily exercises, micro-challenges, habit building, and a simplified agenda focused on turning insight into action.
+
+### ADHD Productivity GitHub Topic
+
+- URL: https://github.com/topics/adhd-productivity
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public repository directory containing ADHD-oriented productivity tools, including FreezeFix, a desktop widget for task breakdown, scheduling, AI suggestions, and lightweight tracking.
+
+### ADHD Tools GitHub Topic
+
+- URL: https://github.com/topics/adhd-tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Collection of public repositories for ADHD-friendly tools, including curated resource lists, focus timers, task-breakdown utilities, quick-win tools, and local-first task managers.

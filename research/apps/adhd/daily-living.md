@@ -428,3 +428,83 @@
 - Query: focus home routine tool
 - Found: 2026-08-10
 - Description: paperr is a private, self-hosted platform for you, your household or team  tasks, projects, calendar, notes, routines,focus tools, a shared wall dashboard, and a built-in AI assistant & agents, all running on your own network.
+
+### ADHD Easy-Do Your ADHD Planner
+
+- URL: https://apps.apple.com/jp/app/adhd-easy-do-your-adhd-planner/id6476637209
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Neurodivergent-designed planner supporting daily organization, task management, idea capture, focus, structure, forgetfulness, and procrastination.
+
+### GoblinX  AI Focus & Habits
+
+- URL: https://apps.apple.com/us/app/goblinx-ai-focus-habits/id6462700951
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Neurodivergent-focused app combining an ADHD-friendly task organizer, Pomodoro timer, mood journal, emotional-support chat, educational library, and daily-life tools.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/jp/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: ADHD-oriented coaching and decision-support app intended to help with focus, responsibilities, deadlines, cognitive load, and day-to-day guidance.
+
+### NIRV
+
+- URL: https://nir-v.github.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public project aiming to provide a digital community with services and information for neurodivergent individuals.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/us/app/inflow-manage-your-adhd/id1528183849
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: ADHD-focused app offering tools and guided programs for focus, procrastination, follow-through, organization, self-care, and daily-life management.
+
+### Goblin Tools
+
+- URL: https://apps.apple.com/us/app/goblin-tools/id6449003064
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Collection of neurodivergent-friendly tools including task breakdown, message rewriting, tone interpretation, decision support, and explanations for complicated subjects.
+
+### ADHD Tracker
+
+- URL: https://play.google.com/store/apps/details?id=adhd.test.planner.organizer.kids.adults.cbt.behavior.therapy.treatment.journaling.mental.health&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Daily ADHD planner and tracker with focus diary, mood and medication logs, routines, reminders, and body-doubling timers.
+
+### AUDHD Executive Function
+
+- URL: https://github.com/assafkip/audhd-executive-function
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public Claude Code skill designed as an external executive-function system for ADHD, autism, and AuDHD, supporting working memory, task initiation, follow-up tracking, and drafting.
