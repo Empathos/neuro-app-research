@@ -588,3 +588,63 @@
 - Query: tic tracking communication support app
 - Found: 2026-07-05
 - Description: A disability-friendly AI communication tool for neurodivergent individuals. Transform messy, unfiltered thoughts into professional, structured communication.
+
+### Kyntic
+
+- URL: https://apps.apple.com/us/app/kyntic/id1643229581
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iPhone app for tracking, saving, and analyzing tic data using user input and sensor data; includes hands-free text-to-speech.
+
+### TicSafe
+
+- URL: https://apps.apple.com/ru/app/ticsafe/id6738706091?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free iOS app developed by a person with Tourette syndrome, offering tic-management strategies, medication guidance, communication support for clinicians and therapists, and educational resources.
+
+### TicCoach
+
+- URL: https://apps.apple.com/sg/app/ticcoach/id6767370722
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iPhone coaching app for children, teens, and adults with tics or Tourette syndrome, using CBIT-informed exercises, coping guidance, and an AI coaching interface.
+
+### Gilles  The Tourettes & Tic App
+
+- URL: https://tourette.org/taa_events/gilles-the-tourettes-tic-app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Tourette-focused app for tic tracking, symptom monitoring, behavioral practice, treatment collaboration, self-management, and educational information.
+
+### Autism Apps
+
+- URL: https://github.com/yeager/autismapps
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open-source offline progressive web app collection containing AAC and communication tools such as a core-vocabulary Talk Board, PECS Board, and Conversation Aid.
+
+### ASD Apps / MyDay-AAC
+
+- URL: https://www.asdapps.net/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android AAC and visual-scheduling resource for non-speaking and neurodivergent users, with caregiver-configured daily routines and OpenSymbols support.

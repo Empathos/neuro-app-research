@@ -488,3 +488,33 @@
 - Query: habit awareness student support software
 - Found: 2026-07-07
 - Description: Awesome Agent4Edu: The ultimate collection of Educational AI Agents, MCP Servers, Claude Skills & LLM Apps for students and researchers.
+
+### Neurodivergence Wales Tourette's FAQs
+
+- URL: https://neurodivergencewales.org/en/i-am-neurodivergent/what-is-tourettes/tourettes-faqs/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Accessible educational audio discussions and learning resources about Tourette syndrome for neurodivergent learners and education settings.
+
+### Neurodivergence Wales Community Services
+
+- URL: https://neurodivergencewales.org/en/community-services/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public resources for neurodivergent people, families, and school staff, including education-focused tools and strategies for reducing learning barriers.
+
+### TICTASTIC: Behavior Recorder for Tourette Syndrome
+
+- URL: https://ir.uitm.edu.my/id/eprint/107913/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: University repository record for an Android mobile application designed to record daily tic frequency and support monitoring over time.

@@ -698,3 +698,63 @@
 - Query: habit awareness task initiation directory
 - Found: 2026-07-07
 - Description: AI powered ADHD habit tracking app built with React Native, Firebase and OpenAI GPT. Final year capstone project. Grade: A+
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/us/app/tiimo-to-do-list-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodivergent-friendly visual planner with AI task prioritization, routines, focus timers, reminders, and executive-function support.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/gb/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Official App Store listing describing visual schedules, routine planning, time-awareness support, and reduced cognitive load.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/us/app/goblin-tools-autism-pal-to-do/id1527180714
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodivergent-focused productivity app for breaking tasks into steps, estimating time, simplifying concepts, and reducing executive-function overwhelm.
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/us/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Visual planner for ADHD, autism, AuDHD, executive function, time blindness, routines, reminders, mood tracking, and caregiver support.
+
+### Executive Function Support Software
+
+- URL: https://www.f6s.com/software/category/executive-function-support
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public software directory featuring tools such as Tiimo, FunctionApp, CORXLY, and Focus Bear for routines, planning, task management, and executive-function challenges.
+
+### Neurodiversity Support Software
+
+- URL: https://www.f6s.com/software/category/neurodiversity-support
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public directory covering neurodivergent-support tools including Tiimo, Inflow, and MindoryApp.

@@ -268,3 +268,23 @@
 - Query: Tourette independence directory
 - Found: 2026-07-01
 - Description: Volunteer-led Massachusetts chapter offering local support groups, tools, and resources for families and individuals navigating independence with Tourette Syndrome.
+
+### Thriive
+
+- URL: https://thriivemind.com/support/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Neurodivergence support app offering pattern tracking, strategy recommendations, visual routines, daily check-ins, and support for Tourette syndrome alongside other conditions.
+
+### Tourettes Action App and Wellbeing Research Leads
+
+- URL: https://www.tourettes-action.org.uk/97-search-tourettes-action.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Tourettes Action search page containing public leads for testing a tic-tracker app and a research project focused on wellbeing.

@@ -328,3 +328,73 @@
 - Query: Tourette accessibility directory
 - Found: 2026-07-01
 - Description: College Board documentation guidelines for students with Tic Disorders or Tourette's, detailing requirements for testing accommodations and accessibility support in academic settings.
+
+### TicSafe
+
+- URL: https://apps.apple.com/sa/app/ticsafe/id6738706091
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free iPhone support app offering tic-management strategies, medication and clinician communication support, educational resources, and a calming timer.
+
+### Neurodivergent Tech Directory
+
+- URL: https://neurodivergenttech.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Directory of more than 160 apps and devices designed to help users identify technology suited to neurodivergent needs.
+
+### AccessAIbility
+
+- URL: https://accessaibility.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Assistive-technology resource directory covering tools for ADHD, autism, dyslexia, sensory needs, and other accessibility requirements.
+
+### Neurodivergent GitHub Topics
+
+- URL: https://github.com/topics/neurodivergent
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public GitHub topic page collecting repositories for neurodivergent productivity, organization, focus support, adaptive tutoring, and related tools.
+
+### Unstck
+
+- URL: https://www.unstck.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open-beta collection of accessible, distraction-free tools for neurodivergent and disabled students, including information capture, time management, and overwhelm reduction.
+
+### Auxentia Accessible Apps and Independent Living
+
+- URL: https://www.auxentia.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Community-reviewed directory of accessible apps and assistive technologies, including communication, independent living, cognitive, neurodivergence, switch-access, captioning, and smart-home tools.
+
+### Awesome Accessibility
+
+- URL: https://github.com/lukeslp/awesome-accessibility/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: GitHub-curated accessibility resource list containing tools for neurodivergent users, including focus, productivity, task management, and organization applications.

@@ -298,3 +298,33 @@
 - Query: habit awareness mood tracking mobile app
 - Found: 2026-08-08
 - Description: An expense tracking mobile app built in Flutter to know why you're broke. For ND individuals who get overwhelmed dealing with finances.
+
+### NeuroCoach
+
+- URL: https://play.google.com/store/apps/details?id=com.neurocoach.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Android app offering in-the-moment support for ADHD, autism, emotional dysregulation, meltdowns, sensory overload, trigger tracking, and coping-strategy selection.
+
+### Thruday
+
+- URL: https://apps.apple.com/ve/app/thruday/id1645552771?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: ADHD and autism planner designed around executive-function support, visual routines, mood tracking, journaling, and emotional regulation.
+
+### Cogs App
+
+- URL: https://www.hct.nhs.uk/emotional-regulation
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: NHS-listed app built by neurodivergent people to help identify burnout signs, understand energy levels, and develop positive wellbeing habits.
