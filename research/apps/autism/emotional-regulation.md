@@ -488,3 +488,63 @@
 - Query: social story mood tracking directory
 - Found: 2026-07-01
 - Description: An official NHS guide on creating personalized social stories with descriptive and coaching sentences, including mood tracking elements to reduce anxiety in autistic children.
+
+### iReact  Emotional Regulation  Anxiety, Autism
+
+- URL: https://apps.apple.com/us/app/ireact-emotional-regulation-anxiety-autism/id842162674
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: An app for children that builds awareness of emotions and bodily feelings and provides coping activities to support emotional regulation.
+
+### NeuroCoach
+
+- URL: https://play.google.com/store/apps/details?id=com.neurocoach.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: In-the-moment support for autism, ADHD, sensory overload, meltdowns, emotional dysregulation, trigger tracking, and pattern identification.
+
+### Cogs App
+
+- URL: https://www.hct.nhs.uk/emotional-regulation
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: A neurodivergent-designed app focused on burnout prevention, identifying personal burnout signs, monitoring energy, and developing wellbeing habits.
+
+### Apps for Neurodivergence
+
+- URL: https://neurovantageai.com/wp-content/uploads/2026/03/Apps-for-Neurodivergence.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public guide covering neurodivergence-support apps, including emotional awareness, somatic mapping, mood tracking, anxiety management, and autism-focused CBT tools.
+
+### Genome3d/genetic-regulation-in-asd
+
+- URL: https://github.com/Genome3d/genetic-regulation-in-asd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open research repository containing scripts, data, results, figures, and reproducibility materials for studying regulatory impacts of autism-associated variants.
+
+### Recommended Autism Apps  Boston Medical Center
+
+- URL: https://www.bmc.org/sites/default/files/Patient_Care/Specialty_Care/Pediatrics%20-%20Autism/Recommended-Apps.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Clinical resource listing autism-support apps, including iReact for emotional regulation and additional tools for behavior tracking and emotional literacy.

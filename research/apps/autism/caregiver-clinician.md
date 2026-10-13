@@ -358,3 +358,53 @@
 - Query: social story clinician tool directory
 - Found: 2026-07-01
 - Description: A clinician-focused user manual and tool directory for implementing social stories with children who have developmental delays, autism, or social challenges.
+
+### Qrkiez: Neurodivergent Space
+
+- URL: https://play.google.com/store/apps/details?id=com.qrkiez.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Community platform for parents and families of neurodivergent people, with access to resources, topic communities, and therapist, educator, and specialist discovery.
+
+### CSD Starship Caregiver App
+
+- URL: https://www.prnewswire.com/news-releases/csd-launches-starship--a-breakthrough-caregiver-app-designed-to-strengthen-outcomes-empower-families-and-transform-the-aba-experience-302729547.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Caregiver-clinician connection app for collecting behavior observations, practicing therapy goals at home, messaging clinical teams, and tracking progress.
+
+### Spectrelle
+
+- URL: https://spectrelle.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Autism caregiving app in beta that combines behavior insights, daily structure, caregiver wellbeing, plain-language guidance, and data sharing alongside clinical care.
+
+### NDFriends: ADHD, Autism Social
+
+- URL: https://apps.apple.com/us/app/ndfriends-adhd-autism-social/id6763520512
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Social support app for adults with autism, ADHD, anxiety, and related neurodivergent experiences, focused on connection and peer understanding.
+
+### Apple App Store: Apps to Support Children With Autism
+
+- URL: https://apps.apple.com/us/iphone/story/id1792470108
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official App Store collection highlighting autism-support tools for communication, literacy, emotional learning, play, and caregiver progress monitoring, including Proloquo, Speech Blubs, GoLexic, and Avokiddo Emotions.

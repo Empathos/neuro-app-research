@@ -608,3 +608,113 @@
 - Query: autistic calming startup
 - Found: 2026-08-06
 - Description: NeuroClear is a web assistant designed to help neurodiverse readers by reformatting dense documents into more accessible versions. Users upload documents, select a support mode tailored to their needs (e.g., ADHD, anxiety), and receive a reworded version with simplified language and calming tones.
+
+### Burble  Sensory Regulation App for Autistic Learners
+
+- URL: https://www.burbleneuro.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Sensory-safe digital experiences for home, school, therapy, transitions, overwhelm, and shutdown states.
+
+### Gentle Games
+
+- URL: https://github.com/rogersau/gentle-games
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free, open-source sensory-considerate mobile games with adjustable sound, motion, appearance, and comfort settings.
+
+### Together As We Are
+
+- URL: https://play.google.com/store/apps/details?id=com.storieswithoutlabels.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Caregiver toolkit offering meltdown plans, sensory supports, sleep tools, regulation cues, and communication scripts for autistic and ADHD users.
+
+### SensoryMe
+
+- URL: https://www.autism.org.uk/autism-services-directory/sensoryme-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Web app helping neurodivergent users explore sensory needs, create personalized strategy toolkits, and access tailored re-regulation suggestions.
+
+### Sensory Overload Simulator
+
+- URL: https://github.com/kburk1997/My-ASD-Journey
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open-source mobile simulation collection intended to illustrate some sensory and experiential aspects associated with autism.
+
+### AI-Powered Sensory Overload Prevention for Autism
+
+- URL: https://github.com/sainimal1ba-hue/AI-Powered-Sensory-Overload-Prevention-for-Autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Prototype assistive project using stress, movement, noise, and location signals to predict overload and trigger calming interventions.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/us/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iOS sensory-play app with digital fidgets and calming activities designed for autistic and neurodivergent children.
+
+### Autism Toolbox - Behavior
+
+- URL: https://apps.apple.com/id/app/autism-toolbox-behavior/id1057460578
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: iOS app for parents and professionals with strategies addressing anxiety, meltdowns, self-regulation, repetitive behavior, sleep, safety, and other behaviors in children ages 312.
+
+### ASD Tools for Autism
+
+- URL: https://apps.apple.com/ca/app/asd-tools-for-autism/id578206583
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Support toolkit designed to help children transition, stay calm, and build independence; intended for autism, ADHD, Down syndrome, and developmental delays.
+
+### SensoryMap
+
+- URL: https://github.com/mseenu019-png/SensoryMap
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Open-source sensory-aware accessibility platform that helps neurodivergent users evaluate and plan visits to places according to individual sensory preferences.
+
+### SensoryGift
+
+- URL: https://www.sensorygift.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public suite of sensory-aware apps, visual supports, routines, transition tools, regulation resources, and pattern-logging features for neurodivergent daily support.

@@ -388,3 +388,43 @@
 - Query: social story independence directory
 - Found: 2026-07-01
 - Description: A scoping review synthesizing social narrative research for behavior change in ASD, including independence skills like communication and direction compliance.
+
+### AdaptaLyfe: Autism Routine App
+
+- URL: https://play.google.com/store/apps/details?id=com.adaptalyfe.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Android routine planner, habit tracker, and life-skills app designed for autistic, ADHD, and other neurodivergent users, with tools for structure, focus, and daily independence.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/us/app/els-autism-aba-therapy/id6502673666?platform=iphone
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: iPhone app using social narratives, picture schedules, visual timers, token boards, and first/then charts to support daily-living skills and social learning for neurodivergent children.
+
+### Aspie Guide
+
+- URL: https://wonmor.github.io/Aspie-Helper/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public autism-spectrum support app and companion project offering resources intended for autistic users.
+
+### Autism Support App
+
+- URL: https://github.com/zenkriztao/tim-athena-gemastik
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Flutter and Firebase application designed to support autistic childrens learning and development with gamification.

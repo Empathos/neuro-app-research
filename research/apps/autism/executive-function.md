@@ -648,3 +648,53 @@
 - Query: autism reminders tool
 - Found: 2026-08-03
 - Description: Free, open-source app for ADHD, autism & bipolar disorder. Local-first, no cloud, MIT licence.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/us/app/tiimo-to-do-list-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Official App Store listing featuring visual schedules, color-coded planning, focus timers, AI prioritization, and calendar synchronization.[6]
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/us/app/goblin-tools-autism-pal-to-do/id1527180714
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: App Store listing for a neurodivergent-focused productivity tool that breaks overwhelming tasks into manageable steps and supports autism, ADHD, and executive-function needs.[2]
+
+### Autism Pal  Planner & To-dos
+
+- URL: https://apps.apple.com/au/app/autism-pal-planner-to-dos/id1527180714
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: App listing describing Magic Breakdown, task compilation, time estimation, visual time awareness, predictable routines, and executive-function support.[8]
+
+### AskSheldon Neurodivergent Tools
+
+- URL: https://asksheldon.app/tools
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public collection of free tools designed for executive-function differences associated with ADHD and autism.[5]
+
+### Executive Function Magazine
+
+- URL: https://apps.apple.com/us/app/executive-function-magazine/id6474455746
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: App Store resource covering autism, planning, prioritization, task initiation, organization, attention, memory, cognitive flexibility, and related executive-function topics.[9]

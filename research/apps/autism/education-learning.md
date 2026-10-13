@@ -568,3 +568,143 @@
 - Query: social story learning support directory
 - Found: 2026-08-11
 - Description: 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex  from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.
+
+### Jade Edu
+
+- URL: https://www.jadend.tech/en/jade-edu
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Gamified educational software for schools and educators supporting autistic, ADHD, dyslexic, and other neurodivergent learners through cognitive activities, performance tracking, and individualized reports.
+
+### Jade  Learning Through Play
+
+- URL: https://apps.apple.com/ma/app/jade-learning-through-play/id1473169233
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iOS learning app for neurodivergent children and teens, including learners with autism, ADHD, dyscalculia, intellectual disabilities, Down syndrome, and dyslexia.
+
+### Ayush EduKids
+
+- URL: https://play.google.com/store/apps/details?id=com.seegmai.edukids&hl=en
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Sensory-friendly Android educational platform designed for children on the autism spectrum, with a predictable environment for foundational learning skills.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/us/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: App providing social narratives, picture schedules, visual timers, token boards, and first/then charts to support autistic children with social and daily-living skills.
+
+### Neurodivergent Support GitHub Topics
+
+- URL: https://github.com/topics/neurodivergent-support
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public GitHub topic page collecting open-source neurodivergent-support projects, including accessible learning tools, multilingual resources, and autism-focused assistants.
+
+### HundrED: Jade
+
+- URL: https://hundred.org/en/innovations/jade
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Profile of Jades game-based educational platform, which uses cognitive games and learning-progress data to support individualized education for neurodivergent children.
+
+### Autismo
+
+- URL: https://apps.apple.com/us/app/autismo/id6773582185
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iOS learning app offering activities for autistic children involving colors, letters, numbers, shapes, and other foundational concepts.
+
+### Autism Apps
+
+- URL: https://github.com/yeager/autismapps
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Open-source SvelteKit progressive web app containing AAC and TEACCH tools for children with autism, ADHD, intellectual disabilities, and verbal dyspraxia.
+
+### Supporting Children with Autism Through Physical Education
+
+- URL: https://yuemco.github.io/VRApp2/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Virtual-reality project focused on physical education, motor-skills development, structured practice, adjustable difficulty, and multilingual support for autistic children.
+
+### Autism Technology Research Syndicate
+
+- URL: https://github.com/Autism-Technology-Research-Syndicate
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public GitHub organization with autism-technology research projects, including SEALApplication for personalizing special-education curricula using responsiveness data.
+
+### Special Education GitHub Topic
+
+- URL: https://github.com/topics/special-education
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public GitHub topic page aggregating repositories related to special education, including autism-focused curriculum and assistive-technology projects.
+
+### NeuroDifferent Apps
+
+- URL: https://neurodifferent.org/en/apps
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Online collection of tools for neurodivergent children, including communication and learning support applications.
+
+### Autism Early Diagnosis and Support Platform
+
+- URL: https://github.com/Mostafa10770/Autism-Guide
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public Flask-based project combining autism-support resources with an interactive chatbot intended to engage children and assist parents.
+
+### Autism Assistive App
+
+- URL: https://github.com/satvikchachra/Autism-Assistive-App
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Open-source assistive app prototype that uses gamified activities to help autistic children practice interpreting emotions.
