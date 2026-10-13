@@ -274,3 +274,23 @@
 - Found: 2026-07-01
 - Description: Official documentation and product page for CoachMePlus, a mobile and web platform providing structured executive function coaching tools, daily plans, and caregiver communication features for neurodivergent individuals.
 
+
+### Squirrel
+
+- URL: https://squirreltime.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Executive-function support for children and families, with collaborative planning, clinician tools, progress tracking, and documentation.
+
+### Maddy: ADHD & Autism Support
+
+- URL: https://apps.apple.com/us/app/maddy-adhd-autism-support/id6762416876
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: App supporting ADHD, autism, and executive function, with an optional caregiver space and use as a between-session scaffold for neurodivergent-affirming practitioners.

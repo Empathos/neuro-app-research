@@ -578,3 +578,123 @@
 - Query: routine speech support iOS Android
 - Found: 2026-08-15
 - Description: a versatile PWA that allows you to create spoken cue timer with discrete steps. Initial usecase is yoga routines, but can also be a useful task scheduling tool for neurodivergent individuals
+
+### Speech AAC
+
+- URL: https://apps.apple.com/us/app/speech-aac/id6759862129
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: AAC app for people with speech disabilities, autism, ALS, stroke recovery, cerebral palsy, and others who need a voice.
+
+### AAC Speech & Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.cm.aac&hl=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Offline Android AAC board supporting symbol boards, pictures, text, and natural text-to-speech.
+
+### AAC Plus
+
+- URL: https://aac-plus.com/what-we-do/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Official AAC Plus product page describing its planned communication app and AAC-focused work.
+
+### Executive Function Toolkit Resource Bank
+
+- URL: https://executivefunctiontoolkit.com/eft-resource-bank/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Free printable worksheets and templates for task initiation, planning, time management, emotional regulation, and self-monitoring, designed for ADHD and neurodivergent users.
+
+### SEND Apps
+
+- URL: https://www.trisende.co.uk/apps
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Directory of accessible apps including Goblin Tools for task breakdown and tone adjustment, CoughDrop for AAC communication, Grid Player for symbol-based communication, and SimpleMind for visual organization.
+
+### AAC Speech & Communication
+
+- URL: https://aacspeech.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Offline AAC communication tool for autistic and non-speaking people, with support for home, school, and speech-therapy use.
+
+### AAC Autism Communicator
+
+- URL: https://apps.apple.com/us/app/aac-autism-communicator/id6783295908
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: iOS AAC app with visual cards, phrase building, speech output, visual schedules, first-then support, and local board editing.
+
+### AAC Talk: Autism Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.missingstep.aactalk.autism&hl=en_AU
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Customizable Android AAC app using images, text, and voice output for autistic, non-speaking, and speech-therapy users.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/us/app/goblin-tools-autism-pal-to-do/id1527180714
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Productivity app for neurodivergent users that breaks overwhelming tasks into steps, estimates time, and supports focus and planning.
+
+### Aidova
+
+- URL: https://aidova.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Free browser-based AAC app for autistic children and adults, supporting spoken output for needs, feelings, choices, and sentence building.
+
+### Neurodivergent Tools - Prism
+
+- URL: https://apps.apple.com/gb/app/neurodivergent-tools-prism/id6738650371
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: iOS toolkit with task breakdown, thought organization, an AI communication helper, daily guidance, and low-distraction design.
+
+### OpenAAC
+
+- URL: https://github.com/open-aac
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Open-source organization hosting web-based AAC software and related support projects.

@@ -448,3 +448,93 @@
 - Query: task initiation mood tracking directory
 - Found: 2026-07-07
 - Description: AI powered ADHD habit tracking app built with React Native, Firebase and OpenAI GPT. Final year capstone project. Grade: A+
+
+### Thruday
+
+- URL: https://apps.apple.com/us/app/thruday/id1645552771?l=ko&platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: iPad app supporting daily planning, routines, task management, mood tracking, and shared support for neurodivergent users.
+
+### Neurodivergent Support GitHub Topic
+
+- URL: https://github.com/topics/neurodivergent-support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Public GitHub topic page listing repositories for neurodivergent support, including tools for task logging, emotional tracking, focus, mood, energy, cognitive strain, and overwhelm.
+
+### NeuroNest AI FAQ
+
+- URL: https://neuronestai.app/faqs
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Mobile app for neurodivergent teens featuring brain-training games, mindfulness tools, emotional-regulation support, executive-function assistance, routines, decision-making help, and emotional check-ins.
+
+### Bridgy
+
+- URL: https://dev.to/agastya_khati_f72c89077c8/bridgy-helping-overwhelmed-communities-choose-the-right-tool-not-another-tool-1p5p
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Open project described as a transparent, rule-based resource matcher helping people with ADHD, autism, dyslexia, anxiety, and related conditions find suitable tools without tracking.
+
+### Tiimo
+
+- URL: https://www.f6s.com/software/category/executive-function-support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-13
+- Description: Visual daily planner and executive-function support app for ADHD and autism, with visual timelines, task breakdown, routines, focus timers, mood tracking, customizable layouts, and synchronization across devices.
+
+### GitHub Neurodivergence Topic
+
+- URL: https://github.com/topics/neurodivergence
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Public repository index featuring neurodivergence-focused projects, including visual planning tools and socioemotional-support systems.
+
+### Social Emotion App
+
+- URL: https://www.heephong.org/eng/tools-and-resources/publications/mobile-app/page2
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: SCERTS-based app with interactive materials for learning emotions and emotion-regulation methods, intended for children, parents, and professionals.
+
+### Finch
+
+- URL: https://www.finchcare.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Self-care and emotional-wellbeing app associated with gentle routines, daily check-ins, motivation, and emotional-regulation support.
+
+### Focus Bear
+
+- URL: https://www.focusbear.io/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-13
+- Description: Routine and productivity tool designed for ADHD and autistic users, supporting habits, task initiation, procrastination reduction, and structured daily routines.
