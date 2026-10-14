@@ -728,3 +728,103 @@
 - Query: accessibility speech support startup
 - Found: 2026-08-15
 - Description: Easylens is a state-of-the-art accessibility assistant mobile application designed to empower visually impaired and neurodivergent users. By blending local computer vision, on-device and cloud large language models, cloud storage databases, and edge wearable glasses integration, Easylens functions as a real-time smart companion.
+
+### Communication Buddy
+
+- URL: https://github.com/summansomewhere/communication-buddy
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Free open-source Android AAC application using a visual, touch-based communication system for children with speech challenges.
+
+### AAC Speech Android
+
+- URL: https://github.com/vidma/aac-speech-android
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Open-source Android icon-based speech communicator that forms sentences from pictograms and reads them aloud using text-to-speech.
+
+### Otsimo AAC | Tap and Talk
+
+- URL: https://play.google.com/store/apps/details?id=com.otsimo.aac&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Customizable AAC app for non-speaking users, including autistic people and individuals with speech-language disorders; supports voice output, text-to-speech, and symbol-based communication.
+
+### Communication Board GitHub Topic
+
+- URL: https://github.com/topics/communication-board
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Public collection of communication-board repositories, including browser-based AAC systems, offline and self-hosted tools, text-to-speech boards, and Open Board Format projects.
+
+### Open Augmentative and Alternative Communication App
+
+- URL: https://github.com/RonanOD/OpenAAC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Open-source AAC project that maps text or speech to AAC symbols and provides symbol-level and full-sentence text-to-speech.
+
+### Sprout AAC
+
+- URL: https://github.com/sproutaac/app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Free, open-source, offline-first AAC app for children with autism, cerebral palsy, and developmental delays; currently in pre-release development.
+
+### Public AAC
+
+- URL: https://publicaac.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Free, open-source, local-first AAC app with offline symbol and text boards plus text-to-speech.
+
+### AsTeRICS AAC
+
+- URL: https://github.com/asterics/AsTeRICS-AAC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Free AAC app with offline support, flexible input options, media access, and smart-home integration.
+
+### Augmentative Communication GitHub Topic
+
+- URL: https://github.com/topics/augmentative-communication
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Public repository directory containing AAC projects, including phrase-based communication, switch scanning, eye-gaze access, pictogram keyboards, and offline-first apps.
+
+### AAC Apps for Autism Awareness
+
+- URL: https://apps.apple.com/us/iphone/story/id1670519228
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Apple App Store collection featuring AAC and communication apps including Proloquo, Leeloo AAC, and Spoken.

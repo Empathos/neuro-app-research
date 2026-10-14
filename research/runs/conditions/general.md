@@ -1,20 +1,20 @@
 # Latest Research Run
 
 - Condition: general
-- UTC timestamp: 2026-10-06T14:15:06.252372+00:00
-- New findings: 0
+- UTC timestamp: 2026-10-14T12:55:22.770502+00:00
+- New findings: 17
 - Rejected dead links: 0
 
 ## Support Categories
 
 ### communication-aac
 
-- `general communication-aac neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `general communication-aac neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `general communication-aac neurodivergent app research pass 501`: 5 new finding(s), 0 rejected dead link(s)
+- `general communication-aac neurodivergent app research pass 502`: 5 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `general executive-function neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `general executive-function neurodivergent app research pass 501`: 2 new finding(s), 0 rejected dead link(s)
 - `general executive-function neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
@@ -45,5 +45,5 @@
 ### accessibility-assistive-tech
 
 - `general accessibility-assistive-tech neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `general accessibility-assistive-tech neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `general accessibility-assistive-tech neurodivergent app research pass 502`: 5 new finding(s), 0 rejected dead link(s)
 

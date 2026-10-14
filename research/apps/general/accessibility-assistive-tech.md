@@ -468,3 +468,53 @@
 - Query: neurodivergent accessibility directory
 - Found: 2026-07-01
 - Description: A public announcement from Baltimore City Police regarding a new database and expanded tools to support safer interactions with neurodivergent individuals in the field.
+
+### Neurodivergent Accessibility  GitHub Topics
+
+- URL: https://github.com/topics/neurodivergent-accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Public GitHub topic page for repositories exploring neurodivergent accessibility, including audio-intelligence and assistive technology projects.
+
+### Cognitive Accessibility  GitHub Topics
+
+- URL: https://github.com/topics/cognitive-accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Public repository topic page covering cognitive-accessibility tools, including support for ADHD, autism, dyslexia, task decomposition, focus, and communication.
+
+### Assistive Technology for All TU Students
+
+- URL: https://www.towson.edu/accessibility-disability-services/assistive-technology/students.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Institutional assistive-technology guide listing Goblin Tools, Forest, Pomofocus, Todoist, and other tools for focus, task organization, and managing overwhelming activities.
+
+### Assistive Technology  Neurodiversity in Engineering at UConn
+
+- URL: https://neurodiversity.engineering.uconn.edu/assistive-technology/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: University resource catalog covering apps and tools such as CanPlan, Proloquo2Go, Glean, Otter.ai, Notability, and visual or communication supports.
+
+### Designing Assistive Technologies for and with Neurodivergent People
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwc/iwaf037/8276143
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Research article on assistive technologies for autistic and ADHD users, including WellBe, a smartwatch application designed to support emotion regulation in neurodivergent adults.

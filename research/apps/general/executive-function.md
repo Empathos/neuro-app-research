@@ -548,3 +548,23 @@
 - Query: neurodivergent reminders open source
 - Found: 2026-08-10
 - Description: Free, private reading tool for neurodivergent brains. Variable Fixation Formula  paste text, transform, read. Nothing leaves your browser.
+
+### Forest: Focus for Productivity
+
+- URL: https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: A focus and Pomodoro-style timer app that supports sustained attention and productivity through visual progress and timed work sessions.
+
+### neurolist: AI Planner for ADHD
+
+- URL: https://apps.apple.com/in/app/neurolist-ai-planner-for-adhd/id6468689182
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: An iPhone planner for neurodivergent users that uses AI to split tasks and support planning and follow-through.
