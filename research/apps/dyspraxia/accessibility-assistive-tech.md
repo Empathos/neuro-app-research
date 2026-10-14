@@ -418,3 +418,23 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Apple App Store collection featuring neurodivergent-support tools such as visual planning and task-breakdown apps.
+
+### XMind
+
+- URL: https://xmind.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Mind-mapping software listed as a free option that can support planning, organizing ideas, and reducing writing-related demands for dyspraxic learners.
+
+### SnapType
+
+- URL: https://snaptypeapp.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Worksheet accessibility app that lets users add text boxes and dictate answers, with explicit support for students with dyspraxia and related writing difficulties.
