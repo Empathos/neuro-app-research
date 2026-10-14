@@ -318,3 +318,33 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Open-source AI-agent skills grounded in executive-function research for neurodivergent developers, compatible with Claude Code, Codex, and similar assistants.
+
+### NixIt AI
+
+- URL: https://www.linkedin.com/company/nixitai
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Neurodivergence-support platform providing SMS-based daily assistance, structure, reminders, shared household support, and tools for ADHD and autism coaches.
+
+### Neurodivergence Resource Library
+
+- URL: https://aspieanswers.com/resources-and-learning-library/neurodivergence-resource-library/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Public collection of neurodivergent-friendly tools, worksheets, templates, and practical supports for executive functioning, routines, reminders, sensory needs, and daily life.
+
+### Thruday
+
+- URL: https://apps.apple.com/fr/app/thruday/id1645552771?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Visual daily planner for ADHD, autism, and AuDHD with routines, task management, mood tracking, flexible scheduling, and carer support.

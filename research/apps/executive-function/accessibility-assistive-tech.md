@@ -388,3 +388,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Productivity and organization app presented as support for ADHD, autism, dyslexia, and executive-function challenges, with tools for focus and follow-through.
+
+### avail Assistive Technology
+
+- URL: https://www.avail.support/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: An assistive-technology platform intended to support independence for people with cognitive disabilities through step-by-step prompts, alerts, offline access, and monitoring.
+
+### Pica Executive-Function Support App Research
+
+- URL: https://is.ijs.si/wp-content/uploads/2025/09/digin.3.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: A public research document describing a pilot mobile app for adolescents with autism and/or ADHD, using visual routines, time structuring, progress tracking, a Pomodoro timer, and rewards.
+
+### Assistive Technologies to Support Students with ADHD
+
+- URL: https://pressbooks.usnh.edu/understandingandsupportinglearnerswithdisabilities/back-matter/assistive-technologies-to-support-students-with-adhd/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: An educational reference covering tools such as iSelfControl, myHomework, and iStudiezpro for self-regulation, assignment tracking, scheduling, and executive-function support.

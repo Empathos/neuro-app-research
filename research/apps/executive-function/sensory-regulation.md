@@ -466,3 +466,43 @@
 - Query: executive function environment planning open source
 - Found: 2026-07-04
 - Description: WineBOX: From technical emulator to cognitive tool. A low-fidelity digital environment that, through its simplicity, reduces sensory overload and trains executive functions in neurodivergent minds. Open source, science-backed. #Neurodiversity #AssistiveTech
+
+### OpenJarvis Command Center
+
+- URL: https://docs.bryanwills.dev/infrastructure/openjarvis-command-center/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Documentation for a neurodivergent executive-function assistant supporting planning, prompts, body doubling, and structured research summaries.
+
+### Neurodivergent-Friendly Apps Guide
+
+- URL: https://www.neuromoney.io/blog-neurodivergent-apps.html
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Public guide covering tools such as Tiimo, Inflow, and Focus Bear for visual planning, ADHD education, routines, distraction management, and executive-function support.
+
+### Neurodiversity Tools Resource Hub
+
+- URL: https://www.isleofneurodiversity.com/resource-hub/neurodiversity-tools
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Resource page listing sensory-regulation and focus tools, including noise-cancelling headphones, Loop Earplugs, mindfulness apps, Brain.fm, and predictable background audio.
+
+### AskSheldon Executive Function Support
+
+- URL: https://asksheldon.app/tools/executive-function-support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Web-based guidance for executive-function obstacles, sensory-load reduction, written first steps, visible timers, breathing, and personal comfort-kit strategies.

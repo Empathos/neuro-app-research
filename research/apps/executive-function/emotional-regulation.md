@@ -538,3 +538,13 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Routine and productivity tool designed for ADHD and autistic users, supporting habits, task initiation, procrastination reduction, and structured daily routines.
+
+### NeuroCircle AI Community PWA
+
+- URL: https://blink.new/p/neurocircl-pwa-app-9rny6uxm
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: AI-powered community progressive web app for neurodivergent users, with voice-first tools focused on routines and mutual support.
