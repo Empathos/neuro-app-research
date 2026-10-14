@@ -238,3 +238,43 @@
 - Query: sensory processing accessibility directory
 - Found: 2026-07-01
 - Description: Detailed guide from Understood.org offering a printable list of classroom strategies and accessibility accommodations for students with sensory processing challenges, including seating, noise management, and visual supports.
+
+### Sensory Readable
+
+- URL: https://aventido.com/storage/819/Sensory-Readable-Interactive-Assessor-Recommendations-Guide.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Assistive reading and writing software suite with visual and auditory supports, screen overlays, a sensory ruler, and an iOS text-capture and read-aloud app for neurodivergent learners.
+
+### Apple Accessibility Features
+
+- URL: https://www.apple.com/accessibility/features/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Official accessibility feature documentation covering Assistive Access, notification customization, haptic feedback, and Apple Watch noise-level alerts.
+
+### HushMap
+
+- URL: https://github.com/nickjlamb/HushMap
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Public GitHub repository for an iOS app intended to help neurodivergent users find sensory-friendly places, with community contributions and Apple Watch support.
+
+### GitHub Sensory-Processing Topics
+
+- URL: https://github.com/topics/sensory-processing
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Public repository index containing projects related to sensory processing, including HushMap and accessibility-focused tools for reducing sensory and cognitive overload.

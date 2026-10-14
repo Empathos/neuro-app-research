@@ -378,3 +378,33 @@
 - Query: sensory regulation emotional regulation app
 - Found: 2026-08-17
 - Description: NeuroLogg Pro  PWA for tracking and analyzing emotional/behavioral patterns in neurodivergent children
+
+### BrightPath Pro
+
+- URL: https://apps.apple.com/us/app/brightpath-pro/id6761863979
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: A sensory-friendly toolkit for neurodivergent children featuring calming exercises, sensory breaks, visual timers, body scanning, soundscapes, and state-based emotional-regulation recommendations.
+
+### Cogs App  Hertfordshire Community NHS Trust
+
+- URL: https://www.hct.nhs.uk/emotional-regulation/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: A neurodivergent-designed wellbeing app focused on recognizing burnout signs, understanding energy levels, preventing burnout, and developing positive regulation habits.
+
+### Empathos
+
+- URL: https://www.empathos.one/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: AI-driven mobile and web platform offering neurodivergent support for emotional regulation, communication, daily tasks, and sensory needs.

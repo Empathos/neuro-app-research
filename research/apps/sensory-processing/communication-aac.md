@@ -558,3 +558,23 @@
 - Query: sensory processing conversation support open source
 - Found: 2026-08-14
 - Description: Sensory-aware wayfinding for calmer and more predictable journeys through Melbourne CBD.
+
+### All in One AAC
+
+- URL: https://apps.apple.com/gb/app/all-in-one-aac/id6753122872
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Multilingual iPhone and iPad AAC app with picture boards, categorized vocabulary, search, custom photos, text, and personalized voices.
+
+### AAC Devices  WIND, University of Wyoming
+
+- URL: https://www.uwyo.edu/wind/aac/devices.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: University resource page surveying communication-support apps, including symbol-based AAC, voice recording, multilingual features, motor-learning strategies, and visual aids.
