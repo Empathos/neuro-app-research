@@ -358,3 +358,73 @@
 - Query: sensory processing clinician tool directory
 - Found: 2026-07-01
 - Description: A collection of free resources for therapists, including sensory symptom checklists and webinars, aiding clinicians in sensory processing research and support.
+
+### AISTHESIS  AI-Powered Sensory Processing Support
+
+- URL: https://aisthesis.tech/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Caregiver-focused sensory-processing platform offering tracking, logging, educational content, and planned wearable-supported support for neurodivergent children.
+
+### SensoryStrong
+
+- URL: https://unseenprogress.com/research/sensorystrong/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Research-backed daily tracker for parents of children with sensory-processing differences, designed to identify patterns and support longer-term monitoring.
+
+### Designing Assistive Technologies for and with Neurodivergent Users
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwc/iwaf037/8276143
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Recent research article covering participatory design considerations for assistive technologies supporting neurodivergent users, including customizable and immersive approaches.
+
+### WellBe: Participatory Design and Development of a Smartwatch Application
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwag027/8703888?searchresult=1
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Research lead describing a smartwatch application designed with neurodivergent users to support in-situ self-regulation strategies.
+
+### Exploring and Understanding Neurodiverse Sensory Experiences
+
+- URL: https://openaccess-api.cms-conferences.org/articles/download/978-1-964867-73-1_2
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Open-access research on designing a mobile application to assess adult sensory perception, provide education, and recommend personalized sensory-regulation strategies.
+
+### Remote Triggers: Misophonia, Technology Non-Use, and Accessibility
+
+- URL: https://arxiv.org/html/2601.13355v1
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Open research proposing technology-design principles for sensory-sensitive users, including real-time sensory filtering, audiovisual control, predictability, and collaborative boundary setting.
+
+### STAR Institute Research and Publications
+
+- URL: https://sensoryhealth.org/research-library
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: A public research library containing publications on disordered sensory processing from the STAR Institute, its scientific work group, and other contributors.

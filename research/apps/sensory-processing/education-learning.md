@@ -578,3 +578,63 @@
 - Query: overload student support app
 - Found: 2026-08-08
 - Description: Web app that helps neurodivergent students
+
+### Neurodiverge App Sensory Profile Test
+
+- URL: https://neurodiverge.app/sensory-profile-test
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Free sensory self-screen covering eight sensory channels, with a profile visualization and suggested accommodations; intended for self-exploration rather than diagnosis.
+
+### Stories My Way
+
+- URL: https://www.diversitywhisperer.com/digitaltools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Neuroaffirming adaptive storytelling app for autistic, ADHD, and other neurodivergent children, with personalized stories and sensory or trigger filters.
+
+### Genio Accessible Learning Tools
+
+- URL: https://genio.co/blog/8-accessible-learning-tools-inclusive-student-success-
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Overview of inclusive learning tools, including digital sensory-regulation and silent fidget options designed to support attention during study.
+
+### NeuroMind Services Resources
+
+- URL: https://neuromindservices.com/resources/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Curated resource directory covering accessibility tools, Microsoft Learning Tools, sensory apps, and other supports for neurodivergent learners.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/gb/app/autism-adhd-games/id6757896431
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: iOS app offering calming, sensory-friendly activities for focus, speech, memory, daily skills, self-regulation, fine-motor development, and learning.
+
+### Learn to Read Autism ADHD
+
+- URL: https://mwm.ai/apps/learn-to-read-autism-adhd/6504024977
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Sensory-friendly phonics and literacy app designed around predictable, distraction-free lessons without flashing animations, sudden sounds, or distracting characters.

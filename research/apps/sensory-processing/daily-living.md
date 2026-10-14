@@ -378,3 +378,33 @@
 - Query: sensory processing independence directory
 - Found: 2026-07-01
 - Description: Official educational resource on proactive strategies, self-advocacy, and sensory independence techniques for individuals with autism.
+
+### Autism Toolkit  App Store
+
+- URL: https://apps.apple.com/us/iphone/story/id1867605202
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: App Store feature describing low-stimulus sensory-overload support through soundscapes, breathing exercises, grounding sessions, and predictable regulation features.
+
+### Sensory SOS
+
+- URL: https://apps.apple.com/gb/app/sensory-sos/id6766246436
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Local-first sensory-overload support app with breathing and visual-focus tools, 5-4-3-2-1 grounding, and an instant dark-screen mode for reduced visual input.
+
+### Neurodiverge App
+
+- URL: https://neurodiverge.app/sensory-processing-disorder
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Neuroaffirming guides and quizzes related to sensory processing and neurodivergence, with optional daily tracking, coaching, and printable resources.
