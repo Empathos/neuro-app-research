@@ -708,3 +708,63 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Open-source assistive app prototype that uses gamified activities to help autistic children practice interpreting emotions.
+
+### AIWiz
+
+- URL: https://app.aiwiz.me/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Adaptive AI learning platform designed for neurodivergent learners, including people with autism, ADHD, dyslexia, and other learning differences; includes simplified and accessibility-focused modes.
+
+### FSI Hack4Autism Repositories
+
+- URL: https://github.com/orgs/fsi-hack4autism/repositories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Public repositories for autism-focused projects, including augmented-reality job-skills training, parent resource networks, and gamified social-situation practice.
+
+### Versed Learn
+
+- URL: https://apps.apple.com/us/app/versed-learn/id6758624963
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Flashcard learning app designed for ADHD, dyslexia, and autistic students, featuring spaced repetition, AI deck generation, and accessibility features.
+
+### Enabled Learning
+
+- URL: https://apps.apple.com/us/app/enabled-learning/id1592818973
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Mobile resource and community-chat app for neurodivergent and physically disabled students navigating college or university.
+
+### A+ Autism
+
+- URL: https://play.google.com/store/apps/details?id=com.v3.autism&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Structured Android learning app for nonverbal autistic children, using predictable lessons and real images to support attention, engagement, speech development, and communication.
+
+### Neurodivergent Tools - Prism
+
+- URL: https://apps.apple.com/in/app/neurodivergent-tools-prism/id6738650371?l=kn
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Toolset for ADHD, autism, and other neurodivergent users with task breakdown, time estimation, focus organization, text simplification, and thought organization features.

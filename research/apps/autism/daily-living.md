@@ -428,3 +428,53 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Flutter and Firebase application designed to support autistic childrens learning and development with gamification.
+
+### SenLife: ADHD & Autism Support
+
+- URL: https://play.google.com/store/apps/details?id=com.senlife.app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Android daily-diary app for tracking routines, emotions, behaviors, and medications, generating reports for caregivers, schools, and medical appointments.
+
+### Executive Functioning Apps
+
+- URL: https://www.nelft.nhs.uk/executive-functioning/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: NHS resource listing practical tools for executive-function support, including Brain Focus, MindNode, Trello, Asana, Remember the Milk, Due, Calm, and Brain in Hand.
+
+### Autism: daily living & caring
+
+- URL: https://play.google.com/store/apps/details?id=com.levstone.mobility.trustedlocationaid&hl=en_CA
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Android app for families and carers that supports private-group care coordination, daily routines, and reminders for autistic people.
+
+### Autism Daily Skills Games
+
+- URL: https://apps.apple.com/iq/app/autism-daily-skills-games/id6756981665
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Step-by-step interactive practice for daily living skills such as handwashing, toothbrushing, dressing, household safety, and kitchen routines.
+
+### ELS Autism: ABA Therapy
+
+- URL: https://play.google.com/store/apps/details?id=com.exceptionallearning
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Visual-support app with picture schedules, social narratives, First/Then boards, token rewards, visual timers, and customizable routines for daily tasks.

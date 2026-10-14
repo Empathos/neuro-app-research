@@ -658,3 +658,73 @@
 - Query: AAC communication support app
 - Found: 2026-08-06
 - Description: AI-powered communication translator for neurodivergent people
+
+### NeuroSupporter
+
+- URL: https://neurosupporter.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Communication support tool for autistic, ADHD, and AuDHD adults that helps interpret difficult social situations and draft clearer responses.
+
+### OpenSpeak AAC
+
+- URL: https://github.com/openspeakaac/openspeak-aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Free open-source AAC app for nonspeaking children and people with speech delays, using symbols, pictures, and text-to-speech.
+
+### All in One AAC
+
+- URL: https://apps.apple.com/gb/app/all-in-one-aac/id6753122872
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Multilingual iPhone and iPad AAC app offering offline-friendly picture communication for children, teens, and adults.
+
+### AltComms
+
+- URL: https://github.com/Squidly1408/AltComms
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Free open-source offline-first Flutter AAC app with symbol boards, keyboard and switch scanning, feelings and healthcare tools, schedules, and an on-device caregiver dashboard.
+
+### MyVoice AAC Autism Talker
+
+- URL: https://apps.apple.com/us/app/myvoice-aac-autism-talker/id6748514862
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: iOS speech-aid app designed for autistic, non-speaking, or speech-delayed children to express needs, thoughts, and feelings.
+
+### AAC Messenger
+
+- URL: https://apps.apple.com/us/app/aac-messenger/id6747913083
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: iPhone and iPad AAC communication tool intended to support people with autism and other speech impairments in communicating with family, educators, and caregivers.
+
+### AAC Visuals Board for Autism
+
+- URL: https://apps.apple.com/gb/app/aac-visuals-board-for-autism/id6451429642
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: iPhone visual communication board designed for non-speaking autistic users and people with aphasia.
