@@ -418,3 +418,23 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: Open research paper discussing autistic accessibility features, Apple Assistive Access, Live Speech, Point and Speak, and interface recommendations including GAIA guidance.
+
+### Autism GitHub Topic
+
+- URL: https://github.com/topics/autism?o=desc&s=forks
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Public discovery page listing hundreds of autism-related repositories, including AAC systems, educational tools, behavioral-support projects, and research code.[5]
+
+### BridgingApps Autism App Directory
+
+- URL: https://bridgingapps.org/tag/autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Curated public directory of apps for autistic users, including assistive-technology products such as GoTalk and GoVisual and tools supporting communication and adulthood.[8]

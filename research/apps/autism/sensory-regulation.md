@@ -718,3 +718,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public suite of sensory-aware apps, visual supports, routines, transition tools, regulation resources, and pattern-logging features for neurodivergent daily support.
+
+### Cove Autism Friendly Space
+
+- URL: https://play.google.com/store/apps/details?id=app.cove.autismfriend
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Sensory-friendly Android app offering calm-corner exercises, predictable no-fail activities, customizable sensory settings, routines, and communication support.
+
+### Sensory SOS
+
+- URL: https://apps.apple.com/gb/app/sensory-sos/id6766246436
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: A free, local-first support app for sensory overload, panic, shutdowns, anxiety, and nonverbal moments, designed for neurodivergent users.

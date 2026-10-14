@@ -698,3 +698,83 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: App Store resource covering autism, planning, prioritization, task initiation, organization, attention, memory, cognitive flexibility, and related executive-function topics.[9]
+
+### Tiimo
+
+- URL: https://www.tiimoapp.com/resource-hub/best-adhd-apps-2025
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Visual planning tool built for neurodivergent users, featuring color-coded timelines and AI-assisted planning to support structure, focus, and prioritization.
+
+### Mobile Application to Support Independence in Daily Routines
+
+- URL: https://accessible-eu-centre.ec.europa.eu/content-corner/digital-library/mobile-application-support-independence-daily-routines-adolescents-autism-andor-adhd_en
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Public research lead describing a pilot mobile app for adolescents with autism and/or ADHD, using visual and time-based routines, progress tracking, a Pomodoro timer, and rewards.
+
+### AutistApp
+
+- URL: https://apps.apple.com/us/app/autistapp/id6504295148
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Free iOS app created with and for the autistic community, offering self-regulation, communication, autonomy, and customizable to-do-list tools.
+
+### Nova: Autism Support Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.novaautism.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Android support companion for autistic adults, parents, caregivers, teachers, and therapists, providing personalized step-by-step guidance by voice or text.
+
+### The Autism Helper
+
+- URL: https://play.google.com/store/apps/details?id=com.mightybell.theautismhelper&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Android community and resource app with evidence-based training, executive-function courses, downloadable tools, and professional support.
+
+### TeAcompano
+
+- URL: https://play.google.com/store/apps/details?id=com.nixia.teacompanio&hl=en_AU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Android app for autistic people, families, and professionals with visual routines, customizable organization tools, communication cards, calming resources, and a visual calendar.
+
+### ASD Care Autism Support
+
+- URL: https://play.google.com/store/apps/details?id=com.infoex.asdCare&hl=en_AU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Android family-support app offering autism information, diagnostic-process guidance, educational resources, and parent-community communication.
+
+### Village of Support Foundation
+
+- URL: https://apps.apple.com/us/app/village-of-support-foundation/id6777131736
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: iPhone app providing autism-related resources, education, advocacy, and community connections for children and families.

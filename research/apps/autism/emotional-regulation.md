@@ -548,3 +548,23 @@
 - Query: autism emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: Clinical resource listing autism-support apps, including iReact for emotional regulation and additional tools for behavior tracking and emotional literacy.
+
+### Cogs App
+
+- URL: https://www.hct.nhs.uk/emotional-regulation/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Neurodivergent-designed wellbeing app referenced by an NHS trust for identifying burnout signs, understanding energy levels, and building supportive habits.
+
+### Wisdom: The World of Emotions
+
+- URL: https://play.google.com/store/apps/details?id=com.WisdomEnglishunlockA.ipa&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Childrens emotional-regulation and mindfulness game using breathing, meditation, emotional-learning activities, and coping skills, including for children with autism or ADHD.
