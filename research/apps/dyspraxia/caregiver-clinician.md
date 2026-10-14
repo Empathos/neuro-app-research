@@ -398,3 +398,23 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Neuroaffirming support app for families raising neurodivergent children and neurodivergent adults, with intended use by caregivers, allied health professionals, and educators.
+
+### AISTHESIS Sensory
+
+- URL: https://aisthesis.tech/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Sensory-processing support platform with a caregiver-facing consumer app and a companion medical-device pathway involving wearable and app-based support.
+
+### Little Words: Speech Therapy Software
+
+- URL: https://littlewords.ai/blog/speech-therapy-software
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Clinician-oriented overview of motor-planning tools, including VAST and Nuffield Dyspraxia Programme materials, with guidance that such apps should supplementnot replacespeech-language therapy.

@@ -688,3 +688,103 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Customizable AAC app for children and adults with autism, apraxia, stroke, ALS, Down syndrome, and other conditions affecting natural speech; includes a 3,000-plus-word vocabulary.
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/AsTeRICS-AAC
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Free, open-source AAC app with grid-based communication interfaces, text-to-speech, flexible input options, offline support, multilingual features, and cross-platform support.
+
+### Asterics AAC Web App
+
+- URL: https://grid.asterics.eu/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Official browser-based Asterics AAC interface for creating and using customizable communication grids.
+
+### SweetSuite AAC
+
+- URL: https://github.com/open-aac/sweet-suite-aac
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Open-source, web-based AAC app with speech synthesis, customizable communication boards and keyboards, usage tracking, and team-support tools.
+
+### CoughDrop
+
+- URL: https://github.com/bcarter/coughdrop
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Open-source web-based AAC application supporting speech synthesis, customizable communication boards, keyboards, and usage tracking.
+
+### Sprout AAC
+
+- URL: https://github.com/sproutaac/app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Free, open-source AAC app for children, designed with offline-first operation, privacy protection, and motor-planning stability.
+
+### AAC Speech Android
+
+- URL: https://github.com/vidma/aac-speech-android
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Android icon-based speech communicator using pictograms, sentence generation, and text-to-speech for people with speech disabilities.
+
+### Open Augmentative and Alternative Communication App
+
+- URL: https://github.com/RonanOD/OpenAAC
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Open-source mobile AAC project using text or speech matching to map language to AAC pictograms, with support for configurable symbol sets.
+
+### Mindset Neurodivergent Support Tools  Communication
+
+- URL: https://mindsetneurodivergent.org/tools/communication/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Collection of communication supports including AAC, typed communication, needs translation, and social-decoding tools for neurodivergent users.
+
+### Voxigo AAC
+
+- URL: https://www.voxigoaac.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: AAC platform for neurodivergent children featuring customizable pictograms, communication grids, and adaptive communication support.
+
+### AAC Speech & Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.cm.aac&hl=en-US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Android AAC board supporting symbols, photos, voice clips, text, sentence building, and offline text-to-speech.

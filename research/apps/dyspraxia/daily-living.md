@@ -418,3 +418,33 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: iOS productivity and lifestyle app using voice capture to help neurodivergent users organize thoughts and act on tasks involving executive-function support.
+
+### Beats Medical Individual Apps
+
+- URL: https://beatsmedical.com/individuals/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Official Beats Medical page for evidence-based exercises and therapies delivered at home, including the Dyspraxia app for motor, speech, and communication skills.
+
+### Empathos
+
+- URL: https://www.empathos.one/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Neurodivergent support platform offering daily-task and routine management, executive-function assistance, emotional-regulation support, communication coaching, and sensory-environment controls.
+
+### NixIt AI
+
+- URL: https://www.linkedin.com/company/nixitai
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: SMS-based neurodivergent support platform offering daily assistance, structure, reminders, calendar support, and household coordination without requiring an app download.[3]

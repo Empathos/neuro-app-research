@@ -658,3 +658,13 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: Suite of sensory-aware apps and visual tools, including ViziCues for routines, SensyCues for sensory supports and pattern tracking, and Reset for lower-demand regulation assistance.
+
+### ssensimm
+
+- URL: https://ssensory.ai/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Wearable-integrated support tool that uses biometric data to identify possible overwhelm patterns and suggest personalized regulation strategies.

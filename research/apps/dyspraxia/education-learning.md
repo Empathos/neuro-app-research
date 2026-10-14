@@ -678,3 +678,23 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Curated directory for educators and psychologists supporting neurodivergent students, including assistive math, note-taking, transcription, focus, and learning tools.
+
+### SnapType
+
+- URL: https://apps.apple.com/gb/app/snaptype/id1124115982
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: iOS app that lets students photograph or import worksheets, add typed answers, and share or print completed work, reducing handwriting barriers.[2]
+
+### InnoScribe Air Gesture Pen and Pad
+
+- URL: https://www.hackster.io/ctrl-alt-innovate/air-gesture-pen-and-pad-for-children-with-sld-3a7c97
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Public hardware project for children with specific learning disabilities, including dyspraxia, combining a gesture-based pen with an LCD and Braille-enabled modular pad.[9]
