@@ -294,3 +294,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: App supporting ADHD, autism, and executive function, with an optional caregiver space and use as a between-session scaffold for neurodivergent-affirming practitioners.
+
+### Executive Function in ADHD and ASD: A Scoping Review
+
+- URL: https://link.springer.com/article/10.1007/s40489-024-00444-3
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Peer-reviewed research review synthesizing executive-function findings across youth with ADHD, autism, and co-occurring ADHD/autism; useful for grounding app and caregiver-clinician research.

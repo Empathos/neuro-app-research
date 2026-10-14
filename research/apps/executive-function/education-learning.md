@@ -408,3 +408,63 @@
 - Query: routine learning support mobile app
 - Found: 2026-07-05
 - Description: SubtleSense is an AI-powered emotion detection platform designed to uncover the feelings people dont express out loud. Using advanced computer vision and machine learning, the app analyzes facial expressions from live webcam or video input to detect hidden, suppressed, and micro-emotions that are often missed in everyday interactions.
+
+### Anchorly: ADHD Companion
+
+- URL: https://apps.apple.com/pl/app/anchorly-adhd-companion/id6762073825
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: An educational ADHD companion with modules covering executive function, dopamine, rejection-sensitive dysphoria, sleep, exercise, and related topics.
+
+### Uluru App
+
+- URL: https://apps.apple.com/us/app/uluru-app/id6740403493
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Provides executive-function coaching within students homework routines, supporting planning, time management, organization, and self-motivation.
+
+### ADHDvance LearnAR Research Lead
+
+- URL: https://link.springer.com/article/10.1007/s44217-026-01264-9
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: A research-described educational application combining augmented reality and generative AI for ADHD university students, including spatial task management and structured focus sessions.
+
+### NeuroBridge
+
+- URL: https://abhijatsarari.github.io/neurobridge/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: AI-powered learning platform designed to tailor educational experiences to neurodivergent learners.
+
+### NeuroLocker
+
+- URL: https://apps.apple.com/br/app/neurolocker/id6740707608?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Productivity and learning app for neurodivergent users with lecture transcription, summaries, task creation, calendars, reminders, focus timers, and study tips.
+
+### Apps to Support Executive Functioning
+
+- URL: https://resources.finalsite.net/images/v1714665659/pittsfordschoolsorg/a9vwbhfy8nhyf67fstgz/executive-function-apps.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: School resource cataloging executive-function apps for reminders, scheduling, homework and assignment management, time tracking, and task organization.

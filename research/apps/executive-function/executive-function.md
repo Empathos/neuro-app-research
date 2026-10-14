@@ -498,3 +498,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Android planner and task manager designed around executive dysfunction, time blindness, decision fatigue, reminders, and organization challenges.
+
+### Executive Functioning Resource Hub
+
+- URL: https://exef.org/resources
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: An open-access collection of practical executive-function tools, including planning, email triage, routines, cognitive-support quizzes, and printable resources.

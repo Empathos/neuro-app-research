@@ -698,3 +698,33 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Open-source organization hosting web-based AAC software and related support projects.
+
+### ClearCommunicationApp
+
+- URL: https://neurodivergenttech.org/tools/clearcommunicationapp
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Neurodivergent-friendly AAC tool with customizable communication boards, symbols, text-to-speech, pre-built phrases, and quick-access favorites for autistic, nonspeaking, and minimally speaking users.
+
+### Proloquo4Text
+
+- URL: https://www.assistiveware.com/products/proloquo4text
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-14
+- Description: Text-based AAC app intended for literate people who are nonspeaking or have difficulty with verbal communication.
+
+### All in One AAC
+
+- URL: https://apps.apple.com/gb/app/all-in-one-aac/id6753122872
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-14
+- Description: Offline-friendly, multilingual picture AAC app for children, teens, and adults to express needs, feelings, and ideas.
