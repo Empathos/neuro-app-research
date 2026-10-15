@@ -328,3 +328,23 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: NHS-listed app built by neurodivergent people to help identify burnout signs, understand energy levels, and develop positive wellbeing habits.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/us/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: iOS tracker for ADHD burnout patterns with energy monitoring, somatic grounding, emotional-reset guidance, and tools for dysregulation and overwhelm.
+
+### NeuraParent
+
+- URL: https://apps.apple.com/us/app/neuraparent/id6756896103
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Parenting support app for caregivers of neurodivergent children, with logging and feedback around daily challenges, wins, and support needs.

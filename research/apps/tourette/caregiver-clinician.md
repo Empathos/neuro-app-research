@@ -478,3 +478,43 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Clinician resources and workbooks addressing sensory needs, burnout, executive functioning, and emotional regulation for neurodivergent clients.
+
+### Online Remote Behavioural Intervention for Tics (ORBIT)
+
+- URL: https://www.nice.org.uk/guidance/htg748/resources/digital-therapy-for-chronic-tic-disorders-and-tourette-syndrome-early-value-assessment-pdf-1809600770037445
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Guided online self-help intervention delivering evidence-based behavioral therapy for children and young people with chronic tic disorders or Tourette syndrome, with therapist and e-coach support.
+
+### BT-Coach
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9240895/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Training and relapse-prevention app used with behavioral therapy for children and adolescents with Tourette syndrome or chronic tic disorders; supports home exercises and parent-supported care.
+
+### Online Support Communities for Tourette Syndrome and Tic Disorders
+
+- URL: https://www.jmir.org/2020/11/e18099/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Peer-support research covering people with Tourette syndrome or tic disorders and supportive others, including parents, siblings, and spouses; useful for caregiver-support and community-design requirements.
+
+### Neurodiversity-Affirming Practice Hub
+
+- URL: https://neurodiversitywellnesscollective.com/neurodiversity-affirming-practice-hub
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Living directory for clinicians with neurodiversity-affirming, trauma-informed practice resources, training, consultation, and peer learning.

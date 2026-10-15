@@ -398,3 +398,23 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: GitHub-curated accessibility resource list containing tools for neurodivergent users, including focus, productivity, task management, and organization applications.
+
+### Supporting People with Tourette Syndrome Through the Use of Assistive Technology
+
+- URL: https://tourette.org/wp-content/uploads/Assistive-Tech-TS-Flyer.docx
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Downloadable assistive-technology guide listing tools including mobile dictation, text-to-speech, Bubbl.US, ModMath, and calendar applications.
+
+### Neurodivergent GitHub Topics
+
+- URL: https://github.com/topics/neurodivergent?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public GitHub topic page for discovering neurodivergent-focused repositories, including adaptive guidance and accessibility-oriented software projects.

@@ -758,3 +758,33 @@
 - Query: tourette executive-function neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public directory covering neurodivergent-support tools including Tiimo, Inflow, and MindoryApp.
+
+### Tourette Association: Find Answers, Treatment and Support
+
+- URL: https://tourette.org/answers/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Official support portal providing science-backed guides, toolkits, treatment information, and practical resources for Tourette syndrome and tic disorders.
+
+### Tourettes Action Resource Library
+
+- URL: https://www.tourettes-action.org.uk/64-resources.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Official UK resource library with searchable materials on Tourette syndrome, treatment, research, support, adults, children, and young people.
+
+### Tourette Syndrome Resources for Medical Providers and Allied Health
+
+- URL: https://tourette.org/resources-for-med/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Provider and patient toolkits from the Tourette Association of America supporting clinical, allied-health, and patient-care research leads.
