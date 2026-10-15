@@ -288,3 +288,53 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Tourettes Action search page containing public leads for testing a tic-tracker app and a research project focused on wellbeing.
+
+### NeuroLink App
+
+- URL: https://blink.new/p/neurolink-app-zkk8r530
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Neurodivergent support app concept with mood tracking, messaging, stories, posts, and practical aids, including authentication and persistent user data.[3]
+
+### Neurodivergent Tools GitHub Topic
+
+- URL: https://github.com/topics/neurodivergent-tools?o=asc&s=updated
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public repository index featuring neurodivergent-friendly tools including sensory-aware task managers, focus timers, mood-based interfaces, daily visualization, and support companions.[10]
+
+### TicSafe
+
+- URL: https://apps.apple.com/us/app/ticsafe/id6738706091
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Free iPhone app offering tic-management strategies, medication and clinician communication support, educational information, and a calming timer.
+
+### NEURO Charity Library
+
+- URL: https://www.neurocharity.org/library
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Evidence-led neurodivergence knowledge base with practical guides, support tools, templates, terminology, and resources for daily-life contexts.
+
+### Neurodivergence Wales External Documents
+
+- URL: https://neurodivergencewales.org/en/resources/external-documents/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public resource page linking practical materials developed with neurodivergent people to support day-to-day activities and planning.

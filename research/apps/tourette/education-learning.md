@@ -518,3 +518,53 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: University repository record for an Android mobile application designed to record daily tic frequency and support monitoring over time.
+
+### Tourette Syndrome Education & Training  CDC
+
+- URL: https://www.cdc.gov/tourette-syndrome/education/index.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: CDC education and training hub providing science-based information and online support through the Tourette Health and Education Program for families, professionals, educators, and the public.
+
+### Tourettes Action eLearning Module
+
+- URL: https://www.tourettes-action.org.uk/155-elearning.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Official e-learning courses on understanding Tourette syndrome, including co-occurring features, support approaches, diagnosis, and professional training; courses are available in English and Welsh.
+
+### Tourette Syndrome: Tourette Awareness
+
+- URL: https://tourette-j5sh.andro.io/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public Android app listing focused on Tourette awareness and educational information about the condition, symptoms, causes, and related concepts.
+
+### The Universal Sandpit App
+
+- URL: https://education.apple.com/resource/250014953
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Inclusive-learning toolkit with teacher and student tools intended to support neurodivergent learners and inclusive education strategies.
+
+### Apps as Assistive Technology for Learning
+
+- URL: https://bridgingapps.org/apps-as-assistive-technology-for-learning/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public assistive-technology resource highlighting learning tools such as Goblin Tools, Genio, Helperbird, Speechify, and other apps useful for neurodivergent learners.

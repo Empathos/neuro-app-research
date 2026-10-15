@@ -618,3 +618,33 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public guides covering sensory processing, sensory overload, sensory diets, and practical regulation strategies for neurodivergent users and families.
+
+### Tic Clips Research Study
+
+- URL: https://tourette.org/research-medical/research-studies/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: University of Minnesota online study collecting questionnaires and short video or audio recordings to better understand what tics look and feel like.
+
+### Tourette Association Research Studies
+
+- URL: https://tourette.org/support-research/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Official research leads covering telehealth caregiver support, wearable tic tracking, sensory processing, and related Tourette syndrome studies.
+
+### Sensory Toolbox
+
+- URL: https://thelittlelabs.com/work/sensory-toolbox
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Sensory-regulation app developed for families, professionals, and schools, with stated support for Tourette syndrome, ADHD, autism, and sensory processing differences.

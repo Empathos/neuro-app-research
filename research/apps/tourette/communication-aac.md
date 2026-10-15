@@ -648,3 +648,33 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: Android AAC and visual-scheduling resource for non-speaking and neurodivergent users, with caregiver-configured daily routines and OpenSymbols support.
+
+### Guidelines and Materials  Tics and Tourette
+
+- URL: https://ticsandtourette.org/professionals/resources/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public communication resources for Tourette syndrome, including posters and dialogue cards about motor and vocal tics and related difficulties, available in several languages.
+
+### Classroom Strategies and Techniques
+
+- URL: https://tourette.org/resources/overview/tools-for-educators/classroom-strategies-techniques/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Tourette Association resource describing classroom accommodations, including tablets, computers, and scribes to support written communication and learning.
+
+### School Resources  Tourette Association of America
+
+- URL: https://tourette.org/resources/back-to-school-resources/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Official collection of school-support resources and tools for children and teens living with Tourette syndrome or other tic disorders.
