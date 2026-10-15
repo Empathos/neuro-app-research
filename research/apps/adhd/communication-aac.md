@@ -759,3 +759,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Combines visual schedules, routines, pictograms, AAC communication, reminders, and text-to-speech for autistic and ADHD users.
+
+### GitHub AAC Topic
+
+- URL: https://github.com/topics/aac
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public repository directory containing AAC projects such as offline communication boards, progressive web apps, bilingual tools, and text-to-speech interfaces.
+
+### GitHub Augmentative and Alternative Communication Topic
+
+- URL: https://github.com/topics/augmentative-alternative-communication
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Collection of public AAC repositories, including web apps with visual boards, sentence building, text-to-speech, caregiver workflows, and offline-first tools.

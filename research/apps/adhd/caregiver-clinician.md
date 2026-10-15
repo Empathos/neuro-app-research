@@ -578,3 +578,43 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public research presentation examining major burdens experienced by primary caregivers of children with ADHD; potentially relevant for caregiver-clinician support research.
+
+### TrueConvos: ADHD & Autism Chat
+
+- URL: https://apps.apple.com/tr/app/trueconvos-adhd-autism-chat/id1545810479
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Peer-support app connecting people navigating ADHD, autism, and AuDHD, with guided content for focus, anxiety, sleep, and sensory overwhelm.
+
+### GentleBridge Master
+
+- URL: https://play.google.com/store/apps/details?id=com.gentlebridgemaster&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Voice-first routine and coordination app for families, caregivers, educators, and therapists. Supports personalized routines, step-by-step tasks, reminders, and synchronization across care teams.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/us/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Neuroaffirming support app for caregivers of autistic and ADHD children, neurodivergent adults, allied-health professionals, and educators. Provides science-based guidance and support for care, therapy, school advocacy, and wellbeing.
+
+### Sylva: Neurodivergent Families
+
+- URL: https://apps.apple.com/gb/app/sylva-neurodivergent-families/id6751847550
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Family-support app for parents and carers of children with ADHD, autism, and other neurodivergent profiles. Includes AI-guided parenting and wellbeing support plus validated screening questionnaires that can be shared with clinicians or education teams.

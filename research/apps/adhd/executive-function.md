@@ -608,3 +608,43 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Collection of public repositories for ADHD-friendly tools, including curated resource lists, focus timers, task-breakdown utilities, quick-win tools, and local-first task managers.
+
+### ADHD Productivity Coach
+
+- URL: https://apps.apple.com/us/app/adhd-productivity-coach/id6787617231
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: AI productivity app that breaks overwhelming tasks into small steps, supports focus, and uses streaks for follow-through.
+
+### Hypermonkey: ADHD Productivity App
+
+- URL: https://apps.apple.com/ca/app/hypermonkey-adhd-productivity/id6736893516
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: ADHD-focused app for capturing, organizing, starting, and completing tasks while addressing executive dysfunction.
+
+### Routinery
+
+- URL: https://www.routinery.app/blog/best-routine-apps-for-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Routine and timer tool highlighted for ADHD and neurodivergent users, converting plans into guided, timed steps.
+
+### Neurodivergent Apps for Adults
+
+- URL: https://www.saner.ai/blogs/best-neurodivergent-apps-for-adults
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public overview of neurodivergent-support tools, including executive-function systems, knowledge management, visual planning, and focus support.

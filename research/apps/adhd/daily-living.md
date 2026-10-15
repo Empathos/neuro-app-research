@@ -508,3 +508,33 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public Claude Code skill designed as an external executive-function system for ADHD, autism, and AuDHD, supporting working memory, task initiation, follow-up tracking, and drafting.
+
+### ADHD Planner  AI Task Manager
+
+- URL: https://apps.apple.com/us/app/adhd-planner-ai-task-manager/id6760858384
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: App Store listing for an ADHD- and neurodivergence-focused planner that breaks overwhelming tasks into smaller actionable steps and supports task paralysis and executive dysfunction.
+
+### ADHD Easy-Do
+
+- URL: https://apps.apple.com/jp/app/adhd-easy-do-your-adhd-planner/id6476637209?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Neurodivergent-created planner offering ADHD-oriented task organization, reminders, AI-assisted daily planning, and tools for forgetfulness and procrastination.
+
+### GoblinX AI Habit Tracker
+
+- URL: https://apps.apple.com/us/app/goblinx-ai-habit-tracker/id6462700951
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Neurodivergent-focused organizer with task planning, Pomodoro focus sessions, emotional support chat, and ADHD-related educational content.
