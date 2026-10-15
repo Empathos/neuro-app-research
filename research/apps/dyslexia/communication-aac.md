@@ -228,3 +228,53 @@
 - Query: dyslexia AAC directory
 - Found: 2026-07-01
 - Description: Discover five powerful assistive technology tools designed to support children with dyslexia! From text-to-speech software to ...
+
+### Speechify
+
+- URL: https://apps.apple.com/us/app/speechify-text-to-speech-audio/id1209815023
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Text-to-speech tool that reads digital text aloud and was developed partly in response to the founders dyslexia-related reading needs.
+
+### Lexicaid
+
+- URL: https://das.org.sg/wp-content/uploads/2023/10/APJDD-9-2-2022-Tan.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Mobile reading-support application studied with primary-school students with dyslexia in a six-week home-based user study.
+
+### Helpdys App Research
+
+- URL: https://www.mdpi.com/2071-1050/13/13/7081
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Research and design study for a web and mobile app intended to support diagnosis, treatment, and literacy development for children with dyslexia, including rural users.
+
+### Usability Analysis of Dyslexia Literacy Apps
+
+- URL: http://www.scielo.org.co/pdf/rfing/v35n75/2357-5328-rfing-35-75-e20848.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Comparative usability research on ABCDinos, Reader Pro, and Galexia, assessing accessibility, personalization, motivation, and reading-writing support.
+
+### LetterHeroes
+
+- URL: https://rochi.utcluj.ro/icusi/proceedings/articles/2/ICUSI_2025_p13-20.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Design research on literacy-support systems for dyslexic children, covering multisensory learning, text-to-speech, speech-to-text, visual cues, and adaptive activities.

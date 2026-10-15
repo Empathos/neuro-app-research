@@ -208,3 +208,13 @@
 - Query: dyslexia environment planning open source
 - Found: 2026-08-14
 - Description: Dyslexia-friendly KS2 SATs spelling and maths revision app for UK Year 6 children
+
+### Dyslexia Accessibility NLP
+
+- URL: https://github.com/Baaqar-007/dyslexia-accessibility-nlp
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Open-source Dyslexia Lens project using machine-learning models for handwriting-based dyslexia screening, with a Flask web application and PDF reporting.

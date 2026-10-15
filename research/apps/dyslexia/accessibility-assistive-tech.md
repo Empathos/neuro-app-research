@@ -78,3 +78,53 @@
 - Query: dyslexia accessibility directory
 - Found: 2026-07-01
 - Description: Directory of advocacy resources, fact sheets, and parent group networks from the International Dyslexia Association to support students with dyslexia in public schools.
+
+### Dyslexia-PDF-Reader
+
+- URL: https://github.com/threecatswink/Dyslexia-PDF-Reader
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Open-source progressive web app for accessible PDF reading, built with React, Vite, Zustand, and PDF.js.
+
+### Dyslexia Ireland Reading Support
+
+- URL: https://dyslexia.ie/info-hub/assistive-technology/reading-support/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Official assistive-technology guidance covering built-in text-to-speech features, OCR apps, accessible digital libraries, and literacy applications for people with dyslexia.
+
+### Dyslexia Reader by MDA
+
+- URL: https://apps.apple.com/id/app/dyslexia-reader-by-mda/id1443891619
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: iOS OCR reading-support app that converts photographed printed text into a more readable format and is designed to support independent reading for children with dyslexia.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/us/app/dyslexiabuddy/id1565832172?platform=ipad
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: App Store reading assistant marketed for people with dyslexia.
+
+### University of Michigan Dyslexia Help: Text-to-Speech Readers
+
+- URL: https://dyslexiahelp.umich.edu/tools/software-assistive-technology/text-to-speech-readers/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Educational guide to assistive reading tools such as Voice Dream Reader and CapturaTalk, including text-to-speech, document support, scanning, simplified browsing, and dyslexia-friendly display options.
