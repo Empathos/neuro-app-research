@@ -578,3 +578,33 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: University resource page surveying communication-support apps, including symbol-based AAC, voice recording, multilingual features, motor-learning strategies, and visual aids.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/us/app/gestalt-aac/id6760491589
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Phrase-based AAC app for gestalt language processors, featuring fixed motor-planning layouts, calming tools, and natural-speech phrases.
+
+### Sensory Processing Resources
+
+- URL: https://neurodivergencewales.org/en/parents-carers/sensory-processing/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public resource collection with sensory checklists, advice sheets, top tips, and planning materials for supporting neurodivergent children.
+
+### Autism Speech and Language
+
+- URL: https://apps.apple.com/in/app/autism-speech-and-language/id6466824871?platform=vision
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Parent-focused communication and language-support app featuring sensory modifications, activities, and educational content on neurodivergence, echolalia, and gestalt language learning.

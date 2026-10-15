@@ -428,3 +428,33 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: A public research library containing publications on disordered sensory processing from the STAR Institute, its scientific work group, and other contributors.
+
+### Sensory Processing and Autism Network (SPAN)
+
+- URL: https://chan.usc.edu/community/span
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Community-based research network connecting clinicians, researchers, families, and other stakeholders; includes plans for shared clinical data repositories and sensory-processing outcome measures.[5]
+
+### ssensimm
+
+- URL: https://www.cnet.com/tech/services-and-software/avoiding-crisis-moments-this-developer-created-an-ai-app-to-predict-sensory-overload/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Wearable-connected sensory-overload support app designed to use physiological and environmental signals to forecast challenges, suggest coping strategies, and optionally alert a trusted person.[6]
+
+### Sensory Processing Sensitivity, Central Sensitisation and ...
+
+- URL: https://pearl.plymouth.ac.uk/foh-datasets/26/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: University of Plymouth research repository record for a dataset concerning sensory processing sensitivity and central sensitisation.
