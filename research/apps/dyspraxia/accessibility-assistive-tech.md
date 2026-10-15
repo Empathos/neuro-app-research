@@ -438,3 +438,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Worksheet accessibility app that lets users add text boxes and dictate answers, with explicit support for students with dyspraxia and related writing difficulties.
+
+### DYSPRAXIATHECA Digital Library
+
+- URL: https://www.montesca.eu/2.0/dyspraxiatheca/?lang=en
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Project page describing interactive exercises for reading, writing, arithmetic, and organization, plus freely available document-conversion tools for accessible EPUB materials.

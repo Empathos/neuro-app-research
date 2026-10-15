@@ -788,3 +788,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Android AAC board supporting symbols, photos, voice clips, text, sentence building, and offline text-to-speech.
+
+### OpenSpeak Terms of Use
+
+- URL: https://www.openspeakaac.org/terms
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Official OpenSpeak documentation describing its free, open-source AAC features, including symbol-based communication and text-to-speech.
+
+### Augmentative and Alternative Communication GitHub Topic
+
+- URL: https://github.com/topics/augmentative-alternative-communication
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public repository index containing AAC projects, including web apps, motor-impairment communication tools, offline word boards, and customizable Android AAC apps.
