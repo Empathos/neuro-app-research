@@ -168,3 +168,43 @@
 - Query: dyslexia independence directory
 - Found: 2026-07-01
 - Description: Parent center resource explaining dyslexia characteristics, genetic factors, and research-based educational instruction methods to foster independence.
+
+### dyslexia.vision
+
+- URL: https://www.dyslexia.vision/accessibility
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Web accessibility tool for dyslexic readers with adjustable fonts, text size, color themes, and spacing.
+
+### Accessible Tools
+
+- URL: https://github.com/AmberTreelet/accessible-tools
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Open-source accessibility toolkit including dyslexia support features such as bionic reading, RSVP reading, line focus, color overlays, and EPUB/TXT import.
+
+### Dyslexia Simulator
+
+- URL: https://github.com/jdhori/dyslexia-simulator
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Accessible interactive demonstration of dyslexia, Irlen Syndrome, low vision, and color-vision effects, designed for empathy and education rather than diagnosis.
+
+### Dyslexia Data Consortium
+
+- URL: https://link.springer.com/content/pdf/10.1007/s12021-025-09747-0.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Research platform proposal describing a centralized repository for sharing dyslexia-related data to support collaboration, replication, education, and discovery.

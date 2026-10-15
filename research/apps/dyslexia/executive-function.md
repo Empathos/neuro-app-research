@@ -218,3 +218,43 @@
 - Query: dyslexia reminders open source
 - Found: 2026-07-04
 - Description: Accessible Windows reading & study workstation (dyslexia/ADHD/dysgraphia): neural read-aloud with follow-along highlights, offline Whisper voice dictation (Fast/Accurate/Best), book Library, and a tabbed Study workspace incl. Eisenhower matrix & Sunsama-style planner.
+
+### Dyslexia - Cognitive Research
+
+- URL: https://apps.apple.com/us/app/dyslexia-cognitive-research/id1399522509
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Research app assessing attention, visual scanning, short-term and working memory, planning, processing speed, and response time in dyslexia.
+
+### Dyslexia Data Consortium Repository
+
+- URL: https://www.dyslexiadata.org
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public data-sharing platform and research repository for dyslexia datasets, image-processing resources, and data-analysis tools.
+
+### OpenDyslexic
+
+- URL: https://opendyslexic.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Open-source typeface designed to improve readability for some readers with dyslexia.
+
+### Dyslexia Empowerment Platform
+
+- URL: https://dyslexia-app.vercel.app/ai-research
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public platform offering simplified dyslexia research summaries and research-discovery features intended to improve accessibility.

@@ -158,3 +158,93 @@
 - Query: reading support student support app
 - Found: 2026-07-05
 - Description: AI for Learning Disabilities - An educational assistant for students with dyslexia or ADHD.
+
+### Educational Apps - Yale Dyslexia
+
+- URL: https://dyslexia.yale.edu/resources/tools-technology/tech-tips/educational-apps/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Yale Dyslexia resource page reviewing educational apps for phonemic awareness, sight words, phonics, word patterns, writing, and other learning skills.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/gb/app/dyslexiabuddy/id1565832172
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Reading-support app for dyslexia and ADHD that provides read-aloud functionality, page understanding, word decoding, quizzes, and support for printed, PDF, and on-screen text.
+
+### Lexy: Dyslexia Reading Tutor
+
+- URL: https://apps.apple.com/us/app/lexy-dyslexia-reading-tutor/id1564885095
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: DyslexiaAI reading tutor app offering phonics games and literacy support for dyslexic and neurodivergent learners.
+
+### Lexy and Dyslexia.ai
+
+- URL: https://dyslexia.ai/about/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Official product page for Lexy, an AI-powered dyslexia tutoring app for iOS and Mac.
+
+### Technology-based interventions in dyslexia: A review
+
+- URL: https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0103-84862025000300570
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Review of technology-based dyslexia interventions, including Learning Dyslexia (Leady), a multisensory mobile app focused on alphabet recognition and writing.
+
+### Enhancing Teaching and Learning for Pupils with Dyslexia
+
+- URL: https://link.springer.com/article/10.1007/s10639-023-12195-5
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Systematic review of technological and non-technological dyslexia interventions, including apps, educational games, multisensory approaches, and neurofeedback tools.
+
+### Enhancing Educational Technology in Lectures for School Students with Learning Disabilities
+
+- URL: https://link.springer.com/article/10.1007/s42979-024-03049-z
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Research application combining student screening for dyslexia, dyscalculia, ADHD, and auditory processing disorder with a teacher dashboard.
+
+### DysScreen Mobile Application
+
+- URL: https://e-journal.uum.edu.my/index.php/jdsd/article/download/24681/4503
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Research paper describing a mobile application designed to screen for dyslexia in children aged approximately 4 to 9.
+
+### Augmented Reality App for Children with Dyslexia
+
+- URL: https://investigacion.ubu.es/documentos/63bf6281f877cf5dadb042b8
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Pilot evaluation of an augmented-reality game designed to support children with dyslexia through narrative, memory, text, and sequencing activities.

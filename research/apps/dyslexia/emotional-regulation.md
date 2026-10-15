@@ -88,3 +88,53 @@
 - Query: dyslexia mood tracking directory
 - Found: 2026-07-01
 - Description: National public media literacy initiative offering research-based strategies to help all kids, including those with dyslexia, become skilled readers, with supplemental resources for emotional and mood tracking in education.
+
+### Truth&Tales
+
+- URL: https://apps.apple.com/pt/app/calm-kids-stories-truth-tales/id1446620148?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Social-emotional learning app for children ages 48 with interactive stories and activities focused on noticing feelings, perspective-taking, and self-regulation. Includes dyslexia-friendly fonts, read-along highlighting, narration, and VoiceOver support.
+
+### Understood Behavior Tracker
+
+- URL: https://play.google.com/store/apps/details?id=org.understood.community&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Parent-focused app developed with psychologists for children with ADHD, dyslexia, and related learning differences. Tracks challenging behaviors, identifies patterns, provides CBT-informed lessons, and offers emotional-regulation and de-escalation guidance.
+
+### Dyslexia-EmpowerHub
+
+- URL: https://github.com/Saitharunmotipeta/Dyslexia-EmpowerHub
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public GitHub repository for a dyslexia-focused learning platform with structured practice, adaptive feedback, and AI-assisted guidance.
+
+### GitHub Dyslexia Tools Topic
+
+- URL: https://github.com/topics/dyslexia-tools
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public GitHub topic page collecting repositories for dyslexia and reading-support tools, including web-based learning applications and accessibility-oriented projects.
+
+### Dyslexia Support GitHub Topics
+
+- URL: https://github.com/topics/dyslexia-support
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: GitHub topic directory listing public repositories related to dyslexia support, including tutoring and learning-support projects.
