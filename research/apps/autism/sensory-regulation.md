@@ -738,3 +738,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: A free, local-first support app for sensory overload, panic, shutdowns, anxiety, and nonverbal moments, designed for neurodivergent users.
+
+### sensory-gradient-asd
+
+- URL: https://github.com/zjacokes/sensory-gradient-asd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public GitHub repository for spectral-manifold analysis of sensory profiles in autism spectrum disorder, potentially relevant to sensory-regulation research.
+
+### Sensory Regulation Apps Comparison
+
+- URL: https://www.sensorygift.com/sensory-regulation-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public comparison resource covering apps for sensory-support planning, state tracking, check-ins, breathing, calming sounds, and other regulation activities.

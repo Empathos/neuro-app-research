@@ -768,3 +768,93 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Toolset for ADHD, autism, and other neurodivergent users with task breakdown, time estimation, focus organization, text simplification, and thought organization features.
+
+### The Universal Sandpit App
+
+- URL: https://apps.apple.com/us/app/the-universal-sandpit/id6761804059
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: AI-powered teacher and student tools designed around neurodiversity, inclusion, and Universal Design for Learning, with particular support for autistic and ADHD learners.
+
+### Jade  Learning Through Play
+
+- URL: https://apps.apple.com/ar/app/jade-learning-through-play/id1473169233?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Inclusive educational game app for neurodivergent children and teens, including learners with autism, ADHD, dyslexia, dyscalculia, intellectual disabilities, and Down syndrome.
+
+### The Universal Sandpit on Apple Education
+
+- URL: https://education.apple.com/resource/250014953
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Apple Education resource describing the Universal Sandpit's free inclusive-learning tools for teachers and students, including AI-supported strategies and reflections.
+
+### Apps as Assistive Technology for Learning
+
+- URL: https://bridgingapps.org/apps-as-assistive-technology-for-learning/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public assistive-technology guide highlighting tools such as Genio, Goblin Tools, and Goodnotes for note-taking, task breakdown, organization, transcription, and accessible learning.
+
+### ASD Tools for Autism
+
+- URL: https://apps.apple.com/jp/app/asd-tools-for-autism/id578206583?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: iPad app supporting transitions, emotional regulation, and independence for children with autism, ADHD, Down syndrome, and developmental delays.
+
+### Lovable Learner
+
+- URL: https://github.com/ayaghi88/LovableLearnerApp
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Open-source learning app for neurodivergent learners, including people with ADHD, autism, dyslexia, dyscalculia, and sensory-processing differences. Provides study guides, visual maps, flashcards, and activities.
+
+### Autism Learning Tools
+
+- URL: https://apps.apple.com/tw/app/autism-learning-tools/id1509350648?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Educational iPad app targeting matching, memory, number and letter recognition, fine-motor skills, and related developmental learning for autistic children.
+
+### GitHub neurodivergent Topic
+
+- URL: https://github.com/topics/neurodivergent?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public GitHub topic page containing repositories and projects related to neurodivergent education and support, including open mathematics curriculum work.
+
+### GitHub audhd Topic
+
+- URL: https://github.com/topics/audhd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public GitHub topic page for ADHD-and-autism-related projects, including neurodivergent learning applications such as Lovable Learner.

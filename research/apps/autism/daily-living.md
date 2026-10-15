@@ -478,3 +478,23 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Visual-support app with picture schedules, social narratives, First/Then boards, token rewards, visual timers, and customizable routines for daily tasks.
+
+### SenLife
+
+- URL: https://play.google.com/store/apps/details?id=com.senlife.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Daily diary and reporting app for tracking behavior, emotions, and routines, producing insight reports that can support home planning, school advocacy, and clinical appointments.
+
+### DailyCue Routine Planner
+
+- URL: https://www.linkedin.com/posts/joffthyer_dailycue-routine-planner-android-app-promotion-activity-7462232238517055488-SrQO
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Routine-planning app lead for autism, ADHD, anxiety, and executive-function challenges, offering recurring routines, visual schedules, appointment reminders, checklists, and countdown timers.
