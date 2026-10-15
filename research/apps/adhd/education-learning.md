@@ -878,3 +878,73 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: ADHD-focused app combining task gamification, community features, voice notes, and short educational content about coping skills, procrastination, and time management.
+
+### Aivo Learning
+
+- URL: https://app.aivolearning.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Neurodiverse-first adaptive learning and learner-support platform designed to personalize lessons and align learners, families, and educators.
+
+### Study Timer: ADHD Focus Tool
+
+- URL: https://apps.apple.com/us/app/study-timer-adhd-focus-tool/id6741526518
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: iOS Pomodoro-style study timer marketed for ADHD-friendly focus, exam preparation, and structured deep-work sessions.
+
+### AuDHD GitHub Topics
+
+- URL: https://github.com/topics/audhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: GitHub topic page listing public repositories related to ADHD/autism support, including StudyLoop, LovableLearnerApp, and neuroinclusive planning tools.
+
+### Jade - Learning Through Play
+
+- URL: https://apps.apple.com/gh/app/jade-learning-through-play/id1473169233
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Play-based learning app for neurodivergent children and teens, including learners with autism, ADHD, dyslexia, and dyscalculia.
+
+### Zavmo
+
+- URL: https://apps.apple.com/us/app/zavmo/id6758090947
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: AI-powered learning platform for neurodivergent learners pursuing UK qualifications, with ADHD-oriented shorter segments, gamification, streaks, and varied interactions.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/ch/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Structured reading app for children with autism and ADHD, featuring phonics and sight-word lessons, text-to-speech, offline use, and distraction-free interfaces.
+
+### Neurodivergent GitHub Topics
+
+- URL: https://github.com/topics/neurodivergent?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public repository index containing neurodivergence-related projects, including ADHD focus companions, accessible educational platforms, TTS tools, and executive-function support apps.

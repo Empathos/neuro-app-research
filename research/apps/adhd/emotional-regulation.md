@@ -678,3 +678,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Android game for children ages 48, including children with ADHD or autism, using emotional-learning games, mindful breathing, meditation, and coping-skills activities.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/us/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: App for ADHD and AuDHD users that tracks energy and burnout patterns and includes emotional-reset guidance, somatic grounding, box-breathing visualization, brown noise, and NSDR tools.
+
+### Evolve: Self-Care & ADHD Coach
+
+- URL: https://apps.apple.com/in/app/evolve-self-care-adhd-coach/id1515433542
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: ADHD-focused self-care app with CBT and DBT techniques, breathing exercises, guided meditations, journaling, routines, and tools supporting stress, anxiety, and emotional regulation.

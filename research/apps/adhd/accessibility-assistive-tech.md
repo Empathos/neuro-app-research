@@ -428,3 +428,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: ND-affirming AI coaching resource covering ADHD, AuDHD, sensory overload, executive-function challenges, rejection-sensitive dysphoria, burnout, and workplace support.
+
+### GitHub ADHD-Aid Topics
+
+- URL: https://github.com/topics/adhd-aid
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: A public collection of repositories including cognitive-support tools, bionic-text PDF readers, attention-feedback systems, time-visualization projects, and ADHD-oriented organizational devices.
+
+### Cognitive Accessibility Kit
+
+- URL: https://github.com/bairamilona/cognitive-accessibility-kit
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: A cognitive-accessibility toolkit with neurodivergence profiles, an audit checklist, writing guidance, CSS tokens, and WCAG 2.2 and COGA mappings.
+
+### GitHub ADHD Topic with Shell Filter
+
+- URL: https://github.com/topics/adhd?l=shell&o=asc&s=forks
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: A browsable set of public ADHD-related repositories, including cognitive-accessibility kits, evidence-based ADHD support extensions, and tools for reducing task friction.
