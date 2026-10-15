@@ -588,3 +588,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public software directory featuring executive-function tools such as visual planners, routine systems, and neurodivergent-focused project-management products.
+
+### Brain in Hand
+
+- URL: https://www.braininhand.co.uk/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Digital support system for planning and managing everyday activities, offering structured prompts and personalised strategies relevant to executive-function support.

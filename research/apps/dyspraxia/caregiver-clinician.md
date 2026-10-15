@@ -418,3 +418,23 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Clinician-oriented overview of motor-planning tools, including VAST and Nuffield Dyspraxia Programme materials, with guidance that such apps should supplementnot replacespeech-language therapy.
+
+### Theratech Mobile Apps
+
+- URL: https://theratech.ai/app-store/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public product page for mobile applications supporting therapists, caregivers, and individuals, including communication tools, therapy-management solutions, and caregiver-support features.
+
+### Neurodivergent Resource List
+
+- URL: https://www.neuropebble.com/nd-resources
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public resource list of neurodivergence-support apps including Goblin Tools, Habitica, Alarmy, Hiki, and Melo, with relevance to executive function, routines, community, and occupational-therapy-informed support.
