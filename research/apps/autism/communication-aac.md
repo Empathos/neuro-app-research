@@ -728,3 +728,63 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: iPhone visual communication board designed for non-speaking autistic users and people with aphasia.
+
+### OpenAAC repositories
+
+- URL: https://github.com/orgs/open-aac/repositories
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Collection of 15 public repositories covering AAC apps, communication supports, board analysis, and related tooling.
+
+### SpeakEasy AAC
+
+- URL: https://github.com/jeremydpotts/speakeasy-aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Free, MIT-licensed AAC communication app designed primarily for nonspeaking autistic children and families, with symbol-based communication and text-to-speech.
+
+### Augmentative and Alternative Communication GitHub topic
+
+- URL: https://github.com/topics/augmentative-alternative-communication
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public repository directory containing AAC web apps, offline-first communication tools, symbol boards, switch-scanning projects, text-to-speech boards, and caregiver-oriented systems.
+
+### ChatterBoards AAC
+
+- URL: https://apps.apple.com/us/app/chatterboards-aac/id1133918740
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: AAC aid for people with speech or language difficulties, including autistic users, with support for expressing needs and communicating across ages.
+
+### MyVisualRoutine: Autism & ADHD
+
+- URL: https://apps.apple.com/us/app/myvisualroutine-autism-adhd/id6757563805
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Visual-support app providing schedules, choice boards, and First-Then boards for autism, ADHD, and communication challenges.
+
+### Spoken - Tap to Talk AAC
+
+- URL: https://apps.apple.com/be/app/spoken-tap-to-talk-aac/id1034487817
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Text-to-speech AAC app for teens and adults with nonspeaking autism, aphasia, or other speech and language disorders, with sentence building and natural-sounding voices.

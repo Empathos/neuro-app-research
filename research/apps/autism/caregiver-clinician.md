@@ -408,3 +408,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: Official App Store collection highlighting autism-support tools for communication, literacy, emotional learning, play, and caregiver progress monitoring, including Proloquo, Speech Blubs, GoLexic, and Avokiddo Emotions.
+
+### NeuroLink App
+
+- URL: https://blink.new/p/neurolink-app-zkk8r530
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Customizable digital support space designed for neurodivergent users.
+
+### Caregiver Concerns Questionnaire
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12851429/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Research-backed caregiver questionnaire for identifying developmental, behavioral, psychiatric, medical, sleep, and gastrointestinal concerns during autism care visits.
+
+### Vanderbilt TRIAD Provider Portal
+
+- URL: https://vkc.vumc.org/vkc/triad/provider-portal/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Free provider and family assessment resources, including telehealth autism assessment tasks, caregiver interview templates, and observational tools.

@@ -778,3 +778,93 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: iPhone app providing autism-related resources, education, advocacy, and community connections for children and families.
+
+### Stress Autism Mate (SAM) App
+
+- URL: https://journals.sagepub.com/doi/10.1177/13623613251346885
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Personalized mobile stress-monitoring app co-developed with autistic people; evaluated in pilot studies and a randomized controlled trial for stress management and well-being.
+
+### Stress Autism Mate: Qualitative Study
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12408516/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Research study describing SAMs structured self-monitoring, personalized feedback, stress recognition, coping support, and user experiences among autistic adults.
+
+### Molehill Mountain
+
+- URL: https://onlinelibrary.wiley.com/doi/full/10.1002/aur.70153
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: App-based anxiety-management intervention for autistic adults; a feasibility study found the tool acceptable and feasible to implement.
+
+### IHEART2U Social Support Mobile App
+
+- URL: https://research.utwente.nl/en/publications/iheart2u-empowerment-based-design-of-social-support-mobile-app-de/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Research and prototype for a social-support mobile app for caregivers of autistic children, designed around empowerment, practical assistance, and stakeholder usability testing.
+
+### NeuroLocker
+
+- URL: https://play.google.com/store/apps/details?id=com.neuro.locker&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Neurodivergent productivity app offering notes, reminders, calendar tools, focus support, and executive-function strategies.
+
+### Habi  App Store
+
+- URL: https://apps.apple.com/us/app/habi/id6741903553
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Official iPhone, iPad, and Mac listing for Habi, a routine, habit, focus, and executive-function support app.
+
+### ExecAssist.io
+
+- URL: https://execassist.replit.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Free, open-source executive-dysfunction assistance app designed for people with autism, ADHD, or both; its codebase is publicly available for contribution.
+
+### NeurOS: Neurodivergent Planner
+
+- URL: https://play.google.com/store/apps/details?id=com.ursx.neuros
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Neurodivergent planner and command center with task breakdown, timers, sensory tools, multilingual support, and focus features.
+
+### Transdiagnostic Executive-Function Meta-Analysis Repository
+
+- URL: https://github.com/CarterSunUSYD/Transdiagnostic_EF_meta
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Public GitHub repository containing data associated with a systematic review and meta-analysis of executive function in children with neurodevelopmental conditions.

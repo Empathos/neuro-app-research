@@ -438,3 +438,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: Curated public directory of apps for autistic users, including assistive-technology products such as GoTalk and GoVisual and tools supporting communication and adulthood.[8]
+
+### PRISM AAC
+
+- URL: https://github.com/dcostenco/prism-aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Evidence-based open-source AAC web application designed for users with motor impairments.
+
+### KultureCity
+
+- URL: https://apps.apple.com/us/app/kulturecity/id1359922217
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: An official App Store listing for a sensory-inclusive app with sensory-friendly location information and communication support through Koji.
+
+### PictoGPT: AAC Pictogram Tools
+
+- URL: https://apps.apple.com/kr/app/pictogpt-aac-pictogram-tools/id6761912359?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: An AAC and visual-support app for autism, ADHD, apraxia, and speech delays, featuring pictograms, visual stories, routines, schedules, and choice boards.
+
+### Apps for accessibility
+
+- URL: https://apps.apple.com/it/iphone/story/id1266441335?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Apple's official accessibility-app collection, including tools for communication, language skills, learning, literacy, and autism-focused support.
