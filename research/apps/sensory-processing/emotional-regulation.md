@@ -408,3 +408,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: AI-driven mobile and web platform offering neurodivergent support for emotional regulation, communication, daily tasks, and sensory needs.
+
+### Sensory Intelligence Lab
+
+- URL: https://lab.jordanelias.de/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Sound-wellness platform designed with neurodivergent users in mind, combining personalized soundscapes, breathing exercises, emotional check-ins, journaling, and sensory-regulation tools.

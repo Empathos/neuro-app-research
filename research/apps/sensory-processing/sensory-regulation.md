@@ -488,3 +488,23 @@
 - Query: sensory processing environment planning tool
 - Found: 2026-08-03
 - Description: A digital health and assistive technology tool built with an accessibility-first philosophy to facilitate action-verb learning for neurodivergent kids (ages 3-7, ASD). Blends clinical speech methodologies with a low-sensory UI, showcasing clean execution across product management, UX design, and product engineering.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/ca/app/autism-fidgets/id6761034020
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: An iOS sensory-play app with interactive fidgets, gentle visual effects, bubble popping, and calming touch activities intended to support focus, transitions, and self-regulation.
+
+### Stress Free Flow
+
+- URL: https://apps.apple.com/us/app/stress-free-flow/id6757947997
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: iPhone sensory-regulation tool using haptic grounding, interactive visuals, and soundscapes for autistic and ADHD users.

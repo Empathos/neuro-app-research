@@ -638,3 +638,43 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Sensory-friendly phonics and literacy app designed around predictable, distraction-free lessons without flashing animations, sudden sounds, or distracting characters.
+
+### Sensory Loop
+
+- URL: https://www.sensoryloop.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Personalized sensory activity platform for children ages 318, with assessment-based plans, activity instructions, routines, and mood feedback.
+
+### Rodney AI
+
+- URL: https://www.learnwithrodney.app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Adaptive study platform for neurodivergent learners featuring multimodal learning, voice and sketch input, quizzes, mind maps, timers, and real-time adjustments.
+
+### Sensory Shock
+
+- URL: https://www.sensoryshock.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Free collection of browser-based accessibility tools including AAC boards, visual timers, schedules, calming tools, sensory rooms, emotional-regulation aids, and early-learning games.
+
+### Otto the OTter Autism App
+
+- URL: https://apps.apple.com/us/app/otto-the-otter-autism-app/id6743257205
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Interactive learning and support app offering social, communication, emotional-understanding, home, community, and sensory-processing strategies.

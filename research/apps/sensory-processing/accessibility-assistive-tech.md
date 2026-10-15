@@ -278,3 +278,33 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Public repository index containing projects related to sensory processing, including HushMap and accessibility-focused tools for reducing sensory and cognitive overload.
+
+### Open Assistive
+
+- URL: https://open-assistive.org/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Open, nonprofit assistive-technology initiative providing publicly available software and hardware designs through its GitHub project.
+
+### GitHub Sensory-Friendly Topic
+
+- URL: https://github.com/topics/sensory-friendly
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public repository index containing sensory-friendly and neurodivergent-focused projects, including tools for visual overstimulation, reading fatigue, focus support, and calmer navigation.
+
+### W3C Assistive Technology Support
+
+- URL: https://w3c.github.io/wcag3/informative/user-control/assistive-technology-control/assistive-technology-supported/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Web accessibility guidance for ensuring controls work with assistive and adaptive technologies and provide equivalent results.

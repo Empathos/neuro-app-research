@@ -478,3 +478,83 @@
 - Query: overload planning app
 - Found: 2026-08-06
 - Description: A sensory-aware journey planning web prototype for Melbourne CBD commuters.
+
+### Sensory Processing Differences Toolkit
+
+- URL: https://gmintegratedcare.org.uk/wp-content/uploads/2026/08/nhs-toolkitaug26.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Practitioner-developed toolkit for identifying sensory-processing differences and creating environmental and support plans; intended as guidance rather than a diagnostic assessment.
+
+### SensoryAI
+
+- URL: https://github.com/Boyyey/SensoryAI-
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public repository for an experimental multimodal AI system designed to process and integrate visual, auditory, tactile, olfactory, and gustatory inputs.
+
+### Sensory Gradient ASD
+
+- URL: https://github.com/zjacokes/sensory-gradient-asd
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public research repository focused on spectral manifold analysis of sensory profiles in autism spectrum disorder.
+
+### Translational Sensory and Circadian Neuroscience Unit
+
+- URL: https://github.com/tscnlab
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public GitHub organization for a sensory and circadian neuroscience research unit, offering repositories that may support neurodivergence-related sensory research.
+
+### Autism and Sensory Processing Resources Toolkit
+
+- URL: https://www.ala.org/sites/default/files/2026-06/autism-sensory-processing-kit-rev-2025.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-15
+- Description: Public resource toolkit addressing autism and sensory-processing differences, with practical materials and sensory-support resources.
+
+### NeuroFlow
+
+- URL: https://leaf2root.org/apps/neuroflow.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Neurodivergent support platform with tools for executive-function skills such as planning, organization, time management, and task initiation, plus sensory-strategy resources.
+
+### BeatBop: Interactive Metronome
+
+- URL: https://play.google.com/store/apps/details?id=co.biliby.beatbop&hl=en
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Google Play app using rhythmic timing activities for attention, coordination, self-regulation, sensory processing, and executive-function challenges in neurodivergent children and teens.
+
+### STEMFlow
+
+- URL: https://blink.new/p/stemflow-neurodivergent-support-platform-a9f7kbgm
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-15
+- Description: Accessibility-focused productivity platform for neurodivergent STEM learners and professionals, featuring task decomposition, adaptive routines, sensory-friendly focus mode, and reduced visual clutter.
