@@ -678,3 +678,23 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Interactive learning and support app offering social, communication, emotional-understanding, home, community, and sensory-processing strategies.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/ca/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: iOS sensory-play app offering digital fidgets, bubble popping, soft spinners, touch interactions, and calming visual activities for neurodivergent children and families.
+
+### Special Education Platform Software
+
+- URL: https://www.f6s.com/software/category/special-education-platform
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public directory featuring platforms for neurodivergent support, cognitive and socio-emotional learning, classroom guidance, and sensory-processing interventions.
