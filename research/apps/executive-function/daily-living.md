@@ -348,3 +348,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Visual daily planner for ADHD, autism, and AuDHD with routines, task management, mood tracking, flexible scheduling, and carer support.
+
+### FocusFlow
+
+- URL: https://github.com/akshatasawant9699/focusflow
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open-source, self-hosted focus companion for ADHD users that accepts task breakdowns and supports task initiation.

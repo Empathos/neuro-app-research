@@ -728,3 +728,23 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Offline-friendly, multilingual picture AAC app for children, teens, and adults to express needs, feelings, and ideas.
+
+### EF Skill  Executive Function Support System for Claude
+
+- URL: https://github.com/DoxxedDoxie/ef-skill
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public GitHub project that uses Claude as an external planning layer integrated with task managers such as Apple Reminders and Google Tasks.
+
+### AAC Speech & Communication
+
+- URL: https://aacspeech.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Offline AAC communication-board app intended for autistic, nonspeaking, and speech-delayed users, families, educators, and speech-language professionals.

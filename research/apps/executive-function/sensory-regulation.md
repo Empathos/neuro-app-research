@@ -506,3 +506,53 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Web-based guidance for executive-function obstacles, sensory-load reduction, written first steps, visible timers, breathing, and personal comfort-kit strategies.
+
+### LCH-Neuro Path
+
+- URL: https://play.google.com/store/apps/details?id=com.lchtech.neuropath
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Android wellness app covering attention, executive functioning, sensory sensitivity, emotional regulation, burnout, daily structure, check-ins, and personalized support strategies.
+
+### Neurodivergent Support GitHub Topic
+
+- URL: http://github.com/topics/neurodivergent-support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public GitHub topic page collecting neurodivergent-support projects, including tools for self-tracking, task logging, emotional rhythms, focus, mood, energy, and executive support.
+
+### Neurodiverse Toolkit
+
+- URL: https://github.com/mmauthoor/neurodiverse-toolkit
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open-source React organizational toolkit for autistic people and people with ADHD, focused on planning, time management, and general executive functioning.
+
+### Neurodivergent Workplace Toolkit
+
+- URL: https://github.com/mogoldb/neurodivergent-workplace-toolkit/blob/main/INSTALL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public toolkit with workplace-support utilities such as email and Slack thread summarization, meeting summarization, decision extraction, and action-item support.
+
+### Neurodivergent-Friendly Digital Tools
+
+- URL: https://neurodiversitywellnesscollective.com/neurodivergent-friendly-digital-tools-and-apps
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public resource listing tools such as Goblin Tools for breaking down overwhelming tasks, distraction-limiting utilities, habit support, sensory relaxation, ambient soundscapes, and interactive visual regulation tools.

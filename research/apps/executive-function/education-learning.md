@@ -468,3 +468,33 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: School resource cataloging executive-function apps for reminders, scheduling, homework and assignment management, time tracking, and task organization.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/ee/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Visual planning and learning app for ADHD, autism, stress, and anxiety, with executive-function support, routines, time management, and learning tools.
+
+### Open Executive
+
+- URL: https://github.com/SenteLabsAI/OpenExecutive
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open-source AI-powered virtual executive team project built with FastAPI and Next.js; a repository lead for exploring automated planning and executive-support tools.
+
+### Inflow
+
+- URL: https://clinicalaireport.com/articles/best-ai-adhd-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: ADHD-focused educational and self-management app lead combining learning modules on executive function, time blindness, emotional regulation, and rejection sensitivity with practical daily strategies.

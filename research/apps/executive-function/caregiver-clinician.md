@@ -304,3 +304,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: Peer-reviewed research review synthesizing executive-function findings across youth with ADHD, autism, and co-occurring ADHD/autism; useful for grounding app and caregiver-clinician research.
+
+### Neurodivergent Support  Spark & Anvil
+
+- URL: https://sparkanvil.org/neurodivergent/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Gamified executive-function training for learners ages 914, covering working memory, inhibition, flexibility, planning, task initiation, and time awareness.[9]
