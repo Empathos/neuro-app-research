@@ -858,3 +858,63 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public GitHub topic page for ADHD-and-autism-related projects, including neurodivergent learning applications such as Lovable Learner.
+
+### Autism Learning Games For Kids
+
+- URL: https://apps.apple.com/us/app/autism-learning-games-for-kids/id6747318529
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Sensory-friendly educational games supporting attention, listening, matching, counting, and shape recognition for autistic children.
+
+### Autism Life Skills
+
+- URL: https://apps.apple.com/tr/app/autism-life-skills/id6779860917
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Game-based app for practicing daily living, communication, matching, and eating skills with autistic children.
+
+### ASD & Autism Learning Kids App
+
+- URL: https://apps.apple.com/us/app/asd-autism-learning-kids-app/id1498731271
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: AutiSpark educational app with interactive activities for object association, emotions, categorization, sounds, and vocabulary.
+
+### Autism Learning Games For Kids
+
+- URL: https://apps.apple.com/us/app/autism-learning-games-for-kids/id6747318529?l=fr-FR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Calm, structured educational app for children with autism and other developmental needs, using interactive play and a sensory-friendly interface.
+
+### ELS Autism / ABA Therapy
+
+- URL: https://apps.apple.com/us/app/els-autism-aba-therapy/id6502673666?platform=vision
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: App supporting social and daily-living skills with social narratives, picture schedules, visual timers, token boards, and first-then charts for neurodivergent children.
+
+### Learn to Read Autism ADHD
+
+- URL: https://www.bastis-learning-world.com/content/learn-to-read-autism-adhd-app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Distraction-free, offline reading app using structured, research-backed phonics lessons designed for children with autism or ADHD.

@@ -498,3 +498,33 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Routine-planning app lead for autism, ADHD, anxiety, and executive-function challenges, offering recurring routines, visual schedules, appointment reminders, checklists, and countdown timers.
+
+### The Neurokit
+
+- URL: https://github.com/mmauthoor/neurodiverse-toolkit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public React toolkit designed to support autistic people and people with ADHD with planning, time management, and general executive functioning.
+
+### Autism Life Skills
+
+- URL: https://apps.apple.com/us/app/autism-life-skills/id6779860917
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: App using calm games to help autistic children practice daily-living skills, communication, matching tasks, eating skills, and independence.
+
+### ADHD Easy-Do Your ADHD Planner
+
+- URL: https://play.google.com/store/apps/details?id=com.hyperfocusacademy.adhdeasydo&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Google Play planner designed for neurodivergent users who need support managing daily life.

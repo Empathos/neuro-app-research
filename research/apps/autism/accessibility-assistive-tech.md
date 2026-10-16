@@ -478,3 +478,23 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Apple's official accessibility-app collection, including tools for communication, language skills, learning, literacy, and autism-focused support.
+
+### NeuroHub
+
+- URL: https://apps.apple.com/us/app/neurohub/id1621792528
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: An autism-friendly places app that lets users rate and share accessibility information about locations.
+
+### Autistapp
+
+- URL: https://www.linkedin.com/posts/zeroproject_pathwaystozerobarriers-zeroproject-autisminclusion-activity-7427346535325097984-5Bp3
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: A free mobile application for pre-teens, teenagers, and adults that combines pictograms, relaxation resources, an emotions diary, accessible autism information, and a services marketplace.
