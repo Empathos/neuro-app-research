@@ -258,3 +258,53 @@
 - Query: dyslexia executive-function neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Public platform offering simplified dyslexia research summaries and research-discovery features intended to improve accessibility.
+
+### Texas Assistive Technology Resources for Dyslexia
+
+- URL: https://spedsupport.tea.texas.gov/topics/dyslexia-and-other-related-disorders
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Education-focused repository of assistive-technology resources for dyslexia and related learning needs.
+
+### Assistive Technology Applications
+
+- URL: https://my.willamette.edu/site/accessibility/resources/assistive-technology-applications
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Institutional guide to executive-function applications for organization, study support, time management, distraction reduction, and readability, including OpenDyslexic.
+
+### GoLexic, Potmath, and Reddu Dyslexia Software Leads
+
+- URL: https://www.f6s.com/software/category/dyslexia-intervention
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public software directory page listing dyslexia and learning-difficulty interventions, including apps and programs addressing reading, attention, memory, and executive-function skills.
+
+### Reimagining Dyslexia Support Through Virtual Reality
+
+- URL: https://www.tamucc.edu/news/2025/09/reimagining-dyslexia-support-transforming-learning-through-virtual-reality.php
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Report on an open-source VR letter-recognition app using visual, phonemic, haptic, and gamified learning for dyslexic students.
+
+### Assistive Technologies for Children with Dyslexia: Review
+
+- URL: https://arxiv.org/pdf/2412.13241v2
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Comprehensive review covering mobile apps, audiobooks, augmented and virtual reality, haptic interfaces, computer applications, and natural-language technologies.

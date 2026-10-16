@@ -128,3 +128,53 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Educational guide to assistive reading tools such as Voice Dream Reader and CapturaTalk, including text-to-speech, document support, scanning, simplified browsing, and dyslexia-friendly display options.
+
+### Microsoft Accessibility Tools for Learning
+
+- URL: https://support.microsoft.com/en-us/accessibility/accessibility-tools-for-learning
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Official Microsoft guidance covering accessibility features for reading, writing, focus, concentration, dyslexia, and learning disabilities, including tools across Windows and Microsoft 365.
+
+### Dyslexia Helper - OpenDyslexic
+
+- URL: https://apps.apple.com/gb/app/dyslexia-helper-opendyslexic/id1510565499
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: iOS app that applies the OpenDyslexic font to PDFs, scanned pages, text, and websites, with OCR, reading-ruler, spacing, size, and contrast controls.
+
+### Read&Write for Android
+
+- URL: https://play.google.com/store/apps/details?id=com.texthelp.readwriteforandroid&hl=en_GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Android assistive keyboard for dyslexic and struggling readers, offering text-to-speech, speak-as-you-type, word prediction, dictionaries, highlighting, and spell checking.
+
+### MYdys Dyslexia Reading App
+
+- URL: https://mydys.app/en/index.php
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Reading-assistance app for children, teenagers, and adults with dyslexia, designed to help understand printed text such as menus, homework, and job listings.
+
+### GitHub Accessibility Widget Topic
+
+- URL: https://github.com/topics/accessibility-widget
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Repository directory featuring accessibility widgets with options such as dyslexia-friendly fonts, reading masks, contrast controls, and read-aloud highlighting.

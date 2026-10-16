@@ -218,3 +218,33 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Open-source Dyslexia Lens project using machine-learning models for handwriting-based dyslexia screening, with a Flask web application and PDF reporting.
+
+### AI Dyslexia Project
+
+- URL: https://github.com/kneat2448/AI_dyslexia_project
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Open-source adaptive reading platform with text simplification, phonetic breakdowns, syllable splitting, reading rulers, color overlays, adjustable typography, and text-to-speech.
+
+### Harvard Digital Accessibility Services: Dyslexia
+
+- URL: https://accessibility.huit.harvard.edu/disabilities/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Accessibility guidance describing practical supports such as adjustable line, word, and letter spacing for dyslexia and other print-related disabilities.
+
+### GitHub Dyslexia Topic
+
+- URL: https://github.com/topics/dyslexia?o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public repository directory featuring dyslexia-oriented tools such as readable-font extensions, text-to-speech utilities, reading rulers, PDF readers, and local voice applications.

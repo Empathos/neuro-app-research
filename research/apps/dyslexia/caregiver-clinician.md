@@ -218,3 +218,43 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Open repository capstone examining neuroaffirming support for students with dyslexia and other neurodevelopmental differences, with implications for school-based caregiver and clinician collaboration.[3]
+
+### Dyslexia Data Consortium Repository
+
+- URL: https://www.dyslexiadata.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Research data-sharing platform for dyslexia and reading-development studies, supporting secondary analysis, replication, and collaboration.
+
+### Dyslexia Data Consortium Repository Paper
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10859776/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Open-access publication describing the Dyslexia Data Consortiums data repository, research collaboration functions, and open-science use cases.
+
+### Dyslexia Detection from Handwriting
+
+- URL: https://github.com/srummanf/Dyslexia-Detection-from-Handwriting
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Open-source offline research demo that analyzes handwriting images for dyslexia-related patterns; explicitly notes that it is not a medical device or diagnostic tool.
+
+### Yaps for Neurodivergent Users
+
+- URL: https://www.yaps.ai/for/neurodivergent.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Private, on-device dictation and voice tool designed for users with dyslexia, dysgraphia, ADHD, and autism, including text-to-speech support.
