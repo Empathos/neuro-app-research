@@ -388,3 +388,63 @@
 - Query: neurodivergent clinician tool directory
 - Found: 2026-07-01
 - Description: UK-based directory connecting people to verified professionals for autism, ADHD, and neurodivergent support.
+
+### LifesPilot
+
+- URL: https://lifespilot.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: AI care companion for caregivers, families, schools, and clinical teams supporting autistic and neurodivergent people.
+
+### Autism Captain
+
+- URL: https://autismcaptain.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Care coordination app for families and professionals with tracking for mood, medication, routines, triggers, appointments, and shared insights.
+
+### neuro.space
+
+- URL: https://www.neuro.space/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Support platform for neurodivergent individuals, families, carers, and professionals, focused on connection, learning, belonging, and wellbeing.
+
+### CR Care Companion
+
+- URL: https://centralreach.com/products/care-companion/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Mobile caregiver application for ABA education, clinician-led training, journaling, and consistent support for autistic people and people with related intellectual or developmental disabilities.
+
+### Hi Rasmus
+
+- URL: https://apps.apple.com/by/app/hi-rasmus/id1544967962
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Collaborative care platform for clinicians, educators, and caregivers with learner profiles, real-time data collection, documentation, outcome reporting, and team invitations.
+
+### Magellan Healthcare Autism Marketplace
+
+- URL: https://www.magellanhealthcare.com/about/bh-resources/autism-awareness-2/autism-marketplace/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Marketplace listing for Attend Behavior, a mobile caregiver-training platform based on the RUBI Parent Training Program with clinician oversight and optional coaching.

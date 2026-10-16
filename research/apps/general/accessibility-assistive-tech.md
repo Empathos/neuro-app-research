@@ -518,3 +518,33 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Research article on assistive technologies for autistic and ADHD users, including WellBe, a smartwatch application designed to support emotion regulation in neurodivergent adults.
+
+### Tiimo
+
+- URL: https://apps.apple.com/us/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: A visual daily planner that breaks tasks into smaller subtasks and supports routines, time management, and executive functioning.
+
+### AI Accessibility GitHub Topics
+
+- URL: https://github.com/topics/ai-accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: A public collection of repositories focused on AI-enhanced accessibility, assistive navigation, communication adaptation, and accessible application interfaces.
+
+### NeuroVita
+
+- URL: https://sol.sbc.org.br/index.php/sbcas_estendido/article/download/35627/35414/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: A documented app-development project focused on text simplification and digital accessibility for neurodivergent users.

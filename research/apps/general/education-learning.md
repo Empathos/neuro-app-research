@@ -408,3 +408,93 @@
 - Query: accessibility classroom tool
 - Found: 2026-08-09
 - Description: Classroom algorithm-learning runtime with student and teacher surfaces, local contracts, and SecuredMe gateway-compatible handoff.
+
+### Understanding Neurodiversity: Coping & Resilience Toolbox
+
+- URL: https://www.understandingneurodiversity.org/toolbox
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Research-informed downloadable and adaptable toolkits for individuals, families, educators, and clinicians, including school strategies based on Universal Design for Learning.
+
+### Genio: Accessible Learning Apps for College Students
+
+- URL: https://genio.co/blog/6-accessible-learning-apps-for-students-2026
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Overview of accessible student tools, including visual planning with Tiimo and text-to-speech support with NaturalReader.
+
+### Neurodiversity in Education Project: BNS Resources
+
+- URL: https://www.neurodiversity.org.nz/bns-resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Education resources, online learning, practical tools, and research-informed guidance developed for neurodivergent learners and education communities.
+
+### ReadSpeaker TextAid
+
+- URL: https://www.readspeaker.com/products/textaid/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Web-based literacy support for reading, writing, and studying, with text-to-speech, synchronized highlighting, writing assistance, focus-reading tools, and LMS/browser integrations. Supports learners with dyslexia, ADHD, and other reading differences.
+
+### AI Applications for Neurodiverse Learning
+
+- URL: https://github.com/Humanitariansai/AI-Applications-for-Neurodiverse-Learning
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open-access GitHub project exploring AI-supported learning for ADHD, autism, dyslexia, executive-function differences, and processing challenges. Includes adaptive tutoring, accessibility tools, task chunking, routine building, and UDL-oriented projects.
+
+### Neurodiversity Resource Database
+
+- URL: https://med.stanford.edu/neurodiversity/ndrd.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Stanford collaborative database designed to provide immediately usable resources for neurodivergent communities, including quality evaluation, resource sharing, and personalized solutions.
+
+### Inclusive Teaching Toolkit for Educators
+
+- URL: https://www.unsw.edu.au/edi/diversity-inclusion/disability-inclusion/disability-innovation-institute/diversified/toolkit-for-educators
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: UNSW toolkit offering practical guidance and checklists for inclusive communication, digital accessibility, collaboration, student autonomy, course design, delivery, and assessment for neurodivergent learners.
+
+### Pearson Neurodiversity Resource Center
+
+- URL: https://www.pearsonassessments.com/campaign/neurodiversity-resource-center.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Resource hub for educators and school clinicians covering strengths-based neurodiversity approaches, educational planning, and assessment-related resources.
+
+### Twinkl Neurodiversity Resources
+
+- URL: https://www.twinkl.co.uk/collection/neurodiversity-education
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Collection of classroom materials, research sheets, posters, guidance, and inclusion-focused resources for teachers, parents, and learners.
