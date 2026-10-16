@@ -948,3 +948,43 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public repository index containing neurodivergence-related projects, including ADHD focus companions, accessible educational platforms, TTS tools, and executive-function support apps.
+
+### Noohra Learning
+
+- URL: https://noohra.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Personalized learning platform presented as supporting learners with ADHD and autism through tailored lessons, executive-function support, learning plans, and mentor connections.
+
+### The NESTL Toolkit
+
+- URL: https://www.education.ox.ac.uk/oxford-education-deanery/resource/shared-resource-the-nestl-toolkit/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: University of Oxford resource toolkit co-developed with neurodivergent students and educators, providing inclusive teaching frameworks, case studies, checklists, and learning-support resources.
+
+### CereBRO by UnlockGenius
+
+- URL: https://unlockgenius.io/neurodivergent?lang=zh
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: AI tutoring tool designed for neurodivergent learners, including students with ADHD and dyslexia, with short focused sessions, built-in breaks, repetition, and adaptive pacing.
+
+### Jade  Learning Through Play
+
+- URL: https://apps.apple.com/de/app/jade-learning-through-play/id1473169233?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Inclusive educational app for children ages 311, including learners with ADHD, autism, dyslexia, and other developmental differences. [1]

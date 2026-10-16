@@ -538,3 +538,73 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Neurodivergent-focused organizer with task planning, Pomodoro focus sessions, emotional support chat, and ADHD-related educational content.
+
+### ADHDAlly
+
+- URL: https://apps.apple.com/us/app/adhdally/id6448708655
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: ADHD-oriented task, routine, planner, and scheduling app designed to reduce overwhelm and support organization.
+
+### GitHub ADHD Topic
+
+- URL: https://github.com/topics/adhd?o=asc&s=updated
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public collection of ADHD-related repositories, including executive-function bots, daily exercise apps, reminder tools, and ADHD companion applications.
+
+### Tiimo
+
+- URL: https://www.tiimoapp.com/product
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Visual planner for ADHD, autism, and executive-function needs, with routines, flexible planning, focus timers, widgets, timelines, and task breakdowns.
+
+### Alt ADHD Planner
+
+- URL: https://apps.apple.com/gb/app/alti-adhd-planner/id6738433959
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: ADHD-oriented planner with visual task management, executive-function tools, customizable routines, motivational visuals, and structured planning.
+
+### Thruday
+
+- URL: https://apps.apple.com/nl/app/thruday/id1645552771?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Visual assistive planning and wellbeing app offering reminders, notifications, widgets, and daily structure for ADHD, autism, carers, families, and supported-living contexts.
+
+### ADHD Easy-Do
+
+- URL: https://apps.apple.com/fm/app/adhd-easy-do-your-adhd-planner/id6476637209
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Planner designed for ADHD and neurodivergent users to organize tasks, thoughts, ideas, and everyday routines while reducing forgetfulness, procrastination, and overwhelm.
+
+### ADHD Planner Organizer Planbo
+
+- URL: https://apps.apple.com/ca/app/adhd-planner-organizer-planbo/id6761025706
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: iPad planner built around ADHD-friendly templates intended to support daily organization, reduce chaos, and provide flexible structure.
