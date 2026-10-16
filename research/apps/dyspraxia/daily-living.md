@@ -448,3 +448,53 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: SMS-based neurodivergent support platform offering daily assistance, structure, reminders, calendar support, and household coordination without requiring an app download.[3]
+
+### Coping with Dyspraxia: Practical Tips for Daily Living
+
+- URL: https://devdis.com/coping-with-dyspraxia-practical-tips-for-daily-living.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public guide covering assistive technology for daily living, including speech-to-text, digital organizers, writing aids, visual aids, Clicker Docs, Write:OutLoud, Time Timer, and visual countdown timers.
+
+### Weight & Wellbeing Hub
+
+- URL: https://apps4healthcareni.hscni.net/en-GB/weight-and-wellbeing-hub
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public health app collection offering tools for routines, activity, motivation, progress tracking, and wellbeing through phone or tablet use.
+
+### what3words
+
+- URL: https://what3words.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Location and navigation tool listed by the University of Exeter as a practical resource for finding, saving, and sharing precise locations.
+
+### Citymapper
+
+- URL: https://citymapper.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public transport navigation app listed by the University of Exeter as a support tool for planning journeys and accessing real-time transit information.
+
+### AudioPen
+
+- URL: https://audiopen.ai/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Voice-to-text tool listed by the University of Exeter that can convert spoken notes into written text, potentially reducing fine-motor and handwriting demands.

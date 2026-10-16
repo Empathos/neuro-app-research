@@ -598,3 +598,33 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Digital support system for planning and managing everyday activities, offering structured prompts and personalised strategies relevant to executive-function support.
+
+### Free Executive Functioning Assessment
+
+- URL: https://lifeskillsadvocate.com/free-executive-functioning-assessment/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Downloadable fillable assessment covering planning, time management, task initiation, organization, working memory, flexibility, attention, and related executive-function skills.
+
+### Neurodivergent Executive-Function Toolbox
+
+- URL: https://www.etsy.com/listing/1279853136/202526-full-package-executive
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Digital toolbox created by a neurodivergent occupational therapist, featuring planning templates, task-initiation strategies, sensory supports, routines, and self-management resources.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/us/app/brimming-adhd/id6469721652
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Digital-wellness app for executive dysfunction and neurodivergent users, focused on task initiation, follow-through, overwhelm, and avoidance cycles.

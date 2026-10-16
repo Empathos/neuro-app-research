@@ -808,3 +808,43 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public repository index containing AAC projects, including web apps, motor-impairment communication tools, offline word boards, and customizable Android AAC apps.
+
+### VoxigoAAC
+
+- URL: https://play.google.com/store/apps/details?id=com.VoxigoAAC.appcore&hl=en
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Android AAC app featuring customizable communication buttons, AI sentence suggestions, feelings activities, coping strategies, and administrator controls.
+
+### CommUnity
+
+- URL: https://play.google.com/store/apps/details?id=com.academy.community&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Symbol-based communication platform for nonverbal, minimally verbal, and limited-literacy users, including people with apraxia and other neurodivergent communication needs.
+
+### Communication App: AI-Assisted AAC Platform
+
+- URL: https://digitalcommons.kennesaw.edu/cday/Spring_2026/Graduate_Project/13/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public graduate project describing an accessibility-focused AAC platform using AI-assisted speech-to-text and text-to-speech for speech impairments and neurodivergent communication.
+
+### Multilingual AAC App Repository
+
+- URL: https://github.com/ingemedical16/aac-app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open GitHub project for a multilingual AAC platform using pictographic communication, text-to-speech, customizable boards, and assistive communication features.
