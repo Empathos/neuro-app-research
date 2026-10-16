@@ -608,3 +608,23 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Parent-focused communication and language-support app featuring sensory modifications, activities, and educational content on neurodivergence, echolalia, and gestalt language learning.
+
+### AAC Speech & Communication
+
+- URL: https://aacspeech.app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Offline AAC communication-board app supporting personalized symbol grids, images, voice clips, text-to-speech, and nonverbal communication.
+
+### AAC Speech & Communication  National Autistic Society listing
+
+- URL: https://www.autism.org.uk/autism-services-directory/aac-speech-communication-free-app
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public service listing describing sensory-friendly options including adjustable visuals, high contrast, font sizing, tile customization, and reduced visual overload.

@@ -308,3 +308,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Web accessibility guidance for ensuring controls work with assistive and adaptive technologies and provide equivalent results.
+
+### ASD Calm AI
+
+- URL: https://devpost.com/software/asd-calm-ai
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Prototype sensory-awareness and self-regulation app using environmental estimates for sound, light, and movement alongside breathing and low-stimulation calming activities.[3]
+
+### Sensory Readable
+
+- URL: https://help.sensoryreadable.com/readable/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Windows text-to-speech accessibility app that reads webpages, documents, PDFs, emails, screen text, and text within images aloud.

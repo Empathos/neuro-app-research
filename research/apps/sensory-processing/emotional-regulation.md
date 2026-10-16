@@ -418,3 +418,23 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Sound-wellness platform designed with neurodivergent users in mind, combining personalized soundscapes, breathing exercises, emotional check-ins, journaling, and sensory-regulation tools.
+
+### neural-child
+
+- URL: https://github.com/renatokuipers/neural-child
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: An open-source neural-network project modeling sensory processing, emotion recognition, emotional regulation, attachment, and theory of mind.
+
+### OpenNeuro Emotion Processing and Regulation Dataset
+
+- URL: https://openneuro.org/datasets/ds006861/versions/1.0.2
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: A public research dataset containing EEG recordings and behavioral data from an emotion-processing and regulation task.
