@@ -779,3 +779,13 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Collection of public AAC repositories, including web apps with visual boards, sentence building, text-to-speech, caregiver workflows, and offline-first tools.
+
+### Open ADHD Resources
+
+- URL: https://open-adhd.org/resources/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public ADHD support resource page linking to an open-source AI skill/plugin designed to provide action-first answers, numbered steps, and fewer tangents.

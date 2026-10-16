@@ -458,3 +458,23 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: A browsable set of public ADHD-related repositories, including cognitive-accessibility kits, evidence-based ADHD support extensions, and tools for reducing task friction.
+
+### ADHD-Friendly GitHub Topics
+
+- URL: https://github.com/topics/adhd-friendly
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public projects focused on neurodivergent accessibility, including assistive technology, task planners, bionic reading, haptic focus feedback, and ADHD-friendly learning tools.
+
+### Speechify ADHD Technology Apps
+
+- URL: https://speechify.com/hi/blog/adhd-technology-apps/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public overview of technology options relevant to ADHD support, including text-to-speech, study assistance, organization, focus modes, and productivity tools.

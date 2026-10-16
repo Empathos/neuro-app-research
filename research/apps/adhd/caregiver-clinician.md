@@ -618,3 +618,33 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Family-support app for parents and carers of children with ADHD, autism, and other neurodivergent profiles. Includes AI-guided parenting and wellbeing support plus validated screening questionnaires that can be shared with clinicians or education teams.
+
+### TrueConvos: ADHD & Autism Chat
+
+- URL: https://apps.apple.com/kz/app/trueconvos-adhd-autism-chat/id1545810479
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Peer-support app for ADHD, autism, and AuDHD featuring condition-specific matching, body doubling, mood and situation tags, and interaction modes such as venting, silent support, and problem-solving.
+
+### ADHD Insight
+
+- URL: https://apps.apple.com/us/app/adhd-insight/id1261469835
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Caregiver-focused app for tracking a child's ADHD symptoms, behavioral goals, notes, trends, and reports to support conversations with clinicians and teachers.
+
+### ParentCoach: Designing an mHealth Parenting App to Enhance ADHD Parenting Skills
+
+- URL: https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2025.1694747/full
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Research publication describing a mobile app for parents of children with ADHD, featuring brief lessons, reflection prompts, skill-building activities, and progress tracking.

@@ -698,3 +698,33 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: ADHD-focused self-care app with CBT and DBT techniques, breathing exercises, guided meditations, journaling, routines, and tools supporting stress, anxiety, and emotional regulation.
+
+### ADHD emotional regulation app overview
+
+- URL: https://bondinghealth.com/adhd-emotional-regulation-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Official product documentation describing ADHD-focused guided audio, breathwork, check-ins, interactive reflections, journaling prompts, and support for emotional spikes such as anger, anxiety, and overwhelm.
+
+### Emotions 101 Workbook + Skills Book
+
+- URL: https://neurodivergentinsights.com/emotions/emotions-101-bundle-science-skills/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Workbook and skills resource focused on understanding and working with emotions, including printable emotion-regulation cards usable digitally or on paper.
+
+### Self-Validation for Neurodivergent People
+
+- URL: https://assets.super.so/bc8c3211-2af0-4979-b4b3-cc577bc7efaf/files/84086e45-6be7-4ad0-a532-d1f20dcbca91/Self-Validation-for-Neurodivergent-People-A-Tool-for-Emotional-Regulation_nl_ho.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public PDF tool offering self-validation prompts and practical exercises for emotional regulation among neurodivergent people.
