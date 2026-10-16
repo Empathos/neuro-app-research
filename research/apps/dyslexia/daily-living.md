@@ -208,3 +208,13 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Research platform proposal describing a centralized repository for sharing dyslexia-related data to support collaboration, replication, education, and discovery.
+
+### Apple App Store: Apps That Think Like You Do
+
+- URL: https://apps.apple.com/gw/ipad/story/id1867605202
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Official App Store collection featuring accessibility and productivity apps for dyslexia, autism, and ADHD, including text-to-speech, scanning, reading, writing, and task-management tools.

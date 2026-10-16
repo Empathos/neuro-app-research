@@ -248,3 +248,53 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Pilot evaluation of an augmented-reality game designed to support children with dyslexia through narrative, memory, text, and sequencing activities.
+
+### Yale Dyslexia Educational Apps
+
+- URL: https://www.dyslexia.yale.edu/resources/tools-technology/tech-tips/educational-apps/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Yale Dyslexia resource page reviewing educational apps for learning support, including phonemic-awareness, sight-word, word-pattern, categorization, and early academic activities.
+
+### Tiimo
+
+- URL: https://www.tiimoapp.com/resource-hub/tiimo-raises-4-8m-neurodivergent-planner
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Neuro-inclusive visual planning and learning platform offering customizable routines, specialist educational content, expert advice, and research-backed tools for neurodivergent users, including people with dyslexia.
+
+### Promova Dyslexia Mode
+
+- URL: https://promova.com/press/promova-launches-dyslexia-mode-2-0-and-expands-features-for-neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Language-learning platform with Dyslexia Mode features such as color adjustment, larger text, removal of all-caps text, and optional white noise for neurodivergent learners.
+
+### Dystherapy: Dyslexia Education
+
+- URL: https://apps.apple.com/vn/app/dystherapy-dyslexia-education/id6736656260
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Dyslexia-friendly training app for children and teens that provides flexible reading and writing practice for special-education needs.
+
+### Applexia
+
+- URL: https://play.google.com/store/apps/details?id=com.cogni.applexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Google Play educational app for children with dyslexia, featuring interactive reading, writing, and language exercises with dyslexia-friendly presentation.
