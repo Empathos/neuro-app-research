@@ -788,3 +788,13 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Text-to-speech AAC app for teens and adults with nonspeaking autism, aphasia, or other speech and language disorders, with sentence building and natural-sounding voices.
+
+### Tala: AAC for Autism
+
+- URL: https://apps.apple.com/us/app/tala-aac-for-autism/id6760269821
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Picture-based communication app offering sentence building, natural voices, custom photos and recordings, multilingual support, and shared use across devices.

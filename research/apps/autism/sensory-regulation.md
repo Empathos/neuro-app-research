@@ -758,3 +758,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Public comparison resource covering apps for sensory-support planning, state tracking, check-ins, breathing, calming sounds, and other regulation activities.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/ca/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: App Store listing for a collection of touch-based fidgets, bubble play, soft motion effects, and cause-and-effect sensory activities for autistic and neurodivergent users.

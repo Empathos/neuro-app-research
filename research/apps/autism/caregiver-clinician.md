@@ -438,3 +438,53 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Free provider and family assessment resources, including telehealth autism assessment tasks, caregiver interview templates, and observational tools.
+
+### Access Autism
+
+- URL: https://github.com/access-autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public GitHub organization featuring an Android application intended to help caregivers, families, and clinicians care for autistic children.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/nz/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: App providing neuroaffirming support for families raising neurodivergent children and for neurodivergent adults.
+
+### SenseToKnow
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/40438470/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Caregiver-administered mobile autism-screening app studied for remote use at home, with results compared against expert clinician diagnoses.
+
+### Caregiver-Mediated Autism Intervention App Stakeholder Study
+
+- URL: https://link.springer.com/article/10.1007/s10803-025-06890-0
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Research lead on a planned mHealth intervention based on WHO Caregiver Skills Training, informed by caregiver and clinician needs including psychoeducation, home practice, customization, and wellbeing support.
+
+### TrueConvos: ADHD & Autism Chat
+
+- URL: https://apps.apple.com/ci/app/trueconvos-adhd-autism-chat/id1545810479?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Peer-support chat app connecting people navigating autism, ADHD, or AuDHD with other users who have comparable lived experience.

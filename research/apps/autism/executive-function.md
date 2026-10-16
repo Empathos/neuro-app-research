@@ -868,3 +868,53 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public GitHub repository containing data associated with a systematic review and meta-analysis of executive function in children with neurodevelopmental conditions.
+
+### GoblinX - AI focus & habits
+
+- URL: https://apps.apple.com/by/app/goblinx-ai-focus-habits/id6462700951
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: iOS app for neurodivergent users with tools for daily organization, planning, focus, habit tracking, mood tracking, and support for ADHD-related challenges.
+
+### Stress Autism Mate (SAM) user-experience study
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/21642850.2026.2684373
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Study of a free, non-profit SAM app for autistic adults, including reported features and evidence on stress-management support.
+
+### Molehill Mountain feasibility study
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1002/aur.70153
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Public iOS and Android anxiety-management app designed with and for autistic people; feasibility research reported reduced anxiety symptoms.
+
+### Toward an autism-friendly environment based on mobile applications
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10495947/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open-access study analyzing user feedback from 13 autism-related apps and their use for daily organization, communication, education, and sensory support.
+
+### Content and Quality Analysis of Parent-Facing Applications
+
+- URL: https://arxiv.org/pdf/2505.01520v1
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open research paper assessing publicly available parent-facing autism applications, including app examples such as Autistapp and Caring.
