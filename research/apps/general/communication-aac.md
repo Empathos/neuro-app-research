@@ -828,3 +828,23 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Apple App Store collection featuring AAC and communication apps including Proloquo, Leeloo AAC, and Spoken.
+
+### OpenSpeak AAC on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.openspeak.aac&hl=en
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Android AAC app designed for children and individuals with autism, speech delays, apraxia, and communication disorders.
+
+### AAC Tools
+
+- URL: https://github.com/AACTools
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: GitHub organization developing software solutions that integrate with existing AAC technology.

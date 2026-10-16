@@ -418,3 +418,23 @@
 - Query: accessibility mood tracking mobile app
 - Found: 2026-08-08
 - Description: An expense tracking mobile app built in Flutter to know why you're broke. For ND individuals who get overwhelmed dealing with finances.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/us/app/calm-steps/id6755076182
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Emotional-regulation and behavioral-support app for children ages 412, including children with ADHD, autism, and sensory needs. Offers emotion identification and personalized coping strategies.
+
+### SocialBlossom: Autism & ADHD
+
+- URL: https://apps.apple.com/us/app/socialblossom-autism-adhd/id6751892255
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Child-focused app using play, stories, and daily practice to support emotion understanding, social skills, and calm for children with autism, ADHD, speech delays, or sensory differences.

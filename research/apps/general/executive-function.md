@@ -568,3 +568,53 @@
 - Query: general executive-function neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: An iPhone planner for neurodivergent users that uses AI to split tasks and support planning and follow-through.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/us/app/brimming-adhd/id6469721652
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: iPhone app designed for ADHD executive dysfunction and neurodivergent users, with support for task initiation, overwhelm, time blindness, avoidance, burnout, and decision fatigue.
+
+### ADHD Planner Organizer: Weel
+
+- URL: https://apps.apple.com/au/app/adhd-planner-organizer-weel/id1560704848
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Visual planner for iPhone, iPad, Apple Watch, Mac, and Apple Vision that presents the day as a circular 24-hour watchface, targeting time blindness and neurodivergent scheduling needs.
+
+### The ADHD Hero
+
+- URL: https://www.heephong.org/eng/tools-and-resources/publications/mobile-app/14317
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Publicly documented ADHD support app from Heep Hong Society, available through the Apple App Store.
+
+### Daily Focus Board
+
+- URL: https://awesome-copilot.github.com/skill/daily-focus-board/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Browser-based AI-assisted focus board with brain dump, focus mode, reduced motion, gentle deadline countdowns, non-shaming task carryover, and prioritization features designed for executive-function support.
+
+### Task Breakdown Agent Skill
+
+- URL: https://github.com/jwynia/agent-skills
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-16
+- Description: Open-source agent skill for breaking overwhelming tasks into concrete, manageable steps using neurodivergent-affirming external scaffolding.

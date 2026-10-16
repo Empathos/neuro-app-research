@@ -338,3 +338,43 @@
 - Query: neurodivergent independence directory
 - Found: 2026-07-01
 - Description: Official national organization with local chapters offering training programs for life and job skills to support independence for autistic and neurodivergent adults.
+
+### Sarya
+
+- URL: https://thesarya.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Visual routine and activities-of-daily-living app for autistic, ADHD, and neurodivergent children, with visual cards, voice prompts, and rewards.
+
+### Visual Schedule Daily Routine
+
+- URL: https://apps.apple.com/us/app/visual-schedule-daily-routine/id1508150689
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Picture-based daily schedules, icons, and timers intended to help children and families understand and follow routines.
+
+### Pictalk Buddy
+
+- URL: https://apps.apple.com/hk/app/pictalk-buddy-autism-routine/id6502835578?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Offline visual schedule and routine planner using pictograms, timers, audio reminders, and smartwatch support for autistic and ADHD users.
+
+### meinsystem Daily Flow
+
+- URL: https://meinsystem.app/en/features/daily-flow
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Daily structure tool that combines routines, appointments, and tasks into one ordered view designed for neurodivergent users.
