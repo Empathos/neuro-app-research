@@ -448,3 +448,13 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public compilation of neurodivergence-focused apps, including mood tracking and journaling tools designed to record emotional states and identify thought patterns.
+
+### Thruday Visual Daily Planner
+
+- URL: https://apps.apple.com/de/app/thruday-visual-daily-planner/id1645552771?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Visual planner for ADHD and autism with routines, reminders, mood tracking, breathing tools, energy and overwhelm planning, emotional-pattern tracking, and carer or family support.

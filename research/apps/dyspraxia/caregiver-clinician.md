@@ -438,3 +438,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public resource list of neurodivergence-support apps including Goblin Tools, Habitica, Alarmy, Hiki, and Melo, with relevance to executive function, routines, community, and occupational-therapy-informed support.
+
+### Spark & Anvil Neurodivergent Support
+
+- URL: https://sparkanvil.org/neurodivergent/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Public catalog of apps using neurodivergent-supportive design patterns such as sensory overrides, focus scaffolds, predictable flows, co-regulation, and therapist observer features.[4]
