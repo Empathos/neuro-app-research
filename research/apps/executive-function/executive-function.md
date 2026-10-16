@@ -508,3 +508,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: An open-access collection of practical executive-function tools, including planning, email triage, routines, cognitive-support quizzes, and printable resources.
+
+### MapHabit
+
+- URL: https://www.maphabit.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Visual, step-by-step cognitive support platform for routines and daily activities, designed for autism, intellectual and developmental disabilities, and related needs.

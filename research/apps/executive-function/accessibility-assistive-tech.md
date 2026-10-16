@@ -418,3 +418,23 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: An educational reference covering tools such as iSelfControl, myHomework, and iStudiezpro for self-regulation, assignment tracking, scheduling, and executive-function support.
+
+### Tiimo: Daily AI Planner, To Do
+
+- URL: https://apps.apple.com/gr/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Official App Store listing for Tiimo, including AI-assisted task planning and prioritization for reducing cognitive load.
+
+### Assistive Technology Applications
+
+- URL: https://my.willamette.edu/site/accessibility/resources/assistive-technology-applications
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-16
+- Description: Accessibility resource directory covering executive-function supports across mind mapping, study aids, organization, task management, time management, distraction reduction, and relaxation.
