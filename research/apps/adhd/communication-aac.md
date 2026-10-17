@@ -789,3 +789,13 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Public ADHD support resource page linking to an open-source AI skill/plugin designed to provide action-first answers, numbered steps, and fewer tangents.
+
+### Autism Apps README
+
+- URL: https://github.com/yeager/autismapps/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Repository documentation describing 72 offline-capable AAC and learning tools, including Talk Board, Conversation Aid, Phrase Builder, Point Talk, and Focus Buddy.[3]

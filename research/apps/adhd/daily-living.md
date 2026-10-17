@@ -608,3 +608,53 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: iPad planner built around ADHD-friendly templates intended to support daily organization, reduce chaos, and provide flexible structure.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/bg/app/tiimo-daily-to-do-list/id1480220328?platform=ipad
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Neurodivergent-friendly visual planner with AI planning, routines, color-coded schedules, focus timers, and calendar/reminder synchronization.
+
+### Addison: What's Your Next Move
+
+- URL: https://apps.apple.com/au/app/addison-whats-your-next-move/id6751917243
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: ADHD-oriented task manager combining daily planning, focus timing, task initiation support, and gentle accountability.
+
+### Tempus: ADHD Planner & Focus
+
+- URL: https://apps.apple.com/xk/app/tempus-adhd-planner-focus/id6751440902
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Daily planner for ADHD users featuring timelines, routine tracking, app blocking, forgiving streaks, and voice-based planning.
+
+### Neurodivergent Resources
+
+- URL: https://github.com/brianamarie/neurodivergent-resources
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public GitHub repository collecting resources for neurodivergent people; useful as a research lead for community-curated support tools and information.
+
+### Regular for ADHD
+
+- URL: https://apps.apple.com/us/app/regular-for-adhd/id6803107690
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Self-regulation and routine app supporting meals, hydration, rest, widgets, and Apple Watch use; designed for AuDHD users.
