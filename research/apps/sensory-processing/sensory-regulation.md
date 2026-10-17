@@ -508,3 +508,23 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: iPhone sensory-regulation tool using haptic grounding, interactive visuals, and soundscapes for autistic and ADHD users.
+
+### Sensory Tracker
+
+- URL: https://www.sensorytracker.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Voice-powered sensory tracking app for recording sensory experiences, identifying triggers, and logging regulation strategies for autism, sensory processing needs, and ADHD.
+
+### autismapps Repository
+
+- URL: https://github.com/yeager/autismapps/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Public repository cataloging autism-support apps, including energy tracking and guided sensory-break tools.

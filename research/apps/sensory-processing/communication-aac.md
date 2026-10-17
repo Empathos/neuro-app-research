@@ -628,3 +628,23 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Public service listing describing sensory-friendly options including adjustable visuals, high contrast, font sizing, tile customization, and reduced visual overload.
+
+### sensory_ai_project
+
+- URL: https://github.com/jenniferopal/sensory_ai_project
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public GitHub repository for a microservices platform focused on real-time processing and analysis of sensory data, offering a technical lead for sensory-processing research.[3]
+
+### Fraser Sensory App
+
+- URL: https://fraser.org/sensoryapp
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Sensory-processing support app with personalized sensory and communication profiles, sensory-friendly locations, accessibility guides, social narratives, and visual schedules.

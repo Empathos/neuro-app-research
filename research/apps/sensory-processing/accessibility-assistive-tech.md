@@ -328,3 +328,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Windows text-to-speech accessibility app that reads webpages, documents, PDFs, emails, screen text, and text within images aloud.
+
+### Neurodiverge App  Sensory Diet
+
+- URL: https://neurodiverge.app/sensory-diet
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public guide and planning tool for structured sensory input, environmental accommodations, noise reduction, visual adjustments, recovery time, and sensory regulation.
+
+### IBCCES Sensory Guides and Accessibility App
+
+- URL: https://ibcces.org/sensory-guides/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Sensory guides describe how venues and activities may affect sight, sound, touch, smell, and other sensory inputs, helping neurodivergent visitors plan ahead.

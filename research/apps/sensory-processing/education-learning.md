@@ -698,3 +698,13 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Public directory featuring platforms for neurodivergent support, cognitive and socio-emotional learning, classroom guidance, and sensory-processing interventions.
+
+### OT Sensory Screener
+
+- URL: https://apps.apple.com/us/app/ot-sensory-screener/id6481703571
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Pre-referral screening tool for teachers and therapists that links observable behaviors to sensory-processing information and practical classroom participation strategies.
