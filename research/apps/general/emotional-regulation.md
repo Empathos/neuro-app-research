@@ -438,3 +438,63 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Child-focused app using play, stories, and daily practice to support emotion understanding, social skills, and calm for children with autism, ADHD, speech delays, or sensory differences.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/us/app/calm-steps/id6755076182?l=vi
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Emotional-regulation and behavioral-support app for children ages 412, including neurodivergent children with ADHD, autism, and sensory needs.
+
+### Thriive
+
+- URL: https://thriivemind.com/learn/strategies/emotional-regulation/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Support app for ADHD and autistic users featuring pattern tracking, emotional-regulation strategies, visual routines, daily check-ins, and caregiver-oriented tools.
+
+### Low Tide Calm
+
+- URL: https://www.lowtidecalm.ie/l/i-built-a-free-app-for-adhd-autistic-and-neurodivergent-people-heres-why/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Free nervous-system regulation app built for ADHD, autistic, and broadly neurodivergent people experiencing sensory overwhelm, burnout, anxiety, or transition difficulty.
+
+### GitHub Emotional Regulation Topic
+
+- URL: https://github.com/topics/emotional-regulation
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public repository index containing emotional-regulation projects, including an autism-focused app with a body-state traffic light, emergency button, and guided breathing.
+
+### IncluRegulate
+
+- URL: https://inclushift.com/regulate
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Self-regulation and social-emotional-learning toolkit for neurodivergent learners, available on iOS, Android, and the web, with breathing protocols and research-informed social-skills support.
+
+### How We Feel
+
+- URL: https://www.howwefeel.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Visual mood-journaling app that helps users label emotions through an energy-and-pleasantness framework and access brief coping-strategy videos.

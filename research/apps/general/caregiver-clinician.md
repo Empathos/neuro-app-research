@@ -448,3 +448,43 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Marketplace listing for Attend Behavior, a mobile caregiver-training platform based on the RUBI Parent Training Program with clinician oversight and optional coaching.
+
+### Neuro Buddy
+
+- URL: https://play.google.com/store/apps/details?id=com.base69b6ac261ac8e0da2743c35a.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Android app for parents, caregivers, professionals, and adults supporting or living with ADHD, autism, or AuDHD.
+
+### Qrkiez
+
+- URL: https://www.linkedin.com/posts/qrkiez_neurodiversity-neurodivergent-autismcommunity-activity-7450592659905118208-29cb
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Family and professional support app concept connecting neurodivergent individuals, caregivers, and affirming professionals through discovery calls, community groups, and resources.
+
+### My Virtual Carer
+
+- URL: https://myvirtualcarer.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Shared care-management platform connecting families, professional carers, and care agencies, including support for neurodivergent young adults living more independently.
+
+### Coralis Health
+
+- URL: https://www.f6s.com/software/category/special-needs-healthcare
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Special-needs healthcare platform described as connecting neurodivergent individuals and caregivers with developmental-behavioral pediatricians, therapists, evaluations, coordinated care, and patient/provider applications.

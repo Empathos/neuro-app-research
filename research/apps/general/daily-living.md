@@ -378,3 +378,33 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Daily structure tool that combines routines, appointments, and tasks into one ordered view designed for neurodivergent users.
+
+### NHS Dorset Self-Care and Wellbeing
+
+- URL: https://nhsdorset.nhs.uk/neurodiversity/living/self/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Guidance on planning and everyday activities for neurodivergent people, including app-based tools and routine-support approaches.
+
+### HelpGuide: Being Neurodivergent
+
+- URL: https://www.helpguide.org/mental-health/wellbeing/being-neurodivergent
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Practical overview of assistive tools for daily tasks, including calendars, reminders, checklists, sensory supports, and speech or text accessibility tools.
+
+### Mental Health UK: Neurodiversity and Mental Health
+
+- URL: https://mentalhealth-uk.org/help-and-information/neurodiversity-and-mental-health/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public guidance covering routines, task breakdown, timers, sensory strategies, planning, and environmental adjustments that can inform daily-living support research.
