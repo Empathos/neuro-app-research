@@ -478,3 +478,73 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Public overview of technology options relevant to ADHD support, including text-to-speech, study assistance, organization, focus modes, and productivity tools.
+
+### ADHD App  NHS Scotland
+
+- URL: https://www.rightdecisions.scot.nhs.uk/myapp-my-mental-health/adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public NHS Scotland ADHD app resource for people diagnosed with ADHD or exploring possible ADHD, featuring practical strategies and lived-experience-informed suggestions.
+
+### ADHD-Friendly GitHub Topic
+
+- URL: https://github.com/topics/adhd-friendly?l=python&o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Repository collection featuring AI-powered assistive technology for neurodivergent people, focus tools, visual task planners, bionic-reading utilities, and haptic-feedback experiments.
+
+### VurtuoLabs ADHD Skills
+
+- URL: https://github.com/VurtuoLabs/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Open-source Claude Code skills and tools designed to reduce cognitive load for developers with ADHD through readable context and structured workflows.
+
+### ADive: ADHD + Productivity
+
+- URL: https://apps.apple.com/us/app/adive-adhd-productivity/id6751934607
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: iPad productivity app offering ADHD-oriented focus, planning, time-management, distraction-reduction, and habit-building tools.
+
+### The Best Accessible Apps and Games
+
+- URL: https://apps.apple.com/us/story/id1800311573
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Apple editorial collection featuring accessibility-focused apps, including Endel, Focus Friend, Tiimo, Structured, and Opal, with ADHD-oriented focus, routines, planning, and screen-time tools.
+
+### MyADHD
+
+- URL: https://apps.apple.com/au/app/myadhd/id6753119682
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: iPhone productivity app designed for ADHD users with focus timers, task management, body doubling, RSD support, and analytics.
+
+### Super Productivity
+
+- URL: https://apps.apple.com/au/app/super-productivity/id1482572463
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Open-source-oriented productivity and time-management app available on iOS, presented as supporting ADHD and non-ADHD users through structured task and workflow tools.

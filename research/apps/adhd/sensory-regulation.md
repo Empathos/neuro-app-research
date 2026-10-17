@@ -758,3 +758,13 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-13
 - Description: Public guide collection covering sensory processing, sensory overload, sensory diets, and regulation approaches for neurodivergent adults and families.
+
+### SensyCues
+
+- URL: https://www.sensorygift.com/apps/sensycues/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Local-first sensory-support app for discovering regulation strategies, creating reusable support plans, logging outcomes, and noticing patterns; designed for ADHD, autism, sensory differences, and executive-function challenges.

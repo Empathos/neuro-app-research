@@ -728,3 +728,73 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Public PDF tool offering self-validation prompts and practical exercises for emotional regulation among neurodivergent people.
+
+### ADHD Tracker
+
+- URL: https://apps.apple.com/us/app/adhd-tracker/id6478482276
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Tracks ADHD symptoms, mood, medication, emotional dysregulation, rejection sensitivity, sensory overwhelm, and related lifestyle factors.
+
+### Felt: Rejection Sensitivity
+
+- URL: https://apps.apple.com/jp/app/felt-rejection-sensitivity/id6768108885?l=en-US&platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Tracks rejection-sensitivity episodes, triggers, intensity, physical symptoms, duration, recovery notes, coping scripts, and related emotional patterns for ADHD and autistic adults.
+
+### Bearable - ADHD Tracker
+
+- URL: https://play.google.com/store/apps/details?id=com.bearable&listing=adhd-symptom-tracker-app&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Customizable health and ADHD tracker for mood swings, irritability, emotions, stress, anxiety, sleep, medication, and other symptoms.
+
+### Numo: ADHD Focus & Wellbeing
+
+- URL: https://play.google.com/store/apps/details/Numo_ADHD_App_for_Adults?id=io.mindist.well&hl=en_ZA
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Provides ADHD peer support, community features, behavior and mood tracking, memory and focus support, and tools for task paralysis.
+
+### Kuddos: Mental Health Support
+
+- URL: https://apps.apple.com/us/app/kuddos-mental-health-support/id6503298379
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Offers mood tracking, journaling, trigger reflection, anxiety and stress coping, ADHD focus support, sleep routines, and peer support.
+
+### Thruday
+
+- URL: https://thruday.com/product/mood-tracking
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Visual mood-tracking app for ADHD and neurodivergent users, combining emotion and thought logging with mood journaling, plans, and routines.
+
+### AutiPocket
+
+- URL: https://apps.apple.com/ci/app/autipocket/id6749908426?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Neurodivergent-support app offering private one-to-one human help, soothing games, breathing resources, and emotional-regulation videos for overwhelming situations.
