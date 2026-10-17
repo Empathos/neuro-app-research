@@ -138,3 +138,13 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: GitHub topic directory listing public repositories related to dyslexia support, including tutoring and learning-support projects.
+
+### MindSpeech
+
+- URL: https://github.com/DiniMuhd7/MindSpeech
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Open-source text-to-speech app that reads text, PDFs, webpages, and ebooks aloud for users with dyslexia and other reading difficulties.

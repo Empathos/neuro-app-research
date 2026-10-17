@@ -308,3 +308,33 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Comprehensive review covering mobile apps, audiobooks, augmented and virtual reality, haptic interfaces, computer applications, and natural-language technologies.
+
+### Dlexia
+
+- URL: https://app.dlexia.app/es/login
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Web-based cognitive-accessibility platform reported as supporting text adaptation for people with dyslexia through personalized, AI-assisted reading accommodations.
+
+### DysEggxia
+
+- URL: https://www.dyseggxia.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Gamified multisensory learning app designed around error-based exercises for children with dyslexia.
+
+### Dyslexeasy
+
+- URL: https://dyslexeasy.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Reading-support application associated with research on improving readability through extracted summaries for dyslexic users.

@@ -258,3 +258,23 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Private, on-device dictation and voice tool designed for users with dyslexia, dysgraphia, ADHD, and autism, including text-to-speech support.
+
+### DYPA: Dyslexia Prescreening Mobile Application
+
+- URL: https://repository.eduhk.hk/en/publications/dypa-a-machine-learning-dyslexia-prescreening-mobile-application-/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Research lead for a machine-learning mobile application that prescreens Chinese children using interactive reading and writing assessments and cognitive-linguistic data.
+
+### NeuroReader
+
+- URL: https://testflight.apple.com/join/YaDQ2AWT
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: iOS beta reading-support app for neurodivergent readers, including people with dyslexia; features guided reading, text-to-speech, overlays, spacing controls, reading rulers, and customizable reading assistance.

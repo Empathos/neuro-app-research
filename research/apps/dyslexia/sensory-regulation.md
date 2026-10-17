@@ -248,3 +248,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Public repository directory featuring dyslexia-oriented tools such as readable-font extensions, text-to-speech utilities, reading rulers, PDF readers, and local voice applications.
+
+### Dyslexia Reading Companion
+
+- URL: https://gokhanoguz.github.io/reading-companion/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Offline-first reading companion with adjustable typography, spacing, themes, highlighting, read-aloud support, fluency practice, comprehension activities, and private progress tracking.
+
+### DyslexHelp
+
+- URL: https://github.com/smishy05/dyslexhelp
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Educational application for children with dyslexia featuring word listening, spelling practice, handwritten-text exercises, and tutorials for commonly confused sounds and letter groups.

@@ -298,3 +298,13 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Google Play educational app for children with dyslexia, featuring interactive reading, writing, and language exercises with dyslexia-friendly presentation.
+
+### Prosodiya Dyslexia App Research
+
+- URL: https://future-education.uni-graz.at/en/research-cluster/forschungscluster-bildungstechnologien/prosodiya/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: University research project describing a game-based app that trains syllable stress and spelling, including a randomized field study with 116 elementary-school children.
