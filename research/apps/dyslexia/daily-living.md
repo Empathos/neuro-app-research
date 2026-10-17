@@ -218,3 +218,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Official App Store collection featuring accessibility and productivity apps for dyslexia, autism, and ADHD, including text-to-speech, scanning, reading, writing, and task-management tools.
+
+### Dyslexia Learning Platform
+
+- URL: https://github.com/AmieNguyen25/dyslexia-learning
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Open-source AI-assisted learning platform with dyslexia-friendly typography, text-to-speech, customizable spacing and colors, adaptive learning paths, and adjustable reading speed.
+
+### A11yKit Accessibility
+
+- URL: https://wordpress.org/plugins/a11ykit-accessibility/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: WordPress accessibility plugin providing reading and dyslexia tools such as a focus-line reading guide and OpenDyslexic font support.

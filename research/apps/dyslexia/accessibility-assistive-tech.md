@@ -178,3 +178,63 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Repository directory featuring accessibility widgets with options such as dyslexia-friendly fonts, reading masks, contrast controls, and read-aloud highlighting.
+
+### Helperbird
+
+- URL: https://apps.apple.com/in/app/helperbird/id1589138053
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Accessibility app with dyslexia support, voice typing, text-to-speech, immersive reading, and reading-mode controls.
+
+### Dyslexia Font: OpenDyslexic
+
+- URL: https://apps.apple.com/us/app/dyslexia-font-opendyslexic/id1510565499
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: iPhone and iPad reading tool with OpenDyslexic font, OCR scanning, PDF import, and a reading ruler.
+
+### Dolphin EasyReader
+
+- URL: https://apps.apple.com/in/app/dolphin-easyreader/id1161662515
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Accessible reading app for dyslexia and visual impairment with adjustable text, colors, highlighting, and text-to-speech.
+
+### Read Eazy for Dyslexia
+
+- URL: https://play.google.com/store/apps/details?id=org.readeazy.ugmqub
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: AI-powered academic support app for reading, writing, and comprehension, including OpenDyslexic font, adjustable text size, and dark mode.
+
+### Dyslexia Reader
+
+- URL: https://apps.apple.com/gb/app/dyslexia-reader/id6502403442
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Customizable reading tool offering text-to-speech, highlighting, font and color controls, adjustable spacing, and automatic reading.
+
+### Assistive Technology  Nelms Dyslexia Center
+
+- URL: https://www.nelmsdc.org/assistive-technology
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Public resource page cataloging tools for dyslexia-related reading, writing, scanning, note-taking, OCR, speech, and transcription support.
