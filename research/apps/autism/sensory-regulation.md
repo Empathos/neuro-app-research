@@ -768,3 +768,33 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: App Store listing for a collection of touch-based fidgets, bubble play, soft motion effects, and cause-and-effect sensory activities for autistic and neurodivergent users.
+
+### AutismDock
+
+- URL: https://play.google.com/store/apps/details?id=com.autismdock.app&hl=en
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: A daily autism-support app with emotion identification, calming and breathing exercises, self-regulation tools, and mood, sleep, energy, and sensory-trigger tracking.
+
+### Autism Sensory Canvas
+
+- URL: https://play.google.com/store/apps/details?id=com.missingstep.sensorycanvas
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: A low-complexity calming visual app designed for quiet time, sensory-overload management, and bedtime routines without intrusive rewards or complicated levels.
+
+### Autism Sensory Games & Toys
+
+- URL: https://apps.apple.com/us/app/autism-sensory-games-toys/id1561581241
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: iPad app offering sensory-oriented games and activities for autism-related sensory engagement.

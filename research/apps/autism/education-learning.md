@@ -918,3 +918,23 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Distraction-free, offline reading app using structured, research-backed phonics lessons designed for children with autism or ADHD.
+
+### Autism Education GitHub Topic
+
+- URL: https://github.com/topics/autism-education
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public repository index containing autism-education projects, including parent-support chatbot implementations.
+
+### ELS Autism
+
+- URL: https://apps.apple.com/in/app/els-autism-aba-therapy/id6502673666?platform=vision
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: App for autistic and neurodivergent children using social narratives, picture schedules, visual timers, token boards, and first-then charts to support social and daily-living skills.[10]
