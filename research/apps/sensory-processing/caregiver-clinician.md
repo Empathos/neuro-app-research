@@ -458,3 +458,23 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: University of Plymouth research repository record for a dataset concerning sensory processing sensitivity and central sensitisation.
+
+### Sensory Integration & Processing
+
+- URL: https://www.aota.org/practice/clinical-topics/sensory-integration-and-processing
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Official American Occupational Therapy Association clinical resource describing occupational-therapy support for sensory-processing challenges and collaboration with clients, caregivers, educators, and other professionals.
+
+### SensyCues Sensory Support App
+
+- URL: https://www.sensorygift.com/apps/sensycues/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Sensory-support app for neurodivergent people, caregivers, educators, and support professionals that provides regulation supports, reusable plans, response tracking, pattern review, offline use, and local-first data handling.

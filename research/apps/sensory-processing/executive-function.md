@@ -558,3 +558,53 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Accessibility-focused productivity platform for neurodivergent STEM learners and professionals, featuring task decomposition, adaptive routines, sensory-friendly focus mode, and reduced visual clutter.
+
+### BeatBop: Interactive Metronome
+
+- URL: https://play.google.com/store/apps/details?id=co.biliby.beatbop&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Google Play app using rhythmic activities to support timing, coordination, attention, self-regulation, sensory processing, and executive-function challenges.
+
+### Neurospicy Meter
+
+- URL: https://apps.apple.com/za/app/neurospicy-meter/id6769215126
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: App Store self-exploration tool covering sensory processing, focus and time, emotional regulation, learning style, and executive function.
+
+### Free Neurodivergent Test
+
+- URL: https://neurodiverge.app/neurodivergent-test
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Thirty-question adult self-screen spanning autism, ADHD, dyspraxia, dyslexia, sensory processing, and tic-related traits, including executive-function dimensions.
+
+### BeatBop: Interactive Metronome
+
+- URL: https://apps.apple.com/us/app/beatbop-interactive-metronome/id6753838813
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Interactive rhythm app for neurodivergent children and teens, targeting focus, coordination, attention, self-regulation, motor planning, and sensory processing.
+
+### Athena-Public
+
+- URL: https://github.com/winstonkoh87/Athena-Public
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Open-source repository whose architecture models sensory processing, attention gating, executive function, and response selection in an AI search system.

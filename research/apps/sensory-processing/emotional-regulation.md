@@ -438,3 +438,23 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: A public research dataset containing EEG recordings and behavioral data from an emotion-processing and regulation task.
+
+### Animus
+
+- URL: https://github.com/animusuno
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public GitHub organization describing a sensory relay and refinement system with intelligent filtering and routing of incoming data.[9]
+
+### Neurodivergent Therapy and Sensory Regulation Guidance
+
+- URL: https://neurodiverge.app/neurodivergent/therapy
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public resource discussing sensory-processing support, nervous-system regulation, somatic approaches, and occupational-therapy-informed accommodations.[5]
