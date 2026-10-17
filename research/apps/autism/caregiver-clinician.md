@@ -488,3 +488,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Peer-support chat app connecting people navigating autism, ADHD, or AuDHD with other users who have comparable lived experience.
+
+### SenseToKnow mobile autism screening app
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12107789/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Research-backed smartphone and tablet app that enables caregivers to conduct remote autism screening at home using computer vision and machine learning.
+
+### Canvas Dx caregiver-clinician diagnostic workflow
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12543035/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Research on an AI-based autism evaluation workflow in which caregivers complete questionnaires and videos through a mobile app while clinicians and trained analysts review results.
+
+### Cognoa ASD Diagnosis Aid research protocol
+
+- URL: https://cdn.clinicaltrials.gov/large-docs/90/NCT04151290/Prot_SAP_000.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public clinical-trial protocol describing a caregiver-facing research app for developmental assessments and child video capture, paired with a video analyst portal and clinician diagnostic support.

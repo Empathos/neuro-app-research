@@ -498,3 +498,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: A free mobile application for pre-teens, teenagers, and adults that combines pictograms, relaxation resources, an emotions diary, accessible autism information, and a services marketplace.
+
+### AutSPACEs
+
+- URL: https://github.com/alan-turing-institute/AutSPACEs
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Open-source citizen-science platform focused on autistic peoples experiences and accessible research participation.
+
+### NECC Assistive Technology App Information
+
+- URL: https://necc.edu/academics/academic-support-services/center-for-accessibility-resources-services/getting-started-center-for-accessibility-resources-and-services/assistive-technology/app-information-for-android-and-ios-devices/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Resource guide to Android and iOS accessibility features and AAC applications supporting autistic and non-speaking users.
+
+### AAC Messenger
+
+- URL: https://apps.apple.com/ru/app/aac-messenger/id6747913083?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: An iOS AAC app intended to support nonverbal communication for people with autism and other speech impairments.
+
+### Autism Speech and Language
+
+- URL: https://apps.apple.com/us/app/autism-speech-and-language/id6466824871?l=ko&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: An iOS speech and language support app for autistic users, including gestalt-language guidance and sensory modifications.

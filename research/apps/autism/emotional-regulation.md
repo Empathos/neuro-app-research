@@ -568,3 +568,83 @@
 - Query: autism emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: Childrens emotional-regulation and mindfulness game using breathing, meditation, emotional-learning activities, and coping skills, including for children with autism or ADHD.
+
+### AutiPocket
+
+- URL: https://apps.apple.com/us/app/autipocket/id6749908426
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Support app for neurodivergent people offering private one-to-one helper chat, soothing games, breathing techniques, and emotional-regulation videos.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/us/app/animi-emotional-intelligence/id6443638345
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Emotion-coaching app focused on alexithymia and emotional awareness, including emotion vocabulary, journaling prompts, breathing exercises, pattern tracking, and communication support.
+
+### Brain in Hand
+
+- URL: https://mwm.ai/apps/brain-in-hand/607805378
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Neurodivergence support platform combining digital tools, mood reflection, overwhelm and anxiety support, specialist coaching, and on-demand human assistance for autistic and ADHD users.
+
+### Autism Therapies
+
+- URL: https://apps.apple.com/us/app/autism-therapies/id6762062651
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: App offering autism-friendly activities and resources related to sensory needs, emotional regulation, calming, communication, social connection, and daily living.[2]
+
+### Autism Toolbox - Behavior
+
+- URL: https://apps.apple.com/my/app/autism-toolbox-behavior/id1057460578
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Behavior-support app for parents and professionals covering anxiety, meltdowns, self-regulation, repetitive behavior, safety, and customized intervention strategies.[5]
+
+### ParentPath Autism AI Assistant
+
+- URL: https://play.google.com/store/apps/details?id=hr.domore.parentpath&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Chat-style autism support app for caregivers addressing meltdowns, sensory needs, transitions, routines, stimming, and regulation strategies.[6]
+
+### Gentle Ally: PDA Parent Helper
+
+- URL: https://apps.apple.com/ca/app/gentle-ally-pda-parent-helper/id6755533920
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: AI-assisted caregiver app that reframes demands into lower-demand, choice-oriented communication for autistic, ADHD, PDA, and other neurodivergent profiles.[7]
+
+### AutismPro
+
+- URL: https://play.google.com/store/apps/details?id=com.autism.pro
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Support app with an overload mode, guided short breaks, AAC communication, routines, timers, checklists, and low-effort planning for autistic children, teens, and adults.[8]
