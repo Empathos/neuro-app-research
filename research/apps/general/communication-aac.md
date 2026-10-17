@@ -848,3 +848,73 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: GitHub organization developing software solutions that integrate with existing AAC technology.
+
+### Fluent AAC: Communication App
+
+- URL: https://apps.apple.com/us/app/fluent-aac-communication-app/id1489807378?platform=iphone
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: AAC app for children and adults who have difficulty using natural speech, including people with autism, apraxia, ALS, Down syndrome, or stroke-related communication needs.
+
+### TouchChat Discover
+
+- URL: https://apps.apple.com/us/app/touchchat-discover/id427022529?platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Trial version of TouchChat, a full-featured AAC solution for people with autism and other conditions affecting natural speech.
+
+### TD Snap
+
+- URL: https://apps.apple.com/ie/app/td-snap/id1072799231?platform=iphone
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Flexible AAC communication software from Tobii Dynavox with symbol-supported and text-based page sets for autism, cerebral palsy, aphasia, and other speech and language disabilities.
+
+### Speak for Yourself
+
+- URL: https://apps.apple.com/gb/app/speak-for-yourself/id482508198
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: AAC app developed by speech-language pathologists using a word-based vocabulary, motor-learning principles, and access to thousands of words and symbols.
+
+### Communication for All
+
+- URL: https://apps.apple.com/us/story/id1675956900
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Apple App Store feature highlighting an AAC app with a color-coded interface intended to support people who have difficulty speaking or being understood.
+
+### Proloquo
+
+- URL: https://apps.apple.com/us/app/proloquo/id1521978238
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: AAC app for iPhone and iPad with symbol-based communication, related words, a keyboard, and word prediction.
+
+### Big Text
+
+- URL: https://apps.apple.com/us/app/big-text/id1517801432
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Communication aid that displays large text for noisy environments, face coverings, and users with visual or hearing-related access needs.

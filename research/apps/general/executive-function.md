@@ -618,3 +618,23 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Open-source agent skill for breaking overwhelming tasks into concrete, manageable steps using neurodivergent-affirming external scaffolding.
+
+### GitLab ADHD Projects
+
+- URL: https://gitlab.com/explore/projects/topics/adhd
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public GitLab project directory with ADHD-oriented tools such as AI task breakdown, calendar scheduling, Pomodoro focus timers, body-doubling tools, and executive-function systems.
+
+### NeuroType Executive Function Guides
+
+- URL: https://neurotype.app/guides
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public neurodivergence resource covering executive-function and ADHD traits including starting, switching, planning, time management, working memory, and finishing tasks.

@@ -498,3 +498,53 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Collection of classroom materials, research sheets, posters, guidance, and inclusion-focused resources for teachers, parents, and learners.
+
+### Neurodiversity Hub Resources
+
+- URL: https://neurodiversityhub.online/sources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Public resource collection featuring OpenLearn materials, teaching resources, inclusive-learning guidance, downloadable checklists, templates, and educator materials.
+
+### Neurodiversity Resources  Northern Virginia Community College
+
+- URL: https://libguides.nvcc.edu/neurodiversity/resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Higher-education resource guide covering autistic-student support, inclusive assignment design, Transparency in Learning and Teaching, and neurodiversity-focused educational frameworks.
+
+### Change One Thing Repository
+
+- URL: https://library.griffith.ie/lecturer-support/change-one-thing-repository/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Collection of practical resources for improving teaching practices for neurodiverse learners, including screening and classroom-support resources.
+
+### Neurodiversity Learning Hub
+
+- URL: https://www.neurodiversity.org.nz/learning-hub
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Public learning hub featuring Capiche, a writing-support tool intended for students with dyslexia and others who find writing difficult.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/us/app/autism-adhd-games/id6757896431
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: App Store learning and calming game app for autistic and ADHD learners, with activities covering sensory play, speech, communication, focus, emotions, fine-motor skills, and learning.

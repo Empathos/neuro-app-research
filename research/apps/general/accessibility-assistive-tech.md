@@ -548,3 +548,53 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: A documented app-development project focused on text simplification and digital accessibility for neurodivergent users.
+
+### P31 Labs Assistive Technology
+
+- URL: https://phosphorus31.org/donate/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public open-source assistive-technology initiative for neurodivergent families, featuring projects such as Spaceship Earth, a regulation and executive-function toolkit. Source code is published through the organizations public GitHub repositories.
+
+### P31 Labs GitHub Organization
+
+- URL: https://github.com/p31labs
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public repository organization associated with P31 Labs open-source assistive-technology projects for neurodivergent users and families.
+
+### GitHub Neurodivergent Developers Topic
+
+- URL: https://github.com/topics/neurodivergent-devs
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Public repository topic page containing accessibility-oriented projects, including local-first tools for managing tasks, resources, routines, and chronic-illness-related needs.
+
+### Assistive Technology GitHub Topics
+
+- URL: https://github.com/topics/assistive-technology?l=typescript&o=asc&s=forks
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Public GitHub topic page listing assistive-technology repositories, including projects for neurodivergent accommodations, accessibility narration, and low-sensory learning tools.
+
+### AccessAIbility Tool Directory
+
+- URL: https://accessaability.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Public directory of AI tools for ADHD, autism, dyslexia, and other neurodivergent needs, organized across communication, productivity, education, employment, and daily-living categories.
