@@ -678,3 +678,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Official collection of school-support resources and tools for children and teens living with Tourette syndrome or other tic disorders.
+
+### Autism and Neurodivergence App Repositories
+
+- URL: https://github.com/topics/autism?l=javascript
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: GitHub topic page listing public neurodivergence-related repositories, including AAC systems, picture-based communication tools, and motor-memory AAC projects.

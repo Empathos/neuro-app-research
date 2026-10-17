@@ -418,3 +418,23 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Public GitHub topic page for discovering neurodivergent-focused repositories, including adaptive guidance and accessibility-oriented software projects.
+
+### TicSafe
+
+- URL: https://apps.apple.com/ca/app/ticsafe/id6738706091
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: iPhone app offering tic-management strategies, medication and clinician communication support, educational information about Tourette syndrome, and a calming timer.
+
+### Assistive Technology Resources
+
+- URL: https://myusf.usfca.edu/sds/atresources2
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: University accessibility resource page cataloging assistive technologies for organization, scheduling, planning, communication, and academic support.

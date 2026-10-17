@@ -518,3 +518,63 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Living directory for clinicians with neurodiversity-affirming, trauma-informed practice resources, training, consultation, and peer learning.
+
+### Tourette Association of America  Find a Provider
+
+- URL: https://tourette.org/find-a-provider/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Official provider directory for locating clinicians and treatment services related to Tourette syndrome and tic disorders.
+
+### Tourette Association of America  Support Groups
+
+- URL: https://tourette.org/chapter/support-group/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-17
+- Description: Directory of Tourette support groups and chapter-based community resources for individuals, families, and caregivers.
+
+### famtic: A Weekly Tic Diary for Families
+
+- URL: https://famtic.app/en
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Family-focused weekly diary for recording motor and vocal tics, generating multi-week trends, and exporting summaries or raw data for neurologists and therapists.[2]
+
+### TicTracker
+
+- URL: https://tictracker.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Caregiver and individual tic-tracking tool that logs symptoms alongside sleep, diet, activities, and other factors; supports shared care-team access and clinical summary PDFs.[3]
+
+### Tic Journal  Track & Control
+
+- URL: https://apps.apple.com/de/app/tic-journal-track-control/id6739474061?l=en-GB&platform=tv
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: App for people with Tourette syndrome and tic disorders, including daily tic logging, AI-assisted pattern analysis, trigger tracking, and reports useful for caregivers and therapy conversations.[4]
+
+### Tourette Association Providers Toolkit
+
+- URL: https://tourette.org/resources/overview/tools-medical-practitioners/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-17
+- Description: Clinician-facing toolkit covering recognition, diagnosis, referrals, treatment guidance, and access to a provider directory searchable by location, age group, and expertise.[9]
