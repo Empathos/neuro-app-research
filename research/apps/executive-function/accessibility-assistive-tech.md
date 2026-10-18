@@ -438,3 +438,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Accessibility resource directory covering executive-function supports across mind mapping, study aids, organization, task management, time management, distraction reduction, and relaxation.
+
+### Focus Friend
+
+- URL: https://github.com/ezabhishek1/Focus-Friend
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Local-first executive-function assistant that distills lengthy emails or Slack discussions into tone, timeline, and task information, aiming to reduce overwhelm and focus drift.[3]
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/za/app/tiimo-ai-planner-to-do/id1480220328?platform=iphone
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Assistive planning app for executive function, routines, time awareness, focus, prioritization, and task follow-through.
+
+### FlowNest
+
+- URL: https://flownest.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Neurodivergent-oriented productivity app with adaptive Pomodoro sessions, customizable sensory settings, and focus tools.

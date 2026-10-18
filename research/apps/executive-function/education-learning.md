@@ -498,3 +498,33 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: ADHD-focused educational and self-management app lead combining learning modules on executive function, time blindness, emotional regulation, and rejection sensitivity with practical daily strategies.
+
+### Nura XR
+
+- URL: https://www.f6s.com/software/category/adhd-digital-therapeutic
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Extended-reality and AI learning platform for neurodivergent secondary-school students, including ADHD, dyslexia, and autism; provides personalized learning and therapy tools across VR, mobile, and desktop.
+
+### Booost: Tasks & Planning
+
+- URL: https://play.google.com/store/apps/details?id=com.booosteducation.booost.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Planner designed to support executive function through task planning, prioritization, task initiation, and follow-through for neurodivergent users, including people with ADHD, autism, dyslexia, and dyspraxia.
+
+### Lesson Chunks AI
+
+- URL: https://www.linkedin.com/posts/brendanokeefe_neurodiversity-autism-educationtechnology-activity-7359026906349887490-MeQv
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Lesson-planning and learning-support web app designed to make instruction more accessible by chunking information and adding timers, progress tracking, and personalized feedback, with a focus on autistic and neurodivergent learners.

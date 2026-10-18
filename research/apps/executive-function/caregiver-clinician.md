@@ -314,3 +314,23 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Gamified executive-function training for learners ages 914, covering working memory, inhibition, flexibility, planning, task initiation, and time awareness.[9]
+
+### Maddy: ADHD & Autism Support
+
+- URL: https://apps.apple.com/gb/app/maddy-adhd-autism-support/id6762416876
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: An executive-function support app for AuDHD and ADHD users with an optional caregiver side and intended use as a between-session scaffold for occupational therapists and neurodivergent-affirming clinicians.
+
+### Executive Dysfunction GitHub Topics
+
+- URL: https://github.com/topics/executive-dysfunction
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: A public collection of projects addressing executive dysfunction, including visually accessible planning and tools designed to offload decision-making.
