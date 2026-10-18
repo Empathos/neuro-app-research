@@ -268,3 +268,13 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Educational application for children with dyslexia featuring word listening, spelling practice, handwritten-text exercises, and tutorials for commonly confused sounds and letter groups.
+
+### DysLexLens
+
+- URL: https://github.com/SIRI-HAC-Program/DysLexLens
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Public reproducibility repository associated with DysLexLens, providing sample data and materials for dyslexia-related evaluation research.

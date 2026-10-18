@@ -278,3 +278,13 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 501
 - Found: 2026-10-15
 - Description: Design research on literacy-support systems for dyslexic children, covering multisensory learning, text-to-speech, speech-to-text, visual cues, and adaptive activities.
+
+### ClaroCom Pro
+
+- URL: https://www.clarosoftware.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Assistive communication and literacy software associated with AAC, reading, and writing support for people with communication or dyslexia-related needs.
