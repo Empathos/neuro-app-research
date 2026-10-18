@@ -438,3 +438,23 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: University accessibility resource page cataloging assistive technologies for organization, scheduling, planning, communication, and academic support.
+
+### NeuRoar
+
+- URL: https://neuroar.vercel.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Public assistive-technology app focused on empowering neurodiverse people, particularly autistic people and people with ADHD, through personalized support and positive habit-building.
+
+### Decide: AI Decision Assistant
+
+- URL: https://apps.apple.com/us/app/decide-ai-decision-assistant/id6670797473
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: iPhone decision-support app offering guided reflection questions, recommendations, follow-through instructions, and routine decision aids.
