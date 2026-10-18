@@ -478,3 +478,13 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Sensory-support app for neurodivergent people, caregivers, educators, and support professionals that provides regulation supports, reusable plans, response tracking, pattern review, offline use, and local-first data handling.
+
+### SensoryWave
+
+- URL: https://sensorywave.care/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Sensory-support tool combining mood and sensory-stress tracking, calming resources, communication profiles, QR-based care information, and crisis-support features for caregivers and families.

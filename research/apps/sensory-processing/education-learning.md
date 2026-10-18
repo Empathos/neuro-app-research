@@ -708,3 +708,43 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Pre-referral screening tool for teachers and therapists that links observable behaviors to sensory-processing information and practical classroom participation strategies.
+
+### Neurodiverge App
+
+- URL: https://fazier.com/launches/neurodiverge-app
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Neurodivergent-affirming screening and self-understanding app covering sensory processing, autism, ADHD, masking, routines, sensory load, and related guides.
+
+### Autism Sensory Apps & Games
+
+- URL: https://appshunter.io/ios/topics/autism-sensory
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Public catalog of iOS sensory apps and games for relaxation, focus, sensory exploration, fidgeting, communication, and cognitive or language exercises.
+
+### WellBe Smartwatch Application
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwc/iwag027/8703888?searchresult=1
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Participatory-design research describing a smartwatch application intended to help neurodivergent users apply self-regulation strategies in real-world situations.
+
+### Systematic Literature Review of Assistive Technology for Neurodivergent People
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwc/iwag038/8751180
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: A review covering mobile apps and virtual-reality tools for neurodivergent skill development, communication, routine management, self-regulation, stress management, and daily participation.
