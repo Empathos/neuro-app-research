@@ -788,3 +788,33 @@
 - Query: tourette executive-function neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Provider and patient toolkits from the Tourette Association of America supporting clinical, allied-health, and patient-care research leads.
+
+### Digital Health and Tourette Syndrome: New Technological Frontiers
+
+- URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1765768/full
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Review of digital interventions for Tourette syndrome, including online ERP, CBIT adaptations, wearable monitoring, machine-learning tic prediction, ORBIT, and Neupulse.
+
+### NICE Protocol: Digitally Enabled Therapy for Chronic Tic Disorders
+
+- URL: https://www.nice.org.uk/guidance/htg748/documents/final-protocol-2
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Official technology-assessment protocol describing ORBIT, an online intervention, and Neupulse, a wearable device with a companion phone app.
+
+### NIH-Supported Tourette Tic Quantification Research
+
+- URL: https://med.umn.edu/psychiatry/news/nih-grant-supporting-u-m-research-could-result-quantifiable-way-diagnose-tourette-syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: University of Minnesota research lead developing video-based tools to quantify and measure tics in Tourette syndrome.

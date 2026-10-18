@@ -688,3 +688,33 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: GitHub topic page listing public neurodivergence-related repositories, including AAC systems, picture-based communication tools, and motor-memory AAC projects.
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/jp/app/touchchat-hd-aac/id398860728?l=en-US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Full-featured augmentative and alternative communication app for people who have difficulty using natural speech.
+
+### AAC Talk: Autism Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.missingstep.aactalk.autism&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Customizable Android AAC communication app for autistic and nonspeaking users and speech-therapy support.
+
+### AAC System
+
+- URL: https://github.com/autistic-wiring/aac-system
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Open-source motor-planning AAC web application for non-speaking and low-speaking users, featuring responsive access and offline text-to-speech.

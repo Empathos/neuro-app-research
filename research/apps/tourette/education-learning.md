@@ -568,3 +568,33 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public assistive-technology resource highlighting learning tools such as Goblin Tools, Genio, Helperbird, Speechify, and other apps useful for neurodivergent learners.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/gb/iphone/story/id1895869577
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Neurodivergent-friendly planning app highlighted by Apple for breaking tasks into smaller subtasks and supporting school-related organization.
+
+### Booost Education Learning Toolkit
+
+- URL: https://www.booosteducation.com/toolkit/tools/learning
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Curated collection of free apps, tools, and techniques supporting memory, note-taking, active learning, and varied learning styles.
+
+### Neurodiversity-Focused EdTech Software Directory
+
+- URL: https://www.f6s.com/software/category/neurodiversity-focused-edtech
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: A public directory of neurodiversity-focused education technologies, including adaptive learning, executive-function coaching, personalized instruction, and therapeutic learning platforms.

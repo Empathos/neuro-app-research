@@ -348,3 +348,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Parenting support app for caregivers of neurodivergent children, with logging and feedback around daily challenges, wins, and support needs.
+
+### Tourette Syndrome Resources  Books & Tools for Support
+
+- URL: https://tourettesupport.org/resources/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Tourette-focused public resource collection covering tic-management tips, behavioural therapy techniques, stress management, and coping with commonly co-occurring ADHD, OCD, and anxiety.

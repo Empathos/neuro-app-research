@@ -578,3 +578,13 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Clinician-facing toolkit covering recognition, diagnosis, referrals, treatment guidance, and access to a provider directory searchable by location, age group, and expertise.[9]
+
+### ORBIT  Online Remote Behavioural Intervention for Tics
+
+- URL: https://www.nice.org.uk/consultations/2740/7/the-technologies
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: A therapist-supported online behavioral intervention for children and young people ages 917 with chronic tic disorders or Tourette syndrome. It includes psychoeducation, parental support, functional analysis, and exposure-and-response-prevention exercises.
