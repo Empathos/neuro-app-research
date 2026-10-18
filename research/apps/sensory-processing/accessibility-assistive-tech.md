@@ -348,3 +348,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Sensory guides describe how venues and activities may affect sight, sound, touch, smell, and other sensory inputs, helping neurodivergent visitors plan ahead.
+
+### SafeSpace  Neurodivergent
+
+- URL: https://apps.apple.com/us/app/safespace-neurodivergent/id6670400305
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: iOS app offering personalized sensory settings for lighting, noise levels, and personal-space preferences to support more comfortable environments.[9]
