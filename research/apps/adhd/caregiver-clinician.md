@@ -648,3 +648,13 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Research publication describing a mobile app for parents of children with ADHD, featuring brief lessons, reflection prompts, skill-building activities, and progress tracking.
+
+### NoPlex
+
+- URL: https://blog.eleplan.com/partner-spotlight-noplex
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: ADHD and anxiety support platform developed with ADHD coaches and clinicians; includes supporter-based task accountability, progress monitoring, and delegated task assistance.

@@ -799,3 +799,43 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Repository documentation describing 72 offline-capable AAC and learning tools, including Talk Board, Conversation Aid, Phrase Builder, Point Talk, and Focus Buddy.[3]
+
+### MyVisualRoutine
+
+- URL: https://play.google.com/store/apps/details?id=com.myvisualroutine.app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Offline visual-schedule and AAC app offering routines, choice boards, First/Then boards, and simple communication boards for ADHD and neurodivergent users.
+
+### A little bit of a life raft: ADHD and ChatGPT support
+
+- URL: https://research-information.bris.ac.uk/en/publications/a-little-bit-of-a-life-raft-exploring-the-use-and-experiences-of-/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Research lead describing a diary study and interviews with adults with ADHD using ChatGPT for communication gaps, executive functioning, and emotional regulation.
+
+### Exploring Large Language Models Through a Neurodivergent Lens
+
+- URL: https://dl.acm.org/doi/pdf/10.1145/3701194
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: ACM research on neurodivergent use of language models, including checking responses, managing formulaic interactions, and adjusting communication tone.
+
+### Assistive Technology for Neurodivergent People Systematic Review
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwc/iwag038/8751180
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Research review covering mobile apps, smartwatches, and other technologies for communication, self-regulation, routine management, and participation among neurodivergent people.

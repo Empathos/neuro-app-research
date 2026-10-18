@@ -658,3 +658,33 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Self-regulation and routine app supporting meals, hydration, rest, widgets, and Apple Watch use; designed for AuDHD users.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/za/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: An iPhone app offering guided resets, reflective prompts, and daily support for adults with ADHD experiencing cognitive overload.
+
+### ADHD Buddy App
+
+- URL: https://github.com/macaddy2/adhd-buddy-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Open-source, voice-first ADHD and neurodivergent productivity companion with brain dumps, AI task extraction, duration estimates, prioritization, single-task focus, nudges, and mood-tracked audio journaling.
+
+### ADHD Easy-Do
+
+- URL: https://play.google.com/store/apps/details?id=com.hyperfocusacademy.adhdeasydo&hl=en_ZA
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Android ADHD planner designed by and for ADHD and neurodivergent users to structure tasks, thoughts, and ideas.
