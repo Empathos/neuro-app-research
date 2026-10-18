@@ -278,3 +278,63 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: iOS beta reading-support app for neurodivergent readers, including people with dyslexia; features guided reading, text-to-speech, overlays, spacing controls, reading rulers, and customizable reading assistance.
+
+### NeuroGaze: Eye-Gaze-Based Dyslexia Detection
+
+- URL: https://github.com/Deepitha123/Dsylexia_Detection
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Web-based research prototype using webcam eye tracking and machine learning to analyze reading-related gaze patterns associated with dyslexia.
+
+### ETDD70 Dyslexia Detection Repository
+
+- URL: https://github.com/regadharani/Dyslexia_detection
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Repository containing the ETDD70 eye-tracking dyslexia dataset and related machine-learning resources for dyslexia classification research.
+
+### Detecting Dyslexia in Children
+
+- URL: https://github.com/Kajalmundra/Detecting_dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Research prototype exploring automated early dyslexia screening from handwriting and eye-movement features.
+
+### KIVA Reading Companion
+
+- URL: https://oozernov.github.io/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Open-source, web-based multimodal AI reading companion for students with language-based disorders, including dyslexia.
+
+### EyeBench
+
+- URL: https://github.com/EyeBench/eyebench
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Open-source benchmark with data-download and harmonization scripts, baselines, models, and evaluation code for predictive modeling from reading eye movements, including developmental dyslexia tasks.
+
+### Dyslexia AI Research and Assistive Technology Overview
+
+- URL: https://edtechdev.github.io/aied/concepts/assistive-technology/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Research-oriented overview covering AI applications for dyslexia detection, assistive support, and personalized learning, useful for framing caregiver-clinician and neurodivergent-support research.[7]
