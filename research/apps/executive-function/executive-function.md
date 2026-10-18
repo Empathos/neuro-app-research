@@ -518,3 +518,23 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Visual, step-by-step cognitive support platform for routines and daily activities, designed for autism, intellectual and developmental disabilities, and related needs.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/de/app/inflow-manage-your-adhd/id1528183849?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Science-based ADHD app focused on attention, productivity, and daily-life support, with tools also presented as relevant to autism, burnout, and related regulation challenges.
+
+### Executive Function Toolkit for ADHD & Autism
+
+- URL: https://www.ezducate.ai/tools/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: An interactive toolkit covering task breakdown, planning, time management, goal setting, and flexible-thinking strategies for ADHD, autism, and learning differences.[9]
