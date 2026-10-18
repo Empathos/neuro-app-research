@@ -918,3 +918,93 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Open research paper assessing publicly available parent-facing autism applications, including app examples such as Autistapp and Caring.
+
+### Executive Function in Autism Spectrum Disorder
+
+- URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2019.00753/full
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Open-access review covering executive-function theory, planning, flexibility, inhibition, self-monitoring, and research applications in autism.
+
+### Beyond Group Differences: Executive Function Training for Autistic Children
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1002/aur.2735
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Research article examining preliminary target-engagement signals from an executive-function training intervention for autistic children.
+
+### Longitudinal Changes in Executive Function in Autism Spectrum Disorder
+
+- URL: https://repository.eduhk.hk/en/publications/longitudinal-changes-in-executive-function-in-autism-spectrum-dis/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Repository record for longitudinal research on working memory, inhibition, shifting, planning, and executive-function development in autistic children and adolescents.
+
+### Understanding the Role of the Frontoparietal Network in Executive Function in Autism
+
+- URL: https://repository.eduhk.hk/en/projects/understanding-the-role-of-the-frontoparietal-network-in-the-devel
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Research project investigating attentional shifting, inhibition, and working-memory updating in autistic and typically developing participants.
+
+### Executive Function Deficits in ADHD and Autism Spectrum Disorder
+
+- URL: https://repository.lsu.edu/ecei_yearbook/14/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Review discussing executive-function differences in autism and ADHD, including measurement issues and neuropsychological-test findings.
+
+### Executive Function: Cognition and Behaviour in Adults with Autism Spectrum Disorders
+
+- URL: https://d-nb.info/1203929889/34
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Research record examining executive-function task performance and everyday dysexecutive behaviors in autistic adults.
+
+### Mindera Autism
+
+- URL: https://github.com/Mindera/autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Open-source platform for caregivers and support teams to track developmental objectives, sessions, progress, sleep, diet, and related changes.
+
+### Autismo
+
+- URL: https://github.com/mohnasr137/autismo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Open-source AI-oriented platform covering autism screening, learning resources, progress tracking, and community support.
+
+### Autism Android App
+
+- URL: https://github.com/AuroraPR/Autism-Android-App
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Public GitHub repository for an Android autism-support application prototype.

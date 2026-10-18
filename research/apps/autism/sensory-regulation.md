@@ -798,3 +798,43 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: iPad app offering sensory-oriented games and activities for autism-related sensory engagement.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/us/app/shift-regulate-reset/id6759524862
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: iOS regulation tool designed for autistic, ADHD, and other neurodivergent users, including sensory-reduction and breathing support during overwhelm.
+
+### iReact  Emotional Regulation
+
+- URL: https://apps.apple.com/gb/app/ireact-emotional-regulation-anxiety-autism/id842162674
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: iOS app for children that supports awareness of difficult emotions and how those emotions may be experienced in the body.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/au/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: A sensory-play app with virtual fidgets, spinners, bubble popping, touch interactions, and visual effects intended for calming and self-regulation.
+
+### Kids Autism Games - AutiSpark
+
+- URL: https://apps.apple.com/jp/app/kids-autism-games-autispark/id1498731271
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: An educational iOS game collection for children with autism, described as developed with input from special educators and occupational therapists.

@@ -938,3 +938,53 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: App for autistic and neurodivergent children using social narratives, picture schedules, visual timers, token boards, and first-then charts to support social and daily-living skills.[10]
+
+### Jade: Learning Through Play
+
+- URL: https://apps.apple.com/tt/app/jade-learning-through-play/id1473169233
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Game-based learning app for neurodivergent children and teens, with activities targeting attention, memory, reasoning, and emotional recognition.
+
+### Aiko & Egor: Autism Education
+
+- URL: https://apps.apple.com/us/app/aiko-egor-autism-education/id1045076542
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: App for autistic children, families, and educators using cartoons, games, and interactive activities to support communication, engagement, emotional awareness, self-regulation, and developmental skills.[4]
+
+### Cubbi: The App for Parents
+
+- URL: https://apps.apple.com/us/app/cubbi-the-app-for-parents/id6737774011
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Parent and caregiver app for neurodivergent children that includes educational-resource and provider directories, mood and well-being tracking, and special-education organization tools.[7]
+
+### Review of Artificial Intelligence Interventions for Students with Autism Spectrum Disorder
+
+- URL: https://scale.stanford.edu/ai/repository/review-artificial-intelligence-interventions-students-autism-spectrum-disorder
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Research review covering AI teaching interventions for autistic students, identifying evidence of potential learning support alongside gaps in long-term effectiveness and methodological standardization.[1]
+
+### Socially-Assistive Robots to Support Learning in Students on the Autism Spectrum
+
+- URL: https://research-repository.griffith.edu.au/server/api/core/bitstreams/45db7d1f-d4a3-4b18-b19f-dea0aa083a8e/content
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Research repository document on technology-assisted learning for autistic students, including MAX, a teacher-oriented software platform for robot-assisted education and an Android mobile app.[8]

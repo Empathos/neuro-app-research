@@ -798,3 +798,43 @@
 - Query: autism communication-aac neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Picture-based communication app offering sentence building, natural voices, custom photos and recordings, multilingual support, and shared use across devices.
+
+### AAC System
+
+- URL: https://github.com/autistic-wiring/aac-system
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Open-source AAC web application for non-speaking and low-speaking users, with motor-planning support, offline text-to-speech, and accessibility-focused design.[1]
+
+### AAC Talk: Autism Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.missingstep.aactalk.autism&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Android AAC app for autism, nonspeaking users, and speech therapy, supporting customizable boards with images, text, and voice output.
+
+### AAC Visuals Board for Autism
+
+- URL: https://apps.apple.com/ca/app/aac-visuals-board-for-autism/id6451429642
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: iPhone visual communication board intended for nonspeaking users and people with autism or aphasia.
+
+### ClearCommunicationApp
+
+- URL: https://clearcommunicationapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Communication support tool built with neurodivergent users in mind, offering a large multilingual phrase library.

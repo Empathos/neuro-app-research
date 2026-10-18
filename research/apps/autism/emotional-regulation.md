@@ -648,3 +648,13 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Support app with an overload mode, guided short breaks, AAC communication, routines, timers, checklists, and low-effort planning for autistic children, teens, and adults.[8]
+
+### St. Pio Bridges - Autism
+
+- URL: https://play.google.com/store/apps/details?id=com.bridges_ai&hl=en
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: AI-supported autism app for children and families that provides personalized learning modules, emotion-regulation tools, and visual schedules.
