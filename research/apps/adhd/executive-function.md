@@ -648,3 +648,13 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public overview of neurodivergent-support tools, including executive-function systems, knowledge management, visual planning, and focus support.
+
+### Executive Dysfunction GitHub Topics
+
+- URL: https://github.com/topics/executive-dysfunction
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Public collection of repositories addressing executive dysfunction, including one-step task queues, ritual chains, visual organization, and focus-support tools.

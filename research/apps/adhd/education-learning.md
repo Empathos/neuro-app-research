@@ -988,3 +988,23 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Inclusive educational app for children ages 311, including learners with ADHD, autism, dyslexia, and other developmental differences. [1]
+
+### ScrollEd
+
+- URL: https://www.scrolled.eu/en/blog/best-adhd-learning-apps
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: ADHD-oriented microlearning concept that converts study materials into a scrollable feed with short content and engagement-focused interactions.[7]
+
+### Boostability
+
+- URL: https://www.f6s.com/software/category/neurodiversity-focused-edtech
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Academic success coach for students, especially those with ADHD-like symptoms, offering goal breakdowns, daily tasks, project templates, nudges, and motivational tracking.[4]

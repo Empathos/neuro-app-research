@@ -798,3 +798,33 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Neurodivergent-support app offering private one-to-one human help, soothing games, breathing resources, and emotional-regulation videos for overwhelming situations.
+
+### Bonding Health
+
+- URL: https://bondinghealth.com/about
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Official product page describing ADHD-friendly emotional-regulation support, check-ins, breathwork, sleep and nutrition rhythms, rewards, and AI-guided next steps.
+
+### Moodnotes
+
+- URL: https://moodnotesapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: CBT-based mood tracker and journaling app for recording emotional states, identifying thought patterns, and recognizing cognitive distortions.
+
+### Emotion Regulation Skills for Adolescents with ADHD
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/16506073.2025.2537812
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Research lead for ER-SKILLS, an eight-session psychologist-led intervention combining CBT, DBT, ACT, and emotion-regulation process models for adolescents with ADHD.
