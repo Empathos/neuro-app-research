@@ -538,3 +538,13 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: An iOS speech and language support app for autistic users, including gestalt-language guidance and sensory modifications.
+
+### Tala: AAC for Autism
+
+- URL: https://apps.apple.com/jp/app/tala-aac-for-autism/id6760269821?l=en-US&platform=vision
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: AAC app for children with speech delays or limited speech, offering customizable communication cards, favorite activities and foods, selectable voices, and spoken phrases.

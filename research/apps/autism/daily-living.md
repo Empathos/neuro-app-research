@@ -528,3 +528,33 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Google Play planner designed for neurodivergent users who need support managing daily life.
+
+### MapHabit
+
+- URL: https://apps.apple.com/us/app/maphabit/id1466187296
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Visual support platform for routines and step-by-step daily activities such as hygiene, meals, medications, and daily goals; designed for autism and other cognitive or developmental differences.
+
+### Autism Daily Skills Games
+
+- URL: https://apps.apple.com/au/app/autism-daily-skills-games/id6756981665
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Interactive practice for AAC, self-care, emotions, hygiene, social skills, time learning, and other everyday living skills.
+
+### VARA App by Autism360
+
+- URL: https://www.autism360.com/vara/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Parent-focused daily coaching and tracking tool for routines, behaviors, goals, and practical at-home strategies, with diary insights and reports.

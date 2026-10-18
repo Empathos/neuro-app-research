@@ -518,3 +518,63 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Public clinical-trial protocol describing a caregiver-facing research app for developmental assessments and child video capture, paired with a video analyst portal and clinician diagnostic support.
+
+### Understanding Zoe
+
+- URL: https://understandingzoe.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Neuroaffirming app for families, neurodivergent adults, and support teams; includes appointment and note tracking, report drafting, and controlled sharing with family, teachers, and therapists.
+
+### Moonbow: Autism Behavior Log
+
+- URL: https://apps.apple.com/cz/app/moonbow-autism-behavior-log/id6764191923?l=cs
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Caregiver-focused behavior and home-practice logging app that can share clinician-approved practice activities and outcomes with care teams.
+
+### Joshin  Care for Neurodivergence
+
+- URL: https://joshin.com/neurodiversity/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Family-centered neurodivergence care service offering support from people with relevant lived experience.
+
+### Wave Spectrum Therapy Partnership
+
+- URL: https://www.wavelife.io/partners/spectrum-therapy
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Coaching support app and service for parents and caregivers of children with neurodivergence, delivered by certified coaches using evidence-based mental-health tools.
+
+### Social Spectrum
+
+- URL: https://socialspectrum.org/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-18
+- Description: Parent-oriented neurodivergence community platform with expert resources, support networks, and filters intended to help families find relevant connections.
+
+### Telehealth System to Improve Medication Management of Autism Spectrum Disorder Remotely
+
+- URL: https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1013&context=hs_14
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-18
+- Description: Public research document describing a smartphone system that lets caregivers capture and share behavioral information with clinicians for remote autism medication management.
