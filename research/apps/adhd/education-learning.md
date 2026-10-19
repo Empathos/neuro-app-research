@@ -1008,3 +1008,33 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Academic success coach for students, especially those with ADHD-like symptoms, offering goal breakdowns, daily tasks, project templates, nudges, and motivational tracking.[4]
+
+### NeuroLocker
+
+- URL: https://apps.apple.com/in/app/neurolocker/id6740707608
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: iPhone productivity app for neurodivergent students and professionals, combining AI lecture transcription, summaries, task creation, calendars, reminders, focus timers, and study-oriented soundscapes.
+
+### Adult ADHD App Research References
+
+- URL: https://adult.adhdirl.ie/about-app/i/61752161/references
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Reference page for an ADHD psychoeducation and self-help app whose content is based on peer-reviewed research and work involving University College Dublin, Ireland's HSE National Clinical Programme, and ADHD Ireland.
+
+### Neurodiversity and Third Level Education: A Reusable Learning Resource
+
+- URL: https://hub.teachingandlearning.ie/resource/neurodiversity-and-third-level-education-a-reusable-learning-resource/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open educational resource for higher-education staff and neurodivergent students, covering ADHD, autism, dyslexia, and dyspraxia through accessible learning modules.

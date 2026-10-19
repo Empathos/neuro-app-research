@@ -828,3 +828,63 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Research lead for ER-SKILLS, an eight-session psychologist-led intervention combining CBT, DBT, ACT, and emotion-regulation process models for adolescents with ADHD.
+
+### The CoolCraig App: Promoting Health by Improving Self-Regulation
+
+- URL: https://digital.ahrq.gov/file/37106/download?token=dRc0w-q4
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Digital health intervention combining a smartwatch, mobile app, and web portal to support self-regulation, goal setting, prompts, and reflection among youth with ADHD.
+
+### Anchorly: ADHD Companion
+
+- URL: https://apps.apple.com/pt/app/anchorly-adhd-companion/id6762073825?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: ADHD support app with mood and energy check-ins, an RSD journal, emotional-dysregulation tracking, and tools for focus and habits.
+
+### Designing an iPad App to Monitor and Improve Classroom Behavior for Children with ADHD: iSelfControl Feasibility and Pilot Studies
+
+- URL: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164229
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Published feasibility and pilot research on a web-based self-monitoring application supporting classroom behavior, productivity, compliance, and positive relationships for children with ADHD.
+
+### Fidgeting in the Browser: An Empirical Study of a Virtual Self-Regulation Tool for ADHD
+
+- URL: https://publikationen.bibliothek.kit.edu/1000193887/182654160
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research publication describing a virtual fidget-spinner tool developed to support attentional and self-regulation needs associated with ADHD.
+
+### ADHD Tracker
+
+- URL: https://apps.apple.com/in/app/adhd-tracker/id6478482276
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Health-tracking app for ADHD symptoms, mood, medication, lifestyle, emotional dysregulation, rejection sensitivity, sensory overwhelm, and related patterns.
+
+### Modelo de aplicacion web para el monitoreo y regulacion emocional orientada a personas neurodivergentes
+
+- URL: https://www.lareferencia.info/vufind/Record/CO_fa974900a06e79110bf7812a239ab95e
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Repository record for a progressive web-app model intended to monitor and support emotional regulation and daily crises among neurodivergent people.

@@ -839,3 +839,33 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Research review covering mobile apps, smartwatches, and other technologies for communication, self-regulation, routine management, and participation among neurodivergent people.
+
+### NeuroDock
+
+- URL: https://github.com/search?q=NeuroDock&type=repositories
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Open-source communication-support concept for reducing cognitive overhead, including message interpretation and tone-checking features.
+
+### Asterics AAC
+
+- URL: https://github.com/astericslrf/Asterics-AAC
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Flexible, accessible grid-based AAC interfaces with text-to-speech, multilingual support, switch access, keyboard, touch, and eye-gaze operation.
+
+### Sayboard
+
+- URL: https://github.com/josephtwilliams/sayboard
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Free, open-source AAC communication board supporting spoken words or typed messages, customizable categories, device storage, and optional self-hosted backups.
