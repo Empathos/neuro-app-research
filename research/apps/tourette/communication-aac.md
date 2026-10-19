@@ -718,3 +718,53 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Open-source motor-planning AAC web application for non-speaking and low-speaking users, featuring responsive access and offline text-to-speech.
+
+### Speech Therapies and Pathologies
+
+- URL: https://tourette.org/resources/overview/tools-for-educators/classroom-strategies-techniques/speech-therapies-pathologies/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Tourette Association resource explaining how speech-language pathologists can support communication and related functional difficulties in people with Tourette syndrome.
+
+### Tourette Syndrome GitHub Topic
+
+- URL: https://github.com/topics/tourette-syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public GitHub topic page listing repositories related to Tourette syndrome, including assistive-switch and accessibility-oriented projects.
+
+### Adaptive-Switch-Controller
+
+- URL: https://github.com/MatthewCerza/Adaptive-Switch-Controller
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public Arduino-based adaptive controller repository intended to help people with Tourette syndrome use video-game controls.
+
+### Tourette-model
+
+- URL: https://github.com/locen/Tourette-model
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public computational-model repository concerning basal ganglia, cerebellar, and thalamocortical dysfunction in Tourette syndrome; potentially useful for research tooling.
+
+### Tourette accommodations and communication tools
+
+- URL: https://soonersuccess.ouhsc.edu/Coordinators/Region-1-Area-3/News/tourette-syndrome-accommodations
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: University accessibility guidance covering Tourette accommodations and examples of communication and assistive-technology apps such as Verbally, ChoiceBoard-Creator, MyTalk, SmallTalk, and Sounding Board.

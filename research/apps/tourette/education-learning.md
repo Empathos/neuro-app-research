@@ -598,3 +598,43 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: A public directory of neurodiversity-focused education technologies, including adaptive learning, executive-function coaching, personalized instruction, and therapeutic learning platforms.
+
+### Navigating Tourette Syndrome: An Educators Guide
+
+- URL: https://tourette.org/wp-content/uploads/Educator-tool-kit-final.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Downloadable official guide focused on understanding complex Tourette symptoms and creating effective educational support plans.
+
+### Resources for Educators
+
+- URL: https://tourette.org/ts-resources-for-educators/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Tourette Association resource hub featuring educator materials and an interactive neurodiversity and Tourette syndrome curriculum designed to build understanding and empathy in classrooms.
+
+### Neurish Help Center
+
+- URL: https://www.neurish.online/help-centre
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Documentation for a neurodivergent social app supporting people with Tourettes and other neurodevelopmental profiles through interest-based matching, low-stimulation design, and lower-pressure community spaces.
+
+### NJCTS Resource Catalog
+
+- URL: https://njcts.org/resource-catalog/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Publicly curated catalog of Tourette syndrome resources for youth, teens, professionals, educators, and other people affected by TS.

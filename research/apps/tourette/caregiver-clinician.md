@@ -588,3 +588,33 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: A therapist-supported online behavioral intervention for children and young people ages 917 with chronic tic disorders or Tourette syndrome. It includes psychoeducation, parental support, functional analysis, and exposure-and-response-prevention exercises.
+
+### TicSafe
+
+- URL: https://apps.apple.com/id/app/ticsafe/id6738706091
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: iPhone app offering tic-related support, medication guidance, communication aids for medical professionals and therapists, management strategies, and Tourette education.
+
+### Digital Health and Tourette Syndrome: New Technological Frontiers
+
+- URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1765768/pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Review of digital Tourette interventions and technologies, including caregiver-alert wearables, online ERP, parent-guided online CBIT, therapist-supported interventions, and implementation limitations.
+
+### Tourettes Australia  Get Help
+
+- URL: https://www.tourette.org.au/get-help
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public support gateway for Tourette resources, peer groups, youth programs, and online community spaces that may help map caregiver and lived-experience support pathways.
