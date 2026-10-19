@@ -698,3 +698,53 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: Public hardware project for children with specific learning disabilities, including dyspraxia, combining a gesture-based pen with an LCD and Braille-enabled modular pad.[9]
+
+### NeuroLocker
+
+- URL: https://apps.apple.com/in/app/neurolocker/id6740707608
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Productivity app for neurodivergent students and learners, offering lecture transcription, summaries, task generation, calendars, reminders, focus tools, and study support.[8]
+
+### Lesson Loft
+
+- URL: https://lessonloft.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Classroom-style learning toolkit with step-by-step math, writing scaffolds, speech-to-text, text read-aloud, timers, and supports relevant to dyspraxia and motor challenges.[3]
+
+### LES Neurodivergent Learning Tools
+
+- URL: https://thoughthealer.org/les
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Free learning resources for dyslexia, ADHD, dyscalculia, dysgraphia, dyspraxia, and other neurodivergences, including motor-planning exercises, occupational-therapy planners, and spatial-awareness activities.[6]
+
+### Dyspraxia Ireland Research
+
+- URL: https://www.dyspraxia.ie/research
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public research hub containing academic and psychological research, including a scoping review on the impact of motor-skills difficulties on college students.[1]
+
+### Circuit-Based Motor Activity Games Research
+
+- URL: https://repository.unugiri.ac.id:8443/id/eprint/4947/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Repository record for research on game-based circuit interventions intended to improve movement skills among children with dyspraxia in physical education.[4]

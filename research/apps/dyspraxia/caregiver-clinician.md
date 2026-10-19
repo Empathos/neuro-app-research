@@ -448,3 +448,103 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Public catalog of apps using neurodivergent-supportive design patterns such as sensory overrides, focus scaffolds, predictable flows, co-regulation, and therapist observer features.[4]
+
+### DYNSEO Speech Therapy and Rehabilitation Apps
+
+- URL: https://www.dynseo.com/en/applications-for-speech-therapy/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Official provider page for rehabilitation apps including COCO, designed for children with dyspraxia or praxic disorders, with activities supporting planning, sequencing, coordination, fine motor skills, and daily autonomy.
+
+### DYNSEO Dyspraxia Occupational Therapy Guide
+
+- URL: https://www.dynseo.com/en/dyspraxia-occupational-therapy-psychomotricity-practical-guide/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Provider guide describing practical tools such as tracking sheets, liaison notebooks, motivation charts, home exercises, remote follow-up, and the COCO cognitive-stimulation app.
+
+### NeuroDigital Support
+
+- URL: https://neurodigitalsupport.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Public neurodivergence-support platform featuring a sensory-regulation app and a research hub with studies, dashboards, and reports focused on neurodivergence and digital wellbeing.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://beatsmedical.com/resources-and-support-for-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Official dyspraxia resource page describing an at-home therapy app using games to support fine hand movements, balance, coordination, speech, and communication.
+
+### Systematic Literature Review of Assistive Technology for Neurodivergent People
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwag038/8751180
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research review covering mobile applications, virtual-reality headsets, and smartwatches used for daily activities such as routine management, self-regulation, social interaction, and exercise.
+
+### Lumi Lingo Dyspraxia-Friendly Language App
+
+- URL: https://lumi-academy.org/language-app-for-dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Official app page describing untimed lessons, larger spaced tap targets, and a low-pressure interface for children with motor-planning differences; it explicitly states that the app is educational rather than clinical or therapeutic.
+
+### Dystant Galaxy Dyspraxia App
+
+- URL: https://play.google.com/store/apps/details?id=com.beatsmedical.dyspraxiaapp&hl=en_GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Home therapy app developed with allied health professionals for children aged 514 with dyspraxia or developmental coordination disorder. It includes gross-motor, fine-motor, speech, and communication activities usable with parents, teachers, or allied health professionals. [6]
+
+### Systematic Literature Review of Assistive Technology for Neurodivergent Individuals
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwc/iwag038/8751180?searchresult=1
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research lead reviewing assistive technologies such as mobile apps, virtual reality, and smartwatches, with emphasis on independence, quality of life, and participatory co-design. [9]
+
+### Coffee Chats: Virtual Peer Support for Caregivers of Neurodivergent Adults
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13180205/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Caregiver-centered research describing a virtual peer-support model co-developed by caregivers of neurodivergent adults with clinicians. [4]
+
+### Trauma-Informed Care Within Neurodivergent Populations
+
+- URL: https://openriver.winona.edu/cgi/viewcontent.cgi?article=1210&context=counseloreducationcapstones
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research lead addressing trauma-informed support for neurodivergent clients and caregiver training needs. [8]
