@@ -578,3 +578,73 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Public research document describing a smartphone system that lets caregivers capture and share behavioral information with clinicians for remote autism medication management.
+
+### Pletly Pal
+
+- URL: https://apps.apple.com/no/app/pletly-pal/id1602280973
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Care coordination app for autism, intellectual and developmental disabilities, and other support needs. Enables families, caregivers, schools, and professionals to share updates, routines, profiles, and secure messages.[2]
+
+### TD Snap
+
+- URL: https://apps.apple.com/nl/app/td-snap/id1072799231?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: AAC communication app from Tobii Dynavox for people with speech and language disabilities, including autism. Provides symbol-supported and text-based communication options with resources for caregivers and professionals.[9]
+
+### SenLife  ADHD & Autism Support
+
+- URL: https://apps.apple.com/sa/app/senlife-adhd-autism-support/id6450156262
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Neurodivergent-family support app with planning, behavior and trigger tracking, learning modules, and exportable information for carers, GPs, psychiatrists, and SENCOs.[10]
+
+### Au'commadate
+
+- URL: https://apps.apple.com/be/app/aucommadate/id6762436895
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Touch-only communication board and family-support app for nonspeaking and minimally verbal users, with support for caregivers, educators, and speech-language pathologists. Includes profiles for allergies, medications, communication styles, and accommodations.[4]
+
+### VisualVoice
+
+- URL: https://apps.apple.com/eg/app/visualvoice/id6749776764
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: AAC app using pictograms and emojis to support autistic communication, aimed at parents, speech-language pathologists, educators, therapists, and caregivers.[7]
+
+### AutistaAI
+
+- URL: https://apps.apple.com/pl/app/autistaai/id6760936026
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Support app for autistic people and caregivers with routines, reminders, emotional-regulation tools, communication cards, daily logs, caregiver collaboration, and activity insights.[5]
+
+### Think Autism
+
+- URL: https://apps.apple.com/ca/app/thinkautism/id1199175075
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Screening app for parents, educators, and medical professionals using a validated questionnaire to identify whether a child may need formal autism evaluation.

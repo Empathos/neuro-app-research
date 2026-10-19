@@ -548,3 +548,63 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-18
 - Description: AAC app for children with speech delays or limited speech, offering customizable communication cards, favorite activities and foods, selectable voices, and spoken phrases.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/us/app/innervoice-aac-for-autism/id730856179
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: AAC app for autistic and nonspeaking communicators, offering communication boards, speech, word finding, and conversation practice.[1]
+
+### Communications
+
+- URL: https://apps.apple.com/gb/app/communications/id560442053
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: AAC application designed for autistic people with speaking difficulties, including vocabulary and sentence-construction support.[2]
+
+### App4Autism Accessibility Statement
+
+- URL: https://app4autism.com/en/accessibility/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Official accessibility documentation describing WCAG 2.1 AA goals, large controls, keyboard navigation, assistive-input support, semantic labels, VoiceOver, and TalkBack compatibility.[4]
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/gb/app/autism-play-garden/id6751961935
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: iOS app combining AAC, daily routines, speech practice, sensory activities, tracing, motor skills, and life-skills activities.[5]
+
+### National Autistic Society Accessibility
+
+- URL: https://www.autism.org.uk/accessibility
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Official accessibility resource documenting screen reading, translation, color, font, spacing, reading-ruler, screen-mask, magnification, and plain-text tools, plus autistic-user accessibility research.[10]
+
+### Autism Resources GitHub Topics
+
+- URL: https://github.com/topics/autism-resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Collection of public repositories and curated resources, including OpenTEA, a directory of apps evaluated for usability, sensory impact, and cognitive load.
