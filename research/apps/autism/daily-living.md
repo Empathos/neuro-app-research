@@ -558,3 +558,33 @@
 - Query: autism daily-living neurodivergent app research pass 501
 - Found: 2026-10-18
 - Description: Parent-focused daily coaching and tracking tool for routines, behaviors, goals, and practical at-home strategies, with diary insights and reports.
+
+### Kyros  Visual Communication & Routine Support App
+
+- URL: https://www.autism.org.uk/autism-services-directory/kyros-%E2%80%93-visual-communication-routine-support-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Visual communication and routine tool with personalized action tiles, text-to-speech, recurring routines, checklists, reminders, calendar views, and printable schedules.
+
+### Fun Routine - Autism
+
+- URL: https://apps.apple.com/ca/app/fun-routine-autism/id1600111925
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Customizable routine and task-management app intended to support communication, daily organization, and socio-emotional development for autistic children and adults.
+
+### Autism Daily Skills Games
+
+- URL: https://apps.apple.com/us/app/autism-daily-skills-games/id6756981665
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Interactive iOS learning app for practicing AAC, self-care, hygiene, emotions, social skills, time concepts, and other everyday living skills.

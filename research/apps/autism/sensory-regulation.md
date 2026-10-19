@@ -838,3 +838,33 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: An educational iOS game collection for children with autism, described as developed with input from special educators and occupational therapists.
+
+### Autism Relaxing Sensory Games
+
+- URL: https://apps.apple.com/ca/app/autism-relaxing-sensory-games/id1561581241
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: A sensory-play app with interactive relaxing toys and simple activities designed to support calming, learning, and daily routines.[7]
+
+### Kids Autism Games: AutiSpark
+
+- URL: https://apps.apple.com/ie/app/kids-autism-games-autispark/id1498731271
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: An autism-focused educational app containing sensory and learning games developed with input from special educators and occupational therapists.[6]
+
+### NeuroDigital Support
+
+- URL: https://neurodigitalsupport.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Digital support ecosystem for neurodivergent adults featuring NuroTok, a sensory-regulation app intended to help manage overload, stress, and daily regulation.

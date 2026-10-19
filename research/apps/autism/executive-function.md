@@ -1008,3 +1008,23 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Public GitHub repository for an Android autism-support application prototype.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/us/app/tiimo-ai-planner-to-do/id1480220328?platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Visual planner and task manager designed for ADHD, autism, and other executive-function needs, with color-coded schedules, task breakdown, reminders, focus timers, and calendar integration.
+
+### Visual Routines
+
+- URL: https://github.com/visual-routines/visual-routines-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open-source visual routine builder intended to help children with autism, ADHD, or executive-function challenges follow daily routines independently.

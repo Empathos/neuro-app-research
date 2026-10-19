@@ -988,3 +988,23 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Research repository document on technology-assisted learning for autistic students, including MAX, a teacher-oriented software platform for robot-assisted education and an Android mobile app.[8]
+
+### Mobile application based early educational intervention for children with autism
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/17483107.2021.1927208
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Pilot research study describing a mobile early-education intervention app for autistic children ages 310, including learning-pattern and usability outcomes.
+
+### Neurodivergent Tools - Prism
+
+- URL: https://apps.apple.com/tr/app/neurodivergent-tools-prism/id6738650371
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Planner for ADHD, autism, and neurodivergent users with task breakdown, time estimation, focus organization, thought management, and text simplification.

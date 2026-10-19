@@ -838,3 +838,43 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Communication support tool built with neurodivergent users in mind, offering a large multilingual phrase library.
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/ca/app/speech-assistant-aac/id1139762358
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Text-to-speech communication tool supporting saved phrases, customizable categories, and keyboard-based message entry for people with autism and other speech impairments.[6]
+
+### Spoken - Tap to Talk AAC
+
+- URL: https://apps.apple.com/jp/app/spoken-tap-to-talk-aac/id1034487817?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: AAC app for teens and adults with nonspeaking autism and other speech or language disorders; users tap to build sentences that are spoken aloud.[9]
+
+### CommBoards: AAC Speech Talker
+
+- URL: https://apps.apple.com/us/app/commboards-aac-speech-talker/id1522541894
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Customizable iPad communication-board app supporting autism and other speech challenges, with personal images, recorded familiar voices, and talk-assist features.
+
+### AAC Autism Communication Cards
+
+- URL: https://play.google.com/store/apps/details?id=com.aac.autism.cards&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Android AAC communication-board app for autism, cerebral palsy, and speech delays, featuring visual cards, text-to-speech, Fitzgerald Key support, and parent mode.

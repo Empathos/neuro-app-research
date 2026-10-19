@@ -658,3 +658,43 @@
 - Query: autism emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-18
 - Description: AI-supported autism app for children and families that provides personalized learning modules, emotion-regulation tools, and visual schedules.
+
+### adversity-neuro-emotion-regulation
+
+- URL: https://github.com/SyncingRhythms/adversity-neuro-emotion-regulation/blob/main/emotion_reg_measures.ipynb
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Public GitHub notebook repository lead focused on measuring emotion regulation in the context of adversity and neurodevelopmental research.
+
+### Brain in Hand
+
+- URL: https://apps.apple.com/us/app/brain-in-hand/id607805378
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Support platform for autistic and ADHD users featuring mood tracking, reflection tools, personalized strategies, planning, specialist coaching, and on-demand human support.
+
+### Feelings Buddy: Calm Emotions
+
+- URL: https://apps.apple.com/us/app/feelings-buddy-calm-emotions/id6763375832
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Visual app for children with autism and developmental disabilities to identify emotions and learn calming and self-regulation strategies.
+
+### Autism Emotions
+
+- URL: https://apps.apple.com/om/app/autism-emotions/id6774178082
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Visual, parent-guided app helping autistic and nonspeaking children identify feelings, express needs, and practice AAC-style phrases such as needing a break or quiet.
