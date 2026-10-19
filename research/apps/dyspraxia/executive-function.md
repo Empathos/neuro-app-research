@@ -628,3 +628,33 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Digital-wellness app for executive dysfunction and neurodivergent users, focused on task initiation, follow-through, overwhelm, and avoidance cycles.
+
+### Dyspraxia DCD America: Teens and Adults Resources
+
+- URL: https://www.dyspraxiadcdamerica.org/resources-teens-and-adults/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public dyspraxia/DCD support resource page with information and community-support leads for teens and adults.
+
+### Dyspraxia/DCD Knowledge Hub
+
+- URL: https://www.dyspraxiadcdamerica.org/resources-dyspraxia-dcd-knowledge-hub/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Curated public knowledge hub describing lived experience and support resources related to dyspraxia/DCD and neurodiversity.
+
+### Dyspraxia Foundation Resources
+
+- URL: https://dyspraxiafoundation.co.uk/resources
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Official resource collection covering dyspraxia support, helpline services, local groups, and frequently asked questions.

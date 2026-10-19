@@ -848,3 +848,13 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Open GitHub project for a multilingual AAC platform using pictographic communication, text-to-speech, customizable boards, and assistive communication features.
+
+### Spoken - Tap to Talk AAC
+
+- URL: https://apps.apple.com/jp/app/spoken-tap-to-talk-aac/id1034487817?l=en-US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: AAC app for teens and adults with speech difficulties; users tap to construct sentences that are spoken aloud, with support for conditions including apraxia and nonspeaking autism.
