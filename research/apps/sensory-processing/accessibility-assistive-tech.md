@@ -388,3 +388,33 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Public repository for a neurodivergent-oriented UI and UX framework featuring adaptive interfaces and phenotype-based personalization concepts.
+
+### Weblight
+
+- URL: https://github.com/earthonicus/weblight
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: An open-source accessibility tool for neurodivergent browsing, with features such as a spotlight bookmarklet, reading ruler, and screen mask to reduce webpage clutter and visual overload.[4]
+
+### SpectrumScan
+
+- URL: https://daivurjnt.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Sensory-sensitivity app concept focused on light and sound measurements, environmental exploration, and a crowdsourced sensory map.
+
+### NeuroMind Services Apps
+
+- URL: https://neuromindservices.com/category/apps/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Collection of free and low-cost sensory-oriented apps, including calming, focus, soundboard, and accessibility-support tools for neurodivergent and disabled users.

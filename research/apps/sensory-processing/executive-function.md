@@ -628,3 +628,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: An applied project resource describing sensory-support tools for self-regulation, behavior, and academic participation, including timers, fidgets, calming spaces, cushions, and texture-based supports.
+
+### Uitje Schild
+
+- URL: https://repository.tudelft.nl/record/uuid:c5c692d1-0ae4-4dd2-9e7a-ab61c1499576
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: TU Delft repository record for a web platform supporting sensory-sensitive museum visitors through sensory-profile matching, personalized recommendations, and an advice chatbot.
