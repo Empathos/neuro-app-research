@@ -548,3 +548,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Open-source-oriented productivity and time-management app available on iOS, presented as supporting ADHD and non-ADHD users through structured task and workflow tools.
+
+### ADHD Tracker
+
+- URL: https://apps.apple.com/ca/app/adhd-tracker/id6478482276
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: ADHD planning, management, and focus app with a developer-declared Reduced Motion accessibility feature.
+
+### neurolist: AI Planner for ADHD
+
+- URL: https://apps.apple.com/fi/app/neurolist-ai-planner-for-adhd/id6468689182
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: AI-based planning app intended to help neurodivergent users organize tasks and reach goals.
+
+### Mobile health apps for ADHD: A systematic review
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12854323/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open-access research review of ADHD apps found through Apple App Store and Google Play searches, providing a source for app discovery and evaluation.

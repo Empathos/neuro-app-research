@@ -768,3 +768,43 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Local-first sensory-support app for discovering regulation strategies, creating reusable support plans, logging outcomes, and noticing patterns; designed for ADHD, autism, sensory differences, and executive-function challenges.
+
+### Forest: Stay Focused
+
+- URL: https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Focus and Pomodoro app with ambient sounds, breathing exercises, and calming animations intended to support attention and reduce anxiety.
+
+### ADHD Tracker
+
+- URL: https://apps.apple.com/pl/app/adhd-tracker/id6478482276
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: iOS health-tracking app for logging ADHD symptoms, emotional dysregulation, sensory overwhelm, overstimulation, medication, mood, and lifestyle patterns.
+
+### Numo: ADHD Focus & Wellbeing
+
+- URL: https://apps.apple.com/gb/app/numo-adhd-focus-wellbeing/id1628994767
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: iPhone app with ADHD-friendly task management, routines, journaling, educational content, and gamified support.
+
+### NeuroDigital Support
+
+- URL: https://neurodigitalsupport.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Digital sensory-support platform featuring NuroTok, a calming app intended to help users manage sensory overload, stress, and daily regulation.

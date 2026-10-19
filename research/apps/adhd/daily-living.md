@@ -688,3 +688,73 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Android ADHD planner designed by and for ADHD and neurodivergent users to structure tasks, thoughts, and ideas.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/ca/app/tiimo-to-do-list-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Visual planner for ADHD and neurodivergent users with routines, gentle reminders, AI-assisted planning, focus timers, and calendar integration.[4]
+
+### Executive Functioning Apps
+
+- URL: https://apps.apple.com/id/developer/executive-functioning/id1670674938
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: App Store developer page listing executive-function tools including the Adult ADHD Day Planner and Weel.[2]
+
+### ADHD.lk
+
+- URL: https://github.com/duqit/adhd.lk
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open-source ADHD support site with a visual focus timer, daily planner, routine builder, habit tracker, journal, and ASRS self-test.[1]
+
+### FocusPilot
+
+- URL: https://github.com/HkPy06/FocusPilot-ver2
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: ADHD-friendly daily planner web app featuring task management, a Kanban board, Pomodoro timer, streak tracking, and motivational rewards.[6]
+
+### ADHD Daily Planner
+
+- URL: https://github.com/rbr7/MedClawMini/tree/main/skills/adhd-daily-planner
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public repository lead for an ADHD daily-planner skill focused on planning and daily structure.[2]
+
+### ADHD Daily Planner Skill
+
+- URL: https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/adhd-daily-planner
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open-source repository entry for an ADHD daily-planning skill supporting neurodivergent-oriented organization.[3]
+
+### ADHD Daily Living and Independence App Collection
+
+- URL: https://lscft.orchahealth.com/en-GB/health-area-adult-neurodiversity/focus-area-adult-adhd/app-collection-adhd-daily-living-and-independence
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public health app collection covering daily-living support tools such as Brain in Hand, Fabulous, and Inflow for routines, mood, stress, sleep, self-management, and ADHD support.[8]
