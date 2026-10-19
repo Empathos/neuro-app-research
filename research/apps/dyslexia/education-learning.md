@@ -308,3 +308,33 @@
 - Query: dyslexia education-learning neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: University research project describing a game-based app that trains syllable stress and spelling, including a randomized field study with 116 elementary-school children.
+
+### The Effectiveness of Artificial Intelligence-Based Interventions for Dyslexia
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12385150/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Open-access systematic review of AI interventions for dyslexia, including adaptive learning systems, game-based learning, AI tutoring, and speech-synthesis support.
+
+### Easy Dyslexia Aid
+
+- URL: https://apps.apple.com/us/app/easy-dyslexia-aid/id1088194043
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Assistive reading and spelling app using OpenDyslexic font, color overlays, speech input, and adapted text display.
+
+### Leksa - Dyslexia Helper
+
+- URL: https://apps.apple.com/ie/app/leksa-dyslexia-helper/id1480128485
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Reading aid that converts photographed text into enlarged, easier-to-read text and provides synchronized text-to-speech highlighting.

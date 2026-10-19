@@ -148,3 +148,23 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Open-source text-to-speech app that reads text, PDFs, webpages, and ebooks aloud for users with dyslexia and other reading difficulties.
+
+### GESYA: Digital Tool for Emotional Regulation in Children with Dyslexia
+
+- URL: https://jurnal.konselingindonesia.com/index.php/jkp/article/download/2072/863
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research-backed digital game application designed to help children with dyslexia recognize and manage emotions through interactive, structured activities.
+
+### WordSmart & Prolexia
+
+- URL: https://wordsmart.app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Structured-literacy app for learners with dyslexia and other learning challenges, including mindfulness and mindset activities intended to support emotional regulation.

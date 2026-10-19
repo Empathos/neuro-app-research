@@ -238,3 +238,63 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Public resource page cataloging tools for dyslexia-related reading, writing, scanning, note-taking, OCR, speech, and transcription support.
+
+### DyLexAid  Text Simplification and Accessibility
+
+- URL: https://github.com/JanSteinhauer/DyLexAid
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Open-source accessibility application for dyslexia support, offering text-to-speech, simplified text, accessible reading modes, scanning, and text upload.
+
+### Microsoft Accessibility Tools for Neurodiversity
+
+- URL: https://support.microsoft.com/en-us/accessibility/accessibility-tools-for-neurodiversity?shownav=false
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Official Microsoft guide to accessibility features for dyslexia, ADHD, autism, seizures, and other cognitive disabilities across Windows and Microsoft 365.
+
+### Assistive Technology  LGfL
+
+- URL: https://lgfl.net/teaching/dyslexia/assistive-technology
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Practical dyslexia accessibility guide covering select-to-speak, voice typing, high-contrast modes, Microsoft Immersive Reader, OCR apps, Speechify, and Office Lens.
+
+### NaturalReader Text To Speech
+
+- URL: https://apps.apple.com/us/app/naturalreader-text-to-speech/id1487572960
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: App Store text-to-speech tool for text, PDFs, documents, cloud files, and webpages, with dyslexia-friendly reading modes, synchronized highlighting, and annotations.
+
+### Apps for Accessibility
+
+- URL: https://apps.apple.com/tr/iphone/story/id1266441335
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Apple App Store accessibility collection containing reading, OCR, text-to-speech, and dyslexia-support app leads.
+
+### Apple Accessibility Features for Students
+
+- URL: https://www.apple.com/accessibility/designed-for-students/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Official Apple education accessibility page describing Accessibility Reader and adjustable reading presentation and audio features relevant to dyslexia support.

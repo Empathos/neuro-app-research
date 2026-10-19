@@ -338,3 +338,113 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Reading-support application associated with research on improving readability through extracted summaries for dyslexic users.
+
+### Sinhala Dyslexia Assistant
+
+- URL: https://github.com/PeshalaPerera/sinhala-dyslexia-assistant
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Open-source speech-driven NLP pipeline and prototype interface designed to support Sinhala-speaking users with dyslexia.
+
+### A Comprehensive Review of Assistive Technologies for Children with Dyslexia
+
+- URL: https://arxiv.org/html/2412.13241v2
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Open research review covering mobile apps, serious games, virtual and augmented reality, haptic devices, and other assistive technologies for dyslexia.
+
+### Assistive Technologies for Students with Dyslexia: A Systematic Literature Review
+
+- URL: https://dl.acm.org/doi/10.1007/978-3-030-63885-6_55
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Systematic review examining dyslexia-focused assistive technologies, accessibility, user acceptance, and reported educational impact.
+
+### Assistive Technologies for Students with Dyslexia: A Systematic Literature Review
+
+- URL: https://link.springer.com/chapter/10.1007/978-3-030-63885-6_55
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Publisher page for a systematic review identifying technologies intended to support students with dyslexia and discussing adoption and rehabilitation considerations.
+
+### Toward Linking Dyslexia Types and Symptoms to Available Assistive Technologies
+
+- URL: https://repository.mdx.ac.uk/item/84x01
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research repository record mapping dyslexia symptoms and types to potentially relevant assistive technologies.
+
+### Adaptive E-Learning System for Students with Dyslexia
+
+- URL: https://repository.mdx.ac.uk/item/86w81
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research repository record describing the Dyslexia Adaptive E-Learning Framework and a personalized learning-management-system approach.
+
+### DysLexLens
+
+- URL: https://arxiv.org/pdf/2606.27619v1
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research preprint proposing a low-resource framework for analyzing dyslexic learners experiences with AI tools used for reading, writing, organization, and study support.
+
+### A comprehensive review of assistive technologies for children with dyslexia
+
+- URL: https://arxiv.org/pdf/2412.13241v1
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open-access review of mobile apps, augmented reality, and other technology-based interventions for children with dyslexia.
+
+### A Review on Assistive Technologies for Students with Dyslexia
+
+- URL: https://www.scitepress.org/Papers/2021/104345/104345.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Review identifying assistive-technology leads such as iLearnRW and EasyLexia, including individualized learning, gamification, memory, comprehension, and problem-solving features.
+
+### Influence of assistive technology applications on dyslexic students
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9136755/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Peer-reviewed study examining Google Classroom, Zoom, and Quizlet as assistive-technology platforms for students with dyslexia.
+
+### A narrative review toward integrative and personalized solutions for dyslexia
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12672517/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Recent review discussing smartphone and tablet remediation apps, adaptive learning, game-based AI tutors, text-to-speech, and personalized dyslexia support.

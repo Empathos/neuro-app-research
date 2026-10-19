@@ -338,3 +338,63 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Research-oriented overview covering AI applications for dyslexia detection, assistive support, and personalized learning, useful for framing caregiver-clinician and neurodivergent-support research.[7]
+
+### Neurobloom  Dyslexia Screening
+
+- URL: https://www.neurobloomhealth.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Online AI-assisted screening for dyslexia and other learning differences, designed for parents, schools, and clinicians; reports are reviewed by licensed specialists.[1]
+
+### LEXY  Dyslexia Screening Platform
+
+- URL: http://lexyapp.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research-backed screening platform for families, schools, educators, and clinical professionals, with clinical notes, feedback tools, and exportable reports.[2]
+
+### DysleXpert  Early Dyslexia Detection Platform
+
+- URL: https://dyslexpert.vercel.app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Gamified dyslexia-risk screening tool for educators, clinicians, and families, offering rapid results and downloadable reports for sharing with parents or specialists.[3]
+
+### Lexercise Online Learning Disability Tests
+
+- URL: https://www.lexercise.com/tests
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Free online screeners for dyslexia, dysgraphia, and related learning disabilities, with options for parents and school staff and access to expert therapist discussion.[6]
+
+### D-LEX Free Dyslexia Screener
+
+- URL: https://app.dlex.uk/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public dyslexia screening application that explicitly identifies its output as a screening result rather than a diagnosis.[7]
+
+### Lexy: Dyslexia Reading Tutor
+
+- URL: https://apps.apple.com/jp/app/lexy-dyslexia-reading-tutor/id1564885095?l=en-US&platform=mac
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Reading-tutor app for children with dyslexia, ADHD, and other learning needs, featuring phonics lessons, adaptive practice, voice feedback, progress tracking, and parent or educator use.[10]
