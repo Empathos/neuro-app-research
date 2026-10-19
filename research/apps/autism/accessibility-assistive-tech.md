@@ -608,3 +608,13 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Collection of public repositories and curated resources, including OpenTEA, a directory of apps evaluated for usability, sensory impact, and cognitive load.
+
+### Designing for Users on the Autistic Spectrum
+
+- URL: https://ukhomeoffice.github.io/accessibility-posters/autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public accessibility guidance on designing clearer interfaces for autistic users, including color, contrast, and visual-complexity considerations.[3]

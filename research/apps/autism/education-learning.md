@@ -1008,3 +1008,23 @@
 - Query: autism education-learning neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Planner for ADHD, autism, and neurodivergent users with task breakdown, time estimation, focus organization, thought management, and text simplification.
+
+### Autism Learning Tools
+
+- URL: https://apps.apple.com/us/app/autism-learning-tools/id1509350648
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Educational and developmental game for children with autism and developmental delays, covering matching, memory, numbers, letters, fine-motor skills, and parent progress reports.
+
+### ELS Autism  ABA Therapy
+
+- URL: https://apps.apple.com/il/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Autism-support app using social narratives, picture schedules, visual timers, token boards, and first-then charts to support social and daily-living skills.
