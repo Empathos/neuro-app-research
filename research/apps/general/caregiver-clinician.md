@@ -488,3 +488,33 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Special-needs healthcare platform described as connecting neurodivergent individuals and caregivers with developmental-behavioral pediatricians, therapists, evaluations, coordinated care, and patient/provider applications.
+
+### Autism Victory
+
+- URL: https://apps.apple.com/us/app/autism-victory/id6769131894
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Caregiver-focused app providing autism resources, funding information, respite-care and Medicaid-waiver guidance, caregiver-pay information, and personalized support.
+
+### DDS Autism Resource Hub
+
+- URL: https://www.dds.ca.gov/initiatives/autism/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: California Department of Developmental Services hub linking autism supports, including Soluna, a free mental-health support app for youth and young adults with interactive tools, forums, videos, and professional-coach chat.
+
+### Development and effectiveness of a user-centered mobile application for informal caregivers
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13546512/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public randomized-trial article on a caregiver app model combining education, communication and daily-care guidance, behavioral-support information, self-care resources, service navigation, and reminders.

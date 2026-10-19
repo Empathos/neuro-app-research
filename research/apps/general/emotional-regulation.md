@@ -498,3 +498,13 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Visual mood-journaling app that helps users label emotions through an energy-and-pleasantness framework and access brief coping-strategy videos.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/it/app/calm-steps/id6755076182?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: An emotional-regulation and behavioral-support app for children ages 412, including children with ADHD, autism, and sensory needs; it supports naming and navigating emotions.

@@ -598,3 +598,23 @@
 - Query: neurodivergent calming iOS Android
 - Found: 2026-08-03
 - Description: Local-first PWA  a calm suite of tools for neurodivergent internal states. No account, offline, on-device. Not a clinical or diagnostic tool.
+
+### SafeSpaces
+
+- URL: https://github.com/arbabf/safespaces
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Open GitHub research repository exploring sensory-safe spaces in virtual reality for neurodivergent people; listed as an ongoing project.
+
+### SensorySpace
+
+- URL: https://apps.apple.com/us/app/sensoryspace/id6753658944
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: iPad app offering interactive sensory scenes with adjustable visual and sensory settings for calming, focus, and sensory exploration.
