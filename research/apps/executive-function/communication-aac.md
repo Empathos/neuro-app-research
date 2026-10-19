@@ -748,3 +748,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Offline AAC communication-board app intended for autistic, nonspeaking, and speech-delayed users, families, educators, and speech-language professionals.
+
+### ADHD Daily Planner
+
+- URL: https://lobehub.com/pl/skills/openclaw-skills-adhd-daily-planner
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Neurodivergent-oriented planning skill covering time blindness, daily structure, brain dumps, next actions, transition buffers, and energy-aware task design.

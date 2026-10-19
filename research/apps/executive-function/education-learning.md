@@ -528,3 +528,33 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Lesson-planning and learning-support web app designed to make instruction more accessible by chunking information and adding timers, progress tracking, and personalized feedback, with a focus on autistic and neurodivergent learners.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/fr/app/tiimo-visual-daily-planner/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Visual planning and learning app for people with diverse cognitive profiles, including ADHD and autism. Supports executive functioning through visual timelines, focus timers, checklists, routines, and learning tools.
+
+### NeurodiversityInEF
+
+- URL: https://github.com/sylmma/NeurodiversityInEF
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research code repository associated with a study mapping executive-function profiles in a transdiagnostic sample of 566 neurodivergent children aged 818.[4]
+
+### Anchorly: ADHD Companion
+
+- URL: https://apps.apple.com/au/app/anchorly-adhd-companion/id6762073825
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: iOS ADHD-support app with education modules covering executive function, dopamine, rejection-sensitive dysphoria, sleep, and exercise, plus focus and organization tools.[6]

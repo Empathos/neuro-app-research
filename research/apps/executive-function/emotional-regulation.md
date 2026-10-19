@@ -548,3 +548,33 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: AI-powered community progressive web app for neurodivergent users, with voice-first tools focused on routines and mutual support.
+
+### ADHD Planner AI
+
+- URL: https://apps.apple.com/is/app/adhd-planner-ai/id6758739558
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: An iOS planner for ADHD families that tracks habits, emotions, and goals and provides AI guidance for routines, homework, sleep, and executive-function development.
+
+### Mapping neurodevelopmental diversity in executive function
+
+- URL: https://research-portal.uea.ac.uk/en/publications/mapping-neurodevelopmental-diversity-in-executive-function/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research publication on neurodevelopmental diversity and executive function; its analysis code is publicly available in the associated GitHub repository.
+
+### DeeDee ADHD daily helper tools
+
+- URL: https://mwm.ai/apps/deedee-adhd-daily-helper-tools/6745966602
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: ADHD-focused planner and habit tracker offering task organization, coaching, meditation, breathing, muscle relaxation, CBT thought reframing, and DBT-based emotional-regulation practices.

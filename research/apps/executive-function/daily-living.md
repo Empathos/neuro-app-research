@@ -358,3 +358,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Open-source, self-hosted focus companion for ADHD users that accepts task breakdowns and supports task initiation.
+
+### BluePal: Autism Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.bluepal.autism
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Android app featuring expert-led educational content on communication, social skills, daily living, and emotional skills.

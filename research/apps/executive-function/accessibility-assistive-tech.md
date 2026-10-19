@@ -468,3 +468,53 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Neurodivergent-oriented productivity app with adaptive Pomodoro sessions, customizable sensory settings, and focus tools.
+
+### nd-skills
+
+- URL: https://github.com/jpoindexter/nd-skills
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Diagnosis-free neurodivergent support skills for AI coding agents, including executive-function scaffolding and persistent support behaviors.
+
+### AuDHD UI Guide
+
+- URL: https://github.com/Greyland-Fireworks/audhd-ui-guide
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Practical guidance for AuDHD-friendly interfaces designed to be easier to understand, use, pause, resume, and correct.
+
+### Assistive Technology for ADHD: A Systematic Literature Review
+
+- URL: https://repository.up.ac.za/server/api/core/bitstreams/1bc474ab-006c-4cbd-8790-fabcfda85679/content
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research source reviewing assistive technologies for ADHD, including ProceduralPal, a mobile application intended to help children rehearse common daily tasks.
+
+### Make Learning Exciting: Apps for Executive Functioning
+
+- URL: https://chadd.org/wp-content/uploads/2017/08/learning-exciting.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: CHADD resource covering executive-function support technologies across phones, tablets, computers, browser extensions, wearables, smart pens, and time-management tools.
+
+### Designing for Neurodiversity
+
+- URL: https://www.kodeco.com/books/android-accessibility-by-tutorials/v2.0/chapters/11-designing-for-neurodiversity
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Android accessibility guidance for neurodivergent users, covering reduced time pressure, clear communication, consistency, configurability, alternatives, confirmation steps, and discoverable assistance.
