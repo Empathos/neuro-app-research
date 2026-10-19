@@ -1038,3 +1038,33 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Open educational resource for higher-education staff and neurodivergent students, covering ADHD, autism, dyslexia, and dyspraxia through accessible learning modules.
+
+### Neurodivergent_LLM
+
+- URL: https://trendshift.io/repositories/278080
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Public repository lead focused on adapting an LLM for ADHD, autism, and dyslexia-related idea generation and problem solving.
+
+### Lexy  Smart Literacy Learning
+
+- URL: https://apps.apple.com/us/app/lexy-smart-literacy-learning/id1564885095
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Adaptive literacy tutor for children with dyslexia, ADHD, and other learning needs, with multisensory practice, voice feedback, personalization, and progress tracking.
+
+### Jade App
+
+- URL: https://www.jadend.tech/en/jade-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Playful educational platform for neurodivergent children and teens, including learners with ADHD, autism, dyslexia, and dyscalculia; supports attention, memory, reasoning, and emotional skills.

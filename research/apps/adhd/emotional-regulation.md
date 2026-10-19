@@ -888,3 +888,13 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Repository record for a progressive web-app model intended to monitor and support emotional regulation and daily crises among neurodivergent people.
+
+### Thruday
+
+- URL: https://www.similarweb.com/app/apple/1645552771/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Neurodivergent-oriented visual planner supporting ADHD and autism-related routines, emotional regulation, breathing exercises, mood tracking, reminders, and shared support with carers.
