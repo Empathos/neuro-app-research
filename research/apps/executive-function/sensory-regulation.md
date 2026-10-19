@@ -556,3 +556,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-16
 - Description: Public resource listing tools such as Goblin Tools for breaking down overwhelming tasks, distraction-limiting utilities, habit support, sensory relaxation, ambient soundscapes, and interactive visual regulation tools.
+
+### Neurodiversity Navigator
+
+- URL: https://github.com/friuns2/Awesome-GPTs-Big-List/blob/main/gpts/neurodiversity-navigator.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public repository entry for an autism-focused assistant intended to support neurodiversity learning, research exploration, and autism-related data or coding questions.[7]

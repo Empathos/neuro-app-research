@@ -334,3 +334,33 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: A public collection of projects addressing executive dysfunction, including visually accessible planning and tools designed to offload decision-making.
+
+### Advocate360
+
+- URL: https://advocate360.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Executive-function support platform for parents, teachers, coaches, clinicians, special-education teams, IEP writers, and neurodivergent adults, with assessments, individualized goals, matched strategies, and practice materials.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/pe/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: ADHD-focused app offering guided resets, reflection prompts, and tools intended to reduce cognitive friction during stalled or pressured thinking.
+
+### East London NHS Adult ADHD Support Available
+
+- URL: https://www.elft.nhs.uk/adult-adhd-services/support-available
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: NHS support page listing practical tools such as Brain Focus Productivity Timer and Todoist for work sessions, breaks, task lists, and completion tracking.
