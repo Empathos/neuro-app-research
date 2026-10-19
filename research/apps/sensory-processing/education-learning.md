@@ -778,3 +778,33 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: A free educational resource with videos and information about sensory-processing differences for children, parents, carers, teachers, and other supporters.
+
+### Perception and Experience of Multisensory Environments Among Neurodivergent People
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/00038628.2025.2462569
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Systematic review examining how neurodivergent people experience multisensory environments and outlining implications for sensory-supportive design.
+
+### Understanding Autistic Burnout: The Role of Sensory Processing Differences
+
+- URL: https://repository.nusystem.org/items/a729a871-5b32-4e91-8c31-ed9f8aff507b
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Public capstone research examining links between autistic burnout, sensory-processing differences, and clinical support.
+
+### Smart Tales: Kids Games PreK-5
+
+- URL: https://play.google.com/store/apps/details?id=com.marshmallowgames.smarttales&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Educational library covering math, logic, coding, and science, with an autism-friendly interface and sensory-conscious design for children with ASD, ADHD, and sensory-processing differences.[3]

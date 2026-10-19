@@ -658,3 +658,13 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Resource library with practical AAC information, including support for AAC users who communicate in languages other than English.
+
+### Sensory Tools and Equipment for Neurodivergent Adults
+
+- URL: https://neuronesthub.com.au/sensory-tools-and-equipment-for-neurodivergent-adults-a-practical-guide-to-regulation-and-comfort/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Practical guide to sensory-regulation tools such as noise reduction, weighted equipment, lighting adjustments, and sensory-profile considerations.

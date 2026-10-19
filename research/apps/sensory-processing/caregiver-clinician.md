@@ -498,3 +498,53 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Platform offering sensory-regulation support, care-team record keeping, and a research and insights hub focused on neurodivergence and digital wellbeing.
+
+### SafeStim
+
+- URL: https://apps.apple.com/us/app/safestim/id6765572751
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Sensory-support app offering visual stimulation, calming sounds, and a virtual tactile zipper for self-regulation during travel, appointments, school, or stressful situations.
+
+### Nova: Autism Support Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.novaautism.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: AI-assisted support tool for parents, caregivers, teachers, and professionals, with guidance for sensory overwhelm, meltdowns, transitions, routines, calming, visual timers, and co-regulation.
+
+### Autism Victory
+
+- URL: https://apps.apple.com/us/app/autism-victory/id6769131894
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Caregiver app providing information and personalized assistance about autism, therapies, school services, communication, sensory needs, adult autism, and caregiver wellness.
+
+### AutistaAI
+
+- URL: https://apps.apple.com/in/app/autistaai/id6760936026
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Calming support app for autistic people and caregivers with profiles, behavior summaries, medication tracking, shared views, synchronization, sensory-needs support, and daily-structure preferences.
+
+### EnrichPoint
+
+- URL: https://enrichpoint.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Accessibility and caregiving platform offering emotion and sensory regulation tools, customizable categories, progress tracking, caseload management, and caregiver collaboration.
