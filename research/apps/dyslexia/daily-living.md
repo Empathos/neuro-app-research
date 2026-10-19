@@ -238,3 +238,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: WordPress accessibility plugin providing reading and dyslexia tools such as a focus-line reading guide and OpenDyslexic font support.
+
+### Apps that think like you do  App Store
+
+- URL: https://apps.apple.com/me/iphone/story/id1867605202
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Apple-curated neurodivergence toolkit featuring reading, productivity, time-management, self-care, and writing apps for people with dyslexia, autism, and ADHD.
+
+### Lived experiences and intervention outcomes: Dyslexic adults
+
+- URL: https://link.springer.com/article/10.1007/s11881-026-00364-3
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research lead examining dyslexic adults lived experiences, intervention effectiveness, compensatory supports, individualized accommodations, and assistive technologies.

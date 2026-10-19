@@ -278,3 +278,13 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: Public reproducibility repository associated with DysLexLens, providing sample data and materials for dyslexia-related evaluation research.
+
+### Apps That Think Like You Do
+
+- URL: https://apps.apple.com/sz/iphone/story/id1867605202
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Apple App Store collection highlighting tools for dyslexia, autism, and ADHD, including text-to-speech reading support and calming features for sensory overload and regulation.

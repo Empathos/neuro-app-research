@@ -288,3 +288,53 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 501
 - Found: 2026-10-18
 - Description: Assistive communication and literacy software associated with AAC, reading, and writing support for people with communication or dyslexia-related needs.
+
+### ALEXZA dyslexia support application
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10762180/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research-described mobile tool for dyslexic users that recognizes text from images, reads it aloud, and suggests synonyms.
+
+### Smart assistance to dyslexia students using AI-based augmentative alternative communication
+
+- URL: https://link.springer.com/article/10.1007/s10772-021-09921-0
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research lead describing an AI-based AAC approach for dyslexic learners that classifies questions and provides relevant pictograms.
+
+### DysLexa - Text-to-Speech
+
+- URL: https://play.google.com/store/apps/details?id=com.dyslexa.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Android reading-support app using OCR and text-to-speech to make printed and digital text more accessible for people with dyslexia.
+
+### DyslexiaEasyRead
+
+- URL: https://apps.apple.com/us/app/dyslexiaeasyread/id6737303315
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: iOS dyslexia-friendly reading app offering text-to-speech, speech-to-text, and vocal synthesis.
+
+### Apple Apps for Accessibility
+
+- URL: https://apps.apple.com/br/iphone/story/id1266441335?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Apple App Store accessibility collection featuring dyslexia reading helpers and Proloquo4Text AAC for text-to-speech communication.
