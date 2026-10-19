@@ -358,3 +358,23 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-18
 - Description: Tourette-focused public resource collection covering tic-management tips, behavioural therapy techniques, stress management, and coping with commonly co-occurring ADHD, OCD, and anxiety.
+
+### Research Results Find Digital Tools Help With Anxiety, Stress and Tics
+
+- URL: https://www.tourettes-action.org.uk/news-158-research-results-find-digital-tools-help-with-anxiety-stress-and-tics.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Tourettes Action summary of research evaluating relaxation apps for young people with Tourette syndrome, including Pacifica and SAM.
+
+### Tourette Syndrome Research Highlights from 2025
+
+- URL: https://f1000research.com/articles/15-722
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research overview covering app-delivered behavioral therapy based on habit-reversal training and exposure-and-response prevention, plus online support communities.
