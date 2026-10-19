@@ -548,3 +548,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: App Store learning and calming game app for autistic and ADHD learners, with activities covering sensory play, speech, communication, focus, emotions, fine-motor skills, and learning.
+
+### University of Derby: Study Skills for Neurodivergent Students
+
+- URL: https://libguides.derby.ac.uk/c.php?g=720403&p=5227945
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: A study-skills resource listing tools for mind mapping, note-taking, transcription, text-to-speech, organization, and spaced-repetition learning.[10]
+
+### BBC Neurodiversity Toolkits
+
+- URL: https://www.bbc.co.uk/neurodiversity/toolkits/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Educational and training resources including interactive films and sensory-experience materials designed to build understanding of neurodivergent perspectives and support needs.

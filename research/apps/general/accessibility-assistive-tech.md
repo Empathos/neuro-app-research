@@ -598,3 +598,33 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Public directory of AI tools for ADHD, autism, dyslexia, and other neurodivergent needs, organized across communication, productivity, education, employment, and daily-living categories.
+
+### Accessibility Tools and Adaptive Technology for Neurodiverse Employees
+
+- URL: https://bati-itao.github.io/awareness/articles/accessibility-tools-and-adaptive-technology-for-neurodiverse-employees.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Public guide covering cognitive and motor assistive technologies, including read-aloud, dictation, smart pens, speech recognition, display settings, alternative mice, eye tracking, and adaptive controls.[4]
+
+### GitHub NeurodiversityTech Topics
+
+- URL: https://github.com/topics/neurodiversitytech
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Small public repository index for neurodivergent-focused technology, including accessibility scaffolding for learners with special educational needs and tools for neurodivergent software engineers.[6]
+
+### Neurodiversity Resource Hub
+
+- URL: https://neurodiversityresourcehub.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: A public resource and support platform covering neurodevelopmental guidance, communication aids, AAC, assistive technology, specialists, support groups, and related services.[4]

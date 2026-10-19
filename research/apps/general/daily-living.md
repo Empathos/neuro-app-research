@@ -408,3 +408,63 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Public guidance covering routines, task breakdown, timers, sensory strategies, planning, and environmental adjustments that can inform daily-living support research.
+
+### Trustworthy for Neurodivergent Individuals
+
+- URL: https://www.trustworthy.com/life-moments/neurodiversity
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Family Operating System for organizing essential information, daily schedules, documents, finances, travel, and emergency planning in ways intended to reduce cognitive load.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/kz/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Visual planning app with routines, color-coded schedules, gentle reminders, task prioritization, and an AI planner designed for ADHD and neurodivergent users.
+
+### Remind - Daily Planner
+
+- URL: https://apps.apple.com/de/app/remind-daily-planner/id1665028057?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Visual daily planner offering customizable routines, calendar integration, focus timers, reminders, icons, colors, checklists, and transition support.
+
+### Tiimo: ADHD AI Routine Planner
+
+- URL: https://apps.apple.com/at/app/tiimo-adhd-ai-routine-planner/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Visual daily planner for ADHD, autism, and other neurodivergent users, with routines, task breakdowns, reminders, and focus timers.[5]
+
+### meinsystem Routines
+
+- URL: https://meinsystem.app/en/features/routines
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Routine tool for ADHD and autism that makes recurring processes visible and breaks everyday tasks into manageable steps.[10]
+
+### Routinely: ADHD Kids Routine
+
+- URL: https://apps.apple.com/us/app/routinely-adhd-kids-routine/id6776621764
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Visual routine app for children, including task logging, visual schedules, and reward mechanics intended to support daily activities.[2]

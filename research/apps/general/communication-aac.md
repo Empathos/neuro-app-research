@@ -918,3 +918,53 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Communication aid that displays large text for noisy environments, face coverings, and users with visual or hearing-related access needs.
+
+### OneTalker
+
+- URL: https://onetalker.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Free, open-source AAC desktop application intended for everyday communication and users including autistic individuals, people with speech delays, and people with cerebral palsy.[4]
+
+### Talrum
+
+- URL: https://github.com/nbhansen/Talrum
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Low-stimulation AAC web app for non-speaking autistic children and caregivers, featuring customizable picture boards and spoken selections.[7]
+
+### Project Open OS-DPI
+
+- URL: https://github.com/UNC-Project-Open-AAC/OS-DPI
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Open-source AAC design and development platform for researchers and designers to create and test accessible communication interfaces.[10]
+
+### Foundation Models in Augmentative and Alternative Communication
+
+- URL: https://scale.stanford.edu/ai/repository/foundation-models-augmentative-and-alternative-communication-opportunities-and
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Research lead discussing AI and federated-learning opportunities and challenges for personalized AAC systems, including the AMBRA open platform.[8]
+
+### AAC Communication Assistant
+
+- URL: https://github.com/FastTrack-Academy/Augmentative-Alternative-Communication
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research-oriented AAC project for children with autism that combines symbol recognition, speech synthesis, and adaptive learning.
