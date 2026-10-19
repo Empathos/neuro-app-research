@@ -1028,3 +1028,13 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Open-source visual routine builder intended to help children with autism, ADHD, or executive-function challenges follow daily routines independently.
+
+### Functionality of Apps for People with Autism
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9222948/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Peer-reviewed review of autism-support apps, including tools addressing executive functions, communication, language, daily living, and visual supports.

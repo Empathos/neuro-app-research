@@ -588,3 +588,13 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Interactive iOS learning app for practicing AAC, self-care, hygiene, emotions, social skills, time concepts, and other everyday living skills.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://appadvice.com/app/tiimo-ai-planner-to-do/1480220328
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Visual daily-planning app for autism, ADHD, stress, and anxiety, featuring timelines, focus timers, reminders, routine templates, and AI checklist breakdowns.

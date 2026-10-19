@@ -878,3 +878,53 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Android AAC communication-board app for autism, cerebral palsy, and speech delays, featuring visual cards, text-to-speech, Fitzgerald Key support, and parent mode.
+
+### CommBoards AAC  Autism Speech
+
+- URL: https://play.google.com/store/apps/details?id=com.shmoontz.commboards.lite
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Picture-based Android AAC app for autistic, nonspeaking, and speech-delayed users; users tap cards to build sentences and generate speech.
+
+### TEAppAutism
+
+- URL: https://www.uoc.edu/en/news/2023/177-app-autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research-informed app co-created by users and professionals from the Universitat Oberta de Catalunya and Parc Tauli Hospital, providing professional videos and guidance related to autism communication and psychosocial interventions.
+
+### The Implementation of Application Software to Improve Verbal Communication
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8620483/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Review of autism-assistive communication apps and intervention studies, covering AAC, speech-generating devices, Proloquo2Go, GoTalk NOW, My Choice Board, and other tools.
+
+### How apps are used by and with individuals with autism spectrum disorder
+
+- URL: https://research.monash.edu/en/publications/how-apps-are-used-by-and-with-individuals-with-autism-spectrum-di/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Scoping study of autism app research and stakeholder needs, identifying communication support as a major use case and Proloquo2Go as a frequently studied app.
+
+### Augmentative and alternative communication in autism spectrum disorder
+
+- URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1345447/full
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open-access case study on AAC for autism, discussing letter boards, iPad-based communication, word prediction, text-to-speech, speech-to-text, and communication-symbol tools.

@@ -868,3 +868,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Digital support ecosystem for neurodivergent adults featuring NuroTok, a sensory-regulation app intended to help manage overload, stress, and daily regulation.
+
+### Nova: Autism Support Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.novaautism.app&hl=en_CA
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: An AI-supported app for caregivers, educators, and professionals offering guidance for meltdowns, transitions, sensory overwhelm, calming animations, visual timers, and co-regulation.[1]
+
+### Special Needs
+
+- URL: https://apps.apple.com/us/app/special-needs/id1667348254
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: An iPhone and iPad app for children with autism that offers music, audio stories, calming melodies, rhythmic content, and soothing sounds intended to support relaxation and sensory experiences.[1]
