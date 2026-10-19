@@ -658,3 +658,43 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-10-18
 - Description: Public collection of repositories addressing executive dysfunction, including one-step task queues, ritual chains, visual organization, and focus-support tools.
+
+### Systematic Review of Executive Function Stimulation Methods in the ADHD Population
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11278469/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Open-access systematic review examining methods developed to support executive functions in people with ADHD.
+
+### Efficacy of Non-pharmacological Interventions on Executive Functions in Children and Adolescents with ADHD
+
+- URL: https://research-repository.griffith.edu.au/items/7221f6a2-204e-4d0d-aebf-89369dc1f910
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Research-repository record for a systematic review and meta-analysis of non-pharmacological interventions targeting executive functions in children and adolescents with ADHD.
+
+### Executive Functioning in Adult ADHD: A Meta-Analytic Review
+
+- URL: https://repub.eur.nl/pub/10172/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Repository record for a meta-analytic review examining executive functioning in adults with ADHD.
+
+### A Bibliometric Analysis of Executive Functions in ADHD
+
+- URL: https://link.springer.com/article/10.1007/s44192-026-00495-4
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Bibliometric research mapping publication trends and research hotspots concerning executive functions in ADHD.
