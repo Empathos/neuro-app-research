@@ -408,3 +408,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Neuroaffirming guides and quizzes related to sensory processing and neurodivergence, with optional daily tracking, coaching, and printable resources.
+
+### Thruday Visual Planner
+
+- URL: https://apps.apple.com/vg/app/thruday-visual-planner-todos/id1645552771
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Visual planner with routines, reminders, task breakdowns, mood tracking, sensory-preference customization, and support-sharing features for autistic and ADHD users.

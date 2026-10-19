@@ -358,3 +358,33 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: iOS app offering personalized sensory settings for lighting, noise levels, and personal-space preferences to support more comfortable environments.[9]
+
+### NeuroHub
+
+- URL: https://play.google.com/store/apps/details?id=com.app.neurohub&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Android app using community ratings and mapping to help users find and share autism-accessible and sensory-friendly places.
+
+### Sensory Shield
+
+- URL: https://github.com/TeWei02/sensory-shield
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Accessibility-focused Chrome extension intended to reduce sensory and cognitive overload through configurable profiles, filtering, and explanatory tools.
+
+### OpenSense Infrastructure
+
+- URL: https://github.com/obinexus/opensense-infrastructure
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Public repository for a neurodivergent-oriented UI and UX framework featuring adaptive interfaces and phenotype-based personalization concepts.

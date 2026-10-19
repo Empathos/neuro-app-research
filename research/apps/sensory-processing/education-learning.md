@@ -748,3 +748,33 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: A review covering mobile apps and virtual-reality tools for neurodivergent skill development, communication, routine management, self-regulation, stress management, and daily participation.
+
+### Sensory Resources - Neurodivergent Insights
+
+- URL: https://neurodivergentinsights.com/sensory/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: Public collection of sensory-processing resources, workbooks, checklists, and tools addressing interoception, alexithymia, and sensory regulation in autism and ADHD.
+
+### SafeSense
+
+- URL: https://github.com/unhingednerdxcx/SafeSense--trust-the-sensors-
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: An experimental open-source sensory-sensitivity tool that collects environmental data from gas, temperature, sound, and ultrasonic sensors and displays results through a local Python interface.
+
+### Lets Make Sense Together
+
+- URL: https://www.hdft.nhs.uk/services/childrens-services/specialist-childrens-services/autism-assessment/autism-resources-harrogate-north-yorkshire/education-and-development/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: A free educational resource with videos and information about sensory-processing differences for children, parents, carers, teachers, and other supporters.

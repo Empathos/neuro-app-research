@@ -608,3 +608,23 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Open-source repository whose architecture models sensory processing, attention gating, executive function, and response selection in an AI search system.
+
+### OCALI Sensory Supports
+
+- URL: https://ocali.org/Sensory-Supports
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: A public resource collection offering sensory-processing and interoception information, practical support strategies, and tools for home, school, and other environments.
+
+### Sensory Supports for an Inclusive Environment
+
+- URL: https://www.viurrspace.ca/server/api/core/bitstreams/5272203c-f2c4-4743-873d-9b6a700e8f43/content
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-19
+- Description: An applied project resource describing sensory-support tools for self-regulation, behavior, and academic participation, including timers, fidgets, calming spaces, cushions, and texture-based supports.

@@ -648,3 +648,13 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Sensory-processing support app with personalized sensory and communication profiles, sensory-friendly locations, accessibility guides, social narratives, and visual schedules.
+
+### Ace Centre AAC Resources
+
+- URL: https://acecentre.org.uk/resources/all?category=info_apps
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-19
+- Description: Resource library with practical AAC information, including support for AAC users who communicate in languages other than English.
