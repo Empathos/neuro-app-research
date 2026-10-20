@@ -566,3 +566,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Public repository entry for an autism-focused assistant intended to support neurodiversity learning, research exploration, and autism-related data or coding questions.[7]
+
+### Quiet Atlas
+
+- URL: https://blink.new/p/sensory-map-app-dz1zwvq3
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Crowdsourced sensory-map concept for neurodivergent navigation, including noise, lighting, and crowd-density information.

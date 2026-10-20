@@ -558,3 +558,13 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: iOS ADHD-support app with education modules covering executive function, dopamine, rejection-sensitive dysphoria, sleep, and exercise, plus focus and organization tools.[6]
+
+### Tiimo - Visual Daily Planner
+
+- URL: https://apps.apple.com/br/app/tiimo-visual-daily-planner/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: A research-backed visual planning and learning app for diverse cognitive profiles, including ADHD and autism. It offers visual timelines, focus timers, AI task breakdowns, routines, and bite-sized expert learning content.
