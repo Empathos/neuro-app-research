@@ -418,3 +418,43 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Visual planner with routines, reminders, task breakdowns, mood tracking, sensory-preference customization, and support-sharing features for autistic and ADHD users.
+
+### Free Tools for ADHD, Autism, OCD, and Anxiety
+
+- URL: https://www.findyourneurotype.com/en/tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Library of printable tools for neurodivergent daily life, including sensory-profile checklists, overload planning, energy budgeting, and behavior-support strategies.
+
+### Tools + Games  NeuroDiversion
+
+- URL: https://www.neurodiversion.org/tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Collection of practical neurodivergent-friendly tools and interactive guides, including sensory-kit building, shower setup, routines, prompts, and scripts.
+
+### Accessible Hive
+
+- URL: https://accessiblehive.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Visual supports for neurodivergent children and families, including customizable routines, task breakdowns, hygiene supports, food-preparation guidance, and daily-living visuals.
+
+### Everyday Help Hub
+
+- URL: https://aspieanswers.com/everyday-help-hub/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Practical daily-living support hub with guides, checklists, planners, worksheets, and strategies for reducing sensory load and managing home tasks.

@@ -548,3 +548,53 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Accessibility and caregiving platform offering emotion and sensory regulation tools, customizable categories, progress tracking, caseload management, and caregiver collaboration.
+
+### SensoryTreat
+
+- URL: https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1007&context=occupational-therapy-capstone-projects
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: A parent-and-practitioner sensory-diet application described in an occupational-therapy capstone resource. It supports home-program creation, routines, reminders, activity selection, goal setting, and therapist monitoring.
+
+### Parental descriptions of sensory processing in Autism
+
+- URL: https://hal.parisnanterre.fr/hal-04748289v1/document
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Open research document reporting caregiver focus groups about sensory processing among autistic participants, offering qualitative leads for caregiver-centered research.
+
+### Atypical sensory processing features in children with autism
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1002/aur.2700
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Research study using caregiver-completed measures to examine sensory processing, maladaptive behaviors, and caregiver strain in children with autism.
+
+### Performance of Daily Living Activities of Autistic Children
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1155/oti/5556699
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Study examining caregiver reports of how sensory-processing difficulties affect autistic children's daily activities, including feeding, hygiene, dressing, bathing, and toileting.
+
+### Pfeiffer sensory integration pilot study
+
+- URL: http://sensory-processing.middletownautism.com/wp-content/uploads/sites/3/2015/07/Pfeiffer-2011.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Pilot randomized-trial research resource on sensory-integration interventions in autistic children, including caregiver-completed home measures and outcome assessment methods.
