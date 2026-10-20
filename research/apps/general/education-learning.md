@@ -568,3 +568,43 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Educational and training resources including interactive films and sensory-experience materials designed to build understanding of neurodivergent perspectives and support needs.
+
+### Learning Resources for Neurodivergent Students
+
+- URL: https://cod.edu/academics/tasc/resources/neurodiverse-learners.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Education-focused resource page listing assistive technologies and study tools such as NaturalReader, NVDA, My Study Life, and other academic-support resources.
+
+### Learning about neurodiversity at school (LEANS)
+
+- URL: https://www.mentallyhealthyschools.org.uk/resources/learning-about-neurodiversity-at-school-leans/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Free primary-school curriculum for ages 811, including lesson plans, worksheets, posters, teacher guidance, and parent materials; developed by neurodiverse researchers and educators.
+
+### inclusionED
+
+- URL: https://www.neurodiversityhub.org/teachers
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Free professional-learning community for educators offering evidence-based and research-informed inclusive teaching practices grounded in Universal Design for Learning.
+
+### Neurodiversity Resources for Educators
+
+- URL: https://umalibguides.uma.edu/c.php?g=1442994&p=10826920
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: University-maintained guide to educational materials, accessibility tools, and inclusive teaching resources for supporting neurodivergent students.

@@ -969,16 +969,6 @@
 - Found: 2026-10-18
 - Description: Review discussing executive-function differences in autism and ADHD, including measurement issues and neuropsychological-test findings.
 
-### Executive Function: Cognition and Behaviour in Adults with Autism Spectrum Disorders
-
-- URL: https://d-nb.info/1203929889/34
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: executive-function
-- Query: autism executive-function neurodivergent app research pass 501
-- Found: 2026-10-18
-- Description: Research record examining executive-function task performance and everyday dysexecutive behaviors in autistic adults.
-
 ### Mindera Autism
 
 - URL: https://github.com/Mindera/autism

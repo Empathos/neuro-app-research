@@ -968,3 +968,13 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Research-oriented AAC project for children with autism that combines symbol recognition, speech synthesis, and adaptive learning.
+
+### LingoLinq-AAC
+
+- URL: https://github.com/lingolinq/LingoLinq-AAC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Open-source, web-based AAC app and management platform using speech synthesis, offline-capable web technologies, and cross-device synchronization.

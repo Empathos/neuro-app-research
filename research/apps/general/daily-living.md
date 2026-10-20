@@ -468,3 +468,63 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Visual routine app for children, including task logging, visual schedules, and reward mechanics intended to support daily activities.[2]
+
+### Thruday: Visual Planner and Routine App for ADHD and Autism
+
+- URL: https://fisd.oxfordshire.gov.uk/kb5/oxfordshire/directory/service.page?id=z2YEoQmWvqs
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Visual daily planner supporting routines, task breakdown, reminders, time management, and everyday executive function for ADHD and autistic users.
+
+### Tiimo: ADHD AI Planner & To-do
+
+- URL: https://apps.apple.com/fr/app/tiimo-ai-planner-to-do/id1480220328?l=en-GB&platform=iphone
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Neurodivergent-friendly planner with visual schedules, task lists, focus timers, AI prioritization, and calendar/reminder synchronization.
+
+### Neurodiverge App Pricing and Features
+
+- URL: https://neurodiverge.app/pricing
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Official feature page documenting free self-screens and guides plus paid daily tracking, pattern dashboards, printable worksheets, and clinician handoff reports.
+
+### My Genius: Neurodiversity App
+
+- URL: https://apps.apple.com/us/app/my-genius-neurodiversity-app/id6756838712
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: iPad app with multidimensional profiling intended to identify sensory, emotional, behavioral, developmental, and executive-function challenges.
+
+### NeuroTask Daily Planner
+
+- URL: https://blink.new/p/neurotask-planner-eb5hojb6
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: AI daily planner for users who benefit from structured routines, with task and goal persistence, progress tracking, and prompts for task initiation and prioritization.
+
+### Meinsystem Routine and Planning Templates
+
+- URL: https://meinsystem.app/en/templates
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Free printable and editable templates for ADHD and autism routines, appointments, transitions, plan changes, sensory adjustments, and daily planning.

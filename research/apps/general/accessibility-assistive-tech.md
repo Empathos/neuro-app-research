@@ -628,3 +628,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: A public resource and support platform covering neurodevelopmental guidance, communication aids, AAC, assistive technology, specialists, support groups, and related services.[4]
+
+### SenLife  ADHD & Autism Support
+
+- URL: https://apps.apple.com/gb/app/senlife-adhd-autism-support/id6450156262
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: App for recording daily observations, identifying behavioral patterns, and generating reports to support advocacy in home, school, and healthcare settings.
