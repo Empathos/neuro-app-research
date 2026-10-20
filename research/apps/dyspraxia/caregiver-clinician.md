@@ -548,3 +548,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Research lead addressing trauma-informed support for neurodivergent clients and caregiver training needs. [8]
+
+### Dyspraxia AI
+
+- URL: https://dyspraxia.ai/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: A dyspraxia-focused information and community resource for individuals, families, and professionals, presented as an AI-assisted reference network with cited and quality-reviewed pages.

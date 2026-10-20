@@ -748,3 +748,33 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Repository record for research on game-based circuit interventions intended to improve movement skills among children with dyspraxia in physical education.[4]
+
+### DYSPRAXIATHECA: Digital Library for Dyspraxic Education
+
+- URL: https://www.dysyraxiatheca.eu/en/project
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: European platform offering adapted ebooks, accessible exercises, model lessons, and practical guidance for dyspraxic students, teachers, and parents.
+
+### Edge Hill University Dyspraxia Toolkit
+
+- URL: https://eshare.edgehill.ac.uk/16541/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Online dyspraxia information and support toolkit intended for university students and staff.
+
+### Booost Education  Planning Tools for Neurodivergent Learners
+
+- URL: https://www.booosteducation.com/toolkit/tools/planning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Collection of free apps, tools, and techniques supporting planning, memory, focus, and varied learning approaches.

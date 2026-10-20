@@ -658,3 +658,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Official resource collection covering dyspraxia support, helpline services, local groups, and frequently asked questions.
+
+### DYNSEO CLINT Cognitive Games
+
+- URL: https://www.dynseo.com/en/logic-test-train-yourself-and-boost-your-executive-functions/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Cognitive-training application featuring games targeting executive functions such as planning, problem-solving, flexibility, and inhibition; the page also discusses dyspraxia-related planning challenges.

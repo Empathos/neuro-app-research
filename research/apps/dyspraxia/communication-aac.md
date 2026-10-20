@@ -858,3 +858,73 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: AAC app for teens and adults with speech difficulties; users tap to construct sentences that are spoken aloud, with support for conditions including apraxia and nonspeaking autism.
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/in/app/make-a-choice-aac-buttons/id1295966224?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Choice-board AAC app designed with speech-pathology input. Supports large two- or four-button layouts, text or images, spoken output, and recorded voices; specifically describes use with dyspraxia and motor difficulties.[7]
+
+### Fluent AAC: Communication App
+
+- URL: https://apps.apple.com/no/app/fluent-aac-communication-app/id1489807378
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Customizable AAC app for children and adults who have difficulty using natural speech, including people with autism, apraxia, and other speech-related conditions.[9]
+
+### Speech Assistant AAC
+
+- URL: https://play.google.com/store/apps/details?id=nl.asoft.speechassistant&hl=en_GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Text-to-speech AAC app allowing users to organize frequently used phrases into categorized buttons and create spoken or displayed messages; intended for people with speech impairment, including autism and other communication conditions.[4]
+
+### Co-Occurring Diagnosis Resources
+
+- URL: https://www.apraxia-kids.org/co-occurring-diagnosis-resources/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Resource hub linking AAC Institute, Everyone Communicates, and dyspraxia/DCD support and research organizations; useful as a starting point for communication-access and co-occurring-condition research.[1]
+
+### Speech Help Resource Library
+
+- URL: https://shrs.uq.edu.au/research/research-centres-and-units/qarc/aphasia-tech-hub/resource-library/speech-help
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: University resource-library entry for speech-support technology, including Spoken AAC, with device and platform information for communication research.[3]
+
+### AAC Speech & Communication
+
+- URL: https://apps.apple.com/in/app/aac-speech-communication/id6797170253
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Offline AAC board for people with speech challenges, providing customizable symbol boards, pictures, text, and natural text-to-speech for home, school, and therapy use.
+
+### Remote Therapy Tool for Childhood Apraxia of Speech
+
+- URL: https://psi.engr.tamu.edu/wp-content/uploads/2018/01/parnandi2015taccess.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Research paper describing a remote speech-therapy system combining a mobile practice app, clinician management interface, and server-side speech-processing engine.
