@@ -758,3 +758,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Neurodivergent-oriented planning skill covering time blindness, daily structure, brain dumps, next actions, transition buffers, and energy-aware task design.
+
+### AAC Speech & Communication
+
+- URL: https://apps.apple.com/in/app/aac-speech-communication/id6797170253
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Offline AAC board with pictures, text, and natural text-to-speech for people with speech challenges, including autistic users.

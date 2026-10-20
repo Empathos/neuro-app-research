@@ -368,3 +368,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Android app featuring expert-led educational content on communication, social skills, daily living, and emotional skills.
+
+### DailyCue Routine Planner
+
+- URL: https://lnkd.in/e4K5Zg6y
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Routine planner described as supporting ADHD, autism, executive-function challenges, visual schedules, recurring tasks, appointments, checklists, and gentle reminders.

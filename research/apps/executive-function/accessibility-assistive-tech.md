@@ -518,3 +518,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Android accessibility guidance for neurodivergent users, covering reduced time pressure, clear communication, consistency, configurability, alternatives, confirmation steps, and discoverable assistance.
+
+### Tiimo: ADHD AI Planner & To-do
+
+- URL: https://apps.apple.com/es/app/tiimo-adhd-ai-planner-to-do/id1480220328?l=ca
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Visual planning app designed for ADHD, autism, and neurodivergent users, with color-coded schedules, task breakdown, focus sessions, and calendar/reminder synchronization.[4]
+
+### neurodock
+
+- URL: https://github.com/tlennon-ie/neurodock
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Local-first cognitive-support project for neurodivergent professionals, providing memory, time awareness, ambiguity translation, and safeguards against rumination and hyperfocus.[2]
+
+### Assistive Technology GitHub Topics
+
+- URL: https://github.com/topics/assistive-technology?o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Public GitHub directory for assistive-technology repositories, including projects focused on cognitive scaffolding and executive-function support.
