@@ -448,3 +448,73 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Project page describing interactive exercises for reading, writing, arithmetic, and organization, plus freely available document-conversion tools for accessible EPUB materials.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/kr/app/beats-medical-dyspraxia-app/id1194965395?l=en-GB&platform=iphone
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Home-based, gamified therapy app for children aged 514 with dyspraxia or developmental coordination disorder, covering gross motor, fine motor, speech, and communication skills.
+
+### Modmath
+
+- URL: https://play.google.com/store/apps/details?id=com.and.modmathinc.com&hl=en_ZA
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Digital mathematics workspace replacing pencil-and-paper work for students with dyslexia, dysgraphia, dyscalculia, dyspraxia, and other learning differences.
+
+### UCL Assistive Technology
+
+- URL: https://www.ucl.ac.uk/isd/services/digital-accessibility-services/assistive-technology
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: University accessibility resource covering assistive software for disabilities and specific learning differences including dyslexia and dyspraxia, with some open-source options.
+
+### Everway Dyspraxia Solutions
+
+- URL: https://www.everway.com/en-gb/solutions/dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Assistive-technology solution set featuring Read&Write, OrbitNote, and Equatio for text-to-speech, word prediction, accessible PDF annotation, speech-enabled mathematics, and alternative input methods.
+
+### Other Assistive Technology  University of Suffolk
+
+- URL: https://libguides.uos.ac.uk/assistive-technology/other-assitive-technology
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Institutional assistive-technology guide covering speech-to-text, screen-reading, visual-reading, note-taking, and dictation tools such as ClaroRead, Dragon, Read&Write, Glean, and Notability.
+
+### GitHub Accessibility Stories
+
+- URL: https://accessibility.github.com/stories
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Official GitHub accessibility case studies, including FreeSpeechAAC, an open-source communication app developed to meet accessibility and augmentative-communication needs.
+
+### Neurodivergent Practitioners Accessibility Statement
+
+- URL: https://neurodivergentpractitioners.org/about/accessibility/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Public accessibility reference describing keyboard, screen-reader, contrast, and WCAG 2.1 AA considerations for a neurodivergent-focused service.

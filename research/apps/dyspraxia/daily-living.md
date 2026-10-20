@@ -498,3 +498,13 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Voice-to-text tool listed by the University of Exeter that can convert spoken notes into written text, potentially reducing fine-motor and handwriting demands.
+
+### Thruday
+
+- URL: https://apps.apple.com/au/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Neurodivergent-focused planning app with visual schedules, reminders, mood tracking, journaling, collaborative routine building, and explicit support for users with dyspraxia.

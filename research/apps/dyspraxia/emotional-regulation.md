@@ -458,3 +458,33 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-16
 - Description: Visual planner for ADHD and autism with routines, reminders, mood tracking, breathing tools, energy and overwhelm planning, emotional-pattern tracking, and carer or family support.
+
+### Diverge
+
+- URL: https://github.com/mukut03/diverge
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Open-source journaling tool designed for neurodivergent users, with emotional-state, trigger, and cognitive-reappraisal features.
+
+### Malo multidomain mHealth app study
+
+- URL: https://publichealth.jmir.org/2024/1/e58565/PDF
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Peer-reviewed research on a large-scale multidomain smartphone app for monitoring neurodevelopmental skills and supporting family mental health.
+
+### Mobile educational applications for learning difficulties including dyspraxia
+
+- URL: https://usmp.edu.pe/campus/pdf/revista23/articulo1.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Research article evaluating mobile educational applications for learning difficulties, explicitly including dyspraxia and gamified support approaches.
