@@ -698,3 +698,63 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Bibliometric research mapping publication trends and research hotspots concerning executive functions in ADHD.
+
+### ADHD Planner App
+
+- URL: https://apps.apple.com/us/app/adhd-planner-app/id6747165285
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: iPhone planner with customizable schedules, calendar and timeline views, reminders, recurring tasks, and widgets for organizing daily activities.
+
+### ADHD Planner - Essentialism
+
+- URL: https://apps.apple.com/us/app/adhd-planner-essentialism/id6757022061
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: ADHD-focused planner offering focus, habits, productivity analysis, priority support, and on-device processing designed to keep notes local.
+
+### ADHD: Planner & Lifehacks
+
+- URL: https://apps.apple.com/us/app/adhd-planner-lifehacks/id6753921198
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Planner combining tasks, habits, medication tracking, focus timers, visual organization, reminders, and brain-dump capture for neurodivergent users.
+
+### ADHD Organizer, Daily Planner
+
+- URL: https://apps.apple.com/us/app/adhd-organizer-daily-planner/id1494584871
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Routine, habit, and timer app that tracks time spent on goals and provides reminders for unfinished activities.
+
+### Numo ADHD: Organizer & Planner
+
+- URL: https://apps.apple.com/jp/app/numo-adhd-organizer-planner/id1628994767
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Gamified ADHD organizer with bite-sized educational content, social or private tasks, and rewards for task completion.
+
+### Amazing Marvin: ADHD Planner
+
+- URL: https://apps.apple.com/ru/app/amazing-marvin-adhd-planner/id1314511546?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Customizable task and day planner featuring focus timers, brain dumps, accountability tools, gamification, and productivity suggestions.

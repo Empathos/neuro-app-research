@@ -869,3 +869,33 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Free, open-source AAC communication board supporting spoken words or typed messages, customizable categories, device storage, and optional self-hosted backups.
+
+### Pictalk
+
+- URL: https://www.pictalk.org/en/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Visual schedule, pictogram communication board, and step-by-step task tools for people with ADHD, autism, and cognitive disabilities; supports offline use.
+
+### TwIPS: A Large Language Model Powered Texting Application
+
+- URL: https://arxiv.org/html/2407.17760v1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Research prototype texting application using a large language model to simplify conversational nuances for autistic users.
+
+### This Is My Voice
+
+- URL: https://apps.apple.com/us/app/this-is-my-voice/id6747365467
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: AAC app for children and adults with speech disabilities, using symbols and voice output to support communication.

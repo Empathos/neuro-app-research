@@ -898,3 +898,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Neurodivergent-oriented visual planner supporting ADHD and autism-related routines, emotional regulation, breathing exercises, mood tracking, reminders, and shared support with carers.
+
+### CoRegulate
+
+- URL: https://coregulateadhd.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: ADHD-focused companion with personalized check-ins, overwhelm navigation, regulation tools, cycle breakers, self-talk reframes, and solo or partner co-regulation support.
+
+### Diverge
+
+- URL: https://github.com/mukut03/diverge
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Open-source journaling tool designed for neurodivergent users, emphasizing simple emotional processing, reflection, and reduced cognitive overload.

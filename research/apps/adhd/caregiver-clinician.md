@@ -658,3 +658,23 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: ADHD and anxiety support platform developed with ADHD coaches and clinicians; includes supporter-based task accountability, progress monitoring, and delegated task assistance.
+
+### ADHD app systematic review
+
+- URL: https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1483923/pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Systematic review covering ADHD apps for symptom management, treatment adherence, behavioral monitoring, caregiver and educator support, and clinician communication; discusses AKL-X01, FOCUS ADHD, and Sensory Diet App.[10]
+
+### Mystra
+
+- URL: https://www.f6s.com/software/category/adhd-support
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Research-informed remote platform described as supporting children with ADHD through tailored interventions, parent guidance, and clinician tools for remote care.[8]

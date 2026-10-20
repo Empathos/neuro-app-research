@@ -758,3 +758,43 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Public health app collection covering daily-living support tools such as Brain in Hand, Fabulous, and Inflow for routines, mood, stress, sleep, self-management, and ADHD support.[8]
+
+### ADHD Planner - Routine & Tasks
+
+- URL: https://play.google.com/store/apps/details?id=com.adhd.planner.taches.tasks.routine.easy
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Android planner for neurodivergent users featuring visual routines, guided transitions, daily habits, and energy awareness.
+
+### Hypermonkey: ADHD Productivity
+
+- URL: https://apps.apple.com/us/app/hypermonkey-adhd-productivity/id6736893516
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Gamified ADHD productivity app with task breakdown, prioritization, task suggestions, and Pomodoro focus sessions.
+
+### Productive - Habit Tracker
+
+- URL: https://apps.apple.com/us/app/productive-habit-tracker/id983826477
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Habit and routine tracker for setting goals, monitoring progress, and building consistent daily routines, including ADHD-oriented assistance.
+
+### Win Focus: ADHD Focus Timer
+
+- URL: https://apps.apple.com/in/app/win-focus-adhd-focus-timer/id6654903538
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: ADHD-oriented focus timer with customizable sessions, reminders for time blindness, and rewards for sustained focus.
