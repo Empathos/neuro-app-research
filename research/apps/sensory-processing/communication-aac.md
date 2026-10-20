@@ -668,3 +668,23 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Practical guide to sensory-regulation tools such as noise reduction, weighted equipment, lighting adjustments, and sensory-profile considerations.
+
+### AAC Speech & Communication
+
+- URL: https://apps.apple.com/in/app/aac-speech-communication/id6797170253
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-20
+- Description: Offline AAC board for iPhone and iPad using pictures, text, and natural text-to-speech; intended for autism and other speech-related disabilities.[1]
+
+### Sensory Processing Measure Scoring Tool
+
+- URL: https://github.com/miiakorhonen/SPM-2
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Public Python repository implementing a scoring tool for the Sensory Processing Measure (SPM-2), potentially useful for assessment-related research workflows.

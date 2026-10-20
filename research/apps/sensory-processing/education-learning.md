@@ -808,3 +808,23 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Educational library covering math, logic, coding, and science, with an autism-friendly interface and sensory-conscious design for children with ASD, ADHD, and sensory-processing differences.[3]
+
+### Neurodiversity-Inclusive Education Software
+
+- URL: https://www.f6s.com/software/category/neurodiversity-inclusive-education
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Public directory of inclusive education products, including visual touch-based math learning, sensory-friendly interfaces, adaptive pathways, and social-emotional learning tools.
+
+### Apps for Neurodivergent Kiddos
+
+- URL: https://benable.com/thekaialuxe/apps-for-neurodivergent-kiddos-3a
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Publicly curated lead list covering adaptive reading and math, visual schedules, low-stimulation sensory play, relaxation, and routine-support apps.
