@@ -518,3 +518,23 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Public randomized-trial article on a caregiver app model combining education, communication and daily-care guidance, behavioral-support information, self-care resources, service navigation, and reminders.
+
+### Autism & Beyond
+
+- URL: https://autismandbeyond.researchkit.duke.edu/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: ResearchKit-based iPhone app for caregivers and young children, supporting remote autism-related behavioral and emotion research.
+
+### My JAKE
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10384173/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Web and mobile caregiver-reporting tool studied for daily tracking of sleep, affect, and autism-related behaviors for clinician-supported assessment.
