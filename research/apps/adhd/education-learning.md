@@ -1068,3 +1068,13 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Playful educational platform for neurodivergent children and teens, including learners with ADHD, autism, dyslexia, and dyscalculia; supports attention, memory, reasoning, and emotional skills.
+
+### Neurodiversity-Aware Platform for Education (NAPE)
+
+- URL: https://cmu-variability.github.io/research.html
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: Research project for an accessible education platform that adapts learning materials to cognitive styles, including ADHD, dyslexia, and autism.

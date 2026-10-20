@@ -578,3 +578,13 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Open-access research review of ADHD apps found through Apple App Store and Google Play searches, providing a source for app discovery and evaluation.
+
+### Studying with Neurodivergence: Tools and Tech
+
+- URL: https://libguides.newcastle.edu.au/studying-with-neurodivergence/module-7-tools-tech
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-20
+- Description: University guide covering accessibility settings and assistive tools such as focus timers, website blockers, text-to-speech, visual support, and AAC.
