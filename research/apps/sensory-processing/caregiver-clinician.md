@@ -598,3 +598,33 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Pilot randomized-trial research resource on sensory-integration interventions in autistic children, including caregiver-completed home measures and outcome assessment methods.
+
+### Brainsphere
+
+- URL: https://www.brainsphere.ai/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: R&D platform for autism, ADHD, learning disabilities, and sensory-processing challenges, describing clinician- and caregiver-collaborative tools such as therapy tracking apps and family/clinician dashboards.
+
+### SenseHarmony sensory-management app research
+
+- URL: https://openaccess.cms-conferences.org/publications/book/978-1-964867-73-1/article/978-1-964867-73-1_2
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Research lead describing SenseHarmony, a prototype with sensory screening, mood logging, and personalized sensory-diet recommendations for managing neurodivergent sensory needs.
+
+### AI platform for pedagogical support and sensory accommodations
+
+- URL: https://sol.sbc.org.br/index.php/sbsi/article/download/34339/34130
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Research proposal for an AI-based platform that recommends personalized educational activities and sensory accommodations for use by teachers, families, and therapists.

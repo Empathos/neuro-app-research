@@ -458,3 +458,23 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Practical daily-living support hub with guides, checklists, planners, worksheets, and strategies for reducing sensory load and managing home tasks.
+
+### THRIVE App
+
+- URL: https://worktogethernc.com/resource/thrive-app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Visual planning and regulation app designed around neurodivergent needs, including day-to-day organization and decompression tools.
+
+### Apps That Think Like You Do  App Store
+
+- URL: https://apps.apple.com/ca/ipad/story/id1867605202
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: App Store collection highlighting productivity, time-management, self-care, and sensory-regulation tools for people with autism, ADHD, and dyslexia.
