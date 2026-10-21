@@ -678,3 +678,13 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Research-informed remote platform described as supporting children with ADHD through tailored interventions, parent guidance, and clinician tools for remote care.[8]
+
+### NerdyADHD Open Science Framework Project
+
+- URL: https://nerdyadhd.org/research/osf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Public research infrastructure featuring preregistrations, open data, and reproducible materials for neurodivergence-related research.

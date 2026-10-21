@@ -918,3 +918,43 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Open-source journaling tool designed for neurodivergent users, emphasizing simple emotional processing, reflection, and reduced cognitive overload.
+
+### NdCare Hub
+
+- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neuro-affirming emotional-regulation app for ADHD and AuDHD, with grounding sequences, somatic resets, sensory stabilization, routines, education, and support for emotional flooding or shutdown.
+
+### Outspiral
+
+- URL: https://outspiral.app/blog/best-adhd-apps-emotional-regulation-rsd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: ADHD emotional-regulation tool described as providing SOS support for RSD episodes, grounding during acute distress, a message wait timer, and brief trigger-pattern logging.
+
+### NUMO
+
+- URL: https://numo.ai/journal/best-adhd-apps
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: ADHD support app with affirmations and a bite-sized CBT-oriented emotional-regulation course addressing difficult thoughts and feelings.
+
+### Zelmwell
+
+- URL: https://www.essence.com/health-and-wellness/keisha-mccotry-from-job-loss-to-adhd-app-founder/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: ADHD-focused emotional-regulation app reported to support difficult-moment logging, trigger identification, thought-pattern reflection, calming soundscapes, trend review, and therapist discussion summaries.

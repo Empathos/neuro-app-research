@@ -1078,3 +1078,23 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Research project for an accessible education platform that adapts learning materials to cognitive styles, including ADHD, dyslexia, and autism.
+
+### Awesome ADHD Resources
+
+- URL: https://github.com/R0XXANNE/awesome-adhd-resources
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Curated GitHub list of ADHD apps, books, ideas, and other support resources.
+
+### NeuroHub Toolkits & Frameworks
+
+- URL: https://neurohubcommunity.org/toolkits-frameworks/?v=7885444af42e
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Collection of evidence-informed, neuro-affirming tools and frameworks for education, healthcare, and support services.

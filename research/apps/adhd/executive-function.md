@@ -758,3 +758,13 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Customizable task and day planner featuring focus timers, brain dumps, accountability tools, gamification, and productivity suggestions.
+
+### Executive-function bot
+
+- URL: https://github.com/ThirdEyeRose/executive-function-bot
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Work-in-progress Telegram bot intended to support tasks that can be difficult for people with executive-function challenges, including ADHD and CPTSD.[6][8]
