@@ -558,3 +558,43 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: A dyspraxia-focused information and community resource for individuals, families, and professionals, presented as an AI-assisted reference network with cited and quality-reviewed pages.
+
+### Developmental Coordination Disorder: Dyspraxia in Children
+
+- URL: https://childmind.org/article/problems-coordination-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Clinical information resource on DCD/dyspraxia that discusses treatment approaches and handwriting-support apps such as LetterSchool and iTrace.
+
+### Motor Skills and Co-ordination Level 26 Child Self-care
+
+- URL: https://dimensions.covwarkpt.nhs.uk/Download_Document.aspx?DocID=272&DocType=1
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: NHS-linked resource covering dyspraxia/DCD support, parent chat groups, app-library guidance, visual timers, handwriting support, relaxation tools, and coordination-related activities.
+
+### Mobile Health Apps, Family Caregivers, and Care Planning
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11157180/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Research review examining caregiver mobile-health apps, information needs, care coordination, communication with healthcare teams, and gaps in clinician-integrated tools.
+
+### Virtual Acceptance and Commitment Training for Caregivers
+
+- URL: https://formative.jmir.org/2026/1/e86205/PDF
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Study of a virtual group-based intervention for family caregivers of neurodivergent people or people with disabilities, reporting acceptability and improvements in psychological flexibility and mental well-being.

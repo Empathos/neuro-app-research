@@ -668,3 +668,23 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Cognitive-training application featuring games targeting executive functions such as planning, problem-solving, flexibility, and inhibition; the page also discusses dyspraxia-related planning challenges.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/nl/app/goblin-tools-autism-pal-to-do/id1527180714
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neurodivergent-focused productivity app with task decomposition, time estimation, and tools intended to support executive-function challenges.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/nl/app/goblin-tools-autism-pal-to-do/id1527180714?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Neurodivergent productivity app featuring task breakdown, time estimation, and tools intended to reduce executive-function barriers.

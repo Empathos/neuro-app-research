@@ -518,3 +518,23 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Public accessibility reference describing keyboard, screen-reader, contrast, and WCAG 2.1 AA considerations for a neurodivergent-focused service.
+
+### GitHub Dyslexia Topic
+
+- URL: https://github.com/topics/dyslexia?l=html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Public repository-topic index containing projects related to dyslexia and adjacent neurodivergence and disability topics, including dyspraxia.[10]
+
+### Digital Accessibility Tools & Resources
+
+- URL: https://teamdynamix.umich.edu/TDClient/47/LSAPortal/KB/Article/15237/Digital-Accessibility-tools-resources
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Accessibility resource guide featuring Goblin as a free AI tool that breaks activities into smaller, simpler steps for neurodivergent users.

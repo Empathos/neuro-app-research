@@ -778,3 +778,23 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Collection of free apps, tools, and techniques supporting planning, memory, focus, and varied learning approaches.
+
+### SEN Apps and Tech Tools for Neurodivergent Students
+
+- URL: https://www.brightheart.co.uk/empowering-neurodivergent-students-with-tech-tools-and-sen-apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Overview of accessible education tools including Khan Academy Kids, DoodleMaths, Speechify, Natural Reader, and Trello for adapted learning, text-to-speech, personalized practice, and visual organization.
+
+### Useful Apps and Tools for Neurodivergent Students
+
+- URL: https://view.genially.com/688b409af34596979e276070
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Public collection of browser, mobile, and web tools for accessible study, including text-to-speech, Trello, Ayoa, mind mapping, task management, Pomodoro tools, body doubling, and focus soundscapes.

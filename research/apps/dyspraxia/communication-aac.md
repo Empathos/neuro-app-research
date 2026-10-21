@@ -928,3 +928,13 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Research paper describing a remote speech-therapy system combining a mobile practice app, clinician management interface, and server-side speech-processing engine.
+
+### Talk in Pictures X AAC Speak
+
+- URL: https://tools.idealearning.eu/?ideal-apps=talk-in-pictures-x-aac-speak
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Customizable AAC communication app for people with nonverbal communication needs, including speech difficulties associated with autism, dysarthria, and verbal dyspraxia.
