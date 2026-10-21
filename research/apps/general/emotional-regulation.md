@@ -508,3 +508,33 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: An emotional-regulation and behavioral-support app for children ages 412, including children with ADHD, autism, and sensory needs; it supports naming and navigating emotions.
+
+### NdCare Hub
+
+- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neuro-affirming emotional-regulation app offering tools for overwhelm, shutdown, spiralling, emotional flooding, rejection sensitivity, burnout, grounding, somatic resets, sensory stabilisation, and breathing.
+
+### Clear Fear
+
+- URL: https://www.clearfear.co.uk/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: CBT-informed app offering structured coping tools for anxiety and acute fear responses, including strategies that may help during panic or sensory overwhelm.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/es/app/calm-steps/id6755076182?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Emotional-regulation and behavioral-support app for children ages 412, including neurodivergent children with ADHD, autism, and sensory needs.[4]

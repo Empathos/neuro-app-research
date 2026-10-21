@@ -978,3 +978,13 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Open-source, web-based AAC app and management platform using speech synthesis, offline-capable web technologies, and cross-device synchronization.
+
+### CoughDrop AAC
+
+- URL: https://play.google.com/store/apps/details?id=com.mycoughdrop.coughdrop&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Cross-device AAC and support tool with customizable communication boards, symbols, photos, recorded audio, and speech synthesis for complex communication needs.

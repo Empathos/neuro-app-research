@@ -538,3 +538,23 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Web and mobile caregiver-reporting tool studied for daily tracking of sleep, affect, and autism-related behaviors for clinician-supported assessment.
+
+### Care Lab Collective
+
+- URL: https://www.carelabcollective.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Disability-affirming, parent-led caregiver community focused on neurodivergent and disabled children, including guidance on evaluations and finding supportive providers.
+
+### NeuroBetter Advice Hub
+
+- URL: https://neurobetter.org/advice-hub
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Public resource hub collecting neurodiversity, mental-health, and support information useful to caregivers, clinicians, and advocates.

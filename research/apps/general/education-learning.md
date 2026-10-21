@@ -608,3 +608,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: University-maintained guide to educational materials, accessibility tools, and inclusive teaching resources for supporting neurodivergent students.
+
+### Neurodiversity Hub: Student Resources
+
+- URL: https://www.neurodiversityhub.org/for-school-students
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Programs and materials for neurodivergent school students, including life-skills and study support, plus information about the Molehill Mountain anxiety-support app for autistic teens.
+
+### Neurodiversity Resources: UNC Greensboro
+
+- URL: https://ssw.unc.edu/wp-content/uploads/sites/509/2025/02/Neurodiversity-Resources-Revised-022125.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Public resource guide covering neurodiversity and Universal Design for Learning materials relevant to education and learner support.

@@ -638,3 +638,73 @@
 - Query: general executive-function neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Public neurodivergence resource covering executive-function and ADHD traits including starting, switching, planning, time management, working memory, and finishing tasks.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/au/app/tiimo-to-do-list-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neurodivergent-friendly visual planner with routines, gentle reminders, time-management support, and an AI planner for turning brain dumps into actionable plans.
+
+### Clarify: Focus & Task Manager
+
+- URL: https://apps.apple.com/ie/app/clarify-focus-task-manager/id1670958524
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Focus and task-management app addressing time blindness, ADHD paralysis, concentration, and executive-function challenges.
+
+### Emery Assistant
+
+- URL: https://apps.apple.com/us/app/emery-assistant/id6463831255
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: ADHD-oriented personal assistant supporting task management, organization, focus, and time-blocking for executive-function difficulties.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/au/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Short daily program for ADHD users featuring practical micro-challenges, habit building, reminders, agenda support, and reflection-to-habit tracking.
+
+### ADHD Lifehacks For Adults Pro
+
+- URL: https://apps.apple.com/fr/app/adhd-lifehacks-for-adults-pro/id1624890673?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Reference app covering practical strategies for memory, time blindness, distractions, getting things done, emotional regulation, and executive function.
+
+### DeeDee ADHD Daily Helper Tools
+
+- URL: https://apps.apple.com/iq/app/deedee-adhd-daily-helper-tools/id6745966602
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: ADHD support app combining task planning, coaching, habit tracking, timers, procrastination tools, calming exercises, and mood-related exercises.
+
+### NeuroCompare ADHD Technology Directory
+
+- URL: https://neurocompare.com/adhd-technology
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Curated directory of technology for ADHD and autism, covering planning, focus, communication, capture, calming, and AI-based executive-function assistance.

@@ -638,3 +638,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: App for recording daily observations, identifying behavioral patterns, and generating reports to support advocacy in home, school, and healthcare settings.
+
+### Jade - Learning Through Play
+
+- URL: https://apps.apple.com/us/app/jade-learning-through-play/id1473169233?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: App Store listing for a learning app aimed at neurodivergent children and teens, including users with autism, dyslexia, ADHD, and other disabilities; activities support assistive technologies and communication boards.
