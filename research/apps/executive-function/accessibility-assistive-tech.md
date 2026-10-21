@@ -548,3 +548,23 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Public GitHub directory for assistive-technology repositories, including projects focused on cognitive scaffolding and executive-function support.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/ca/app/tiimo-ai-planner-to-do/id1480220328?platform=appleWatch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Visual planning and executive-function support with AI task prioritization, routines, time guidance, and a focus timer.[1]
+
+### ADHDExec
+
+- URL: https://github.com/lyndskg/ADHDExec
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Open-source virtual executive assistant project for ADHD and other neurodivergencies, supporting task and event planning with flexible inbox and queued-task workflows.[5]

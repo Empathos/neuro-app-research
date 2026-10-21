@@ -576,3 +576,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Crowdsourced sensory-map concept for neurodivergent navigation, including noise, lighting, and crowd-density information.
+
+### TimeBox
+
+- URL: https://github.com/davidjenner/TimeBox
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Open-source timeboxing tool designed to help users start tasks, maintain focus, and build manageable focused work blocks.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/gb/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: App for adults with ADHD featuring short guided resets, cognitive offloading, reflection prompts, and focus-support routines.

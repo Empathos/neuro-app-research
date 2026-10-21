@@ -538,3 +538,43 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: An interactive toolkit covering task breakdown, planning, time management, goal setting, and flexible-thinking strategies for ADHD, autism, and learning differences.[9]
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/nl/app/goblin-tools-autism-pal-to-do/id1527180714?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neurodivergent-focused productivity tool that breaks overwhelming tasks into manageable steps and helps estimate task duration.
+
+### Executive Function Toolkit
+
+- URL: https://executivefunctiontoolkit.com/resources/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Collection of executive-function tools, worksheets, printable resources, and digital-app recommendations addressing time management, organization, focus, and emotional regulation.
+
+### Digital Cognitive Behavioral Therapy Apps for ADHD
+
+- URL: https://www.cambridge.org/core/journals/european-psychiatry/article/digital-cognitive-behavioral-therapy-cbt-apps-for-adhd-a-systematic-review-of-recent-evidence/B5B9E7DAC7B382619554B612D0C6AE67
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: A systematic review examining digital CBT apps for ADHD, including evidence concerning accessibility, adherence, symptom management, and executive functioning.
+
+### Effectiveness of Different Digital Interventions on Symptoms and Executive Function
+
+- URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1747368/full
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: A meta-analytic research lead assessing computer-based cognitive tasks, mobile games, and other digital interventions for executive-function outcomes.

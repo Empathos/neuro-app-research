@@ -568,3 +568,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: A research-backed visual planning and learning app for diverse cognitive profiles, including ADHD and autism. It offers visual timelines, focus timers, AI task breakdowns, routines, and bite-sized expert learning content.
+
+### Vanta
+
+- URL: https://github.com/jpoindexter/Vanta
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Open-source local AI operator with neurodiversity-first executive-function support, including choice reduction, externalized state, task initiation, and friction-aware assistance.
+
+### Goally
+
+- URL: https://getgoally.com/blog/5-of-our-favorite-apps-for-special-education/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Structured routine and life-skills support for children with ADHD, autism, and learning differences, including visual schedules and task sequencing to build executive-function skills and independence.

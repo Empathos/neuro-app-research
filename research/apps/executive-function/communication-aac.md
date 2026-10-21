@@ -768,3 +768,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Offline AAC board with pictures, text, and natural text-to-speech for people with speech challenges, including autistic users.
+
+### Speech Assistant - AAC Pad
+
+- URL: https://apps.apple.com/us/app/speech-assistant-aac-pad/id6764142827
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Customizable AAC phrase board with touch and hands-free face-control options for people with speech difficulties.

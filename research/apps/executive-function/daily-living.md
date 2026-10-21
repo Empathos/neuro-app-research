@@ -378,3 +378,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Routine planner described as supporting ADHD, autism, executive-function challenges, visual schedules, recurring tasks, appointments, checklists, and gentle reminders.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/us/app/the-adhd-executive/id6749107142?l=vi
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: iPhone app offering short daily insights and practical micro-challenges designed to help people with ADHD turn reflection into action.
