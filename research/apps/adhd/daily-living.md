@@ -798,3 +798,43 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: ADHD-oriented focus timer with customizable sessions, reminders for time blindness, and rewards for sustained focus.
+
+### a-Ha AuDHD Launcher
+
+- URL: https://github.com/kisalnelaka/a-Ha
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source Android launcher designed for ADHD and autistic users, with reduced visual complexity, task capture, daily anchoring, task breakdown, and time-awareness tools.
+
+### ADHD Assistant Skill
+
+- URL: https://lobehub.com/de/skills/openclaw-skills-adhd-assistant
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Public assistant skill for ADHD-oriented planning, task decomposition, time management, routines, body doubling, focus sessions, and emotional-support workflows.
+
+### ADHD Free Tools
+
+- URL: https://github.com/Joshckh/adhd-free-tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Free, open-source ADHD productivity tools including a focus timer, task breakdown, and quick-win micro-step generator.
+
+### Productivity App GitHub Topic
+
+- URL: https://github.com/topics/productivity-app?l=python
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: GitHub topic page containing productivity projects, including a locally hosted app designed for people with executive dysfunction, ADHD, autism, and AuDHD.

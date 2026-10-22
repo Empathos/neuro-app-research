@@ -688,3 +688,23 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Public research infrastructure featuring preregistrations, open data, and reproducible materials for neurodivergence-related research.
+
+### Sylva: Autism & ADHD Support
+
+- URL: https://apps.apple.com/pe/app/sylva-autism-adhd-support/id6751847550?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Family support app for parents of children with autism, ADHD, and other neurodivergent profiles, featuring AI-guided parenting and wellbeing support plus screening results that can be shared with clinicians and school teams.
+
+### Always Here
+
+- URL: https://podcasts.apple.com/us/podcast/ai-robot-mom-for-neurodivergent-adults-josh-rosenfeld/id1726252789?i=1000762399064
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Emerging AI companion concept for neurodivergent people with caregiver visibility, configurable routines and strategies, caregiver summaries, and potential dashboards for teachers, therapists, and care-team members.

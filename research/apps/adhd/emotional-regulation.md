@@ -958,3 +958,63 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: ADHD-focused emotional-regulation app reported to support difficult-moment logging, trigger identification, thought-pattern reflection, calming soundscapes, trend review, and therapist discussion summaries.
+
+### Inflow ADHD App Usability and Feasibility Study
+
+- URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000083
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Peer-reviewed study evaluating Inflow as a mobile CBT intervention for adults with ADHD, including psychoeducation, behavioral and cognitive skills, progress tracking, and community support.[7]
+
+### FOCUS ADHD App Evaluation
+
+- URL: https://www.cambridge.org/core/journals/european-psychiatry/article/evaluation-of-the-effectiveness-of-the-focus-adhd-app-in-monitoring-adults-with-attentiondeficithyperactivity-disorder/D472E6CACE7D5AFB00CA40DDE898A6A7
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Research publication evaluating the FOCUS ADHD app, which supports ADHD monitoring and can connect users with family members and health professionals.[1]
+
+### FOCUS ADHD App Research PDF
+
+- URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0924933823024227
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Research source describing FOCUS features including treatment tracking, medication reminders, symptom assessments, adverse-event logging, rewards, psychoeducation, and support-network sharing.[5]
+
+### ADHD  Cognitive Research
+
+- URL: https://apps.apple.com/de/app/adhd-cognitive-research/id1412022818?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: App Store research tool for ADHD studies involving attention, inhibition, monitoring, working memory, planning, and related cognitive evaluation or stimulation.[3]
+
+### MHIM-ADHD-ER Digital Health Intervention
+
+- URL: https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/prototyping-a-dhi-for-young-people-with-adhd-symptoms-v1/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: UK Health Research Authority project page for a mobile intervention designed to help 1115-year-olds with ADHD learn emotion-regulation strategies; the study assesses engagement, feasibility, mental health, and social outcomes.[10]
+
+### AutiPocket
+
+- URL: https://apps.apple.com/gb/app/autipocket/id6749908426
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Neurodivergent-support iPhone app with private helper chat, soothing games, breathing resources, and emotional-regulation videos.

@@ -768,3 +768,23 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Work-in-progress Telegram bot intended to support tasks that can be difficult for people with executive-function challenges, including ADHD and CPTSD.[6][8]
+
+### UditAkhourii/adhd
+
+- URL: https://github.com/uditakhourii/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source ADHD-oriented skill for coding agents using divergent reasoning, pruning, and structured output intended to support attention and cognitive workflow.
+
+### Mobile Applications for Students with ADHD
+
+- URL: https://gjeta.com/sites/default/files/fulltext_pdf/GJETA-2023-0116.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Review of ADHD-support mobile applications covering task management, time management, focus, cognitive training, self-monitoring, mindfulness, and education.

@@ -588,3 +588,43 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: University guide covering accessibility settings and assistive tools such as focus timers, website blockers, text-to-speech, visual support, and AAC.
+
+### EFECT
+
+- URL: https://github.com/timbencker/EFECT
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source extensions integrating evidence-informed ADHD support techniques into large-language-model interactions.
+
+### Dagsbalken
+
+- URL: https://github.com/Zoekur/dagsbalken
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Android project exploring linear time visualization as cognitive support for people with neurodevelopmental differences, including ADHD.
+
+### Oculus Vigilis
+
+- URL: https://github.com/ilke-kas/real-time-attention-tracker-oculus-vigilis
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Research-oriented attention feedback system using webcam input, computer vision, and deep learning to provide live focus-related feedback.
+
+### Amazing Marvin: ADHD Planner
+
+- URL: https://apps.apple.com/us/app/amazing-marvin-adhd-planner/id1314511546
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Customizable to-do list and daily planner marketed specifically for ADHD planning needs.
