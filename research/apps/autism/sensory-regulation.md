@@ -888,3 +888,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: An iPhone and iPad app for children with autism that offers music, audio stories, calming melodies, rhythmic content, and soothing sounds intended to support relaxation and sensory experiences.[1]
+
+### Sensory Overload  GitHub Topic
+
+- URL: https://github.com/topics/sensory-overload
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public repository collection covering sensory-overload prevention, adaptive noise reduction, calming interventions, and related neurodivergence-support projects.

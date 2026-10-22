@@ -618,3 +618,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Public accessibility guidance on designing clearer interfaces for autistic users, including color, contrast, and visual-complexity considerations.[3]
+
+### TD Snap
+
+- URL: https://us.tobiidynavox.com/pages/td-snap
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: AAC software from Tobii Dynavox with symbol- and text-based communication pages for speech accessibility.
+
+### Time Timer
+
+- URL: https://www.timetimer.com/pages/time-timer-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Visual timer app that represents elapsed time graphically, supporting transitions, focus, and time awareness.
+
+### VisualVoice
+
+- URL: https://apps.apple.com/pk/app/visualvoice/id6749776764
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Offline AAC app for autism communication with pictograms, emotions, text-to-speech, sensory-friendly visuals, and multiple languages.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/au/app/autism-play-garden/id6751961935
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: iOS app offering therapist-informed activities, an AAC talk pad, sensory-calming games, tracing, coloring, puzzles, and daily-living skills.[9]

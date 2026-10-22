@@ -648,3 +648,13 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Screening app for parents, educators, and medical professionals using a validated questionnaire to identify whether a child may need formal autism evaluation.
+
+### My JAKE Autism Knowledge Engine
+
+- URL: https://scholars.duke.edu/publication/1376311
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Web and mobile research system that lets caregivers continuously log autism-related symptoms, treatments, sleep, affect, and behaviors for clinical-outcome tracking.

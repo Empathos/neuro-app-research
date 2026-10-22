@@ -1028,3 +1028,33 @@
 - Query: autism education-learning neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Autism-support app using social narratives, picture schedules, visual timers, token boards, and first-then charts to support social and daily-living skills.
+
+### Autism Experts App
+
+- URL: https://www.autism-experts.org/app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Mobile access to autism-focused courses, books, articles, videos, guides, and practical support resources for families and professionals.
+
+### Otsimo Special Education
+
+- URL: https://autism-raadsr.com/resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Special-education learning app lead offering games and activities for cognition, communication, emotions, social stories, letters, numbers, and personalized learning paths.
+
+### Understanding Autism
+
+- URL: https://apps.apple.com/gb/app/understanding-autism/id1446720237
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Caregiver and supporter education app offering short videos and introductory guidance for people supporting someone living with autism.

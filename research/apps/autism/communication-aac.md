@@ -928,3 +928,23 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Open-access case study on AAC for autism, discussing letter boards, iPad-based communication, word prediction, text-to-speech, speech-to-text, and communication-symbol tools.
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/Asterics-AAC
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Free, accessible, browser-based AAC software for creating flexible grid communication interfaces, with offline support, alternative input options, media access, and smart-home controls.
+
+### CoughDrop AAC
+
+- URL: https://play.google.com/store/apps/details?id=com.mycoughdrop.coughdrop&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Configurable AAC and communication-support tool for autism and complex communication needs, with starter boards, symbols, photos, recorded audio, and speech synthesis.

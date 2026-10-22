@@ -1028,3 +1028,23 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Peer-reviewed review of autism-support apps, including tools addressing executive functions, communication, language, daily living, and visual supports.
+
+### MyComms: Visual Supports App
+
+- URL: https://play.google.com/store/apps/details?id=co.commspec.app&hl=en_AU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: A visual-support app for autistic and ADHD users that makes routines, communication, comprehension, and executive-function demands more predictable.
+
+### The Autism Helper
+
+- URL: https://apps.apple.com/us/app/the-autism-helper/id1557724340
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: An iPad app providing autism resources, evidence-based training, executive-function courses, downloadable tools, and a professional support community.
