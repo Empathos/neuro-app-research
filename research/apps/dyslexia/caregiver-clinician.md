@@ -398,3 +398,23 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Reading-tutor app for children with dyslexia, ADHD, and other learning needs, featuring phonics lessons, adaptive practice, voice feedback, progress tracking, and parent or educator use.[10]
+
+### Ayoa Neurodiversity Tools
+
+- URL: https://www.ayoa.com/neurodiversity/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Mind-mapping and learning tool with dyslexia-oriented features such as customizable backgrounds, dyslexia-friendly views, and vocabulary simplification.[2]
+
+### Lex Notes for LD Brains
+
+- URL: https://play.google.com/store/apps/details?id=com.xadrocx.lex&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Android note-taking app designed for dyslexic and other neurodivergent users, offering voice transcription, visual note creation, AI summaries, flashcards, and study guides.[10]

@@ -258,3 +258,53 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Research lead examining dyslexic adults lived experiences, intervention effectiveness, compensatory supports, individualized accommodations, and assistive technologies.
+
+### ReadEasy+ Digital Accessibility Tool
+
+- URL: https://lonemoloi.github.io/ReadEasy-/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Web accessibility application for dyslexia and visual impairments with OpenDyslexic font support and readability-focused text transformation.
+
+### ReadAnything
+
+- URL: https://github.com/ZeroDayZen/readanything
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Linux accessibility application that reads pasted text aloud, intended to support dyslexic users and others who benefit from text-to-speech.
+
+### Visua11y Agent
+
+- URL: https://chulit.github.io/visua11y-agent/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source web accessibility toolbar with dyslexia, ADHD, low-vision, motor-impairment, and other accessibility presets, including font and spacing controls.
+
+### ReadEase
+
+- URL: https://dimitri-edel.github.io/barrier-breakers/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Online readability tool for dyslexia and visual impairments with text-to-speech, magnification, and adjustable text sizing.
+
+### Dyxitool
+
+- URL: https://samclercky.github.io/Dyxitool/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source browser-oriented reading aid using OpenDyslexic typography, colored backgrounds, and cursor-based text highlighting to improve web readability.
