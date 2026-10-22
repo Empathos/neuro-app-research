@@ -778,3 +778,23 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Customizable AAC phrase board with touch and hands-free face-control options for people with speech difficulties.
+
+### Pictalk AAC
+
+- URL: https://www.pictalk.org/en/pictalk/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Free AAC application with pictograms and speech synthesis for Android, iOS, and web, including customizable communication binders and offline use.
+
+### Executive Functions GitHub Topics
+
+- URL: https://github.com/topics/executive-functions
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public GitHub topic page featuring projects for neuroinclusive task management, planning, energy tracking, and related executive-function support.

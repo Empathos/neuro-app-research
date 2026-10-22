@@ -589,16 +589,6 @@
 - Found: 2026-10-16
 - Description: Visual planner for iPhone, iPad, Apple Watch, Mac, and Apple Vision that presents the day as a circular 24-hour watchface, targeting time blindness and neurodivergent scheduling needs.
 
-### The ADHD Hero
-
-- URL: https://www.heephong.org/eng/tools-and-resources/publications/mobile-app/14317
-- Source: perplexity-sonar
-- Condition: general
-- Support category: executive-function
-- Query: general executive-function neurodivergent app research pass 502
-- Found: 2026-10-16
-- Description: Publicly documented ADHD support app from Heep Hong Society, available through the Apple App Store.
-
 ### Daily Focus Board
 
 - URL: https://awesome-copilot.github.com/skill/daily-focus-board/

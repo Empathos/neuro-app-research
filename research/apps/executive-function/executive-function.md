@@ -578,3 +578,23 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: A meta-analytic research lead assessing computer-based cognitive tasks, mobile games, and other digital interventions for executive-function outcomes.
+
+### Executive Functioning Support Toolkit
+
+- URL: https://mi-recon.org/wp-content/uploads/2025/11/Executive-Functioning-Support-Toolkit-1-1.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Public toolkit describing executive-function supports and examples of high-tech tools such as Tiimo, Microsoft To Do, Notion, and Google Keep.
+
+### Executive Functioning App Directory
+
+- URL: https://apps.apple.com/es/developer/executive-functioning/id1670674938?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Apple App Store developer page listing executive-function-oriented apps, including ADHD scheduling and planning tools.

@@ -596,3 +596,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: App for adults with ADHD featuring short guided resets, cognitive offloading, reflection prompts, and focus-support routines.
+
+### Lumo
+
+- URL: https://github.com/echoinink/lumo
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source productivity and life-planning app for neurodivergent users, covering tasks, routines, habits, goals, wellbeing, budgeting, and daily responsibilities.
+
+### BubbleUp
+
+- URL: https://github.com/Khatisani/BubbleUp
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Neurodivergent-friendly focus ecosystem featuring a short intermission activity, sensory particles, affirmations, and focus-support concepts.
