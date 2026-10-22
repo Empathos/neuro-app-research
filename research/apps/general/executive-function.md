@@ -589,16 +589,6 @@
 - Found: 2026-10-16
 - Description: Visual planner for iPhone, iPad, Apple Watch, Mac, and Apple Vision that presents the day as a circular 24-hour watchface, targeting time blindness and neurodivergent scheduling needs.
 
-### The ADHD Hero
-
-- URL: https://www.heephong.org/eng/tools-and-resources/publications/mobile-app/14317
-- Source: perplexity-sonar
-- Condition: general
-- Support category: executive-function
-- Query: general executive-function neurodivergent app research pass 502
-- Found: 2026-10-16
-- Description: Publicly documented ADHD support app from Heep Hong Society, available through the Apple App Store.
-
 ### Daily Focus Board
 
 - URL: https://awesome-copilot.github.com/skill/daily-focus-board/
@@ -708,3 +698,33 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Curated directory of technology for ADHD and autism, covering planning, focus, communication, capture, calming, and AI-based executive-function assistance.
+
+### Executive Functioning Apps
+
+- URL: https://apps.apple.com/us/developer/executive-functioning/id1670674938
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Apple App Store developer page listing executive-function tools such as ADHD schedule planning and calendar organization apps.
+
+### IET Supportive Software for Neurodiversity
+
+- URL: https://www.theiet.org/neurodiversity-in-engineering-and-technology/understanding-neurodivergence-at-work-toolkit/supportive-software
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Institution of Engineering and Technology toolkit page identifying supportive software such as Tiimo, Thruday, Asana, Trello, MindManager, Miro, and Mural.
+
+### ADHD Schedule Planner: Weel
+
+- URL: https://apps.apple.com/es/developer/executive-functioning/id1670674938?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: App Store developer page listing ADHD-oriented scheduling and time-management tools, including the ADHD Schedule Planner: Weel.[2]

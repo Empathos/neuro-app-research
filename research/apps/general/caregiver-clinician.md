@@ -558,3 +558,23 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: Public resource hub collecting neurodiversity, mental-health, and support information useful to caregivers, clinicians, and advocates.
+
+### jmaslak/neurodivergence
+
+- URL: https://github.com/jmaslak/neurodivergence
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Public GitHub repository collecting information and resources for neurodivergent people.
+
+### Neurodiverse Connection Toolkit
+
+- URL: https://ndconnection.co.uk/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Public interactive toolkit promoting a neurodiversity-affirming approach to care.

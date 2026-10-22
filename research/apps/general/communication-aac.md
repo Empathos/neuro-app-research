@@ -988,3 +988,53 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: Cross-device AAC and support tool with customizable communication boards, symbols, photos, recorded audio, and speech synthesis for complex communication needs.
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/ae/app/touchchat-hd-aac/id398860728
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Full-featured AAC app with customizable vocabulary pages, buttons, phrases, sentences, and synthesized or recorded speech.
+
+### OpenSpeak AAC Project Overview
+
+- URL: https://github.com/openspeakaac/openspeak-aac/blob/main/docs/overview.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Free, cross-platform AAC project for people with autism, speech delays, apraxia, cerebral palsy, and other communication needs; includes symbol-based communication, text-to-speech, multilingual support, and offline use.
+
+### Craig Hospital AAC Apps
+
+- URL: https://craighospital.org/inpatient/assistive-technology/alternative-communication
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Clinical resource listing symbol-based and text-based AAC apps, including GoTalk, Grid, TD Snap, TouchChat, Predictable, Speech Assistant AAC, and Vocable.
+
+### Cboard AAC
+
+- URL: https://www.cboard.io/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Open-source AAC communication platform using symbols and text-to-speech for people with speech and language impairments.
+
+### Minnesota AAC Repository
+
+- URL: https://sites.google.com/view/mnaacr/aac-systems
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Repository of free and customizable AAC systems, including Cboard, Card Talk, ChatterBoards AAC, and Vocable AAC.

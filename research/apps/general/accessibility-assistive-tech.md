@@ -648,3 +648,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: App Store listing for a learning app aimed at neurodivergent children and teens, including users with autism, dyslexia, ADHD, and other disabilities; activities support assistive technologies and communication boards.
+
+### NeuroDivSim
+
+- URL: https://github.com/eskebfd/neurodivsim
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source tool for reflecting on cognitive diversity in interface design and evaluating accessibility considerations during early design workflows.
+
+### ASTI  Neurodivergent AI Co-Pilot
+
+- URL: https://www.neurodivarsity.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Native iOS app designed for neurodivergent people, including users with ADHD, autism, and dyslexia.[1]

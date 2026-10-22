@@ -528,3 +528,63 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Free printable and editable templates for ADHD and autism routines, appointments, transitions, plan changes, sensory adjustments, and daily planning.
+
+### Neurodivergent Tools: Prism
+
+- URL: https://apps.apple.com/us/app/neurodivergent-tools-prism/id6738650371
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Official App Store listing for Prism, a neurodivergent-oriented tool with accessibility-focused features including a dark interface.
+
+### Lumo
+
+- URL: https://github.com/echoinink/lumo
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: An open-source gentle productivity and life-planning app for tasks, routines, habits, goals, wellbeing, budgeting, and everyday responsibilities.
+
+### Autasker
+
+- URL: https://github.com/vadimerenkov/Autasker
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: A cross-platform task manager and to-do list application available for Windows, Linux, and Android, listed under GitHub's neurodivergent-support projects.
+
+### TimeBox
+
+- URL: https://github.com/davidjenner/TimeBox
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: A focused time-blocking tool intended to help users start tasks, maintain focus, and make time feel more manageable.
+
+### Mensura
+
+- URL: https://github.com/jonix/Mensura
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: A local, plain-text self-tracking and task-logging tool for structuring the day and tracking focus, mood, and energy for neurodivergent users.
+
+### BubbleUp
+
+- URL: https://github.com/Khatisani/BubbleUp
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: A personalized neurodivergent-friendly focus ecosystem designed to support task engagement without guilt-driven productivity mechanics.

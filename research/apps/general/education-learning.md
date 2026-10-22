@@ -628,3 +628,43 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Public resource guide covering neurodiversity and Universal Design for Learning materials relevant to education and learner support.
+
+### Jade  Learning Through Play
+
+- URL: https://apps.apple.com/dk/app/jade-learning-through-play/id1473169233
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: An inclusive learning app for children ages 311, with activities supporting attention, auditory memory, reasoning, emotional recognition, autism, ADHD, dyslexia, and other learning needs.
+
+### Kaboose for Educators
+
+- URL: https://www.kaboose.app/for-educators/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: An on-demand neurodiversity support platform for educators, providing short expert-led resources that can be watched, listened to, or read.
+
+### Atlas Primer
+
+- URL: https://differentbrains.org/atlas-primer-making-education-accessible-with-hinrik-josafat-atlason-edb-305/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: A learning assistant app intended to create a personalized learning environment and improve access, usability, and flexibility in education for neurodivergent students.
+
+### Buddy: ADHD Study Assistant
+
+- URL: https://apps.apple.com/us/app/buddy-adhd-study-assistant/id6740407251?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Study app for ADHD and neurodivergent learners that breaks assignments into manageable blocks and provides customizable focus timers.
