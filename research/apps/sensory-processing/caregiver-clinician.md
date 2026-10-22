@@ -628,3 +628,63 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Research proposal for an AI-based platform that recommends personalized educational activities and sensory accommodations for use by teachers, families, and therapists.
+
+### SensoryTreat
+
+- URL: https://sensorytreat.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Sensory-diet home-program platform designed to help therapists support families with activity planning and carryover.
+
+### Sensory Treat app review
+
+- URL: https://www.yourkidsot.com/blog/app-review-sensory-treat
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Occupational-therapy-focused review describing an app with sensory-diet activities, scheduling, reaction tracking, and report sharing with therapists.
+
+### Occupational Therapy Health Apps guide
+
+- URL: https://libguides.massgeneral.org/healthapps/occupational-therapy
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Massachusetts General Hospital library guide cataloging apps used by occupational therapists for sensory processing and cause-and-effect support.
+
+### Sensory Integration Planner: Ayres' Clinical Console
+
+- URL: https://novaapps.eu/apps/sensory-integration-planner-ayres-clinical-console
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Clinical planning tool for occupational therapists featuring sensory profiles, activity libraries, equipment setup, and progress tracking for Ayres Sensory Integration practice.
+
+### The OT Hub
+
+- URL: https://apps.apple.com/pl/app/the-ot-hub/id1636178281
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Occupational-therapy resource and community app that may support clinician-led sensory-processing research and practice.
+
+### Sensory Integration Planner: OT Session Design System
+
+- URL: https://novaapps.eu/apps/sensory-integration-planner-ot-session-design-system
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Occupational-therapy session-design system with client sensory profiles, activity libraries, personalized planning, and progress tracking.

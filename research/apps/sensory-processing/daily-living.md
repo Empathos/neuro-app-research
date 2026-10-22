@@ -478,3 +478,33 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: App Store collection highlighting productivity, time-management, self-care, and sensory-regulation tools for people with autism, ADHD, and dyslexia.
+
+### Tappy: Self Care Pet & Fidget
+
+- URL: https://apps.apple.com/us/app/tappy-self-care-pet-fidget/id1492017640
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Self-care app combining daily routines, habit and goal tracking, mood journaling, breathing exercises, haptic fidgets, and calming soundscapes.
+
+### Lira: ADHD & Autism for Women
+
+- URL: https://apps.apple.com/us/app/lira-adhd-autism-for-women/id6746783968
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Digital companion that tracks energy and activities, identifies patterns, and provides personalized recommendations for reducing overwhelm and supporting everyday functioning.
+
+### Neurodiversity Resource Library
+
+- URL: https://www.oregon.gov/oha/OEBB/Documents/OEBB-Neurodiversity-Resource-Library.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public resource library listing neurodiversity supports and apps for practical daily tasks, including Joon.

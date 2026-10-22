@@ -468,3 +468,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: Neurodivergent support app combining emotional-regulation tools, routines, sensory stabilisation, grounding, somatic resets, breathing exercises, and support for shutdown or overwhelm.[6]
+
+### BrainWorks
+
+- URL: https://www.upliftingvoices.org/FA/FA3.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Sensory-support app for children that helps select individualized activities based on current sensory needs, environment, available equipment, and adult customization.

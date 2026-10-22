@@ -708,3 +708,23 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Free and open-source AAC app for children, teens, and adults who cannot reliably use speech.
+
+### Sensory Safe Resources
+
+- URL: https://sensorysaferesources.org/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Online library of practical, evidence-based resources for neurodivergent people, families, educators, and professionals.[3]
+
+### Sensory Resource Hub  Neurodivergent Insights
+
+- URL: https://neurodivergentinsights.com/sensory-hub/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Central hub with sensory self-care tools, workbooks, and professional resources for autistic, ADHD, and sensory-sensitive users.[6]
