@@ -938,3 +938,53 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: Customizable AAC communication app for people with nonverbal communication needs, including speech difficulties associated with autism, dysarthria, and verbal dyspraxia.
+
+### Speech Assistant AAC
+
+- URL: https://www.speechassistant.io/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: AAC and text-to-speech tool for iPhone, iPad, and Apple Watch with communication boards, phrase building, word prediction, hands-free head tracking, and device synchronization.
+
+### Cuespeak
+
+- URL: https://cuespeak.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: iPhone and iPad speech-therapy tool for communication difficulties, including speech practice relevant to apraxia and dyspraxia.
+
+### Aphasia Software Finder Search List
+
+- URL: https://www.aphasiasoftwarefinder.org/general/search-list
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public directory of communication-support software, including Talking Mats, a picture-based discussion-board tool for structured conversation.
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/ie/app/speech-assistant-aac/id1139762358
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: iOS text-to-speech AAC app for speech impairments, with customizable categories, saved phrases, and keyboard-based message composition.
+
+### OpenSpeak AAC Documentation
+
+- URL: https://github.com/openspeakaac/openspeak-aac/blob/main/docs/overview.md
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Project documentation describing OpenSpeak AACs target users, including people with autism, apraxia, cerebral palsy, Down syndrome, and other communication needs.

@@ -598,3 +598,63 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Study of a virtual group-based intervention for family caregivers of neurodivergent people or people with disabilities, reporting acceptability and improvements in psychological flexibility and mental well-being.
+
+### ADAPPT Application  Parent Well-Being Research
+
+- URL: https://adhdeurope.eu/recruitment-adappt-application/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: EU-funded research app developed with parents and healthcare and education professionals to support the mental well-being of parents of neurodivergent children, including children with dyspraxia.
+
+### Cuespeak for Clinicians
+
+- URL: https://cuespeak.com/clinicians/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Clinician-oriented speech and language therapy app with a reported use case involving a dyspraxic patient and targeted practice packages.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://www.irishtimes.com/sponsored/vhi-healthcare/beating-dyspraxia-dcd-you-can-start-early-with-help-from-your-smartphone-1.3578337
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Smartphone-based intervention for children with dyspraxia/DCD, developed with families, support organizations, pediatricians, therapists, and healthcare professionals; includes fine-motor, balance, and coordination activities.
+
+### Neurodiverge.app  Dyspraxia Guide and Tracking Tools
+
+- URL: https://neurodiverge.app/dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Neuroaffirming dyspraxia information and support resources, including daily tracking, coaching, and printable materials for adults and parents.
+
+### OpenScouter Neurodivergence Research
+
+- URL: https://openscouter.com/research
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Research page on scalable user-testing methodology covering neurodivergence categories such as dyspraxia, with potential relevance to app evaluation and participatory research.
+
+### ADHD Foundation Neurodivergence Resources
+
+- URL: https://www.qmul.ac.uk/disability-and-dyslexia-service/our-support/adhd/resources/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Resource hub pointing to UK neurodivergence support services and materials covering ADHD, autism, dyslexia, dyspraxia/DCD, dyscalculia, OCD, and Tourette syndrome.

@@ -798,3 +798,23 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: Public collection of browser, mobile, and web tools for accessible study, including text-to-speech, Trello, Ayoa, mind mapping, task management, Pomodoro tools, body doubling, and focus soundscapes.
+
+### GoManda
+
+- URL: https://www.gomanda.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Interactive vocabulary-learning app for children who learn differently, with interest-led lessons, mastery tracking, and progress monitoring.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/kr/app/beats-medical-dyspraxia-app/id1194965395?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, communication, balance, and spatial-awareness activities.
