@@ -728,3 +728,13 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Central hub with sensory self-care tools, workbooks, and professional resources for autistic, ADHD, and sensory-sensitive users.[6]
+
+### Speech Assistant AAC
+
+- URL: https://www.speechassistant.io/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Official AAC communication tool for iPhone, iPad, and Apple Watch with picture boards, typed speech, phrase building, and hands-free head tracking. [4]

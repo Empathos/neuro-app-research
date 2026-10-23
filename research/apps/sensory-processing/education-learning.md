@@ -838,3 +838,13 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: Parent-completable sensory questionnaire for children ages 4 and older that covers eight sensory channels and provides accommodation suggestions.
+
+### Autism Discovery Tool
+
+- URL: http://touchautism.com/autism-discovery-tool-app-review/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: An educational interactive tool introducing sensory differences through seven contrasting sensory experiences and explanatory support tips.[9]

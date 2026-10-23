@@ -688,3 +688,43 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Occupational-therapy session-design system with client sensory profiles, activity libraries, personalized planning, and progress tracking.
+
+### Sussex Centre for Sensory and Perceptual Diversity
+
+- URL: https://www.sussex.ac.uk/research/centres/sussex-centre-for-sensory-and-perceptual-diversity/research
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: University research hub investigating sensory diversity and developing interventions and freely accessible tools for autism, ADHD, misophonia, and other sensory differences.
+
+### CoT Neurodivergent vs. Neurotypical Interactions Dataset
+
+- URL: https://huggingface.co/datasets/moremilk/CoT_Neurodivergent_vs_Neurotypical_Interactions
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: MIT-licensed Hugging Face dataset covering communication, sensory sensitivities, environmental comfort, stimming, and neurodivergent-neurotypical interaction patterns.
+
+### Neurodivergent vs. Neurotypical Interactions Dataset
+
+- URL: https://huggingface.co/datasets/mattwesney/CoT_Neurodivergent_vs_Neurotypical_Interactions
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open dataset focused on differences in communication, social behavior, sensory processing, environmental comfort, and cognitive styles.
+
+### Neurodivergence and Theatrical Costuming: The Sensory Experience
+
+- URL: https://repository.tcu.edu/entities/publication/63bb7197-5a37-4565-a9d8-33ef3f5e5b37
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public research repository item examining lived sensory-processing differences among neurodivergent actors through survey research and sensory-friendly design.

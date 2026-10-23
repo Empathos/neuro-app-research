@@ -478,3 +478,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-22
 - Description: Sensory-support app for children that helps select individualized activities based on current sensory needs, environment, available equipment, and adult customization.
+
+### NeuroNest Support Resources
+
+- URL: https://www.neuronest.global/features/support-resources
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public resource platform with guides on sensory profiles, transitions, emotional regulation, preparing for new environments, and advocacy.[10]

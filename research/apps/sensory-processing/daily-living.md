@@ -508,3 +508,33 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Public resource library listing neurodiversity supports and apps for practical daily tasks, including Joon.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/qa/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: iOS sensory-play app with fidgets, calming activities, visual effects, and touch interactions intended for autistic and neurodivergent children and families.
+
+### MindMate: Daily Living and Keeping Safe with Neurodiversity
+
+- URL: https://mindmate.org.uk/neurodiversity-information-hub/living-nd/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Information resource on neurodivergent daily living, including sensory issues, routines, anxiety around new foods, and safety.
+
+### Sensory SOS
+
+- URL: https://apps.apple.com/us/app/sensory-sos/id6766246436
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Local-first support app for sensory overload, panic, shutdowns, nonverbal moments, grounding, breathing, and visual focus.

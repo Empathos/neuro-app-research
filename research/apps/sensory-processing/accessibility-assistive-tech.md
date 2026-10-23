@@ -458,3 +458,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-21
 - Description: University resource hub cataloguing assistive technologies for reading, processing information, planning, time management, communication, focus, and managing sensory distractions.
+
+### Luna GitHub Organization
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open-source organization developing applications intended to support neurodivergent people's daily life, learning, and well-being.
+
+### Accessibility Concepts and Research
+
+- URL: https://edtechdev.github.io/aied/concepts/accessibility/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public research-oriented overview of accessibility themes and digital assistive technologies for neurodivergent learners, including cognitive-load and accommodation considerations.
