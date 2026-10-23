@@ -338,3 +338,63 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Public resource page linking practical materials developed with neurodivergent people to support day-to-day activities and planning.
+
+### THRIVE Visual Planning App
+
+- URL: https://www.thrivingonthespectrum.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Neurodivergent-focused visual planning and regulation app supporting schedules, routines, reminders, decompression, relaxation, regulation prompts, and in-app messaging.
+
+### THRIVE App
+
+- URL: https://worktogethernc.com/resource/thrive-app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Resource page describing THRIVE as a visual planning and regulation app for neurodivergent users, including day-to-day planning, mental and emotional health support, decompression, and mobile downloads.
+
+### Stride App
+
+- URL: https://neurodiversiteit.nl/dipi_popup_maker/stride-app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Flexible neurodivergent self-support tool using gentle prompts, adaptable structure, reflection, energy and focus awareness, and low-pressure support for everyday functioning.
+
+### TicSafe
+
+- URL: https://apps.apple.com/tr/app/ticsafe/id6738706091
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Free iPhone app offering tic-management strategies, medication and clinician communication support, educational resources, and a calming timer.
+
+### Tic Journal - Track & Control
+
+- URL: https://apps.apple.com/ca/app/tic-journal-track-control/id6739474061
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Tourette and tic-disorder diary with daily tracking, trigger identification, reminders, AI-generated insights, and periodic reports.
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/gh/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: App for logging tics and lifestyle factors such as sleep, diet, screen time, and stress, with pattern analysis and flare-up forecasting.

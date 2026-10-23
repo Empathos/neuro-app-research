@@ -618,3 +618,53 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Public support gateway for Tourette resources, peer groups, youth programs, and online community spaces that may help map caregiver and lived-experience support pathways.
+
+### My ND Guide
+
+- URL: https://iamnd.org/ndguide
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Neurodiversity Foundation tool combining a strengths-and-tendencies assessment, personalized resources, caregiver intake, clinical guides, and connections to neurodivergent family care.
+
+### TicVision
+
+- URL: https://www.linkedin.com/company/ticvision
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public product profile for a data-driven Tourette platform with a free self-monitoring mobile app and a clinician-facing portal for reviewing patient tic data, trends, and treatment context.
+
+### BT-Coach English
+
+- URL: https://www.imedicalapps.com/2017/08/best-new-medical-apps-5-2/2/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: App overview describing a Tourette-focused tool created by psychiatrists and psychologists for home exposure and response-prevention practice, tic counting, urge tracking, homework, and games.
+
+### Kyntic: Tourettes Syndrome Tracker
+
+- URL: https://kyntic.en.softonic.com/iphone
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public listing for an iPhone tracker that records and analyzes tic data using user input and sensor data, reportedly developed with neuroscientists and CBIT therapists.
+
+### Tourette Association of America Local Support
+
+- URL: https://tourette.org/resources/local-support/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Official support directory for families, individuals, and professionals, including local chapters, support groups, and Centers of Excellence relevant to caregiver-clinician coordination.
