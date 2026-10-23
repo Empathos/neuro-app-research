@@ -1058,3 +1058,23 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Caregiver and supporter education app offering short videos and introductory guidance for people supporting someone living with autism.
+
+### GoManda
+
+- URL: https://www.gomanda.com/features
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Vocabulary education app designed for autistic and neurodivergent learners, supporting foundational concepts such as early literacy in classrooms, homes, and clinical settings.
+
+### Learn Autism
+
+- URL: https://www.f6s.com/software/category/autism-education
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Digital education resource for autistic peoples families and caregivers, offering video tutorials, downloadable workbooks, multilingual subtitles, and guidance from clinicians and therapists.

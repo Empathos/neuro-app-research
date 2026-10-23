@@ -658,3 +658,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Web and mobile research system that lets caregivers continuously log autism-related symptoms, treatments, sleep, affect, and behaviors for clinical-outcome tracking.
+
+### BRIDGES Engage
+
+- URL: https://apps.apple.com/ca/app/bridges-engage/id6744975919
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Clinician- and neurodiversity-informed caregiver app offering routines, anxiety-reduction guidance, and daily support alongside professional therapies.
+
+### TRIP mindfulness-based psychoeducation app
+
+- URL: https://www.repository.cam.ac.uk/items/813e2ece-3724-4d42-b356-cc749163e241
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Six-week app-based intervention combining autism-parenting education and mindfulness practices for parents and caregivers.
+
+### Unique Minds
+
+- URL: https://apps.apple.com/us/app/unique-minds/id6743822738
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Companion app for families and professionals supporting neurodivergent children, with personalized routines, social-emotional tools, and sharing among caregivers, teachers, and therapists.

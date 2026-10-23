@@ -668,3 +668,33 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: AI support companion for autism and special-needs families with social-story generation, behavior planning, journaling, milestone tracking, and family resources.[2]
+
+### Luna
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public GitHub organization for an app designed to support neurodivergent people with daily life and well-being.
+
+### Daily Tasks
+
+- URL: https://apps.apple.com/us/app/daily-tasks/id553450186
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Interactive app focused on everyday activities such as brushing teeth, showering, and shampooing, intended to support fine-motor skills, concentration, and daily-task practice for autistic children.
+
+### Fun Routine - Autism
+
+- URL: https://play.google.com/store/apps/details?id=br.com.phaneronsoft.rotinadivertida&hl=en_AU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Customizable routine and task app for autistic users that supports daily organization, communication, socio-emotional development, custom activities, images, descriptions, and notifications.

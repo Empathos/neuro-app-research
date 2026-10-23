@@ -1048,3 +1048,43 @@
 - Query: autism executive-function neurodivergent app research pass 501
 - Found: 2026-10-22
 - Description: An iPad app providing autism resources, evidence-based training, executive-function courses, downloadable tools, and a professional support community.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/us/app/goblin-tools-autism-pal-to-do/id1527180714?uo=4
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Productivity app for neurodivergent users featuring task breakdown, time estimation, task compilation, visual time tracking, and customizable focus sessions.
+
+### Bloom Autism Support
+
+- URL: https://apps.apple.com/us/app/bloom-autism-support/id6761259907
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: AI-powered autism and special-needs support companion covering guidance for meltdowns, IEPs, sleep, behavior, and related family-support needs.
+
+### Tiimo: Daily To Do List
+
+- URL: https://play.google.com/store/apps/details?id=com.tiimo.androidappreactnative&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Google Play listing for Tiimo, featuring visual daily planning, reminders, routines, and a focus timer designed to support planning, focus, and follow-through.
+
+### Equal Edge
+
+- URL: https://play.google.com/store/apps/details?id=app.equaledge.eeu&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Visual planning and executive-function assistant for neurodivergent college students. Helps break down assignments, prioritize tasks, organize schedules, and start work.

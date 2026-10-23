@@ -658,3 +658,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: iOS app offering therapist-informed activities, an AAC talk pad, sensory-calming games, tracing, coloring, puzzles, and daily-living skills.[9]
+
+### Missouri Assistive Technology iPad Apps
+
+- URL: https://at.mo.gov/ipad-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public assistive-technology resource listing communication apps such as App2Speak and TD Snap for autism and speech or language disabilities.
+
+### Aidova Free AAC Communication App
+
+- URL: https://www.autism.org.uk/autism-services-directory/aidova-free-aac-communication-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Free augmentative and alternative communication app for autistic children and adults; supports symbol-based sentence building and spoken output, with browser access and Google Play availability.
+
+### Molehill Mountain
+
+- URL: https://oaadss.org.uk/after-diagnosis/technology-and-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: App for autistic people that supports anxiety self-management by helping users understand anxiety, track worries, and identify triggers.
+
+### CoughDrop AAC
+
+- URL: https://cedwvu.org/access-to-healthcare/healthcare-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Full-featured AAC tool for people with complex communication needs, including autistic users; available on iOS and Android.
