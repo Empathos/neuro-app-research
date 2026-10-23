@@ -48,16 +48,6 @@
 - Found: 2026-06-24
 - Description: A reading and writing tool with high-quality text-to-speech, customizable fonts, and calming formatting controls, designed to reduce stress for users with dyslexia on iOS and Android.
 
-### Scottish Dyslexia Planning Tool
-
-- URL: https://addressingdyslexia.org/wp-content/uploads/2022/07/Scottish-Dyslexia-Planninf-Tool.docx
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: sensory-regulation
-- Query: dyslexia environment planning tool
-- Found: 2026-06-24
-- Description: A public planning document template to record areas of strength, difficulties, and next steps for dyslexia. It is designed to support identification pathways and evaluate progress in creating a supportive learning environment.
-
 ### Dyslexia-Friendly Environment Guide
 
 - URL: https://dyslexia.yale.edu/dyslexia/dyslexia-friendly-environment/

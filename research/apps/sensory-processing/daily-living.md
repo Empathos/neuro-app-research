@@ -458,3 +458,83 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Practical daily-living support hub with guides, checklists, planners, worksheets, and strategies for reducing sensory load and managing home tasks.
+
+### THRIVE App
+
+- URL: https://worktogethernc.com/resource/thrive-app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Visual planning and regulation app designed around neurodivergent needs, including day-to-day organization and decompression tools.
+
+### Apps That Think Like You Do  App Store
+
+- URL: https://apps.apple.com/ca/ipad/story/id1867605202
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: App Store collection highlighting productivity, time-management, self-care, and sensory-regulation tools for people with autism, ADHD, and dyslexia.
+
+### Tappy: Self Care Pet & Fidget
+
+- URL: https://apps.apple.com/us/app/tappy-self-care-pet-fidget/id1492017640
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Self-care app combining daily routines, habit and goal tracking, mood journaling, breathing exercises, haptic fidgets, and calming soundscapes.
+
+### Lira: ADHD & Autism for Women
+
+- URL: https://apps.apple.com/us/app/lira-adhd-autism-for-women/id6746783968
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Digital companion that tracks energy and activities, identifies patterns, and provides personalized recommendations for reducing overwhelm and supporting everyday functioning.
+
+### Neurodiversity Resource Library
+
+- URL: https://www.oregon.gov/oha/OEBB/Documents/OEBB-Neurodiversity-Resource-Library.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public resource library listing neurodiversity supports and apps for practical daily tasks, including Joon.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/qa/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: iOS sensory-play app with fidgets, calming activities, visual effects, and touch interactions intended for autistic and neurodivergent children and families.
+
+### MindMate: Daily Living and Keeping Safe with Neurodiversity
+
+- URL: https://mindmate.org.uk/neurodiversity-information-hub/living-nd/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Information resource on neurodivergent daily living, including sensory issues, routines, anxiety around new foods, and safety.
+
+### Sensory SOS
+
+- URL: https://apps.apple.com/us/app/sensory-sos/id6766246436
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Local-first support app for sensory overload, panic, shutdowns, nonverbal moments, grounding, breathing, and visual focus.
