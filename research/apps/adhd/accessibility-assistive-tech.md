@@ -628,3 +628,13 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Customizable to-do list and daily planner marketed specifically for ADHD planning needs.
+
+### Nafath: Focus Bear ADHD Assistive Technology Study
+
+- URL: https://nafath.mada.org.qa/nafath-article/mcn2903/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public research article describing the use of Focus Bear to study computer activity, focus behavior, and accessibility implications for adults with ADHD.

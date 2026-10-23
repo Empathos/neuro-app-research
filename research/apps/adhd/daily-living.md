@@ -838,3 +838,33 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: GitHub topic page containing productivity projects, including a locally hosted app designed for people with executive dysfunction, ADHD, autism, and AuDHD.
+
+### ADHD Planner App
+
+- URL: https://github.com/alekya-narne/adhd-planner-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Open-source customizable daily planner intended for people with ADHD and other neurodivergent conditions.
+
+### Executive Functioning App Collection
+
+- URL: https://apps.apple.com/us/developer/executive-functioning/id1670674938
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Official Apple App Store developer page featuring executive-function tools such as ADHD Schedule Planner and Weel.
+
+### ADHD Daily Planner Skill
+
+- URL: https://github.com/sundial-org/awesome-openclaw-skills/blob/b80cde2e/skills/adhd-daily-planner/SKILL.md?plain=1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public MIT-licensed planning skill designed for ADHD brains, offering time-blind-friendly planning, realistic estimates, dopamine-aware task design, transition buffers, and anti-overwhelm safeguards.

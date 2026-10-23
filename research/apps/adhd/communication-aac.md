@@ -969,3 +969,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Open research article investigating associations between autistic and ADHD traits and communication difficulties across children and adolescents.
+
+### Proloquo AAC
+
+- URL: https://apps.apple.com/us/iphone/story/id1895869577?l=ar
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: AAC app that uses adaptive word boards and speech output to support people who have difficulty speaking or being understood.
+
+### Vocable AAC
+
+- URL: https://apps.apple.com/us/app/vocable-aac/id1497040547?l=fr-FR
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Hands-free AAC app for iPhone and iPad using head movements, intended to support communication for people with speech challenges.

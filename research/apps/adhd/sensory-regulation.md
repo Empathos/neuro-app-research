@@ -818,3 +818,13 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-21
 - Description: Sensory-calming app for ADHD and autistic users featuring soundscapes, haptics, breathing and grounding exercises, fidget tools, communication cards, and offline SOS access.
+
+### Solace  ADHD Help in 5 Minutes
+
+- URL: https://officialsolaceapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: ADHD-focused nervous-system regulation app providing short guided breathing, grounding, vestibular, and sensory exercises for overwhelm, overstimulation, and difficulty getting started.

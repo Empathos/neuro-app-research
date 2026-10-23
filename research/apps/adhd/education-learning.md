@@ -1148,3 +1148,43 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: AI learning assistant concept for ADHD and neurodivergent students that adapts explanations, quizzes, and study materials to learner profiles.
+
+### Sparkade
+
+- URL: https://play.sparkade.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Game-based learning and skill-building platform for children ages 812 with ADHD and other neurodivergent learning needs.
+
+### Addison: What's Your Next Move
+
+- URL: https://apps.apple.com/us/app/addison-whats-your-next-move/id6751917243
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: ADHD-focused task manager and focus timer supporting task initiation, time blindness, procrastination, overwhelm, and follow-through.
+
+### GeniusPal
+
+- URL: https://www.geniuspal.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Study tool that converts notes, PDFs, and textbook material into quizzes and flashcards for active recall and more engaging learning.
+
+### ADHDO
+
+- URL: https://github.com/tectrixdev/ADHDO
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open-source todo app intended to motivate people with ADHD and help them complete deadline-driven tasks efficiently.

@@ -229,16 +229,6 @@
 - Found: 2026-06-25
 - Description: A resource offering skills assessments, workbooks, and coaching guidance to evaluate and build emotional control as part of executive functioning for children, teens, and adults.
 
-### Text2MindMap - Idea Web Tool
-
-- URL: https://text2mindmap.com/
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: emotional-regulation
-- Query: executive function mood tracking directory
-- Found: 2026-06-25
-- Description: Free tool to create simple idea webs by typing ideas into an outline, supporting executive function by visualizing complex information and reducing cognitive load.
-
 ### Recall Plus - Mind Mapping & Flashcard Tool
 
 - URL: https://recallplus.com/
@@ -1018,3 +1008,33 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Neurodivergent-support iPhone app with private helper chat, soothing games, breathing resources, and emotional-regulation videos.
+
+### ADHD Second Brain
+
+- URL: https://github.com/avdheshcharjan/adhd-sentic-fyp
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public GitHub project exploring affective computing, ADHD emotional-state classification, on-device coaching, just-in-time adaptive interventions, brain dumping, and emotional-regulation support.
+
+### Conviction ADHD Emotional Regulation App
+
+- URL: https://www.tryconviction.com/adhd-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Structured journaling and emotional-regulation app with voice input, CBT reframing for rejection spirals, somatic grounding, and a non-punitive momentum system.
+
+### ER-in-ADHD
+
+- URL: https://github.com/DanTouHaHa/ER-in-ADHD
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public research repository accompanying work on emotion dysregulation as a separable pathway in ADHD, using adolescent and clinical datasets.

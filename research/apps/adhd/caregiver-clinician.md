@@ -708,3 +708,33 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-22
 - Description: Emerging AI companion concept for neurodivergent people with caregiver visibility, configurable routines and strategies, caregiver summaries, and potential dashboards for teachers, therapists, and care-team members.
+
+### FirstThen for Parents and Caregivers
+
+- URL: https://www.firstthen.com/for-the-parents-2
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: An app-based ADHD parenting support program for caregivers of children ages 411, offering evidence-based strategies, check-ins, progress records, and clinician-designed coaching.
+
+### NeuroDB: ADHD, Anxiety & More
+
+- URL: https://apps.apple.com/us/app/neurodb-adhd-anxiety-more/id6809794888
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: App Store community for anonymously comparing lived experiences of ADHD, autism, anxiety, OCD, dyslexia, dyspraxia, dyscalculia, dysgraphia, stuttering, and tics, including medication experiences.
+
+### Neuro Health Alliance
+
+- URL: https://neurohealthalliance.org/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Youth-led platform providing open resources and research activities focused on neurodivergence, ADHD, cognitive screening, and accessible science.
