@@ -668,3 +668,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Native iOS app designed for neurodivergent people, including users with ADHD, autism, and dyslexia.[1]
+
+### W3C Cognitive Accessibility Research Modules
+
+- URL: http://w3c.github.io/coga/research-modules/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Research-oriented W3C resource analyzing cognitive accessibility issues, user needs, and potential solutions, including support relevant to neurodivergent users.

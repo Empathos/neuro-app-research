@@ -1038,3 +1038,23 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Repository of free and customizable AAC systems, including Cboard, Card Talk, ChatterBoards AAC, and Vocable AAC.
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/asterics-aac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Open-source grid-based AAC system supporting touch, mouse, keyboard, single-switch, and eye-gaze input, with offline-capable web deployments.
+
+### EveryVoice
+
+- URL: https://github.com/dafarusd/everyvoice
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Free, offline, open-source Android AAC app designed to speak tapped words without accounts, internet access, or advertisements.

@@ -728,3 +728,13 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: App Store developer page listing ADHD-oriented scheduling and time-management tools, including the ADHD Schedule Planner: Weel.[2]
+
+### neurolist: AI Planner for ADHD
+
+- URL: https://apps.apple.com/kg/app/neurolist-ai-planner-for-adhd/id6468689182
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: An AI planner that estimates task duration, categorizes difficult tasks, and converts them into smaller, more manageable subtasks.

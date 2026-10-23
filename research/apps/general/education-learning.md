@@ -668,3 +668,13 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Study app for ADHD and neurodivergent learners that breaks assignments into manageable blocks and provides customizable focus timers.
+
+### The Universal Sandpit
+
+- URL: https://theuniversalsandpit.org/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: AI-powered inclusive education tools for educators and students, including UDL lesson planning, task analysis, visual supports, social scripts, assignment help, and classroom inclusion apps.
