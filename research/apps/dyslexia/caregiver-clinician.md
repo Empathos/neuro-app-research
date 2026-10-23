@@ -418,3 +418,33 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-22
 - Description: Android note-taking app designed for dyslexic and other neurodivergent users, offering voice transcription, visual note creation, AI summaries, flashcards, and study guides.[10]
+
+### Dyslexia Data Consortium Repository
+
+- URL: https://dyslexiadata.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public data-sharing platform for dyslexia research, including repository access, data harmonization, image-processing resources, and analysis tools.
+
+### Learning-Disorder Intelligence
+
+- URL: https://github.com/archisman-das/Learning-Disorder-Intelligence
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Early-stage multimodal dyslexia screening and assistive-learning project with Streamlit, web, and React dashboards, emphasizing Bengali, multilingual, and low-resource settings.
+
+### Rytech Labs Dyslexia Assistive Technology
+
+- URL: https://www.rytechlabs.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Writing-support technology for dyslexic and neurodivergent students, including support for IEP and 504 accommodations.

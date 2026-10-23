@@ -478,3 +478,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Open-source mobile learning companion providing personalized dyslexia support with an on-device AI model.
+
+### Zoom
+
+- URL: https://zoom.us/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Video-learning platform included in research examining assistive-technology applications for students with dyslexia.
+
+### DyslexEasy
+
+- URL: https://dl.acm.org/doi/10.1145/3505270.3505280
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Research-oriented app concept designed to improve readability for dyslexic users by extracting and presenting summaries.

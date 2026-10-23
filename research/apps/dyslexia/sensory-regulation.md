@@ -288,3 +288,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Apple App Store collection highlighting tools for dyslexia, autism, and ADHD, including text-to-speech reading support and calming features for sensory overload and regulation.
+
+### OpenDyslexic
+
+- URL: https://forge.hackers.town/antijingoist/opendyslexic
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Open-source dyslexia-oriented typeface project intended to help offset some visual symptoms associated with dyslexia.
+
+### Readapt
+
+- URL: https://www.contentsquare-foundation.org/readapt/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Free, open-source assistive reading technology with a Chrome extension and Word add-in for customizing digital text to individual reading needs, including dyslexia-related accessibility.

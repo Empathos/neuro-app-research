@@ -298,3 +298,23 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Official Apple education accessibility page describing Accessibility Reader and adjustable reading presentation and audio features relevant to dyslexia support.
+
+### OpenDyslexic for Chrome
+
+- URL: https://chromewebstore.google.com/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Free, open-source Chrome extension that replaces webpage fonts with OpenDyslexic to improve readability for people with dyslexia.[6]
+
+### Dyslexia Reader
+
+- URL: https://github.com/vnglst/dyslexia-reader
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public web application and repository for an audio text reader intended to help people with dyslexia improve whole-word recognition.[5]

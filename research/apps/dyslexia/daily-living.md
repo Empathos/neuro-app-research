@@ -308,3 +308,13 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-10-22
 - Description: Open-source browser-oriented reading aid using OpenDyslexic typography, colored backgrounds, and cursor-based text highlighting to improve web readability.
+
+### OpenDyslexic
+
+- URL: https://accessibility.tools/docs/dyslexia/font-opendys
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open-source typeface designed to improve text readability for people with dyslexia; useful for evaluating font-based accessibility interventions.
