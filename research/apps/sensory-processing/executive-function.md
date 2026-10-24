@@ -708,3 +708,23 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public journal article comparing sensory-processing patterns and executive-function challenges in adults with and without neurodevelopmental disorders.
+
+### DaySteps
+
+- URL: https://daysteps.app/about/faq/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Visual schedule and daily-routine app for children and adults with ADHD, autism, and executive-function challenges; supports task initiation, transitions, and follow-through.
+
+### STEMFlow
+
+- URL: https://blink.new/p/stemflow-neurodivergent-stem-platform-9c3jpwxs
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: A sensory-friendly productivity and learning platform with AI task breakdown, adaptive focus tools, accessible explanations, and regulation support for neurodivergent STEM users.

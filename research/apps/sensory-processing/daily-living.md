@@ -538,3 +538,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Local-first support app for sensory overload, panic, shutdowns, nonverbal moments, grounding, breathing, and visual focus.
+
+### MUSTEM
+
+- URL: https://github.com/palomaflsette/mustem
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Open-source assistive-technology project translating music into vibrotactile and visual formats using embedded systems, vibration motors, and an LCD display.

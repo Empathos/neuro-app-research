@@ -478,3 +478,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public research-oriented overview of accessibility themes and digital assistive technologies for neurodivergent learners, including cognitive-load and accommodation considerations.
+
+### TOM Global Open-Source Assistive Technology
+
+- URL: https://tomglobal.org/results
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: A searchable collection of more than 1,400 free, open-source assistive-technology projects.
+
+### Neurodivergent Tools - Prism
+
+- URL: https://apps.apple.com/ca/app/neurodivergent-tools-prism/id6738650371
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: An iOS planner with task breakdown, thought organization, time estimation, focus support, text assistance, and daily guidance for ADHD, autism, and other neurodivergent users.

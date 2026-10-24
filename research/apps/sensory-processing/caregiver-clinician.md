@@ -728,3 +728,13 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public research repository item examining lived sensory-processing differences among neurodivergent actors through survey research and sensory-friendly design.
+
+### Sensory Differences and Coping
+
+- URL: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=1014&context=grad_scholarship
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public research repository document examining sensory differences, sensory-response categories, coping, and use of the Adolescent/Adult Sensory Profile.[5]
