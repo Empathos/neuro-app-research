@@ -978,3 +978,123 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Open-source, web-based AAC app and management platform using speech synthesis, offline-capable web technologies, and cross-device synchronization.
+
+### CoughDrop AAC
+
+- URL: https://play.google.com/store/apps/details?id=com.mycoughdrop.coughdrop&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Cross-device AAC and support tool with customizable communication boards, symbols, photos, recorded audio, and speech synthesis for complex communication needs.
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/ae/app/touchchat-hd-aac/id398860728
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Full-featured AAC app with customizable vocabulary pages, buttons, phrases, sentences, and synthesized or recorded speech.
+
+### OpenSpeak AAC Project Overview
+
+- URL: https://github.com/openspeakaac/openspeak-aac/blob/main/docs/overview.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Free, cross-platform AAC project for people with autism, speech delays, apraxia, cerebral palsy, and other communication needs; includes symbol-based communication, text-to-speech, multilingual support, and offline use.
+
+### Craig Hospital AAC Apps
+
+- URL: https://craighospital.org/inpatient/assistive-technology/alternative-communication
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Clinical resource listing symbol-based and text-based AAC apps, including GoTalk, Grid, TD Snap, TouchChat, Predictable, Speech Assistant AAC, and Vocable.
+
+### Cboard AAC
+
+- URL: https://www.cboard.io/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Open-source AAC communication platform using symbols and text-to-speech for people with speech and language impairments.
+
+### Minnesota AAC Repository
+
+- URL: https://sites.google.com/view/mnaacr/aac-systems
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Repository of free and customizable AAC systems, including Cboard, Card Talk, ChatterBoards AAC, and Vocable AAC.
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/asterics-aac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Open-source grid-based AAC system supporting touch, mouse, keyboard, single-switch, and eye-gaze input, with offline-capable web deployments.
+
+### EveryVoice
+
+- URL: https://github.com/dafarusd/everyvoice
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Free, offline, open-source Android AAC app designed to speak tapped words without accounts, internet access, or advertisements.
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/Asterics-AAC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Open-source, grid-based AAC tool with text-to-speech, flexible input options, offline support, and ARASAAC/Open Symbols integration.
+
+### AceTalks
+
+- URL: https://github.com/mininedco/AceTalks
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Open-source, multilingual AAC application intended to support communication across languages.
+
+### ComuniTE
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Neurodivergence support app offering pictogram-based AAC for expressing needs, emotions, and thoughts, alongside an AI assistant.
+
+### VoxigoAAC
+
+- URL: https://play.google.com/store/apps/details?id=com.VoxigoAAC.appcore&hl=en_IE
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AAC app for nonspeaking and neurodivergent children with customizable communication grids, sentence suggestions, feelings activities, coping strategies, and caregiver or teacher administration.
