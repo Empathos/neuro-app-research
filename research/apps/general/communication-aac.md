@@ -1058,3 +1058,43 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-23
 - Description: Free, offline, open-source Android AAC app designed to speak tapped words without accounts, internet access, or advertisements.
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/Asterics-AAC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Open-source, grid-based AAC tool with text-to-speech, flexible input options, offline support, and ARASAAC/Open Symbols integration.
+
+### AceTalks
+
+- URL: https://github.com/mininedco/AceTalks
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Open-source, multilingual AAC application intended to support communication across languages.
+
+### ComuniTE
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Neurodivergence support app offering pictogram-based AAC for expressing needs, emotions, and thoughts, alongside an AI assistant.
+
+### VoxigoAAC
+
+- URL: https://play.google.com/store/apps/details?id=com.VoxigoAAC.appcore&hl=en_IE
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AAC app for nonspeaking and neurodivergent children with customizable communication grids, sentence suggestions, feelings activities, coping strategies, and caregiver or teacher administration.

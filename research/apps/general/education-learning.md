@@ -678,3 +678,63 @@
 - Query: general education-learning neurodivergent app research pass 501
 - Found: 2026-10-23
 - Description: AI-powered inclusive education tools for educators and students, including UDL lesson planning, task analysis, visual supports, social scripts, assignment help, and classroom inclusion apps.
+
+### GoManda App
+
+- URL: https://www.gomanda.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Vocabulary-learning app designed for neurodivergent learners, including autistic children, for use at school and home.
+
+### Neurodiversity Learning Patterns
+
+- URL: https://github.com/ArosioGiada/neurodiversity-learning-patterns
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Data-science repository analyzing learning and behavioral patterns across ADHD, dyslexia, and autism in educational contexts.
+
+### Exceptional Children Assistive Learning Products
+
+- URL: https://exceptionalchildren.org/partner-resources/products
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Product directory featuring assistive learning technologies, including text-to-speech scanning pens and adaptive AI instruction for students with ADHD and specific learning disabilities.
+
+### NeuroNest
+
+- URL: https://devfolio.co/projects/neuronest-19ff
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Sensory-friendly learning platform concept offering attention, memory, and problem-solving activities, peer support, expert guidance, and parental resources.
+
+### MirrorBuddy
+
+- URL: https://github.com/FightTheStroke/MirrorBuddy
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Open-source AI educational platform with voice tutors for students with learning differences, ADHD-friendly focus sessions, progress tracking, and neurodiversity-oriented accessibility profiles.
+
+### Enabled Learning
+
+- URL: https://apps.apple.com/us/app/enabled-learning/id1592818973?l=fr-FR
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Mobile app for neurodivergent and physically disabled college or university students to find support resources and communicate through a community chat.

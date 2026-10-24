@@ -618,3 +618,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: iPad app offering interactive sensory scenes with adjustable visual and sensory settings for calming, focus, and sensory exploration.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/au/app/autism-play-garden/id6751961935
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Ad-free app for autistic children and caregivers with sensory calming games, visual activities, coloring, tracing, AAC features, and sensory-conscious interaction design.

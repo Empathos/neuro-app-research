@@ -588,3 +588,33 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: A personalized neurodivergent-friendly focus ecosystem designed to support task engagement without guilt-driven productivity mechanics.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/by/app/tiimo-ai-planner-to-do/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Neurodivergent-friendly planning app focused on executive function, routines, time awareness, task prioritization, and reducing mental load.
+
+### Awesome ADHD Tools
+
+- URL: https://github.com/maskedbutaware/awesome-adhd-tools
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Curated GitHub resource list of tools designed for ADHD users, including visual planners, guided routine timers, memory companions, and executive-function supports.
+
+### STEMFlow Productivity Suite
+
+- URL: https://blink.new/p/stemflow-app-iat9u7fa
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AI-powered productivity companion for neurodivergent STEM users, featuring task breakdowns, adaptive focus tools, routine planning, and regulation assistance.

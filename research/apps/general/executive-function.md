@@ -738,3 +738,13 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: An AI planner that estimates task duration, categorizes difficult tasks, and converts them into smaller, more manageable subtasks.
+
+### giro
+
+- URL: https://github.com/voidcoefficient/giro
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public GitHub repository for a productivity tool intended for neurodivergent people; the repository notes that development moved to marlalain/hivemind.

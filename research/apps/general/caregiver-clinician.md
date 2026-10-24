@@ -578,3 +578,43 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-22
 - Description: Public interactive toolkit promoting a neurodiversity-affirming approach to care.
+
+### NeuroRehub: Wellness & Support
+
+- URL: https://play.google.com/store/apps/details?id=com.andyspeaks.neurorehub.wellness
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Android app offering sensory management, routine tracking, AI-assisted guidance, and caregiver collaboration with family members, educators, and support professionals.[3]
+
+### BRIDGES Engage
+
+- URL: https://apps.apple.com/ca/app/bridges-engage/id6744975919
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Clinician- and neurodiversity-expert-developed app for autism-caregivers, featuring expert resources, structured activities, routine support, emotional-regulation tools, and AI guidance.[4]
+
+### Adult Autism Health Resources
+
+- URL: https://www.adult-autism.health.harvard.edu/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Harvard-affiliated autism healthcare toolkit connecting caregivers and advocates with vetted health resources for autistic adults.[1]
+
+### Canvas Dx Clinician Resources
+
+- URL: https://cognoa.com/provider-resources-demo/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Provider resources covering clinician questionnaires, diagnostic-session setup, and caregiver experience for an autism assessment platform.[9]
