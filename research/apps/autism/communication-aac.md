@@ -1008,3 +1008,33 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Free, offline, open-source Android AAC app that speaks selected words without an account, internet connection, or ads.
+
+### OpenSpeak AAC Documentation
+
+- URL: https://github.com/openspeakaac/openspeak-aac/blob/main/docs/overview.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Project overview describing AAC use cases, offline-first operation, multilingual support, symbol coverage, and planned cross-platform availability.
+
+### SpeakEasy AAC Research and Landscape Analysis
+
+- URL: https://github.com/jeremydpotts/speakeasy-aac/blob/main/docs/RESEARCH.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Repository research document covering the AAC app landscape, affordability barriers, market gaps, and the rationale for an open-source alternative.
+
+### GibTalk
+
+- URL: https://play.google.com/store/apps/details?id=com.ragibkl.GibTalk&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Free, multilingual AAC Android app for people with speech disabilities, including non-speaking autistic users; identified as open source.

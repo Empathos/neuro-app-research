@@ -698,3 +698,33 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Full-featured AAC tool for people with complex communication needs, including autistic users; available on iOS and Android.
+
+### Nova Autism Home
+
+- URL: https://www.novaautism.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: An autism-support tool offering guidance for sensory differences, routines, food aversions, transitions, communication, and emotional regulation.
+
+### Speech Assistant AAC
+
+- URL: https://speechassistant.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Text-to-speech communication app for people with speech impairments, including autism, with customizable categories and phrase buttons.
+
+### Autimo
+
+- URL: https://autimoapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: App designed to support autistic users in recognizing emotions and facial expressions through visual identification games.

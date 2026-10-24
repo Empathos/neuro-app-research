@@ -688,3 +688,53 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Companion app for families and professionals supporting neurodivergent children, with personalized routines, social-emotional tools, and sharing among caregivers, teachers, and therapists.
+
+### App-Based Caregiver-Mediated Intervention: Stakeholder Study PDF
+
+- URL: https://boa.unimib.it/retrieve/6bd10f89-a64d-4f55-b3c9-a29059a89de7/unpaywall-bitstream--1210526719.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Open research report summarizing caregiver and clinician input on psychoeducation, home practice, psychological wellbeing, customization, gamification, and usability for an autism-support app.
+
+### Frontera Parents
+
+- URL: https://fronteraparents.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Autism-parenting support app offering clinician responses, behavioral-expert chat, moderated discussion boards, parent coaching, daily activities, and resources for neurodivergent children.
+
+### Autism Diagnostic Support Tool
+
+- URL: https://github.com/aparnaworkspace/autism-diagnostic-support-tool
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Open-source ASD screening-support project using AQ-10 questionnaire data, XGBoost classification, SHAP explainability, and PDF reporting; explicitly described as non-diagnostic.
+
+### Autism Spectrum Disorder GitHub Topic
+
+- URL: https://github.com/topics/autism-spectrum-disorder
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Repository directory containing public autism-related projects, including communication apps, behavioral screening tools, specialist-reporting tools, and family collaboration software.
+
+### Autism Skills Suite
+
+- URL: https://github.com/robcushard-nth/autism_skills_suite
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public repository focused on autism-related skills and support software, with an explicit emphasis on safety, harm reporting, crisis-sensitive outputs, and accommodation-related use cases.
