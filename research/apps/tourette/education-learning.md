@@ -688,3 +688,13 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public education resources including classroom lesson plans, teacher guidance, and tools supporting communication about Tourette syndrome in school and social settings.
+
+### Tourette Association Educator Guide
+
+- URL: https://tourette.org/wp-content/uploads/TAA_Educator_Guide_2024.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Educator toolkit covering Tourette Syndrome and tic disorders, symptom recognition, and development of effective academic and social support plans.

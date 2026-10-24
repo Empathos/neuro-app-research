@@ -488,3 +488,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Public GitHub organization for Luna, an app focused on supporting neurodivergent peoples daily lives and well-being through assistive technology and digital accessibility.
+
+### Supporting a Child with Tourette Syndrome
+
+- URL: https://tourette.org/about-tourette/overview/living-tourette-syndrome/a-child/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Tourette Association resource explaining assistive technology as tools that improve access, participation, and functional capabilities for children with Tourette syndrome.

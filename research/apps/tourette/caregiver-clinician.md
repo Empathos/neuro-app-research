@@ -678,3 +678,33 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public neurodiversity-affirming tools for clinicians and clients, including client-complexity assessment materials and clinician competency self-rating resources.
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/ro/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: iPhone app for parents and caregivers to log tics, mood, sleep, and triggers; view pattern insights; use calming tools designed for neurodivergent children; and generate reports for clinicians.
+
+### Tics & Tourettes Resources  NELFT NHS Foundation Trust
+
+- URL: https://www.nelft.nhs.uk/camhs-tics-tourettes/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: NHS resource hub for children and young people with tic disorders or Tourette syndrome and their families, including parent tools, non-clinician behavioral-therapy education, and mention of an app-development project focused on young peoples wellbeing.
+
+### Ally in Training
+
+- URL: https://www.youthfornd.org/ally-in-training
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Youth-designed neurodiversity app with interactive scenarios, quizzes, and games for building allyship. Includes a Tourette Syndrome-themed world and public beta availability information.

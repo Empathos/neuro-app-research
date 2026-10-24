@@ -408,3 +408,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Review of online Tourette interventions, including behavioral therapy, meditation, and support groups, while noting gaps in assistive-device, app, and website research.
+
+### Thruday
+
+- URL: https://apps.apple.com/iq/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Neurodivergent-friendly planner supporting mood tracking, routines, journaling, breathing exercises, visual schedules, and emotional regulation.
