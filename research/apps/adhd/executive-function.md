@@ -758,3 +758,103 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Customizable task and day planner featuring focus timers, brain dumps, accountability tools, gamification, and productivity suggestions.
+
+### Executive-function bot
+
+- URL: https://github.com/ThirdEyeRose/executive-function-bot
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Work-in-progress Telegram bot intended to support tasks that can be difficult for people with executive-function challenges, including ADHD and CPTSD.[6][8]
+
+### UditAkhourii/adhd
+
+- URL: https://github.com/uditakhourii/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source ADHD-oriented skill for coding agents using divergent reasoning, pruning, and structured output intended to support attention and cognitive workflow.
+
+### Mobile Applications for Students with ADHD
+
+- URL: https://gjeta.com/sites/default/files/fulltext_pdf/GJETA-2023-0116.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Review of ADHD-support mobile applications covering task management, time management, focus, cognitive training, self-monitoring, mindfulness, and education.
+
+### ADHD GitHub Topics
+
+- URL: https://github.com/topics/adhd?l=python
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public GitHub topic page collecting ADHD-related repositories, including executive-function bots and ADHD-oriented productivity tools.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/gb/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: iPhone app offering guided resets, reflection prompts, and daily support for adults with ADHD experiencing overload, decision fatigue, or reduced clarity.
+
+### Executive Function Documentation
+
+- URL: https://pennlinc.github.io/executivefunction/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public research documentation describing a study of brain development and executive function in adolescents.
+
+### Executive Function Toolkit
+
+- URL: https://github.com/sundial-org/awesome-openclaw-skills/blob/b80cde2e/skills/adhd-daily-planner/references/executive-function-toolkit.md?plain=1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public GitHub documentation containing practical tools and strategies for managing ADHD-related executive-function challenges.
+
+### ADHD Habit Tracker, To Do List
+
+- URL: https://apps.apple.com/us/app/adhd-habit-tracker-to-do-list/id1494584871
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: ADHD-oriented planner offering tasks, habits, routines, timers, reminders, widgets, and progress tracking.
+
+### Focus AI: To Do & Productivity
+
+- URL: https://apps.apple.com/us/app/focus-ai-to-do-productivity/id6754612682
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: AI planner and focus timer that turns intentions into goals, provides accountability, and uses light gamification to reward focused work.
+
+### ADHD Planner - Prism Buddy
+
+- URL: https://apps.apple.com/us/app/adhd-planner-prism-buddy/id6738650371?uo=2
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: iPhone planner for ADHD and autism with task breakdown, thought organization, communication assistance, daily guidance, and executive-function features.[10]

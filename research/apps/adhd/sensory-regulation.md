@@ -808,3 +808,33 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Digital sensory-support platform featuring NuroTok, a calming app intended to help users manage sensory overload, stress, and daily regulation.
+
+### Lullogram
+
+- URL: https://lullogram.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Sensory-calming app for ADHD and autistic users featuring soundscapes, haptics, breathing and grounding exercises, fidget tools, communication cards, and offline SOS access.
+
+### Solace  ADHD Help in 5 Minutes
+
+- URL: https://officialsolaceapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: ADHD-focused nervous-system regulation app providing short guided breathing, grounding, vestibular, and sensory exercises for overwhelm, overstimulation, and difficulty getting started.
+
+### Neuro Spark Kids
+
+- URL: https://neurospkids.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Family and therapist-oriented application for children with ADHD and autism, with daily exercises targeting attention, sensory regulation, emotional regulation, and progress tracking.[6]
