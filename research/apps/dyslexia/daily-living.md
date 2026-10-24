@@ -318,3 +318,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Open-source typeface designed to improve text readability for people with dyslexia; useful for evaluating font-based accessibility interventions.
+
+### Accessible Reading & Study Workstation
+
+- URL: https://github.com/coconuthead-Sentinel-core/accessible-reading-study-workstation
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Open-source Windows workstation for dyslexia, ADHD, and dysgraphia featuring read-aloud with synchronized highlighting, voice dictation, readability analysis, library tools, and study planning.
+
+### Dyslexia Data Consortium Repository
+
+- URL: https://dyslexia.computing.clemson.edu/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research data platform for dyslexia and reading-development studies, supporting harmonized behavioral, clinical, demographic, and neuroimaging data with analysis resources.

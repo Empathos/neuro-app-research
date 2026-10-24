@@ -308,3 +308,13 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Free, open-source assistive reading technology with a Chrome extension and Word add-in for customizing digital text to individual reading needs, including dyslexia-related accessibility.
+
+### Dyslexia Resources: Assistive Technology
+
+- URL: https://www.dyslexia-resources.org/copy-of-resources-4
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public resource list linking dyslexia-focused software, apps, assistive-technology products, help pages, and demonstrations.

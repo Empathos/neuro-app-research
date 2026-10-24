@@ -498,3 +498,13 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Research-oriented app concept designed to improve readability for dyslexic users by extracting and presenting summaries.
+
+### Dyslexic Students Experiences Using Assistive Technology
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/17483107.2022.2161647?src=recsys
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Five-year follow-up study examining how digital assistive technologies support written-language skills, text comprehension, production, and engagement.

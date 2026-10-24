@@ -338,3 +338,13 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Reading aid that converts photographed text into enlarged, easier-to-read text and provides synchronized text-to-speech highlighting.
+
+### Dyseggxia
+
+- URL: https://www.vodafone.com/news/newsroom/corporate-and-financial/dyslexia-and-breast-cancer-apps-amongsts-winners
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Research-informed mobile literacy game for children with dyslexia that uses exercises targeting common reading and writing errors, including completing words and rearranging letters.
