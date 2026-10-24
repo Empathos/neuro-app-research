@@ -678,3 +678,23 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: A curated public resource covering reading, writing, speech recognition, note-taking, organization, distraction management, attention, and wellness technologies.
+
+### ADHD Tools GitHub Topic
+
+- URL: https://github.com/topics/adhd-tools?o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Directory of ADHD-focused tools and projects, including support resources for learners with special educational needs.
+
+### Apple Accessibility Features for Education
+
+- URL: https://support.apple.com/en-mide/121825
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official Apple documentation covering cognitive accessibility features relevant to ADHD and neurodivergent learners, including Guided Access, Accessibility Reader, and Assistive Access.

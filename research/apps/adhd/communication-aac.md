@@ -1009,3 +1009,13 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Android app for autism, ADHD, and other neurodivergent users featuring pictogram-based AAC, an assistant, and support alerts.
+
+### Speech Assistant AAC
+
+- URL: https://www.speechassistant.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AAC communication board supporting picture tiles, typed messages, text-to-speech, hands-free head tracking, and synchronization across Apple devices.

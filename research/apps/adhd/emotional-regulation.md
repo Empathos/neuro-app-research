@@ -1038,3 +1038,53 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public research repository accompanying work on emotion dysregulation as a separable pathway in ADHD, using adolescent and clinical datasets.
+
+### SMARTEMO / hiFoon ADHD Emotion-Regulation App Study
+
+- URL: https://www.ukbonn.de/en/psychiatry-and-psychotherapy/research/clinical-studies/smartemo/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: University Hospital Bonn study evaluating the hiFoon app, which provides ADHD and emotion-regulation information, exercises, and self-help tools for adults with ADHD.
+
+### ER-ADHD Smartphone App Study
+
+- URL: https://doi.org/10.1186/ISRCTN17897828
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Registered study of a self-guided smartphone app co-designed with young people with ADHD symptoms to teach emotion-regulation strategies through short interactive modules.
+
+### eR ADHD
+
+- URL: https://www.hub.bayes.ed.ac.uk/case-study/er-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research-developed app for young people with ADHD that teaches emotional-regulation skills through accessible modules, grounding, breathing, progressive muscle relaxation, and cognitive strategies.
+
+### Bonding Health
+
+- URL: https://bondinghealth.com/how-it-works
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: ADHD-focused app offering short emotional-regulation resets, guided exercises, check-ins, progress tracking, and pathways for challenges such as overwhelm, stress, and racing thoughts.
+
+### Bonding Health Emotional Regulation Score
+
+- URL: https://apnews.com/press-release/getnews/bonding-health-introduces-emotional-regulation-score-the-first-clinical-grade-tool-to-help-adhd-adults-and-parents-measure-and-build-emotional-mastery-96b6f4dde8030204ca7f7fd1ad351c38
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public announcement of Bonding Healths Emotional Regulation Score, a mobile feature based on the Emotion Regulation Questionnaire for tracking emotional-regulation capabilities in ADHD users.

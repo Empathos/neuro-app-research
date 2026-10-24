@@ -858,3 +858,33 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: iPhone planner for ADHD and autism with task breakdown, thought organization, communication assistance, daily guidance, and executive-function features.[10]
+
+### ADHD Assistant Skill
+
+- URL: https://lobehub.com/pl/skills/openclaw-skills-adhd-assistant
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public assistant skill providing external scaffolding for ADHD-related planning, task breakdown, prioritization, time blindness, body doubling, routines, and overwhelm.
+
+### Lifestack: AI Planner for ADHD
+
+- URL: https://apps.apple.com/us/app/lifestack-ai-planner-for-adhd/id6473464429
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AI-powered planner that turns tasks into time blocks, aligns plans with energy levels, and integrates with calendars, wearables, and health data.
+
+### Unique: ADHD Planner & Journal
+
+- URL: https://apps.apple.com/us/app/unique-adhd-planner-journal/id1636324359
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: ADHD support app combining planning, focus tools, habit and mood tracking, mindfulness, and CBT-oriented exercises.

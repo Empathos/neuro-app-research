@@ -888,3 +888,33 @@
 - Query: adhd daily-living neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: iPhone app offering short daily ADHD-focused insights, practical micro-challenges, reminders, notes, and habit tracking; positioned as educational and productivity support rather than medical treatment.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/sg/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Neurodivergent-friendly planner with visual routines, gentle reminders, AI-assisted planning, focus timers, and calendar integration.[10]
+
+### Thruday
+
+- URL: https://apps.apple.com/gh/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Assistive planning and daily-wellbeing app with visual day timelines, routines, habit and mood tracking, reminders, journaling, printable schedules, and neurodivergent-focused support.[5]
+
+### Alti - ADHD Planner
+
+- URL: https://apps.apple.com/us/app/alti-adhd-planner/id6738433959
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Visual task planner with ADHD-oriented productivity tools, executive-function support, animated task visualization, and customizable routines.[7]
