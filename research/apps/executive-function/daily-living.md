@@ -378,3 +378,43 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Routine planner described as supporting ADHD, autism, executive-function challenges, visual schedules, recurring tasks, appointments, checklists, and gentle reminders.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/us/app/the-adhd-executive/id6749107142?l=vi
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: iPhone app offering short daily insights and practical micro-challenges designed to help people with ADHD turn reflection into action.
+
+### Stride App
+
+- URL: https://neurodiversiteit.nl/dipi_popup_maker/stride-app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Personal-support tool offering flexible structure, gentle prompts, reflection, and pattern awareness for everyday functioning, fluctuating energy, executive-function challenges, and burnout.
+
+### Executive Functioning Apps
+
+- URL: https://apps.apple.com/us/developer/executive-functioning/id1670674938
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Apple App Store developer page listing executive-function tools, including the Weel ADHD schedule planner and calendar or schedule organizers.
+
+### Ink-and-Agency Executive Function Skills
+
+- URL: https://github.com/risadams/ink-and-agency/blob/main/skills/CATEGORIES.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Repository documentation for neurodivergent-friendly executive-function skills, including daily briefings and energy-budget support.
