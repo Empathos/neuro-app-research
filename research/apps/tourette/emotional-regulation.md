@@ -378,3 +378,43 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Research overview covering app-delivered behavioral therapy based on habit-reversal training and exposure-and-response prevention, plus online support communities.
+
+### Harbor: RSD & ADHD Support
+
+- URL: https://apps.apple.com/us/app/harbor-rsd-adhd-support/id6785916914
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: App Store listing for a wellness app supporting neurodivergent adults experiencing rejection sensitivity dysphoria and ADHD-related emotional challenges.
+
+### Digital-Supported Delivery of Behavioural Therapy for Patients With Tic Disorders
+
+- URL: https://bazawiedzy.imid.med.pl/seam/resource/rest/download/IMID669a7ef6cca94ac5bb813a3788e4f454?entityType=article&entityId=IMIDa3e8a56dc1cb48f4a7c01ff03d0f21b6
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Review of digitally supported CBIT, HRT, and ERP interventions for tic disorders, including therapist-guided mobile-app treatment and telehealth delivery.
+
+### Online Interventions for Tourette Syndrome: Review Paper
+
+- URL: https://ijip.in/wp-content/uploads/2023/07/18.01.291.20231102.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Review of online Tourette interventions, including behavioral therapy, meditation, and support groups, while noting gaps in assistive-device, app, and website research.
+
+### Thruday
+
+- URL: https://apps.apple.com/iq/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Neurodivergent-friendly planner supporting mood tracking, routines, journaling, breathing exercises, visual schedules, and emotional regulation.
