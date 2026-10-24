@@ -738,3 +738,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Repository documentation describing accessibility modes for a neurodivergent visual-organization tool, including colorblind-safe, monochrome, and cognitive-accessibility considerations.
+
+### Google Play Accessibility Apps
+
+- URL: https://play.google.com/store/apps/editorial?id=mc_apps_editorial_catess_accessibility_fcp&hl=en_IE
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official Google Play collection of apps supporting communication, readability, organization, ADHD planning, autism support, and everyday accessibility needs.

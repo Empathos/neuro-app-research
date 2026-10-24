@@ -748,3 +748,23 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public GitHub repository for a productivity tool intended for neurodivergent people; the repository notes that development moved to marlalain/hivemind.
+
+### Tiimo: Daily To Do List
+
+- URL: https://play.google.com/store/apps/details?id=com.tiimo.androidappreactnative
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Visual daily planner with reminders, focus timer, task breakdown, routines, and calendar integration, designed with neurodivergent users in mind.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/gb/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: ADHD support app featuring brief guided resets, reflection prompts, and tools intended to reduce cognitive friction.

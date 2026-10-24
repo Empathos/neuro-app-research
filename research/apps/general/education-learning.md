@@ -738,3 +738,53 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Mobile app for neurodivergent and physically disabled college or university students to find support resources and communicate through a community chat.
+
+### Brainy App
+
+- URL: https://neurodiversiteit.nl/dipi_popup_maker/brainy-app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Educational app for children, families, and educators that introduces neurodiversity through accessible explanations, classroom discussion prompts, and strengths-focused conversation.
+
+### Geniuslane Learning
+
+- URL: https://apps.apple.com/ao/app/geniuslane-learning/id1663921934?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: App providing CPD-approved neurodiversity and neurodevelopmental-impairment courses for parents, professionals, and schools.
+
+### Neuro Nation
+
+- URL: https://neuronation.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Cognitive-training platform with memory and concentration exercises that may serve as a general learning-support tool for neurodivergent users.
+
+### Neurodiversity Ecosystem Programmes
+
+- URL: https://neurodiversiteit.nl/programmes/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public programme hub featuring neurodiversity education initiatives, including the Brainy App and educator-oriented tools for inclusive education, IEP development, training, and collaboration between schools and families.
+
+### Type2Learn
+
+- URL: https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/type2learn/type2learn-adaptive-learning-for-every-mind
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Accessibility-first nonprofit learning platform for neurodivergent learners, developed as a functioning product during a public hackathon.

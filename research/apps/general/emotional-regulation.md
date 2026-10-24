@@ -578,3 +578,23 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Sensory-safe companion resources covering sensory profiles, transitions, emotional-regulation strategies, new environments, and advocacy.
+
+### AutiPocket
+
+- URL: https://apps.apple.com/fr/app/autipocket/id6749908426?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Free iOS app for neurodivergent users with private 1:1 human support, soothing games, breathing tools, and emotional-regulation videos.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/us/app/calm-steps/id6755076182?l=zh-Hans-CN
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Emotional-regulation app for children ages 412, including neurodivergent children with ADHD, autism, and sensory needs.

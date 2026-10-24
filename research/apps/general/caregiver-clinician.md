@@ -618,3 +618,33 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Provider resources covering clinician questionnaires, diagnostic-session setup, and caregiver experience for an autism assessment platform.[9]
+
+### ND Navigator  App Store
+
+- URL: https://apps.apple.com/gb/app/nd-navigator/id6747386635
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Privacy-conscious neurodiversity support app using everyday smartphone interaction signals to inform conversations about accessibility, work preferences, and wellbeing; developed with behavioural scientists, clinicians, and industry partners.
+
+### Balanced Mind: ADHD & Autism  Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.dfjtecnologia.menteequilibrada&hl=en_NZ
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Android app with mental-health, organization, and neurodiversity support for adults with ADHD or autism and parents of neurodivergent children; includes a shareable 30-day sensory-pattern report for professionals.
+
+### GeniAuti
+
+- URL: https://par.nsf.gov/servlets/purl/10376303
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research-based mobile data-collection tool for caregivers to record autistic childrens challenging behaviors, triggers, context, responses, and clinically relevant patterns for discussion with professionals.

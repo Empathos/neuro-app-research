@@ -618,3 +618,43 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: AI-powered productivity companion for neurodivergent STEM users, featuring task breakdowns, adaptive focus tools, routine planning, and regulation assistance.
+
+### Stride App
+
+- URL: https://neurodiversiteit.nl/stride-app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Personal support tool for daily structure, energy and focus awareness, and flexible routines without deadlines, scoring, or productivity pressure.
+
+### Tiimo
+
+- URL: https://theinnerfoundation.org/portfolio/tiimo/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Neuroinclusive planning platform with visual schedules, focus timers, smart checklists, customizable reminders, and executive-function support.
+
+### Brain in Hand Support
+
+- URL: https://www.braininhand.co.uk/onebright/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Personalized support service for autistic and ADHD people combining coaching with an app for routines, reminders, coping strategies, work, study, and daily-life support.
+
+### Prism Buddy
+
+- URL: https://apps.apple.com/us/app/prism-buddy/id6738650371?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AI-powered task manager for ADHD, autism, and neurodivergent users, offering task breakdown, time estimation, thought organization, scheduling, and recipe assistance.

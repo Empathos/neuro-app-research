@@ -1098,3 +1098,23 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: AAC app for nonspeaking and neurodivergent children with customizable communication grids, sentence suggestions, feelings activities, coping strategies, and caregiver or teacher administration.
+
+### Aidova Free AAC Communication App
+
+- URL: https://www.autism.org.uk/autism-services-directory/aidova-free-aac-communication-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: AAC app for autistic children and adults that supports expressing needs, feelings, choices, and sentences through spoken buttons.
+
+### TouchChat HD  AAC
+
+- URL: https://apps.apple.com/us/app/touchchat-hd-aac/id398860728?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Full-featured AAC solution for people with difficulty using natural speech, including users with autism, apraxia, ALS, stroke, and Down syndrome.
