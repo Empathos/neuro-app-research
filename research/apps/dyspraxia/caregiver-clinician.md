@@ -658,3 +658,23 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-23
 - Description: Resource hub pointing to UK neurodivergence support services and materials covering ADHD, autism, dyslexia, dyspraxia/DCD, dyscalculia, OCD, and Tourette syndrome.
+
+### NeuraParent
+
+- URL: https://apps.apple.com/gb/app/neuraparent/id6756896103
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Parent-support app offering individualized strategies and pattern tracking for neurodivergent children, providing a potential caregiver-focused research lead.
+
+### Booost Education
+
+- URL: https://www.booosteducation.com/products/booost
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Planning app for neurodivergent users, including people with dyspraxia, focused on organizing tasks, routines, events, and getting started.

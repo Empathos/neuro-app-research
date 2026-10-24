@@ -548,3 +548,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Collaborative accessibility app for finding and rating autism-friendly or sensory-friendly places, potentially useful for neurodivergent accessibility research.
+
+### MindView Assessors Toolkit
+
+- URL: https://www.matchware.com/wp/wp-content/uploads/Mindview-Assessor-Guide-Education.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official documentation for MindView AT, describing text-to-speech, speech-to-text, high contrast, keyboard-only navigation, screen-reader compatibility, and drag-and-drop planning.
