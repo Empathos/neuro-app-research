@@ -618,3 +618,113 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Public accessibility guidance on designing clearer interfaces for autistic users, including color, contrast, and visual-complexity considerations.[3]
+
+### TD Snap
+
+- URL: https://us.tobiidynavox.com/pages/td-snap
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: AAC software from Tobii Dynavox with symbol- and text-based communication pages for speech accessibility.
+
+### Time Timer
+
+- URL: https://www.timetimer.com/pages/time-timer-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Visual timer app that represents elapsed time graphically, supporting transitions, focus, and time awareness.
+
+### VisualVoice
+
+- URL: https://apps.apple.com/pk/app/visualvoice/id6749776764
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Offline AAC app for autism communication with pictograms, emotions, text-to-speech, sensory-friendly visuals, and multiple languages.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/au/app/autism-play-garden/id6751961935
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: iOS app offering therapist-informed activities, an AAC talk pad, sensory-calming games, tracing, coloring, puzzles, and daily-living skills.[9]
+
+### Missouri Assistive Technology iPad Apps
+
+- URL: https://at.mo.gov/ipad-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public assistive-technology resource listing communication apps such as App2Speak and TD Snap for autism and speech or language disabilities.
+
+### Aidova Free AAC Communication App
+
+- URL: https://www.autism.org.uk/autism-services-directory/aidova-free-aac-communication-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Free augmentative and alternative communication app for autistic children and adults; supports symbol-based sentence building and spoken output, with browser access and Google Play availability.
+
+### Molehill Mountain
+
+- URL: https://oaadss.org.uk/after-diagnosis/technology-and-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: App for autistic people that supports anxiety self-management by helping users understand anxiety, track worries, and identify triggers.
+
+### CoughDrop AAC
+
+- URL: https://cedwvu.org/access-to-healthcare/healthcare-apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Full-featured AAC tool for people with complex communication needs, including autistic users; available on iOS and Android.
+
+### Nova Autism Home
+
+- URL: https://www.novaautism.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: An autism-support tool offering guidance for sensory differences, routines, food aversions, transitions, communication, and emotional regulation.
+
+### Speech Assistant AAC
+
+- URL: https://speechassistant.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Text-to-speech communication app for people with speech impairments, including autism, with customizable categories and phrase buttons.
+
+### Autimo
+
+- URL: https://autimoapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: App designed to support autistic users in recognizing emotions and facial expressions through visual identification games.

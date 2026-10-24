@@ -598,3 +598,103 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Visual daily-planning app for autism, ADHD, stress, and anxiety, featuring timelines, focus timers, reminders, routine templates, and AI checklist breakdowns.
+
+### Fun Routine - Daily Planner
+
+- URL: https://apps.apple.com/us/app/fun-routine-daily-planner/id1600111925
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Personalized daily-planning app for autistic and neurodivergent users, with customized tasks, images, descriptions, notifications, and routine support.
+
+### Autism Daily Skills Games
+
+- URL: https://apps.apple.com/jp/app/autism-daily-skills-games/id6756981665?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Interactive practice for daily-living skills including handwashing, toothbrushing, dressing, doors, folding blankets, kitchen routines, and household safety.
+
+### ASD Tools for Autism
+
+- URL: https://apps.apple.com/gb/app/asd-tools-for-autism/id578206583
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Toolkit with visual schedules, timers, First-Then boards, reward charts, customizable images and sounds, and step-by-step independence supports.
+
+### Visual Schedule & Social Story
+
+- URL: https://apps.apple.com/gb/app/visual-schedule-social-story/id1329629861
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Visual schedules and social stories intended to support autistic children and people with communication challenges at home, school, and in the community.
+
+### Autism Support for Kids
+
+- URL: https://play.google.com/store/apps/details?id=com.devsinntechnologies.autism_support
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Family-support app covering everyday routines, communication, learning, life skills, and independence.[5]
+
+### Joon: Behavior Improvement App
+
+- URL: https://apps.apple.com/ca/app/joon-behavior-improvement-app/id1482225056
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Gamified routine and habit app for children ages 612, supporting daily tasks, chores, focus, responsibility, and independence for children including those with autism.[10]
+
+### Bloom Autism Support
+
+- URL: https://apps.apple.com/pl/app/bloom-autism-support/id6761259907
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: AI support companion for autism and special-needs families with social-story generation, behavior planning, journaling, milestone tracking, and family resources.[2]
+
+### Luna
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public GitHub organization for an app designed to support neurodivergent people with daily life and well-being.
+
+### Daily Tasks
+
+- URL: https://apps.apple.com/us/app/daily-tasks/id553450186
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Interactive app focused on everyday activities such as brushing teeth, showering, and shampooing, intended to support fine-motor skills, concentration, and daily-task practice for autistic children.
+
+### Fun Routine - Autism
+
+- URL: https://play.google.com/store/apps/details?id=br.com.phaneronsoft.rotinadivertida&hl=en_AU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Customizable routine and task app for autistic users that supports daily organization, communication, socio-emotional development, custom activities, images, descriptions, and notifications.

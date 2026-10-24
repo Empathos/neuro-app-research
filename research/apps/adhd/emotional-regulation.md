@@ -229,16 +229,6 @@
 - Found: 2026-06-25
 - Description: A resource offering skills assessments, workbooks, and coaching guidance to evaluate and build emotional control as part of executive functioning for children, teens, and adults.
 
-### Text2MindMap - Idea Web Tool
-
-- URL: https://text2mindmap.com/
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: emotional-regulation
-- Query: executive function mood tracking directory
-- Found: 2026-06-25
-- Description: Free tool to create simple idea webs by typing ideas into an outline, supporting executive function by visualizing complex information and reducing cognitive load.
-
 ### Recall Plus - Mind Mapping & Flashcard Tool
 
 - URL: https://recallplus.com/

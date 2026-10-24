@@ -559,16 +559,6 @@
 - Found: 2026-08-02
 - Description: Liams Match Day is a bespoke PWA engineered to support a young adult with autism, epilepsy, learning disabilities, and right-sided hemiplegia as he builds crucial daily independence.
 
-### mohitagw15856/pm-claude-skills
-
-- URL: https://github.com/mohitagw15856/pm-claude-skills
-- Source: github-search
-- Condition: autism
-- Support category: education-learning
-- Query: social story learning support directory
-- Found: 2026-08-11
-- Description: 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex  from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.
-
 ### Jade Edu
 
 - URL: https://www.jadend.tech/en/jade-edu
@@ -1028,3 +1018,83 @@
 - Query: autism education-learning neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Autism-support app using social narratives, picture schedules, visual timers, token boards, and first-then charts to support social and daily-living skills.
+
+### Autism Experts App
+
+- URL: https://www.autism-experts.org/app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Mobile access to autism-focused courses, books, articles, videos, guides, and practical support resources for families and professionals.
+
+### Otsimo Special Education
+
+- URL: https://autism-raadsr.com/resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Special-education learning app lead offering games and activities for cognition, communication, emotions, social stories, letters, numbers, and personalized learning paths.
+
+### Understanding Autism
+
+- URL: https://apps.apple.com/gb/app/understanding-autism/id1446720237
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Caregiver and supporter education app offering short videos and introductory guidance for people supporting someone living with autism.
+
+### GoManda
+
+- URL: https://www.gomanda.com/features
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Vocabulary education app designed for autistic and neurodivergent learners, supporting foundational concepts such as early literacy in classrooms, homes, and clinical settings.
+
+### Learn Autism
+
+- URL: https://www.f6s.com/software/category/autism-education
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Digital education resource for autistic peoples families and caregivers, offering video tutorials, downloadable workbooks, multilingual subtitles, and guidance from clinicians and therapists.
+
+### Versed Apps
+
+- URL: https://versedapps.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Accessibility-first learning tools for neurodivergent students, including autistic learners, with flashcards, spaced repetition, AI deck creation, parent dashboards, and classroom management.
+
+### federated_learning_basic_pipeline_autism
+
+- URL: https://github.com/qamarabbas87/federated_learning_basic_pipeline_autism/blob/main/asd.arff
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public GitHub repository lead containing an autism-related dataset file and a federated-learning pipeline, potentially useful for research or technical prototyping.
+
+### Jade - Learning Through Play
+
+- URL: https://apps.apple.com/jp/app/jade-learning-through-play/id1473169233?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: App Store listing for an inclusive learning app supporting autistic and other neurodivergent children through activities involving attention, memory, reasoning, and emotional recognition.

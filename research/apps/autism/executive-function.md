@@ -1028,3 +1028,123 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Peer-reviewed review of autism-support apps, including tools addressing executive functions, communication, language, daily living, and visual supports.
+
+### MyComms: Visual Supports App
+
+- URL: https://play.google.com/store/apps/details?id=co.commspec.app&hl=en_AU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: A visual-support app for autistic and ADHD users that makes routines, communication, comprehension, and executive-function demands more predictable.
+
+### The Autism Helper
+
+- URL: https://apps.apple.com/us/app/the-autism-helper/id1557724340
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: An iPad app providing autism resources, evidence-based training, executive-function courses, downloadable tools, and a professional support community.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/us/app/goblin-tools-autism-pal-to-do/id1527180714?uo=4
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Productivity app for neurodivergent users featuring task breakdown, time estimation, task compilation, visual time tracking, and customizable focus sessions.
+
+### Bloom Autism Support
+
+- URL: https://apps.apple.com/us/app/bloom-autism-support/id6761259907
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: AI-powered autism and special-needs support companion covering guidance for meltdowns, IEPs, sleep, behavior, and related family-support needs.
+
+### Tiimo: Daily To Do List
+
+- URL: https://play.google.com/store/apps/details?id=com.tiimo.androidappreactnative&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Google Play listing for Tiimo, featuring visual daily planning, reminders, routines, and a focus timer designed to support planning, focus, and follow-through.
+
+### Equal Edge
+
+- URL: https://play.google.com/store/apps/details?id=app.equaledge.eeu&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Visual planning and executive-function assistant for neurodivergent college students. Helps break down assignments, prioritize tasks, organize schedules, and start work.
+
+### Tiimo: A Daily Visual Planner Tailored for Neurodiversity
+
+- URL: https://stationsme.ca/en/students/taking-care-of-yourself/tools-for-students/tiimo-gerer-son-temps-et-maintenir-sa-concentration/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Visual planning app for neurodivergent users, including autistic people, with timelines, reminders, checklists, flexible activity controls, and calendar integration.
+
+### Tiimo
+
+- URL: https://theinnerfoundation.org/portfolio/tiimo/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Adaptive neuroinclusive planning platform with visual scheduling, focus tools, smart checklists, customizable reminders, and support for autism-related executive-function challenges.
+
+### Overbrained Collective Tools
+
+- URL: https://www.over-brained.com/tools
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Collection of free tools and toolkits for neurodivergent planning, studying, transitions, parenting, and executive-function support.
+
+### Executive Function Toolkit
+
+- URL: https://www.understandingneurodiversity.org/toolkits/executive-function-toolkit.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public toolkit with practical executive-function strategies relevant to autism, ADHD, and brain-injury support contexts.
+
+### Executive Function Toolkit  NHS Empowered
+
+- URL: https://www.empowerednw.nhs.uk/EbE/hear-empowered-experts-experience/autism-awareness-month-2026/toolkit-managing-neurodivergence/executive-function-toolkit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: NHS-hosted guidance offering practical strategies for managing neurodivergence and prioritizing essential versus optional tasks.
+
+### Executive Function Resources & Tools  NeuroLocker
+
+- URL: https://neurolocker.ai/resources/executive-function/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Resource hub with neurodivergent-friendly worksheets for routines, task breakdown, brain dumping, and focus sessions.
