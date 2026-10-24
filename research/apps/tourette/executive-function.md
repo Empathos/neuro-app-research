@@ -858,3 +858,43 @@
 - Query: tourette executive-function neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: App Store AI planner with voice task entry, focus timing, and automatic breakdown of overwhelming tasks into smaller steps for neurodivergent users.[7]
+
+### NINDS Tourette Syndrome Information PDF
+
+- URL: https://www.ninds.nih.gov/sites/default/files/2025-05/tourette-syndrome.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official NINDS Tourette syndrome fact sheet directing researchers to NIH RePORTER and related research resources.[5]
+
+### Coriell NINDS Tourette Syndrome Genetic Samples
+
+- URL: https://www.coriell.org/1/NINDS/Diseases/Tourette-Syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public genetic-sample resource supporting Tourette syndrome research, including affected individuals, relatives, controls, and collection searches.[2]
+
+### NJCTS Cell and DNA Sharing Repository
+
+- URL: https://njcts.org/programs-resources/for-professionals/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official New Jersey Center for Tourette Syndrome resource describing a clinical and genetic data repository developed with Rutgers and Yale.[3]
+
+### NJCTS Sharing Repository
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC2605751/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public repository article describing access to Tourette-related clinical data, DNA, cell lines, and associated ADHD and OCD research materials for qualified researchers.[7]

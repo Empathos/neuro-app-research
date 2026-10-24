@@ -398,3 +398,13 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: App for logging tics and lifestyle factors such as sleep, diet, screen time, and stress, with pattern analysis and flare-up forecasting.
+
+### The Hidden Charity Neurodivergent Resources
+
+- URL: https://thehidden.charity/resources
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Curated public resource collection filterable by Tourette syndrome and broader neurodivergence, including support organizations and educational materials.

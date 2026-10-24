@@ -668,3 +668,13 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Official support directory for families, individuals, and professionals, including local chapters, support groups, and Centers of Excellence relevant to caregiver-clinician coordination.
+
+### Divergent Paths: My Tools & Guides
+
+- URL: https://www.divergentpathscounseling.com/my-tools-and-guides
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public neurodiversity-affirming tools for clinicians and clients, including client-complexity assessment materials and clinician competency self-rating resources.

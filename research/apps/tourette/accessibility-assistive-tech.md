@@ -478,3 +478,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Private, on-device iOS self-monitoring tool for neurodivergent users to understand functional state and communicate support needs; especially oriented toward autistic users.
+
+### Luna  GitHub
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public GitHub organization for Luna, an app focused on supporting neurodivergent peoples daily lives and well-being through assistive technology and digital accessibility.

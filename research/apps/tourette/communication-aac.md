@@ -798,3 +798,23 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public overview of iPhone AAC options including Proloquo2Go, TouchChat HD, Snap Core First, CommunicoTot, GoTalk NOW, and LetMeTalk.
+
+### Communication and Psychosocial Functioning in Children With Tourette Syndrome
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1111/1460-6984.70056
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: 2025 study examining parent-reported communication and psychosocial functioning in children with Tourette syndrome using the CCC-2 and SDQ; 38% of participants had scores suggesting communication challenges.[3]
+
+### Speech, Language, and Communication in Tourette's Syndrome
+
+- URL: https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/abs/speech-language-and-communication-in-tourettes-syndrome/E6EA78A60834021F403778347B6D79C7
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Review covering tic-related speech phenomena, expressive and receptive language impairments, signing, writing, and other communication topics in Tourette syndrome.[10]
