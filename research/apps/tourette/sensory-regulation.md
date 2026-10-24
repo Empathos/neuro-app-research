@@ -648,3 +648,13 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-15
 - Description: Sensory-regulation app developed for families, professionals, and schools, with stated support for Tourette syndrome, ADHD, autism, and sensory processing differences.
+
+### NdCare Hub
+
+- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Neuro-affirming emotional-regulation app with grounding sequences, somatic resets, sensory stabilisation, breathing tools, and support for overwhelm, shutdown, burnout, and sensitivity spikes.

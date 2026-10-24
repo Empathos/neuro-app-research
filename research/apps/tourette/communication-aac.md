@@ -768,3 +768,53 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: University accessibility guidance covering Tourette accommodations and examples of communication and assistive-technology apps such as Verbally, ChoiceBoard-Creator, MyTalk, SmallTalk, and Sounding Board.
+
+### TicSafe
+
+- URL: https://apps.apple.com/kr/app/ticsafe/id6738706091?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Free iPhone app developed by a person with Tourette syndrome, offering tic-management strategies, medication and clinician communication support, and educational resources.
+
+### Vocable AAC
+
+- URL: https://apps.apple.com/us/app/vocable-aac/id1497040547?l=fr-FR
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: iPhone and iPad AAC app supporting hands-free head tracking, touch input, customizable text-based communication tiles, and speech impairment use cases.
+
+### AAC Device Apps for iPhone
+
+- URL: https://littlewords.ai/blog/aac-device-apps-for-iphone
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public overview of iPhone AAC options including Proloquo2Go, TouchChat HD, Snap Core First, CommunicoTot, GoTalk NOW, and LetMeTalk.
+
+### Communication and Psychosocial Functioning in Children With Tourette Syndrome
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1111/1460-6984.70056
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: 2025 study examining parent-reported communication and psychosocial functioning in children with Tourette syndrome using the CCC-2 and SDQ; 38% of participants had scores suggesting communication challenges.[3]
+
+### Speech, Language, and Communication in Tourette's Syndrome
+
+- URL: https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/abs/speech-language-and-communication-in-tourettes-syndrome/E6EA78A60834021F403778347B6D79C7
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Review covering tic-related speech phenomena, expressive and receptive language impairments, signing, writing, and other communication topics in Tourette syndrome.[10]

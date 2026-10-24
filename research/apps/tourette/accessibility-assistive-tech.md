@@ -458,3 +458,33 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: iPhone decision-support app offering guided reflection questions, recommendations, follow-through instructions, and routine decision aids.
+
+### TicSafe
+
+- URL: https://apps.apple.com/om/app/ticsafe/id6738706091
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Free iOS support app for people with tics, offering medication-related guidance, clinician and therapist communication support, tic-management strategies, educational resources, and a calming timer.
+
+### Signal & Support  Neurodivergent Self-Check-In
+
+- URL: https://apps.apple.com/au/app/signal-support/id6758867206
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Private, on-device iOS self-monitoring tool for neurodivergent users to understand functional state and communicate support needs; especially oriented toward autistic users.
+
+### Luna  GitHub
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public GitHub organization for Luna, an app focused on supporting neurodivergent peoples daily lives and well-being through assistive technology and digital accessibility.

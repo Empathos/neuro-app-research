@@ -638,3 +638,53 @@
 - Query: tourette education-learning neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Publicly curated catalog of Tourette syndrome resources for youth, teens, professionals, educators, and other people affected by TS.
+
+### Tourette Association of America  Information and Referral Resources
+
+- URL: https://tourette.org/wp-content/uploads/InformationReferralResources-1.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public PDF resource guide featuring an educators planning and support toolkit for helping students with Tourette syndrome and tic disorders thrive academically and socially.
+
+### Tourette Greece  Educational Resources
+
+- URL: https://www.tourette.gr/download
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public collection of scientific materials, clinical guidance, educator guides, intervention-planning resources, and parent workbooks.
+
+### Thriive  Tourettes and Tics in Children
+
+- URL: https://thriivemind.com/learn/conditions/tourettes/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Parent-focused Tourette and tic support page describing pattern tracking, practical strategies, and preparation for clinical appointments.
+
+### Tourette Association of America: Resources for Educators
+
+- URL: https://tourette.org/resources-for-educators/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Education-focused materials, professional development, and guidance for accommodating students with Tourette syndrome and tic disorders.
+
+### Tourettes Action: Education Resource Library
+
+- URL: https://www.tourettes-action.org.uk/rescat-3-education.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public education resources including classroom lesson plans, teacher guidance, and tools supporting communication about Tourette syndrome in school and social settings.
