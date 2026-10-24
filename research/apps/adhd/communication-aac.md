@@ -899,3 +899,123 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: AAC app for children and adults with speech disabilities, using symbols and voice output to support communication.
+
+### Pictalk AAC
+
+- URL: https://www.pictalk.org/en/pictalk/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Free AAC app for people with ADHD, autism, apraxia, aphasia, and other communication needs; supports pictograms, speech synthesis, personalization, collaboration, and offline use across Android, iOS, and computers.
+
+### OpenSpeak AAC Documentation
+
+- URL: https://github.com/openspeakaac/openspeak-aac/blob/main/docs/overview.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source AAC project documentation describing an offline-first communication system with symbol libraries, multilingual support, and sentence-building assistance.
+
+### RoutineFlow
+
+- URL: https://www.routineflow.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Step-by-step routine and visual timer tool designed to help users plan recurring activities and stay on task.
+
+### Understood: Real-Time Communication Support for Adults with ADHD
+
+- URL: https://arxiv.org/html/2507.18151v2
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Research prototype for Microsoft HoloLens 2 that provides conversation summarization, context-aware word suggestions, and topic-shift reminders for adults with ADHD.
+
+### CDC Free Materials on ADHD
+
+- URL: https://www.cdc.gov/adhd/php/communication-resources/index.html
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public ADHD resource hub containing communication materials and links to information about symptoms, diagnosis, treatment, data, and research.
+
+### Communication abilities of children with ASD and ADHD
+
+- URL: https://research.rug.nl/en/publications/communication-abilities-of-children-with-asd-and-adhd-production-/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Research publication examining production, comprehension, perspective-taking, and cognitive mechanisms related to communication in children with ASD and ADHD.
+
+### Communication across autism, ADHD, and non-clinical groups
+
+- URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1865249/full
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Open research article investigating associations between autistic and ADHD traits and communication difficulties across children and adolescents.
+
+### Proloquo AAC
+
+- URL: https://apps.apple.com/us/iphone/story/id1895869577?l=ar
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: AAC app that uses adaptive word boards and speech output to support people who have difficulty speaking or being understood.
+
+### Vocable AAC
+
+- URL: https://apps.apple.com/us/app/vocable-aac/id1497040547?l=fr-FR
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Hands-free AAC app for iPhone and iPad using head movements, intended to support communication for people with speech challenges.
+
+### Custom AAC: Speech Companion
+
+- URL: https://apps.apple.com/jp/app/custom-aac-speech-companion/id6753180190?l=en-US&platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: AAC app for autistic and ADHD users, non-speaking or minimally verbal people, families, educators, and therapists; provides customizable boards, sentence building, categories, and text-to-speech.
+
+### ComuniTEApp
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Android app for autism, ADHD, and other neurodivergent users featuring pictogram-based AAC, an assistant, and support alerts.
+
+### Speech Assistant AAC
+
+- URL: https://www.speechassistant.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AAC communication board supporting picture tiles, typed messages, text-to-speech, hands-free head tracking, and synchronization across Apple devices.
