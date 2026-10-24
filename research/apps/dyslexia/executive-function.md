@@ -508,3 +508,13 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Five-year follow-up study examining how digital assistive technologies support written-language skills, text comprehension, production, and engagement.
+
+### Comprehensive Review of Assistive Technologies for Children with Dyslexia
+
+- URL: https://arxiv.org/html/2412.13241v1
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Open-access review covering dyslexia-oriented mobile applications and assistive features such as OCR, text-to-speech, adjustable typography, spacing, and color controls.
