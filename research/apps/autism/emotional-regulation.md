@@ -778,3 +778,13 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Autistica-developed app focused on helping autistic adults understand and manage anxiety through autism-adapted, evidence-informed strategies and tracking.
+
+### AutistApp
+
+- URL: https://zeroproject.org/view/project/57f0756e-b654-f011-877b-6045bddd5972
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Free Spanish-language mobile app for autistic adolescents and adults with pictograms, self-regulation tools, anxiety supports, situational-mutism cards, and offline access.

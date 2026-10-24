@@ -728,3 +728,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: App designed to support autistic users in recognizing emotions and facial expressions through visual identification games.
+
+### Verbal AUTISM Pro
+
+- URL: https://apps.apple.com/us/app/verbal-autism-pro/id6471736488?uo=4
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Customizable communication app designed to help families communicate with nonspeaking autistic people; available for iPad with in-app purchases.[1]
+
+### Speak Buddy  Autism speech
+
+- URL: https://apps.apple.com/in/app/speak-buddy-autism-speech/id6748900554
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Research-informed speech-therapy companion for autistic, nonverbal, and late-talking children, with structured lessons, speech games, AAC boards, custom vocabulary, and progress tracking.[6]
+
+### cardchat  AAC APP
+
+- URL: https://apps.apple.com/us/app/cardchat-aac-app/id6747066779
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Picture-based AAC app for autism, language delay, aphasia, and intellectual disabilities, with custom categories and cards, image previews, GIF support, Cantonese, and ad-free local storage.[8]
+
+### AAC Talk
+
+- URL: https://play.google.com/store/apps/details?id=com.missingstep.aactalk.autism&hl=en_ZA
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Customizable AAC communication app for autistic and nonverbal users, including speech-therapy support.[10]

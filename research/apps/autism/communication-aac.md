@@ -1038,3 +1038,63 @@
 - Query: autism communication-aac neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Free, multilingual AAC Android app for people with speech disabilities, including non-speaking autistic users; identified as open source.
+
+### Otsimo AAC
+
+- URL: https://github.com/otsimo-archive/aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: AAC application that supports phrase composition through picture-based word selection for children with autism who cannot speak.
+
+### Reed
+
+- URL: https://meetreed.ai/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Communication-learning app for neurodivergent families that transforms spoken and written language into visual, sound, and sensory cues and supports research-informed communication development.
+
+### TouchChat HD - AAC
+
+- URL: https://touchchatapp.com/apps/touchchat-hd-aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official AAC communication app for people who have difficulty using natural speech, including autistic people; supports customizable communication and multiple languages.
+
+### Matraquinha: Autism
+
+- URL: https://play.google.com/store/apps/details/Matraquinha_Autism?id=com.phonegap.matraquinha&hl=en_ZA
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Android AAC app that converts images into speech to support autonomy and self-expression for autistic and nonspeaking users.
+
+### Autism Technology: Language and Communication
+
+- URL: https://sites.google.com/site/autismtechnology/apps-for-autism/language-and-communication
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public directory of autism communication tools, including TalkTablet, Communicate Easy, iAssist Communicator, and picture-based AAC systems.
+
+### Assistive Technology Resources: Communication Resources
+
+- URL: https://sites.google.com/wrvsu.org/assistive-technology-resources/communication-resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Resource page cataloging communication apps such as TouchChat HD, TalkTablet PRO, and Proloquo2Go for autism and other speech or communication disabilities.

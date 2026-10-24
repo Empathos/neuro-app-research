@@ -698,3 +698,23 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Customizable routine and task app for autistic users that supports daily organization, communication, socio-emotional development, custom activities, images, descriptions, and notifications.
+
+### Autism: daily living & caring
+
+- URL: https://play.google.com/store/apps/details?id=com.levstone.mobility.trustedlocationaid&hl=en_GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Android app connecting families, trusted contacts, and carers, with location and arrival alerts intended to support daily safety and caregiving.[9]
+
+### Pictalk Buddy
+
+- URL: https://www.pictalk.org/en/buddy/visual-schedule-autism-life-diary-pictalk-buddy/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: A visual schedule, step-by-step sequence builder, life book, and pictogram communication tool for autistic people and people with ADHD or cognitive disabilities.

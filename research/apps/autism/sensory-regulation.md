@@ -928,3 +928,43 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Android support assistant for caregivers, educators, and professionals, featuring sensory-friendly suggestions, calming animations, visual timers, co-regulation prompts, and guidance for sensory overwhelm.
+
+### Nello: Autism Tracker
+
+- URL: https://play.google.com/store/apps/details?id=com.adelyons.nello&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Autism behavior and sensory tracker for parents, autistic teens, and adults; logs meltdowns, shutdowns, sensory moments, sleep, food, and regulation patterns.
+
+### Spoons - Autism Energy Tracker
+
+- URL: https://play.google.com/store/apps/details?id=app.getspoons.spoons&hl=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Energy-tracking app for autistic adults focused on burnout, masking fatigue, shutdowns, sensory overload, and daily energy patterns.
+
+### Calm Apps for Kids Who See the World Differently
+
+- URL: https://gentle-motion.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Collection of low-stimulation apps for children with autism and sensory sensitivities, featuring gentle colors, soothing sounds, and predictable interactive experiences.
+
+### Sensory Regulation Guide
+
+- URL: https://www.understandingneurodiversity.org/toolkits/sensory-regulation-guide.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public sensory-regulation toolkit with a sensory inventory, working sensory-system map, ready-to-use scripts, and worksheets.

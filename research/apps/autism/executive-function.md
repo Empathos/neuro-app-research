@@ -1148,3 +1148,43 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Resource hub with neurodivergent-friendly worksheets for routines, task breakdown, brain dumping, and focus sessions.
+
+### App4Autism
+
+- URL: https://app4autism.com/en/terms/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Visual-support app offering visual timers, token economy features, and daily, weekly, and monthly planning tools for autistic users.
+
+### The Autism Helper
+
+- URL: https://apps.apple.com/ca/app/the-autism-helper/id1557724340
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Training, tools, and community app offering evidence-based courses that include executive-function skills, downloadable functional and communication materials, and professional or caregiver communities.[5]
+
+### Autism Apps
+
+- URL: https://apps.apple.com/nz/app/autism-apps/id441600681
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Searchable directory of apps used by autistic people and people with other developmental disabilities, organized into more than 30 categories.[9]
+
+### RfA
+
+- URL: https://apps.apple.com/gb/app/rfa/id6449369661
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: App associated with Resources for Autism, a registered charity providing practical services for autistic children and adults and their families, with attention to communication and sensory needs.[8]

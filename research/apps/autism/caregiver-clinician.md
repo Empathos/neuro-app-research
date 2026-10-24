@@ -738,3 +738,43 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public repository focused on autism-related skills and support software, with an explicit emphasis on safety, harm reporting, crisis-sensitive outputs, and accommodation-related use cases.
+
+### access autism Android Client
+
+- URL: https://github.com/access-autism/android-client
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public Android application intended to help caregivers, families, and clinicians care for autistic children.
+
+### Adappt: Smartphone Application for Parents of Neurodivergent Children
+
+- URL: https://research.utwente.nl/en/publications/co-creating-adappt-a-smartphone-application-to-enhance-the-mental/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Research-backed app co-created with parents and professionals to support adaptability and mental well-being through evidence-based exercises.
+
+### ITI Lab Neurodivergent Decision-Support Research
+
+- URL: https://itilab.io/research/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Research program exploring AI-powered decision support for autistic and ADHD adults, informed by community polling and app evaluations.
+
+### Hi Rasmus
+
+- URL: https://apps.apple.com/do/app/hi-rasmus/id1544967962?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Collaborative data-driven care platform for clinicians, educators, and caregivers, including team profiles, real-time data collection, documentation, and outcomes reporting.
