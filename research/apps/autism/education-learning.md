@@ -559,16 +559,6 @@
 - Found: 2026-08-02
 - Description: Liams Match Day is a bespoke PWA engineered to support a young adult with autism, epilepsy, learning disabilities, and right-sided hemiplegia as he builds crucial daily independence.
 
-### mohitagw15856/pm-claude-skills
-
-- URL: https://github.com/mohitagw15856/pm-claude-skills
-- Source: github-search
-- Condition: autism
-- Support category: education-learning
-- Query: social story learning support directory
-- Found: 2026-08-11
-- Description: 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex  from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.
-
 ### Jade Edu
 
 - URL: https://www.jadend.tech/en/jade-edu

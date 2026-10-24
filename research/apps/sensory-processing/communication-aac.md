@@ -688,3 +688,83 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Public Python repository implementing a scoring tool for the Sensory Processing Measure (SPM-2), potentially useful for assessment-related research workflows.
+
+### Speech Assistant  AAC Pad
+
+- URL: https://apps.apple.com/us/app/speech-assistant-aac-pad/id6764142827
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Customizable AAC phrase-board app supporting symbols, keyboard input, recorded voice, touch control, and hands-free face control for people with speech difficulties.
+
+### FreeSpeech AAC
+
+- URL: https://www.freespeechaac.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Free and open-source AAC app for children, teens, and adults who cannot reliably use speech.
+
+### Sensory Safe Resources
+
+- URL: https://sensorysaferesources.org/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Online library of practical, evidence-based resources for neurodivergent people, families, educators, and professionals.[3]
+
+### Sensory Resource Hub  Neurodivergent Insights
+
+- URL: https://neurodivergentinsights.com/sensory-hub/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Central hub with sensory self-care tools, workbooks, and professional resources for autistic, ADHD, and sensory-sensitive users.[6]
+
+### Speech Assistant AAC
+
+- URL: https://www.speechassistant.io/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Official AAC communication tool for iPhone, iPad, and Apple Watch with picture boards, typed speech, phrase building, and hands-free head tracking. [4]
+
+### Stories My Way
+
+- URL: https://play.google.com/store/apps/details?id=com.storiesmyway.twa&hl=en_GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Sensory-aware storytelling and coaching app for neurodivergent children, including processing breaks, AAC and visual-communication modeling, self-regulation tools, and sensory activities.
+
+### SensesHub
+
+- URL: https://senseshub.org/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Neurodivergent-support platform offering sensory-break timers, predictable routines, and an offline-first AAC app with scene-based vocabulary and personalized communication tiles.
+
+### Sensory Shock
+
+- URL: https://sensoryshock.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Free browser-based collection of sensory, AAC, visual-schedule, calming, communication, and emotional-regulation tools for autistic people and people with sensory-processing differences.

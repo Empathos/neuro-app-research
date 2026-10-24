@@ -458,3 +458,33 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-17
 - Description: Public resource discussing sensory-processing support, nervous-system regulation, somatic approaches, and occupational-therapy-informed accommodations.[5]
+
+### NdCare Hub
+
+- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neurodivergent support app combining emotional-regulation tools, routines, sensory stabilisation, grounding, somatic resets, breathing exercises, and support for shutdown or overwhelm.[6]
+
+### BrainWorks
+
+- URL: https://www.upliftingvoices.org/FA/FA3.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Sensory-support app for children that helps select individualized activities based on current sensory needs, environment, available equipment, and adult customization.
+
+### NeuroNest Support Resources
+
+- URL: https://www.neuronest.global/features/support-resources
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public resource platform with guides on sensory profiles, transitions, emotional regulation, preparing for new environments, and advocacy.[10]

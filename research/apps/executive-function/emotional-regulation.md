@@ -509,16 +509,6 @@
 - Found: 2026-10-13
 - Description: Public repository index featuring neurodivergence-focused projects, including visual planning tools and socioemotional-support systems.
 
-### Social Emotion App
-
-- URL: https://www.heephong.org/eng/tools-and-resources/publications/mobile-app/page2
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: emotional-regulation
-- Query: executive-function emotional-regulation neurodivergent app research pass 502
-- Found: 2026-10-13
-- Description: SCERTS-based app with interactive materials for learning emotions and emotion-regulation methods, intended for children, parents, and professionals.
-
 ### Finch
 
 - URL: https://www.finchcare.com/
