@@ -768,3 +768,43 @@
 - Query: executive-function communication-aac neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Offline AAC board with pictures, text, and natural text-to-speech for people with speech challenges, including autistic users.
+
+### Speech Assistant - AAC Pad
+
+- URL: https://apps.apple.com/us/app/speech-assistant-aac-pad/id6764142827
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Customizable AAC phrase board with touch and hands-free face-control options for people with speech difficulties.
+
+### Pictalk AAC
+
+- URL: https://www.pictalk.org/en/pictalk/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Free AAC application with pictograms and speech synthesis for Android, iOS, and web, including customizable communication binders and offline use.
+
+### Executive Functions GitHub Topics
+
+- URL: https://github.com/topics/executive-functions
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public GitHub topic page featuring projects for neuroinclusive task management, planning, energy tracking, and related executive-function support.
+
+### Goblin Tools
+
+- URL: https://play.google.com/store/apps/details?id=com.goblintools&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Official Android app offering task decomposition, decision support, communication assistance, and other tools designed for executive dysfunction, ADHD, autism, and neurodivergent users.

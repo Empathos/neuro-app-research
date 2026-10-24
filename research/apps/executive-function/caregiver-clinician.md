@@ -364,3 +364,23 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: NHS support page listing practical tools such as Brain Focus Productivity Timer and Todoist for work sessions, breaks, task lists, and completion tracking.
+
+### DaySteps
+
+- URL: https://daysteps.app/about/faq/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Visual schedule and routine app for children and adults with executive-function challenges, supporting shared use across home, clinic, and school by families, clinicians, and educators.
+
+### ITI Lab Research
+
+- URL: https://itilab.io/research/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research lead on AI decision-making support for neurodivergent adults, informed by polling more than 100 autistic and ADHD community members about useful app concepts.
