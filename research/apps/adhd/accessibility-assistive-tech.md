@@ -638,3 +638,43 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-23
 - Description: Public research article describing the use of Focus Bear to study computer activity, focus behavior, and accessibility implications for adults with ADHD.
+
+### TimeBox
+
+- URL: https://github.com/davidjenner/TimeBox
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: An open-source focus and time-boxing tool intended to help users start tasks, maintain focus, and understand elapsed time.
+
+### W3C Cognitive Accessibility: ADHD Gap Analysis
+
+- URL: https://www.w3.org/WAI/GL/task-forces/coga/wiki/Gap_Analysis/ADHD
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: A W3C research and guidance page covering ADHD-related cognitive accessibility gaps and assistive approaches such as timers, speech recognition, mind mapping, and word prediction.
+
+### Focus Forward: Assistive Technology for ADHD Learners
+
+- URL: https://ecampusontario.pressbooks.pub/adhdskillsgroup/chapter/session-8/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: An educational resource describing practical ADHD supports, including text-to-speech, simplified webpages, timers, focus tools, dictation, calendar reminders, and distraction blockers.
+
+### Assistive Technology Tools for Learning Differences, ADHD and Executive Function Challenges
+
+- URL: https://www.chconline.org/resourcelibrary/assistive-technology-tools-for-learning-differences-adhd-and-executive-function-challenges-web-resource/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: A curated public resource covering reading, writing, speech recognition, note-taking, organization, distraction management, attention, and wellness technologies.

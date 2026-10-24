@@ -989,3 +989,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-10-23
 - Description: Hands-free AAC app for iPhone and iPad using head movements, intended to support communication for people with speech challenges.
+
+### Custom AAC: Speech Companion
+
+- URL: https://apps.apple.com/jp/app/custom-aac-speech-companion/id6753180190?l=en-US&platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: AAC app for autistic and ADHD users, non-speaking or minimally verbal people, families, educators, and therapists; provides customizable boards, sentence building, categories, and text-to-speech.
+
+### ComuniTEApp
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Android app for autism, ADHD, and other neurodivergent users featuring pictogram-based AAC, an assistant, and support alerts.

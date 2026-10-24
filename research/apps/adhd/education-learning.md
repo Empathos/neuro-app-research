@@ -1188,3 +1188,43 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Open-source todo app intended to motivate people with ADHD and help them complete deadline-driven tasks efficiently.
+
+### Society for ADHD Resource Library
+
+- URL: https://www.societyforadhd.org/resource-library
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public resource library containing information and education-support materials related to ADHD and co-occurring conditions.
+
+### Neurodivergent and Disability Resource Library
+
+- URL: https://www.self-directed.org/resource/neurodivergent-disability-resource-library/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Curated public library of resources on neurodiversity, ADHD, disability, mental health, and inclusive education.
+
+### GitHub ADHD-Friendly Topic
+
+- URL: https://github.com/topics/adhd-friendly?l=typescript
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public repository-topic page containing ADHD-friendly software projects, including gamified educational tools, neurodivergent study apps, visual learning aids, and active-recall learning tools.
+
+### GoManda
+
+- URL: https://www.gomanda.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: A vocabulary-learning app for neurodivergent learners, with interactive receptive-vocabulary education intended for school and home use.

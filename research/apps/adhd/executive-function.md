@@ -848,3 +848,13 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: AI planner and focus timer that turns intentions into goals, provides accountability, and uses light gamification to reward focused work.
+
+### ADHD Planner - Prism Buddy
+
+- URL: https://apps.apple.com/us/app/adhd-planner-prism-buddy/id6738650371?uo=2
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: iPhone planner for ADHD and autism with task breakdown, thought organization, communication assistance, daily guidance, and executive-function features.[10]

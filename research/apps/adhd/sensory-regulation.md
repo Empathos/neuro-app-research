@@ -828,3 +828,13 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: ADHD-focused nervous-system regulation app providing short guided breathing, grounding, vestibular, and sensory exercises for overwhelm, overstimulation, and difficulty getting started.
+
+### Neuro Spark Kids
+
+- URL: https://neurospkids.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Family and therapist-oriented application for children with ADHD and autism, with daily exercises targeting attention, sensory regulation, emotional regulation, and progress tracking.[6]

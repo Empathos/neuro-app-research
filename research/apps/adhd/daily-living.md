@@ -868,3 +868,23 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public MIT-licensed planning skill designed for ADHD brains, offering time-blind-friendly planning, realistic estimates, dopamine-aware task design, transition buffers, and anti-overwhelm safeguards.
+
+### Luna
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public project presenting an app intended to support neurodivergent people with daily living and well-being.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/us/app/the-adhd-executive/id6749107142?l=vi
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: iPhone app offering short daily ADHD-focused insights, practical micro-challenges, reminders, notes, and habit tracking; positioned as educational and productivity support rather than medical treatment.
