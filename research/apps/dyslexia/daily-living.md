@@ -258,3 +258,143 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Research lead examining dyslexic adults lived experiences, intervention effectiveness, compensatory supports, individualized accommodations, and assistive technologies.
+
+### ReadEasy+ Digital Accessibility Tool
+
+- URL: https://lonemoloi.github.io/ReadEasy-/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Web accessibility application for dyslexia and visual impairments with OpenDyslexic font support and readability-focused text transformation.
+
+### ReadAnything
+
+- URL: https://github.com/ZeroDayZen/readanything
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Linux accessibility application that reads pasted text aloud, intended to support dyslexic users and others who benefit from text-to-speech.
+
+### Visua11y Agent
+
+- URL: https://chulit.github.io/visua11y-agent/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source web accessibility toolbar with dyslexia, ADHD, low-vision, motor-impairment, and other accessibility presets, including font and spacing controls.
+
+### ReadEase
+
+- URL: https://dimitri-edel.github.io/barrier-breakers/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Online readability tool for dyslexia and visual impairments with text-to-speech, magnification, and adjustable text sizing.
+
+### Dyxitool
+
+- URL: https://samclercky.github.io/Dyxitool/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source browser-oriented reading aid using OpenDyslexic typography, colored backgrounds, and cursor-based text highlighting to improve web readability.
+
+### OpenDyslexic
+
+- URL: https://accessibility.tools/docs/dyslexia/font-opendys
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open-source typeface designed to improve text readability for people with dyslexia; useful for evaluating font-based accessibility interventions.
+
+### Accessible Reading & Study Workstation
+
+- URL: https://github.com/coconuthead-Sentinel-core/accessible-reading-study-workstation
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Open-source Windows workstation for dyslexia, ADHD, and dysgraphia featuring read-aloud with synchronized highlighting, voice dictation, readability analysis, library tools, and study planning.
+
+### Dyslexia Data Consortium Repository
+
+- URL: https://dyslexia.computing.clemson.edu/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research data platform for dyslexia and reading-development studies, supporting harmonized behavioral, clinical, demographic, and neuroimaging data with analysis resources.
+
+### Dyslexia - Cognitive Research
+
+- URL: https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=en_GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Google Play app designed to support participation in dyslexia-related scientific studies through cognitive evaluation and treatment tools.
+
+### LuminaRead
+
+- URL: https://github.com/MarthaDixon/LuminaRead
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Offline, single-file HTML reading tool offering adjustable word colors, tint overlays, custom reading profiles, and browser-based text-to-speech for dyslexia and visual processing differences.
+
+### Accessibility Tools: Dyslexia Documentation
+
+- URL: https://accessibility.tools/docs/dyslexia/index.html
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Design and accessibility guidance describing dyslexic readers needs and considerations for creating more usable digital tools.
+
+### Font Features and Dyslexia
+
+- URL: https://accessibility.tools/docs/dyslexia/font-feat
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research-oriented documentation covering layout and text-formatting features relevant to reading experiences for people with dyslexia.
+
+### Dyslexia and Typography
+
+- URL: https://accessibility.tools/docs/dyslexia/df-fonts
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Evidence-focused overview of specialized dyslexia-oriented fonts, including discussion of the mixed research findings on their effectiveness.
+
+### Dyslexia Data Consortium Repository
+
+- URL: https://ngdc.cncb.ac.cn/databasecommons/database/id/9417
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public database record for a multisite neuroimaging repository containing harmonized behavioral, clinical, demographic, MRI, and reading-development data related to dyslexia.
