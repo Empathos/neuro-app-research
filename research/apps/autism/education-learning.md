@@ -1018,3 +1018,83 @@
 - Query: autism education-learning neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Autism-support app using social narratives, picture schedules, visual timers, token boards, and first-then charts to support social and daily-living skills.
+
+### Autism Experts App
+
+- URL: https://www.autism-experts.org/app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Mobile access to autism-focused courses, books, articles, videos, guides, and practical support resources for families and professionals.
+
+### Otsimo Special Education
+
+- URL: https://autism-raadsr.com/resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Special-education learning app lead offering games and activities for cognition, communication, emotions, social stories, letters, numbers, and personalized learning paths.
+
+### Understanding Autism
+
+- URL: https://apps.apple.com/gb/app/understanding-autism/id1446720237
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Caregiver and supporter education app offering short videos and introductory guidance for people supporting someone living with autism.
+
+### GoManda
+
+- URL: https://www.gomanda.com/features
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Vocabulary education app designed for autistic and neurodivergent learners, supporting foundational concepts such as early literacy in classrooms, homes, and clinical settings.
+
+### Learn Autism
+
+- URL: https://www.f6s.com/software/category/autism-education
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Digital education resource for autistic peoples families and caregivers, offering video tutorials, downloadable workbooks, multilingual subtitles, and guidance from clinicians and therapists.
+
+### Versed Apps
+
+- URL: https://versedapps.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Accessibility-first learning tools for neurodivergent students, including autistic learners, with flashcards, spaced repetition, AI deck creation, parent dashboards, and classroom management.
+
+### federated_learning_basic_pipeline_autism
+
+- URL: https://github.com/qamarabbas87/federated_learning_basic_pipeline_autism/blob/main/asd.arff
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public GitHub repository lead containing an autism-related dataset file and a federated-learning pipeline, potentially useful for research or technical prototyping.
+
+### Jade - Learning Through Play
+
+- URL: https://apps.apple.com/jp/app/jade-learning-through-play/id1473169233?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: App Store listing for an inclusive learning app supporting autistic and other neurodivergent children through activities involving attention, memory, reasoning, and emotional recognition.

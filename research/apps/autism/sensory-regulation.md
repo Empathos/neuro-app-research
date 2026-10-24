@@ -888,3 +888,83 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: An iPhone and iPad app for children with autism that offers music, audio stories, calming melodies, rhythmic content, and soothing sounds intended to support relaxation and sensory experiences.[1]
+
+### Sensory Overload  GitHub Topic
+
+- URL: https://github.com/topics/sensory-overload
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public repository collection covering sensory-overload prevention, adaptive noise reduction, calming interventions, and related neurodivergence-support projects.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/qa/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: iOS sensory-play app with interactive fidgets, calming activities, visual effects, and touch interactions intended to support autistic and neurodivergent children during quiet moments, transitions, and self-regulation.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/ro/app/autism-fidgets/id6761034020
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: iOS app offering interactive sensory fidgets for calm, focus, sensory-seeking needs, waiting rooms, travel, transitions, and repetitive cause-and-effect exploration.
+
+### Nova: Autism Support Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.novaautism.app&hl=en_NZ
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Android support assistant for caregivers, educators, and professionals, featuring sensory-friendly suggestions, calming animations, visual timers, co-regulation prompts, and guidance for sensory overwhelm.
+
+### Nello: Autism Tracker
+
+- URL: https://play.google.com/store/apps/details?id=com.adelyons.nello&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Autism behavior and sensory tracker for parents, autistic teens, and adults; logs meltdowns, shutdowns, sensory moments, sleep, food, and regulation patterns.
+
+### Spoons - Autism Energy Tracker
+
+- URL: https://play.google.com/store/apps/details?id=app.getspoons.spoons&hl=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Energy-tracking app for autistic adults focused on burnout, masking fatigue, shutdowns, sensory overload, and daily energy patterns.
+
+### Calm Apps for Kids Who See the World Differently
+
+- URL: https://gentle-motion.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Collection of low-stimulation apps for children with autism and sensory sensitivities, featuring gentle colors, soothing sounds, and predictable interactive experiences.
+
+### Sensory Regulation Guide
+
+- URL: https://www.understandingneurodiversity.org/toolkits/sensory-regulation-guide.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public sensory-regulation toolkit with a sensory inventory, working sensory-system map, ready-to-use scripts, and worksheets.

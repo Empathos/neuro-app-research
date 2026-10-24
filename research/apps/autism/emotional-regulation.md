@@ -698,3 +698,93 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Visual, parent-guided app helping autistic and nonspeaking children identify feelings, express needs, and practice AAC-style phrases such as needing a break or quiet.
+
+### SpectrumSteps
+
+- URL: https://spectrumsteps.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: A family support platform with sensory-profile mapping, visual schedules, regulation tracking, transition supports, and separate guidance for meltdowns and shutdowns.
+
+### An emotion regulation app for school inclusion of children with ASD
+
+- URL: https://www.sciencedirect.com/science/article/abs/pii/S0360131518303166
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Research-backed tablet application designed with participatory methods to support emotion regulation for adolescents with autism in inclusive classrooms; evaluated in a field study.
+
+### Mobile applications for recognizing emotions in children with autism
+
+- URL: https://www.frontiersin.org/journals/child-and-adolescent-psychiatry/articles/10.3389/frcha.2023.1118665/full
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Systematic review of mobile applications for emotion recognition and expression in autistic children, including the EmoTEA game.
+
+### KeepCalm
+
+- URL: https://academic.oup.com/jpepsy/article/50/1/129/7833323
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Digital mental-health application for educators supporting emotion regulation in autistic children; combines wearable heart-rate monitoring, behavior tracking, alerts, and evidence-based strategies.
+
+### Regul-A
+
+- URL: https://www.mdpi.com/1660-4601/18/19/10452
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Family-oriented app concept using sensory strategies to help regulate autistic childrens participation in home routines, developed with focus-group input.
+
+### Effectiveness of Emotion Regulation Supports and Strategies for Autistic Children
+
+- URL: https://link.springer.com/article/10.1007/s40489-025-00530-0
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Systematic review of 25 studies covering emotion-regulation supports for autistic children, including behavioral approaches, interoception therapy, physical activity, and app-related interventions.
+
+### NdCare Hub  Neuro-Affirming Emotional Regulation App
+
+- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Daily support app for neurodivergent users combining emotional-regulation tools, education, routines, sensory stabilization, and AI-guided support.
+
+### Molehill Mountain
+
+- URL: https://autistica.org.uk/molehill-mountain
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Autistica-developed app focused on helping autistic adults understand and manage anxiety through autism-adapted, evidence-informed strategies and tracking.
+
+### AutistApp
+
+- URL: https://zeroproject.org/view/project/57f0756e-b654-f011-877b-6045bddd5972
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Free Spanish-language mobile app for autistic adolescents and adults with pictograms, self-regulation tools, anxiety supports, situational-mutism cards, and offline access.
