@@ -384,3 +384,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Research lead on AI decision-making support for neurodivergent adults, informed by polling more than 100 autistic and ADHD community members about useful app concepts.
+
+### AlwaysHere
+
+- URL: https://alwayshere.app/resources/reducing-caregiver-burnout-ai
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Voice-based AI companion for neurodivergent adults, offering executive-function support, routine reinforcement, medication reminders, emotional-regulation assistance, and caregiver support.

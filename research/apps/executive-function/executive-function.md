@@ -638,3 +638,23 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: ACM research analyzing how people with ADHD use AI as cognitive scaffolding for task initiation, personalization, reflection, and everyday executive-function support.
+
+### Thruday
+
+- URL: https://apps.apple.com/is/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: A visual daily planner for ADHD, autism, and AuDHD with routines, to-dos, mood tracking, and optional support sharing with carers.
+
+### Prism Buddy
+
+- URL: https://apps.apple.com/jp/app/prism-buddy/id6738650371?l=en-US&platform=iphone
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AI task manager for ADHD and autism that breaks down overwhelming tasks, supports time management, and assists with task initiation and scheduling.[9]

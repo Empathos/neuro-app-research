@@ -638,3 +638,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: - Brain-training apps for daily skill drills with mixed evidence on real-world transfer: BrainHQ (most-studied option), CogniFit, and CogMed (working-memory specific) ... Three platforms account for most of the legitimate research base: BrainHQ, CogniFit, and CogMed. ... - **Format:** web and mobile...
+
+### Kaboose  Neurodiversity Training for Teachers & Schools
+
+- URL: https://www.kaboose.app/for-educators/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: On-demand, expert-led learning resources for educators covering executive function, communication, sensory needs, burnout, self-advocacy, and sustainable routines.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/au/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: An iOS education and productivity app offering short daily lessons, practical micro-challenges, habit building, reminders, and reflection-to-habit tools for adults with ADHD.

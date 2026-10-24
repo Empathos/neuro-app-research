@@ -626,3 +626,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Daily support app for neurodivergent users with routines, emotional regulation, sensory stabilization, grounding sequences, somatic resets, and executive-function support.[10]
+
+### Luna
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public GitHub organization for Luna, an app designed to support neurodivergent people with daily life and well-being.
