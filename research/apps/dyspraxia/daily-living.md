@@ -508,3 +508,33 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Neurodivergent-focused planning app with visual schedules, reminders, mood tracking, journaling, collaborative routine building, and explicit support for users with dyspraxia.
+
+### THRIVE App
+
+- URL: https://worktogethernc.com/resource/thrive-app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Visual planning and regulation app designed around neurodivergent needs, supporting day-to-day activity management and decompression.[4]
+
+### THRIVE Visual Planning App
+
+- URL: https://www.thrivingonthespectrum.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Visual planning and regulation app for neurodivergent users, offering schedules, routines, coping strategies, relaxation tools, messaging, and reminders.
+
+### Stride App
+
+- URL: https://neurodiversiteit.nl/stride-app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Personal support tool for flexible daily structure, energy and focus pattern tracking, gentle prompts, and maintaining orientation without productivity pressure.

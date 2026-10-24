@@ -928,3 +928,103 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Research paper describing a remote speech-therapy system combining a mobile practice app, clinician management interface, and server-side speech-processing engine.
+
+### Talk in Pictures X AAC Speak
+
+- URL: https://tools.idealearning.eu/?ideal-apps=talk-in-pictures-x-aac-speak
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Customizable AAC communication app for people with nonverbal communication needs, including speech difficulties associated with autism, dysarthria, and verbal dyspraxia.
+
+### Speech Assistant AAC
+
+- URL: https://www.speechassistant.io/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: AAC and text-to-speech tool for iPhone, iPad, and Apple Watch with communication boards, phrase building, word prediction, hands-free head tracking, and device synchronization.
+
+### Cuespeak
+
+- URL: https://cuespeak.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: iPhone and iPad speech-therapy tool for communication difficulties, including speech practice relevant to apraxia and dyspraxia.
+
+### Aphasia Software Finder Search List
+
+- URL: https://www.aphasiasoftwarefinder.org/general/search-list
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public directory of communication-support software, including Talking Mats, a picture-based discussion-board tool for structured conversation.
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/ie/app/speech-assistant-aac/id1139762358
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: iOS text-to-speech AAC app for speech impairments, with customizable categories, saved phrases, and keyboard-based message composition.
+
+### OpenSpeak AAC Documentation
+
+- URL: https://github.com/openspeakaac/openspeak-aac/blob/main/docs/overview.md
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Project documentation describing OpenSpeak AACs target users, including people with autism, apraxia, cerebral palsy, Down syndrome, and other communication needs.
+
+### Speak for Yourself AAC
+
+- URL: https://speakforyourself.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: AAC application created by speech-language pathologists for children and adults with limited or absent speech, including users with apraxia and cerebral palsy.
+
+### TouchChat HD - AAC
+
+- URL: https://touchchatapp.com/apps/touchchat-hd-aac
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Full-featured iOS AAC solution for people who have difficulty using natural speech, including users with autism, apraxia, stroke, and other communication conditions.
+
+### Technological Aids for Dyspraxia
+
+- URL: https://link.springer.com/article/10.1007/s11042-023-16464-w
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Research article examining machine-learning-based technological aids intended to support people with dyslexia and dyspraxia and inform customized interventions.
+
+### Makaton: Help with verbal dyspraxia and communication
+
+- URL: https://makaton.org/TMC/TMC/About_Makaton/Help_with_verbal_dyspraxia_and_communication.aspx
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official guidance on using Makaton signs, symbols, and speech to support people with verbal dyspraxia, including conveying needs, being understood, sequencing, and visual support.[6]

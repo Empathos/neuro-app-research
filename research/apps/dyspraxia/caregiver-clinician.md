@@ -558,3 +558,123 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: A dyspraxia-focused information and community resource for individuals, families, and professionals, presented as an AI-assisted reference network with cited and quality-reviewed pages.
+
+### Developmental Coordination Disorder: Dyspraxia in Children
+
+- URL: https://childmind.org/article/problems-coordination-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Clinical information resource on DCD/dyspraxia that discusses treatment approaches and handwriting-support apps such as LetterSchool and iTrace.
+
+### Motor Skills and Co-ordination Level 26 Child Self-care
+
+- URL: https://dimensions.covwarkpt.nhs.uk/Download_Document.aspx?DocID=272&DocType=1
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: NHS-linked resource covering dyspraxia/DCD support, parent chat groups, app-library guidance, visual timers, handwriting support, relaxation tools, and coordination-related activities.
+
+### Mobile Health Apps, Family Caregivers, and Care Planning
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11157180/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Research review examining caregiver mobile-health apps, information needs, care coordination, communication with healthcare teams, and gaps in clinician-integrated tools.
+
+### Virtual Acceptance and Commitment Training for Caregivers
+
+- URL: https://formative.jmir.org/2026/1/e86205/PDF
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Study of a virtual group-based intervention for family caregivers of neurodivergent people or people with disabilities, reporting acceptability and improvements in psychological flexibility and mental well-being.
+
+### ADAPPT Application  Parent Well-Being Research
+
+- URL: https://adhdeurope.eu/recruitment-adappt-application/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: EU-funded research app developed with parents and healthcare and education professionals to support the mental well-being of parents of neurodivergent children, including children with dyspraxia.
+
+### Cuespeak for Clinicians
+
+- URL: https://cuespeak.com/clinicians/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Clinician-oriented speech and language therapy app with a reported use case involving a dyspraxic patient and targeted practice packages.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://www.irishtimes.com/sponsored/vhi-healthcare/beating-dyspraxia-dcd-you-can-start-early-with-help-from-your-smartphone-1.3578337
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Smartphone-based intervention for children with dyspraxia/DCD, developed with families, support organizations, pediatricians, therapists, and healthcare professionals; includes fine-motor, balance, and coordination activities.
+
+### Neurodiverge.app  Dyspraxia Guide and Tracking Tools
+
+- URL: https://neurodiverge.app/dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Neuroaffirming dyspraxia information and support resources, including daily tracking, coaching, and printable materials for adults and parents.
+
+### OpenScouter Neurodivergence Research
+
+- URL: https://openscouter.com/research
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Research page on scalable user-testing methodology covering neurodivergence categories such as dyspraxia, with potential relevance to app evaluation and participatory research.
+
+### ADHD Foundation Neurodivergence Resources
+
+- URL: https://www.qmul.ac.uk/disability-and-dyslexia-service/our-support/adhd/resources/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Resource hub pointing to UK neurodivergence support services and materials covering ADHD, autism, dyslexia, dyspraxia/DCD, dyscalculia, OCD, and Tourette syndrome.
+
+### NeuraParent
+
+- URL: https://apps.apple.com/gb/app/neuraparent/id6756896103
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Parent-support app offering individualized strategies and pattern tracking for neurodivergent children, providing a potential caregiver-focused research lead.
+
+### Booost Education
+
+- URL: https://www.booosteducation.com/products/booost
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Planning app for neurodivergent users, including people with dyspraxia, focused on organizing tasks, routines, events, and getting started.

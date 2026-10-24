@@ -668,3 +668,53 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: Cognitive-training application featuring games targeting executive functions such as planning, problem-solving, flexibility, and inhibition; the page also discusses dyspraxia-related planning challenges.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/nl/app/goblin-tools-autism-pal-to-do/id1527180714
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neurodivergent-focused productivity app with task decomposition, time estimation, and tools intended to support executive-function challenges.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/nl/app/goblin-tools-autism-pal-to-do/id1527180714?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Neurodivergent productivity app featuring task breakdown, time estimation, and tools intended to reduce executive-function barriers.
+
+### Tiimo: Daily To Do List
+
+- URL: https://play.google.com/store/apps/details?id=com.tiimo.androidappreactnative&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Android planner offering visual daily planning, routines, reminders, and a focus timer for planning, focus, and follow-through difficulties.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/us/app/goblin-tools-autism-pal-to-do/id1527180714?uo=4
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Neurodivergent-focused productivity app with task breakdown, time estimation, task compilation, and tools intended to reduce overwhelm and decision paralysis.
+
+### Equal Edge
+
+- URL: https://play.google.com/store/apps/details?id=app.equaledge.eeu&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Visual planning and executive-function assistant for neurodivergent college students, supporting prioritisation, assignment breakdown, scheduling, and task initiation.
