@@ -598,3 +598,43 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-10-22
 - Description: Apple App Store developer page listing executive-function-oriented apps, including ADHD scheduling and planning tools.
+
+### Including neurodiversity in computational thinking
+
+- URL: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1358492/full
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research on the INFACT program, which embeds executive-function scaffolds such as working-memory aids, checkpoints, and structured learning supports for neurodivergent learners.
+
+### Behavioral Observation of Classroom Executive Functioning
+
+- URL: https://sage.cnpereading.com/doi/10.1177/27546330241258817
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research tool for observing executive-function behaviors in neurodivergent elementary students and documenting teacher strategies that support those behaviors.
+
+### A Review of Executive Functioning and Social Communication Supports for Neurodiverse College Students
+
+- URL: https://scholars.unh.edu/cgi/viewcontent.cgi?article=1850&context=honors
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Review of interventions and programs for neurodiverse college students, including cognitive-behavioral therapy, working-memory training, mentoring, and online executive-function skills support.
+
+### How ADHD Users Adapt AI Tools in Everyday Life
+
+- URL: https://dl.acm.org/doi/10.1145/3772363.3798808
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: ACM research analyzing how people with ADHD use AI as cognitive scaffolding for task initiation, personalization, reflection, and everyday executive-function support.

@@ -798,3 +798,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Public GitHub topic page featuring projects for neuroinclusive task management, planning, energy tracking, and related executive-function support.
+
+### Goblin Tools
+
+- URL: https://play.google.com/store/apps/details?id=com.goblintools&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Official Android app offering task decomposition, decision support, communication assistance, and other tools designed for executive dysfunction, ADHD, autism, and neurodivergent users.

@@ -618,3 +618,43 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Structured routine and life-skills platform using visual schedules, task management, timers, video modeling, and rewards for children with ADHD, autism, and related executive-function needs.
+
+### MindView Assistive Technology
+
+- URL: https://www.matchware.com/what-makes-mindview-at
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Assistive productivity and mind-mapping software designed to support executive function, with features including text-to-speech, speech-to-text, focus controls, screen-reader compatibility, and keyboard navigation.
+
+### Assistive Technology Superstore: Time and Planning
+
+- URL: https://atsuperstore.com/store/categories/time-and-planning
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public catalog of assistive products for time management and planning, including visual schedules, reminders, and timers used by people with autism, ADHD, and executive-function difficulties.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/kw/app/tiimo-ai-planner-to-do/id1480220328?platform=iphone
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Planning and executive-function support app with AI task breakdown, visual schedules, focus timers, and accessibility features including VoiceOver, Voice Control, Larger Text, and Dark Interface.[6][9]
+
+### AUDHD Executive Function Claude Code Skill
+
+- URL: https://skillsllm.com/skill/audhd-executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public AI-agent skill providing an external executive-function system intended for founders with AUDHD.[4]
