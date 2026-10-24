@@ -168,3 +168,23 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-19
 - Description: Structured-literacy app for learners with dyslexia and other learning challenges, including mindfulness and mindset activities intended to support emotional regulation.
+
+### GESYA: Digital Tool for Emotional Regulation in Children with Dyslexia
+
+- URL: https://jurnal.konselingindonesia.com/index.php/jkp/article/view/2072
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Research lead describing a game-based application for emotional recognition and regulation in children with dyslexia; reported preliminary validity, practicality, and improvement findings.
+
+### GESYA Research Paper PDF
+
+- URL: https://jurnal.konselingindonesia.com/index.php/jkp/article/download/2072/863/7627
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Full-text research source on the GESYA educational emotional-regulation application for children with dyslexia, including methods, results, and limitations.

@@ -338,3 +338,23 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Apple App Store accessibility collection featuring dyslexia reading helpers and Proloquo4Text AAC for text-to-speech communication.
+
+### GoLexic for Dyslexia & Reading
+
+- URL: https://apps.apple.com/us/ipad/story/id1792470108
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Literacy-support app focused on language foundations, letter recognition, phonics, reading, and spelling, with short daily sessions and progress tracking.
+
+### Dyslexia Reader by MDA
+
+- URL: https://play.google.com/store/apps/details?id=com.avaz.readerapp&hl=en_AU
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Android reading-support app developed with the Madras Dyslexia Association; supports imported PDFs and photographed text and reports evidence-informed reading strategies.
