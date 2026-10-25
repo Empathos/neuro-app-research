@@ -318,3 +318,13 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Repository for a mobile app supporting Sinhala-speaking children with dyslexia through handwriting practice, text-to-speech, and progress tracking.
+
+### OpenBook
+
+- URL: https://github.com/rayeshiacross-collab/openbook
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Open-source educational-content tool with dyslexia-friendly layouts, OpenDyslexic support, adjustable spacing and contrast, audiobook generation, and broader neurodivergent accessibility profiles.

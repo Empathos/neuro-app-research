@@ -398,3 +398,33 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public database record for a multisite neuroimaging repository containing harmonized behavioral, clinical, demographic, MRI, and reading-development data related to dyslexia.
+
+### Dolphin EasyReader
+
+- URL: https://apps.apple.com/us/app/dolphin-easyreader/id1161662515
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Accessible reading app supporting dyslexia and vision impairment, with library access, read-along audio, highlighting, adjustable fonts, colors, spacing, and line display.
+
+### Dyslexia Font - AI Tutor & Pal
+
+- URL: https://apps.apple.com/jp/app/dyslexia-font-ai-tutor-pal/id957626910?l=en-US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Dyslexia-focused iOS reader, scanner, keyboard, and AI assistant with proofreading, spelling and grammar suggestions, word prediction, and dyslexia-oriented typography.
+
+### Modmath
+
+- URL: https://apps.apple.com/au/app/modmath/id6740813075
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Assistive mathematics app for dyslexia, dysgraphia, and other learning challenges, offering digital graph paper, accessible equation entry, and support for advanced math.

@@ -478,3 +478,33 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Assistive reading app that converts documents, web pages, and books to speech while highlighting text, providing a practical support lead for dyslexic readers and caregivers.
+
+### Peppy Neurodiversity Service
+
+- URL: https://peppy.health/what-we-do/neurodiversity-service
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Digital neurodiversity support service providing app-based access to clinicians, screening, diagnostic referral pathways, mental-health support, and workplace guidance for dyslexia and related conditions.
+
+### Children's Dyslexia Center: Assistive Technology and Applications
+
+- URL: https://www.dyslexiarochesterny.org/assistive-technology-and-applications
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Curated public resource for apps used by people with dyslexia, parents, teachers, tutors, reading specialists, and other professionals, emphasizing evidence-aligned reading, spelling, and writing support.
+
+### Mellow & Me
+
+- URL: https://mellowandme.lovable.app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Public neurodivergent guidance tool for dyslexic people and caregivers, offering an orientation quiz and practical next-step support; it describes itself as guidance rather than a clinic or tracking app.
