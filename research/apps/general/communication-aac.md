@@ -1118,3 +1118,13 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Full-featured AAC solution for people with difficulty using natural speech, including users with autism, apraxia, ALS, stroke, and Down syndrome.
+
+### Oddly: Neurodivergent Chat
+
+- URL: https://play.google.com/store/apps/details?id=com.oddly.neurodivergents&hl=en_GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Social communication app for autistic, ADHD, gifted, and other neurodivergent users that displays preferred communication styles.

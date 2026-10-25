@@ -788,3 +788,33 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Accessibility-first nonprofit learning platform for neurodivergent learners, developed as a functioning product during a public hackathon.
+
+### GitHub Neurodiversity Topic
+
+- URL: https://github.com/topics/neurodiversity?o=desc&s=stars
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Public repository directory containing neurodiversity-related projects, including visual learning aids for autistic children and other education-support software.
+
+### Capiche Writing Support Tool
+
+- URL: https://www.neurodiversity.org.nz/learning-hub-categories/categories/tool
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Writing-support tool highlighted for students with dyslexia and others who experience difficulty with writing.
+
+### European School Education Platform: Assistive Technology for Accessible Education
+
+- URL: https://school-education.ec.europa.eu/en/discover/news/assistive-technology-accessible-education
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Public overview of assistive technologies for inclusive education, covering text-to-speech, AAC, task organizers, focus-enhancing apps, and autism-related attention-training resources.
