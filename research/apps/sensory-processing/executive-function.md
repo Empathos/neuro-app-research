@@ -728,3 +728,33 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: A sensory-friendly productivity and learning platform with AI task breakdown, adaptive focus tools, accessible explanations, and regulation support for neurodivergent STEM users.
+
+### Apptuned
+
+- URL: https://www.apptuned.app/solutions
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Cognitive-assessment and workplace-inclusion platform covering executive function, attention, sensory processing, communication, and memory, with configurable accessibility preferences.
+
+### Animus GitHub
+
+- URL: https://github.com/AnimusUNO
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: A public GitHub organization featuring the Thalamus repository, described as a sensory routing, filtering, and context-management system.
+
+### Neuro-dossier
+
+- URL: https://github.com/Xerver8694/neuro-dossier
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: A client-side GitHub project that maps qualitative inputs such as sensory triggers, executive patterns, dopamine friction, and hyperfocus into structured operating profiles.
