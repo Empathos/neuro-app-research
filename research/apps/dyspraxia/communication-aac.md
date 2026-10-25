@@ -1028,3 +1028,43 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Official guidance on using Makaton signs, symbols, and speech to support people with verbal dyspraxia, including conveying needs, being understood, sequencing, and visual support.[6]
+
+### CENMAC AAC and Communication Apps
+
+- URL: https://cenmac.com/resources/apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Specialist assistive-technology resource covering Clicker Communicator, symbol-based AAC, LetMeTalk, and other communication apps for children and young people.
+
+### Discapnet Accessible Communication Apps
+
+- URL: https://www.discapnet.es/accesibilidad/accesibilidad-en-las-aplicaciones-moviles/comunicacion
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public accessibility directory describing communication apps using buttons, gestures, pictograms, and speech, including Plaphoons for Windows and Android.
+
+### Spoken AAC
+
+- URL: https://spokenaac.com/blog/april-2024-content/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: AAC-focused public resource describing an app for aphasia, non-speaking autism, and other speech or language disorders, with a user account involving verbal dyspraxia.
+
+### SmallTalk and VASTtx Speech Apps
+
+- URL: https://fcoa.starchapter.com/images/5_3_Tech_Apps_and_Computer_Programs_SCA.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public assistive-technology guide listing free SmallTalk communication and speech-practice apps for aphasia, apraxia, and dysphagia, plus VASTtx motor-speech practice.

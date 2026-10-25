@@ -678,3 +678,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Planning app for neurodivergent users, including people with dyspraxia, focused on organizing tasks, routines, events, and getting started.
+
+### Peppy Neurodiversity
+
+- URL: https://peppy.health/what-we-do/neurodiversity-service
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: An employer-funded digital health service providing neuro-informed clinicians, screening, referral pathways, consultations, and workplace guidance for people including those with dyspraxia.

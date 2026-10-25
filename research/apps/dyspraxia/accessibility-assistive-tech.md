@@ -558,3 +558,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Official documentation for MindView AT, describing text-to-speech, speech-to-text, high contrast, keyboard-only navigation, screen-reader compatibility, and drag-and-drop planning.
+
+### UrAbility
+
+- URL: https://www.urability.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Assistive-technology provider covering learning needs including dyslexia, dyspraxia/DCD, dysgraphia, dyscalculia, and ADHD, with guidance on tools such as text-to-speech.
