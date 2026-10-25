@@ -838,3 +838,43 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Family and therapist-oriented application for children with ADHD and autism, with daily exercises targeting attention, sensory regulation, emotional regulation, and progress tracking.[6]
+
+### Low Tide Calm
+
+- URL: https://www.lowtidecalm.ie/l/low-tide-calm-app-adhd-neurodivergent-nervous-system-tools/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Web and app-based nervous-system toolkit for ADHD and neurodivergent users, featuring sensory menus, grounding, breathing, transition support, and overload-recovery routines.
+
+### ADHD Brain
+
+- URL: https://apps.apple.com/gh/app/adhd-brain/id6766603877
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: iOS app combining focus timers, calming sounds, sound therapy, visual relaxation, sensory activities, routines, notes, and brain games.
+
+### Untangle: ADHD Focus & Planner
+
+- URL: https://play.google.com/store/apps/details?id=com.untangle.adhd&hl=en_CA
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Android ADHD support app with AI body doubling, ambient soundscapes, brown and white noise, focus timers, task isolation, and low-stimulation visual themes.
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://play.google.com/store/apps/details?id=com.atlagia.adhd.adhd_focus_os&hl=en_NZ
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Android daily planner and focus toolkit designed specifically for ADHD users.

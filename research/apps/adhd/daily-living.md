@@ -918,3 +918,33 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Visual task planner with ADHD-oriented productivity tools, executive-function support, animated task visualization, and customizable routines.[7]
+
+### Nudgly
+
+- URL: https://nudglyapp.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: AI planner for overwhelmed users that accepts text or voice brain dumps and converts them into priorities, next steps, and gentle reminders; the site identifies ADHD and executive-function challenges as use cases.
+
+### Yaps
+
+- URL: https://www.yaps.ai/blog/executive-function-adhd-voice
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Voice-first capture tool designed to turn spoken brain dumps into organized text and actionable lists across mobile and desktop platforms.
+
+### Future ADHD Digital Planner
+
+- URL: https://futureadhd.com/product/future-adhd-digital-planner/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Hyperlinked PDF planner with ADHD-focused templates, usable in annotation apps such as Goodnotes, Notability, Xodo, or Samsung Notes.

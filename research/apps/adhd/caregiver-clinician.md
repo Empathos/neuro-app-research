@@ -738,3 +738,23 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Youth-led platform providing open resources and research activities focused on neurodivergence, ADHD, cognitive screening, and accessible science.
+
+### Mystra
+
+- URL: https://www.mystra.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Research-informed remote support platform for children with ADHD, combining tailored interventions, parent guidance, and clinician-delivered care tools.
+
+### medigital ADHD/OPP clinical trial
+
+- URL: https://drks.de/search/en/trial/DRKS00030086
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Registered randomized controlled pilot study evaluating a smartphone app that provides digitally guided parent training and psychoeducation for caregivers of children with suspected or diagnosed ADHD and related conditions.

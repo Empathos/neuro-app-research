@@ -888,3 +888,33 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: ADHD support app combining planning, focus tools, habit and mood tracking, mindfulness, and CBT-oriented exercises.
+
+### ADHDvance LearnAR Research Study
+
+- URL: https://link.springer.com/article/10.1007/s44217-026-01264-9?error=cookies_not_supported&code=0a3dd8a8-67c2-4929-8bc7-4aeb89840a8c
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Research article on ADHDvance LearnAR, an exploratory augmented-reality and generative-AI system using spatial task management, calendars, and Pomodoro-style focus support for university students with ADHD.[4]
+
+### A Decade of Apps for ADHD Management: A Scoping Review
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/0144929X.2025.2461225?af=R
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Scoping review of ADHD mobile apps, including app categories and the prevalence of cognitive-treatment, diagnostic, and executive-function techniques.[8]
+
+### ADHD Ireland App Content References
+
+- URL: https://adult.adhdirl.ie/amp/about-app/c/0/i/61752161/references
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Reference page documenting the published peer-reviewed research used for educational and self-help content in an ADHD support app.[5]
