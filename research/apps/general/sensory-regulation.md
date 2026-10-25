@@ -618,3 +618,53 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: iPad app offering interactive sensory scenes with adjustable visual and sensory settings for calming, focus, and sensory exploration.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/au/app/autism-play-garden/id6751961935
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Ad-free app for autistic children and caregivers with sensory calming games, visual activities, coloring, tracing, AAC features, and sensory-conscious interaction design.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/in/app/autism-adhd-games/id6757896431
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: App offering sensory play, fidgets, calming activities, focus exercises, and other therapy-inspired activities for autistic children and neurodivergent learners.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/qa/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Sensory-play app with digital fidgets and repetitive touch interactions intended for calming, transitions, waiting periods, and self-regulation.
+
+### Kinspire
+
+- URL: https://www.kinspirehealth.com/faq
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Parent- and child-focused support platform available on mobile and web, covering autism, ADHD, sensory differences, executive-function challenges, and related needs.
+
+### Nomie
+
+- URL: https://mynomie.com/about-nomie
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: iOS somatic regulation companion combining breathing exercises, haptic grounding, digital fidgets, calming visuals, and an AI companion; explicitly includes neurodivergent sensory-regulation use cases.[8]

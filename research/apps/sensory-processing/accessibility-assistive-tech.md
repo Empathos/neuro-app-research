@@ -418,3 +418,83 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Collection of free and low-cost sensory-oriented apps, including calming, focus, soundboard, and accessibility-support tools for neurodivergent and disabled users.
+
+### AT Toolkit for OTs
+
+- URL: https://www.chhs.colostate.edu/atrc/tools-for-ots/at-toolkit-for-ots/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Assistive-technology decision tool that organizes needs by cognitive, sensory, and interaction domains and matches functional needs with built-in iOS accessibility features.[1]
+
+### Assistive Technology and Adaptive Devices for Diverse Sensory Needs
+
+- URL: https://mn.gov/admin/assets/AT%20for%20Sensory_3-2023_tcm36-570996.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Public guide covering sensory-support tools including lighting controls, color filters, dark mode, anti-glare protection, background-sound apps, noise reduction, and Choiceworks.[2]
+
+### Virginia Assistive Technology, Tools, and Strategies Resource Guide
+
+- URL: https://ttaconline.org/Document/zxbIhX_YCJPgF8fG8URJqCaTfDRBXXi2/VATTS_Resource_Guide_Nov_2025_Update.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Resource guide listing sensory-support strategies and assistive tools such as visual schedules, lighting modifications, fidgets, noise-cancelling headsets, tactile barriers, and specialized seating.[7]
+
+### Technology for Neurodiversity: Assistive Technology Hub
+
+- URL: https://blogs.qub.ac.uk/studentatguide/neurodiversity-free-assistive-technology-recommendations/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: University resource hub cataloguing assistive technologies for reading, processing information, planning, time management, communication, focus, and managing sensory distractions.
+
+### Luna GitHub Organization
+
+- URL: https://github.com/LunaCrew
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open-source organization developing applications intended to support neurodivergent people's daily life, learning, and well-being.
+
+### Accessibility Concepts and Research
+
+- URL: https://edtechdev.github.io/aied/concepts/accessibility/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public research-oriented overview of accessibility themes and digital assistive technologies for neurodivergent learners, including cognitive-load and accommodation considerations.
+
+### TOM Global Open-Source Assistive Technology
+
+- URL: https://tomglobal.org/results
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: A searchable collection of more than 1,400 free, open-source assistive-technology projects.
+
+### Neurodivergent Tools - Prism
+
+- URL: https://apps.apple.com/ca/app/neurodivergent-tools-prism/id6738650371
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: An iOS planner with task breakdown, thought organization, time estimation, focus support, text assistance, and daily guidance for ADHD, autism, and other neurodivergent users.

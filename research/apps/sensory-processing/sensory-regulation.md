@@ -528,3 +528,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-17
 - Description: Public repository cataloging autism-support apps, including energy tracking and guided sensory-break tools.
+
+### Nomie
+
+- URL: https://mynomie.com/about-nomie
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: iOS somatic regulation app combining breathing exercises, haptic grounding, digital fidgets, calming visuals, and support for neurodivergent sensory-regulation needs.

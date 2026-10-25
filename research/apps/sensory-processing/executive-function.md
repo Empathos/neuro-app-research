@@ -638,3 +638,93 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: TU Delft repository record for a web platform supporting sensory-sensitive museum visitors through sensory-profile matching, personalized recommendations, and an advice chatbot.
+
+### Neurorganized
+
+- URL: https://neurorganized.com/main
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Neurodivergent-friendly task tracking and habit-support tool focused on reducing cognitive load for users with executive-function challenges and sensory sensitivities.
+
+### Sensory Processing and Executive Functioning of 5 to 12-year-olds
+
+- URL: https://repository.belmont.edu/spark_presentations/1041/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public research repository record examining how sensory processing and executive functioning relate to social participation and behavior in children aged 512.
+
+### Sensory Processing and Executive Function and its Impact on Social Participation
+
+- URL: https://repository.belmont.edu/spark_presentations/704/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Repository-hosted study investigating sensory processing and executive function across children with and without formal diagnoses.
+
+### Sensory Processing, Executive Functions, and Adaptive Behavior in Preschool and School-Age Autistic Children
+
+- URL: https://onlinelibrary.wiley.com/doi/10.1002/aur.70372
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Research article using sensory-processing, executive-function, and adaptive-behavior measures in autistic children.
+
+### Sensory Processing and Executive Functioning in Autistic Adults
+
+- URL: https://link.springer.com/content/pdf/10.1007/s10803-023-06008-4.pdf?pdf=button
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Study examining relationships between sensory-processing difficulties and executive-function problems in autistic adults.
+
+### Sensory processing and executive functioning interaction in neurodevelopmental disorders and at-risk conditions
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/42822800/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Systematic review and meta-analysis of the relationship between sensory processing and executive functioning in children and adolescents with neurodevelopmental or at-risk conditions.
+
+### The Relationship Between Sensory Processing and Executive Functions in Adults With and Without Neurodevelopmental Disorders
+
+- URL: https://www.cambridge.org/core/journals/european-psychiatry/article/relationship-between-sensory-processing-and-executive-functions-in-adults-with-and-without-neurodevelopmental-disorders/A4871A81179B7DE56F9F342D5AFF2F98
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public journal article comparing sensory-processing patterns and executive-function challenges in adults with and without neurodevelopmental disorders.
+
+### DaySteps
+
+- URL: https://daysteps.app/about/faq/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Visual schedule and daily-routine app for children and adults with ADHD, autism, and executive-function challenges; supports task initiation, transitions, and follow-through.
+
+### STEMFlow
+
+- URL: https://blink.new/p/stemflow-neurodivergent-stem-platform-9c3jpwxs
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: A sensory-friendly productivity and learning platform with AI task breakdown, adaptive focus tools, accessible explanations, and regulation support for neurodivergent STEM users.

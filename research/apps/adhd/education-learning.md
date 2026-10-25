@@ -1078,3 +1078,153 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Research project for an accessible education platform that adapts learning materials to cognitive styles, including ADHD, dyslexia, and autism.
+
+### Awesome ADHD Resources
+
+- URL: https://github.com/R0XXANNE/awesome-adhd-resources
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Curated GitHub list of ADHD apps, books, ideas, and other support resources.
+
+### NeuroHub Toolkits & Frameworks
+
+- URL: https://neurohubcommunity.org/toolkits-frameworks/?v=7885444af42e
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Collection of evidence-informed, neuro-affirming tools and frameworks for education, healthcare, and support services.
+
+### Helperbird
+
+- URL: https://www.helperbird.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Browser accessibility toolkit with customizable reading, display, audio, and study-support features for users including people with ADHD and dyslexia.
+
+### Mystra
+
+- URL: https://www.mystra.io/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Research-informed remote support platform for children with ADHD, offering tailored interventions, parent resources, and clinician-facing tools.
+
+### Penseum
+
+- URL: https://www.penseum.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: AI study tool that converts notes, documents, and videos into flashcards, quizzes, and study plans, potentially reducing preparation demands for ADHD learners.
+
+### Type2Learn  Adaptive Learning for Every Mind
+
+- URL: https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/type2learn/type2learn-adaptive-learning-for-every-mind
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Accessibility-first learning platform for neurodivergent learners with adaptive support, objective-level assessment, privacy controls, and authored fallbacks.
+
+### NeuroPath AI  Adaptive Learning Platform
+
+- URL: https://builder.aws.com/content/3AwnvXYA2wZh1jN7WpG2FM6wgiF
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: AI learning assistant concept for ADHD and neurodivergent students that adapts explanations, quizzes, and study materials to learner profiles.
+
+### Sparkade
+
+- URL: https://play.sparkade.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Game-based learning and skill-building platform for children ages 812 with ADHD and other neurodivergent learning needs.
+
+### Addison: What's Your Next Move
+
+- URL: https://apps.apple.com/us/app/addison-whats-your-next-move/id6751917243
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: ADHD-focused task manager and focus timer supporting task initiation, time blindness, procrastination, overwhelm, and follow-through.
+
+### GeniusPal
+
+- URL: https://www.geniuspal.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Study tool that converts notes, PDFs, and textbook material into quizzes and flashcards for active recall and more engaging learning.
+
+### ADHDO
+
+- URL: https://github.com/tectrixdev/ADHDO
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open-source todo app intended to motivate people with ADHD and help them complete deadline-driven tasks efficiently.
+
+### Society for ADHD Resource Library
+
+- URL: https://www.societyforadhd.org/resource-library
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public resource library containing information and education-support materials related to ADHD and co-occurring conditions.
+
+### Neurodivergent and Disability Resource Library
+
+- URL: https://www.self-directed.org/resource/neurodivergent-disability-resource-library/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Curated public library of resources on neurodiversity, ADHD, disability, mental health, and inclusive education.
+
+### GitHub ADHD-Friendly Topic
+
+- URL: https://github.com/topics/adhd-friendly?l=typescript
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public repository-topic page containing ADHD-friendly software projects, including gamified educational tools, neurodivergent study apps, visual learning aids, and active-recall learning tools.
+
+### GoManda
+
+- URL: https://www.gomanda.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: A vocabulary-learning app for neurodivergent learners, with interactive receptive-vocabulary education intended for school and home use.

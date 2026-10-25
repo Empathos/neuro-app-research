@@ -538,3 +538,123 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-18
 - Description: An interactive toolkit covering task breakdown, planning, time management, goal setting, and flexible-thinking strategies for ADHD, autism, and learning differences.[9]
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/nl/app/goblin-tools-autism-pal-to-do/id1527180714?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Neurodivergent-focused productivity tool that breaks overwhelming tasks into manageable steps and helps estimate task duration.
+
+### Executive Function Toolkit
+
+- URL: https://executivefunctiontoolkit.com/resources/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Collection of executive-function tools, worksheets, printable resources, and digital-app recommendations addressing time management, organization, focus, and emotional regulation.
+
+### Digital Cognitive Behavioral Therapy Apps for ADHD
+
+- URL: https://www.cambridge.org/core/journals/european-psychiatry/article/digital-cognitive-behavioral-therapy-cbt-apps-for-adhd-a-systematic-review-of-recent-evidence/B5B9E7DAC7B382619554B612D0C6AE67
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: A systematic review examining digital CBT apps for ADHD, including evidence concerning accessibility, adherence, symptom management, and executive functioning.
+
+### Effectiveness of Different Digital Interventions on Symptoms and Executive Function
+
+- URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1747368/full
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: A meta-analytic research lead assessing computer-based cognitive tasks, mobile games, and other digital interventions for executive-function outcomes.
+
+### Executive Functioning Support Toolkit
+
+- URL: https://mi-recon.org/wp-content/uploads/2025/11/Executive-Functioning-Support-Toolkit-1-1.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Public toolkit describing executive-function supports and examples of high-tech tools such as Tiimo, Microsoft To Do, Notion, and Google Keep.
+
+### Executive Functioning App Directory
+
+- URL: https://apps.apple.com/es/developer/executive-functioning/id1670674938?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Apple App Store developer page listing executive-function-oriented apps, including ADHD scheduling and planning tools.
+
+### Including neurodiversity in computational thinking
+
+- URL: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1358492/full
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research on the INFACT program, which embeds executive-function scaffolds such as working-memory aids, checkpoints, and structured learning supports for neurodivergent learners.
+
+### Behavioral Observation of Classroom Executive Functioning
+
+- URL: https://sage.cnpereading.com/doi/10.1177/27546330241258817
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Research tool for observing executive-function behaviors in neurodivergent elementary students and documenting teacher strategies that support those behaviors.
+
+### A Review of Executive Functioning and Social Communication Supports for Neurodiverse College Students
+
+- URL: https://scholars.unh.edu/cgi/viewcontent.cgi?article=1850&context=honors
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Review of interventions and programs for neurodiverse college students, including cognitive-behavioral therapy, working-memory training, mentoring, and online executive-function skills support.
+
+### How ADHD Users Adapt AI Tools in Everyday Life
+
+- URL: https://dl.acm.org/doi/10.1145/3772363.3798808
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: ACM research analyzing how people with ADHD use AI as cognitive scaffolding for task initiation, personalization, reflection, and everyday executive-function support.
+
+### Thruday
+
+- URL: https://apps.apple.com/is/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: A visual daily planner for ADHD, autism, and AuDHD with routines, to-dos, mood tracking, and optional support sharing with carers.
+
+### Prism Buddy
+
+- URL: https://apps.apple.com/jp/app/prism-buddy/id6738650371?l=en-US&platform=iphone
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: AI task manager for ADHD and autism that breaks down overwhelming tasks, supports time management, and assists with task initiation and scheduling.[9]

@@ -298,3 +298,63 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Official Apple education accessibility page describing Accessibility Reader and adjustable reading presentation and audio features relevant to dyslexia support.
+
+### OpenDyslexic for Chrome
+
+- URL: https://chromewebstore.google.com/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Free, open-source Chrome extension that replaces webpage fonts with OpenDyslexic to improve readability for people with dyslexia.[6]
+
+### Dyslexia Reader
+
+- URL: https://github.com/vnglst/dyslexia-reader
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public web application and repository for an audio text reader intended to help people with dyslexia improve whole-word recognition.[5]
+
+### Helperbird
+
+- URL: https://apps.apple.com/us/app/helperbird/id1589138053
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Accessibility app with dyslexia support, immersive reading mode, voice typing, and reading controls for diverse abilities and learning styles.
+
+### Lexibar
+
+- URL: https://apps.apple.com/nl/app/lexibar/id6753020366?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Reading and writing assistance keyboard designed with speech-language pathologists for dyslexia, dysorthographia, and other learning difficulties.
+
+### Easy Dyslexia Aid
+
+- URL: https://apps.apple.com/au/app/easy-dyslexia-aid/id1088194043
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Literacy and spelling support app using the OpenDyslexic font and color overlays to make information easier to process.
+
+### IDA New Jersey Assistive Technology
+
+- URL: https://nj.dyslexiaida.org/assistive-technology/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Dyslexia assistive-technology guide featuring Voice Dream Reader, Bookshare, Learning Ally, built-in device accessibility, and Quizlet text-to-speech.

@@ -338,3 +338,73 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Reading aid that converts photographed text into enlarged, easier-to-read text and provides synchronized text-to-speech highlighting.
+
+### Dyseggxia
+
+- URL: https://www.vodafone.com/news/newsroom/corporate-and-financial/dyslexia-and-breast-cancer-apps-amongsts-winners
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Research-informed mobile literacy game for children with dyslexia that uses exercises targeting common reading and writing errors, including completing words and rearranging letters.
+
+### Lexy, the AI Dyslexia Tutor
+
+- URL: https://dyslexia.ai/press/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: AI-powered literacy platform providing personalized support through voice, touch, and typing using a multisensory reading approach.
+
+### DyslexHelp
+
+- URL: https://smishy05.github.io/projects.html
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Interactive learning tool for children with dyslexia, supporting reading and listening activities and including teacher task management.
+
+### DyslexiA_R
+
+- URL: https://devpost.com/software/dyslexiar
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Assistive-technology iOS prototype using optical character recognition, machine learning, and augmented reality to support reading, writing, and visualization.
+
+### Easy Dyslexia Aid
+
+- URL: https://apps.apple.com/de/app/easy-dyslexia-aid/id1088194043?l=en-GB&platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: iOS spelling and literacy aid using the OpenDyslexic font and selectable color overlays to support visual processing.
+
+### University of Cumbria Apps for Learning
+
+- URL: https://my.cumbria.ac.uk/Student-Life/Support/Disability/Assistive-Technology/Apps-for-Learning/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Assistive-technology guide for dyslexic students featuring text-to-speech, synchronized highlighting, dictation, note-taking, and writing-support tools.
+
+### DyslexiaEasyRead
+
+- URL: https://apps.apple.com/us/app/dyslexiaeasyread/id6737303315?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Reading-support app featuring dyslexia-friendly presentation, adjustable text size and color, text-to-speech, translation, and guided reading assistance.

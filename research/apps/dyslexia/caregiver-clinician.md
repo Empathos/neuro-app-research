@@ -398,3 +398,83 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Reading-tutor app for children with dyslexia, ADHD, and other learning needs, featuring phonics lessons, adaptive practice, voice feedback, progress tracking, and parent or educator use.[10]
+
+### Ayoa Neurodiversity Tools
+
+- URL: https://www.ayoa.com/neurodiversity/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Mind-mapping and learning tool with dyslexia-oriented features such as customizable backgrounds, dyslexia-friendly views, and vocabulary simplification.[2]
+
+### Lex Notes for LD Brains
+
+- URL: https://play.google.com/store/apps/details?id=com.xadrocx.lex&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Android note-taking app designed for dyslexic and other neurodivergent users, offering voice transcription, visual note creation, AI summaries, flashcards, and study guides.[10]
+
+### Dyslexia Data Consortium Repository
+
+- URL: https://dyslexiadata.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Public data-sharing platform for dyslexia research, including repository access, data harmonization, image-processing resources, and analysis tools.
+
+### Learning-Disorder Intelligence
+
+- URL: https://github.com/archisman-das/Learning-Disorder-Intelligence
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-23
+- Description: Early-stage multimodal dyslexia screening and assistive-learning project with Streamlit, web, and React dashboards, emphasizing Bengali, multilingual, and low-resource settings.
+
+### Rytech Labs Dyslexia Assistive Technology
+
+- URL: https://www.rytechlabs.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Writing-support technology for dyslexic and neurodivergent students, including support for IEP and 504 accommodations.
+
+### Dyslexia Data Consortium: Comprehensive Platform
+
+- URL: https://link.springer.com/article/10.1007/s12021-025-09747-0
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Peer-reviewed description of the Dyslexia Data Consortium repository, its data harmonization, imaging resources, analysis tools, and controlled-access research use.
+
+### Inclusive and Adaptive Human-AI Technologies for Neurodiverse Users
+
+- URL: https://livrepository.liverpool.ac.uk/3195171/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Research repository entry for a scoping review of AI technologies supporting neurodivergent users, including dyslexia, with findings on adaptive feedback, participatory design, accessibility, and evaluation gaps.
+
+### Voice Dream Reader
+
+- URL: https://apps.apple.com/us/app/voice-dream-reader/id496177674
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Assistive reading app that converts documents, web pages, and books to speech while highlighting text, providing a practical support lead for dyslexic readers and caregivers.

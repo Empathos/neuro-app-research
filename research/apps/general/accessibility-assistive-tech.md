@@ -638,3 +638,113 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-20
 - Description: App for recording daily observations, identifying behavioral patterns, and generating reports to support advocacy in home, school, and healthcare settings.
+
+### Jade - Learning Through Play
+
+- URL: https://apps.apple.com/us/app/jade-learning-through-play/id1473169233?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: App Store listing for a learning app aimed at neurodivergent children and teens, including users with autism, dyslexia, ADHD, and other disabilities; activities support assistive technologies and communication boards.
+
+### NeuroDivSim
+
+- URL: https://github.com/eskebfd/neurodivsim
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Open-source tool for reflecting on cognitive diversity in interface design and evaluating accessibility considerations during early design workflows.
+
+### ASTI  Neurodivergent AI Co-Pilot
+
+- URL: https://www.neurodivarsity.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Native iOS app designed for neurodivergent people, including users with ADHD, autism, and dyslexia.[1]
+
+### W3C Cognitive Accessibility Research Modules
+
+- URL: http://w3c.github.io/coga/research-modules/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Research-oriented W3C resource analyzing cognitive accessibility issues, user needs, and potential solutions, including support relevant to neurodivergent users.
+
+### Apple Cognitive Accessibility Documentation
+
+- URL: https://developer.apple.com/documentation/accessibility/cognitive
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Official developer guidance for designing apps that support comprehension, attention, communication, focus, streamlined tasks, and reduced decision-making.
+
+### Apple Accessibility Developer Documentation
+
+- URL: https://developer.apple.com/documentation/accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Official documentation covering accessibility APIs, assistive technologies, cognitive disabilities, and testing app experiences with accessibility features.
+
+### Apple Cognitive Accessibility Features
+
+- URL: https://support.apple.com/guide/iphone/overview-of-cognitive-accessibility-features-iph0ede5b8d6/ios
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Official iPhone user guide covering cognitive-support features including Focus, Dictation, Read & Speak, Live Captions, reduced motion, and simplified reading.
+
+### MDN Cognitive Accessibility
+
+- URL: https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Cognitive_accessibility
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Practical web accessibility guidance for cognition and learning differences, connected to WCAG principles and cognitive accessibility standards.
+
+### Neurodiversity in Business: Accessibility Tools
+
+- URL: https://neurodiversity.org/resource-library/accessibility-tools-for-neurodiversity/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Resource-library page focused on accessibility tools for neurodivergent people and workplace inclusion.
+
+### Neurodivergent Visual Org Accessibility Modes
+
+- URL: https://github.com/jeremylongshore/tons-of-skills-marketplace/blob/49811a252469a93bb74afb8f6b005edf305598f3/plugins/productivity/neurodivergent-visual-org/skills/neurodivergent-visual-org/references/accessibility-modes.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Repository documentation describing accessibility modes for a neurodivergent visual-organization tool, including colorblind-safe, monochrome, and cognitive-accessibility considerations.
+
+### Google Play Accessibility Apps
+
+- URL: https://play.google.com/store/apps/editorial?id=mc_apps_editorial_catess_accessibility_fcp&hl=en_IE
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Official Google Play collection of apps supporting communication, readability, organization, ADHD planning, autism support, and everyday accessibility needs.

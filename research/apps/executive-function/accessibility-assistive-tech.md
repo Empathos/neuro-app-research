@@ -548,3 +548,143 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Public GitHub directory for assistive-technology repositories, including projects focused on cognitive scaffolding and executive-function support.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/ca/app/tiimo-ai-planner-to-do/id1480220328?platform=appleWatch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Visual planning and executive-function support with AI task prioritization, routines, time guidance, and a focus timer.[1]
+
+### ADHDExec
+
+- URL: https://github.com/lyndskg/ADHDExec
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Open-source virtual executive assistant project for ADHD and other neurodivergencies, supporting task and event planning with flexible inbox and queued-task workflows.[5]
+
+### A11y Equitas
+
+- URL: https://huggingface.co/a11yequitas
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Open accessibility-focused AI model and resource for neurodivergent communities, including reusable accessible interface components and locally runnable, source-available tooling.
+
+### NeuroCompare: Helpful Technology for ADHD & Autism
+
+- URL: https://neurocompare.com/adhd-technology
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Public directory of apps and tools for planning, focus, communication, information capture, and calming support for people with ADHD and autism.
+
+### Tiimo AI Plan, Focus & To-do
+
+- URL: https://apps.apple.com/jp/app/tiimo-ai-plan-focus-to-do/id1480220328?l=en-US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Official App Store listing for Tiimo, featuring visual schedules, task organization, AI task breakdown, Pomodoro-style focus sessions, widgets, and Apple Watch support.
+
+### Tiimo Visual Planner
+
+- URL: https://athelpdesk.org/tiimo-visual-planner/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Assistive-technology overview of Tiimo's visual schedules, timers, reminders, and task-management features, including support for accessibility settings such as VoiceOver and larger text.
+
+### Goally
+
+- URL: https://www.educationalappstore.com/app/goally
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Structured routine and life-skills platform using visual schedules, task management, timers, video modeling, and rewards for children with ADHD, autism, and related executive-function needs.
+
+### MindView Assistive Technology
+
+- URL: https://www.matchware.com/what-makes-mindview-at
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Assistive productivity and mind-mapping software designed to support executive function, with features including text-to-speech, speech-to-text, focus controls, screen-reader compatibility, and keyboard navigation.
+
+### Assistive Technology Superstore: Time and Planning
+
+- URL: https://atsuperstore.com/store/categories/time-and-planning
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Public catalog of assistive products for time management and planning, including visual schedules, reminders, and timers used by people with autism, ADHD, and executive-function difficulties.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/kw/app/tiimo-ai-planner-to-do/id1480220328?platform=iphone
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Planning and executive-function support app with AI task breakdown, visual schedules, focus timers, and accessibility features including VoiceOver, Voice Control, Larger Text, and Dark Interface.[6][9]
+
+### AUDHD Executive Function Claude Code Skill
+
+- URL: https://skillsllm.com/skill/audhd-executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public AI-agent skill providing an external executive-function system intended for founders with AUDHD.[4]
+
+### Tiimo - Visual Daily Planner
+
+- URL: https://apps.apple.com/es/app/tiimo-visual-daily-planner/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Visual planning app for people with diverse cognitive profiles, including ADHD and autism; supports executive functioning with timelines, focus timers, routines, checklists, and reminders.[8]
+
+### Tiimo accessibility features
+
+- URL: https://apps.apple.com/kg/app/tiimo-daily-ai-planner-to-do/id1480220328?platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: App Store listing identifies support for VoiceOver, Voice Control, Larger Text, and Dark Interface.[6]
+
+### messyOS
+
+- URL: https://github.com/rahullath/messyOS
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public GitHub project focused on managing executive dysfunction by offloading decision-making into a visually accessible plan without relying on gamification or life-surveillance patterns.[10]

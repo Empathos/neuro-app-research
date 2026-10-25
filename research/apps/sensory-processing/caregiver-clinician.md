@@ -598,3 +598,143 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Pilot randomized-trial research resource on sensory-integration interventions in autistic children, including caregiver-completed home measures and outcome assessment methods.
+
+### Brainsphere
+
+- URL: https://www.brainsphere.ai/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: R&D platform for autism, ADHD, learning disabilities, and sensory-processing challenges, describing clinician- and caregiver-collaborative tools such as therapy tracking apps and family/clinician dashboards.
+
+### SenseHarmony sensory-management app research
+
+- URL: https://openaccess.cms-conferences.org/publications/book/978-1-964867-73-1/article/978-1-964867-73-1_2
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Research lead describing SenseHarmony, a prototype with sensory screening, mood logging, and personalized sensory-diet recommendations for managing neurodivergent sensory needs.
+
+### AI platform for pedagogical support and sensory accommodations
+
+- URL: https://sol.sbc.org.br/index.php/sbsi/article/download/34339/34130
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Research proposal for an AI-based platform that recommends personalized educational activities and sensory accommodations for use by teachers, families, and therapists.
+
+### SensoryTreat
+
+- URL: https://sensorytreat.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Sensory-diet home-program platform designed to help therapists support families with activity planning and carryover.
+
+### Sensory Treat app review
+
+- URL: https://www.yourkidsot.com/blog/app-review-sensory-treat
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Occupational-therapy-focused review describing an app with sensory-diet activities, scheduling, reaction tracking, and report sharing with therapists.
+
+### Occupational Therapy Health Apps guide
+
+- URL: https://libguides.massgeneral.org/healthapps/occupational-therapy
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-22
+- Description: Massachusetts General Hospital library guide cataloging apps used by occupational therapists for sensory processing and cause-and-effect support.
+
+### Sensory Integration Planner: Ayres' Clinical Console
+
+- URL: https://novaapps.eu/apps/sensory-integration-planner-ayres-clinical-console
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Clinical planning tool for occupational therapists featuring sensory profiles, activity libraries, equipment setup, and progress tracking for Ayres Sensory Integration practice.
+
+### The OT Hub
+
+- URL: https://apps.apple.com/pl/app/the-ot-hub/id1636178281
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Occupational-therapy resource and community app that may support clinician-led sensory-processing research and practice.
+
+### Sensory Integration Planner: OT Session Design System
+
+- URL: https://novaapps.eu/apps/sensory-integration-planner-ot-session-design-system
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-22
+- Description: Occupational-therapy session-design system with client sensory profiles, activity libraries, personalized planning, and progress tracking.
+
+### Sussex Centre for Sensory and Perceptual Diversity
+
+- URL: https://www.sussex.ac.uk/research/centres/sussex-centre-for-sensory-and-perceptual-diversity/research
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: University research hub investigating sensory diversity and developing interventions and freely accessible tools for autism, ADHD, misophonia, and other sensory differences.
+
+### CoT Neurodivergent vs. Neurotypical Interactions Dataset
+
+- URL: https://huggingface.co/datasets/moremilk/CoT_Neurodivergent_vs_Neurotypical_Interactions
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: MIT-licensed Hugging Face dataset covering communication, sensory sensitivities, environmental comfort, stimming, and neurodivergent-neurotypical interaction patterns.
+
+### Neurodivergent vs. Neurotypical Interactions Dataset
+
+- URL: https://huggingface.co/datasets/mattwesney/CoT_Neurodivergent_vs_Neurotypical_Interactions
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Open dataset focused on differences in communication, social behavior, sensory processing, environmental comfort, and cognitive styles.
+
+### Neurodivergence and Theatrical Costuming: The Sensory Experience
+
+- URL: https://repository.tcu.edu/entities/publication/63bb7197-5a37-4565-a9d8-33ef3f5e5b37
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-23
+- Description: Public research repository item examining lived sensory-processing differences among neurodivergent actors through survey research and sensory-friendly design.
+
+### Sensory Differences and Coping
+
+- URL: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=1014&context=grad_scholarship
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-24
+- Description: Public research repository document examining sensory differences, sensory-response categories, coping, and use of the Adolescent/Adult Sensory Profile.[5]

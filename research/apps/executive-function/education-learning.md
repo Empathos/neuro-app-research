@@ -568,3 +568,93 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: A research-backed visual planning and learning app for diverse cognitive profiles, including ADHD and autism. It offers visual timelines, focus timers, AI task breakdowns, routines, and bite-sized expert learning content.
+
+### Vanta
+
+- URL: https://github.com/jpoindexter/Vanta
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-21
+- Description: Open-source local AI operator with neurodiversity-first executive-function support, including choice reduction, externalized state, task initiation, and friction-aware assistance.
+
+### Goally
+
+- URL: https://getgoally.com/blog/5-of-our-favorite-apps-for-special-education/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-21
+- Description: Structured routine and life-skills support for children with ADHD, autism, and learning differences, including visual schedules and task sequencing to build executive-function skills and independence.
+
+### A(rDx)HD - Apps on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.ardxhd.app&hl=en
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: # A(rDx)HD ## About this app A(rDx)HD is an advanced cognitive assessment platform that helps individuals better understand attention patterns, executive function, and potential ADHD indicators, powered by AI-driven behavioral analysis. Developed in collaboration with the Jahanikia NeuroLab at the D...
+
+### Tiimo - Visual Daily Planner
+
+- URL: https://apps.apple.com/de/app/tiimo-visual-daily-planner/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: ## Description Tiimo is a daily planning and learning app designed for people with diverse cognitive profiles, such as ADHD, autism, stress, and anxiety. Visual, and research-backed, our app supports executive functioning, and offers a one stop hub for your neuroinclusive planning and learning needs...
+
+### ADD/ADHD & Executive Function
+
+- URL: https://www.needhamsepac.org/resources/add-adhd-executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: ### Executive Function ... ### Coaching - Beyond BookSmart - In-home EF coaching for students K-12 and beyond. ... - Engaging Minds - Teaches Executive Function Skills to help students manange homework and long-term projects. ... ### Study Tools - Self Control - A free application for Mac OS X (10.5...
+
+### Shimmer: ADHD Coaching - Apps on Google Play
+
+- URL: https://play.google.com/store/apps/details?id=org.name.shimmerapp&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: Shimmer provides 'bite sized' ADHD coaching to people with ADHD or executive function challenges. ... Shimmer is for people with ADHD or struggling with executive function challenges. ... - Learn ADHD skills and tips through bite-sized learning modules
+
+### Best Executive Function Training Programs for Adults: 4 ...
+
+- URL: https://lifeskillsadvocate.com/blog/best-executive-function-training-programs-for-adults/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: - Brain-training apps for daily skill drills with mixed evidence on real-world transfer: BrainHQ (most-studied option), CogniFit, and CogMed (working-memory specific) ... Three platforms account for most of the legitimate research base: BrainHQ, CogniFit, and CogMed. ... - **Format:** web and mobile...
+
+### Kaboose  Neurodiversity Training for Teachers & Schools
+
+- URL: https://www.kaboose.app/for-educators/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: On-demand, expert-led learning resources for educators covering executive function, communication, sensory needs, burnout, self-advocacy, and sustainable routines.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/au/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-24
+- Description: An iOS education and productivity app offering short daily lessons, practical micro-challenges, habit building, reminders, and reflection-to-habit tools for adults with ADHD.
