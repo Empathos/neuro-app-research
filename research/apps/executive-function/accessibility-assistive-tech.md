@@ -688,3 +688,73 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public GitHub project focused on managing executive dysfunction by offloading decision-making into a visually accessible plan without relying on gamification or life-surveillance patterns.[10]
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/us/app/tiimo-to-do-list-planner/id1480220328?platform=mac
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Visual routines, gentle reminders, an AI planner, and focus timers designed to support executive function; listed accessibility features include VoiceOver, Voice Control, Larger Text, and Dark Interface.[8]
+
+### AYOA - Mind Mapping
+
+- URL: https://play.google.com/store/apps/details?id=com.droptask.app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: A visual mind-mapping and productivity app that turns ideas into tasks, supports multiple thinking styles, and includes customizable layouts and accessibility options for neurodivergent users.[7]
+
+### Apps That Think Like You Do
+
+- URL: https://apps.apple.com/ca/iphone/story/id1867605202
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Apples public toolkit for dyslexia, autism, and ADHD includes productivity and focus tools such as Forest and Notion, emphasizing visual organization, task structuring, and concentration support.[4]
+
+### AiDD  External Executive Function System
+
+- URL: https://www.aidd.app/search
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: AI-powered productivity app designed for neurodivergent professionals, with stated WCAG 2.1 AA goals and support for VoiceOver, Dynamic Type, Voice Control, screen readers, keyboard navigation, and magnification.[1]
+
+### Tiimo: Daily AI Planner, To Do App
+
+- URL: https://apps.apple.com/ca/app/tiimo-daily-ai-planner-to-do/id1480220328?platform=mac
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Official App Store listing with AI task creation, priority grouping, focus timer, and accessibility support including VoiceOver, Voice Control, larger text, and dark interface.[10]
+
+### GitHub Executive Function Topic
+
+- URL: https://github.com/topics/executive-function?l=python
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public repository index containing projects such as neurodiversity-affirming AI assistants, local-first executive-function support, and neurodivergent-focused companion tools.[7]
+
+### ADHDtime on Air: The Goblin Tools Story
+
+- URL: https://podcasts.apple.com/us/podcast/adhdtime-on-air-can-ai-really-help-adhd-the-goblin/id1884470372?i=1000777071858
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public app-related lead describing Goblin Tools as a neurodivergent-oriented support tool for task breakdown, time estimation, email drafting, tone interpretation, and organizing thoughts.[2]

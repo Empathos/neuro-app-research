@@ -636,3 +636,33 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public GitHub organization for Luna, an app designed to support neurodivergent people with daily life and well-being.
+
+### Executive Function Tools for Neurodivergent Adults
+
+- URL: https://executivefunctiontoolkit.com/executive-function-tools-for-neurodivergent-adults-adhd-strategies-that-work/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Resource page cataloguing flexible planners, task-breakdown tools, visual timers, focus apps, habit trackers, emotional-regulation supports, and digital organisation systems.
+
+### MindMate: Executive Functioning and Neurodiversity
+
+- URL: https://mindmate.org.uk/neurodiversity-information-hub/neurodiversity-characteristics/executive-functioning-nd/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Public guidance on movement breaks, sensory circuits, quiet workspaces, noise-cancelling headphones, white noise, and fidget tools for regulation and concentration.
+
+### Beeminder EFME
+
+- URL: https://github.com/beeminder/efme
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public GitHub repository for a tool intended to help users overcome instances of executive dysfunction.
