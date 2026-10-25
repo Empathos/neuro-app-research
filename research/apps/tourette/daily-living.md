@@ -408,3 +408,23 @@
 - Query: tourette daily-living neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Curated public resource collection filterable by Tourette syndrome and broader neurodivergence, including support organizations and educational materials.
+
+### Supporting Adults with Tourette Syndrome
+
+- URL: https://tourette.org/about-tourette/overview/living-tourette-syndrome/an-adult/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Tourette Association of America toolkit covering daily living, work, relationships, emotional health, treatment, and the Gilles app.[9]
+
+### Thriive Behaviour Tracking App
+
+- URL: https://thriivemind.com/learn/challenges/behaviour-tracking-app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Describes pattern tracking, visual routine building, daily check-ins, strategy tools, and shareable reports for neurodivergent support, including Tourettes.[6]

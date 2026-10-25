@@ -498,3 +498,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Tourette Association resource explaining assistive technology as tools that improve access, participation, and functional capabilities for children with Tourette syndrome.
+
+### Tourette AIST App
+
+- URL: https://www.innesti.com/innesti-en/aist-foundation-for-tourettes-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Awareness and informational app developed by the AIST Foundation for Tourette syndrome, reported as available through Google Play and the Apple App Store.[5]

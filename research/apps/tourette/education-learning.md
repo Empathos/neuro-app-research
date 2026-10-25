@@ -698,3 +698,13 @@
 - Query: tourette education-learning neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Educator toolkit covering Tourette Syndrome and tic disorders, symptom recognition, and development of effective academic and social support plans.
+
+### Booost Planner App
+
+- URL: https://www.booosteducation.com/products/booost
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Planning and organization app designed for ADHD and other neurodivergent minds in study, work, and home contexts.

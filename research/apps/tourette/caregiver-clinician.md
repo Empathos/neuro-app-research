@@ -708,3 +708,43 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Youth-designed neurodiversity app with interactive scenarios, quizzes, and games for building allyship. Includes a Tourette Syndrome-themed world and public beta availability information.
+
+### Supporting Family and Carers  National Neurodivergence Team
+
+- URL: https://neurodivergencewales.org/en/community-services/i-work-with-children-in-health-social-care/practitioner-toolkit-support-and-interventions-for-children-with-asd/supporting-family-and-carers/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Practitioner toolkit providing neurodivergence-informed resources for families, carers, and professionals supporting children.
+
+### Tourette Syndrome Risk Prediction Model
+
+- URL: https://touretterisk.streamlit.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public Streamlit web application implementing a machine-learning model for predicting Tourette syndrome risk in clinical research contexts.
+
+### Tourette Syndrome Prediction Model Repository
+
+- URL: https://github.com/PediatricLab-Jiangnan/TS-Syndrome-Brouta-ML-Web
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Open GitHub repository containing raw R scripts and feature-selection analysis materials associated with a Tourette syndrome predictive-model study.
+
+### Goodwill Studio
+
+- URL: https://github.com/alvii147/GoodwillStudio
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Desktop accessibility tool that uses speech transcription and profanity detection to censor offensive language in recordings or microphone input, including use cases involving coprolalia.
