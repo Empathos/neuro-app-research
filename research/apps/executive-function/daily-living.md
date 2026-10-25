@@ -418,3 +418,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Repository documentation for neurodivergent-friendly executive-function skills, including daily briefings and energy-budget support.
+
+### Thruday Visual Daily Planner
+
+- URL: https://apps.apple.com/is/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Official App Store listing for a visual planner designed for ADHD and autism, with routines, reminders, task management, mood tracking, time-blindness support, and carer features.
