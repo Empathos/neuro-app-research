@@ -1088,3 +1088,43 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public announcement of Bonding Healths Emotional Regulation Score, a mobile feature based on the Emotion Regulation Questionnaire for tracking emotional-regulation capabilities in ADHD users.
+
+### Anchorly: ADHD Companion
+
+- URL: https://apps.apple.com/fr/app/anchorly-adhd-companion/id6762073825?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: An ADHD-focused app offering mood and energy check-ins, rejection-sensitive dysphoria journaling prompts, emotional-overwhelm support, and emotional-dysregulation tracking.
+
+### Emotional Stroop therapeutic app for ADHD
+
+- URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1502914/full
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: A proof-of-concept app using modified emotional Stroop tasks to identify daily-life issues and negative mental load in people with ADHD, potentially supporting personalized therapy.
+
+### Feel digital mental-health support program
+
+- URL: https://formative.jmir.org/2023/1/e48362
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: A 16-week digital program studied in adults with ADHD symptoms and co-occurring anxiety or depression, combining emotion journaling, CBT, mindfulness, positive psychology, coaching, and emotion-regulation exercises.
+
+### Digital companion app for adults with ADHD and emotion dysregulation
+
+- URL: https://formative.jmir.org/2024/1/e53931/PDF
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: An eight-week blended intervention combining group sessions with a digital companion app hosted on the Youwell eHealth platform and based partly on DBT skills and positive psychology.

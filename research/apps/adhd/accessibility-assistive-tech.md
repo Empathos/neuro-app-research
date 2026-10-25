@@ -698,3 +698,23 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Official Apple documentation covering cognitive accessibility features relevant to ADHD and neurodivergent learners, including Guided Access, Accessibility Reader, and Assistive Access.
+
+### ADHD Productivity Coach
+
+- URL: https://apps.apple.com/gb/app/adhd-productivity-coach/id6787617231
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: App Store listing for an ADHD-focused productivity coaching app; the listing notes that the developer has not specified supported accessibility features.
+
+### Inflow ADHD App
+
+- URL: https://www.abledlikeme.com/resources/inflow-adhd-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: ADHD support app offering structured executive-function resources, CBT-based micro-lessons, skill-building exercises, meditations, journaling, mood and productivity tracking, and community features.
