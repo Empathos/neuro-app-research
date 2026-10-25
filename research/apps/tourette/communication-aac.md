@@ -818,3 +818,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Review covering tic-related speech phenomena, expressive and receptive language impairments, signing, writing, and other communication topics in Tourette syndrome.[10]
+
+### Assistive Technology Suggestions for Tourette
+
+- URL: https://tourette.org/wp-content/uploads/AT-TAA-002.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Official comparison document mapping assistive-technology options, including alternative communication systems and speech-to-text, to Tourette-related needs.
