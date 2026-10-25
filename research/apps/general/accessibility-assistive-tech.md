@@ -748,3 +748,33 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Official Google Play collection of apps supporting communication, readability, organization, ADHD planning, autism support, and everyday accessibility needs.
+
+### Apple Accessibility
+
+- URL: https://www.apple.com/sa/accessibility/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Official overview of Apple accessibility features, including Assistive Access, a simplified interface designed to reduce cognitive load and support people with cognitive disabilities.
+
+### Apple Cognitive Accessibility
+
+- URL: https://www.apple.com/my/accessibility/cognitive/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Official Apple resource covering cognitive accessibility features such as Assistive Access, visual layouts, Safari Reader, text customization, and document readability tools.
+
+### NeuroEquality on Hugging Face
+
+- URL: https://huggingface.co/NeuroEquality
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public organization page featuring accessibility-focused models and projects, including safe4all-assist for navigating digital and physical app usage.

@@ -658,3 +658,13 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: AI-powered task manager for ADHD, autism, and neurodivergent users, offering task breakdown, time estimation, thought organization, scheduling, and recipe assistance.
+
+### Tiimo  Apple App Store
+
+- URL: https://apps.apple.com/ca/app/tiimo-ai-plan-for-adhd-to-do/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Official app listing describing visual schedules, color-coded planning, task breakdown, focus timers, habit tracking, and calendar/reminder integrations.
