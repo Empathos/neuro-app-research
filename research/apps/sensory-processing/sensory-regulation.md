@@ -538,3 +538,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: iOS somatic regulation app combining breathing exercises, haptic grounding, digital fidgets, calming visuals, and support for neurodivergent sensory-regulation needs.
+
+### Lugna Rummet
+
+- URL: https://github.com/yeager/lugnarummet
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Open-source GTK4/Adwaita desktop project providing sensory-regulation and calming strategies for autistic and ADHD users.

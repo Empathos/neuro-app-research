@@ -848,3 +848,23 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: An educational interactive tool introducing sensory differences through seven contrasting sensory experiences and explanatory support tips.[9]
+
+### Sensory  Neurodivergence Wales
+
+- URL: https://neurodivergencewales.org/en/i-am-neurodivergent/sensory/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public resource collection supporting sensory awareness, understanding of sensory needs, and strategies for neurodivergent learners.
+
+### Senses  Neurodiverse Connection Resources
+
+- URL: https://ndconnection.co.uk/resources/senses
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: Public resource library covering sensory-related topics and neurodiversity-affirming materials, with emphasis on works by neurodivergent authors.

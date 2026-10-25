@@ -768,3 +768,23 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Free browser-based collection of sensory, AAC, visual-schedule, calming, communication, and emotional-regulation tools for autistic people and people with sensory-processing differences.
+
+### AAC Speech & Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.cm.aac&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Android AAC board for people with speech challenges, featuring customizable picture-and-text symbol boards, natural text-to-speech, and offline operation.
+
+### Autism Speech and Language
+
+- URL: https://play.google.com/store/apps/details?id=com.autismspeech.autismspeech&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Parent-focused autism communication resource covering gestalt language processing, sensory processing, echolalia, communication activities, and sensory modifications; it explicitly states that it is not an AAC app.
