@@ -518,3 +518,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Open-access review covering dyslexia-oriented mobile applications and assistive features such as OCR, text-to-speech, adjustable typography, spacing, and color controls.
+
+### AI-Based Tools for Learning Disabilities and Speech
+
+- URL: https://madhavlab.github.io/projects/2025_dyslexia/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Research project page describing AI-powered diagnostic and assistive tools for learning disabilities such as dyslexia, using speech and audio processing.
+
+### Accessibility Widget and Dyslexia Tools
+
+- URL: https://github.com/topics/dyslexia?l=html
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-25
+- Description: GitHub directory containing web accessibility projects with features such as font adjustment, letter spacing, dyslexia-friendly fonts, cursor and link highlighting, line-height controls, and contrast settings.

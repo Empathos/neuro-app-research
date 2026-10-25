@@ -358,3 +358,33 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Dyslexia assistive-technology guide featuring Voice Dream Reader, Bookshare, Learning Ally, built-in device accessibility, and Quizlet text-to-speech.
+
+### Atkinson Hyperlegible
+
+- URL: https://accessibility.tools/docs/dyslexia/font-atkinson-hyperlegible
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Research-oriented assessment of Atkinson Hyperlegible and whether published studies support its use for dyslexic readers.
+
+### Comic Sans and dyslexia
+
+- URL: https://accessibility.tools/docs/dyslexia/font-comic-sans
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Evidence review of Comic Sans research, including comparisons with other common fonts and reading outcomes for dyslexic readers.
+
+### ICD-11 dyslexia documentation
+
+- URL: https://accessibility.tools/docs/dyslexia/diag-icd
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-25
+- Description: Reference material on developmental learning disorder with impairment in reading, including diagnostic criteria relevant to dyslexia research.
