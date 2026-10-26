@@ -668,3 +668,33 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Official app listing describing visual schedules, color-coded planning, task breakdown, focus timers, habit tracking, and calendar/reminder integrations.
+
+### Tiimo: Plan, Focus & To Do
+
+- URL: https://apps.apple.com/us/app/tiimo-plan-focus-to-do/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Neurodivergent-friendly planner with visual schedules, task breakdowns, reminders, focus timers, calendar integration, and habit tracking.
+
+### Neurodivergent Dev Tools
+
+- URL: https://github.com/phoenixsoftweb-brighton
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Public GitHub developer collection focused on accessible, plain-language tools designed with neurodivergent developers in mind.
+
+### Tiimo: Plan, Focus & To Do
+
+- URL: https://apps.apple.com/jp/app/tiimo-plan-focus-to-do/id1480220328?l=en-US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: iPhone and iPad planner featuring visual schedules, brain-dump task capture, Pomodoro focus sessions, executive-function support, calendar integration, and habit tracking.

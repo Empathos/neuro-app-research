@@ -818,3 +818,23 @@
 - Query: general education-learning neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Public overview of assistive technologies for inclusive education, covering text-to-speech, AAC, task organizers, focus-enhancing apps, and autism-related attention-training resources.
+
+### Free Resources
+
+- URL: https://www.neurodiversity.org.nz/learning-hub-categories/categories/free-resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Public collection of free neurodiversity education resources, including information about Capiche writing support for learners.
+
+### Neurodiversity Resources  Jasmine Miller Coaching
+
+- URL: https://www.jasminemillercoaching.com/resources/category/Tool
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Digital resource library covering neurodiversity tools, education resources, classroom supports, and product-design material for diverse learners.

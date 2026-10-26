@@ -768,3 +768,13 @@
 - Query: general executive-function neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: ADHD support app featuring brief guided resets, reflection prompts, and tools intended to reduce cognitive friction.
+
+### ADHD Guardian
+
+- URL: https://github.com/emfuzzylogic/adhd-guardian-ai-agent
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: AI work companion for neurodivergent students and professionals focused on task decomposition, prioritization, task initiation, and positive reinforcement.

@@ -668,3 +668,73 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: iOS somatic regulation companion combining breathing exercises, haptic grounding, digital fidgets, calming visuals, and an AI companion; explicitly includes neurodivergent sensory-regulation use cases.[8]
+
+### Tihi
+
+- URL: https://apps.apple.com/us/app/tihi/id6751172848
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Silent-signaling tool for communicating needs such as sensory overload, needing quiet, taking a break, or requesting help.
+
+### SafeSpace - Neurodivergent
+
+- URL: https://apps.apple.com/no/app/safespace-neurodivergent/id6670400305
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Workplace-comfort tool for autistic people and others with sensory sensitivities, featuring customizable lighting, noise, visual settings, and alerts.
+
+### Stimz Connect
+
+- URL: https://apps.apple.com/us/app/stimz-connect/id6785089282
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: NFC-based support profile that shares communication preferences, approaches, calming information, and emergency contacts with helpers.
+
+### SensorySpace
+
+- URL: https://apps.apple.com/ca/app/sensoryspace/id6753658944
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Interactive sensory scenes with touch-responsive visuals, calming audio, and adjustable settings intended to support focus, relaxation, and self-regulation.
+
+### Tappy: Fidget & Self-Care Pet
+
+- URL: https://apps.apple.com/us/app/tappy-fidget-self-care-pet/id1492017640
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: iOS sensory fidget and self-care app combining interactive fidgets, breathing exercises, calming soundscapes, mood journaling, and habit tracking.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/cm/app/autism-adhd-games/id6757896431?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Sensory-friendly iOS activities for autistic and ADHD children, including fidget-style play, calming games, visual repetition, and regulation-oriented sensory interactions.
+
+### Commons-OS Sensory Rest Pattern
+
+- URL: https://github.com/commons-os/patterns/blob/main/_patterns/sensory-rest.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Open-source design guidance for sensory-rest features such as quiet modes, reduced notifications, lower visual contrast, interaction-density controls, and pause screens.

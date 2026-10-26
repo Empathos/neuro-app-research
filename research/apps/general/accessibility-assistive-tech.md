@@ -778,3 +778,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Public organization page featuring accessibility-focused models and projects, including safe4all-assist for navigating digital and physical app usage.
+
+### Assistive Tools and Technologies
+
+- URL: https://digitalaccessibility.rice.edu/assistive-tools-and-technologies
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Public guide to assistive technologies for reading, writing, note-taking, PDFs, text-to-speech, voice control, Immersive Reader, Morphic, and neurodivergent-oriented tools such as Goblin Tools.
+
+### Prism: ADHD & Autism
+
+- URL: https://apps.apple.com/cm/app/prism-adhd-autism/id6738650371?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Planner app for ADHD, autism, and neurodivergent users that turns large or overwhelming tasks into clearer, manageable steps.
