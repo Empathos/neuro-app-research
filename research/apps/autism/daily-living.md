@@ -718,3 +718,23 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: A visual schedule, step-by-step sequence builder, life book, and pictogram communication tool for autistic people and people with ADHD or cognitive disabilities.
+
+### Niva README
+
+- URL: https://github.com/Neurospicy-Niva/fibi/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Project documentation covering Niva's neurodivergent-focused features, setup instructions, natural-language task creation, priority suggestions, and reminders.
+
+### ELS Autism / ABA Therapy
+
+- URL: https://play.google.com/store/apps/details?id=com.exceptionallearning&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: An app for neurodivergent children using social narratives, picture schedules, visual timers, token boards, and first/then charts to support daily-living skills.

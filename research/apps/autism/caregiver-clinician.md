@@ -778,3 +778,23 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Collaborative data-driven care platform for clinicians, educators, and caregivers, including team profiles, real-time data collection, documentation, and outcomes reporting.
+
+### Canvas Dx for Clinicians
+
+- URL: https://cognoa.com/for-providers/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Clinician web portal paired with a caregiver smartphone app. Caregivers answer developmental questions and upload home videos; clinicians review results and child-development reports.
+
+### SenLife  ADHD & Autism Support
+
+- URL: https://apps.apple.com/gh/app/senlife-adhd-autism-support/id6450156262
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Caregiver diary and insight-report app for neurodivergent children. Supports pattern tracking, medical-appointment preparation, medication monitoring, and contributions from partners, teachers, carers, and grandparents.

@@ -1098,3 +1098,73 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: App Store listing for an inclusive learning app supporting autistic and other neurodivergent children through activities involving attention, memory, reasoning, and emotional recognition.
+
+### Autism Learning Tools
+
+- URL: https://apps.apple.com/it/app/autism-learning-tools/id1509350648?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Educational and developmental iPad app supporting matching, short-term memory, number and letter recognition, fine-motor skills, and other learning activities for autistic children and children with developmental delays.
+
+### AutiSpark
+
+- URL: https://portal.edu.gva.es/appsedu/es/juegos-para-ninos-con-autismo/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Educational app with interactive activities for image association, emotion comprehension, sound recognition, and related learning skills for children with autism.
+
+### Autism iHelp Play
+
+- URL: https://apps.apple.com/us/app/autism-ihelp-play/id521485216
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Part of the Autism iHelp educational app series, offering simple learning activities across topics such as shapes, emotions, and colors.
+
+### A+ Autism
+
+- URL: https://apps.apple.com/au/app/a-autism/id6741469887
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Educational app using real-life images, human voice-overs, and calm lessons to support visual and auditory learning, word recognition, object identification, animal names, and sounds.
+
+### Jade  HundrED Foundation
+
+- URL: https://foundation.hundred.org/en/innovations/jade
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: A game-based educational platform for neurodivergent children that uses cognitive games, gameplay data, developmental reports, and teacher training to support individualized education.[3]
+
+### Autism Learning Tools
+
+- URL: https://apps.apple.com/us/app/autism-learning-tools/id1509350648?l=fr-FR&platform=iphone
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: An educational and developmental iOS game/tool designed for autistic children and children with developmental delays, covering matching, memory, number and letter recognition, and fine-motor skills.[5]
+
+### Personalized Learning Models for Neurodivergent Students
+
+- URL: https://github.com/carlycarroll25/Personalized-Learning-Model-for-Neurodivergent-Students
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: A public GitHub research project exploring engagement-data clustering and classification to create personalized curriculum pathways for neurodivergent learners, including students with autism or ADHD.[6]

@@ -788,3 +788,13 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Free Spanish-language mobile app for autistic adolescents and adults with pictograms, self-regulation tools, anxiety supports, situational-mutism cards, and offline access.
+
+### TeAcompano
+
+- URL: https://play.google.com/store/apps/details?id=com.nixia.teacompanio&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Visual support app for autistic people, families, and professionals, with customizable routines, communication cards, calming tools, calendars, and emotional-regulation support.

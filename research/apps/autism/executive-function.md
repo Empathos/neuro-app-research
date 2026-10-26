@@ -1188,3 +1188,43 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: App associated with Resources for Autism, a registered charity providing practical services for autistic children and adults and their families, with attention to communication and sensory needs.[8]
+
+### ExecAssist
+
+- URL: https://github.com/epic-developer/ExecAssist
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Open-source executive-dysfunction assistance app for people with autism and ADHD.
+
+### adderall
+
+- URL: https://github.com/bunniico/adderall
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Locally hosted open-source web app for ADHD, autism, and AuDHD executive dysfunction, with prioritization and organization features.
+
+### Sprout - Smart ADHD Task App  Google Play
+
+- URL: https://play.google.com/store/apps/details?id=com.sproutapp.sprout&hl=en_AU
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Android planner and task manager designed for executive dysfunction, time blindness, decision fatigue, reminders, and organization challenges.
+
+### To Do List, Goals & Sorting  App Store
+
+- URL: https://apps.apple.com/cl/app/to-do-list-goals-sorting/id6755643940?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Executive-function support app with smart sorting, focus timers, categories, and progress tracking for users who experience overwhelm or planning difficulties.
