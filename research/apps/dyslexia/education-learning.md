@@ -408,3 +408,23 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Reading-support app featuring dyslexia-friendly presentation, adjustable text size and color, text-to-speech, translation, and guided reading assistance.
+
+### Lexy  Smart Literacy Learning
+
+- URL: https://apps.apple.com/my/app/lexy-smart-literacy-learning/id1564885095
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: AI phonics tutoring app designed for literacy learning, with stated support for dyslexia and ADHD and adaptive learning features.
+
+### LexiLearn
+
+- URL: https://dl.acm.org/doi/10.1145/3706599.3720169
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Research-described gamified mobile app for Sinhala-speaking learners with dyslexia, targeting phonological awareness, word recognition, and reading comprehension.

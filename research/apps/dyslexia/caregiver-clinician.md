@@ -508,3 +508,43 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Public neurodivergent guidance tool for dyslexic people and caregivers, offering an orientation quiz and practical next-step support; it describes itself as guidance rather than a clinic or tracking app.
+
+### Lexy Dyslexia Screening Platform
+
+- URL: https://lexyapp.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Research-backed dyslexia screening platform for schools, families, teachers, and clinical professionals, with clinical notes, patient caseload management, feedback tools, and shareable reports.
+
+### DL Screening App
+
+- URL: https://apps.apple.com/us/app/dl-screening/id6747577024
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Parent- and teacher-oriented iPad app for screening potential dyslexia, dysgraphia, and other learning disabilities through questionnaires, child-friendly testing, expert interaction, reports, and recommendations.
+
+### Renaissance Dyslexia Screening Solution
+
+- URL: https://www.renaissance.com/solutions/dyslexia-screening-solution/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Education-focused screening, diagnostic, and progress-monitoring tools intended to help identify reading needs and connect assessment insights with targeted intervention.
+
+### Dyslexia Resources for Neurodivergent Learners
+
+- URL: https://www.tec.govt.nz/learner-success/resources-to-help-support-your-learners/neurodiversity-resources/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Public resource page collecting tools and guidance for tertiary organisations supporting learners with dyslexia and other neurodivergences.

@@ -538,3 +538,43 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: GitHub directory containing web accessibility projects with features such as font adjustment, letter spacing, dyslexia-friendly fonts, cursor and link highlighting, line-height controls, and contrast settings.
+
+### A systematic review of assistive technologies for children with dyslexia
+
+- URL: https://arxiv.org/abs/2412.13241
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Research review covering mobile apps, augmented reality, NLP, virtual reality, haptic technologies, and tangible user interfaces for dyslexia support.
+
+### Influence of assistive technology applications on dyslexic students learning
+
+- URL: https://link.springer.com/content/pdf/10.1007/s10639-022-11090-9.pdf?error=cookies_not_supported&code=bc37fb7c-9edc-496e-882b-09c9fd20d6a2
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Study examining Google Classroom, Zoom, and Quizlet as assistive-technology platforms for students with dyslexia.
+
+### Enhancing teaching and learning for pupils with dyslexia
+
+- URL: https://link.springer.com/article/10.1007/s10639-023-12195-5?error=cookies_not_supported&code=882f8c2a-0958-466f-996a-9bd75eea341b
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Comprehensive review of technological and non-technological interventions, with emphasis on apps, games, sensory approaches, and emerging haptic technologies.
+
+### Hesten's Learning
+
+- URL: https://github.com/Hestenb62/_legacy_backup
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Accessibility-first educational platform repository with reading masks, text magnification, line and word spacing controls, color tints, large cursors, dyslexia-friendly fonts, and audio support.

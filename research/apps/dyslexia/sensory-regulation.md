@@ -149,16 +149,6 @@
 - Found: 2026-07-01
 - Description: Official product page for Dybuster, a sensory regulation software using color, sound, and visual patterns to train dyslexic children in spelling and reading comprehension through multisensory engagement.
 
-### Read&Write for Dyslexia
-
-- URL: https://www.tobiiro.com/products/read-write/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: sensory-regulation
-- Query: dyslexia sensory regulation software
-- Found: 2026-07-01
-- Description: Official product page for Read&Write, a literacy overlay toolbar offering text-to-speech, word prediction, and dual-color highlighting to support dyslexic users with sensory reading regulation.
-
 ### ClaroRead - Dyslexia Support Software
 
 - URL: https://www.claroread.com/
@@ -328,3 +318,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Open-source educational-content tool with dyslexia-friendly layouts, OpenDyslexic support, adjustable spacing and contrast, audiobook generation, and broader neurodivergent accessibility profiles.
+
+### DyslexAI
+
+- URL: https://github.com/abubakarshahid16/dyslexai
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Open-source AI-assisted dyslexia support platform with OCR handwriting workflows, adaptive exercises, teacher-assigned curricula, and game-based learning.
+
+### Dyslexia_TTS_Aid-2025
+
+- URL: https://github.com/pizzaxpainter/Dyslexia_TTS_Aid-2025
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Open-source AI reading aid using text-to-speech to support people with dyslexia, color blindness, and other reading difficulties.
