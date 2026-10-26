@@ -688,3 +688,43 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: An employer-funded digital health service providing neuro-informed clinicians, screening, referral pathways, consultations, and workplace guidance for people including those with dyspraxia.
+
+### ESSENCE-D digital neurodevelopmental assessment tool
+
+- URL: https://www.gu.gu.se/en/news/new-digital-tool-aims-to-transform-how-neurodivergence-is-identified
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: University of Gothenburg research tool using caregiver questionnaires and clinician dashboards to support broad, multidisciplinary assessment of neurodevelopmental profiles; it is not a diagnostic instrument.
+
+### Agentic AI framework for disability and neurodivergence support
+
+- URL: https://arxiv.org/html/2511.22737
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Public research preprint proposing caregiver dashboards, routine support, monitoring, and personalized well-being features for people with disabilities and neurodivergence.
+
+### Tactus Therapy Apps
+
+- URL: https://tactustherapy.com/apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Official catalog of video-assisted speech-therapy apps intended to support communication and independence, including apraxia-related therapy contexts.
+
+### Beats Medical Dyspraxia Blog
+
+- URL: https://beatsmedical.com/dyspraxia-blog/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Public resource from the Dyspraxia App team containing dyspraxia-related information, tips, and community material.

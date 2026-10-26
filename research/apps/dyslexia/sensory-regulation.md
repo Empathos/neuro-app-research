@@ -149,16 +149,6 @@
 - Found: 2026-07-01
 - Description: Official product page for Dybuster, a sensory regulation software using color, sound, and visual patterns to train dyslexic children in spelling and reading comprehension through multisensory engagement.
 
-### Read&Write for Dyslexia
-
-- URL: https://www.tobiiro.com/products/read-write/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: sensory-regulation
-- Query: dyslexia sensory regulation software
-- Found: 2026-07-01
-- Description: Official product page for Read&Write, a literacy overlay toolbar offering text-to-speech, word prediction, and dual-color highlighting to support dyslexic users with sensory reading regulation.
-
 ### ClaroRead - Dyslexia Support Software
 
 - URL: https://www.claroread.com/

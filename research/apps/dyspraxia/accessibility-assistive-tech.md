@@ -568,3 +568,33 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Assistive-technology provider covering learning needs including dyslexia, dyspraxia/DCD, dysgraphia, dyscalculia, and ADHD, with guidance on tools such as text-to-speech.
+
+### Accessabilitee
+
+- URL: https://apps.apple.com/ca/app/accessabilitee/id6759537476
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: App Store listing for an accessibility app designed for dyslexia, autism, and other neurodivergent conditions.
+
+### Open Source Assistive Technology Hackathon
+
+- URL: https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: GitHub article pointing to an ongoing public repository for an Open Source Assistive Technology Hackathon, a potential source of accessibility-tool research leads.
+
+### GitHub Accessibility Organization
+
+- URL: https://github.com/accessibility
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Public GitHub organization page containing accessibility-focused repositories and learning resources relevant to assistive-technology research.
