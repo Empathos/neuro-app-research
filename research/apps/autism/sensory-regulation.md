@@ -968,3 +968,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Public sensory-regulation toolkit with a sensory inventory, working sensory-system map, ready-to-use scripts, and worksheets.
+
+### Calmika: Autism AAC & Routine
+
+- URL: https://play.google.com/store/apps/details?id=com.calmika.app&hl=en
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Free, ad-free AAC and routine app offering visual schedules, transition support, a Calm Corner, breathing tools, sensory regulation features, and social stories.
+
+### Nesto Autism Care & Support
+
+- URL: https://play.google.com/store/apps/details?id=com.nesto.care
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Parent-focused autism support app with sensory and social-play activities, calming strategies, emotional regulation support, and daily-routine tools.

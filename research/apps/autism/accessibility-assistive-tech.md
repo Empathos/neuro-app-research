@@ -768,3 +768,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Customizable AAC communication app for autistic and nonverbal users, including speech-therapy support.[10]
+
+### Autism Spectrum Disorder and Technology  Mobile Apps
+
+- URL: https://asdtechnology.osot.ubc.ca/apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: University of British Columbia directory of autism-related apps, including visual schedules, social stories, augmentative and alternative communication, timers, and learning tools.
+
+### EyeTism
+
+- URL: https://github.com/eockfen/EyeTism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Research-oriented GitHub project using machine learning and eye-tracking data to investigate visual-attention patterns associated with autism.
+
+### GitHub ASD Topic
+
+- URL: https://github.com/topics/asd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Public GitHub topic directory containing autism-related software projects, including an app directory evaluated for ease of use, sensory impact, and cognitive load.
+
+### Autism Web Server
+
+- URL: https://github.com/chloeling3/autism_web_server
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Open-source web-based machine-learning framework for autism-spectrum-disorder prediction, written in Python.

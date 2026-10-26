@@ -1098,3 +1098,13 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Resource page cataloging communication apps such as TouchChat HD, TalkTablet PRO, and Proloquo2Go for autism and other speech or communication disabilities.
+
+### AAC Native
+
+- URL: https://github.com/btk/aac-native
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Multilingual React Native AAC application for autistic and non-speaking users, using picture-based communication informed by PECS.
