@@ -598,3 +598,23 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Emotional-regulation app for children ages 412, including neurodivergent children with ADHD, autism, and sensory needs.
+
+### AlexiTime
+
+- URL: https://play.google.com/store/apps/details?id=com.crin.alexitime
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Android app focused on self-awareness, communication, and emotional regulation for neurodivergent people, including autistic people and people with ADHD.
+
+### Signal & Support
+
+- URL: https://apps.apple.com/jp/app/signal-support/id6758867206?l=en-US&platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Neurodivergent self-check-in app assessing physiological, cognitive, emotional, social, behavioral, and sensory states against a user's personal baseline, with support-message generation.

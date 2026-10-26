@@ -1128,3 +1128,43 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Social communication app for autistic, ADHD, gifted, and other neurodivergent users that displays preferred communication styles.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/ro/app/innervoice-aac-for-autism/id730856179
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: AAC app for autistic and nonspeaking communicators that turns communication boards into speech and supports editable board imports, conversation practice, and contextual vocabulary.
+
+### Voixa: Speech & AAC Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.sairacreations.isl_companion&hl=en-US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: AI-assisted communication app combining speech-to-text, generated replies, and natural text-to-speech for speech-impaired, nonspeaking, or hearing-impaired users.
+
+### Speech Assistant - AAC Talker
+
+- URL: https://apps.apple.com/ee/app/speech-assistant-aac-talker/id6446367342
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Customizable AAC and text-to-speech tool intended for people with autism, Down syndrome, cerebral palsy, Angelman syndrome, and other communication difficulties.
+
+### AAC App for Complex Communication Needs
+
+- URL: https://github.com/jgawrylkowicz/aac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Open-source tablet AAC application with customizable communication boards and word-processing options.

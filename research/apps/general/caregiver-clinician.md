@@ -648,3 +648,43 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Research-based mobile data-collection tool for caregivers to record autistic childrens challenging behaviors, triggers, context, responses, and clinically relevant patterns for discussion with professionals.
+
+### You Speak
+
+- URL: https://play.google.com/store/apps/details?id=com.youspeak.myapp&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: AAC app with customizable visual and phrase-based communication modes, caregiver and clinician administration, communication analytics, goal setting, reporting, and import/export for families, classrooms, and clinics.
+
+### YAPP: Your Accessible Personal Platform
+
+- URL: https://apps.apple.com/gr/app/yapersonal-platform/id6759991282
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: AAC platform for nonverbal and low-verbal users, including clinical analytics, caregiver-device connectivity, prompts, emergency alerts, and sensory-friendly interface options.
+
+### NeuroReHub
+
+- URL: https://nexustherapycentres.com/resources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Digital portal and mobile app offering neurodevelopmental-condition resources, caregiver routine organization, health tracking, medication logging, and progress monitoring.
+
+### CSD Starship
+
+- URL: https://play.google.com/store/apps/details?id=csd.csd.starship&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Parent-led autism support app with clinician-created lessons, caregiver education, daily progress reporting, and clinician monitoring for ABA-related support.
