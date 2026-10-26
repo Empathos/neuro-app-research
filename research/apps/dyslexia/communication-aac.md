@@ -358,3 +358,23 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Android reading-support app developed with the Madras Dyslexia Association; supports imported PDFs and photographed text and reports evidence-informed reading strategies.
+
+### Accessible Tools Web Interface
+
+- URL: https://github.com/AmberTreelet/accessible-tools/blob/main/index.html
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Single-page implementation of reading-disability support and AAC features, including OpenDyslexic, RSVP reading, color overlays, text-to-speech, categorized communication cards, and sentence building.
+
+### AI Word Visualizer for Dyslexic Learners
+
+- URL: https://github.com/anushka22311688/ai-word-visualizer-dyslexic-learners
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Learning-support tool using color-coded syllables, audio pronunciation, tracing exercises, and multisensory techniques for dyslexic learners.

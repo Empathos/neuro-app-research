@@ -318,3 +318,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Open-source educational-content tool with dyslexia-friendly layouts, OpenDyslexic support, adjustable spacing and contrast, audiobook generation, and broader neurodivergent accessibility profiles.
+
+### DyslexAI
+
+- URL: https://github.com/abubakarshahid16/dyslexai
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Open-source AI-assisted dyslexia support platform with OCR handwriting workflows, adaptive exercises, teacher-assigned curricula, and game-based learning.
+
+### Dyslexia_TTS_Aid-2025
+
+- URL: https://github.com/pizzaxpainter/Dyslexia_TTS_Aid-2025
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Open-source AI reading aid using text-to-speech to support people with dyslexia, color blindness, and other reading difficulties.

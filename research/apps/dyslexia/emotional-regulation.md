@@ -188,3 +188,23 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-22
 - Description: Full-text research source on the GESYA educational emotional-regulation application for children with dyslexia, including methods, results, and limitations.
+
+### ReadAble
+
+- URL: https://github.com/nazarli-shabnam/ReadAble
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Mobile assistive reading app using on-device OCR, summarization, and text-to-speech; supports calmer layouts and sentence-by-sentence listening for dyslexia and reading difficulties.
+
+### Apps that think like you do
+
+- URL: https://apps.apple.com/ge/ipad/story/id1867605202
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Official App Store collection of productivity, self-care, and emotional-tracking tools curated for people with dyslexia, autism, and ADHD.
