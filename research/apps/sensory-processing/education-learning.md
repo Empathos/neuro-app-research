@@ -868,3 +868,63 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Public resource library covering sensory-related topics and neurodiversity-affirming materials, with emphasis on works by neurodivergent authors.
+
+### Miri Learning
+
+- URL: https://miri.io/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Gentle learning app for children with autism and developmental delays, offering sensory exploration, communication activities, low-saturation colors, and no flashing or sudden animations.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/no/app/calm-steps/id6755076182
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Emotional-regulation and caregiver-support app for children ages 412, with sensory-profile building, guided regulation activities, visual routines, and strategy tracking.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/cm/app/autism-adhd-games/id6757896431?l=en-GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Sensory-friendly learning and regulation activities for autistic and ADHD children, including sorting, tracing, speech, memory, fidgets, sensory play, and calming games.[2]
+
+### Visual Day
+
+- URL: https://play.google.com/store/apps/details?id=com.visualday.app&hl=en
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Visual schedules, first-then boards, and token boards designed for children with autism, ADHD, sensory needs, and learners developing independence.[4]
+
+### SocialBlossom: Social Stories
+
+- URL: https://play.google.com/store/apps/details?id=life.socialstories.app&hl=en-US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Social-emotional learning app with personalized social stories, emotion activities, calming exercises, and sensory-break games for children with autism, ADHD, and sensory differences.[5]
+
+### Cosmo Ability
+
+- URL: https://www.explorecosmo.com/cosmo-ability/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Inclusive interactive learning system pairing an app with physical interactive devices to develop cognitive, motor, social, and emotional skills for neurodiverse learners, including autistic and ADHD learners.[8]

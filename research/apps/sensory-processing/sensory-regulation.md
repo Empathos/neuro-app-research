@@ -548,3 +548,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Open-source GTK4/Adwaita desktop project providing sensory-regulation and calming strategies for autistic and ADHD users.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/pl/app/shift-regulate-reset/id6759524862
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Regulation app for ADHD, autistic, and other neurodivergent users, with modes for spiraling, shutdown, rage, sensory overload, and being stuck.[6]
