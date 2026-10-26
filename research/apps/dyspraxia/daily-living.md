@@ -538,3 +538,13 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Personal support tool for flexible daily structure, energy and focus pattern tracking, gentle prompts, and maintaining orientation without productivity pressure.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://play.google.com/store/apps/details?id=com.exceptionallearning&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Android app using social narratives, picture schedules, visual timers, token boards, and first/then charts to break daily-living tasks into manageable steps.

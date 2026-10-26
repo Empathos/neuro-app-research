@@ -1068,3 +1068,53 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Public assistive-technology guide listing free SmallTalk communication and speech-practice apps for aphasia, apraxia, and dysphagia, plus VASTtx motor-speech practice.
+
+### You Speak
+
+- URL: https://play.google.com/store/apps/details?id=com.youspeak.myapp&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Android AAC app with customizable visual and phrase-based communication modes for people with autism, apraxia, speech differences, and other communication needs.
+
+### Talk in Pictures X - AAC speak
+
+- URL: https://play.google.com/store/apps/details?id=com.itoucantalk
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Customizable Android AAC app supporting user-created picture cards, sentence construction, and speech output for nonverbal communication, verbal dyspraxia, dysarthria, autism, and other speech difficulties.
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/us/app/make-a-choice-aac-buttons/id1295966224
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: iPhone and iPad choice-board app with configurable buttons, images, text, and recorded or synthesized speech; designed to support people with motor difficulties and dyspraxia.
+
+### Fluent AAC: Communication App
+
+- URL: https://apps.apple.com/de/app/fluent-aac-communication-app/id1489807378?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Customizable AAC app for children and adults with autism, apraxia, stroke, ALS, Down syndrome, and other conditions affecting natural speech.
+
+### DCD Research Communication Guidelines and Repository
+
+- URL: https://openaccess.city.ac.uk/id/eprint/33487/1/Purcell%20et%20al%20Research%20Involvement%20&%20Engagement%202024.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Open-access research paper describing a co-produced repository and accessible communication guidelines for developmental coordination disorder/dyspraxia research.
