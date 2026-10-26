@@ -788,3 +788,13 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Parent-focused autism communication resource covering gestalt language processing, sensory processing, echolalia, communication activities, and sensory modifications; it explicitly states that it is not an AAC app.
+
+### AAC Text Communication Device
+
+- URL: https://apps.apple.com/ar/app/aac-text-communication-device/id6475756600?l=en-GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Text-based AAC app that converts typed or preset phrases into speech for users with temporary or ongoing speech difficulties.

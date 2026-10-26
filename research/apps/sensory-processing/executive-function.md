@@ -758,3 +758,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: A client-side GitHub project that maps qualitative inputs such as sensory triggers, executive patterns, dopamine friction, and hyperfocus into structured operating profiles.
+
+### Forget Me Not: Life Organizer
+
+- URL: https://apps.apple.com/us/app/forget-me-not-life-organizer/id6477260664
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: iOS organizer designed for neurodiverse users, with adaptive prompts and support for habits, daily tasks, sensory preferences, processing speed, focus, and executive function.

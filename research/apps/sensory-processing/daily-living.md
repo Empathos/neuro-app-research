@@ -548,3 +548,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Open-source assistive-technology project translating music into vibrotactile and visual formats using embedded systems, vibration motors, and an LCD display.
+
+### Skye
+
+- URL: https://github.com/jannatbashir/Skye
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Open-source mobile wellness app for ADHD, autism, and dyslexia that adapts task difficulty and quantity to a user's reported mood and energy capacity.

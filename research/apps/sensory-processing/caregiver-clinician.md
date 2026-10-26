@@ -738,3 +738,33 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public research repository document examining sensory differences, sensory-response categories, coping, and use of the Adolescent/Adult Sensory Profile.[5]
+
+### SensoryTreat for Families
+
+- URL: https://sensorytreat.com/for-families/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Family-focused SensoryTreat page describing caregiver use of sensory-integration home programs and therapist-supported carryover between sessions.
+
+### iBuddy - buddy
+
+- URL: https://play.google.com/store/apps/details?id=org.fuhong.ibuddyer&hl=en_IN
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Google Play app developed with occupational-therapy involvement for sensory-processing, autism, concentration, emotional-behavior, and social-cognition support; supports professionals, caregivers, and users.
+
+### Sensory Strategies
+
+- URL: https://play.google.com/store/apps/details?id=com.achievetherapy.sensoryapp&hl=en_GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Private on-device sensory and emotional-regulation app for tracking states, creating personalized coping strategies, and supporting occupational-therapy goals.

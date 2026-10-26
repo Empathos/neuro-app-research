@@ -498,3 +498,73 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: An iOS planner with task breakdown, thought organization, time estimation, focus support, text assistance, and daily guidance for ADHD, autism, and other neurodivergent users.
+
+### Anchor
+
+- URL: https://play.google.com/store/apps/details?id=com.jcode.anchor
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Neurodivergence-focused calming app using songs designed to help soothe users before sensory overload becomes overwhelming.
+
+### NUKA.ai ADHD & Autism Support
+
+- URL: https://play.google.com/store/apps/details?id=nuka.ai.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: AI companion for neurodivergent users offering support during sensory overload, stimulus reduction, organization, and emotional regulation.
+
+### Calm Color Reveal: Sensory Art
+
+- URL: https://play.google.com/store/apps/details?id=dev.neurodiv.asmrcolor&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Sensory art app with predictable color reveals, gentle ASMR sounds, and a low-stimulation design intended for calming and safe stimming.
+
+### Neuro Focus Plus
+
+- URL: https://play.google.com/store/apps/details?id=com.company.neurofocusplus
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-26
+- Description: Routine and focus app featuring sensory-friendly UI customization, transition reminders, task breakdowns, mood and energy tracking, and screen-reader support.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/gb/app/autism-fidgets/id6761034020
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: iOS sensory-support app with interactive fidgets, bubble play, visual effects, and touch-based activities intended for calming, focus, and self-regulation.
+
+### SpectrumConnect
+
+- URL: https://github.com/technosheen/spec
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: Open-source sensory-friendly social app project for autistic and neurodivergent users, featuring customizable themes, animation controls, high contrast, dyslexia-friendly fonts, and VoiceOver support.
+
+### Sensory Sound Box
+
+- URL: https://apps.apple.com/gb/app/sensory-sound-box/id548622567
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-26
+- Description: iOS cause-and-effect sensory app supporting touch skills, sound-based interaction, sensory integration, and switch-access options for users with complex learning needs.
