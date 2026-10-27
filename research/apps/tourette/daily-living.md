@@ -428,3 +428,13 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Describes pattern tracking, visual routine building, daily check-ins, strategy tools, and shareable reports for neurodivergent support, including Tourettes.[6]
+
+### The Role of Digital Tools in Meeting the Needs of Adults With ...
+
+- URL: https://formative.jmir.org/2026/1/e78328/PDF
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: JMIR research publication examining how adults use digital tools, including apps for mental health and wellness, in relation to neurodivergent support needs.
