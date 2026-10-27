@@ -1118,3 +1118,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Open-access research paper describing a co-produced repository and accessible communication guidelines for developmental coordination disorder/dyspraxia research.
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/kr/app/make-a-choice-aac-buttons/id1295966224?l=en-GB&platform=iphone
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: AAC choice-board app designed with speech-language professionals and caregivers; includes large buttons for people with motor difficulties and explicitly supports dyspraxia.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/ch/app/avaz-aac/id909574843?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Customizable AAC app for iPhone and iPad using symbol-based sentence construction and text-to-speech; supports autism, cerebral palsy, aphasia, apraxia, and speech delays.

@@ -640,16 +640,6 @@
 - Found: 2026-08-03
 - Description: Visual organization tools for neurodivergent thinking - Claude Code skill with compassionate task breakdowns, decision trees, and focus support
 
-### tarang-tj/subtext
-
-- URL: https://github.com/tarang-tj/subtext
-- Source: github-search
-- Condition: adhd
-- Support category: communication-aac
-- Query: focus communication support app
-- Found: 2026-08-08
-- Description: Text strips context. Subtext puts some of it back, in both directions. A bidirectional communication tool for neurodivergent teens, built for the IncludAI hackathon.
-
 ### Tiimo
 
 - URL: https://apps.apple.com/us/iphone/story/id1895869577?l=zh-Hant-TW
