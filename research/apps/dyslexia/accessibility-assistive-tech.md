@@ -388,3 +388,23 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Reference material on developmental learning disorder with impairment in reading, including diagnostic criteria relevant to dyslexia research.
+
+### Dyslexia and Dyspraxia: Library Accessibility
+
+- URL: https://guides.library.lincoln.ac.uk/accessibility/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: University of Lincoln accessibility guide covering Read&Write features such as read-aloud, synchronized highlighting, voice recognition, scanning, and audio conversion.
+
+### Academic Support: Text To Speech Technologies
+
+- URL: https://www.tcd.ie/disability/services/assistive-tech/academic-support--text-to-speech-technologies/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Trinity College Dublin resource describing Read&Write for dyslexia and reading or writing difficulties, with read-aloud, spell checking, word prediction, and scanning functions.

@@ -378,3 +378,43 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Learning-support tool using color-coded syllables, audio pronunciation, tracing exercises, and multisensory techniques for dyslexic learners.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/br/app/dyslexiabuddy/id1565832172?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: iOS reading-support app offering dyslexia-friendly display settings, read-aloud functionality, definitions, and adaptive tutoring.
+
+### Dyslexia Reading Assistant
+
+- URL: https://www.listening.com/dyslexia-reading-assistant
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Reading assistant designed for dyslexic students and researchers, supporting academic papers and textbooks through spoken audio and pronunciation assistance.
+
+### NeuroRead
+
+- URL: https://github.com/panshularora/NEUROREAD
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Open-source adaptive reading platform for dyslexic learners with text simplification, read-aloud support, word highlighting, phonics exercises, and cognitive-load scoring.
+
+### FocusFriend
+
+- URL: https://github.com/Updesh413/FocusFriend
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Voice-first ADHD and dyslexia study companion designed to reduce text fatigue and cognitive overload through short explanations, spoken audio, and dyslexia-accessible presentation.

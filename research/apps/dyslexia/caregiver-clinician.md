@@ -548,3 +548,53 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Public resource page collecting tools and guidance for tertiary organisations supporting learners with dyslexia and other neurodivergences.
+
+### Dyslexia  Cognitive Research
+
+- URL: https://apps.apple.com/us/app/dyslexia-cognitive-research/id1399522509?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: iPhone research app for participating in dyslexia studies and collecting measures related to attention, memory, visual scanning, planning, processing speed, and response time.
+
+### Vynova: Neurodivergent Network
+
+- URL: https://play.google.com/store/apps/details?id=com.YiyehDev.Vynova&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Peer-support community for people with dyslexia and other forms of neurodivergence; includes daily-life tips and sensory-support discussions.
+
+### NeuroIdentify
+
+- URL: https://play.google.com/store/apps/details?id=com.davidscabral.neuroidentify_mobile&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Tool for teachers to identify neurodivergence characteristics, including dyslexia, and develop student support action plans.
+
+### NDversa
+
+- URL: https://play.google.com/store/apps/details?id=com.ndversa.app
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Community platform for neurodivergent people, including those with dyslexia, organized around shared interests and peer connection.
+
+### Apps that think like you do
+
+- URL: https://apps.apple.com/lu/iphone/story/id1867605202
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Apple App Store collection of accessibility and productivity tools for dyslexia, including Voice Dream Reader, Audible, and Grammarly.

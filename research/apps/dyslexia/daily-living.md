@@ -428,3 +428,33 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Assistive mathematics app for dyslexia, dysgraphia, and other learning challenges, offering digital graph paper, accessible equation entry, and support for advanced math.
+
+### Recallify Cognitive Support App
+
+- URL: https://recallify.ai/cognitive_support_app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Cognitive-support app for capturing conversations, appointments, instructions, and daily tasks; generates summaries, tasks, reminders, and routines for users including people with dyslexia and other neurodivergences.
+
+### Speak4Me Dyslexia Apps Guide
+
+- URL: https://speak4me.io/discover/best-apps-for-dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Public overview of dyslexia-oriented tools including Speak4Me, Voice Dream Reader, Easy Dyslexia Aid, and ClaroSpeak for reading, scanning, spelling, pronunciation, writing, and word prediction.
+
+### SkrivSikkert
+
+- URL: https://toptechtidbits.com/directories/app-directory/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Danish web app and Chrome extension described as supporting everyday reading and writing for people with dyslexia through explained corrections, read-aloud feedback, document questions, translation, and email drafting.

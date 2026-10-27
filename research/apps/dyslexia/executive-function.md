@@ -578,3 +578,33 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Accessibility-first educational platform repository with reading masks, text magnification, line and word spacing controls, color tints, large cursors, dyslexia-friendly fonts, and audio support.
+
+### FSUMA
+
+- URL: https://github.com/t-mwau/fsuma
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Interactive web-based learning application designed to support elementary students with dyslexia and reading challenges.
+
+### Kirana
+
+- URL: https://github.com/pablonification
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Public developer profile featuring an assistive-learning prototype with dyslexia-screening support, adaptive reading, and grounded AI assistance.
+
+### Dyslexia Keyboard
+
+- URL: https://apps.apple.com/us/app/dyslexia-keyboard/id1160080528
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Keyboard and proofreading tool designed to help people with dyslexia or dysgraphia write, correct, and review English text.
