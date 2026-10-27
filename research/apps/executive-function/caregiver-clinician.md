@@ -394,3 +394,23 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Voice-based AI companion for neurodivergent adults, offering executive-function support, routine reinforcement, medication reminders, emotional-regulation assistance, and caregiver support.
+
+### NeuroLocker
+
+- URL: https://www.neurolocker.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Productivity and follow-through support for ADHD, autism, and executive-function challenges, including a parent-observer feature that gives trusted supporters visibility while preserving user control.
+
+### GitHub Neurodivergent Topic
+
+- URL: https://github.com/topics/neurodivergent?l=typescript
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Public repository index featuring neurodivergent productivity and focus tools, including adaptive task planners, cognitive-metric projects, and distraction-free workspaces.

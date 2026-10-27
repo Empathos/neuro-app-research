@@ -658,3 +658,103 @@
 - Query: executive-function education-learning neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: An iOS education and productivity app offering short daily lessons, practical micro-challenges, habit building, reminders, and reflection-to-habit tools for adults with ADHD.
+
+### Gossik: ADHD apps for adults
+
+- URL: https://play.google.com/store/apps/details?id=com.gossik.GossikChar
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Android app with learning modules, executive-function strategies, habit support, and mental-health resources for adults with ADHD.
+
+### ADHD Brain Train
+
+- URL: https://apps.apple.com/us/app/adhd-brain-train/id6792343689
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: iPhone and iPad app using short games and daily challenges for focus, working memory, flexible thinking, and executive-function practice.
+
+### Daily Focus Board
+
+- URL: https://github.com/github/awesome-copilot/blob/HEAD/skills/daily-focus-board/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Open-source AI assistant skill for a browser-based focus board with task breakdown, progress tracking, brain-dump support, gentle deadlines, and neurodivergent-friendly carryover.
+
+### STap2Go
+
+- URL: https://play.google.com/store/apps/details?id=com.GeneticAI.STap2Go
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Android digital intervention targeting attention and executive functions through daily-life strategies, with stated applicability to ADHD, learning difficulties, and autism-spectrum conditions.
+
+### AugmentedEF: Open-Source Smart Pomodoro for Neurodiverse Learners
+
+- URL: https://repository.isls.org/bitstream/1/11483/1/ICLS2025_2399-2407.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Research presentation describing an open-source augmented-reality tool co-designed with neurodivergent college students to support task initiation, focus, sustained effort, emotional regulation, memory, and action execution.
+
+### Neurodivergence: Executive Function Research Guide
+
+- URL: https://libguides.ecu.edu/c.php?g=914006&p=6589065
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: East Carolina University Libraries guide compiling educational and research resources on executive function and neurodivergence.
+
+### Neurodiversity in Educational Settings Dataset
+
+- URL: https://data.mendeley.com/datasets/22mw357f2y/1
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Public anonymized dataset of 420 students aged 1018 covering executive functioning, attention regulation, emotional regulation, cognitive flexibility, learning styles, and related educational traits.
+
+### The Importance of Executive Function Skills in Neurodivergent Students
+
+- URL: https://spark.bethel.edu/etd/1160/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Open academic literature review examining executive-function effects on achievement among students with autism, specific learning disabilities, and ADHD, including interventions and long-term academic outcomes.
+
+### Neurodivergent Students: A Continuum of Skills
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/21622965.2024.2406914
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Research study examining executive functions and creativity among neurodivergent students, using a virtual-reality assessment of flexibility, working memory, and inhibition.
+
+### Mapping Neurodevelopmental Diversity in Executive Function
+
+- URL: https://www.medrxiv.org/content/10.1101/2023.06.15.23291392v1
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Preprint presenting a data-driven analysis of executive-function profiles in a transdiagnostic sample of 566 neurodivergent children.

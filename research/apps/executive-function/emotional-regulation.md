@@ -568,3 +568,33 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: ADHD-focused planner and habit tracker offering task organization, coaching, meditation, breathing, muscle relaxation, CBT thought reframing, and DBT-based emotional-regulation practices.
+
+### Unlimitics
+
+- URL: https://hundred.org/en/innovations/unlimitics
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: AI-supported platform for school-aged children that uses scenario reflection and simulated choices to develop self-awareness, emotional regulation, decision-making, and executive functioning.
+
+### Impulsivity & Emotional Regulation
+
+- URL: https://neurodivergencewales.org/en/i-am-neurodivergent/impulsivity-emotional-regulation/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Public resource hub from Neurodivergence Wales containing guidance and support resources concerning impulsivity and emotional regulation.
+
+### Emotion Regulation Resource
+
+- URL: https://www.reaact.pitt.edu/sites/default/files/assets/Emotion%20Regulation_REAACT.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Public educational resource outlining common emotion-regulation responses and support approaches for teachers and other support people.

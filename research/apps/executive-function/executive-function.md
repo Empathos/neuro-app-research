@@ -658,3 +658,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: AI task manager for ADHD and autism that breaks down overwhelming tasks, supports time management, and assists with task initiation and scheduling.[9]
+
+### whatnow
+
+- URL: https://github.com/jameynakama/whatnow
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Open-source day planner for ADHD users that organizes tasks by necessity, accounts for energy and feelings, and uses an LLM to create flexible daily plans.
