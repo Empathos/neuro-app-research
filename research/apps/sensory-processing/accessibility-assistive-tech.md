@@ -568,3 +568,43 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: iOS cause-and-effect sensory app supporting touch skills, sound-based interaction, sensory integration, and switch-access options for users with complex learning needs.
+
+### SyntheticSense
+
+- URL: https://github.com/CreativeActtech/SyntheticSense
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: An open-source assistive-technology project combining wearable obstacle detection with haptic Braille communication for deaf-blind users.
+
+### XRAccessibility Project
+
+- URL: https://github.com/XRAccessibility/xraccessibility.github.io
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Open-source XR accessibility project with resources and tools including visual adjustments for brightness, contrast, and hue.
+
+### Multi-sensory Accessibility Plugin for Unreal Engine 5
+
+- URL: https://github.com/fortesdev/MultisensoryAccessibilityPlugin
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Open-source Unreal Engine 5 plugin addressing multisensory accessibility needs related to hearing loss, low vision, color blindness, and epilepsy.
+
+### The A11y Project
+
+- URL: https://a11yproject.com/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Community-driven web accessibility resource providing documentation, design guidance, and practical principles for building products that accommodate diverse sensory and motor needs.

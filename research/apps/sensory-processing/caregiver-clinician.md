@@ -768,3 +768,23 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Private on-device sensory and emotional-regulation app for tracking states, creating personalized coping strategies, and supporting occupational-therapy goals.
+
+### ParentPath Autism AI Assistant
+
+- URL: https://play.google.com/store/apps/details?id=hr.domore.parentpath&hl=en-US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Chat-style caregiver app providing practical guidance for autism-related routines, communication, sensory needs, meltdowns, sleep, school support, and regulation.
+
+### Magus Mark Neurodiversity Support
+
+- URL: https://github.com/Neurotypic-ai/magus-mark/blob/main/apps/obsidian-plugin/README.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Open-source Obsidian plugin documentation describing neurodivergent-oriented accessibility features, including reduced motion, high contrast, keyboard navigation, predictable layouts, and sensory considerations.
