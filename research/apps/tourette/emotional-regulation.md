@@ -418,3 +418,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Neurodivergent-friendly planner supporting mood tracking, routines, journaling, breathing exercises, visual schedules, and emotional regulation.
+
+### ADHD Nook
+
+- URL: https://apps.apple.com/sa/app/adhd-nook/id6794958204?platform=ipad
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: iPad app that recommends guided activities across focus, restoration, and emotional regulation, with step-by-step tools and timers.

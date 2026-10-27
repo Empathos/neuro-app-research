@@ -898,3 +898,23 @@
 - Query: tourette executive-function neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: Public repository article describing access to Tourette-related clinical data, DNA, cell lines, and associated ADHD and OCD research materials for qualified researchers.[7]
+
+### Evotonomia+
+
+- URL: https://www.evotonomia.be/en/evotonomia-plus
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Executive-function support app for neurodivergent adults, offering step-by-step missions, weekly planning, reminders, shopping lists, notes, budgeting, and mood and energy tracking.
+
+### Tourette Association of America Clinical Trials
+
+- URL: https://tourette.org/research-medical/clinical-trials/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Public clinical-trial resource maintained by the Tourette Association of America for research studies aimed at improving quality of life for people affected by Tourette syndrome.

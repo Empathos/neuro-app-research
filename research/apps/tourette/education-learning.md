@@ -708,3 +708,13 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Planning and organization app designed for ADHD and other neurodivergent minds in study, work, and home contexts.
+
+### Divergent Voices Resources
+
+- URL: https://divergent-voices.com/pages/resources
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Public neurodivergence resource page linking to educational materials, toolkits, webinars, and Tourette Association of America resources.

@@ -828,3 +828,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Official comparison document mapping assistive-technology options, including alternative communication systems and speech-to-text, to Tourette-related needs.
+
+### PEC Board
+
+- URL: https://apps.apple.com/gh/app/pec-board/id6759910392
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Picture Exchange Communication app with visual vocabulary categories, sentence building, and built-in text-to-speech; intended for children and adults who use AAC.[7]
