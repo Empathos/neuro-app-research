@@ -718,3 +718,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-10-23
 - Description: Visual planning and executive-function assistant for neurodivergent college students, supporting prioritisation, assignment breakdown, scheduling, and task initiation.
+
+### Evotonomia+
+
+- URL: https://www.evotonomia.be/en/evotonomia-plus
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Neurodivergent-focused organization app with task breakdown, weekly planning, reminders, shopping lists, notes, mood tracking, and energy tracking; explicitly includes learning-disorder support.

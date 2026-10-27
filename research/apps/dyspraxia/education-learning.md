@@ -818,3 +818,13 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, communication, balance, and spatial-awareness activities.
+
+### Kortext Support for Neurodivergent Students
+
+- URL: https://kortext.com/student-hub/all/how-kortext-supports-neurodivergent-students/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Digital study platform with accessible ebooks, read-aloud support, customizable display settings, summaries, AI study notes, quizzes, and flashcards.
