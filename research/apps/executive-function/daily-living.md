@@ -428,3 +428,23 @@
 - Query: executive-function daily-living neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Official App Store listing for a visual planner designed for ADHD and autism, with routines, reminders, task management, mood tracking, time-blindness support, and carer features.
+
+### Evotonomia+
+
+- URL: https://www.evotonomia.be/en/evotonomia-plus
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Everyday-organization app built around executive functions, with missions, weekly planning, budgeting, shopping lists, notes, reminders, and mood and energy tracking.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/us/app/tiimo-to-do-list-planner/id1480220328?platform=watch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Visual planning app with routines, gentle reminders, AI-assisted task planning, prioritization, focus timers, and calendar and reminder synchronization.

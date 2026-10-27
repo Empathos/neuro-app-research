@@ -666,3 +666,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Public GitHub repository for a tool intended to help users overcome instances of executive dysfunction.
+
+### Neurodivergent-Friendly Apps and Websites
+
+- URL: https://neuromoney.io/blog-neurodivergent-apps.html
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Public overview of tools including Tiimo for visual planning and routines, Inflow for ADHD education and skills, and Focus Bear for routines, distraction blocking, and executive-function support.
+
+### neurodivergent-dev/neurodivergent-dev
+
+- URL: https://github.com/neurodivergent-dev/neurodivergent-dev
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Public GitHub developer profile featuring neurodivergent-oriented apps and projects, including tools intended to support divergent thinking and creative workflows.

@@ -808,3 +808,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 501
 - Found: 2026-10-24
 - Description: Official Android app offering task decomposition, decision support, communication assistance, and other tools designed for executive dysfunction, ADHD, autism, and neurodivergent users.
+
+### Equal Edge
+
+- URL: https://play.google.com/store/apps/details?id=app.equaledge.eeu&hl=en
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Executive-function assistant for neurodivergent college students, supporting task breakdown, prioritization, scheduling, and follow-through.

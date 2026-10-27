@@ -758,3 +758,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Public app-related lead describing Goblin Tools as a neurodivergent-oriented support tool for task breakdown, time estimation, email drafting, tone interpretation, and organizing thoughts.[2]
+
+### Equal Edge
+
+- URL: https://play.google.com/store/apps/details?id=app.equaledge.eeu&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Android app for neurodivergent college students that supports task prioritization, assignment breakdown, scheduling, task initiation, and executive-function management; it reports development with neurodivergent students and accessibility experts.[9]
+
+### ICUnit  BCI-Assisted Neurodivergent Productivity Suite
+
+- URL: https://github.com/ICUnit
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: GitHub organization featuring a BCI-assisted productivity suite with cognitive metrics and adaptive AI task planning for ADHD and neurodivergent users.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/pl/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: App Store listing describing visual routines, AI planning, reminders, focus tools, and accessibility support including VoiceOver, Voice Control, larger text, and a dark interface.
