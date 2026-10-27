@@ -1168,3 +1168,33 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: A public GitHub research project exploring engagement-data clustering and classification to create personalized curriculum pathways for neurodivergent learners, including students with autism or ADHD.[6]
+
+### Smart Tales Learning Games
+
+- URL: https://mwm.ai/apps/smart-tales-learning-games/1452196861
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Educational app for children ages 211 with interactive activities and adaptive learning paths; the listing describes support for neurodivergent children and autism-inclusive design.
+
+### Jade - Learning Through Play
+
+- URL: https://apps.apple.com/ao/app/jade-learning-through-play/id1473169233
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: App Store listing for a game-based learning app supporting children and teens with autism, ADHD, dyslexia, and other learning differences.
+
+### Autism & Beyond
+
+- URL: https://today.duke.edu/2015/10/autismbeyond
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Duke research app initiative using smartphone questionnaires and video analysis to study possible autism and developmental-disorder screening approaches.

@@ -808,3 +808,53 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Open-source web-based machine-learning framework for autism-spectrum-disorder prediction, written in Python.
+
+### APP2Speak
+
+- URL: https://app2speak.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: An augmentative and alternative communication app intended to support people who have difficulty speaking, including autistic users.
+
+### LetMeTalk
+
+- URL: https://www.letmetalk.info/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: An AAC communication app that lets users select images to construct sentences and express needs.
+
+### Morphic Accessibility Toolbar
+
+- URL: https://morphic.world/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: An accessibility tool that provides quick access to features such as text enlargement, magnification, text-to-speech, contrast, and color adjustments.
+
+### AssistiveAI-Autism
+
+- URL: https://github.com/AfrinSadi/AssistiveAI-Autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Public research repository associated with an eye-tracking assistive system for autistic learners, including code, AOI layout files, and a sample derived dataset for replication.
+
+### Wearable Behavioral Aid for Autistic Children
+
+- URL: https://github.com/ShaimaaAbdElkhalek/A-wearable-Behavioral-Aid-for-Autistic-Children
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Public project combining wearable glasses, a mobile app, computer vision, and Bluetooth feedback to explore real-time emotion-recognition assistance during social interactions.

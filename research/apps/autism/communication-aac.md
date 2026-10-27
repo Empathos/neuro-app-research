@@ -1108,3 +1108,13 @@
 - Query: autism communication-aac neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Multilingual React Native AAC application for autistic and non-speaking users, using picture-based communication informed by PECS.
+
+### Leeloo AAC - Autism Speech App
+
+- URL: https://apps.apple.com/us/app/leeloo-aac-autism-speech-app/id1508952198
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: iPhone and iPad AAC app focused on nonverbal autism communication and speech support.[5]
