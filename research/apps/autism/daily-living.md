@@ -738,3 +738,13 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: An app for neurodivergent children using social narratives, picture schedules, visual timers, token boards, and first/then charts to support daily-living skills.
+
+### Autism and Neurodivergent Daily-Life Apps
+
+- URL: https://vividlyautistic.blogspot.com/2026/05/aplicaciones-que-facilitan-la-vida.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Community-curated lead covering adult neurodivergent apps and tools for emotional journaling, situational-mutism cards, sensory regulation, pictogram routines, executive-function task lists, and employment support.

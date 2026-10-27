@@ -1228,3 +1228,33 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Executive-function support app with smart sorting, focus timers, categories, and progress tracking for users who experience overwhelm or planning difficulties.
+
+### Lil Planner: Visual Schedule
+
+- URL: https://apps.apple.com/us/app/lil-planner-visual-schedule/id6448482826
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Visual routine and schedule app designed for children and families, including autistic and other neurodivergent users.
+
+### Work Autonomy
+
+- URL: https://apps.apple.com/us/app/work-autonomy/id687348090
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Work-support tool using visual schedules, task breakdowns, workplace communication aids, and concrete feedback for people with autism and cognitive disabilities.
+
+### Hero Assistant: Run Your Day
+
+- URL: https://apps.apple.com/us/app/hero-assistant-run-your-day/id6443412722
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: All-in-one calendar, to-do, habit, notes, and daily-planning app positioned for users who need help remembering and organizing tasks.

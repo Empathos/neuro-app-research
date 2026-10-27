@@ -798,3 +798,53 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Caregiver diary and insight-report app for neurodivergent children. Supports pattern tracking, medical-appointment preparation, medication monitoring, and contributions from partners, teachers, carers, and grandparents.
+
+### My JAKE
+
+- URL: https://mental.jmir.org/2019/3/e11365/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-27
+- Description: Mobile and web mHealth app in the Janssen Autism Knowledge Engine that enables caregivers and clinicians to log symptoms, treatments, activities, medical information, and progress.
+
+### Trayt Health
+
+- URL: https://play.google.com/store/apps/details?id=com.avamobile&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Caregiver and clinician-oriented tracking app for autism, ADHD, and related conditions that measures symptom intensity, frequency, and duration using shared terminology.[5]
+
+### AutismBCD Caregiver
+
+- URL: https://apps.apple.com/us/app/autismbcd-caregiver/id6476941960
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Caregiver app supporting safer child drop-off and pick-up transitions at AutismBCD centers.[1]
+
+### neuroguIA Dataset
+
+- URL: https://github.com/CristhianneDeLeon/neuroguIA-dataset
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Public research repository containing aggregated results, instruments, reproducibility resources, dashboard materials, and documentation for conversational AI socioemotional-support research in neurodivergent contexts.[10]
+
+### Gentle Journeys
+
+- URL: https://apps.apple.com/us/app/gentle-journeys/id6788490807
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-27
+- Description: Personalized autism-support app for routines and social stories, designed for use by parents, therapists, BCBAs, speech pathologists, teachers, and clinicians.[9]
