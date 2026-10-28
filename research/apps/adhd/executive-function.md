@@ -918,3 +918,13 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Reference page documenting the published peer-reviewed research used for educational and self-help content in an ADHD support app.[5]
+
+### Executive Function Toolkit
+
+- URL: https://github.com/sundial-org/awesome-openclaw-skills/blob/b80cde2ef85241dd4fd54a1b934f5e22835f78ba/skills/adhd-daily-planner/references/executive-function-toolkit.md?plain=1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Public Markdown toolkit of practical strategies and tools for managing ADHD-related executive-function challenges.

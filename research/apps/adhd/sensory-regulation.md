@@ -878,3 +878,53 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Android daily planner and focus toolkit designed specifically for ADHD users.
+
+### ADHD Brain
+
+- URL: https://apps.apple.com/pl/app/adhd-brain/id6766603877
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: ADHD focus and sensory-relaxation app with focus timers, calming sounds, sound therapy, visual relaxation, sensory activities, notes, and routine support.
+
+### AuraMind: ADHD Focus & Calm
+
+- URL: https://apps.apple.com/br/app/auramind-adhd-focus-calm/id6759300425?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Personalized ADHD focus and calming toolkit featuring layered soundscapes, breathing exercises, grounding, brain-dump prompts, task breakdown, and a planner.
+
+### ADHD ASD Focus Games
+
+- URL: https://apps.apple.com/us/app/adhd-asd-focus-games/id6757264114
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Collection of focus and regulation games for ADHD, autism, and AuDHD, including breathing, sorting, memory, puzzles, and calm visual activities.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/by/app/stim-adhd-sensory-calm/id6758910859
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: App Store lead for an ADHD sensory-calming tool focused on stimulation and regulation support.
+
+### Sensory Diary: Regulation App
+
+- URL: https://play.google.com/store/apps/details?id=com.kindred.connect&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Android app for autistic and ADHD users offering emotion tracking, social-battery ratings, sensory pattern insights, grounding tools, communication phrases, and offline use.

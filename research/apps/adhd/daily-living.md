@@ -948,3 +948,13 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Hyperlinked PDF planner with ADHD-focused templates, usable in annotation apps such as Goodnotes, Notability, Xodo, or Samsung Notes.
+
+### ADHD GitHub Topics
+
+- URL: https://github.com/topics/adhd?l=kotlin
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Public GitHub topic page listing ADHD-related repositories, including task managers, app blockers, focus tools, routines, reminders, and time-visualization projects.

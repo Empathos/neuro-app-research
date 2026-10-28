@@ -1228,3 +1228,43 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: A vocabulary-learning app for neurodivergent learners, with interactive receptive-vocabulary education intended for school and home use.
+
+### Lexy - Smart Literacy Learning
+
+- URL: https://apps.apple.com/us/app/lexy-smart-literacy-learning/id1564885095?l=vi
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Adaptive literacy tutor for children with dyslexia, ADHD, or reading challenges, using interactive practice, voice feedback, and personalized sessions.
+
+### Kaboose
+
+- URL: https://www.kaboose.app/features/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Neurodivergent support platform offering community, practical learning, events, and resources for ADHD, autism, executive dysfunction, and inclusive education.
+
+### ADHD Study Coach Research
+
+- URL: https://github.com/itsAalaa7/adhd-study-coach/blob/main/RESEARCH.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Repository research documentation for an ADHD study coach focused on reducing barriers to established study methods.
+
+### ADHD STEM Outcomes Causal Fairness Analysis
+
+- URL: https://github.com/AliceAii/ADHD_STEM-Outcomes_Causal-Fairness-Analysis
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Research repository analyzing ADHD-related disparities in high-school STEM GPA and science identity using causal fairness methods.

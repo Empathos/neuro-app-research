@@ -1009,3 +1009,33 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-24
 - Description: AAC communication board supporting picture tiles, typed messages, text-to-speech, hands-free head tracking, and synchronization across Apple devices.
+
+### i-have-adhd
+
+- URL: https://github.com/ayghri/i-have-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source skill for coding agents that shapes responses for ADHD users through action-first answers, numbered steps, reduced tangents, state reminders, and visible progress.
+
+### ADHD Copilot
+
+- URL: https://github.com/dsx0511/adhd-copilot
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source Claude Code custom skill designed as an ADHD-friendly companion assistant for navigating daily challenges and supporting cognitive monitoring during research sessions.
+
+### Claude Code ADHD Skills
+
+- URL: https://github.com/Citability/claude-code-adhd-skills
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: MIT-licensed collection of Claude Code skills intended to address ADHD-related executive-function gaps for developers, with no installer or external dependencies.
