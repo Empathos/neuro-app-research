@@ -788,3 +788,53 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: App Store listing describing visual routines, AI planning, reminders, focus tools, and accessibility support including VoiceOver, Voice Control, larger text, and a dark interface.
+
+### Focus Sprout ADHD Design Documentation
+
+- URL: https://github.com/maribeiromendes/focussprout/blob/main/docs/ADHD_DESIGN.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Open-source design documentation for a tool intended to provide gentle, non-judgmental support for developers with ADHD and related executive-function challenges.
+
+### Tiimo  About
+
+- URL: https://www.tiimoapp.com/about
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Official product page describing Tiimo as an adaptive visual planning companion for ADHD, autism, and executive-function differences.
+
+### NixIt Accessibility
+
+- URL: https://www.nixit.ai/accessibility
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Neurodivergent-oriented executive-function support platform usable by text or browser, with keyboard navigation, screen-reader labels, reduced-motion support, and Lexend font.
+
+### Tokai  GitHub
+
+- URL: https://github.com/ICUnit/Tokai
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source neurodivergent productivity suite combining cognitive metrics, an AI task planner, and a focus-aware task manager.
+
+### ICUnit GitHub Sponsors  Tokai
+
+- URL: https://github.com/sponsors/ICUnit
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Public project page for Tokai, an open-source productivity app focused on neurodivergent users, AI assistance, and adaptive task management.

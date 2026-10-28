@@ -414,3 +414,33 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Public repository index featuring neurodivergent productivity and focus tools, including adaptive task planners, cognitive-metric projects, and distraction-free workspaces.
+
+### Thruday Visual Planner & Todos
+
+- URL: https://apps.apple.com/au/app/thruday-visual-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Visual routines, task breakdown, reminders, mood tracking, printable schedules, communication cards, and shared support for parents, carers, support workers, education, and supported living.
+
+### FunctionApp
+
+- URL: https://www.f6s.com/software/functionapp
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Routine-based mobile support intended to reduce cognitive load for people with executive-function challenges such as ADHD and autism, including use by caregivers and professionals.
+
+### Thruday Visual Daily Planner
+
+- URL: https://apps.apple.com/ca/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Daily-planning app supporting executive function, time blindness, visual schedules, care routines, family planning, and carer support.

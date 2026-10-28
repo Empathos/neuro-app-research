@@ -598,3 +598,33 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Public educational resource outlining common emotion-regulation responses and support approaches for teachers and other support people.
+
+### Play Attention
+
+- URL: https://www.playattention.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Commercial neurofeedback and cognitive-training program for children and adults with ADHD, emphasizing focus, self-regulation, memory, and executive-function performance.
+
+### Verve: ADHD Coach for Adults
+
+- URL: https://apps.apple.com/jp/app/verve-adhd-coach-for-adults/id6773138875?l=en-US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Research-grounded ADHD coaching app with lessons and tools addressing executive function, emotional regulation, time blindness, self-compassion, and rejection sensitivity.[1]
+
+### DOSE  ADHD In-the-Moment Support
+
+- URL: https://www.getdose.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Self-guided support tool for adults with ADHD, offering in-the-moment tools for emotional overwhelm, rejection sensitivity, racing thoughts, focus, and executive-function challenges.[3]

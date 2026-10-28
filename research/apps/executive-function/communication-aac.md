@@ -818,3 +818,33 @@
 - Query: executive-function communication-aac neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Executive-function assistant for neurodivergent college students, supporting task breakdown, prioritization, scheduling, and follow-through.
+
+### Adaptive Executive Function Tasks
+
+- URL: https://github.com/ThipkanlayaJaiaue/adaptive-executive-function-tasks
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Public PsychoPy repository containing five executive-function tasks with varied task versions, executive-function load, and adaptive pacing for research use.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://toolbox.marketingtools.apple.com/en-us/app-store/us/app/1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Neurodivergent-focused visual planner with AI-assisted task planning, color-coded schedules, focus timers, prioritization, and calendar synchronization.
+
+### Sprout - Smart ADHD Task App
+
+- URL: https://play.google.com/store/apps/details?id=com.sproutapp.sprout&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Android planner and task manager designed around executive dysfunction, time blindness, decision fatigue, reminders, and organization challenges.

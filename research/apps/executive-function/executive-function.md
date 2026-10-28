@@ -668,3 +668,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Open-source day planner for ADHD users that organizes tasks by necessity, accounts for energy and feelings, and uses an LLM to create flexible daily plans.
+
+### GitHub ADHD Topic
+
+- URL: https://github.com/topics/adhd?l=python&o=desc&s=stars
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Public repository directory containing ADHD-related projects, including locally hosted tools for executive dysfunction, autism, AuDHD, prioritization, and task organization.
