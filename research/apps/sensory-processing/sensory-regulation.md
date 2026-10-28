@@ -558,3 +558,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Regulation app for ADHD, autistic, and other neurodivergent users, with modes for spiraling, shutdown, rage, sensory overload, and being stuck.[6]
+
+### Neurodivergent Resources: Sensory Accommodations
+
+- URL: https://github.com/brianamarie/neurodivergent-resources/blob/main/sensory-accommodations.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Public GitHub resource documenting sensory accommodations for neurodivergent people; useful as a research and intervention-design reference.

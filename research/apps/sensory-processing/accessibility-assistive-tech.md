@@ -608,3 +608,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Community-driven web accessibility resource providing documentation, design guidance, and practical principles for building products that accommodate diverse sensory and motor needs.
+
+### Neosensory GitHub Organization
+
+- URL: https://github.com/neosensory
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Official repositories from Neosensory, including an Android Java SDK for controlling sensory-expansion devices over Bluetooth Low Energy.
+
+### openhear
+
+- URL: https://github.com/ljbudgie/openhear
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source research platform that converts audiograms into accessible records and vibration patterns for a wristband, with opt-in autism and sensory-processing accessibility profiles.

@@ -788,3 +788,13 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Open-source Obsidian plugin documentation describing neurodivergent-oriented accessibility features, including reduced motion, high contrast, keyboard navigation, predictable layouts, and sensory considerations.
+
+### Sensory Resources for Mental and Behavioral Health
+
+- URL: https://mhsis.aota.org/wp-content/uploads/2026/07/AOTA_MHSIS_Sensory_Resources_Guide_June_2026.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: An occupational-therapy resource guide addressing sensory processing, regulation, neurodivergence, and collaboration with individuals, families, caregivers, and interdisciplinary teams.

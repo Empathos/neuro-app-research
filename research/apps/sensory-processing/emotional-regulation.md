@@ -478,3 +478,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-23
 - Description: Public resource platform with guides on sensory profiles, transitions, emotional regulation, preparing for new environments, and advocacy.[10]
+
+### Sensory Speech-to-Text
+
+- URL: https://github.com/Sensory/sensory-on-device-asr/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Public GitHub documentation for on-device speech recognition targeting Android and embedded hardware; relevant as an accessibility and communication technology lead.[9]
