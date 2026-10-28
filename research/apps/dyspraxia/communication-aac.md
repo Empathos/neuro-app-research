@@ -1138,3 +1138,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Customizable AAC app for iPhone and iPad using symbol-based sentence construction and text-to-speech; supports autism, cerebral palsy, aphasia, apraxia, and speech delays.
+
+### Speech Assistant AAC on the App Store
+
+- URL: https://apps.apple.com/mx/app/speech-assistant-aac/id1139762358?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Text-to-speech communication app supporting saved phrases and custom categories for people with autism, aphasia, ALS, stroke, cerebral palsy, and other speech difficulties.
+
+### AAC Tools and Apps  AT Help Desk
+
+- URL: https://athelpdesk.org/category/apps/aac/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Public AAC resource category covering communication apps for users with autism, neurological conditions, developmental delays, dyspraxia, and related communication needs.

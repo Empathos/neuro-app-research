@@ -728,3 +728,53 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Public resource from the Dyspraxia App team containing dyspraxia-related information, tips, and community material.
+
+### Motor Development and Impact Lab Resources
+
+- URL: https://www.surrey.ac.uk/motor-development-and-impact-lab/resources-and-events
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: University resource hub offering dyspraxia materials for families, educators, and healthcare professionals, including recommended apps for DCD-related challenges.
+
+### Do-IT Dyspraxia/DCD Profiler
+
+- URL: https://doitprofiler.com/personal-profilers/dyspraxia-dcd/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Browser-based evidence-informed dyspraxia/DCD screener that generates a shareable report with strengths, challenges, practical guidance, and resource links.
+
+### Dyspraxia Magazine
+
+- URL: https://www.dyspraxiamagazine.com/pages/about-us
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Neurodivergent-led support and information platform for individuals and families, with research-oriented resources and opportunities related to dyspraxia studies.
+
+### DyGAN: Generative Adversarial Network for Reproducing Handwriting Affected by Dyspraxia
+
+- URL: https://thesai.org/Downloads/Volume16No2/Paper_22-DyGAN_Generative_Adversarial_Network.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Research paper describing a computational handwriting-related dyspraxia project and connecting it with digital assessment and training approaches.
+
+### Thruday: ADHD Planner
+
+- URL: https://apps.apple.com/hk/app/thruday/id1645552771?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Collaborative visual planner for neurodivergent people, families, and carers, with shared schedules, routine building, and mood tracking. Its listed coverage includes dyspraxia.

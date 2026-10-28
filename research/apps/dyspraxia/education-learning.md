@@ -828,3 +828,33 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Digital study platform with accessible ebooks, read-aloud support, customizable display settings, summaries, AI study notes, quizzes, and flashcards.
+
+### NeuroVista Dataset
+
+- URL: https://github.com/SiluniKannagara/neurovista-dataset
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Public GitHub dataset for assessing cognitive web accessibility with a focus on neurodivergent user needs; potentially useful for accessibility and education-support research.
+
+### Magrid - Excellence in Math
+
+- URL: https://play.google.com/store/apps/details?id=lu.magrid&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Visual, language-free learning program for children, with activities targeting working memory, visual-spatial skills, numeracy, eye-hand coordination, and other foundations relevant to dyspraxia and special educational needs.
+
+### Kaboose Features
+
+- URL: https://www.kaboose.app/features/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Official feature documentation describing short learning modules, worksheets, checklists, templates, conversation tools, and resources for inclusive learning environments.
