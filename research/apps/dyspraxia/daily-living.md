@@ -548,3 +548,43 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Android app using social narratives, picture schedules, visual timers, token boards, and first/then charts to break daily-living tasks into manageable steps.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/fi/app/beats-medical-dyspraxia-app/id1194965395?platform=watch
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, covering gross motor, fine motor, speech, and communication skills, including task-oriented activities relevant to daily life.[2]
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/ca/app/make-a-choice-aac-buttons/id1295966224
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Configurable AAC choice-board tool designed with speech-pathology input; large buttons and spoken or recorded responses support people with motor difficulties and dyspraxia.[9]
+
+### Dyslexia Web Browser
+
+- URL: https://apps.apple.com/us/app/dyslexia-web-browser/id1085601190
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Accessible web browser designed for users with dyslexia, dyspraxia, migraines, visual stress, or difficulty reading standard web pages.[6]
+
+### Speech Therapy Apraxia Words
+
+- URL: https://apps.apple.com/us/app/speech-therapy-apraxia-words/id1632778694?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Speech-practice app for children with childhood apraxia or dyspraxia, adults with apraxia, therapists, and parents; it provides word-level articulation exercises.[5]

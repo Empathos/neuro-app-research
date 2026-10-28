@@ -498,3 +498,23 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: App Store tool picker with dedicated Focus, Restorative, and Emotional Regulation modes, step-by-step activities, timers, and records of helpful tools.
+
+### NeuJoi
+
+- URL: https://neujoi.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Wellness-support tool for autistic, ADHD, AuDHD, dyslexic, and other neurodivergent users, including grounding exercises, emotion-identification support, and tools for moments of overwhelm.
+
+### Neurora  ADHD Emotional Regulation and Nervous System Reset
+
+- URL: https://getneurora.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Neurodivergent-focused tool providing 15-minute sessions intended to reduce cognitive overload and support nervous-system regulation.

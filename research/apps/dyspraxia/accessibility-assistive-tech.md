@@ -598,3 +598,23 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Public GitHub organization page containing accessibility-focused repositories and learning resources relevant to assistive-technology research.
+
+### GitHub Dyspraxia Topic
+
+- URL: https://github.com/topics/dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Public repository topic page listing dyspraxia-related projects, including a neurodivergent communication adapter intended to shift adaptation work from users to AI systems.[8]
+
+### Inclusive-AI-App
+
+- URL: https://github.com/poxaIan/Inclusive-AI-App
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source application that uses AI to rewrite complex text into more accessible language for neurodivergent users.
