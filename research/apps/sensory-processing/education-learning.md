@@ -928,3 +928,13 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Inclusive interactive learning system pairing an app with physical interactive devices to develop cognitive, motor, social, and emotional skills for neurodiverse learners, including autistic and ADHD learners.[8]
+
+### Happy Place: Learn & Play
+
+- URL: https://apps.apple.com/in/app/happy-place-learn-play/id6770545640
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Childrens learning app with games, flashcards, videos, rewards, and a Calm Corner featuring breathing, mood, sound, and regulation activities; designed to accommodate sensory-processing differences.

@@ -489,16 +489,6 @@
 - Found: 2026-10-16
 - Description: Open-source AI-powered virtual executive team project built with FastAPI and Next.js; a repository lead for exploring automated planning and executive-support tools.
 
-### Inflow
-
-- URL: https://clinicalaireport.com/articles/best-ai-adhd-app
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: education-learning
-- Query: executive-function education-learning neurodivergent app research pass 502
-- Found: 2026-10-16
-- Description: ADHD-focused educational and self-management app lead combining learning modules on executive function, time blindness, emotional regulation, and rejection sensitivity with practical daily strategies.
-
 ### Nura XR
 
 - URL: https://www.f6s.com/software/category/adhd-digital-therapeutic

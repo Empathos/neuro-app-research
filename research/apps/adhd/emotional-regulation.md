@@ -909,16 +909,6 @@
 - Found: 2026-10-20
 - Description: Open-source journaling tool designed for neurodivergent users, emphasizing simple emotional processing, reflection, and reduced cognitive overload.
 
-### NdCare Hub
-
-- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: emotional-regulation
-- Query: adhd emotional-regulation neurodivergent app research pass 501
-- Found: 2026-10-21
-- Description: Neuro-affirming emotional-regulation app for ADHD and AuDHD, with grounding sequences, somatic resets, sensory stabilization, routines, education, and support for emotional flooding or shutdown.
-
 ### Outspiral
 
 - URL: https://outspiral.app/blog/best-adhd-apps-emotional-regulation-rsd

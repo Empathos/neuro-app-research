@@ -768,3 +768,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: iOS organizer designed for neurodiverse users, with adaptive prompts and support for habits, daily tasks, sensory preferences, processing speed, focus, and executive function.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/de/app/calm-steps/id6755076182
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: App for children and caregivers supporting emotional regulation, sensory needs, routines, visual executive-function strategies, and sensory-profile tracking.

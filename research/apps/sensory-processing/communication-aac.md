@@ -798,3 +798,43 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Text-based AAC app that converts typed or preset phrases into speech for users with temporary or ongoing speech difficulties.
+
+### PRC-Saltillo Compatible Apps Documentation
+
+- URL: https://documentation.prc-saltillo.com/docs/related-app-manuals
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Official documentation hub covering AAC products including TouchChat, Unity AAC, and Dialogue AAC for people who have difficulty speaking.
+
+### AAC App Guide
+
+- URL: https://www.nccse.org/resources-and-programs/assistive-technology/aac/aac-app-guide
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Informational guide to AAC applications and assistive-technology resources for communication support.
+
+### Sensory Tools  Love Psychotherapy
+
+- URL: https://lovepsychotherapy.com/resources/sensory-tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Browser-based sensory-support tools including a sensory profile assessment, safety-plan builder, sensory workbook, burnout self-check, and workplace accommodation builder.
+
+### Neurodiversity Apps and Software Directory
+
+- URL: https://neurodiversity.directory/listing-category/neurodiversity-apps/?cred%5B0%5D=verified
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Directory of verified neurodiversity apps covering AAC and communication boards, text-to-speech, sensory regulation, visual schedules, and routine support.
