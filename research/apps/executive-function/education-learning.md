@@ -489,16 +489,6 @@
 - Found: 2026-10-16
 - Description: Open-source AI-powered virtual executive team project built with FastAPI and Next.js; a repository lead for exploring automated planning and executive-support tools.
 
-### Inflow
-
-- URL: https://clinicalaireport.com/articles/best-ai-adhd-app
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: education-learning
-- Query: executive-function education-learning neurodivergent app research pass 502
-- Found: 2026-10-16
-- Description: ADHD-focused educational and self-management app lead combining learning modules on executive function, time blindness, emotional regulation, and rejection sensitivity with practical daily strategies.
-
 ### Nura XR
 
 - URL: https://www.f6s.com/software/category/adhd-digital-therapeutic
@@ -758,3 +748,43 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Preprint presenting a data-driven analysis of executive-function profiles in a transdiagnostic sample of 566 neurodivergent children.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/no/app/goblin-tools-autism-pal-to-do/id1527180714
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: A productivity app for neurodivergent users that breaks overwhelming tasks into manageable steps, estimates time, and supports executive-function challenges.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/us/app/the-adhd-executive/id6749107142?l=zh-Hans-CN
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: An educational productivity app offering short daily insights, practical challenges, reminders, reflection notes, and habit tracking for ADHD-related executive-function support.
+
+### ADHD Brain Train
+
+- URL: https://apps.apple.com/fr/app/adhd-brain-train/id6792343689?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: An educational game app with short activities targeting attention, working memory, flexible thinking, response control, visual processing, planning, and problem-solving.
+
+### A(rDx)HD
+
+- URL: https://play.google.com/store/apps/details?id=com.ardxhd.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: An Android cognitive assessment and education platform covering attention, memory, executive function, ADHD information, coping strategies, and interactive cognitive activities.

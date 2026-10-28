@@ -617,16 +617,6 @@
 - Found: 2026-10-22
 - Description: Neurodivergent-friendly focus ecosystem featuring a short intermission activity, sensory particles, affirmations, and focus-support concepts.
 
-### NdCare Hub
-
-- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: sensory-regulation
-- Query: executive-function sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-24
-- Description: Daily support app for neurodivergent users with routines, emotional regulation, sensory stabilization, grounding sequences, somatic resets, and executive-function support.[10]
-
 ### Luna
 
 - URL: https://github.com/LunaCrew
@@ -686,3 +676,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Public GitHub developer profile featuring neurodivergent-oriented apps and projects, including tools intended to support divergent thinking and creative workflows.
+
+### Inclusive-AI-App
+
+- URL: https://github.com/poxaIan/Inclusive-AI-App
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Open-source app that rewrites complex text into more accessible language, aimed especially at autistic and ADHD users.
+
+### Fluid
+
+- URL: https://www.littlepuddins.ie/occupational-therapy/apps-for-autism-wellbeing
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Interactive visual sensory-regulation app using touch-responsive flowing patterns to support grounding, calming, and focus.
