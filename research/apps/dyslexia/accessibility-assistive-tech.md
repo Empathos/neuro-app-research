@@ -408,3 +408,33 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Trinity College Dublin resource describing Read&Write for dyslexia and reading or writing difficulties, with read-aloud, spell checking, word prediction, and scanning functions.
+
+### ClearPath
+
+- URL: https://github.com/clearpath-ext
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Open-source browser accessibility tools for AAC users, people with dyslexia, cognitive disabilities, and others. Features include reading mode, text simplification, read-aloud support, and AAC symbol overlays.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/nz/app/dyslexiabuddy/id1565832172
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: iOS app that converts printed, PDF, and on-screen text into accessible reading and audio, with dyslexia-friendly fonts, adjustable colors, line spacing, and text size.
+
+### Dyslexia Help Reading, Spelling, and Writing Programs
+
+- URL: https://dyslexiahelp.umich.edu/tools/reading-programs/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: University resource focused on reading, spelling, and writing programs for people with dyslexia and language disabilities, with links to intervention and technology resources.

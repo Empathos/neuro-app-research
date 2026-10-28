@@ -458,3 +458,13 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Danish web app and Chrome extension described as supporting everyday reading and writing for people with dyslexia through explained corrections, read-aloud feedback, document questions, translation, and email drafting.
+
+### Dyslexia Steps
+
+- URL: https://github.com/Dyslexia-Steps
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Public organization containing free phonics and sight-word data, a browser screening and reading-practice site, an MCP server, and embeddable reading games.

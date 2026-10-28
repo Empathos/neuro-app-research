@@ -598,3 +598,53 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Apple App Store collection of accessibility and productivity tools for dyslexia, including Voice Dream Reader, Audible, and Grammarly.
+
+### Lighthouse Centre
+
+- URL: https://apps.apple.com/qa/app/lighthouse-centre/id6761293292
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Arabic-English dyslexia support app offering screening, Orton-Gillingham-based learning plans, and a school-and-parent portal for coordinated support.
+
+### Dyslexia Screening Test App
+
+- URL: https://apps.apple.com/us/app/dyslexia-screening-test-app/id965779828
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Screening app for users aged 7 to 70 that assesses dyslexia-associated processing and reading traits and provides individualized results, recommendations, and referral guidance.
+
+### Winlexia
+
+- URL: https://winlexia.org/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Neurodiversity resource platform connecting individuals and families with dyslexia-related schools, IEP advocacy, legal information, college support, and career resources.
+
+### EarlyBird Reading Disability Screening App
+
+- URL: https://heckscherfoundation.org/grantee/earlybird-dyslexia-reading-disability-screening-app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Research-validated mobile screening platform for early dyslexia indicators, designed to support young children and provide teachers with customized action plans and resources.
+
+### DysScreen
+
+- URL: https://e-journal.uum.edu.my/index.php/jdsd/article/view/24681
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Published research lead describing a multilingual mobile dyslexia-screening application for children aged 49, with features intended for parents, guardians, and educators.

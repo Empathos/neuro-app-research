@@ -338,3 +338,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Open-source AI reading aid using text-to-speech to support people with dyslexia, color blindness, and other reading difficulties.
+
+### Dyslexia Scotland Assistive Technology Guide
+
+- URL: https://dyslexiascotland.org.uk/wp-content/uploads/2025/05/assistive-technology.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Public guide covering free and low-cost apps for dyslexia-related reading, writing, numeracy, and organization support, including references to EduApps and CALL Scotland's Wheel of Apps.[8]
+
+### BeatBop: Interactive Metronome
+
+- URL: https://apps.apple.com/us/app/beatbop-interactive-metronome/id6753838813?l=vi
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Interactive rhythm-training app aimed at neurodivergent children and teens, including users with dyslexia and sensory-processing challenges; supports timing, coordination, attention, and self-regulation.[8]

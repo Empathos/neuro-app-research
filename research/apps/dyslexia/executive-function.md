@@ -608,3 +608,33 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Keyboard and proofreading tool designed to help people with dyslexia or dysgraphia write, correct, and review English text.
+
+### Dyslexim
+
+- URL: https://github.com/rohankishore/Dyslexim
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source PyQt6 web browser designed to make internet use more accessible for people with dyslexia.
+
+### DyslexiaFriendly Chrome Extension
+
+- URL: https://github.com/javoire/dyslexia-friendly
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source Chrome extension with dyslexia-friendly fonts, paragraph shading, and a cursor-following vertical reading ruler.
+
+### All in One Accessibility for Wagtail
+
+- URL: https://github.com/skynettechnologies/wagtail-all-in-one-accessibility
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Wagtail accessibility plugin offering interface adjustments intended to support dyslexia, cognitive and learning impairments, ADHD, and other accessibility needs.

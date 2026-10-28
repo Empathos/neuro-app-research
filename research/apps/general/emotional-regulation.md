@@ -509,16 +509,6 @@
 - Found: 2026-10-19
 - Description: An emotional-regulation and behavioral-support app for children ages 412, including children with ADHD, autism, and sensory needs; it supports naming and navigating emotions.
 
-### NdCare Hub
-
-- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
-- Source: perplexity-sonar
-- Condition: general
-- Support category: emotional-regulation
-- Query: general emotional-regulation neurodivergent app research pass 501
-- Found: 2026-10-21
-- Description: Neuro-affirming emotional-regulation app offering tools for overwhelm, shutdown, spiralling, emotional flooding, rejection sensitivity, burnout, grounding, somatic resets, sensory stabilisation, and breathing.
-
 ### Clear Fear
 
 - URL: https://www.clearfear.co.uk/
