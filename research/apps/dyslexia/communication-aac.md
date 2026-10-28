@@ -418,3 +418,13 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Voice-first ADHD and dyslexia study companion designed to reduce text fatigue and cognitive overload through short explanations, spoken audio, and dyslexia-accessible presentation.
+
+### Innovative Technology to Support the Learning of Students with Dyslexia
+
+- URL: https://link.springer.com/chapter/10.1007/978-3-032-19760-3_34
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Systematic literature review lead focused on innovative technology for dyslexia, including reading-assistant applications such as Augmenta11y.

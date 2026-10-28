@@ -428,3 +428,43 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Research-described gamified mobile app for Sinhala-speaking learners with dyslexia, targeting phonological awareness, word recognition, and reading comprehension.
+
+### ERIC Dyslexia Research Search
+
+- URL: https://eric.ed.gov/?pr=on&q=dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Education research database search focused on dyslexia, including studies of teacher training, online learning, and inclusive education.
+
+### A Study on Using ChatGPT to Help Students with Dyslexia Learn Chinese and English Writing
+
+- URL: https://repository.eduhk.hk/en/publications/a-study-on-using-chatgpt-to-help-students-with-dyslexia-learn-chi/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: EdUHK repository record for research on a ChatGPT-assisted writing system designed to support students with dyslexia and examine writing performance and learning engagement.
+
+### The Social Impact of Schooling on Students with Dyslexia
+
+- URL: https://research-repository.uwa.edu.au/en/publications/the-social-impact-of-schooling-on-students-with-dyslexia-a-system/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: University of Western Australia repository record for a systematic review of qualitative research on dyslexic students primary and secondary education experiences.
+
+### Supporting Irish Teachers Knowledge of Dyslexia
+
+- URL: https://doras.dcu.ie/32084/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: DCU repository record for a project developing free, evidence-based online resources to improve teachers knowledge of dyslexia.

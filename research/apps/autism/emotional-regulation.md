@@ -759,16 +759,6 @@
 - Found: 2026-10-22
 - Description: Systematic review of 25 studies covering emotion-regulation supports for autistic children, including behavioral approaches, interoception therapy, physical activity, and app-related interventions.
 
-### NdCare Hub  Neuro-Affirming Emotional Regulation App
-
-- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: emotional-regulation
-- Query: autism emotional-regulation neurodivergent app research pass 501
-- Found: 2026-10-23
-- Description: Daily support app for neurodivergent users combining emotional-regulation tools, education, routines, sensory stabilization, and AI-guided support.
-
 ### Molehill Mountain
 
 - URL: https://autistica.org.uk/molehill-mountain
