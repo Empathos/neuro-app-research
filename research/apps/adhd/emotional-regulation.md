@@ -909,16 +909,6 @@
 - Found: 2026-10-20
 - Description: Open-source journaling tool designed for neurodivergent users, emphasizing simple emotional processing, reflection, and reduced cognitive overload.
 
-### NdCare Hub
-
-- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: emotional-regulation
-- Query: adhd emotional-regulation neurodivergent app research pass 501
-- Found: 2026-10-21
-- Description: Neuro-affirming emotional-regulation app for ADHD and AuDHD, with grounding sequences, somatic resets, sensory stabilization, routines, education, and support for emotional flooding or shutdown.
-
 ### Outspiral
 
 - URL: https://outspiral.app/blog/best-adhd-apps-emotional-regulation-rsd
@@ -1128,3 +1118,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: An eight-week blended intervention combining group sessions with a digital companion app hosted on the Youwell eHealth platform and based partly on DBT skills and positive psychology.
+
+### Bonding Health: ADHD Calm
+
+- URL: https://apps.apple.com/fr/app/bonding-health-adhd-calm/id1611980187?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: ADHD emotional-regulation app offering 1560-second audio resets, mood and symptom tracking, and tools for overwhelm, burnout, irritability, and motivation crashes.[1]
+
+### DOSE
+
+- URL: https://www.getdose.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-28
+- Description: Self-guided ADHD support tool for emotional overwhelm, rejection sensitivity experiences, racing thoughts, focus, and executive-function challenges, with dedicated in-the-moment tools.[10]

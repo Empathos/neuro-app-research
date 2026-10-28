@@ -617,16 +617,6 @@
 - Found: 2026-10-22
 - Description: Neurodivergent-friendly focus ecosystem featuring a short intermission activity, sensory particles, affirmations, and focus-support concepts.
 
-### NdCare Hub
-
-- URL: https://www.theneuroinclusionproject.co.uk/nd-care/nd-care-hub-app/
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: sensory-regulation
-- Query: executive-function sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-24
-- Description: Daily support app for neurodivergent users with routines, emotional regulation, sensory stabilization, grounding sequences, somatic resets, and executive-function support.[10]
-
 ### Luna
 
 - URL: https://github.com/LunaCrew

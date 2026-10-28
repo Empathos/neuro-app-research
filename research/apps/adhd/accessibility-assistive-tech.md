@@ -718,3 +718,23 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: ADHD support app offering structured executive-function resources, CBT-based micro-lessons, skill-building exercises, meditations, journaling, mood and productivity tracking, and community features.
+
+### FocusLab
+
+- URL: https://github.com/learnwithcc/focuslab
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: Open-source neurodivergent-friendly developer tool project emphasizing ADHD-friendly workflows, WCAG-oriented accessibility, screen-reader support, keyboard navigation, contrast, and reduced motion.
+
+### NeuroHub
+
+- URL: https://apps.apple.com/ar/app/neurohub/id1621792528?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-28
+- Description: App for finding and rating autism-accessible or sensory-friendly places, with an interactive map and customized venue search.
