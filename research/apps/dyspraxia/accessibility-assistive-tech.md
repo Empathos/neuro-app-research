@@ -618,3 +618,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Open-source application that uses AI to rewrite complex text into more accessible language for neurodivergent users.
+
+### Dystant Galaxy Dyspraxia App
+
+- URL: https://beatsmedical.com/handwriting-tips-for-children-with-dyspraxia/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Handwriting-support app described as offering evidence-based, gamified exercises for letter formation and handwriting practice on Apple and Android devices.

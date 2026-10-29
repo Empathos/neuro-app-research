@@ -728,3 +728,23 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Neurodivergent-focused organization app with task breakdown, weekly planning, reminders, shopping lists, notes, mood tracking, and energy tracking; explicitly includes learning-disorder support.
+
+### Dopamind: Everyday AI Partner
+
+- URL: https://apps.apple.com/us/app/dopamind-everyday-ai-partner/id6747915249
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: App Store listing for an AI planner intended for neurodivergent users, emphasizing executive-function assistance and daily planning.[8]
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/se/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: App Store listing for Tiimo with visual routines, gentle reminders, AI-assisted planning, task prioritization, focus timing, and calendar integration.[10]
