@@ -508,3 +508,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-25
 - Description: Awareness and informational app developed by the AIST Foundation for Tourette syndrome, reported as available through Google Play and the Apple App Store.[5]
+
+### FocusWaves
+
+- URL: https://apps.apple.com/us/app/focuswaves/id6748599970
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Neurodivergent-oriented productivity app offering sensory-friendly design, customizable reminders, voice commands, screen-reader compatibility, and accessibility-focused features.

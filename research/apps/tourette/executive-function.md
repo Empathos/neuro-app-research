@@ -918,3 +918,13 @@
 - Query: tourette executive-function neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Public clinical-trial resource maintained by the Tourette Association of America for research studies aimed at improving quality of life for people affected by Tourette syndrome.
+
+### Dopamind: Everyday AI Partner
+
+- URL: https://apps.apple.com/us/app/dopamind-everyday-ai-partner/id6747915249
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: App Store listing for an AI planning and follow-through assistant marketed for neurodivergent users, including executive-function support and task breakdown.

@@ -838,3 +838,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: Picture Exchange Communication app with visual vocabulary categories, sentence building, and built-in text-to-speech; intended for children and adults who use AAC.[7]
+
+### Neurodivergence Support App Research
+
+- URL: https://research.empathos.ai/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Publicly organized research directory of apps, tools, repositories, and support resources, including a Tourette-focused collection of leads.
