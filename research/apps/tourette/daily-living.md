@@ -438,3 +438,13 @@
 - Query: tourette daily-living neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: JMIR research publication examining how adults use digital tools, including apps for mental health and wellness, in relation to neurodivergent support needs.
+
+### Thruday  Stockport Council Directory
+
+- URL: https://www.stockport.gov.uk/directories/entry/thruday
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public service listing describing Thrudays visual routines, to-do lists, printable schedules, communication cards, shared carer access, mood tracking, and supported-living use.

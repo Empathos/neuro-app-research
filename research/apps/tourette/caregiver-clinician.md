@@ -748,3 +748,63 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Desktop accessibility tool that uses speech transcription and profanity detection to censor offensive language in recordings or microphone input, including use cases involving coprolalia.
+
+### ASTON  Advanced Screening Tool for Observable Neurodivergence
+
+- URL: https://www.astonax.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Clinician-run digital screening tool for ages 417 that combines structured observations from caregivers, teachers, and young people into a profile to support referral and assessment planning.
+
+### ESSENCE-D
+
+- URL: https://www.gu.se/en/news/new-digital-tool-aims-to-transform-how-neurodivergence-is-identified
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Caregiver questionnaire and clinician dashboard designed to map broad neurodevelopmental traits and support multidisciplinary assessment without providing a diagnosis.
+
+### TicTrainer
+
+- URL: https://www.movementdisorders.org/MDS/Application-Repository/TicTrainer
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Digital tic-training tool using game-like rewards, tic-frequency tracking, and tic-suppression measures. Supports patient, caregiver, and research-study personnel interfaces.
+
+### ORBIT: Online Remote Behavioural Intervention for Tics
+
+- URL: https://www.nice.org.uk/guidance/htg748/chapter/2-The-technologies
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Clinician-supported online behavioral intervention for children and young people ages 917 with chronic tic disorders or Tourette syndrome. Includes psychoeducation, parent and carer support, functional analysis, and exposure-and-response-prevention tasks.
+
+### NICE Digital Therapy Guidance for Chronic Tic Disorders and Tourette Syndrome
+
+- URL: https://www.nice.org.uk/news/articles/technology-recommended-for-people-with-chronic-tic-disorders-and-tourette-syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Public clinical guidance describing browser-based digital therapy for children and young people, including therapist support, interactive content, and caregiver involvement.
+
+### Movement Disorders Society Digital Tools and Technologies Repository
+
+- URL: https://www.movementdisorders.org/MDS/Application-Repository.htm
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Public repository of digital tools for movement disorders, including tic-tracking and tic-suppression software such as TicTrainer.
