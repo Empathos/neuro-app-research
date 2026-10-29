@@ -608,3 +608,23 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Neurodivergent self-check-in app assessing physiological, cognitive, emotional, social, behavioral, and sensory states against a user's personal baseline, with support-message generation.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/sa/app/shift-regulate-reset/id6759524862
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Crisis-regulation app designed for ADHD, autistic, and other neurodivergent users, with modes for spiraling, shutdown, anger, overwhelm, and task paralysis.
+
+### DeeDee ADHD daily helper tools
+
+- URL: https://apps.apple.com/cl/app/deedee-adhd-daily-helper-tools/id6745966602?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: ADHD support app with mood analytics, personalized exercises, breathing and relaxation practices, CBT and DBT-based emotional-regulation tools, and planning features.

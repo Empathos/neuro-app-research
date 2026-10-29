@@ -738,3 +738,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Open-source design guidance for sensory-rest features such as quiet modes, reduced notifications, lower visual contrast, interaction-density controls, and pause screens.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/us/app/autism-fidgets/id6761034020
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: iOS app with interactive sensory fidgets intended to support calm moments, focus, sensory seeking, and transitions.

@@ -798,3 +798,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Planner app for ADHD, autism, and neurodivergent users that turns large or overwhelming tasks into clearer, manageable steps.
+
+### Microsoft Immersive Reader
+
+- URL: https://www.microsoft.com/en-us/education/products/immersive-reader
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: A reading-support tool with adjustable text spacing, line focus, column width, page color, syllable breakdown, and text-to-speech features.
+
+### Participatory Toolkit: Researching Accessibility, Disability and Neurodiversity
+
+- URL: https://repository.londonmet.ac.uk/11324/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Public repository entry for a participatory research toolkit covering accessibility, disability, and neurodiversity research with disabled people.

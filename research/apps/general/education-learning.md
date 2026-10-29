@@ -838,3 +838,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Digital resource library covering neurodiversity tools, education resources, classroom supports, and product-design material for diverse learners.
+
+### OCXLY GitHub Organization
+
+- URL: https://github.com/ocxly
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public organization focused on AI, education, and neurodiversity, with projects including a neurodivergent toolkit, language-learning tools, and ADHD-focused productivity helpers.
+
+### Cognassist Adaptify
+
+- URL: https://cognassist.com/insights/resource/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Free lesson-planning tool for tutors and teaching staff that provides group-level adaptation suggestions for more inclusive learning.

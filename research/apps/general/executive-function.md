@@ -778,3 +778,13 @@
 - Query: general executive-function neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: AI work companion for neurodivergent students and professionals focused on task decomposition, prioritization, task initiation, and positive reinforcement.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/mx/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Visual planner with routines, gentle reminders, AI-assisted planning, task prioritization, and a focus timer aimed at simplifying executive-function demands.

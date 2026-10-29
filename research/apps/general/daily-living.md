@@ -579,16 +579,6 @@
 - Found: 2026-10-22
 - Description: A local, plain-text self-tracking and task-logging tool for structuring the day and tracking focus, mood, and energy for neurodivergent users.
 
-### BubbleUp
-
-- URL: https://github.com/Khatisani/BubbleUp
-- Source: perplexity-sonar
-- Condition: general
-- Support category: daily-living
-- Query: general daily-living neurodivergent app research pass 502
-- Found: 2026-10-22
-- Description: A personalized neurodivergent-friendly focus ecosystem designed to support task engagement without guilt-driven productivity mechanics.
-
 ### Tiimo: AI Planner & To-do
 
 - URL: https://apps.apple.com/by/app/tiimo-ai-planner-to-do/id1480220328
@@ -698,3 +688,33 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: iPhone and iPad planner featuring visual schedules, brain-dump task capture, Pomodoro focus sessions, executive-function support, calendar integration, and habit tracking.
+
+### Tiimo: Plan, Focus & To do
+
+- URL: https://apps.apple.com/us/app/tiimo-plan-focus-to-do/id1480220328?platform=iphone
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Visual schedule and planning app with color-coded tasks, reminders, focus timers, task breakdown, and calendar integration for ADHD, autism, and visual time-management needs.
+
+### Tiimo: Planning & Focus
+
+- URL: https://apps.apple.com/ag/app/tiimo-planning-focus/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Neurodivergent-focused planning tool offering visual routines, gentle reminders, task organization, focus sessions, and support for executive dysfunction and time blindness.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/thruday
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public service directory entry describing Thruday as an assistive-living app with visual planners, to-do lists, printable schedules, and PECS-style communication cards.
