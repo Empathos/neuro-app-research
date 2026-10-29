@@ -688,3 +688,13 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Parent-led autism support app with clinician-created lessons, caregiver education, daily progress reporting, and clinician monitoring for ABA-related support.
+
+### CR CareCompanion / CR Care360
+
+- URL: https://centralreach.com/blog/centralreach-announces-cr-care360-ai-powered-care-management-platform-and-introduces-new-caregiver-app-as-latest-innovation-in-cr-care360-suite/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Care-management platform with role-specific tools for clinicians, caregivers, RBTs, and learners; the caregiver app includes training, interactive journaling, data collection, and clinician-sharing features.

@@ -1158,3 +1158,63 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Open-source tablet AAC application with customizable communication boards and word-processing options.
+
+### TD Snap
+
+- URL: https://apps.apple.com/us/app/td-snap/id1072799231
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: AAC communication software by Tobii Dynavox for people with speech and language disabilities, including autism; supports symbol-based and text-based communication, customization, eye gaze, and switch access.
+
+### Proloquo
+
+- URL: https://apps.apple.com/ca/app/proloquo/id1521978238?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: AssistiveWare AAC app with customizable layouts and phrases, designed for users across ages and abilities who need support with spoken communication.
+
+### Otsimo AAC | Tap and Talk
+
+- URL: https://apps.apple.com/at/app/otsimo-aac-tap-and-talk/id6443643989
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Customizable AAC app offering voice output, text-to-speech, and symbol-based communication for people with autism and other speech or developmental disabilities.
+
+### Isaac AAC
+
+- URL: https://apps.apple.com/us/app/isaac-aac/id6746368688
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: AAC app featuring a large symbol library, training mode, multiple languages, voice synthesis, and predictive text for people with communication challenges.
+
+### Flexspeak AAC
+
+- URL: https://apps.apple.com/vn/app/flexspeak-aac/id6642667205
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Multilingual AAC app with symbol and photo communication, customizable vocabulary, AI prediction, remote editing, and support for nonspeaking users and people with autism.
+
+### Tiny Talk AAC
+
+- URL: https://apps.apple.com/ca/app/tiny-talk-aac/id6754395983
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: AAC tool with core-word boards, sentence strips, text-to-speech voices, and customizable tiles for children and adults with speech challenges.
