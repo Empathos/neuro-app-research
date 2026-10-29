@@ -648,3 +648,23 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: Published research lead describing a multilingual mobile dyslexia-screening application for children aged 49, with features intended for parents, guardians, and educators.
+
+### D-Lex
+
+- URL: https://dlex.uk/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Dyslexia screening and profile tool offering activities to clarify cognitive, communication, and focus patterns, with pathways toward workplace support, coaching, tools, or private assessment.
+
+### Lexy: Learning App for Neurodivergent Minds
+
+- URL: https://hubspot.dyslexia.ai/blog/meet-lexy
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Official product information describing Lexys support for phonemic awareness, phonics, fluency, vocabulary, comprehension, individualized lessons, and an integrated system for students, teachers, and parents.[3]
