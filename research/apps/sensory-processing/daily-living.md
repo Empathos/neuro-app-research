@@ -558,3 +558,23 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Open-source mobile wellness app for ADHD, autism, and dyslexia that adapts task difficulty and quantity to a user's reported mood and energy capacity.
+
+### NUROVA
+
+- URL: https://www.nurova.app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Privacy-focused app concept for anticipating sensory overload using on-device analysis of ambient light, sound, and optional wearable signals.
+
+### Willa  Neurodivergent Life-Management App
+
+- URL: https://github.com/shawnacason
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Developer repository profile describing Willa, an in-development app combining calendars, tasks, bills, and daily routines for neurodivergent users.

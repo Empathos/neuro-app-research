@@ -798,3 +798,13 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: An occupational-therapy resource guide addressing sensory processing, regulation, neurodivergence, and collaboration with individuals, families, caregivers, and interdisciplinary teams.
+
+### SensoryStrong: SPD Tracker
+
+- URL: https://play.google.com/store/apps/details?id=com.sensorystrong.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Android tracker for caregivers of children with sensory-processing differences, covering sensory domains, contexts, activities, responses, trends, and caregiver alignment.[9]

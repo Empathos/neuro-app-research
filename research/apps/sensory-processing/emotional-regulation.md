@@ -488,3 +488,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Public GitHub documentation for on-device speech recognition targeting Android and embedded hardware; relevant as an accessibility and communication technology lead.[9]
+
+### Gentle Orb
+
+- URL: https://apps.apple.com/us/app/gentle-orb/id6761980372
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Calming app for autistic and neurodivergent children using visual prompts, gentle sounds, simple interactions, and visual timers to support emotional regulation, communication, and transitions.
