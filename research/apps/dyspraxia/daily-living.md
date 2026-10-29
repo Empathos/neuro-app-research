@@ -588,3 +588,23 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Speech-practice app for children with childhood apraxia or dyspraxia, adults with apraxia, therapists, and parents; it provides word-level articulation exercises.[5]
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/ca/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Neurodivergent-focused planner with visual schedules, task lists, reminders, mood tracking, journaling, caregiver support, and explicit relevance to dyspraxia.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/thruday
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Public-sector directory entry describing Thruday as an assistive living app with visual planners, printable schedules, communication cards, shared carer access, and mood tracking.

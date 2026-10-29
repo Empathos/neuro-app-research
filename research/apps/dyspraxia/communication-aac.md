@@ -1158,3 +1158,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Public AAC resource category covering communication apps for users with autism, neurological conditions, developmental delays, dyspraxia, and related communication needs.
+
+### Talk in Pictures X - AAC speak
+
+- URL: https://play.google.com/store/apps/details?id=com.itoucantalk&hl=en
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Customizable Android AAC app using user-defined picture cards and sentence construction; identifies verbal dyspraxia and other speech difficulties as relevant use cases.
+
+### Tiny Talk AAC
+
+- URL: https://apps.apple.com/ca/app/tiny-talk-aac/id6754395983
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: AAC app combining core vocabulary, sentence-building lanes, natural English text-to-speech, and custom tiles; its listing identifies apraxia, developmental language disorder, autism, and other speech challenges as use cases.
