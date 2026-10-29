@@ -628,3 +628,23 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Self-guided support tool for adults with ADHD, offering in-the-moment tools for emotional overwhelm, rejection sensitivity, racing thoughts, focus, and executive-function challenges.[3]
+
+### Play Attention for Families
+
+- URL: https://www.playattention.com/for-families
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Personalized cognitive-training platform for ADHD that targets focus, emotional regulation, executive function, and daily routines.
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/gb/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: ADHD-, autism-, and AuDHD-friendly planner with visual routines, task breakdown, reminders, focus tools, mood tracking, journaling, breathing exercises, and emotional-regulation support.

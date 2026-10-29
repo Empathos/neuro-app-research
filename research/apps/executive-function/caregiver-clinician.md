@@ -444,3 +444,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Daily-planning app supporting executive function, time blindness, visual schedules, care routines, family planning, and carer support.
+
+### Neurodivergence Support App Research
+
+- URL: https://research.empathos.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public research index collecting leads for neurodivergence-support apps, tools, directories, and resources, including clinician-oriented executive-function mobile tools for reminders, task sequencing, and homework support.
