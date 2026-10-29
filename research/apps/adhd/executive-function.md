@@ -928,3 +928,73 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Public Markdown toolkit of practical strategies and tools for managing ADHD-related executive-function challenges.
+
+### DailyWave
+
+- URL: https://github.com/kks0488/dailywave
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Open-source ADHD-friendly flow planner that turns a brain dump into one clear next step. It is local-first and works without an account.
+
+### FocusForce+
+
+- URL: https://github.com/karOS555/FocusForcePlus
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public Android productivity app combining routines, to-dos, app blocking, focus mode, sleep mode, and persistent reminders for ADHD and digital-minimalism use cases.
+
+### Digital Tasks Board
+
+- URL: https://github.com/me3zaAKAgoat/dtb
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public productivity and stress-management application using visualized task statistics, with a stated focus on students and people with ADHD.
+
+### Poko
+
+- URL: https://github.com/jayanthvee
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public developer project lead for a state-aware productivity app designed around ADHD users rather than a conventional to-do-list model.
+
+### Don't Think Mode
+
+- URL: https://github.com/SkylarWJY/dont-think-mode
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Local-first ADHD-oriented life OS focused on immediate execution: one current action, countdown-based focus sessions, and task ranking from raw inputs.
+
+### ADHD Life Architecture
+
+- URL: https://github.com/commons-os/patterns/blob/main/_patterns/adhd-life-architecture.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Open repository pattern describing neurodivergent-friendly planning systems, including time blocking, context filtering, escalating reminders, and progress feedback.
+
+### claude-adhd-productivity
+
+- URL: https://github.com/emircbngl/claude-adhd-productivity
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Claude Code plugin designed as an ADHD-oriented productivity coach and externalized executive function, using small next actions, working-memory notes, body doubling, and visible progress.

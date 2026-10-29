@@ -1268,3 +1268,33 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Research repository analyzing ADHD-related disparities in high-school STEM GPA and science identity using causal fairness methods.
+
+### Ultimate ADHD Brain Arcade
+
+- URL: https://github.com/welshDog/-ULTIMATE-ADHD-BRAIN-ARCADE-
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public GitHub project describing a cognitive-training platform for ADHD and neurodivergent users, with attention, motivation, and frustration support concepts.
+
+### Multiverse Student Handbook
+
+- URL: https://github.com/lizthedeveloper/multiverse_student_handbook/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Open repository for unconventional and neurodivergent learners, featuring self-paced workbenches and interactive learning tools.
+
+### Lexy - Smart Literacy Learning
+
+- URL: https://apps.apple.com/us/app/lexy-smart-literacy-learning/id1564885095?platform=mac
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Adaptive literacy tutor for dyslexic and neurodivergent learners, offering multisensory instruction, scaffolding, and short engaging sessions intended to support children with ADHD.

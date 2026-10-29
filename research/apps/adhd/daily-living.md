@@ -958,3 +958,13 @@
 - Query: adhd daily-living neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: Public GitHub topic page listing ADHD-related repositories, including task managers, app blockers, focus tools, routines, reminders, and time-visualization projects.
+
+### ADHD Easy-Do
+
+- URL: https://apps.apple.com/de/app/adhd-easy-do-your-adhd-planner/id6476637209?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Planner created for ADHD, ADD, and neurodivergent users to organize everyday tasks, thoughts, ideas, and routines while reducing overwhelm.

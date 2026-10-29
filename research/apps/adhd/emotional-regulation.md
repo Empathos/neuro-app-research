@@ -1138,3 +1138,53 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: Self-guided ADHD support tool for emotional overwhelm, rejection sensitivity experiences, racing thoughts, focus, and executive-function challenges, with dedicated in-the-moment tools.[10]
+
+### Bonding Health: ADHD Calm
+
+- URL: https://apps.apple.com/au/app/bonding-health-adhd-calm/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Emotional-regulation app for ADHD offering short audio interventions intended to calm overwhelm, interrupt spirals, and restore focus.
+
+### Verenigma
+
+- URL: https://apps.apple.com/mk/app/verenigma/id6444808458
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Voice-note-based emotion-regulation app that uses AI reflection to help users identify and manage emotional overload, including ADHD and RSD.
+
+### DopaLoop: ADHD Habit Tracker
+
+- URL: https://apps.apple.com/br/app/dopaloop-adhd-habit-tracker/id6758214018?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: ADHD and RSD-oriented tracker with emotion check-ins, affect-labeling prompts, local voice transcription, pattern tracking, and RSD first-aid tools.
+
+### ADHD Self-Care Coach: Evolve
+
+- URL: https://apps.apple.com/us/app/adhd-self-care-coach-evolve/id1515433542
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: ADHD self-care app featuring CBT and DBT techniques, breathing exercises, journaling prompts, guided reflection, and emotional-regulation support.
+
+### Mightier
+
+- URL: https://apps.apple.com/ca/app/mightier/id1333675573
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Clinician-developed emotional-regulation game for children, including children with ADHD, using heart-rate feedback and gameplay-based practice.

@@ -738,3 +738,73 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: App for finding and rating autism-accessible or sensory-friendly places, with an interactive map and customized venue search.
+
+### Focus - The ADHD Task Manager for Neurodivergent Minds
+
+- URL: https://focus-app.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: ADHD-focused task manager offering brain dumps, AI task breakdown, body-doubling support, and simplified task progression.
+
+### Symplara: ADHD Focus & Tasks
+
+- URL: https://apps.apple.com/us/app/symplara-adhd-focus-tasks/id6754533445
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: ADHD-oriented productivity app with focus timers, task planning, and daily, weekly, and monthly organization views.
+
+### ADHD-Focus: Focus & Routines
+
+- URL: https://play.google.com/store/apps/details?id=click.adhdsupport.focus
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Android app for adults with ADHD featuring tasks, routines, reminders, step-based task breakdowns, focus blocks, and lightweight mood, focus, and energy tracking.
+
+### Focus Friend: ADHD Planner
+
+- URL: https://apps.apple.com/us/app/focus-friend-adhd-planner/id6761078470
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: ADHD planner combining visual focus timers, routines, body doubling, energy tracking, ambient sounds, and simplified task prioritization.
+
+### Cura: Adaptive AI Assistant
+
+- URL: https://github.com/killerfrost2004u/Cura
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Open-source adaptive assistant with an ADHD mode featuring task prioritization, one-task-at-a-time presentation, distraction safeguards, time estimation, focus sessions, task breakdown, and stress-reset exercises.[2]
+
+### ADHD-Friendly AI Answers
+
+- URL: https://github.com/jjdmev2/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Public repository for concise, action-first, numbered AI responses designed to reduce filler and improve accessibility for readers with ADHD.[1]
+
+### Awesome ADHD
+
+- URL: https://github.com/XargsUK/awesome-adhd/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Curated public directory of ADHD-focused apps, books, ideas, and other resources, useful as a discovery index for assistive-technology research.[10]
