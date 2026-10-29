@@ -428,3 +428,53 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Systematic literature review lead focused on innovative technology for dyslexia, including reading-assistant applications such as Augmenta11y.
+
+### BRIDGE Communication
+
+- URL: https://apps.apple.com/au/app/bridge-communication/id1358326786?platform=ipad
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Multipurpose iPad app supporting communication, reading, spelling, writing, speech development, dyslexia, and AAC with editable vocabulary, SymbolStix icons, text or recorded speech output, and customizable pages.
+
+### ClaroCom
+
+- URL: https://apps.apple.com/us/app/clarocom/id903818521
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: AAC app for iPhone and iPad that provides typed text-to-speech communication for children and adults with limited or no speech; the developer also offers ClaroSpeak, a dyslexia-friendly reading app.
+
+### Apps for accessibility
+
+- URL: https://apps.apple.com/pw/iphone/story/id1266441335
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Apple accessibility collection listing dyslexia reading tools and AAC apps including TouchChat HD, Proloquo4Text, and Proloquo2Go.
+
+### Pictalk Buddy  Routine and AAC App
+
+- URL: https://apps.apple.com/jp/app/pictalk-buddy-routine-aac/id6502835578?l=en-US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: App combining visual schedules and AAC communication with pictograms, text-to-speech, routines, reminders, and support for learning disabilities including dyslexia.
+
+### BRIDGE Communication
+
+- URL: https://apps.apple.com/kr/app/bridge-communication/id1358326786
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Multipurpose communication and learning app supporting reading, spelling, writing, dyslexia, AAC, speech development, SymbolStix vocabulary, text-to-speech, and customizable boards.

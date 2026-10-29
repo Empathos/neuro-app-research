@@ -468,3 +468,23 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: DCU repository record for a project developing free, evidence-based online resources to improve teachers knowledge of dyslexia.
+
+### Recherche: A Dyslexia Learning App
+
+- URL: https://github.com/Saisathviki/Recherche-A-dyslexia-Learning-app-MGIT-HACKATHON-PROJECT-
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Open-source MIT-licensed dyslexia learning application with letter and word recognition, text-to-speech, adaptive learning, progress tracking, quizzes, and games.
+
+### Dystherapy: Dyslexia Education
+
+- URL: https://apps.apple.com/do/app/dystherapy-dyslexia-education/id6736656260?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: iPad learning app offering personalized reading and writing exercises for children and teens, with adaptive pacing and progress-based practice.

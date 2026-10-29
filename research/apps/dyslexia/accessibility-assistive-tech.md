@@ -438,3 +438,23 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: University resource focused on reading, spelling, and writing programs for people with dyslexia and language disabilities, with links to intervention and technology resources.
+
+### SimplifyAI Text Accessibility System
+
+- URL: https://github.com/acedreamer/offline-text-accessibility/blob/master/plan/ARCHITECTURE_DEEP_DIVE.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: Desktop accessibility project for neurodivergent users with a dyslexia mode offering shorter sentences, improved spacing, optional hyphenation, and text-to-speech.
+
+### PSInclusive Accessibility
+
+- URL: https://github.com/PSInclusive/Accessibility
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: PowerShell accessibility module supporting dyslexia and ADHD accommodations, including bionic reading text formatting and compatibility with screen-reader and color-vision needs.

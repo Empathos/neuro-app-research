@@ -358,3 +358,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Interactive rhythm-training app aimed at neurodivergent children and teens, including users with dyslexia and sensory-processing challenges; supports timing, coordination, attention, and self-regulation.[8]
+
+### Neurodyx  Dyslexia Support Mobile App
+
+- URL: https://github.com/rezaluthfi/neurodyx-app
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: A Flutter-based dyslexia-support app featuring screening, multisensory therapy, progress tracking, AI support, text-to-speech, speech-to-text, and customizable reading tools.
+
+### Alpaca Android
+
+- URL: https://github.com/alpaca-id/alpaca-android
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: An Android OCR and text-to-speech tool that helps people with dyslexia read printed text, with customizable text styles.
