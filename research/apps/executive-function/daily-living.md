@@ -448,3 +448,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Visual planning app with routines, gentle reminders, AI-assisted task planning, prioritization, focus timers, and calendar and reminder synchronization.
+
+### Thruday Directory Listing
+
+- URL: https://www.stockport.gov.uk/directories/entry/thruday
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Public service-directory description of Thruday as an assistive daily-living app offering visual planners, routines, to-do lists, printable schedules, and communication cards.

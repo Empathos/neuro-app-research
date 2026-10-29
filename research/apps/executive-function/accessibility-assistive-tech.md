@@ -838,3 +838,23 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Public project page for Tokai, an open-source productivity app focused on neurodivergent users, AI assistance, and adaptive task management.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/no/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: An executive-function support app with visual schedules, color-coded tasks, AI priority grouping, focus timers, and accessibility features for Apple devices.
+
+### Tiimo: AI Planner & To-do
+
+- URL: https://apps.apple.com/ca/app/tiimo-ai-planner-to-do/id1480220328?platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-29
+- Description: AI planning partner for routines, time perception challenges, prioritization, visual scheduling, focus, and reducing cognitive load.

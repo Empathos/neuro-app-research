@@ -579,16 +579,6 @@
 - Found: 2026-10-22
 - Description: A local, plain-text self-tracking and task-logging tool for structuring the day and tracking focus, mood, and energy for neurodivergent users.
 
-### BubbleUp
-
-- URL: https://github.com/Khatisani/BubbleUp
-- Source: perplexity-sonar
-- Condition: general
-- Support category: daily-living
-- Query: general daily-living neurodivergent app research pass 502
-- Found: 2026-10-22
-- Description: A personalized neurodivergent-friendly focus ecosystem designed to support task engagement without guilt-driven productivity mechanics.
-
 ### Tiimo: AI Planner & To-do
 
 - URL: https://apps.apple.com/by/app/tiimo-ai-planner-to-do/id1480220328

@@ -678,3 +678,23 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Public repository directory containing ADHD-related projects, including locally hosted tools for executive dysfunction, autism, AuDHD, prioritization, and task organization.
+
+### Dopamind: Everyday AI Partner
+
+- URL: https://apps.apple.com/us/app/dopamind-everyday-ai-partner/id6747915249
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: App Store listing for an AI assistant positioned as an executive-function support system for neurodivergent users.
+
+### Kelper app
+
+- URL: https://healthify.nz/apps/k/kelper-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Neurodivergent-adult planning and communication tool that breaks difficult tasks into smaller steps and helps organize information using AI-supported workflows.

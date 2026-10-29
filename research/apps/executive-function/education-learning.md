@@ -788,3 +788,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: An Android cognitive assessment and education platform covering attention, memory, executive function, ADHD information, coping strategies, and interactive cognitive activities.
+
+### Tiimo - Visual Daily Planner
+
+- URL: https://apps.apple.com/bw/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Visual planning and learning app for ADHD, autism, stress, and anxiety, with executive-function support, routines, time management, and bite-sized expert learning courses.[7]
+
+### The ADHD Hero
+
+- URL: https://www.heephong.org/eng/tools-and-resources/publications/mobile-app/14317
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-29
+- Description: Educational gaming app developed by an educational psychologist and occupational therapist to train attention, inhibition, working memory, and learning-related executive functions in children ages 612.[5]
