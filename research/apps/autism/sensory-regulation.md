@@ -988,3 +988,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-26
 - Description: Parent-focused autism support app with sensory and social-play activities, calming strategies, emotional regulation support, and daily-routine tools.
+
+### Lumi Kids
+
+- URL: https://apps.apple.com/gb/app/lumi-kids/id6758625268
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: iPad app for neurodiverse children featuring a calm corner, breathing exercises, virtual sensory toys, calming sounds, communication tools, routine planning, and mood check-ins.

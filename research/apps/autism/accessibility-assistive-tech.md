@@ -858,3 +858,33 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Public project combining wearable glasses, a mobile app, computer vision, and Bluetooth feedback to explore real-time emotion-recognition assistance during social interactions.
+
+### AsTeRICS Grid
+
+- URL: https://github.com/asterics/AsTeRICS-Grid
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Open-source, grid-based AAC web application designed around user feedback, with offline capability and broad accessibility.
+
+### AutiPocket
+
+- URL: https://www.autipocket.com/explore-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Neurodivergent employee support app offering private human support, calming games, wellbeing videos, and tools for workplace stress and sensory regulation.
+
+### Avaz Pro AAC App
+
+- URL: https://faast.org/product/avaz-pro-aac-app-for-autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Augmentative and alternative communication app for iPad designed to support communication for autistic and nonspeaking users.

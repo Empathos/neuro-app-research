@@ -748,3 +748,53 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Community-curated lead covering adult neurodivergent apps and tools for emotional journaling, situational-mutism cards, sensory regulation, pictogram routines, executive-function task lists, and employment support.
+
+### ELS Autism / ABA Therapy
+
+- URL: https://apps.apple.com/ua/app/els-autism-aba-therapy/id6502673666?l=ru
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: iOS app using social narratives, picture schedules, token boards, visual timers, and first/then charts to support children with daily-living skills and independence.
+
+### Autism Life Skills
+
+- URL: https://apps.apple.com/sa/app/autism-life-skills/id6779860917
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: App for practicing autistic childrens daily-living skills through calm games, including handwashing, communication, eating, dressing-related tasks, toothbrushing, and toileting routines.[1]
+
+### Autism Daily Skills Games
+
+- URL: https://apps.apple.com/br/app/autism-daily-skills-games/id6756981665?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Interactive app covering AAC, self-care, emotions, hygiene, social skills, time learning, tracing, and other everyday independence skills.[2]
+
+### Prism Buddy
+
+- URL: https://apps.apple.com/us/app/prism-buddy/id6738650371?l=pt-BR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Neurodivergent-oriented task and life-management app with step-by-step organization, low-distraction presentation, visual structure, and support for daily activities.[9]
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/us/app/els-autism-aba-therapy/id6502673666?l=fr-FR&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: App using social narratives, picture schedules, visual timers, first/then charts, and token boards to teach daily-living and social skills to neurodivergent children.[10]

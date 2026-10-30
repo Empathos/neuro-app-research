@@ -1258,3 +1258,23 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: All-in-one calendar, to-do, habit, notes, and daily-planning app positioned for users who need help remembering and organizing tasks.
+
+### Molehill Mountain
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12853239/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Public iOS and Android app adapted with autistic people to support anxiety management; the cited feasibility study evaluates its freely available version.
+
+### Stress Autism Mate Junior
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11750817/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Co-created mobile self-help app for autistic adolescents that supports stress recognition and coping skills; reported as free on major app stores in multiple countries and languages.
