@@ -498,3 +498,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Calming app for autistic and neurodivergent children using visual prompts, gentle sounds, simple interactions, and visual timers to support emotional regulation, communication, and transitions.
+
+### DEAP EEG Emotion Analyse and Classify
+
+- URL: https://github.com/Z-Fran/DEAP-EEG-Emotion-Analyse-and-Classify/blob/main/emotion_code_cn.ipynb
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Public GitHub notebook repository for analyzing and classifying emotional states using DEAP EEG data; potentially useful as a technical research lead for emotion-recognition tooling.

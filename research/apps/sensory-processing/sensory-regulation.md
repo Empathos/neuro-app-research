@@ -568,3 +568,23 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: Public GitHub resource documenting sensory accommodations for neurodivergent people; useful as a research and intervention-design reference.
+
+### AuraPod AI
+
+- URL: https://github.com/samanthalin130
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: A repository lead for a multisensory regulation booth concept that maps spoken or typed check-ins to regulatory states and coordinates light, spatial sound, breathing, and scent.
+
+### Evenward
+
+- URL: https://github.com/howardhayden/evenward
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Privacy-conscious, mobile-first self-regulation studio organized around movement, attention, patterns, and play, with modes for downregulation and focus.
