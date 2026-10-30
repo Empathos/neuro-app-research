@@ -808,3 +808,63 @@
 - Query: executive-function education-learning neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Educational gaming app developed by an educational psychologist and occupational therapist to train attention, inhibition, working memory, and learning-related executive functions in children ages 612.[5]
+
+### Choiceworks
+
+- URL: https://apps.apple.com/us/app/choiceworks/id486210964
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: App using visual schedules, timers, and task sequences to support routines, transitions, and task completion.
+
+### Synap
+
+- URL: https://synap.ac/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Spaced-repetition learning platform supporting memory, revision, and structured study workflows.
+
+### NeuroLocker
+
+- URL: https://neurolocker.ai/resources/work-life/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Resources and tools for neurodivergent young adults and professionals covering planning, organization, routines, focus, and college success.
+
+### lifeart/focus
+
+- URL: https://github.com/lifeart/focus
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Open-source adaptive cognitive-training progressive web app for adolescents, with exercises targeting attention, inhibitory control, and working memory.
+
+### Shimmer Care: ADHD Coaching
+
+- URL: https://apps.apple.com/cm/app/shimmer-care-adhd-coaching/id1570668247
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: App offering bite-sized ADHD coaching for people with ADHD or executive-function challenges.
+
+### Digital ADHD Resource Roundup for Teachers
+
+- URL: https://www.kennedykrieger.org/stories/linking-research-classrooms-blog/digital-attention-deficit-hyperactivity-disorder-adhd-resource-round-teachers
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Educational resource highlighting digital tools such as 30/30 for task and time management and Evernote for organizing assignments, directions, recordings, tags, notes, and task lists.

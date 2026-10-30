@@ -648,3 +648,23 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: ADHD-, autism-, and AuDHD-friendly planner with visual routines, task breakdown, reminders, focus tools, mood tracking, journaling, breathing exercises, and emotional-regulation support.
+
+### Play Attention for Adults
+
+- URL: https://www.playattention.com/for-adults
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: ADHD cognitive-training program targeting focus, emotional regulation, memory, and executive function.
+
+### ADHD Planner AI
+
+- URL: https://apps.apple.com/it/app/adhd-planner-ai/id6758739558
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: App Store planner focused on ADHD routines, emotion tracking, and developing executive-function skills.

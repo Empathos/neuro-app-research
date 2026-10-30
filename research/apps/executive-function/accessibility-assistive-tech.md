@@ -858,3 +858,43 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: AI planning partner for routines, time perception challenges, prioritization, visual scheduling, focus, and reducing cognitive load.
+
+### Neurodivergent Visual Organization
+
+- URL: https://github.com/jeremylongshore/tons-of-skills-marketplace/tree/main/plugins/productivity/neurodivergent-visual-org
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Public productivity skill for creating ADHD-friendly visual organization tools, compassionate task breakdowns, decision trees, and focus support.
+
+### Neurodivergent-Friendly GitHub Topic
+
+- URL: https://github.com/topics/neurodivergent-friendly
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Public repository index featuring neurodivergent-friendly software projects, including cognitive-support tools, time-visualization experiments, and personal organizers.
+
+### ADHD AI Planner: Nudgly  Apple App Store
+
+- URL: https://apps.apple.com/us/app/adhd-ai-planner-nudgly/id6749603164
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: AI planning app marketed for ADHD and neurodivergent users, with tools intended to support planning and task follow-through.
+
+### AYOA
+
+- URL: https://www.g2.com/products/ayoa/discuss
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Productivity workspace combining mind maps, task management, visual planning, voice notes, distraction reduction, dyslexia-oriented customization, and screen-reader support.

@@ -698,3 +698,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Neurodivergent-adult planning and communication tool that breaks difficult tasks into smaller steps and helps organize information using AI-supported workflows.
+
+### ExecFunc
+
+- URL: https://execfunc.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Open-source AI task-management framework that follows up on unfinished tasks and escalates when work slips; its site notes that it is not intended as a clinical or ADHD-support tool.

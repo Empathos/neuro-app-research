@@ -454,3 +454,53 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Public research index collecting leads for neurodivergence-support apps, tools, directories, and resources, including clinician-oriented executive-function mobile tools for reminders, task sequencing, and homework support.
+
+### NeuroPrism
+
+- URL: https://github.com/NinaMaX/NeuroPrism
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Open-source prototype community platform for diagnosed and undiagnosed neurodivergent people, families, and friends, with an iOS implementation that can be adapted for other platforms.
+
+### Trayt Health
+
+- URL: https://apps.apple.com/us/app/trayt-health/id1235887472
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Health-tracking app for individuals, parents, and caregivers supporting people with autism, ADHD, and other brain-based disorders; includes symptom measurement, incident capture, treatment tracking, and clinician-shared language.[2]
+
+### CareTinuum
+
+- URL: https://www.carestinuum.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Connected-care platform for children with autism and ADHD that aligns families, caregivers, therapists, and clinics through daily check-ins, therapy goals, and structured guidance.[5]
+
+### Shepherd AI
+
+- URL: https://github.com/Shepherd-AIDev/Shepard-AI
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Open-source, zero-knowledge AI co-regulator offering real-time grounding, micro-directing, and executive-function support, with accessibility features intended for neurodivergent users.[7]
+
+### ProblemShared
+
+- URL: https://www.problemshared.net/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Online mental-health and neurodevelopmental service offering autism and ADHD assessments, post-assessment care, and practitioner matching; useful as a clinician-facing support and service-delivery lead.[8]
