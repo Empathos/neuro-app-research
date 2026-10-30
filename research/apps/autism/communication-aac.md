@@ -1118,3 +1118,33 @@
 - Query: autism communication-aac neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: iPhone and iPad AAC app focused on nonverbal autism communication and speech support.[5]
+
+### Any AAC
+
+- URL: https://github.com/tks98/any-aac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Free, open-source browser AAC app that works offline after installation, supports English and Spanish, and can be self-hosted across phones, tablets, computers, and Chromebooks.
+
+### Leeloo AAC - Autism Speech App
+
+- URL: https://play.google.com/store/apps/details?id=org.dreamoriented.leeloo&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Picture-card AAC app based on AAC and PECS principles, with phrase building and text-to-speech for children with autism and speech difficulties.[5]
+
+### Tala: AAC for Autism
+
+- URL: https://play.google.com/store/apps/details?id=com.tala.aac&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: AAC app for children with speech delays or limited speech, supporting personalized photos, recorded audio, complete sentences, and 25 languages.[7]

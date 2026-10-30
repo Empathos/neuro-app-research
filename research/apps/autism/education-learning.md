@@ -1198,3 +1198,13 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Duke research app initiative using smartphone questionnaires and video analysis to study possible autism and developmental-disorder screening approaches.
+
+### National Database for Autism Research Resources
+
+- URL: https://www.nichd.nih.gov/health/topics/autism/more_information/resources
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Official NIH resource page linking to autism research data resources, including the National Database for Autism Research and the ABCD Data Repository.

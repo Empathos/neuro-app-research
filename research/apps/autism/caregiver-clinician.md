@@ -848,3 +848,53 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Personalized autism-support app for routines and social stories, designed for use by parents, therapists, BCBAs, speech pathologists, teachers, and clinicians.[9]
+
+### iBehavior
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10153370/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Smartphone-based ecological momentary assessment tool for caregivers to track maladaptive and prosocial behaviors in people with intellectual and developmental disabilities, with potential use in clinical trials.
+
+### Kica
+
+- URL: https://boa.unimib.it/bitstream/10281/548801/1/de%20Leonardis-2025-Research%20in%20Developmental%20Disabilities-VoR.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Novel mobile health tool for caregiver-mediated autism intervention, based on the World Health Organization Caregiver Skills Training program and intended for home practice.
+
+### Perfectly Different
+
+- URL: https://neurodifferentassistant.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Nonprofit neurodiversity support platform for neurodivergent people and supporters, providing conversational guidance, education, practical strategies, and crisis resources.
+
+### A Critical Review of Caregiver Report Measures of Autistic Traits in Children
+
+- URL: https://research-repository.uwa.edu.au/en/publications/a-critical-review-of-caregiver-report-measures-of-autistic-traits/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Research repository record for a review intended to help clinicians and researchers evaluate caregiver-report measures of autistic traits in children aged 412.
+
+### Caregivers Experiences of Accessing Services for Autistic Individuals with Intellectual Disability
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11067391/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Peer-reviewed open-access study examining caregiver experiences of service access and considerations for developing interventions for autistic people with intellectual disability.
