@@ -458,3 +458,33 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: PowerShell accessibility module supporting dyslexia and ADHD accommodations, including bionic reading text formatting and compatibility with screen-reader and color-vision needs.
+
+### Accessibility tools for learning
+
+- URL: https://support.microsoft.com/en-US/accessibility/accessibility-tools-for-learning
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Official Microsoft guide covering Immersive Reader, Reading Progress, Dictation, Microsoft Editor, and other tools supporting learners with dyslexia and learning disabilities.
+
+### Assistive Technology Tools for Education and Work
+
+- URL: https://www.everway.com/en-au/solutions/assistive-tech/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Official assistive-technology overview describing reading, writing, text-to-speech, word prediction, vocabulary, and communication support for learners and adults with dyslexia.
+
+### Assistive Technology
+
+- URL: https://www.goodwin.edu/disability-access-services/assistive-technology
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Public accessibility resource describing Read&Write, Voice Dream Reader, and BeeLine Reader for reading aloud, customizable layouts, visual tracking, and support for dyslexia and attention differences.

@@ -488,3 +488,23 @@
 - Query: dyslexia education-learning neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: iPad learning app offering personalized reading and writing exercises for children and teens, with adaptive pacing and progress-based practice.
+
+### Assistive Technologies for Students with Dyslexia
+
+- URL: https://www.inf.uniri.hr/images/studiji/poslijediplomski/kvalifikacijski/Lerga_Rebeka_Kvalifikacijski.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Research review covering mobile applications for phonological awareness, letter discrimination, syllables, word learning, reading, speech therapy, and early writing.
+
+### Comprehensive Review of Assistive Technologies for Children with Dyslexia
+
+- URL: https://ar5iv.labs.arxiv.org/html/2412.13241
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Review covering mobile apps, OCR, text-to-speech, adaptive learning, augmented reality, gamification, and personalized reading assistance for dyslexic learners.

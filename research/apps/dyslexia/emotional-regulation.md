@@ -208,3 +208,23 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-26
 - Description: Official App Store collection of productivity, self-care, and emotional-tracking tools curated for people with dyslexia, autism, and ADHD.
+
+### Understood ADHD & Dyslexia App
+
+- URL: https://apps.apple.com/us/app/understood-adhd-dyslexia-app/id1552485748
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Official app for parents of children with ADHD, dyslexia, and other learning differences. Includes psychologist-developed behavior tracking, CBT-informed lessons, emotional-regulation strategies, and progress insights.
+
+### The criticality of effective teacher-student relationships when working with students with dyslexia
+
+- URL: https://lbro.repository.guildhe.ac.uk/id/eprint/1351/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Repository-hosted research paper examining teacherstudent relationships as a support factor for learners with dyslexia, including implications for educational and emotional support.

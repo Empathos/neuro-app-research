@@ -468,3 +468,13 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Public organization containing free phonics and sight-word data, a browser screening and reading-practice site, an MCP server, and embeddable reading games.
+
+### Guardian Reader
+
+- URL: https://github.com/sanjayrohith/dyslexic-extension
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Firefox accessibility companion that enlarges, clarifies, and optionally speaks difficult words on webpages, designed for readers with dyslexia, ADHD, low vision, or focus difficulties.
