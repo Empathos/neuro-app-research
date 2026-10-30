@@ -808,3 +808,23 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Android tracker for caregivers of children with sensory-processing differences, covering sensory domains, contexts, activities, responses, trends, and caregiver alignment.[9]
+
+### SensoryTreat systematic-review lead
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7916631/pdf/ijerph-18-01702.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Systematic-review source documenting SensoryTreat, a mobile application intended to promote adherence to home-program treatments for children with sensory-processing disorders.
+
+### Moonbow: Autism Behavior Log
+
+- URL: https://apps.apple.com/gb/app/moonbow-autism-behavior-log/id6764191923?platform=vision
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Caregiver logging app with multilingual assistance, therapist and IEP-team PDF sharing, environmental preparation for sensory considerations, and clinician-assigned home practice.

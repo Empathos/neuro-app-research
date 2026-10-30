@@ -628,3 +628,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Open-source research platform that converts audiograms into accessible records and vibration patterns for a wristband, with opt-in autism and sensory-processing accessibility profiles.
+
+### Virginia Assistive Technology, Tools, and Strategies Resource Guide
+
+- URL: https://ttaconline.org/Document/zxbIhY_XCJPnO83q_T-hkgekLHVtHRj9/VATTS_Resource_Guide_Nov_2025_Update.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Resource guide covering sensory-processing supports such as visual schedules, lighting adjustments, noise-cancelling headsets, tactile barriers, fidgets, and movement-related tools.

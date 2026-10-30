@@ -938,3 +938,43 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: Childrens learning app with games, flashcards, videos, rewards, and a Calm Corner featuring breathing, mood, sound, and regulation activities; designed to accommodate sensory-processing differences.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/id/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Distraction-free literacy app with structured lessons for phonics, pattern recognition, and sight words. It emphasizes minimal sensory input, with no flashing animations or sudden sounds.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/qa/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Structured literacy app with predictable routines, minimal sensory input, no flashing animations or sudden sounds, and support for learners with autism, ADHD, and sensory-processing differences.
+
+### SocialBlossom: Autism & ADHD
+
+- URL: https://play.google.com/store/apps/details?id=life.socialstories.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Android app with social stories, emotion-learning activities, calming exercises, and sensory-break games intended for children with autism, ADHD, speech delays, or sensory differences.
+
+### NEMAR
+
+- URL: https://nemar.org/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Open-access research resource providing neuroimaging data, tools, and computing infrastructure for finding, assessing, and processing EEG, MEG, intracranial EEG, and EMG datasets.

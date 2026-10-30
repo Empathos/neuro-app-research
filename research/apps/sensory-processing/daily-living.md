@@ -578,3 +578,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Developer repository profile describing Willa, an in-development app combining calendars, tasks, bills, and daily routines for neurodivergent users.
+
+### Autism OT 500 Activities
+
+- URL: https://apps.apple.com/fi/app/autism-ot-500-activities/id6755060608
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: App containing occupational-therapy activities covering sensory processing, fine motor skills, coordination, visual-motor integration, and daily life skills.

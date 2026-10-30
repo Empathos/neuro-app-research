@@ -778,3 +778,23 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: App for children and caregivers supporting emotional regulation, sensory needs, routines, visual executive-function strategies, and sensory-profile tracking.
+
+### GitHub neurodivergent-support topic
+
+- URL: https://github.com/topics/neurodivergent-support?l=python
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Public GitHub topic page collecting repositories related to neurodivergent support, including assistant and accessibility-oriented projects.
+
+### BeatBop: Interactive Metronome
+
+- URL: https://apps.apple.com/gb/app/beatbop-interactive-metronome/id6753838813
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Rhythm-based app for neurodivergent children and teens, targeting timing, coordination, attention, self-regulation, sensory processing, and executive-function challenges.
