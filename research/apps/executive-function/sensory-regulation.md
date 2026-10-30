@@ -686,3 +686,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-28
 - Description: Interactive visual sensory-regulation app using touch-responsive flowing patterns to support grounding, calming, and focus.
+
+### SheepCat - Tracking My Work
+
+- URL: https://github.com/Chadders13/SheepCat-TrackingMyWork
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: A gentle, neurodivergent-friendly task-tracking application for logging activities throughout the day.

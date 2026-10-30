@@ -848,3 +848,23 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Android planner and task manager designed around executive dysfunction, time blindness, decision fatigue, reminders, and organization challenges.
+
+### To Do List, Goals & Sorting
+
+- URL: https://apps.apple.com/us/app/to-do-list-goals-sorting/id6755643940
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: iPad task-management app with smart sorting, focus timing, categorization, progress tracking, accessibility settings, and explicit support for executive dysfunction and neurodivergent users.[7]
+
+### Focuspipe
+
+- URL: https://github.com/pleasedodisturb/focuspipe
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Open-source, local-first executive-function support tool that tracks attention patterns, hyperfocus, task drift, and context switching, with real-time nudges and analytics.
