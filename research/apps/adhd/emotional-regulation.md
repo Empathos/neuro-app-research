@@ -1188,3 +1188,43 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Clinician-developed emotional-regulation game for children, including children with ADHD, using heart-rate feedback and gameplay-based practice.
+
+### ADHD - Cognitive Research
+
+- URL: https://apps.apple.com/ua/app/adhd-cognitive-research/id1412022818
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Research-oriented app providing digital cognitive assessments for ADHD studies, including attention, inhibition, monitoring, memory, planning, and coordination tasks.
+
+### Bonding Health
+
+- URL: https://apps.apple.com/us/app/bonding-health-for-antistress/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: ADHD wellness companion offering brief audio emotional-regulation interventions, mood and symptom tracking, and support for overwhelm, outbursts, and burnout.
+
+### Evaluation of the Focus ADHD App
+
+- URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D472E6CACE7D5AFB00CA40DDE898A6A7/S0924933823024227a.pdf/evaluation-of-the-effectiveness-of-the-focus-adhd-app-in-monitoring-adults-with-attention-deficithyperactivity-disorder.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Peer-reviewed evaluation of an ADHD app for monitoring adults with ADHD, including treatment-support-network integration for family members and health professionals.
+
+### Bonding Health: ADHD & Wellness Support
+
+- URL: https://apps.apple.com/us/app/bonding-health-for-antistress/id1611980187?platform=ipad
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Emotional-regulation companion for ADHD featuring quick audio interventions, symptom tools, and tracking for emotional patterns, burnout, and outbursts.[4]
