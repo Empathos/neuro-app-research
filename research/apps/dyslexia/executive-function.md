@@ -638,3 +638,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Wagtail accessibility plugin offering interface adjustments intended to support dyslexia, cognitive and learning impairments, ADHD, and other accessibility needs.
+
+### AI-Based Reading Assistant for Dyslexic Children
+
+- URL: https://github.com/shreya-js/AI-Based-Reading-Assistant-for-Dyslexic-Children
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Streamlit-based reading assistant featuring text-to-speech, syllable highlighting, OCR, word games, and a dictionary.[4]
+
+### International Dyslexia Association: Assistive Technology
+
+- URL: https://or.dyslexiaida.org/assistive-technology/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Dyslexia-focused assistive-technology guidance and links, providing a starting point for researching reading, writing, and learning supports.

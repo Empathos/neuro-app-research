@@ -478,3 +478,43 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Multipurpose communication and learning app supporting reading, spelling, writing, dyslexia, AAC, speech development, SymbolStix vocabulary, text-to-speech, and customizable boards.
+
+### Dyslexia Pal
+
+- URL: https://apps.apple.com/us/app/dyslexia-font-ai-tutor-pal/id957626910
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: iOS app offering dyslexia-oriented typing support, word suggestions, proofreading, grammar correction, and communication assistance.
+
+### Assistive Technology and AAC for Students with Specific Learning Disorders
+
+- URL: https://www.mdpi.com/2227-7102/15/2/170
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: 2025 review of assistive technology and AAC for students with specific learning disorders, covering reading, spelling, phonological awareness, and communication-related tools.[1]
+
+### AAC Decoding Feature Research
+
+- URL: https://pubs.asha.org/doi/abs/10.1044/2023_AJSLP-22-00255
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Study evaluating an AAC feature that provides decoding models after picture-symbol selection, with preliminary evidence of improved single-word reading.[7]
+
+### Augmenta11y Reading Assistant
+
+- URL: https://ouci.dntb.gov.ua/en/works/leLVB80D/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Literature-index entry identifying Augmenta11y as a reading-assistance application for children with dyslexia within assistive-technology and AAC research.[2]

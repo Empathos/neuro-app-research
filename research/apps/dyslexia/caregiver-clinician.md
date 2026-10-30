@@ -668,3 +668,53 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Official product information describing Lexys support for phonemic awareness, phonics, fluency, vocabulary, comprehension, individualized lessons, and an integrated system for students, teachers, and parents.[3]
+
+### Dynaread Dyslexia Pre-Screening App
+
+- URL: https://www.dynaread.com/dyslexia-screening-app
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Free dyslexia pre-screening app intended for teachers and schools, combining brief questionnaires with a short reading test to identify children who may need further assessment.
+
+### Early Screening of Dyslexia  Hugging Face Space
+
+- URL: https://huggingface.co/spaces/AImRs/dyslexia-early-screening-system
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Public Streamlit research prototype using handwriting analysis and linguistic features for early dyslexia screening, aimed at educators, parents, and clinical-support professionals; explicitly not a diagnosis.
+
+### Early Screening of Dyslexia  README
+
+- URL: https://huggingface.co/spaces/AImRs/dyslexia-early-screening-system/raw/main/README.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Technical documentation for a multimodal dyslexia-screening system combining handwriting-image classification with linguistic analysis and describing its intended research and support use.
+
+### Dyslexia-Screening-System
+
+- URL: https://github.com/saurabh039/Dyslexia-Screening-System
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Open-source AI web application for early dyslexia screening through cognitive assessment, handwriting analysis, deep learning, OCR, and structured screening results.
+
+### Dyslexia-Screening-System Codebase Analysis
+
+- URL: https://github.com/saurabh039/Dyslexia-Screening-System/blob/main/CODEBASE_ANALYSIS.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Repository documentation describing a Flask-based screening app with structured risk scoring, handwriting-image analysis, and OCR processing.
