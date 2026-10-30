@@ -1298,3 +1298,13 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Adaptive literacy tutor for dyslexic and neurodivergent learners, offering multisensory instruction, scaffolding, and short engaging sessions intended to support children with ADHD.
+
+### Lexy  Smart Literacy Learning
+
+- URL: https://apps.apple.com/br/app/lexy-smart-literacy-learning/id1564885095
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Adaptive literacy tutor for children with ADHD, dyslexia, or reading difficulties, offering personalized practice, voice feedback, progress tracking, and multisensory learning.

@@ -808,3 +808,53 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Curated public directory of ADHD-focused apps, books, ideas, and other resources, useful as a discovery index for assistive-technology research.[10]
+
+### Eye-Tracking ADHD Attention Assistant
+
+- URL: https://github.com/pkprajapati7402/Eye-Tracking
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Open-source computer-vision project that monitors attention during study or work sessions and provides real-time feedback, explicitly framed as accessibility technology for people with ADHD.
+
+### Saccade
+
+- URL: https://github.com/khodekia/Saccade
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Python/PyQt6 PDF reader featuring bionic fixations, reflowed text, math-aware rendering, search, bookmarks, and themes; listed under GitHub's ADHD-aid topic.
+
+### Perfectly Different
+
+- URL: https://neurodifferentassistant.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-30
+- Description: Public neurodiversity support platform for ADHD and related needs, offering personalized guidance, routine and sensory resources, advocacy-letter generation, and crisis resources.
+
+### Hypermonkey: ADHD Productivity
+
+- URL: https://apps.apple.com/gb/app/hypermonkey-adhd-productivity/id6736893516
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: iPhone productivity app designed for ADHD users, with tools intended to support executive function, focus, planning, and follow-through.
+
+### neurolist: AI Planner for ADHD
+
+- URL: https://apps.apple.com/de/app/neurolist-ai-planner-for-adhd/id6468689182?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: iPhone AI planner for neurodivergent users that estimates task duration, categorizes tasks, and converts difficult tasks into manageable subtasks.

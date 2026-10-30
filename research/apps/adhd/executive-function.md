@@ -998,3 +998,13 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Claude Code plugin designed as an ADHD-oriented productivity coach and externalized executive function, using small next actions, working-memory notes, body doubling, and visible progress.
+
+### Task-Anchor-MCP
+
+- URL: https://github.com/Kodaxadev/Task-Anchor-MCP
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-10-30
+- Description: Public MCP server repository designed to support ADHD executive function through task locking, drift detection, and explicit context-switch boundaries.
