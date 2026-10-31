@@ -658,3 +658,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Dyslexia-focused assistive-technology guidance and links, providing a starting point for researching reading, writing, and learning supports.
+
+### Time & Tools - Yale Dyslexia
+
+- URL: https://www.dyslexia.yale.edu/resources/accommodations/time-and-tools/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Yale Dyslexia resource page describing technology accommodations such as speech-to-text and dictation tools that can support dyslexic learners.
+
+### DysLexLens
+
+- URL: https://arxiv.org/html/2606.27619
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Public research framework for analyzing dyslexia-related material with an accompanying reproducibility repository and evaluation resources.

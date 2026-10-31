@@ -478,3 +478,53 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Firefox accessibility companion that enlarges, clarifies, and optionally speaks difficult words on webpages, designed for readers with dyslexia, ADHD, low vision, or focus difficulties.
+
+### BlueScript
+
+- URL: https://github.com/topics/disability-assistance
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: GitHub topic page listing the open-source BlueScript frontend and backend, described as a web app for aiding dyslexia.
+
+### Helperbird
+
+- URL: https://apps.apple.com/ly/app/helperbird/id1589138053
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Accessibility app offering dyslexia support, immersive reading, reading mode, and voice typing.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/es/app/dyslexiabuddy/id1565832172?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: AI reading coach with dyslexia-friendly display settings, read-aloud features, camera scanning, PDF support, word definitions, summaries, and reading guidance.
+
+### Dolphin EasyReader
+
+- URL: https://apps.apple.com/no/app/dolphin-easyreader/id1161662515
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Customizable reading app for dyslexic and visually impaired users, with text highlighting, read-along audio, adjustable fonts, colors, spacing, and line visibility.
+
+### Apps and Software for Success
+
+- URL: https://www.hawkeyecollege.edu/students/support/accessibility-services/apps
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Accessibility-services directory featuring tools such as ModMath, Dolphin EasyReader, and Ghotit Buzz Writer for dyslexia, dysgraphia, reading, and writing support.

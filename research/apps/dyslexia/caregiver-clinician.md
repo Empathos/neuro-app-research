@@ -718,3 +718,73 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: Repository documentation describing a Flask-based screening app with structured risk scoring, handwriting-image analysis, and OCR processing.
+
+### ASTI for Families
+
+- URL: https://www.neurodivarsity.com/resources/families
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: AI support for families and neurodivergent people, including dyslexia-focused reading, writing, and comprehension assistance; positioned as support between professional appointments.
+
+### Jade - Learning Through Play
+
+- URL: https://play.google.com/store/apps/details?id=com.jadeautism.jadeautism&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Learning platform for neurodivergent children and teens, including dyslexia, with caregiver, educator, therapist, and psychologist progress-monitoring features.
+
+### Explainable Digital Biomarker for Dyslexia Research
+
+- URL: https://www.neuronavigation.org/s-projects-side-by-side
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Public research lead describing a translational program developing a transparent digital dyslexia-probability instrument intended for schools, clinicians, and families.
+
+### Neurodivarsity Resources for Professionals
+
+- URL: https://www.neurodivarsity.com/resources/professionals
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Professional resource hub including ASTI for Dyslexia, described as reading and writing support for neurodivergent users and practitioners.
+
+### Early Dyslexia Screening Mobile Application Research
+
+- URL: https://edutech-journals.org/index.php/j-hytel/article/download/217/107
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Research lead on an AI-based mobile application for non-clinical early dyslexia screening, including child profiles, text responses, reading audio recordings, and dyslexia detection.
+
+### Accruva Reading App
+
+- URL: https://accruva.app/download/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Reading app with accessibility features for ADHD and dyslexia, including an Atkinson Hyperlegible font, adjusted spacing, focus modes, and AI study tools.
+
+### DyslexiCore
+
+- URL: https://devpost.com/software/dyslexicore-5o7jml
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Prototype literacy platform connecting dyslexia risk screening, personalized learning activities, AI tutoring, and structured resources for parents and educators.
