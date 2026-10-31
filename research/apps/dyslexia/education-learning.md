@@ -508,3 +508,53 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Review covering mobile apps, OCR, text-to-speech, adaptive learning, augmented reality, gamification, and personalized reading assistance for dyslexic learners.
+
+### Nimbus
+
+- URL: https://play.google.com/store/apps/details?id=study.nimbus
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Study app offering AI-generated quizzes and flashcards, personalized study schedules, text-to-speech, and accessibility features aimed at neurodivergent learners including students with dyslexia.
+
+### Lexy - Smart Literacy Learning
+
+- URL: https://apps.apple.com/us/app/lexy-smart-literacy-learning/id1564885095?l=ko&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Literacy-learning app for children with dyslexia, ADHD, or reading challenges, featuring adaptive tutoring, multisensory activities, voice feedback, personalized practice, and progress tracking.
+
+### Lexy: Dyslexia Reading Tutor
+
+- URL: https://apps.apple.com/cl/app/lexy-dyslexia-reading-tutor/id1564885095?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Dyslexia-focused reading tutor with structured phonics lessons, decodable-word practice, voice-based reading feedback, dyslexia-friendly customization, and short sessions for neurodivergent learners.
+
+### Learning Disability Resources and Project LD-ATLAS
+
+- URL: https://irrc.education.uiowa.edu/research/research-projects
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: University of Iowa research and resource initiative developing an online hub for learning disabilities, dyslexia guidance, educator resources, and teacher knowledge research.
+
+### mCLASS Dyslexia Toolkit
+
+- URL: https://amplify.com/pdf/uploads/2022/10/mCLASS_DyslexiaToolkit_102722-4.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Assessment toolkit describing research-backed literacy screening and support using DIBELS measures, including vocabulary, spelling, rapid naming, and English- and Spanish-language dyslexia-risk screening.

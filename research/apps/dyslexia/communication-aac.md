@@ -518,3 +518,33 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Literature-index entry identifying Augmenta11y as a reading-assistance application for children with dyslexia within assistive-technology and AAC research.[2]
+
+### Augmenta11y Reading Assistant
+
+- URL: https://dl.acm.org/doi/10.1145/3520495.3522703
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Cross-platform reading-assistance application for children with dyslexia using accessible reading practice and participatory design; available for iOS and Android.
+
+### TTT Letter Board
+
+- URL: https://apps.apple.com/de/app/ttt-letter-board/id6773523125
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Free customizable AAC app for nonspeaking and minimally speaking people, with immediate speech, switch and eye-tracking support, keyboard modes, and dyslexia-friendly fonts.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/sg/app/dyslexiabuddy/id1565832172
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Read-aloud support for dyslexia and ADHD that converts printed pages, PDFs, and on-screen text into readable and listenable content.
