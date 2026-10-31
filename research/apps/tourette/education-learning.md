@@ -718,3 +718,43 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Public neurodivergence resource page linking to educational materials, toolkits, webinars, and Tourette Association of America resources.
+
+### Tourette Association Educator and Teen Support Resources
+
+- URL: https://tourette.org/about-tourette/overview/living-tourette-syndrome/teens-13-17/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Toolkit hub for teens, educators, counselors, school psychologists, therapists, nurses, college professors, and other support personnel.[6]
+
+### Free Classroom Training Options
+
+- URL: https://tourette.org/free-classroom-training-options/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Free training videos and an interactive Neurodiversity & Tourette Syndrome curriculum designed to build classroom understanding, empathy, and accommodation knowledge.[8]
+
+### Tourettes Action Resource Library
+
+- URL: https://www.tourettes-action.org.uk/64-resources.html?rc=999&ta=yes
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: UK resource library with education materials, child and teacher resources, presentations, and guidance on using apps and strategies in learning contexts.[4]
+
+### Tourettes Action Training Offer
+
+- URL: https://www.tourettes-action.org.uk/160-our-training-offer.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Free e-learning and training options covering Tourette syndrome awareness for education professionals, families, healthcare workers, employers, and neurodiversity support.[9]

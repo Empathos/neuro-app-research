@@ -518,3 +518,43 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Neurodivergent-oriented productivity app offering sensory-friendly design, customizable reminders, voice commands, screen-reader compatibility, and accessibility-focused features.
+
+### Autism-Tech Database
+
+- URL: https://www.multiplehub.org/autism-tech-database
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Public database of technology and solutions for autistic and broader neurodivergent communities, useful for adjacent assistive-tech discovery.[5]
+
+### Assistive Technology for Neurodivergent Individuals: Systematic Literature Review
+
+- URL: https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwag038/8751180?redirectedFrom=PDF
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Research review covering mobile applications, virtual reality, smartwatches, and other assistive technologies supporting self-regulation, routines, participation, and independence among neurodivergent people.[8]
+
+### Kyntic
+
+- URL: https://apps.apple.com/no/app/kyntic/id1643229581
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: iPhone app for tracking, saving, and analyzing Tourette syndrome and tic data using user input and sensor data.
+
+### Easylens
+
+- URL: https://github.com/topics/moblie-development
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: GitHub-listed accessibility assistant concept designed for visually impaired and neurodivergent users, combining computer vision, language models, cloud services, and wearable integration.
