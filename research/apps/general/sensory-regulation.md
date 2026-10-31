@@ -748,3 +748,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: iOS app with interactive sensory fidgets intended to support calm moments, focus, sensory seeking, and transitions.
+
+### Little Words
+
+- URL: https://littlewords.ai/sensory-friendly-speech-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Sensory-friendly speech practice app allowing caregivers to adjust session energy, pacing, wait time, length, visual choices, and stopping conditions.

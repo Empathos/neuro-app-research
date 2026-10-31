@@ -628,3 +628,13 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: ADHD support app with mood analytics, personalized exercises, breathing and relaxation practices, CBT and DBT-based emotional-regulation tools, and planning features.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/eg/app/autism-adhd-games/id6757896431?l=ar&platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Sensory and fidget activities for autistic children and neurodivergent learners, supporting self-regulation, transitions, waiting, sensory seeking, and overload.[6]

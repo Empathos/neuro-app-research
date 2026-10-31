@@ -788,3 +788,43 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Visual planner with routines, gentle reminders, AI-assisted planning, task prioritization, and a focus timer aimed at simplifying executive-function demands.
+
+### NeuroFairy
+
+- URL: https://github.com/Margaretgass/neurofairy
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: ADHD-aware executive-function agent presented as a local desktop assistant for organizing tasks, focus time, calendars, and notes.
+
+### Pocket Butler
+
+- URL: https://github.com/nvanbaak/pocket-butler
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Web-based task-management app designed for accessibility and executive-function support for autistic and ADHD users, including automatic scheduling and reminders.
+
+### Cognitive Execution System
+
+- URL: https://github.com/Arush-235/Cognitive-Execution-System
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Progressive web app for ADHD task management that guides initiation, sustained attention, and completion based on energy, momentum, and resistance.
+
+### Minder
+
+- URL: https://github.com/Erudition/Minder
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Pre-alpha assistant and life planner for people with weak executive functions, providing reminders and off-task prompts.

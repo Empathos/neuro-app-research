@@ -858,3 +858,43 @@
 - Query: general education-learning neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Free lesson-planning tool for tutors and teaching staff that provides group-level adaptation suggestions for more inclusive learning.
+
+### OpenLearn Neurodiversity Hub
+
+- URL: https://www.open.edu/openlearn/education-development/neurodiversity-hub
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Open educational resource hub focused on helping educators support neurodivergent learners in online and distance education.
+
+### Neurodiversity Resources  Valley Charter Schools
+
+- URL: https://www.valleycharterschool.org/apps/pages/index.jsp?uREC_ID=1984898&type=d&pREC_ID=2774247
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Public education resource page linking tools for understanding different learning approaches, standing-together materials, bullying support, and literacy and dyslexia resources.
+
+### Brain in Hand
+
+- URL: https://www.educa2.madrid.org/web/albor/aplicaciones-moviles
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Neurodiversity-support app highlighted for autistic people, people with ADHD, and users experiencing anxiety, overload, or executive-function difficulties. Combines self-management tools with coaching and human support.
+
+### Neurodiversity Education Resources
+
+- URL: https://neurodiversiteit.nl/category/guides-resources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Guides and classroom-oriented resources from the ND Pride Education Campaign, including lesson materials designed to support awareness, respect, and inclusive thinking.

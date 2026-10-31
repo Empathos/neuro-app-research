@@ -1218,3 +1218,33 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: AAC tool with core-word boards, sentence strips, text-to-speech voices, and customizable tiles for children and adults with speech challenges.
+
+### Asterics Repositories
+
+- URL: https://github.com/orgs/asterics/repositories
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Official repository listing for Asterics accessibility projects, including Asterics-AAC.
+
+### Synchrony
+
+- URL: https://joinsynchrony.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Social app for neurodivergent adults offering interest-based connection and communication with optional support.
+
+### All in One AAC
+
+- URL: https://apps.apple.com/us/app/all-in-one-aac/id6753122872
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Multilingual iPhone and iPad AAC app supporting offline picture-based communication for children, teens, and adults.
