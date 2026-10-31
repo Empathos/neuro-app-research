@@ -749,16 +749,6 @@
 - Found: 2026-10-24
 - Description: Sensory-aware storytelling and coaching app for neurodivergent children, including processing breaks, AAC and visual-communication modeling, self-regulation tools, and sensory activities.
 
-### SensesHub
-
-- URL: https://senseshub.org/
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: communication-aac
-- Query: sensory-processing communication-aac neurodivergent app research pass 502
-- Found: 2026-10-24
-- Description: Neurodivergent-support platform offering sensory-break timers, predictable routines, and an offline-first AAC app with scene-based vocabulary and personalized communication tiles.
-
 ### Sensory Shock
 
 - URL: https://sensoryshock.com/
@@ -838,3 +828,53 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Directory of verified neurodiversity apps covering AAC and communication boards, text-to-speech, sensory regulation, visual schedules, and routine support.
+
+### Spoken - Tap to Talk AAC
+
+- URL: https://apps.apple.com/no/app/spoken-tap-to-talk-aac/id1034487817
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: AAC app designed for teens and adults with non-speaking autism, aphasia, or other speech and language disorders.
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/sg/app/touchchat-hd-aac/id398860728
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Full-featured AAC solution with customizable vocabulary pages, buttons, words, phrases, sentences, and support for autism and other conditions affecting natural speech.
+
+### AAC Communication Board Multi
+
+- URL: https://apps.apple.com/it/app/aac-communication-board-multi/id6756518817
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Offline picture-based AAC board with text-to-speech, sentence building, multilingual support, adjustable button sizes, calming colors, and haptic feedback.
+
+### Tiny Talk AAC
+
+- URL: https://apps.apple.com/gh/app/tiny-talk-aac/id6754395983
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: AAC app for children and adults with speech challenges, featuring large tap targets, optional haptic and sound feedback, high contrast, and low-stimulation themes for sensory comfort.
+
+### Feel Like Me - Autism Empathy Simulator
+
+- URL: https://github.com/AzazAhmedLipu79/feel-like-me-autism
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Public repository for an interactive simulator covering sensory processing, cognitive load, social navigation, and self-regulation, with adjustable audio-visual intensity.

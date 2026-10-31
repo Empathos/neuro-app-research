@@ -588,3 +588,33 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Privacy-conscious, mobile-first self-regulation studio organized around movement, attention, patterns, and play, with modes for downregulation and focus.
+
+### Sensory Magma
+
+- URL: https://apps.apple.com/gb/app/sensory-magma/id647810604
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Free iPad sensory visual app listed in the App Store and described as supporting children and users with sensory-processing needs.
+
+### EASe Listening Therapy
+
+- URL: https://apps.apple.com/za/app/ease-listening-therapy/id472604387
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: iPhone and iPad auditory-sensory app using structured music and sound exposure for children with autism and sensory-processing difficulties.
+
+### Little Words
+
+- URL: https://littlewords.ai/sensory-friendly-speech-app
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Sensory-friendly speech practice app allowing caregivers to adjust session energy, pacing, pauses, visual choices, and duration for children.

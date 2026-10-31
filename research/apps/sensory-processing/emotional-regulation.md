@@ -508,3 +508,33 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: Public GitHub notebook repository for analyzing and classifying emotional states using DEAP EEG data; potentially useful as a technical research lead for emotion-recognition tooling.
+
+### AndroidSensors
+
+- URL: https://github.com/numericcal/AndroidSensors
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Open-source Android testbed for collecting sensor streams and experimenting with sensory-data processing and machine-learning models.
+
+### Open Sensing Research Platform
+
+- URL: https://github.com/open-sensor-research-platform/osrp
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Open-source research platform combining screenshots, sensors, and wearable data for digital phenotyping and behavioral research.
+
+### Sensory Survey 3D
+
+- URL: https://github.com/sensorimotor-bionics/SensorySurvey3D
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: JavaScript and Python framework for collecting participant sensory information through a 3D body representation, relevant to sensory-perception and neurotechnology research.[9]

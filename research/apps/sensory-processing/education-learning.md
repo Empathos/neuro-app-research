@@ -978,3 +978,43 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Open-access research resource providing neuroimaging data, tools, and computing infrastructure for finding, assessing, and processing EEG, MEG, intracranial EEG, and EMG datasets.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/ca/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Neuroaffirming support app for autistic, ADHD, and otherwise neurodivergent children, families, adults, educators, and allied-health professionals, including sensory-strategy guidance.
+
+### Spectrum Buddy
+
+- URL: https://apps.apple.com/sg/app/spectrum-buddy/id6760562212
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Support app offering reminders, sensory regulation resources, breathing exercises, grounding techniques, and trusted-contact features for neurodivergent users.
+
+### Tihi
+
+- URL: https://apps.apple.com/kr/app/tihi/id6751172848?l=en-GB&platform=tv
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Minimalist silent-communication app for sensory overload and neurodivergent support, enabling one-tap signals such as Need Quiet, Need Break, or Overwhelmed to caregivers, teachers, or support partners.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/bo/app/autism-fidgets/id6761034020?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Sensory-play app with more than 90 virtual fidgets, including spinners, bubble pop, touch interactions, and calming visual effects for regulation, focus, transitions, and independent exploration.
