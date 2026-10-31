@@ -1278,3 +1278,13 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Co-created mobile self-help app for autistic adolescents that supports stress recognition and coping skills; reported as free on major app stores in multiple countries and languages.
+
+### Mobile Application to Support Independence in Daily Routines
+
+- URL: https://is.ijs.si/?p=25234
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Research project describing a pilot mobile app for adolescents with autism and/or ADHD and executive-function difficulties, using visual and time-based routines, progress tracking, a Pomodoro timer, and rewards.

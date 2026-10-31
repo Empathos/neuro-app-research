@@ -998,3 +998,53 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: iPad app for neurodiverse children featuring a calm corner, breathing exercises, virtual sensory toys, calming sounds, communication tools, routine planning, and mood check-ins.
+
+### Spoons  Autism Energy Tracker
+
+- URL: https://apps.apple.com/us/app/spoons-autism-energy-tracker/id6759444989
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: An energy-tracking app for autistic adults that records burnout, masking fatigue, shutdowns, sensory overload, and recovery patterns.
+
+### Sensory Garden: Autism Play
+
+- URL: https://play.google.com/store/apps/details?id=com.missingstep.sensorycanvas&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: A sensory-play app for autistic children featuring simple touch interactions and adjustable settings for individual preferences.[1]
+
+### Nello: Calm Autism Tracker
+
+- URL: https://adelyons.com/apps/nello/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: A private tracking app for logging sensory moments, meltdowns, sleep, food, and strengths; it identifies patterns and supports creation of a personalized calm kit.[5]
+
+### Autism Sensory Games & Toys
+
+- URL: https://apps.apple.com/in/app/autism-sensory-games-toys/id1561581241
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: An iPad app offering interactive sensory toys and calming activities designed for relaxation and daily engagement.[6]
+
+### Sensory Baby Toddler Learning
+
+- URL: https://play.google.com/store/apps/details?id=com.SensoryPlayApps.SensoryFishFree&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: A visually stimulating sensory learning game for babies and toddlers, with use cases described for children with autism and special educational needs.[7]

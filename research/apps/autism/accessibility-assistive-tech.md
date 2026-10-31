@@ -888,3 +888,23 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Augmentative and alternative communication app for iPad designed to support communication for autistic and nonspeaking users.
+
+### Matraquinha: Autism
+
+- URL: https://apps.apple.com/br/app/matraquinha-autism/id1423586611?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: AAC app using images and synthesized speech to support autonomy and self-expression for autistic people and individuals with speech difficulties.
+
+### Speech Assistant - AAC Talker
+
+- URL: https://apps.apple.com/mx/app/speech-assistant-aac-talker/id6446367342?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: App Store listing for a customizable AAC tool with text-to-speech, hands-free controls, and listening features for people with autism and other communication difficulties.

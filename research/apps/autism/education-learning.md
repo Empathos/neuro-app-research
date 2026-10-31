@@ -1208,3 +1208,73 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Official NIH resource page linking to autism research data resources, including the National Database for Autism Research and the ABCD Data Repository.
+
+### Cubbi: The App for Parents
+
+- URL: https://apps.apple.com/in/app/cubbi-the-app-for-parents/id6737774011
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Parent and caregiver app for neurodivergent children that supports organization, mood and well-being tracking, and special-education management.[10]
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/fr/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Neurodivergent social-learning app using social narratives, picture schedules, visual timers, token boards, and first/then charts to support life skills and social interaction.
+
+### Brain in Hand
+
+- URL: https://www.educa2.madrid.org/web/albor/aplicaciones-moviles
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Neurodiversity-support app for autistic people and people with ADHD, combining self-management tools, executive-function support, coaching, and human assistance.
+
+### Jade Autism
+
+- URL: https://hundred.org/en/innovations/jade-autism
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Game-based educational platform for neurodivergent children that uses learning activities, cognitive data, educational reports, and individualized support for teachers.
+
+### Jade - Learning Through Play
+
+- URL: https://play.google.com/store/apps/details?id=com.jadeautism.jadeautism&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Learning platform supporting children and teens with autism, ADHD, dyslexia, dyscalculia, Down syndrome, and other neurodevelopmental profiles.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/us/app/autism-adhd-games/id6757896431?l=fr-FR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Skill-building activities for autistic and neurodivergent children, including sorting, tracing, numbers, sensory play, mazes, creativity, and predictable visual interactions.
+
+### For Autism Awareness  Apple App Store Collection
+
+- URL: https://apps.apple.com/us/iphone/story/id1670519228?l=fr-FR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Apple-curated collection featuring communication and learning tools such as Leeloo AAC, Spoken, Speech Blubs, and Wingo for autistic and otherwise neurodivergent users.

@@ -139,16 +139,6 @@
 - Found: 2026-06-29
 - Description: Research review on caregiver-implemented AAC interventions for children, assessing child and caregiver characteristics and intervention types to support neurodivergent communication.
 
-### Supporting Parents, Guardians, and Caregivers of AAC Users
-
-- URL: http://slptoolkit.com/blog/supporting-parents-guardians-and-caregivers-of-aac-users-what-more-can-slps-do/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: caregiver-clinician
-- Query: AAC caregiver app
-- Found: 2026-06-29
-- Description: SLP Toolkit article outlining 4 pillars of caregiver support for successful AAC therapy, including grief space and understanding unique communication needs.
-
 ### Ma-Talk AI (AI-powered AAC App)
 
 - URL: https://www.facebook.com/groups/wespeakaac/posts/3148224738670219/
@@ -898,3 +888,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Peer-reviewed open-access study examining caregiver experiences of service access and considerations for developing interventions for autistic people with intellectual disability.
+
+### Voice Anchor
+
+- URL: https://github.com/VemireddyBhavana/voice-anchor
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Public GitHub repository for a voice-first progressive web app designed to support autistic children and caregivers with routines, transitions, sensory regulation, and daily management.
+
+### Clinicianless Training in Autism Treatment
+
+- URL: https://apps.dtic.mil/sti/trecms/pdf/AD1146867.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Research project describing a self-directed smartphone application for caregiver training in Pivotal Response Treatment without direct clinician involvement.
+
+### Hi Rasmus
+
+- URL: https://apps.apple.com/kh/app/hi-rasmus/id1544967962
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Collaborative care platform for clinicians, educators, and caregivers, with learner profiles, team participation, session and report comments, care plans, and outcome tracking.
