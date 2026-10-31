@@ -638,3 +638,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: Resource guide covering sensory-processing supports such as visual schedules, lighting adjustments, noise-cancelling headsets, tactile barriers, fidgets, and movement-related tools.
+
+### Apple Accessibility: Sensory Alerts and Assistive Access
+
+- URL: https://www.apple.com/hk/en/accessibility/features/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Official feature documentation for Sensory Alerts, sound and vibration notifications, the Noise app, and Assistive Access with simplified interfaces, high-contrast buttons, large text, and visual alternatives.
+
+### Apple Accessibility Support
+
+- URL: https://support.apple.com/accessibility
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Official support hub for accessibility features including Personal Voice, Live Speech, assistive communication apps, and setup guidance.

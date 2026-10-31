@@ -828,3 +828,23 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Caregiver logging app with multilingual assistance, therapist and IEP-team PDF sharing, environmental preparation for sensory considerations, and clinician-assigned home practice.
+
+### S.T.A.R.S. Sensory Tools and Resources for Autism Support
+
+- URL: https://solve.mit.edu/solutions/92205
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: App concept providing sensory activities for autistic children alongside caregiver and therapist tools for customization, collaborative monitoring, and progress data.
+
+### Autism Therapy Planner
+
+- URL: https://apps.apple.com/cl/app/autism-therapy-planner/id6757543756?l=en-GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: iOS planner with daily occupational therapy, speech, sensory, and cognitive activities, plus shared notes and progress coordination among caregivers, teachers, and therapists.
