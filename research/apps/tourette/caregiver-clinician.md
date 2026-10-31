@@ -808,3 +808,33 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Public repository of digital tools for movement disorders, including tic-tracking and tic-suppression software such as TicTrainer.
+
+### Duke Autism Center Travel Toolkit
+
+- URL: https://autismcenter.duke.edu/blog/travel-toolkit
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Family-oriented planning toolkit with practical information, tips, and sample materials for supporting neurodivergent individuals during travel.
+
+### Neurodiversity-Affirming Care and Support Toolkit
+
+- URL: https://static1.squarespace.com/static/632462bb88e23c400c82d41a/t/69b43082b2d6363cc58e42d8/1773416578519/NdC_NdAffirming+Care+and+Support_Toolkit_V13.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Public toolkit from Neurodiverse Connection containing discussion prompts, care-plan templates, safety-plan templates, and coordinated, consent-based support tools for health, education, and social care.
+
+### Neurodivergent Insights Crisis and Suicide Prevention Resources
+
+- URL: https://neurodivergentinsights.com/neurodivergent-crisis-support/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Public resource hub for neurodivergent adults, caregivers, and clinicians, including autonomy-centered safety planning and a free safety-plan workbook.

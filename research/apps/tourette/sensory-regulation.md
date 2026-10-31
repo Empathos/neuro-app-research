@@ -649,3 +649,13 @@
 - Found: 2026-10-15
 - Description: Sensory-regulation app developed for families, professionals, and schools, with stated support for Tourette syndrome, ADHD, autism, and sensory processing differences.
 
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/fr/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: App Store listing for tracking tics, triggers, sleep, diet, screen time, stress, and generating professional reports; also includes calming exercises.[10]

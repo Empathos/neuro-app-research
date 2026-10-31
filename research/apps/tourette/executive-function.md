@@ -928,3 +928,13 @@
 - Query: tourette executive-function neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: App Store listing for an AI planning and follow-through assistant marketed for neurodivergent users, including executive-function support and task breakdown.
+
+### Tourettes Action  Research Resource Library
+
+- URL: https://www.tourettes-action.org.uk/rescat-9-research.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Public library of Tourette syndrome research reports, surveys, and related research information.
