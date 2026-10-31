@@ -808,3 +808,23 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-27
 - Description: Minimal tool-picker app for neurodivergent users with a dedicated Emotional Regulation mode, guided activities, timers, and more than 30 practical tools.
+
+### iReact - Emotional Regulation - Anxiety, Autism
+
+- URL: https://apps.apple.com/us/app/ireact-emotional-regulation-anxiety-autism/id842162674?platform=iphone
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Designed to help children recognize difficult emotions and bodily emotional states, then practice coping activities intended to build independent regulation skills.
+
+### Autism Toolbox - Behavior
+
+- URL: https://apps.apple.com/us/app/autism-toolbox-behavior/id1057460578?ls=1
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Parent and professional resource for autistic children ages 312, covering anxiety, meltdowns, self-regulation, repetitive behavior, sleep, safety, and other support needs.

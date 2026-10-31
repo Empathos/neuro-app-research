@@ -798,3 +798,13 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: App using social narratives, picture schedules, visual timers, first/then charts, and token boards to teach daily-living and social skills to neurodivergent children.[10]
+
+### Executive Function Magazine
+
+- URL: https://apps.apple.com/mx/app/executive-function-magazine/id6474455746?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: iOS magazine app covering autism, ADHD, planning, organization, task initiation, memory, cognitive flexibility, motivation, and social skills.[2]

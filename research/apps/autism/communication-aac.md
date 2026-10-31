@@ -1148,3 +1148,13 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: AAC app for children with speech delays or limited speech, supporting personalized photos, recorded audio, complete sentences, and 25 languages.[7]
+
+### AAC Visuals Board for Autism
+
+- URL: https://apps.apple.com/us/app/aac-visuals-board-for-autism/id6451429642
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: iOS visual communication board designed for nonspeaking users, autism communication, and aphasia.
