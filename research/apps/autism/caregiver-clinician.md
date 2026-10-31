@@ -139,16 +139,6 @@
 - Found: 2026-06-29
 - Description: Research review on caregiver-implemented AAC interventions for children, assessing child and caregiver characteristics and intervention types to support neurodivergent communication.
 
-### Supporting Parents, Guardians, and Caregivers of AAC Users
-
-- URL: http://slptoolkit.com/blog/supporting-parents-guardians-and-caregivers-of-aac-users-what-more-can-slps-do/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: caregiver-clinician
-- Query: AAC caregiver app
-- Found: 2026-06-29
-- Description: SLP Toolkit article outlining 4 pillars of caregiver support for successful AAC therapy, including grief space and understanding unique communication needs.
-
 ### Ma-Talk AI (AI-powered AAC App)
 
 - URL: https://www.facebook.com/groups/wespeakaac/posts/3148224738670219/

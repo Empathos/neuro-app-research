@@ -698,3 +698,63 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Care-management platform with role-specific tools for clinicians, caregivers, RBTs, and learners; the caregiver app includes training, interactive journaling, data collection, and clinician-sharing features.
+
+### AutiBloom
+
+- URL: https://github.com/apekshyasharma/AutiBloom
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Django-based pediatric wellbeing and autism-care platform designed to connect caregivers and clinicians through wellbeing tracking, therapeutic activities, risk prediction, and clinical reports.
+
+### AURA Autism Care and Development Ecosystem
+
+- URL: https://github.com/Niranjan18v/autism
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Open repository for a bilingual autism-care platform with caregiver and clinician dashboards, routine planning, progress tracking, therapy directives, and developmental tools.
+
+### Pletly Care and Pletly Pal
+
+- URL: https://link.springer.com/article/10.1186/s44247-026-00242-3
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Web and mobile care-coordination platform designed to improve communication between professional caregivers and family members of adults with profound autism in residential care.
+
+### NotAlone Inc
+
+- URL: https://apps.apple.com/es/app/notalone-inc/id6752503007?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: AI-assisted support platform for parents and caregivers of neurodivergent children, combining personalized guidance, evidence-oriented resources, community support, and journey tracking.
+
+### SimpliHere for Caregiving
+
+- URL: https://apps.apple.com/it/app/simplihere-for-caregiving/id6476467962?l=en-GB&platform=mac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: HIPAA-ready care-coordination and AAC app for people with communication or mobility-affecting neurological conditions, including autism, connecting families, professional caregivers, and therapists.
+
+### VoiceLove
+
+- URL: https://stories.tamu.edu/news/2026/07/22/ai-powered-tool-aims-to-aid-communication-for-people-with-autism-and-dementia/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-10-31
+- Description: Research-stage AI communication tool intended to help caregivers and therapists identify individualized speech and nonverbal behavior patterns from securely recorded everyday interactions.

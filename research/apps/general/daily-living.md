@@ -718,3 +718,13 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Public service directory entry describing Thruday as an assistive-living app with visual planners, to-do lists, printable schedules, and PECS-style communication cards.
+
+### ADHD Developer Toolkit
+
+- URL: https://github.com/phoenixsoftweb-brighton/adhddeveloper-toolkit
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-10-31
+- Description: Public toolkit offering plain-language command-line tools designed with neurodivergent developers in mind.
