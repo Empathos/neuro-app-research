@@ -708,3 +708,33 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: Open-source AI task-management framework that follows up on unfinished tasks and escalates when work slips; its site notes that it is not intended as a clinical or ADHD-support tool.
+
+### AskSheldon Executive Function Support
+
+- URL: https://asksheldon.app/fr/tools/executive-function-support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: A web-based support tool with focus timers, task naming, and if-stuck planning intended to make the next action clearer for ADHD and autistic users.
+
+### sFEra APP: Description and Usability of a Novel Tablet Application for Executive Functions Training
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9201496/pdf/41465_2022_Article_245.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Open-access research paper describing initial usability testing of a tablet application focused on attention and executive-function cognitive training.
+
+### Adult Executive Function Toolkit for Autism & ADHD
+
+- URL: https://www.ezducate.ai/lp/autism-executive-function-adults
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Public toolkit featuring task-initiation protocols, visual timers, time-blindness resources, body-doubling templates, working-memory supports, and autism-adapted prioritization tools.

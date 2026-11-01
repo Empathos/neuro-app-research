@@ -504,3 +504,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Online mental-health and neurodevelopmental service offering autism and ADHD assessments, post-assessment care, and practitioner matching; useful as a clinician-facing support and service-delivery lead.[8]
+
+### Observing executive functioning of neurodivergent students and supporting practices of their teachers in the classroom
+
+- URL: https://journals.sagepub.com/doi/10.1177/27546330241258817
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Research describing the Behavioral Observation of Classroom Executive Functioning tool for measuring observable student executive-function behaviors and teacher support strategies.[1]

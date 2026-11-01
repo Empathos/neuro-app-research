@@ -868,3 +868,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Educational resource highlighting digital tools such as 30/30 for task and time management and Evernote for organizing assignments, directions, recordings, tags, notes, and task lists.
+
+### Ava for Schools
+
+- URL: https://apps.apple.com/us/app/ava-for-schools/id6748623549
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: SEL game for grades 59 featuring neurodivergent students and an executive-function minigame focused on overcoming task-starting frustration, identifying challenges, and developing strategies.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/na/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Visual planning and learning app for ADHD, autism, and other diverse cognitive profiles, with executive-function supports, task breakdowns, routines, time management, and bite-sized expert learning content.

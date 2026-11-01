@@ -868,3 +868,23 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Open-source, local-first executive-function support tool that tracks attention patterns, hyperfocus, task drift, and context switching, with real-time nudges and analytics.
+
+### Goally
+
+- URL: https://education.toolsinfo.com/tool/goally
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Neurodivergent-support platform combining visual schedules, checklists, routines, rewards, emotional-regulation features, and AAC communication.
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/nl/app/touchchat-hd-aac/id398860728
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Full-featured AAC app for people with limited natural speech, including users with autism, apraxia, ALS, stroke, and Down syndrome.

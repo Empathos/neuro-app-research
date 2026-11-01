@@ -458,3 +458,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Public service-directory description of Thruday as an assistive daily-living app offering visual planners, routines, to-do lists, printable schedules, and communication cards.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/ph/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: App Store listing for Tiimo, featuring visual schedules, AI planning, task prioritization, focus timers, and calendar and reminder synchronization.[4]
