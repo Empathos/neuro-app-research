@@ -968,3 +968,63 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Planner created for ADHD, ADD, and neurodivergent users to organize everyday tasks, thoughts, ideas, and routines while reducing overwhelm.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/tr/app/brimming-adhd/id6469721652
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Digital wellness app for ADHD and neurodivergent users focused on task initiation, overwhelm, time blindness, avoidance, and follow-through.
+
+### Shimmer Care: ADHD Coaching
+
+- URL: https://apps.apple.com/ca/app/shimmer-care-adhd-coaching/id1570668247
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: App offering bite-sized one-to-one ADHD coaching for focus, executive-function skills, goal-setting, and follow-through.
+
+### This 60: ADHD Focus App
+
+- URL: https://apps.apple.com/us/app/this-60-adhd-focus-app/id6741018069
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: ADHD-focused task and time-management app using simplified task buckets, 60-minute sprints, recurring tasks, and hyperfocus boundaries.
+
+### ADHD Focus
+
+- URL: https://github.com/metehan/adhd-focus
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Task, project, and time-management app designed for ADHD users, using an Eisenhower-method workflow.
+
+### Ignite
+
+- URL: https://github.com/malinfossum/ignite
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Open-source, local-first ADHD-friendly task app for capturing thoughts quickly and organizing them later, without accounts or paywalls.
+
+### The ADHD App
+
+- URL: https://github.com/lenarzjacqueline/The-ADHD-App
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Research-oriented mobile application project for women with ADHD, including data collection and exploratory diagnosis-related functionality.

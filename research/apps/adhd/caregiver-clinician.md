@@ -758,3 +758,13 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-25
 - Description: Registered randomized controlled pilot study evaluating a smartphone app that provides digitally guided parent training and psychoeducation for caregivers of children with suspected or diagnosed ADHD and related conditions.
+
+### Inclusive Media and Design Centre GitHub
+
+- URL: https://github.com/IMDC
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public repository organization with projects related to neurodivergent learners, accessible design, and tools for neurodivergent job seekers.

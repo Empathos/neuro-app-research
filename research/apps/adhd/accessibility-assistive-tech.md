@@ -858,3 +858,63 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: iPhone AI planner for neurodivergent users that estimates task duration, categorizes tasks, and converts difficult tasks into manageable subtasks.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/ky/app/inflow-manage-your-adhd/id1528183849
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Science-based ADHD support app focused on attention, productivity, procrastination, and follow-through; designed by people with ADHD.
+
+### neurolist: AI Planner for ADHD
+
+- URL: https://apps.apple.com/mt/app/neurolist-ai-planner-for-adhd/id6468689182
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: AI planner for neurodivergent users that breaks intimidating tasks into subtasks, estimates duration, and provides timers and voice notifications.
+
+### Hypermonkey: ADHD Productivity
+
+- URL: https://apps.apple.com/jp/app/hypermonkey-adhd-productivity/id6736893516?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Gamified ADHD productivity tool with task capture, task breakdown, prioritization, suggestions, and voice-based task updates.
+
+### DoThisNow: ADHD Productivity
+
+- URL: https://apps.apple.com/us/app/dothisnow-adhd-productivity/id6743128778
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: ADHD daily organizer combining to-do lists, habit tracking, goals, reminders, visual progress indicators, and goal decomposition.
+
+### Brain Dump: ADHD Notes & Ideas
+
+- URL: https://apps.apple.com/us/app/brain-dump-adhd-notes-ideas/id6448230631
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Quick-capture notes app designed for ADHD users; includes larger-text and dark-interface accessibility options.
+
+### Tiimo  Visual AI Planner for ADHD and Autism
+
+- URL: https://www.abledlikeme.com/resources/tiimo
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Public product lead for a visual planner supporting ADHD, autism, time agnosia, and executive dysfunction through visual schedules, timed steps, calendar integration, shared profiles, and reminders.

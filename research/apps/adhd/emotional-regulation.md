@@ -1228,3 +1228,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Emotional-regulation companion for ADHD featuring quick audio interventions, symptom tools, and tracking for emotional patterns, burnout, and outbursts.[4]
+
+### Verenigma
+
+- URL: https://apps.apple.com/in/app/verenigma/id6444808458
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Voice-note-based emotion-regulation app that uses AI to reflect emotional tone and help users with ADHD, RSD, and emotional overload identify and process feelings.
+
+### Savvy App: Parenting Helper
+
+- URL: https://apps.apple.com/nl/app/savvy-app-parenting-helper/id6466156451
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Parenting support app for children with ADHD featuring emotional-regulation strategies, calming and mindfulness techniques, self-expression guidance, and behavioral coaching.

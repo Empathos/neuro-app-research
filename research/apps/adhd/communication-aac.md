@@ -1039,3 +1039,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: MIT-licensed collection of Claude Code skills intended to address ADHD-related executive-function gaps for developers, with no installer or external dependencies.
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/nl/app/touchchat-hd-aac/id398860728
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Full-featured iOS AAC solution with customizable vocabulary pages, buttons, words, phrases, sentences, and speech output.
+
+### Virginia Tech T/TAC AAC App Library
+
+- URL: https://www.ttac.vt.edu/Library1/New_Library_Resources1.html
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Institutional resource page listing AAC and neurodivergence-support apps available for trial through a lending library, including Avaz AAC, Alexicom AAC, and Choiceworks.

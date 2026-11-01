@@ -928,3 +928,13 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Android app for autistic and ADHD users offering emotion tracking, social-battery ratings, sensory pattern insights, grounding tools, communication phrases, and offline use.
+
+### Applications for the Management of Attention Deficit Hyperactivity Disorder: Systematic Review PDF
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11904913/pdf/fpubh-13-1483923.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Downloadable full-text version of the systematic review evaluating 14 ADHD applications and their reported usability and clinical outcomes.
