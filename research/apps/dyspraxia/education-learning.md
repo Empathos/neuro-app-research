@@ -858,3 +858,23 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Official feature documentation describing short learning modules, worksheets, checklists, templates, conversation tools, and resources for inclusive learning environments.
+
+### Understanding and Supporting Learners with Dyspraxia
+
+- URL: https://libguides.falmouth.ac.uk/neurodivergent/dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Higher-education study guide covering practical supports such as reminders, assistive technology, video instructions, touch typing, dictation, and navigation tools.
+
+### Textbooks Accessibility for Children with Dyspraxia and Visual Disability
+
+- URL: https://hal.science/hal-04410340v1/document
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Research paper on accessible digital textbooks and adapted exercises, including computer-based alternatives to handwriting for children with dyspraxia.

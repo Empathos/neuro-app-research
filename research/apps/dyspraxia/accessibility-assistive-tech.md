@@ -628,3 +628,23 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Handwriting-support app described as offering evidence-based, gamified exercises for letter formation and handwriting practice on Apple and Android devices.
+
+### SnapType
+
+- URL: https://apps.apple.com/us/app/snaptype/id1124115982
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: iOS app that lets students photograph or import worksheets, type answers with an on-screen keyboard, and share or print completed work.
+
+### Jamworks AI Summaries
+
+- URL: https://www.jamworks.com/news/the-benefits-of-jamworks-ai-summaries-for-disabled-and-neurodivergent-students
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Assistive study technology that records class content and generates summaries, reducing manual note-taking demands that can be challenging for students with dyspraxia.
