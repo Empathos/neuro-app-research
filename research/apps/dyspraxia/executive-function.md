@@ -748,3 +748,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: App Store listing for Tiimo with visual routines, gentle reminders, AI-assisted planning, task prioritization, focus timing, and calendar integration.[10]
+
+### FocusNest: ADHD Budget Planner
+
+- URL: https://play.google.com/store/apps/details?id=com.ukwelicode.focusnest
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Android executive-function companion combining budgeting, routines, impulse buffers, and tools intended to reduce overwhelm for neurodivergent users.

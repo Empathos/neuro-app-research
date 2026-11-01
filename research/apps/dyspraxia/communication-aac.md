@@ -1178,3 +1178,13 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: AAC app combining core vocabulary, sentence-building lanes, natural English text-to-speech, and custom tiles; its listing identifies apraxia, developmental language disorder, autism, and other speech challenges as use cases.
+
+### Fluent AAC: Communication App
+
+- URL: https://apps.apple.com/hk/app/fluent-aac-communication-app/id1489807378
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Customizable iPad AAC app for children and adults with conditions affecting natural speech, offering picture-based communication, phrase building, and a vocabulary of more than 3,000 fringe words.

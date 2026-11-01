@@ -778,3 +778,33 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Collaborative visual planner for neurodivergent people, families, and carers, with shared schedules, routine building, and mood tracking. Its listed coverage includes dyspraxia.
+
+### Synchrony
+
+- URL: https://www.linkedin.com/posts/synchrony-app_if-you-support-neurodivergent-adults-you-activity-7466141225792741377-la4_
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Social app for neurodivergent adults that uses communication preferences, interests, social energy, and pacing to support lower-pressure connection and independence.
+
+### Coralis Health
+
+- URL: https://www.f6s.com/software/category/autism-care-navigation
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Care-navigation platform connecting neurodivergent people, caregivers, and families with developmental-behavioral pediatricians, therapists, and related services.
+
+### Medii
+
+- URL: https://www.f6s.com/software/category/family-health-management
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Neurodivergent and developmentally diverse family-health platform with caregiver modes, monitoring, analytics, clinical-team coordination, telehealth, and potential EHR integrations.
