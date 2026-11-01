@@ -908,3 +908,53 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: App Store listing for a customizable AAC tool with text-to-speech, hands-free controls, and listening features for people with autism and other communication difficulties.
+
+### Spoken  Tap to Talk AAC
+
+- URL: https://apps.apple.com/br/app/spoken-tap-to-talk-aac/id1034487817
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: AAC app for teens and adults with nonspeaking autism, aphasia, and other speech or language disorders; users tap to build spoken sentences.
+
+### Communications
+
+- URL: https://apps.apple.com/us/app/communications/id560442053
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: AAC application designed for autistic people with speaking difficulties, using picture-based communication and sentence construction.
+
+### Autism Speech and Language
+
+- URL: https://apps.apple.com/ca/app/autism-speech-and-language/id6466824871
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Parent-guided speech and language support app for children with autism, offering home activities, individualized learning pathways, sensory modifications, and information about neurodivergence.
+
+### MagnusMode
+
+- URL: https://www.accessibility.com/vendors/magnusmode
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Accessibility app designed to support independence and inclusion for people with autism, Down syndrome, and related disabilities.
+
+### Apple Autism Awareness App Collection
+
+- URL: https://apps.apple.com/ru/iphone/story/id1279707387?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Apple App Store collection featuring accessibility and autism-related apps such as Proloquo2Go, Proloquo4Text, TouchChat, Otsimo, Voice Dream, Keeble, and Assistive Express.

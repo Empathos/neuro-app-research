@@ -808,3 +808,33 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: iOS magazine app covering autism, ADHD, planning, organization, task initiation, memory, cognitive flexibility, motivation, and social skills.[2]
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry//children-and-families/send/thruday
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Visual-planning and assistive-living app for autistic and neurodivergent people, offering daily planners, visual schedules, communication cards, shared caregiver access, mood tracking, and journaling.
+
+### Gentle Task Companion
+
+- URL: https://github.com/Intimaria/gentle-task-companion
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Open-source privacy-focused companion for neurodivergent users with task and mood tracking, gratitude features, relaxing sounds, and communication cards.
+
+### Rollercoaster.dev
+
+- URL: https://github.com/rollercoaster-dev
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Open-source initiative created by and for neurodivergent people, focused on supportive, accessible, and empowering tools and platforms.
