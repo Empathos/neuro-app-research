@@ -528,3 +528,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Accessibility-services directory featuring tools such as ModMath, Dolphin EasyReader, and Ghotit Buzz Writer for dyslexia, dysgraphia, reading, and writing support.
+
+### Apple Accessibility Apps Collection
+
+- URL: https://apps.apple.com/tw/iphone/story/id1266441335?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Official App Store collection of accessibility apps, including dyslexia-oriented text-to-speech and readability tools for routine tasks, communication, and language support.
+
+### Fokuspokus
+
+- URL: https://github.com/emircesur
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Public developer repository profile featuring a speed- and focus-based reading app with Bionic-style and RSVP modes, Irlen overlays, syllable coding, and dyslexia/ADHD accessibility features.

@@ -488,3 +488,13 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: Public accessibility resource describing Read&Write, Voice Dream Reader, and BeeLine Reader for reading aloud, customizable layouts, visual tracking, and support for dyslexia and attention differences.
+
+### Accruva Reading and Study App
+
+- URL: https://accruva.app/students/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Reading and study app for ADHD and dyslexic students with chunking, adjustable spacing, Atkinson Hyperlegible font, bold-flow reading, and focus modes.
