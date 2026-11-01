@@ -1008,3 +1008,43 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Public MCP server repository designed to support ADHD executive function through task locking, drift detection, and explicit context-switch boundaries.
+
+### Designing an App for Task and Attention Management
+
+- URL: https://www.politesi.polimi.it/handle/10589/239869
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Research prototype for adults with ADHD and distraction-prone users, combining task management, CBT-informed strategies, emotional support, and accountability features.
+
+### Fostering the Inner Coach
+
+- URL: https://dl.acm.org/doi/10.1145/3797867.3829055
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Research on opportunities for ADHD-support applications, discussing executive-function tools such as Numo, RoutineFlow ADHD, Tiimo, and Propel.
+
+### Not Just Me and My To-Do List
+
+- URL: https://dl.acm.org/doi/10.1145/3816978
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Research on task-management challenges among adults with ADHD, including calendars, alarms, lists, habit trackers, shared tools, and AI-supported prompting.
+
+### Awesome ADHD
+
+- URL: https://github.com/yutakobayashidev/awesome-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Public curated repository covering ADHD research, support practices, tools, lived-experience strategies, body doubling, visual planning, and executive-function concepts.

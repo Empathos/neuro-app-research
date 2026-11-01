@@ -1308,3 +1308,23 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Adaptive literacy tutor for children with ADHD, dyslexia, or reading difficulties, offering personalized practice, voice feedback, progress tracking, and multisensory learning.
+
+### ADHD-Study-AI
+
+- URL: https://github.com/JasonTroup-dev/ADHD-Study-AI
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Open-source AI study assistant for students with ADHD, offering course-material summaries, flashcards, study planning, AI tutoring, and focused work sessions.
+
+### Neurodiversion AI Tools for ADHD
+
+- URL: https://www.neurodiversion.org/ai-tools-for-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Directory of AI and productivity tools for ADHD adults and neurodivergent learners, including Llama Life for tasks and routines and tools designed around personalized focus strategies.
