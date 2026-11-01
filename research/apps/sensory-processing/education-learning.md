@@ -1018,3 +1018,23 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: Sensory-play app with more than 90 virtual fidgets, including spinners, bubble pop, touch interactions, and calming visual effects for regulation, focus, transitions, and independent exploration.
+
+### Goally Apps for Kids with Special Needs
+
+- URL: https://getgoally.com/apps-for-kids-with-special-needs/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Official product page for a suite supporting autistic and ADHD learners with visual schedules, routines, communication tools, calming sounds, rewards, and educational content.
+
+### Supporting Sensory Processing for Neurodivergent Children
+
+- URL: https://aifs.gov.au/resources/resource-sheets/supporting-sensory-processing-neurodivergent-children
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Australian Institute of Family Studies educational resource explaining sensory-processing differences and practical strategies for supporting and accommodating neurodivergent children.

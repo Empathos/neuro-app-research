@@ -618,3 +618,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Sensory-friendly speech practice app allowing caregivers to adjust session energy, pacing, pauses, visual choices, and duration for children.
+
+### Sensory Integration Model
+
+- URL: https://github.com/K-Z-W/sensory-integration-model/blob/main/v_plt_fig06.ipynb
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public computational notebook repository lead related to modeling and visualizing sensory integration.

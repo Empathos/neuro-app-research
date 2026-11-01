@@ -848,3 +848,23 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: iOS planner with daily occupational therapy, speech, sensory, and cognitive activities, plus shared notes and progress coordination among caregivers, teachers, and therapists.
+
+### Systematic Review of the Sensory Processing Experiences of People With ADHD
+
+- URL: https://ray.yorksj.ac.uk/id/eprint/15562/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Open university repository record for a systematic review examining sensory processing differences across the lifespan in people with ADHD.
+
+### Making Space For All Minds
+
+- URL: https://repository.tudelft.nl/record/uuid:be80ef53-4e4f-4925-83b6-3e3cca5ab333
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: TU Delft repository record addressing sensory processing patterns including sensation seeking, sensation avoiding, sensory sensitivity, and low registration.
