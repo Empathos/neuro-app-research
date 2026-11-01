@@ -1048,3 +1048,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: A visually stimulating sensory learning game for babies and toddlers, with use cases described for children with autism and special educational needs.[7]
+
+### Regul-A
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8508158/pdf/ijerph-18-10452.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Research-documented app platform designed to help families use sensory strategies to support autistic childrens participation in home routines.

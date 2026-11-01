@@ -918,3 +918,13 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Collaborative care platform for clinicians, educators, and caregivers, with learner profiles, team participation, session and report comments, care plans, and outcome tracking.
+
+### DIVRGNT
+
+- URL: https://apps.apple.com/us/app/divrgnt/id6761311044
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: iOS community app for parents of neurodivergent, developmentally different, or physically disabled children, with matching by diagnosis, age, support needs, and location.

@@ -1288,3 +1288,33 @@
 - Query: autism executive-function neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: Research project describing a pilot mobile app for adolescents with autism and/or ADHD and executive-function difficulties, using visual and time-based routines, progress tracking, a Pomodoro timer, and rewards.
+
+### My Autism Passport
+
+- URL: https://www.asdhelpinghands.org.uk/supporting-you/my-autism-passport/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Free support app offering an Autism Passport, communication cards, and personalized preparation plans for everyday situations.
+
+### Think Autism
+
+- URL: https://autismcenter.org/thinkautism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Mobile app providing a validated social-challenges screening questionnaire for children and students, with immediate guidance on whether formal evaluation may be appropriate.
+
+### Bloom Autism Support App
+
+- URL: https://apps.apple.com/fr/app/bloom-autism-support/id6761259907?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: AI-powered support companion designed for autism and special-needs families.

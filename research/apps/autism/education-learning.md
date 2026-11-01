@@ -1278,3 +1278,33 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Apple-curated collection featuring communication and learning tools such as Leeloo AAC, Spoken, Speech Blubs, and Wingo for autistic and otherwise neurodivergent users.
+
+### Ava for Schools
+
+- URL: https://apps.apple.com/us/app/ava-for-schools/id6748623549
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Social-emotional learning game for grades 59 that supports neurodivergent students through scenarios involving emotional regulation, relationships, and decision-making.
+
+### Tutor.ai
+
+- URL: https://github.com/gitmanforever/Tutor.ai
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Mobile-first AI learning assistant that converts educational materials into dyslexia-friendly, interactive content for neurodivergent learners.
+
+### Inclusive Media and Design Centre GitHub
+
+- URL: https://github.com/IMDC
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Organization repository page containing public projects including webmoti-react, described as a hybrid learning platform for neurodivergent students.

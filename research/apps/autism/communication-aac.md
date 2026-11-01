@@ -1158,3 +1158,13 @@
 - Query: autism communication-aac neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: iOS visual communication board designed for nonspeaking users, autism communication, and aphasia.
+
+### FreeAAC
+
+- URL: https://github.com/sonicbaume/FreeAAC
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Free, open-source AAC app for Android, iOS, and web, built with React Native and released under the AGPL-3.0 license.[7]
