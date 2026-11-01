@@ -548,3 +548,33 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Read-aloud support for dyslexia and ADHD that converts printed pages, PDFs, and on-screen text into readable and listenable content.
+
+### Optimising Service Delivery of AAC AT Devices and Compensating AT for Dyslexia
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/28873824/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Research record on service delivery, instruction, maintenance, and evaluation of AAC assistive technology and compensatory technology for dyslexia.
+
+### Apps for accessibility
+
+- URL: https://apps.apple.com/ma/iphone/story/id1266441335
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Apple App Store accessibility collection that includes dyslexia-focused text-to-speech and readability tools.
+
+### Design Probes for AI-Driven AAC
+
+- URL: https://www.semanticscholar.org/paper/6a158a1078d7062ffb8762d62ca8e1fddb48edab
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Research lead on AI-driven AAC design, including references to assistive writing tools for adults with dyslexia.

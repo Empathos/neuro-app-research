@@ -678,3 +678,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Public research framework for analyzing dyslexia-related material with an accompanying reproducibility repository and evaluation resources.
+
+### Free Dyslexia Reading Intervention
+
+- URL: https://github.com/jfischl/dyslexia-jf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public repository for a free dyslexia reading-intervention project.
+
+### Dyslexia Lens
+
+- URL: https://github.com/Baaqar-007/dyslexia-accessibility-nlp/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Open-source machine-learning pipeline for dyslexia screening from handwriting images, with multiple models and a Flask reporting application.

@@ -558,3 +558,13 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Assessment toolkit describing research-backed literacy screening and support using DIBELS measures, including vocabulary, spelling, rapid naming, and English- and Spanish-language dyslexia-risk screening.
+
+### Dytective para la dislexia
+
+- URL: https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=en_IN
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Android literacy-support and screening app from Change Dyslexia that adapts educational games to a childs level and includes a research-based screening test; it is not a diagnostic or medical application.[6]

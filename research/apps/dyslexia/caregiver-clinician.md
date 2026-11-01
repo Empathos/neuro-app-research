@@ -788,3 +788,33 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Prototype literacy platform connecting dyslexia risk screening, personalized learning activities, AI tutoring, and structured resources for parents and educators.
+
+### Neuroinclusion Toolkit
+
+- URL: https://www.everway.com/guides/neuroinclusion-toolkit-signup/neuroinclusion-toolkit/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public neuroinclusion resource describing dyslexia-support features such as text-to-speech, word prediction, dictation, spell checking, and highlighting.
+
+### Imperial College London Dyslexia and Neurodivergence Resources
+
+- URL: https://www.imperial.ac.uk/equality/resources/disability-and-neurodiversity/dyslexia-and-neurodivergence/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Institutional support resource covering dyslexia and related processing differences, including informal support through Dyslexia Champions.
+
+### NHS London Neurodiversity Support: Dyslexia
+
+- URL: https://london.hee.nhs.uk/professional-development/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Professional-development resource for neurodiversity support that includes dyslexia guidance and links to the British Dyslexia Association checklist.
