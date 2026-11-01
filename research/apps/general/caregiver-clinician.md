@@ -758,3 +758,13 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Research-stage AI communication tool intended to help caregivers and therapists identify individualized speech and nonverbal behavior patterns from securely recorded everyday interactions.
+
+### CR Care360
+
+- URL: https://centralreach.com/solutions/care360/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Care-management solution for IDD services, including an app for parent and caregiver training and ongoing guidance intended to support care delivery.

@@ -638,3 +638,23 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: Sensory and fidget activities for autistic children and neurodivergent learners, supporting self-regulation, transitions, waiting, sensory seeking, and overload.[6]
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/gb/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: ADHD/AuDHD burnout and energy tracker with emotional first-aid tools, RSD and overwhelm support, somatic grounding, emotional reset guidance, and breathing exercises.
+
+### ADHD Nook
+
+- URL: https://apps.apple.com/au/app/adhd-nook/id6794958204
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Minimal tool-picker app for neurodivergent users with dedicated Focus, Restorative, and Emotional Regulation modes, step-by-step activities, timers, and personalization.

@@ -1248,3 +1248,43 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Multilingual iPhone and iPad AAC app supporting offline picture-based communication for children, teens, and adults.
+
+### AAC Consideration Toolkit
+
+- URL: https://mn.gov/admin/star/resources/aac-consideration-toolkit/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Minnesota STAR toolkit for evaluating and trialing low-, mid-, and high-tech AAC tools, including tablet-based communication apps and data-collection resources.
+
+### Missouri Assistive Technology AAC Resources
+
+- URL: https://at.mo.gov/aac/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public AAC resource page describing communication supports and the GoTalk DESIGN & CONNECT app for creating and sharing communication overlays.
+
+### Scope Communication Aids and AAC
+
+- URL: https://www.scope.org.uk/advice-and-support/communication-aids-and-aac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public guide to communication aids and AAC, including specialist software, vocabulary packages, and communication apps for complex communication needs.
+
+### Rakun Talk
+
+- URL: https://apps.apple.com/us/app/rakun-talk/id6590636136?l=en-US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Communication-card app for expressing needs without speech, with customizable cards, preset requests, non-verbal responses, and multilingual support.

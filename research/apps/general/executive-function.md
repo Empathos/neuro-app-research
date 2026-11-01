@@ -828,3 +828,23 @@
 - Query: general executive-function neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: Pre-alpha assistant and life planner for people with weak executive functions, providing reminders and off-task prompts.
+
+### Sparq: ADHD Focus & Flow
+
+- URL: https://apps.apple.com/us/app/sparq-adhd-focus-flow/id6765983550
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: iOS productivity app for ADHD and neurodivergent users with hyperfocus mode, an interest graph, and AI support for starting, prioritizing, and finishing tasks.
+
+### ADHD Organizer: MindPilot
+
+- URL: https://apps.apple.com/us/app/adhd-organizer-mindpilot/id6742325483
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: AI-powered task manager designed for ADHD and neurodivergent users, with task breakdown and organization aimed at reducing task paralysis.
