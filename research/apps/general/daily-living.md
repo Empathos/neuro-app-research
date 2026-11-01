@@ -728,3 +728,43 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: Public toolkit offering plain-language command-line tools designed with neurodivergent developers in mind.
+
+### NeuroTimer
+
+- URL: https://github.com/yanari/neuro-timer
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Open-source, distraction-free Pomodoro timer with ambient sounds designed to support task initiation and focus for ADHD and neurodivergent users.
+
+### Reminders & Tasks For ADHD
+
+- URL: https://apps.apple.com/us/app/reminders-tasks-for-adhd/id6751175764
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Reminder and routine-building app with recurring or one-time alerts, step-by-step task organization, flexible scheduling, progress tracking, and low-distraction notifications.
+
+### Rollercoaster.dev
+
+- URL: https://github.com/rollercoaster-dev
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Open-source initiative created by and for neurodivergent people, focused on supportive, accessible, and empowering tools and platforms.
+
+### NeuroEquality GitHub
+
+- URL: https://github.com/neuroequality
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Public GitHub organization developing accessible tools including Safe4All, an AI life assistant for safety, communication, and task support.

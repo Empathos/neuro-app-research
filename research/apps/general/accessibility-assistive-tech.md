@@ -818,3 +818,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Accessibility documentation discussing pictograms, text, color coding, contrast cues, and tactile information as complementary wayfinding supports for neurodivergent users.
+
+### Inclusive Media and Design Centre
+
+- URL: https://github.com/IMDC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public GitHub organization with projects including a hybrid learning platform for neurodivergent students and tools for neurodivergent job seekers.
+
+### BNSSG Neurodiversity Helpful Resources
+
+- URL: https://bnssghealthiertogether.org.uk/neurodiversity/support/resources/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public health resource page directing users to digital apps for organization, communication, focus, and everyday support for neurodivergent people.
