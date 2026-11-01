@@ -878,3 +878,43 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Public repository for an interactive simulator covering sensory processing, cognitive load, social navigation, and self-regulation, with adjustable audio-visual intensity.
+
+### Speech AAC
+
+- URL: https://apps.apple.com/co/app/speech-aac/id6759862129?l=en-GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: A voice and communication-board app designed for people with speech disabilities, autism, ALS, stroke recovery, cerebral palsy, and other communication needs.
+
+### Assistive Technology GitHub Topic
+
+- URL: https://github.com/topics/assistive-technology?l=html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: A public collection of assistive-technology repositories, including AAC projects, offline phrase boards, text-to-speech tools, and neurodivergent-oriented accessibility utilities.
+
+### Getting Started with AAC
+
+- URL: https://github.com/AceCentre/GettingStartedwithAAC
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: A public Ace Centre repository containing the Getting Started with AAC book series and related introductory resources.
+
+### AAC Web Project
+
+- URL: https://github.com/manavrenjith/AAC-Web_Project
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: A Flask-based AAC web application with visual boards, sentence building, text-to-speech, speech-to-text, and separate caregiver, teacher, and student workflows.

@@ -538,3 +538,23 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: JavaScript and Python framework for collecting participant sensory information through a 3D body representation, relevant to sensory-perception and neurotechnology research.[9]
+
+### sensory-app
+
+- URL: https://github.com/eggr7/sensory-app
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-01
+- Description: Public GitHub repository for a React Native and FastAPI application involving sensory-data workflows; potentially useful as a technical lead for sensory-processing research.
+
+### CBT Toolbox
+
+- URL: https://github.com/jonahschottenstein/cbt_toolbox
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-01
+- Description: Mobile application based on the Zones of Regulation framework, allowing children and neurodivergent adults to create personalized tools for managing challenging emotions.
