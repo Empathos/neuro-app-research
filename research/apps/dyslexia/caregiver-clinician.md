@@ -818,3 +818,33 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Professional-development resource for neurodiversity support that includes dyslexia guidance and links to the British Dyslexia Association checklist.
+
+### CogniLens
+
+- URL: https://play.google.com/store/apps/details?id=com.cognilensnext.app&hl=en
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Android reading-accessibility app for dyslexic, ADHD, and other neurodivergent readers, allowing text presentation to be customized for readability and reduced visual strain.[10]
+
+### EasyRead
+
+- URL: https://apps.apple.com/nz/app/adhd-dyslexia-app-easyread/id6787424749
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: iPad focus-reading app for ADHD and dyslexia that turns articles, documents, and PDFs into a simplified reading environment with AI summarization and comprehension support.[9]
+
+### Speechify Dyslexia Tools Overview
+
+- URL: https://speechify.com/blog/top-10-tools-to-help-with-dyslexia/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Official overview of dyslexia-support tools, including Speechify text-to-speech, Helperbird accessibility extensions, Lexy reading practice, and other reading and comprehension aids.[8]

@@ -548,3 +548,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Public developer repository profile featuring a speed- and focus-based reading app with Bionic-style and RSVP modes, Irlen overlays, syllable coding, and dyslexia/ADHD accessibility features.
+
+### Dyslexia helper ADHD Scandys
+
+- URL: https://apps.apple.com/no/app/dyslexia-helper-adhd-scandys/id1512502620
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Scanning and text-to-speech app with adjustable fonts, text size, letter and line spacing, contrast, colors, and saved text for repeated daily use.
+
+### GoLexic: Dyslexia & Reading
+
+- URL: https://apps.apple.com/us/app/golexic-dyslexia-reading/id1511002428?platform=ipad
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Reading and spelling practice app for children aged 714, featuring speech recognition, adaptive exercises, short sessions, and a parent dashboard.

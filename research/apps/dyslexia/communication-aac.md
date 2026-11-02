@@ -578,3 +578,23 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Research lead on AI-driven AAC design, including references to assistive writing tools for adults with dyslexia.
+
+### SpeakPix
+
+- URL: https://github.com/Roshanchau/SpeakPix
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: React Native AAC app for autism and dyslexia using image-based word selection and AI-assisted next-word prediction.
+
+### Designing for Dyslexia Reflection: Empowerment Through Technology
+
+- URL: https://dl.acm.org/doi/10.1145/3797867.3829023
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Research lead discussing technology and game-based tools for dyslexia, including iLearnRW, FROG, Dolphin, Lexercise, and DDDYSLEXIAGAME.
