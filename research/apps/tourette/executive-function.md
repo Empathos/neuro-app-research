@@ -938,3 +938,13 @@
 - Query: tourette executive-function neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Public library of Tourette syndrome research reports, surveys, and related research information.
+
+### Tourette syndrome resources
+
+- URL: https://apps.asdk12.org/step/disability/tourette/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: A public resource page providing information, coping guidance, and referrals for parents and families affected by Tourette syndrome.

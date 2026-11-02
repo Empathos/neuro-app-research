@@ -448,3 +448,53 @@
 - Query: tourette daily-living neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: Public service listing describing Thrudays visual routines, to-do lists, printable schedules, communication cards, shared carer access, mood tracking, and supported-living use.
+
+### TicSafe
+
+- URL: https://apps.apple.com/ae/app/ticsafe/id6738706091
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: An iOS support app for people with tics that provides educational resources, medication and clinician communication support, tic-management strategies, and a calming timer.
+
+### i-have-neurodivergence
+
+- URL: https://github.com/Trickaay/i-have-neurodivergence
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: An open-source collection of assistant skills designed to make information easier to read and act on, including a dedicated i-have-tics support preset.
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/es/app/hiki-autism-adhd-nd-dating/id1466184914?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Neurodivergent social and dating app welcoming autistic, ADHD, Tourette, dyslexic, and other neurodivergent users for friendship and connection.
+
+### Tourette-model Issues
+
+- URL: https://github.com/locen/Tourette-model/issues
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Public GitHub repository issue tracker related to a Tourette model project; potentially useful as a technical or research lead.
+
+### Tourette Analysis Releases
+
+- URL: https://github.com/komalsrathi/tourette-analysis/releases
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Public GitHub releases page for a Tourette-analysis project, offering a repository lead for computational or research tooling.

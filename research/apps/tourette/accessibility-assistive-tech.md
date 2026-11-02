@@ -558,3 +558,23 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: GitHub-listed accessibility assistant concept designed for visually impaired and neurodivergent users, combining computer vision, language models, cloud services, and wearable integration.
+
+### Jamworks Assistive Technology
+
+- URL: https://www.jamworks.com/news/how-to-navigate-the-jamworks-dsa-community-for-maximum-disability-support-at-university
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Assistive-learning app that uses AI to generate notes and revision resources, with support for disabled and neurodivergent students.[5]
+
+### Thruday
+
+- URL: https://nycdailypost.com/2024/02/19/health/thruday-communication-visual-app-neurodivergent-people/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Visual planning and emotional-communication app for autistic, ADHD, and other neurodivergent users, featuring routines, mood tracking, notifications, communication tools, and educational resources.[7]
