@@ -838,3 +838,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Public health resource page directing users to digital apps for organization, communication, focus, and everyday support for neurodivergent people.
+
+### UX MCP Server
+
+- URL: https://github.com/elsahafy/ux-mcp-server
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public repository providing UX knowledge resources and analysis tools, including a neurodiversity and cognitive-accessibility knowledge base for design and evaluation workflows.
+
+### KindAbilities Assistive iOS Apps
+
+- URL: https://kindabilities.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Official collection of assistive iOS apps for different abilities, including ADHD focus support, silent body-doubling, sensory-load journaling, rehearsal tools, and education-plan assistance.

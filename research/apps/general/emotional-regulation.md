@@ -658,3 +658,13 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Minimal tool-picker app for neurodivergent users with dedicated Focus, Restorative, and Emotional Regulation modes, step-by-step activities, timers, and personalization.
+
+### Drift
+
+- URL: https://github.com/cladam/drift
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Open-source self-regulation and biometric health tool that presents body and subjective-wellbeing signals through a low-cognitive-load visual Energy Orb, with stated relevance to neurodivergent users.

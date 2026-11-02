@@ -768,3 +768,13 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Care-management solution for IDD services, including an app for parent and caregiver training and ongoing guidance intended to support care delivery.
+
+### Lyra Neurodiversity Care
+
+- URL: https://www.lyrahealth.com/care/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Neurodiversity care program offering caregiver training, skills coaching, care advocacy, therapy, evaluations, and digital resources for children and adults.

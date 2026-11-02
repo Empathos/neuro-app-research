@@ -1288,3 +1288,33 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Communication-card app for expressing needs without speech, with customizable cards, preset requests, non-verbal responses, and multilingual support.
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/Asterics-AAC/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Free, open-source AAC app with offline support, flexible input options, multilingual text-to-speech, accessible grid interfaces, media access, and smart-home integration.
+
+### SPARK: Speech Personalized Access Resource Kit
+
+- URL: https://github.com/spark4speech
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Nonprofit developing free, open-source AAC tools for people with speech and language challenges, including an official web client.
+
+### Open AAC
+
+- URL: https://github.com/svankamamidi/open-aac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Open-source AAC tooling that lets users create and manage communication cards through a web app.

@@ -758,3 +758,23 @@
 - Query: general sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: Sensory-friendly speech practice app allowing caregivers to adjust session energy, pacing, wait time, length, visual choices, and stopping conditions.
+
+### ADHD Chaos Coordinator
+
+- URL: https://github.com/tamar-natchkebia/habit-tracker
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: A gamified, sensory-aware task manager for neurodivergent users, featuring focus timing, mood-based interface transitions, and sensory feedback.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/de/app/autism-adhd-games/id6757896431?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: An iOS app with sensory-play, fidget, calming, emotional, focus, and communication activities intended for autistic children and other neurodivergent learners.
