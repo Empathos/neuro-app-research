@@ -1318,3 +1318,13 @@
 - Query: autism executive-function neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: AI-powered support companion designed for autism and special-needs families.
+
+### Nomi: Autism Parents Support
+
+- URL: https://apps.apple.com/us/app/nomi-autism-parents-support/id6758640566
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Parent-support app with voice-note summaries, autism-focused assistance, routine suggestions, visual cards, token boards, and tracking for therapy or IEP discussions.[6]
