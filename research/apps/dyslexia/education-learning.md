@@ -568,3 +568,33 @@
 - Query: dyslexia education-learning neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Android literacy-support and screening app from Change Dyslexia that adapts educational games to a childs level and includes a research-based screening test; it is not a diagnostic or medical application.[6]
+
+### Yale Center for Dyslexia and Creativity Assistive Technology Guide
+
+- URL: https://dyslexia.yale.edu/resources/educators/school-culture/a-charter-schools-journey-into-assistive-technology/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Examples of classroom tools including sight-word and phonemic-awareness apps, phonics practice, and predictive writing support for dyslexia and learning disabilities.
+
+### Dyscovery  Dyslexia Education & Diagnostic Website
+
+- URL: https://github.com/Antonio-Villarreal/Dyscovery
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Open-source educational and exploratory project using word-based games and a machine-learning decision tree to investigate dyslexia-related patterns. It is not a clinical diagnostic tool.
+
+### OpenNeuro Dyslexia Reading Dataset
+
+- URL: https://openneuro.org/datasets/ds003126/versions/1.4.0
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Public neuroimaging dataset containing fMRI and structural MRI data from children with typical reading skills, isolated spelling deficits, and dyslexia, useful for research workflows.

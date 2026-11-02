@@ -698,3 +698,43 @@
 - Query: dyslexia executive-function neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Open-source machine-learning pipeline for dyslexia screening from handwriting images, with multiple models and a Flask reporting application.
+
+### Augmenta11y Reading Assistant
+
+- URL: https://dl.acm.org/doi/abs/10.1145/3520495.3522703
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Cross-platform reading and learning companion for children with dyslexia; evaluated with children ages 1014 and available for iOS and Android.[10]
+
+### Inflow  Manage Your ADHD
+
+- URL: https://apps.apple.com/co/app/inflow-manage-your-adhd/id1528183849?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Science-based digital program covering focus, goal setting, routines, organization, time management, and other executive-function skills applicable to ADHD, dyslexia, autism, and related conditions.
+
+### Dyslexic-Friendly GitHub Topics
+
+- URL: https://github.com/topics/dyslexic-friendly
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Repository discovery page containing dyslexia-oriented tools such as reflowing PDF readers, dyslexia-focused browsers, reading aids, and neurodivergent learning applications.
+
+### TaskForge
+
+- URL: https://github.com/manojmulammagari/TaskForge
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Open-source task and context-management tool for neurodivergent developers and busy teams, with dyslexia-friendly spacing and structured task support.

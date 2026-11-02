@@ -498,3 +498,13 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Reading and study app for ADHD and dyslexic students with chunking, adjustable spacing, Atkinson Hyperlegible font, bold-flow reading, and focus modes.
+
+### Dyslexia Simulator
+
+- URL: https://github.com/jdhori/dyslexia-simulator/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Accessible educational simulator for dyslexia, Irlen syndrome, low vision, and related reading effects. Includes safeguards such as preserved screen-reader text, reduced-motion support, keyboard operation, and instant reveal.

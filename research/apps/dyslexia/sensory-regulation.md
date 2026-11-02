@@ -378,3 +378,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-29
 - Description: An Android OCR and text-to-speech tool that helps people with dyslexia read printed text, with customizable text styles.
+
+### DysText
+
+- URL: https://github.com/eilkou/DysText
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Research repository containing papers, code, evaluation scripts, and results for dyslexia-friendly text generation and accessibility-focused language-model research.
+
+### Towards Inclusive Reading: A Neural Text Generation Framework for Dyslexia Accessibility
+
+- URL: https://dl.acm.org/doi/10.1145/3696593.3696625
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Research publication describing neural text-generation methods intended to improve accessibility for readers with dyslexia.
