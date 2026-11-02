@@ -918,3 +918,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Public product lead for a visual planner supporting ADHD, autism, time agnosia, and executive dysfunction through visual schedules, timed steps, calendar integration, shared profiles, and reminders.
+
+### Apple Apps for Accessibility
+
+- URL: https://apps.apple.com/hk/iphone/story/id1266441335?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Apple App Store accessibility collection covering tools for routine support, communication, language skills, readability, and ADHD-related assistance.
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://apps.apple.com/sa/app/adhd-focus-os-daily-planner/id6772880635
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: App Store listing for a daily planner and routine organizer designed around ADHD-related brain fog, executive dysfunction, and neurodivergent planning needs.
+
+### ADHD Focus Planner
+
+- URL: https://notionavenue.gumroad.com/l/adhdplanner
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Notion-based planner using CBT- and DBT-informed organization tools, color-coded sections, and flexible planning workflows for ADHD users.

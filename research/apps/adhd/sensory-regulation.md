@@ -938,3 +938,13 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Downloadable full-text version of the systematic review evaluating 14 ADHD applications and their reported usability and clinical outcomes.
+
+### ADHD Chaos Coordinator
+
+- URL: https://github.com/tamar-natchkebia/habit-tracker
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Open-source gamified task manager for neurodivergent users, with focus timing, mood-based interface changes, and sensory feedback.
