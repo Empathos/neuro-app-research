@@ -658,3 +658,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-31
 - Description: Official support hub for accessibility features including Personal Voice, Live Speech, assistive communication apps, and setup guidance.
+
+### AT Tools in Schools
+
+- URL: http://ttaconline.org/Document/zxbIhX_YCJPnO83q_T-hkgekLHVtHRj9/AT-Tools-in-Schools-ADACompliant1.2025.docx
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public assistive-technology resource describing tools for reducing or increasing sensory input, including noise reduction, screen readers, text-to-speech, visual barriers, and alternative input materials.

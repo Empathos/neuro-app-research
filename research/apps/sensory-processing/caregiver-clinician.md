@@ -868,3 +868,23 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: TU Delft repository record addressing sensory processing patterns including sensation seeking, sensation avoiding, sensory sensitivity, and low registration.
+
+### Accessibility through Awareness of Noise Sensitivity
+
+- URL: https://dl.acm.org/doi/fullHtml/10.1145/3663548.3675630
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Study of noise-sensitivity management involving autistic people and caregivers; discusses technology-mediated support, wearable feedback, and collaborative regulation tools.
+
+### Exploring the Freedom to Be Me through Design Sprints
+
+- URL: https://dl.acm.org/doi/fullHtml/10.1145/3663548.3688527
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Research on a sensory map concept that lets neurodivergent people annotate local spaces and helps individuals and caregivers identify retreat areas and sensory-friendly environments.

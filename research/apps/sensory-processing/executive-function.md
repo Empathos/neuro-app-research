@@ -798,3 +798,23 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Rhythm-based app for neurodivergent children and teens, targeting timing, coordination, attention, self-regulation, sensory processing, and executive-function challenges.
+
+### Sensory-Aware Habit Tracker
+
+- URL: https://github.com/tamar-natchkebia/habit-tracker
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public repository for a gamified task manager designed for neurodivergent users, with focus timing, mood-based interface changes, and sensory feedback.
+
+### Senaptec
+
+- URL: https://apps.apple.com/us/app/senaptec/id1451224381
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: iPad app offering adaptive exercises for visual processing, response inhibition, spatial memory, sequencing, visual search, and eye-hand coordination.

@@ -918,3 +918,23 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: A Flask-based AAC web application with visual boards, sentence building, text-to-speech, speech-to-text, and separate caregiver, teacher, and student workflows.
+
+### AAC Text Communication Device
+
+- URL: https://apps.apple.com/eg/app/aac-text-communication-device/id6475756600
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Text-based AAC app that converts typed or preset phrases into spoken output for people with speech challenges or temporary voice loss.
+
+### NeuroUX SDK
+
+- URL: https://github.com/adapt-ux/neuro-ux-sdk
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Open-source, framework-agnostic toolkit for neurodivergent-friendly interfaces, including adaptable settings for sensory thresholds, attention patterns, reading styles, and cognitive load.
