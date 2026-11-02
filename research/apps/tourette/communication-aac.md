@@ -848,3 +848,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Publicly organized research directory of apps, tools, repositories, and support resources, including a Tourette-focused collection of leads.
+
+### Tourette Syndrome Resources for School Personnel
+
+- URL: https://tourette.org/tourette-syndrome-resources-for-school-personnel/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public school-focused resources and accommodation guidance for students with Tourette syndrome and tic disorders.
