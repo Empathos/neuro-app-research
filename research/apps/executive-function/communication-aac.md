@@ -888,3 +888,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Full-featured AAC app for people with limited natural speech, including users with autism, apraxia, ALS, stroke, and Down syndrome.
+
+### Executive Control in Active Inference
+
+- URL: https://github.com/ActiveInferenceInstitute/Generalized_Notation_Notation/blob/main/docs/cognitive_phenomena/executive_control/README.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Open documentation discussing executive control, goal-directed policy selection, context, and cognitive-resource allocation within an active-inference framework.[1]

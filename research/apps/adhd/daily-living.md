@@ -749,16 +749,6 @@
 - Found: 2026-10-19
 - Description: Open-source repository entry for an ADHD daily-planning skill supporting neurodivergent-oriented organization.[3]
 
-### ADHD Daily Living and Independence App Collection
-
-- URL: https://lscft.orchahealth.com/en-GB/health-area-adult-neurodiversity/focus-area-adult-adhd/app-collection-adhd-daily-living-and-independence
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: daily-living
-- Query: adhd daily-living neurodivergent app research pass 502
-- Found: 2026-10-19
-- Description: Public health app collection covering daily-living support tools such as Brain in Hand, Fabulous, and Inflow for routines, mood, stress, sleep, self-management, and ADHD support.[8]
-
 ### ADHD Planner - Routine & Tasks
 
 - URL: https://play.google.com/store/apps/details?id=com.adhd.planner.taches.tasks.routine.easy

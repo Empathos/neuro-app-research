@@ -696,3 +696,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: A gentle, neurodivergent-friendly task-tracking application for logging activities throughout the day.
+
+### Neurodivergent Habit Tracker
+
+- URL: https://github.com/tamar-natchkebia/habit-tracker
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Open-source gamified task manager designed for neurodivergent users, with XP leveling, focus timing, mood-based interface transitions, and sensory feedback.
