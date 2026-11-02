@@ -738,3 +738,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Public toolkit featuring task-initiation protocols, visual timers, time-blindness resources, body-doubling templates, working-memory supports, and autism-adapted prioritization tools.
+
+### TrueConvos: ADHD & Autism Chat
+
+- URL: https://apps.apple.com/us/app/trueconvos-adhd-autism-chat/id1545810479
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Peer-support app for ADHD and autistic users with condition-specific matching, body doubling, accountability, and executive-function discussion tags.
