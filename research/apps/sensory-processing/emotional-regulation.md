@@ -558,3 +558,23 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Mobile application based on the Zones of Regulation framework, allowing children and neurodivergent adults to create personalized tools for managing challenging emotions.
+
+### HugMun
+
+- URL: https://github.com/nkVas1/HugMun
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Open-source, local-first Android repository for evidence-graded cognitive training and sensory neuromodulation; a potentially relevant technical lead for sensory-intervention research.
+
+### Anchor
+
+- URL: https://studio.com/apps/melanie/anchor
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Sensory-aware crisis-support app concept for autistic and ADHD adults, offering one-tap grounding, body-based regulation, shutdown support, and recovery tools.

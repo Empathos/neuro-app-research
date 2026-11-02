@@ -588,3 +588,43 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: App containing occupational-therapy activities covering sensory processing, fine motor skills, coordination, visual-motor integration, and daily life skills.
+
+### ADHD Easy-Do Your ADHD Planner
+
+- URL: https://apps.apple.com/us/app/adhd-easy-do-your-adhd-planner/id6476637209
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: App Store planner created for people with ADHD and other neurodivergent users to organize daily tasks, thoughts, ideas, and routines while reducing overwhelm.
+
+### OpenCog Sensory
+
+- URL: https://github.com/opencog/sensory
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Open-source repository exploring perception and action through low-level sensory input and output components within the AtomSpace cognitive architecture.
+
+### Lumo
+
+- URL: https://github.com/EchoinInk/lumo
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Open-source productivity and life-planning app for neurodivergent users, covering tasks, routines, habits, goals, wellbeing, budgeting, and daily responsibilities.
+
+### Sioul
+
+- URL: https://github.com/aurelienpierre/sioul
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Work-in-progress, keyboard-first mail, calendar, tasks, and contacts tool designed for people who find administrative tasks difficult, including neurodivergent users.

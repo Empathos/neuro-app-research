@@ -1038,3 +1038,13 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Australian Institute of Family Studies educational resource explaining sensory-processing differences and practical strategies for supporting and accommodating neurodivergent children.
+
+### Designing Sensory and Social Tools for Neurodivergent Users
+
+- URL: https://dl.acm.org/doi/fullHtml/10.1145/3441852.3476546
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Research on sensory guides and social narratives as learning tools that help neurodivergent users anticipate stimuli and reduce overstimulation in social-media environments.
