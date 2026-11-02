@@ -1328,3 +1328,23 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Directory of AI and productivity tools for ADHD adults and neurodivergent learners, including Llama Life for tasks and routines and tools designed around personalized focus strategies.
+
+### Jade  Learning Through Play
+
+- URL: https://apps.apple.com/mx/app/jade-learning-through-play/id1473169233?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Inclusive educational game app for children and teens, including learners with ADHD, autism, dyslexia, dyscalculia, and other learning differences.
+
+### ADHD Perceptual Learning
+
+- URL: https://github.com/evans1112/ADHD_perceptual_learning
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Research repository containing data and analysis code for multisensory temporal binding and perceptual-learning experiments involving children with ADHD.

@@ -1048,3 +1048,33 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Public curated repository covering ADHD research, support practices, tools, lived-experience strategies, body doubling, visual planning, and executive-function concepts.
+
+### Rethread
+
+- URL: https://github.com/manideeprudroju/rethread
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: An n-of-1 ADHD executive-function support tool combining a Chrome extension and dashboard to help users resume interrupted work by reconstructing context and next actions.
+
+### ONETIME
+
+- URL: https://github.com/leafgraphix/ONETIME
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Public repository for minimalist productivity tools aimed at neurodivergent populations, including a one-thing timer addressing time blindness and task paralysis.
+
+### ONETIME One Thing Timer
+
+- URL: https://github.com/leafgraphix/onething
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Related public repository for the ONETIME product, focused on minimalist task initiation and time-management support for ADHD and related cognitive differences.

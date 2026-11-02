@@ -1059,3 +1059,33 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Institutional resource page listing AAC and neurodivergence-support apps available for trial through a lending library, including Avaz AAC, Alexicom AAC, and Choiceworks.
+
+### ADHD Tools
+
+- URL: https://github.com/zambfx/ADHD-Tools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Community-maintained repository collecting practical ADHD tools and resources, useful as a discovery lead for neurodivergent support applications and workflows.
+
+### ADHD MCP
+
+- URL: https://github.com/JerryFish123/adhd-mcp
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: ADHD-friendly Cursor agent kit offering concise, on-demand responses, status information, and context statistics through MCP.
+
+### Why So Serious? Exploring Timely Humorous Comments in AAC Through AI-Powered Interfaces
+
+- URL: https://arxiv.org/html/2410.16634v4
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Public research paper on AI-powered AAC interfaces and timely humorous comments for people who use speech-generating devices.

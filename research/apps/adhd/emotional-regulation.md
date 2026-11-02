@@ -1248,3 +1248,33 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Parenting support app for children with ADHD featuring emotional-regulation strategies, calming and mindfulness techniques, self-expression guidance, and behavioral coaching.
+
+### ADHDVoice / ADHD Sound
+
+- URL: https://play.google.com/store/apps/details?id=com.adhdvoice.app&hl=en
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Minimalist sound-regulation app using designed soundscapes to help ADHD and neurodivergent users settle, focus, or reduce overstimulation.
+
+### Anchorly: ADHD Companion
+
+- URL: https://apps.apple.com/jp/app/anchorly-adhd-companion/id6762073825?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: ADHD companion with mood and energy check-ins, rejection-sensitive dysphoria journaling, emotional-dysregulation tracking, and pattern discovery.
+
+### Regulate ADHD
+
+- URL: https://apps.apple.com/se/app/regulate-adhd/id6757410108
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Parent-focused neurodevelopmental tracking app for logging behavior, sleep, medication effects, side effects, and mood across the day.

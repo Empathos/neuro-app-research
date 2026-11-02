@@ -768,3 +768,33 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Public repository organization with projects related to neurodivergent learners, accessible design, and tools for neurodivergent job seekers.
+
+### Supported: Caregiver App
+
+- URL: https://apps.apple.com/us/app/supported-caregiver-app/id6762284800
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Caregiver companion app for partners, parents, adult children, and friends supporting people with conditions including ADHD and autism.[10]
+
+### Mystra
+
+- URL: https://www.mystra.ai/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Research-informed remote support platform for children with ADHD, offering tailored interventions, parent guidance, and clinician-facing care tools.
+
+### EBI-ADHD Platform
+
+- URL: https://ebiadhd-database.org/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Evidence-based ADHD intervention platform presenting intervention effects and evidence certainty for clinicians, people with ADHD, and families.

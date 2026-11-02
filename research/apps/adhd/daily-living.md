@@ -749,16 +749,6 @@
 - Found: 2026-10-19
 - Description: Open-source repository entry for an ADHD daily-planning skill supporting neurodivergent-oriented organization.[3]
 
-### ADHD Daily Living and Independence App Collection
-
-- URL: https://lscft.orchahealth.com/en-GB/health-area-adult-neurodiversity/focus-area-adult-adhd/app-collection-adhd-daily-living-and-independence
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: daily-living
-- Query: adhd daily-living neurodivergent app research pass 502
-- Found: 2026-10-19
-- Description: Public health app collection covering daily-living support tools such as Brain in Hand, Fabulous, and Inflow for routines, mood, stress, sleep, self-management, and ADHD support.[8]
-
 ### ADHD Planner - Routine & Tasks
 
 - URL: https://play.google.com/store/apps/details?id=com.adhd.planner.taches.tasks.routine.easy
@@ -1028,3 +1018,23 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Research-oriented mobile application project for women with ADHD, including data collection and exploratory diagnosis-related functionality.
+
+### ADHD Planner Organizer - Alti
+
+- URL: https://apps.apple.com/us/app/adhd-planner-organizer-alti/id6738433959
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: App Store listing for a visual ADHD planner with customizable routines, micro-tasking, time blocking, habit tracking, reminders, focus tools, and cognitive-load reduction features.
+
+### i-have-adhd Skill
+
+- URL: https://github.com/ayghri/i-have-adhd/blob/7a13562d4bc17dbcd9ccf1e21a9022e3f435a2bc/skills/i-have-adhd/SKILL.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Public skill specification for ADHD-accessible assistance emphasizing next actions, numbered steps, time estimates, state restoration, and reduced tangents.[4]
