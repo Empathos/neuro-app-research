@@ -828,3 +828,43 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Parent and professional resource for autistic children ages 312, covering anxiety, meltdowns, self-regulation, repetitive behavior, sleep, safety, and other support needs.
+
+### Stress Autism Mate Junior
+
+- URL: https://research.vu.nl/en/publications/effectiveness-of-the-mobile-stress-autism-mate-junior-application/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Mobile self-help app co-created with autistic adolescents to address daily stress, coping styles, and quality of life; the cited preliminary evaluation found no significant effects and recommends further research.
+
+### BluePal: Autism Assistant
+
+- URL: https://apps.apple.com/qa/app/bluepal-autism-assistant/id6737531049
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: App Store caregiver and professional support app offering autism resources, guided tools, emotional-skills content, an AI assistant, community features, and local-resource discovery.
+
+### ThinkAutism
+
+- URL: https://apps.apple.com/br/app/thinkautism/id1199175075
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: App Store screening tool featuring a validated 15-question social-challenges questionnaire for children or students and guidance on whether formal autism evaluation may be warranted.
+
+### Mobile Application for Tracking Children with Autism
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11675099/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Research-backed mobile application project focused on screening and tracking children with autism, including content validation and usability evaluation.

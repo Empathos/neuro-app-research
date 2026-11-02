@@ -838,3 +838,13 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Open-source initiative created by and for neurodivergent people, focused on supportive, accessible, and empowering tools and platforms.
+
+### Thruday  One Stockport Live Well Directory
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/thruday
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Public service-directory listing for Thruday, describing visual schedules, to-do lists, PECS-style cards, shared carer access, mood tracking, and support for independent living.

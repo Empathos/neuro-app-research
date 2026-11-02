@@ -1058,3 +1058,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Research-documented app platform designed to help families use sensory strategies to support autistic childrens participation in home routines.
+
+### SkillSteps: Autism Learning
+
+- URL: https://apps.apple.com/gh/app/skillsteps-autism-learning/id6759471583
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: An iOS app combining social stories, communication support, mood tracking, visual schedules, breathing exercises, and sensory tools such as bubble popping and drawing.

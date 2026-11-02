@@ -1168,3 +1168,33 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Free, open-source AAC app for Android, iOS, and web, built with React Native and released under the AGPL-3.0 license.[7]
+
+### AAC Communicator
+
+- URL: https://github.com/bklein01/aac_communicator
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Customizable web and mobile AAC application that converts selected words or phrases to speech and supports autistic users and people with speech impairments.
+
+### SpeakPix
+
+- URL: https://github.com/Roshanchau/SpeakPix
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: React Native AAC mobile app using image-based word selection, scenario-based contexts, and AI-assisted word prediction for people with autism and dyslexia.[8]
+
+### Asterics AAC
+
+- URL: https://github.com/asterics/Asterics-AAC/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Free, flexible AAC software with grid-based interfaces, text-to-speech, multilingual support, offline use, and integrations with ARASAAC and Open Symbols.[10]

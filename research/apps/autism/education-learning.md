@@ -1308,3 +1308,13 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Organization repository page containing public projects including webmoti-react, described as a hybrid learning platform for neurodivergent students.
+
+### School of autism
+
+- URL: https://apps.apple.com/us/app/school-of-autism/id6467856575
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Mobile education and development app for autistic children and families, featuring educational games, parent resources, and autism-related screening tools.

@@ -928,3 +928,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: iOS community app for parents of neurodivergent, developmentally different, or physically disabled children, with matching by diagnosis, age, support needs, and location.
+
+### Autism Spectrum Detector 2
+
+- URL: https://github.com/rajaramayan/autism-spectrum-detector2
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public machine-learning repository exploring early autism screening with multiple classifiers, synthetic oversampling, evaluation metrics, and overfitting analysis.
+
+### AutismPro
+
+- URL: https://play.google.com/store/apps/details?id=com.autism.pro&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Android support app with overload mode, guided breaks, AAC and communication shortcuts, routines, crisis plans, emergency cards, tracking, reports, and caregiver profiles.
+
+### Caregiver Action Network: Autism Caregiving Resources
+
+- URL: https://www.caregiveraction.org/autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public caregiver-support resource hub with practical information and access to the National Caregiver Help Desk app for skills, validation, and task support.

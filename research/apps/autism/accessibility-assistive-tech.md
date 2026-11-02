@@ -958,3 +958,33 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Apple App Store collection featuring accessibility and autism-related apps such as Proloquo2Go, Proloquo4Text, TouchChat, Otsimo, Voice Dream, Keeble, and Assistive Express.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/us/app/autism-play-garden/id6751961935
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: iOS app with therapist-informed activities for AAC communication, daily routines, speech, sensory regulation, tracing, motor skills, and calming play.[1]
+
+### VisualVoice
+
+- URL: https://apps.apple.com/au/app/visualvoice/id6749776764?uo=2
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Offline AAC app using pictograms, emojis, text-to-speech, high-contrast visuals, and a sensory-friendly interface for autism communication.[7]
+
+### SocialMind Autism
+
+- URL: https://ats.org/explore/articles/autism-communication-just-got-more-accessible/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: AI-assisted autism communication-support program that analyzes caregiver-recorded therapy videos and provides personalized feedback informed by Pivotal Response Treatment.[5]
