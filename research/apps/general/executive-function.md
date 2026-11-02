@@ -848,3 +848,13 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: AI-powered task manager designed for ADHD and neurodivergent users, with task breakdown and organization aimed at reducing task paralysis.
+
+### ADHD Organizer: MindPilot
+
+- URL: https://apps.apple.com/rs/app/adhd-organizer-mindpilot/id6742325483
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: AI-powered task manager for ADHD and neurodivergent users that breaks projects into manageable steps and helps organize daily tasks.

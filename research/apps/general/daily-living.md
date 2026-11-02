@@ -768,3 +768,13 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Public GitHub organization developing accessible tools including Safe4All, an AI life assistant for safety, communication, and task support.
+
+### Remind - Daily Planner
+
+- URL: https://apps.apple.com/ro/app/remind-daily-planner/id1665028057
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Visual planner supporting routines, time management, transitions, reminders, checklists, and executive-function challenges across neurodiversity.

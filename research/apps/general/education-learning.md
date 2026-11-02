@@ -898,3 +898,83 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Guides and classroom-oriented resources from the ND Pride Education Campaign, including lesson materials designed to support awareness, respect, and inclusive thinking.
+
+### Apple Education Accessibility Features
+
+- URL: https://support.apple.com/en-us/121825
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Official accessibility guidance covering Read & Speak, Guided Access, Accessibility Reader, Assistive Access, and cognitive supports for students with dyslexia, ADHD, autism, and other learning differences.
+
+### Neurodivergence GitHub Topic
+
+- URL: https://github.com/topics/neurodivergence?l=typescript
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public repository index containing projects such as messyOS, baajit, autismandme.ie-toolbox, and Syncable, including executive-function, accessibility, and learning-support tools.
+
+### Geniuslane Learning
+
+- URL: https://apps.apple.com/ua/app/geniuslane-learning/id1663921934
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Learning app offering neurodiversity and neurodevelopmental-impairment courses for parents, professionals, and schools.
+
+### Neurodiversity Resources  Denver Public Library
+
+- URL: https://www.denverlibrary.org/sites/dplorg/files/2024/02/2024-Neurodiversity-Resources.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-02
+- Description: Public guide cataloguing tools including Grid Player, LeeLoo, Otter.ai, Visual Timer, Routinery, and other communication, transcription, focus, and organization supports.
+
+### Neurodiversity Resources
+
+- URL: https://ctl.stanford.edu/students/neurodiversity/neurodiversity-resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Study tips and tools for students with ADHD, autism, learning differences, disabilities, and executive-function challenges.
+
+### DO-IT Resources for Supporting Neurodivergent Learners
+
+- URL: https://doit.uw.edu/news/discover-resources-for-supporting-neurodivergent-learners/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Guides, tools, supports, and resources designed to promote inclusive education and workplace learning.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/cl/app/autism-adhd-games/id6757896431?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: App Store listing for sensory-friendly activities supporting focus, speech, memory, early learning, fine-motor skills, self-regulation, and problem-solving.
+
+### Learn & Explore: Neurodiversity Learning
+
+- URL: https://aspieanswers.com/learn-explore/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-02
+- Description: Learning hub with accessible explanations, study-support pathways, worksheets, planners, and practical tools for neurodivergent learning.
