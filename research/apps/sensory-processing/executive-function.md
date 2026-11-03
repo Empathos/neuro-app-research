@@ -818,3 +818,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: iPad app offering adaptive exercises for visual processing, response inhibition, spatial memory, sequencing, visual search, and eye-hand coordination.
+
+### Focus Tools GitHub Topics
+
+- URL: https://github.com/topics/focus-tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-03
+- Description: GitHub topic page covering focus and productivity tools, including neurodivergent browsing aids and ADHD-oriented focus companions.

@@ -529,16 +529,6 @@
 - Found: 2026-07-01
 - Description: Combines mood tracking with gratitude journaling, CBT-based tools, sleep and lifestyle tracking, and insights on how habits influence emotional patterns.
 
-### ADHD Journal and Mood Logger Template
-
-- URL: https://www.notion.com/templates/adhd-journal-and-mood-logger
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: emotional-regulation
-- Query: ADHD mood tracking directory
-- Found: 2026-07-01
-- Description: Comes with three pre-built science-backed ADHD journals with music, timers, and prompts and a 90-second ADHD Mood Log Template specifically designed for ADHD traits.
-
 ### Bearable
 
 - URL: https://bearable.app/adhd-symptom-tracker/

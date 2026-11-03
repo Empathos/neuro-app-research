@@ -628,3 +628,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Public computational notebook repository lead related to modeling and visualizing sensory integration.
+
+### Neuro-Nav App
+
+- URL: https://github.com/Dharaneesh20/Neuro-Nav-App
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-03
+- Description: A sensory-friendly navigation app concept using real-time noise data, crowd-avoidance alerts, and safe-haven recommendations to reduce sensory overload.
