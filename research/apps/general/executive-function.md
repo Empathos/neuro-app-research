@@ -858,3 +858,13 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: AI-powered task manager for ADHD and neurodivergent users that breaks projects into manageable steps and helps organize daily tasks.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/tw/app/tiimo-daily-to-do-list/id1480220328?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-03
+- Description: Visual planning app with routines, gentle reminders, AI-assisted task planning, prioritization, focus timers, and calendar integration for executive-function support.
