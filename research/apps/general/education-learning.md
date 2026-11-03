@@ -978,3 +978,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Learning hub with accessible explanations, study-support pathways, worksheets, planners, and practical tools for neurodivergent learning.
+
+### OECD: AI to Support Neurodivergent Learners in VET
+
+- URL: https://oecd.org/en/publications/ai-to-support-neurodivergent-learners-in-vocational-education-and-training_718d7522-en/full-report/component-4.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-03
+- Description: Public research resource documenting assistive learning tools such as text-to-speech, speech-to-text, note-taking, reading, planning, and AAC applications.
+
+### University of Warwick Neurodiversity Learning and Teaching Toolkit
+
+- URL: https://warwick.ac.uk/fac/cross_fac/academy/activities/learningcircles/neurodiversity/toolkit/learningteachingneuro/neurodiversitytoolkitscreatingmaterial/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-03
+- Description: Teaching resource covering visual, audio, and alternative engagement approaches that can support neurodivergent learning.
