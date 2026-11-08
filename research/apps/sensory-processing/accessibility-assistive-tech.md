@@ -668,3 +668,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Public assistive-technology resource describing tools for reducing or increasing sensory input, including noise reduction, screen readers, text-to-speech, visual barriers, and alternative input materials.
+
+### GitHub Low-Sensory Topic
+
+- URL: https://github.com/topics/low-sensory
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Repository index for low-sensory and accessibility-first projects, including tools for neurodivergent children and sensory-conscious interfaces.

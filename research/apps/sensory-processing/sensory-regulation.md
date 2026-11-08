@@ -638,3 +638,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-03
 - Description: A sensory-friendly navigation app concept using real-time noise data, crowd-avoidance alerts, and safe-haven recommendations to reduce sensory overload.
+
+### Together As We Are  App Store
+
+- URL: https://apps.apple.com/us/app/together-as-we-are/id6759183214
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Support app for caregivers of neurodivergent children with calming plans, sensory strategies, visual supports, regulation tools, communication scripts, and routine guidance.
