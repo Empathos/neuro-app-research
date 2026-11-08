@@ -808,3 +808,23 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Neurodivergent and developmentally diverse family-health platform with caregiver modes, monitoring, analytics, clinical-team coordination, telehealth, and potential EHR integrations.
+
+### SYNC
+
+- URL: https://github.com/alyzaabdullah/SYNC
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Research prototype for motor-planning practice in children with coordination difficulties; includes separate child and therapist modes and raw movement logging for clinician or researcher analysis.
+
+### NeuroHub Research
+
+- URL: https://neurohubcommunity.org/tour/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public neurodivergence community platform describing research conducted with and by neurodivergent people; relevant as a participatory research and recruitment lead.[6]

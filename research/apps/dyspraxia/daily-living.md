@@ -608,3 +608,43 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-10-29
 - Description: Public-sector directory entry describing Thruday as an assistive living app with visual planners, printable schedules, communication cards, shared carer access, and mood tracking.
+
+### Pictalk Buddy: Autism Routine
+
+- URL: https://play.google.com/store/apps/details?id=org.pictime.application.twa&hl=en_CA
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Visual schedule and routine planner with customizable images, audio instructions, timers, reminders, and step-by-step task support for neurodevelopmental conditions including dyspraxia.
+
+### Tiimo: ADHD AI Planner & To-do
+
+- URL: https://apps.apple.com/at/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Visual daily planner offering routines, reminders, task breakdown, focus timing, mood support, and AI-assisted planning for neurodivergent users.
+
+### Tiimo: Visual Daily Planner
+
+- URL: https://apps.apple.com/hu/app/tiimo-visual-daily-planner/id1480220328?l=hu&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Official App Store listing describing visual timelines, checklists, routines, customizable reminders, task start and pause controls, and neurodiversity-focused planning.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/tr/app/beats-medical-parkinsons-app/id866567480
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: The App Store listing identifies a related Beats Medical Dyspraxia App focused on dyspraxia/DCD therapy and games.
