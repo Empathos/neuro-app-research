@@ -508,3 +508,13 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Accessible educational simulator for dyslexia, Irlen syndrome, low vision, and related reading effects. Includes safeguards such as preserved screen-reader text, reduced-motion support, keyboard operation, and instant reveal.
+
+### GitLab Dyslexia Topic
+
+- URL: https://gitlab.com/explore/projects/topics/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Public GitLab project index including Zacess, an open-source reader intended to convert documents and web pages into personalized, high-contrast, read-aloud notes.
