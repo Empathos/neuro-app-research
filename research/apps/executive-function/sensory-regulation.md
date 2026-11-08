@@ -706,3 +706,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Open-source gamified task manager designed for neurodivergent users, with XP leveling, focus timing, mood-based interface transitions, and sensory feedback.
+
+### Recordo
+
+- URL: https://github.com/api-evangelist/recordo-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: ADHD-oriented second-brain app lead featuring brain-dump capture, task breakdown, prioritization, Pomodoro and visual timers, routines, and time-blindness support.[6]

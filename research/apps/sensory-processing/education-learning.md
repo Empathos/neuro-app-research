@@ -539,16 +539,6 @@
 - Found: 2026-07-06
 - Description: Multi-agent AI system for neuro-affirming classrooms - orchestrator model with sensory, lesson chunking, communication agents
 
-### FolatheDuckofDuckingburg/Noggin
-
-- URL: https://github.com/FolatheDuckofDuckingburg/Noggin
-- Source: github-search
-- Condition: sensory-processing
-- Support category: education-learning
-- Query: overload student support software
-- Found: 2026-07-07
-- Description: An AI-powered, adaptive educational platform for students with special education needs.
-
 ### Vania1021/focusflow-main
 
 - URL: https://github.com/Vania1021/focusflow-main
