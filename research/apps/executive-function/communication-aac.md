@@ -898,3 +898,23 @@
 - Query: executive-function communication-aac neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Open documentation discussing executive control, goal-directed policy selection, context, and cognitive-resource allocation within an active-inference framework.[1]
+
+### Tiimo: ADHD Planner & To-Do
+
+- URL: https://apps.apple.com/at/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: App Store listing for Tiimo, featuring visual schedules, AI-assisted planning, task prioritization, focus timers, and calendar integration.
+
+### Differently: ADHD Productivity
+
+- URL: https://apps.microsoft.com/detail/9pj84m2zpmt9?hl=fr-FR&gl=MF
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Windows task manager and focus timer designed for ADHD and other neurodivergent users, emphasizing task initiation, sustained attention, time awareness, and reduced-motion accessibility.

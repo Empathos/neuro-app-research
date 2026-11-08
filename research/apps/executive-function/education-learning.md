@@ -908,3 +908,33 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Public resource guide covering neurodivergent-support tools such as Tiimo, Goblin Tools, Forest, Freedom, Brain.fm, Todoist, and TickTick.
+
+### Gossik: ADHD apps for adults
+
+- URL: https://play.google.com/store/apps/details?id=com.gossik.GossikChar&hl=en
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Android app offering learning modules, executive-function strategies, habit tools, and mental-health support for adults with ADHD.
+
+### Shimmer Care: ADHD Coaching
+
+- URL: https://apps.apple.com/us/app/shimmer-care-adhd-coaching/id1570668247
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: iOS app combining bite-sized ADHD learning modules, coaching, accountability check-ins, task breakdown, and personalized routines.
+
+### Neurodivergent Memory Experiment Report
+
+- URL: https://github.com/jmeyer1980/neurodivergent-memory/blob/main/EXPERIMENT_REPORT.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public experiment documentation describing executive-function support across logical analysis, emotional processing, practical execution, monitoring, and creative synthesis.
