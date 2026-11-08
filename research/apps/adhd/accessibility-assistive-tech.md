@@ -948,3 +948,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Notion-based planner using CBT- and DBT-informed organization tools, color-coded sections, and flexible planning workflows for ADHD users.
+
+### ADHD-Assistant
+
+- URL: https://github.com/SeallLab/ADHD-Assistant
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Open-source conversational productivity assistant for ADHD that creates calendar events, notes, and reminders through natural-language interaction.
+
+### ADHD Pal
+
+- URL: https://apps.apple.com/jp/app/adhd-pal/id6544805108?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: ADHD-focused productivity and focus app listed on the Apple App Store. The listing does not currently specify supported accessibility features.
+
+### Clarify: ADHD Organizer, Timer
+
+- URL: https://apps.apple.com/us/app/clarify-adhd-organizer-timer/id1670958524
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: ADHD organizer and timer app available through the Apple App Store, intended to support task organization and time management.

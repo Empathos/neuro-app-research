@@ -788,3 +788,23 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Evidence-based ADHD intervention platform presenting intervention effects and evidence certainty for clinicians, people with ADHD, and families.
+
+### ADHD Insight
+
+- URL: https://play.google.com/store/apps/details?id=com.akiliinteractive.hcs.x01&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Caregiver-focused app for tracking a childs ADHD-related behaviors, goals, notes, trends, alerts, and validated symptom assessments to support conversations with clinicians and teachers.
+
+### NeuroHub
+
+- URL: https://neurohubcommunity.org/tour/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Neurodivergent-led collection of websites and apps, including Phoenix, a private neuro-affirming AI companion for autistic, ADHD, and AuDHD people with check-ins and overwhelm-support tools.

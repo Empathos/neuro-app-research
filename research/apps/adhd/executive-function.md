@@ -1078,3 +1078,63 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Related public repository for the ONETIME product, focused on minimalist task initiation and time-management support for ADHD and related cognitive differences.
+
+### Tempus: ADHD Daily Planner
+
+- URL: https://apps.apple.com/us/app/tempus-adhd-daily-planner/id6751440902
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: ADHD-oriented planner with visual time blocking, focus timers, app blocking, reminders, widgets, and support for executive-function challenges.
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://apps.apple.com/us/app/adhd-focus-os-daily-planner/id6772880635
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Neurodivergent-focused planner combining task organization, routine building, habit tracking, Pomodoro focus sessions, and distraction-free planning.
+
+### ADHD Planner: Daily Routine
+
+- URL: https://apps.apple.com/tt/app/adhd-planner-daily-routine/id6787018838
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Minimal daily planner for ADHD users with focus timers, habits, to-dos, and gentle time-, location-, and routine-based reminders.
+
+### NeuroFairy
+
+- URL: https://github.com/margaretgass/neurofairy
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Open-source ADHD-aware executive-function assistant designed as a local desktop companion for task organization, focus sessions, calendars, notes, body doubling, and Pomodoro workflows.
+
+### ADHD Status
+
+- URL: https://github.com/maumoya/adhd-status
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Free MIT-licensed ADHD-friendly status board for Claude Code and AI agents, designed to support focus, executive function, context management, and one-step-at-a-time progress.
+
+### ADHD Daily Planner
+
+- URL: https://github.com/zja2004/BGI-CLI/blob/main/data/skills/adhd-daily-planner/SKILL.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Open planning skill for ADHD brains featuring time-blind-friendly planning, realistic estimation, dopamine-aware task design, daily structure, and executive-function support.

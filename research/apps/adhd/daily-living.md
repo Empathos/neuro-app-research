@@ -1038,3 +1038,43 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Public skill specification for ADHD-accessible assistance emphasizing next actions, numbered steps, time estimates, state restoration, and reduced tangents.[4]
+
+### ADHD Hyper Planner
+
+- URL: https://apps.apple.com/tt/app/adhd-hyper-planner/id6759459572
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: ADHD-focused planner with swipeable task planning, focus-time tracking, and social accountability features.
+
+### GoodPlans: ADHD Planner
+
+- URL: https://apps.apple.com/jp/app/adhd-planner-focus-tasks/id6742191887?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Automatic scheduling app that builds a daily plan from entered tasks and is designed for ADHD-friendly planning.
+
+### ADHD Daily Planner & Tasks Pro
+
+- URL: https://apps.apple.com/id/app/adhd-daily-planner-tasks-pro/id6761681085
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Daily-living planner with tasks, habits, reminders, journals, schedules, and routine tracking for ADHD users.
+
+### ADHD Schedule Planner: Weel
+
+- URL: https://apps.apple.com/hk/app/adhd-schedule-planner-weel/id1560704848?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Time-management app using a 24-hour analog watch face to make schedules more visually accessible for ADHD, dyscalculia, time blindness, and other neurodivergent needs.

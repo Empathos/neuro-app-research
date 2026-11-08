@@ -1348,3 +1348,43 @@
 - Query: adhd education-learning neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Research repository containing data and analysis code for multisensory temporal binding and perceptual-learning experiments involving children with ADHD.
+
+### Enhancing Adaptive Personalized Learning Interfaces with Generative AI
+
+- URL: https://dl.acm.org/doi/full/10.1145/3768633.3770138
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Research article on personalized learning interfaces for students with ADHD, including ADHD-focused learning applications and adaptive LMS prototypes.
+
+### ADHD Statistical Analysis and Research on Infant and Teen Data
+
+- URL: https://github.com/coding-cluster/ADHD_Statistical_Analysis_and_Research_on_Infant_and_Teen_Data
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Repository providing a starting point for analyzing datasets involving neurodivergent infants and teenagers.
+
+### ADHD Behavioral Management in Higher Education
+
+- URL: https://github.com/HigherEdData/ADHD-Beh-Mgmt
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Repository examining how ADHD affects school contact and missed school days, relevant to higher-education and academic-support research.
+
+### Zavmo
+
+- URL: https://apps.apple.com/gb/app/zavmo/id6758090947
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Neurodiversity-focused learning app offering shorter segments, gamification, voice-first content, visual pathways, and structured navigation.
