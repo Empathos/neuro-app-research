@@ -878,3 +878,43 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Research paper on accessible digital textbooks and adapted exercises, including computer-based alternatives to handwriting for children with dyspraxia.
+
+### Cantoo Scribe
+
+- URL: https://apps.microsoft.com/detail/9mv9zfv2rn3k?hl=en-US&gl=US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Inclusive education software for note-taking and lesson management, with dys-friendly layouts, dictation, reading support, word prediction, voice notes, and tools intended to support dyspraxia and related learning needs.
+
+### Dyspraxia Foundation Research Journals
+
+- URL: https://dyspraxiafoundation.co.uk/professionals/rs_journals
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Public collection of published research relating to dyspraxia and Developmental Coordination Disorder, useful for education and support research.
+
+### The Lived Experience of Postgraduate Craft Students
+
+- URL: https://researchonline.rca.ac.uk/5865/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Research repository record exploring educational experiences, challenges, and strengths among postgraduate craft students with sensory and perceptual divergences.
+
+### HeyOtto AI Tutor
+
+- URL: https://www.heyotto.app/ai-tutor
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Adaptive AI tutor for children and teens that explains concepts in different ways, adjusts pacing, and supports neurodivergent learners.

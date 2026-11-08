@@ -758,3 +758,23 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Android executive-function companion combining budgeting, routines, impulse buffers, and tools intended to reduce overwhelm for neurodivergent users.
+
+### NEURORGANIZED Task Management Platform
+
+- URL: https://www.neurorganized.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Task-management and organisation platform aimed at executive dysfunction and neurodivergent users, with routines, planners, trackers, and home-management resources.
+
+### Differently: ADHD Productivity
+
+- URL: https://apps.microsoft.com/detail/9pj84m2zpmt9?hl=fr-FR&gl=MF
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Task manager and focus timer designed for ADHD and other neurodivergent users, emphasizing task initiation, sustained focus, and time awareness.

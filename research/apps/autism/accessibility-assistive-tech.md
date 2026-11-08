@@ -439,16 +439,6 @@
 - Found: 2026-10-14
 - Description: Curated public directory of apps for autistic users, including assistive-technology products such as GoTalk and GoVisual and tools supporting communication and adulthood.[8]
 
-### PRISM AAC
-
-- URL: https://github.com/dcostenco/prism-aac
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-15
-- Description: Evidence-based open-source AAC web application designed for users with motor impairments.
-
 ### KultureCity
 
 - URL: https://apps.apple.com/us/app/kulturecity/id1359922217

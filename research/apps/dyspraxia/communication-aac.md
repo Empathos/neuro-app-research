@@ -1188,3 +1188,13 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Customizable iPad AAC app for children and adults with conditions affecting natural speech, offering picture-based communication, phrase building, and a vocabulary of more than 3,000 fringe words.
+
+### Proloquo4Text AAC
+
+- URL: https://apps.apple.com/ca/app/proloquo4text-aac/id751646884
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Text-to-speech AAC app for people who cannot rely on their voice, including users with developmental disabilities such as autism and apraxia.
