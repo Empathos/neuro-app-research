@@ -818,3 +818,33 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: iPad app offering adaptive exercises for visual processing, response inhibition, spatial memory, sequencing, visual search, and eye-hand coordination.
+
+### Focus Tools GitHub Topics
+
+- URL: https://github.com/topics/focus-tools
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-03
+- Description: GitHub topic page covering focus and productivity tools, including neurodivergent browsing aids and ADHD-oriented focus companions.
+
+### Daily Focus Board Skill
+
+- URL: https://github.com/github/awesome-copilot/blob/edbecfa9099c4addae1f500cca1ac067204b30fd/skills/daily-focus-board/SKILL.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public AI skill for creating a browser-based daily focus board driven through conversation with an AI partner.
+
+### Neurorganized
+
+- URL: https://www.dispatch.com/press-release/story/195205/neurorganized-launches-free-task-management-platform-designed-to-reduce-overwhelm-and-support-executive-functioning
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Free task-management platform aimed at ADHD, AuDHD, executive dysfunction, and task paralysis, with routine builders, trackers, planners, and home-organization resources.

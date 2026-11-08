@@ -1038,3 +1038,13 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Research on sensory guides and social narratives as learning tools that help neurodivergent users anticipate stimuli and reduce overstimulation in social-media environments.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/gh/app/autism-fidgets/id6761034020
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: App offering interactive fidgets, bubble-pop play, gentle motion toys, and cause-and-effect activities supporting calm moments, focus, sensory seeking, transitions, and repetitive learning.

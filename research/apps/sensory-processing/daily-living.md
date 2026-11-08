@@ -618,3 +618,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Work-in-progress, keyboard-first mail, calendar, tasks, and contacts tool designed for people who find administrative tasks difficult, including neurodivergent users.
+
+### Rebuild Your Life: Autistic Burnout Support
+
+- URL: https://studio.com/apps/elena-1/rebuildyourlife
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Guided support app for late-diagnosed autistic adults focused on burnout recovery, sensory and nervous-system mapping, boundaries, reflective exercises, and practical routines.[8]

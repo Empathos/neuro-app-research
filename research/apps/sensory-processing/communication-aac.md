@@ -938,3 +938,13 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Open-source, framework-agnostic toolkit for neurodivergent-friendly interfaces, including adaptable settings for sensory thresholds, attention patterns, reading styles, and cognitive load.
+
+### AbilityMic - AAC Speech Communication Board
+
+- URL: https://apps.microsoft.com/detail/9npj0vvpv9bc?hl=en-US&gl=LS
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: AAC communication board for children and adults with communication difficulties, featuring symbols, text-to-speech, and offline pictograms.
