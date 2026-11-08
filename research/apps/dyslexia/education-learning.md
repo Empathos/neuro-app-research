@@ -598,3 +598,33 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Public neuroimaging dataset containing fMRI and structural MRI data from children with typical reading skills, isolated spelling deficits, and dyslexia, useful for research workflows.
+
+### Poppins Learning
+
+- URL: https://www.poppinslearning.io/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Reading app for children ages 614 with dyslexia or reading struggles; uses rhythm-based practice to support phonological awareness, reading fluency, and accuracy.
+
+### Poppins Learning: Clinical Research
+
+- URL: https://poppinslearning.io/science/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Official research page describing randomized trials of Poppins Learning, including studies of rhythm training and reading progress in children with dyslexia.
+
+### Poppins Learning: Dyslexia
+
+- URL: https://apps.apple.com/es/app/poppins-learning-dyslexia/id6480063759?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: App Store listing for a dyslexia-focused reading and phonics app for ages 711, based on the Science of Reading and reported as studied in a published clinical trial.

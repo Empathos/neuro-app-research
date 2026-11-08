@@ -738,3 +738,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Open-source task and context-management tool for neurodivergent developers and busy teams, with dyslexia-friendly spacing and structured task support.
+
+### AI For Dyslexia
+
+- URL: https://github.com/Rithvik2006/AI_For_Dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Public repository for an AI-assisted dyslexia tool intended to improve text readability, address letter reversals, enhance word recognition, and provide adaptive reading support.
+
+### Adaptive Learning Platform for Dyslexic Students
+
+- URL: https://link.springer.com/article/10.1038/s41598-026-57019-x
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Research lead describing an AI-based adaptive learning platform designed for people with dyslexia.[1]

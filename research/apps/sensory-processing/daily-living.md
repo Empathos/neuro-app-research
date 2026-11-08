@@ -369,16 +369,6 @@
 - Found: 2026-07-01
 - Description: Community-sourced directory for connecting families with pediatric occupational therapists specializing in sensory processing and independence skills.
 
-### CDE: Sensory Processing Part 02  Self-Advocacy and Strategies
-
-- URL: https://www.cde.state.co.us/professionaldevelopment/detailondemand/pd_autism_sensory-processing-part02
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: sensory processing independence directory
-- Found: 2026-07-01
-- Description: Official educational resource on proactive strategies, self-advocacy, and sensory independence techniques for individuals with autism.
-
 ### Autism Toolkit  App Store
 
 - URL: https://apps.apple.com/us/iphone/story/id1867605202
