@@ -119,16 +119,6 @@
 - Found: 2026-06-26
 - Description: Free mobile app connecting visually impaired and neurodivergent users with volunteers via live video calls to assist with real-world tasks, enhancing independence and accessibility.
 
-### BlindSquare
-
-- URL: https://blindsquare.com
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autistic mobile accessibility startup
-- Found: 2026-06-26
-- Description: Accessible GPS navigation app for iOS that announces points of interest and street crossings, tailored for users with visual impairments and autism-related sensory needs.
-
 ### Recite Me
 
 - URL: https://www.reciteme.com
@@ -358,26 +348,6 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: Android support app focused on social situations, daily routines, and emotional wellness for neurodivergent users.
-
-### Neurodiverge AI Coach
-
-- URL: https://neurodiverge.app/ai-coach
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Neurodivergent-affirming AI coaching tool covering autism, ADHD, AuDHD, sensory overload, burnout, masking, and related support topics.
-
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/disclaimer
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Public neurodivergence app offering identity-first self-screening resources and clearly stating that its content is not medical diagnosis or treatment.
 
 ### AAC Messenger
 

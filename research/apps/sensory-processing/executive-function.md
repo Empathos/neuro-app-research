@@ -579,16 +579,6 @@
 - Found: 2026-10-17
 - Description: App Store self-exploration tool covering sensory processing, focus and time, emotional regulation, learning style, and executive function.
 
-### Free Neurodivergent Test
-
-- URL: https://neurodiverge.app/neurodivergent-test
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: executive-function
-- Query: sensory-processing executive-function neurodivergent app research pass 502
-- Found: 2026-10-17
-- Description: Thirty-question adult self-screen spanning autism, ADHD, dyspraxia, dyslexia, sensory processing, and tic-related traits, including executive-function dimensions.
-
 ### BeatBop: Interactive Metronome
 
 - URL: https://apps.apple.com/us/app/beatbop-interactive-metronome/id6753838813

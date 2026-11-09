@@ -399,16 +399,6 @@
 - Found: 2026-10-13
 - Description: Android app for daily routines and life skills, designed to support independence and structure for autistic, ADHD, and other neurodivergent users.
 
-### Neurodivergent Tracker
-
-- URL: https://neurodiverge.app/tracker
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: daily-living
-- Query: dyspraxia daily-living neurodivergent app research pass 502
-- Found: 2026-10-13
-- Description: Daily wellbeing and pattern-tracking tool with brief check-ins for sensory load, masking load, cognitive demand, energy, mood, sleep, focus, triggers, and notes.
-
 ### Facio: Neurodivergent Co-Pilot
 
 - URL: https://apps.apple.com/us/app/facio-neurodivergent-co-pilot/id6761283904
@@ -648,3 +638,13 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: The App Store listing identifies a related Beats Medical Dyspraxia App focused on dyspraxia/DCD therapy and games.
+
+### SenLife: ADHD & Autism Support
+
+- URL: https://apps.apple.com/ph/app/senlife-adhd-autism-support/id6450156262
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Daily diary and advocacy-support app that helps families record observations and create insight reports about a neurodivergent childs support needs.

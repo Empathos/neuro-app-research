@@ -918,3 +918,53 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Adaptive AI tutor for children and teens that explains concepts in different ways, adjusts pacing, and supports neurodivergent learners.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/mk/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Visual planning and learning app for diverse cognitive profiles, with executive-function support, task breakdowns, routines, reminders, and bite-sized neuroinclusion learning content.
+
+### NeuroLocker
+
+- URL: https://apps.apple.com/pt/app/neurolocker/id6740707608
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Neurodivergent-focused productivity app for students and young adults, offering lecture transcription, summaries, task creation, calendars, reminders, focus timers, study support, and parent observation.
+
+### Apps for Children with Dyslexia, Dyspraxia and SPLD
+
+- URL: https://www.abode2.com/apps-for-children-with-dyslexia-dyspraxia-and-spld/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Public guide identifying learning-support apps for dyslexia, dyspraxia, and specific learning difficulties, including tools aimed at balance, coordination, and visual perception.
+
+### Ayoa for Education
+
+- URL: https://www.ayoa.com/education/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Visual mind maps, task boards, whiteboards, reminders, and collaborative planning for learners with ADHD, dyslexia, autism, and dyspraxia.
+
+### Ava for Schools
+
+- URL: https://apps.apple.com/us/app/ava-for-schools/id6748623549?l=fr-FR
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Game-based social and emotional learning app where neurodivergent students practice problem-solving, emotional management, and relationship skills.
