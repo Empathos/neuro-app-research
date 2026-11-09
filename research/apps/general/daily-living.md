@@ -489,16 +489,6 @@
 - Found: 2026-10-20
 - Description: Neurodivergent-friendly planner with visual schedules, task lists, focus timers, AI prioritization, and calendar/reminder synchronization.
 
-### Neurodiverge App Pricing and Features
-
-- URL: https://neurodiverge.app/pricing
-- Source: perplexity-sonar
-- Condition: general
-- Support category: daily-living
-- Query: general daily-living neurodivergent app research pass 502
-- Found: 2026-10-20
-- Description: Official feature page documenting free self-screens and guides plus paid daily tracking, pattern dashboards, printable worksheets, and clinician handoff reports.
-
 ### My Genius: Neurodiversity App
 
 - URL: https://apps.apple.com/us/app/my-genius-neurodiversity-app/id6756838712

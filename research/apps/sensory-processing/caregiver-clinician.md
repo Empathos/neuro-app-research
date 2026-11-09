@@ -938,3 +938,33 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Research lead for an app concept combining physiological and environmental tracking, regulation strategies, journaling, visualizations, and care-network sharing.
+
+### Assistive Technology for Neurodivergent Individuals: Systematic Review
+
+- URL: https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwag038?redirectedFrom=PDF
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Review of assistive technologies including mobile apps, virtual reality, and smartwatches for self-regulation, independence, daily activities, and quality of life.
+
+### Exploring and Understanding Neurodiverse Sensory Experiences: Full Research Output
+
+- URL: https://nottingham-repository.worktribe.com/OutputFile/57904608
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Research document describing sensory-awareness needs and a prototype app intended to educate users and recommend personalized sensory-management strategies.
+
+### Sensory Processing and Behavioral Outcomes in Developmental Populations
+
+- URL: https://link.springer.com/subjects/sensory-processing-and-behavioral-outcomes-in-developmental-populations
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Research collection covering sensory processing and developmental populations, including measurement work on visual-processing experiences in neurodivergent adults.
