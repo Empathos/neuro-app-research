@@ -868,3 +868,13 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Research-backed mobile application project focused on screening and tracking children with autism, including content validation and usability evaluation.
+
+### Nello: Autism Behavior Tracker
+
+- URL: https://apps.apple.com/om/app/nello-autism-behavior-tracker/id6784738384
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Tracker for meltdowns, sensory experiences, sleep, food, and positive events; supports ABC logging and pattern identification for autistic children, teens, adults, and caregivers.

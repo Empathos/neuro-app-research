@@ -1318,3 +1318,23 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Mobile education and development app for autistic children and families, featuring educational games, parent resources, and autism-related screening tools.
+
+### Ava for Schools
+
+- URL: https://apps.apple.com/us/app/ava-for-schools/id6748623549?l=fr-FR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Social-emotional learning game for neurodivergent students, featuring scenarios for emotional regulation, problem-solving, relationships, and CASEL-aligned skills.
+
+### Lexy - Smart Literacy Learning
+
+- URL: https://apps.apple.com/pl/app/lexy-smart-literacy-learning/id1564885095?l=pl&platform=mac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Adaptive literacy-learning tutor designed for children with dyslexia, ADHD, and other reading-learning needs.
