@@ -648,3 +648,43 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Assistive study technology that records class content and generates summaries, reducing manual note-taking demands that can be challenging for students with dyspraxia.
+
+### NeuroDock Dyspraxia Profile
+
+- URL: https://github.com/tlennon-ie/neurodock/blob/main/profiles/dyspraxia.yaml
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Open-source configuration profile for adapting a tool to dyspraxia-related motor-planning load, time-estimation difficulties, and vestibular sensitivity.
+
+### Hodios Learning-Difference Study Prompt
+
+- URL: https://github.com/hermes-hq/hodios/blob/main/library/education/studying/adapt-study-for-learning-difference/prompt.md
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Open repository resource tagged for dyspraxia, neurodiversity, accommodations, and assistive technology, with study adaptations such as typing, checklists, fixed layouts, and step-by-step instructions.
+
+### Neurodivergent Adapter Skill
+
+- URL: https://github.com/Hep2o/NeuroDivergent-Adapter-Skill
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Open-source prompt-based communication adapter intended to make AI interactions more usable for neurodivergent people.
+
+### Cognitive Accessibility Kit  Neurodiversity Design
+
+- URL: https://github.com/bairamilona/cognitive-accessibility-kit/blob/main/neurodiversity-design/SKILL.md
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Repository guidance for designing and auditing digital products for neurodivergent and cognitively diverse users, explicitly including dyspraxia.

@@ -518,3 +518,13 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-10-28
 - Description: Neurodivergent-focused tool providing 15-minute sessions intended to reduce cognitive overload and support nervous-system regulation.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/in/app/animi-emotional-intelligence/id6443638345?l=ml
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Emotion-focused app for identifying feelings, understanding causes, practicing management strategies, and recognizing personal emotional patterns.

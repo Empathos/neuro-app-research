@@ -808,3 +808,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Public neurodivergence community platform describing research conducted with and by neurodivergent people; relevant as a participatory research and recruitment lead.[6]
+
+### Open Spectrum Org
+
+- URL: https://github.com/Open-Spectrum-Org
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Public GitHub organization featuring openspectrum-app, described as a privacy-first, open-source tracker for parents of neurodivergent children.

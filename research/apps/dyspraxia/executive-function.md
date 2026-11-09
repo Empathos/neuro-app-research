@@ -778,3 +778,23 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-11-08
 - Description: Task manager and focus timer designed for ADHD and other neurodivergent users, emphasizing task initiation, sustained focus, and time awareness.
+
+### Speech Therapy for Apraxia
+
+- URL: https://apps.apple.com/pl/app/speech-therapy-for-apraxia/id1625372283
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Speech-therapy app for children with childhood apraxia of speech or dyspraxia and adults with apraxia, offering phoneme selection and progressive motor-planning practice.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/sv/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: App Store listing for Tiimo, offering visual routines, an AI planner, focus timer, task prioritization, and calendar synchronization.
