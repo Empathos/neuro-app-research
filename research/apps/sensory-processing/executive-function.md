@@ -838,3 +838,43 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Free task-management platform aimed at ADHD, AuDHD, executive dysfunction, and task paralysis, with routine builders, trackers, planners, and home-organization resources.
+
+### SpectrumScan
+
+- URL: https://apps.apple.com/us/app/spectrumscan/id6746865649
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Digital health app for sensory sensitivities that uses crowdsourced sound and light information to provide accessibility insights about public environments.
+
+### BeatBop: Interactive Metronome
+
+- URL: https://apps.apple.com/no/app/beatbop-interactive-metronome/id6753838813
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Interactive rhythm-training app for neurodivergent children and teens, with features targeting attention, coordination, self-regulation, sensory processing, and executive-function challenges.
+
+### Sensory App House GitHub
+
+- URL: https://github.com/sensoryapphouse
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: GitHub organization hosting free and commercial assistive apps and software, providing a repository lead for sensory-support tools.
+
+### NeuroAura AI
+
+- URL: https://devpost.com/software/neuroaura-ai
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Adaptive cognitive-wellness concept combining sensory-adaptive interface modes, executive-dysfunction task breakdown, focus soundscapes, and accessibility-oriented customization.

@@ -1028,3 +1028,23 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: App offering interactive fidgets, bubble-pop play, gentle motion toys, and cause-and-effect activities supporting calm moments, focus, sensory seeking, transitions, and repetitive learning.
+
+### Sensory Resources
+
+- URL: https://neurodivergentinsights.com/product-category/sensory/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Educational workbooks, checklists, and tools covering sensory regulation, interoception, and alexithymia in autism and ADHD.
+
+### Loodle: A Mobile Learning App for Neurodiverse Kids
+
+- URL: https://www.behance.net/gallery/225192449/Loodle-A-Mobile-Learning-App-for-Neurodiverse-Kids
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Sensory-friendly learning app concept featuring customizable learning, calm visuals, caregiver tools, and support for autistic, ADHD, and dyslexic learners.

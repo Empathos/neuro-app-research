@@ -618,3 +618,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 501
 - Found: 2026-11-08
 - Description: Guided support app for late-diagnosed autistic adults focused on burnout recovery, sensory and nervous-system mapping, boundaries, reflective exercises, and practical routines.[8]
+
+### Open Spectrum
+
+- URL: https://github.com/Open-Spectrum-Org
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: A GitHub organization associated with a privacy-first, open-source tracker for parents of neurodivergent children.[6]

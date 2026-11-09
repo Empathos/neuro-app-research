@@ -648,3 +648,23 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Support app for caregivers of neurodivergent children with calming plans, sensory strategies, visual supports, regulation tools, communication scripts, and routine guidance.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/us/app/shift-regulate-reset/id6759524862?l=ru&platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: A real-time regulation tool designed for ADHD, autistic, and neurodivergent users, with modes for overwhelm, shutdown, spiraling, anger, and task paralysis.
+
+### LoopBreak
+
+- URL: https://github.com/aayush1893/loopbreak
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Open-source grounding and regulation tool featuring 5-4-3-2-1 sensory grounding and paced breathing.

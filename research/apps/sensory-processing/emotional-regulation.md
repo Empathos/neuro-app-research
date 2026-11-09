@@ -568,3 +568,33 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Sensory-aware crisis-support app concept for autistic and ADHD adults, offering one-tap grounding, body-based regulation, shutdown support, and recovery tools.
+
+### AI-Assisted Digital Behavioral Screening and Mental Health Support Platform
+
+- URL: https://github.com/aaditya-29/AI-Assisted-Digital-Behavioral-Screening-Mental-Health-Support-Platform
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: A public GitHub project modeling behavioral-support measures including mood valence, anxiety, sensory sensitivity, and emotional regulation.
+
+### Pathos Engine
+
+- URL: https://github.com/VicBa2000/pathos-engine/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: An open-source affective-computing project involving multimodal signal processing and optional external signals such as facial activity and keyboard dynamics, potentially relevant to emotion-state and regulation research.
+
+### NeuroSkill Emotional Protocols
+
+- URL: https://github.com/NeuroSkill-com/skills/blob/main/skills/neuroskill-protocols-emotions/SKILL.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: A public repository containing protocols for emotional regulation, mood, anger, fear, grief, shame, emotional processing, and emotional boundaries.
