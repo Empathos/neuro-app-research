@@ -748,3 +748,23 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Peer-support app for ADHD and autistic users with condition-specific matching, body doubling, accountability, and executive-function discussion tags.
+
+### Evaluating the Evidence: Digital Interventions for ADHD
+
+- URL: https://link.springer.com/article/10.1186/s12888-025-06825-0?fromPaywallRec=false
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: A systematic review of reviews covering apps, computerized cognitive training, games, virtual reality, and other digital interventions for ADHD and executive-function outcomes.
+
+### Digital Cognitive Behavioral Therapy Apps for ADHD
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12436941/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: A systematic review of recent evidence on digital CBT apps for ADHD, including findings related to executive functioning, adherence, accessibility, and personalization.

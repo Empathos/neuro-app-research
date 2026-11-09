@@ -389,16 +389,6 @@
 - Found: 2026-10-14
 - Description: Local-first sensory-overload support app with breathing and visual-focus tools, 5-4-3-2-1 grounding, and an instant dark-screen mode for reduced visual input.
 
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/sensory-processing-disorder
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: sensory-processing daily-living neurodivergent app research pass 502
-- Found: 2026-10-14
-- Description: Neuroaffirming guides and quizzes related to sensory processing and neurodivergence, with optional daily tracking, coaching, and printable resources.
-
 ### Thruday Visual Planner
 
 - URL: https://apps.apple.com/vg/app/thruday-visual-planner-todos/id1645552771

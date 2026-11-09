@@ -938,3 +938,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Public experiment documentation describing executive-function support across logical analysis, emotional processing, practical execution, monitoring, and creative synthesis.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/jp/app/tiimo-visual-daily-planner/id1480220328?l=en
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Visual planning and learning app for diverse cognitive profiles, including ADHD and autism, with executive-function supports, visual timelines, focus timers, task breakdowns, routines, and bite-sized neuroinclusion courses.
+
+### Shimmer Care: ADHD Coaching
+
+- URL: https://apps.apple.com/br/app/shimmer-care-adhd-coaching/id1570668247
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: ADHD coaching app for executive-function challenges, offering bite-sized learning modules, task breakdown, accountability, goal-setting, and practical ADHD skills.

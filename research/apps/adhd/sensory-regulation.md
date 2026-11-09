@@ -749,16 +749,6 @@
 - Found: 2026-10-13
 - Description: iOS listing for a neurodivergent-family support app with calming plans, sensory strategies, visual supports, regulation tools, and communication resources.
 
-### Neurodiverge Sensory and Regulation Guides
-
-- URL: https://neurodiverge.app/guides
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: sensory-regulation
-- Query: adhd sensory-regulation neurodivergent app research pass 502
-- Found: 2026-10-13
-- Description: Public guide collection covering sensory processing, sensory overload, sensory diets, and regulation approaches for neurodivergent adults and families.
-
 ### SensyCues
 
 - URL: https://www.sensorygift.com/apps/sensycues/

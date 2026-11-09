@@ -716,3 +716,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: ADHD-oriented second-brain app lead featuring brain-dump capture, task breakdown, prioritization, Pomodoro and visual timers, routines, and time-blindness support.[6]
+
+### Sensory App House
+
+- URL: https://github.com/sensoryapphouse
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: GitHub organization publishing free and commercial assistive apps and software, with repositories relevant to sensory and accessibility support.
+
+### BeatBop: Interactive Metronome
+
+- URL: https://apps.apple.com/ch/app/beatbop-interactive-metronome/id6753838813
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Interactive rhythm app designed for neurodivergent children and teens, targeting attention, coordination, sensory processing, sequencing, and self-regulation.
