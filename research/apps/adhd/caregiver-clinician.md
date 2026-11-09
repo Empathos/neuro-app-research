@@ -489,26 +489,6 @@
 - Found: 2026-10-13
 - Description: ADHD, autism, and neurodivergent care app for tracking emotional and behavioral health, identifying triggers, securely sharing information, and generating reports for doctors.
 
-### Neurodiverge App Methodology
-
-- URL: https://neurodiverge.app/methodology
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: caregiver-clinician
-- Query: adhd caregiver-clinician neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Documentation describing ADHD and neurodivergence self-screening methods, research-informed trait matching, limitations, and the need for qualified clinical assessment.
-
-### About Neurodiverge App
-
-- URL: https://neurodiverge.app/about
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: caregiver-clinician
-- Query: adhd caregiver-clinician neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Official overview of free neurodivergence self-screens and guides for adults and parents of neurodivergent children, grounded in published research and lived experience.
-
 ### awesome-adhd
 
 - URL: https://github.com/XargsUK/awesome-adhd

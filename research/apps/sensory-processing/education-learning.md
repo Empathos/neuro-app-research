@@ -569,16 +569,6 @@
 - Found: 2026-08-08
 - Description: Web app that helps neurodivergent students
 
-### Neurodiverge App Sensory Profile Test
-
-- URL: https://neurodiverge.app/sensory-profile-test
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: education-learning
-- Query: sensory-processing education-learning neurodivergent app research pass 501
-- Found: 2026-10-14
-- Description: Free sensory self-screen covering eight sensory channels, with a profile visualization and suggested accommodations; intended for self-exploration rather than diagnosis.
-
 ### Stories My Way
 
 - URL: https://www.diversitywhisperer.com/digitaltools
@@ -818,16 +808,6 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-10-20
 - Description: Publicly curated lead list covering adaptive reading and math, visual schedules, low-stimulation sensory play, relaxation, and routine-support apps.
-
-### Neurodiverge App: Neurodivergent Kids
-
-- URL: https://neurodiverge.app/neurodivergent/kids
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: education-learning
-- Query: sensory-processing education-learning neurodivergent app research pass 501
-- Found: 2026-10-21
-- Description: Parent-completable sensory questionnaire for children ages 4 and older that covers eight sensory channels and provides accommodation suggestions.
 
 ### Autism Discovery Tool
 
