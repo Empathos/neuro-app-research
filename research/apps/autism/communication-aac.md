@@ -1198,3 +1198,33 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Free, flexible AAC software with grid-based interfaces, text-to-speech, multilingual support, offline use, and integrations with ARASAAC and Open Symbols.[10]
+
+### Matraquinha: Autism
+
+- URL: https://apps.apple.com/us/app/matraquinha-autism/id1423586611
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: AAC app that converts images into speech for autistic people, nonspeaking users, and people with speech difficulties.
+
+### AAC Visuals Board for Autism
+
+- URL: https://apps.apple.com/id/app/aac-visuals-board-for-autism/id6451429642
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Visual communication board for nonspeaking people, autism communication, and aphasia support.
+
+### PECSTalk
+
+- URL: https://apps.apple.com/jp/app/pecstalk/id6723864684?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: AAC app for people with complex communication needs, including people on the autism spectrum.

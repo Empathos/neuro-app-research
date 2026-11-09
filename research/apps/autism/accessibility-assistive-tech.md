@@ -119,16 +119,6 @@
 - Found: 2026-06-26
 - Description: Free mobile app connecting visually impaired and neurodivergent users with volunteers via live video calls to assist with real-world tasks, enhancing independence and accessibility.
 
-### BlindSquare
-
-- URL: https://blindsquare.com
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autistic mobile accessibility startup
-- Found: 2026-06-26
-- Description: Accessible GPS navigation app for iOS that announces points of interest and street crossings, tailored for users with visual impairments and autism-related sensory needs.
-
 ### Recite Me
 
 - URL: https://www.reciteme.com
@@ -358,26 +348,6 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-10-13
 - Description: Android support app focused on social situations, daily routines, and emotional wellness for neurodivergent users.
-
-### Neurodiverge AI Coach
-
-- URL: https://neurodiverge.app/ai-coach
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Neurodivergent-affirming AI coaching tool covering autism, ADHD, AuDHD, sensory overload, burnout, masking, and related support topics.
-
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/disclaimer
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: accessibility-assistive-tech
-- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Public neurodivergence app offering identity-first self-screening resources and clearly stating that its content is not medical diagnosis or treatment.
 
 ### AAC Messenger
 
@@ -978,3 +948,113 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: AI-assisted autism communication-support program that analyzes caregiver-recorded therapy videos and provides personalized feedback informed by Pivotal Response Treatment.[5]
+
+### CoughDrop
+
+- URL: https://apps.apple.com/fr/app/coughdrop/id1021384570
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: AAC communication and support app for people with autism and other complex communication needs, including communication and reporting features.
+
+### VisualVoice
+
+- URL: https://apps.apple.com/tr/app/visualvoice/id6749776764?platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Offline AAC app for autism featuring pictograms, emotions, text-to-speech, multilingual support, high-contrast visuals, and a sensory-friendly interface.
+
+### Autism Captain
+
+- URL: https://apps.apple.com/us/app/autism-captain/id6759001053
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Support and tracking app for autistic people, families, and care teams to log routines, sensory factors, stressors, triggers, and helpful strategies.
+
+### Autism Speech and Language
+
+- URL: https://apps.apple.com/ng/app/autism-speech-and-language/id6466824871
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Parent-focused speech and language support app with home activities, personalized learning journeys, neurodivergence and sensory-processing resources, and sensory modifications.
+
+### Assistive Technology Partnership: iOS Apps
+
+- URL: https://atp.nebraska.gov/resource-tags/ios-apps
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Public assistive-technology resource page covering iOS apps for autism and related communication and accessibility needs.
+
+### CoughDrop
+
+- URL: https://apps.apple.com/se/app/coughdrop/id1021384570
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: AAC communication and support app for autistic and other complex communicators, with customizable boards, symbol sets, personal images, speech synthesis, and cross-device access.[2]
+
+### Proloquo2Go
+
+- URL: https://apps.apple.com/kr/app/proloquo2go/id1475643220?mt=12
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Customizable AAC app for people who cannot speak or need help being understood; includes natural-sounding voices, switch scanning, VoiceOver support, and adjustable grid sizes.[7]
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/de/app/touchchat-hd-aac/id398860728
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Full-featured AAC solution for people with autism and other conditions affecting natural speech, using customizable vocabulary pages, buttons, recorded messages, and speech synthesis.[8]
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/hk/app/avaz-aac/id909574843?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Customizable AAC text-to-speech app for autistic people and others with speech delays, offering picture-based sentence construction and a large symbol library.[6]
+
+### Speech Assistant - CommBoards
+
+- URL: https://apps.apple.com/it/app/speech-assistant-commboards/id1522541894?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: AAC speech-assistance app for autism and other speech challenges, with personalized communication boards using uploaded images for users, therapists, and educators.[10]
+
+### NeuroHub
+
+- URL: https://apps.apple.com/ca/iphone/room/6502776179
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Listed in Apple's accessibility-tools collection as an app for finding and rating autism accessibility resources.[1]

@@ -609,16 +609,6 @@
 - Found: 2026-10-13
 - Description: Android neurodiversity support app with calming sounds, five-senses grounding, sensory regulation tools, and shareable sensory-pattern reports.
 
-### Neurodiverge Sensory and Regulation Guides
-
-- URL: https://neurodiverge.app/guides
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: sensory-regulation
-- Query: tourette sensory-regulation neurodivergent app research pass 502
-- Found: 2026-10-13
-- Description: Public guides covering sensory processing, sensory overload, sensory diets, and practical regulation strategies for neurodivergent users and families.
-
 ### Tic Clips Research Study
 
 - URL: https://tourette.org/research-medical/research-studies/

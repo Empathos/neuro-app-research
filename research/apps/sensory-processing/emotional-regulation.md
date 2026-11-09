@@ -449,16 +449,6 @@
 - Found: 2026-10-17
 - Description: Public GitHub organization describing a sensory relay and refinement system with intelligent filtering and routing of incoming data.[9]
 
-### Neurodivergent Therapy and Sensory Regulation Guidance
-
-- URL: https://neurodiverge.app/neurodivergent/therapy
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: emotional-regulation
-- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
-- Found: 2026-10-17
-- Description: Public resource discussing sensory-processing support, nervous-system regulation, somatic approaches, and occupational-therapy-informed accommodations.[5]
-
 ### BrainWorks
 
 - URL: https://www.upliftingvoices.org/FA/FA3.html

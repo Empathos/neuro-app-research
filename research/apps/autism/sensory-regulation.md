@@ -1068,3 +1068,53 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: An iOS app combining social stories, communication support, mood tracking, visual schedules, breathing exercises, and sensory tools such as bubble popping and drawing.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/ua/app/autism-adhd-games/id6757896431
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: iOS app offering calming sensory games, fidget activities, focus exercises, and touch-based experiences intended to support self-regulation and transitions.
+
+### Calm Fidgets: Sensory Play App
+
+- URL: https://apps.apple.com/jp/app/calm-fidgets-sensory-play/id6761034020?l=en-US&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: iOS and iPad sensory-play app with virtual fidgets and calming activities designed for sensory seeking, quiet play, transitions, and self-regulation.
+
+### SenSync
+
+- URL: https://github.com/ISHITA006/SenSync
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Open-source app concept that detects sensory overload in autistic individuals and connects them with a caregiver.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/th/app/autism-play-garden/id6751961935?l=th
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Ad-free iOS activity app with sensory-calming games, AAC features, tracing, coloring, puzzles, and predictable activities intended to support regulation and learning.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/nl/app/calm-steps/id6755076182
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: iOS emotional-regulation app for children, including neurodivergent users, with emotion check-ins, guided strategies, sensory-profile tools, caregiver coaching, and calming games.

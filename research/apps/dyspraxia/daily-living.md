@@ -399,16 +399,6 @@
 - Found: 2026-10-13
 - Description: Android app for daily routines and life skills, designed to support independence and structure for autistic, ADHD, and other neurodivergent users.
 
-### Neurodivergent Tracker
-
-- URL: https://neurodiverge.app/tracker
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: daily-living
-- Query: dyspraxia daily-living neurodivergent app research pass 502
-- Found: 2026-10-13
-- Description: Daily wellbeing and pattern-tracking tool with brief check-ins for sensory load, masking load, cognitive demand, energy, mood, sleep, focus, triggers, and notes.
-
 ### Facio: Neurodivergent Co-Pilot
 
 - URL: https://apps.apple.com/us/app/facio-neurodivergent-co-pilot/id6761283904

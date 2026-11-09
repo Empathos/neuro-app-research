@@ -848,3 +848,23 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Public service-directory listing for Thruday, describing visual schedules, to-do lists, PECS-style cards, shared carer access, mood tracking, and support for independent living.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/pe/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: App for children using social narratives, picture schedules, visual timers, first/then charts, and token boards to support life skills and independence.
+
+### ELS Autism: ABA Therapy
+
+- URL: https://apps.apple.com/eg/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: iOS app using picture schedules, social narratives, token boards, visual timers, and First/Then charts to support children's daily-living skills, routines, transitions, and independence.
