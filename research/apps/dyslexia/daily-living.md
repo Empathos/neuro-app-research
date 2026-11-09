@@ -568,3 +568,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Reading and spelling practice app for children aged 714, featuring speech recognition, adaptive exercises, short sessions, and a parent dashboard.
+
+### DyslexAI Kaggle Writeup
+
+- URL: https://github.com/SmiffyKMc/dyslexia-app/blob/main/Dyslexia_AI_Kaggle_Writeup.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Technical project documentation describing an offline, privacy-focused dyslexia learning app with adaptive AI features, session management, and no required server dependency.
+
+### Coping-with-Dyslexia Android Application
+
+- URL: https://github.com/isha-git/App-for-Dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Android application using text-to-speech, speech-to-text, OCR, spelling and pronunciation practice, and saved vocabulary for repeated learning.

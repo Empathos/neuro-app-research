@@ -628,3 +628,13 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: App Store listing for a dyslexia-focused reading and phonics app for ages 711, based on the Science of Reading and reported as studied in a published clinical trial.
+
+### Innovative Technology to Support the Learning of Students with Dyslexia
+
+- URL: https://link.springer.com/10.1007/978-3-032-19760-3_34
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Systematic literature review focused on innovative technologies supporting students with dyslexia, including app-based interventions.

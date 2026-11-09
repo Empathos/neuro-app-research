@@ -639,16 +639,6 @@
 - Found: 2026-10-13
 - Description: Public neurodivergence self-screening and guidance platform covering dyspraxia, sensory differences, autism, ADHD, and related support needs.
 
-### Neurodiverge App Guides
-
-- URL: https://neurodiverge.app/guides
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: sensory-regulation
-- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Free public guides on sensory channels, sensory overload, sensory diets, and regulation strategies, presented in accessible neuroaffirming language.
-
 ### SensoryGift
 
 - URL: https://www.sensorygift.com/
