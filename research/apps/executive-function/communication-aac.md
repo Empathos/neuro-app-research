@@ -918,3 +918,33 @@
 - Query: executive-function communication-aac neurodivergent app research pass 501
 - Found: 2026-11-08
 - Description: Windows task manager and focus timer designed for ADHD and other neurodivergent users, emphasizing task initiation, sustained attention, time awareness, and reduced-motion accessibility.
+
+### Executive Function Charting
+
+- URL: https://github.com/tervoclemmensb/Executive_Function_Charting
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Public repository supporting research on executive-function maturation from adolescence to adulthood.
+
+### Vanta Capacity-Aware Executive-Function Support
+
+- URL: https://github.com/jpoindexter/Vanta/blob/main/docs/executive-function-support.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Documentation for a neurodivergent-first, diagnosis-independent approach to capacity-aware executive-function support.
+
+### Personal Executive-Function Assistant
+
+- URL: https://github.com/kargarisaac/second_brain
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Public repository for an AI assistant intended to break down goals, plan tasks, and manage schedules as a personal executive-function support tool.
