@@ -618,3 +618,33 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Read-aloud tool for dyslexia and ADHD that supports reading printed pages, PDFs, and on-screen text.
+
+### Speechify
+
+- URL: https://apps.apple.com/us/iphone/story/id1895869577?l=zh-Hans-CN
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Text-to-speech reading tool described as supporting learners with dyslexia by converting photographed or digital text into spoken audio.
+
+### Machine learning-based AAC classification model
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10762180/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Open-access research article covering an AAC model that classifies questions and associates them with pictograms, alongside digital supports for dyslexic students.
+
+### EZducate AAC Board Builder for Dyslexia
+
+- URL: https://www.ezducate.ai/tools/aac-builder/condition/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Web tool for creating customizable dyslexia-focused AAC boards with symbols, text-to-speech, layouts, functional phrases, and personal images.

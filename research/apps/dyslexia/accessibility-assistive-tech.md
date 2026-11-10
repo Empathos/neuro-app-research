@@ -558,3 +558,43 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Reading and writing support with text-to-speech, synchronized highlighting, word prediction, proofreading, dictionaries, and OpenDyslexic font support.
+
+### AccessibilityPlus
+
+- URL: https://github.com/CL0099/AccessibilityPlus
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Open-source Omeka S module providing text resizing, contrast controls, dyslexia-friendly fonts, spacing controls, motion reduction, and a large cursor.
+
+### Offline Text Accessibility
+
+- URL: https://github.com/acedreamer/offline-text-accessibility/blob/master/simplify_server.py
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public repository containing imported logic for dyslexia-oriented text formatting in an offline accessibility server.
+
+### Dyslexia Notes - ADHD Notepad
+
+- URL: https://apps.apple.com/us/app/dyslexia-notes-adhd-notepad/id6741768027
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Customizable note-taking app for dyslexia, ADHD, and reading difficulties, including font, color, and OpenDyslexic settings.
+
+### Lexibar
+
+- URL: https://apps.apple.com/in/app/lexibar/id6753020366
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Reading and writing assistant with text-to-speech, word prediction, illustrations, and support for dyslexia, dysorthographia, and other learning difficulties.
