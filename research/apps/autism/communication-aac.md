@@ -1228,3 +1228,43 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: AAC app for people with complex communication needs, including people on the autism spectrum.
+
+### PictoTalk: AAC App for Autism
+
+- URL: https://apps.apple.com/us/app/pictotalk-aac-app-for-autism/id6773665944
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Pictogram-based AAC communicator with visual scenes, games, and photo-based communication boards for nonspeaking people and users with autism or other speech disabilities.[1]
+
+### Matraquinha: Autism
+
+- URL: https://apps.apple.com/ar/app/matraquinha-autism/id1423586611?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Image-to-voice AAC app supporting communication of needs, emotions, and desires for autistic, nonspeaking, and speech-impaired users.[5]
+
+### AAC Visuals Board for Autism
+
+- URL: https://apps.apple.com/id/app/aac-visuals-board-for-autism/id6451429642?l=id
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Visual AAC communication-board app designed for nonspeaking users and people with autism, aphasia, and related communication needs.[4]
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/id/app/speech-assistant-aac/id1139762358
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Text-to-speech communication app supporting saved phrases, custom categories, and typed messages for autism and other speech disabilities.

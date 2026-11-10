@@ -868,3 +868,33 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: iOS app using picture schedules, social narratives, token boards, visual timers, and First/Then charts to support children's daily-living skills, routines, transitions, and independence.
+
+### Pictalk Buddy: Autism Routine
+
+- URL: https://apps.apple.com/eg/app/pictalk-buddy-autism-routine/id6502835578
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Visual schedule and routine-planning app for autistic and neurodivergent children and adults, with pictograms, timers, audio reminders, and smartwatch support.
+
+### Autism Daily Skills Games
+
+- URL: https://apps.apple.com/ro/app/autism-daily-skills-games/id6756981665
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Interactive practice for daily-living skills such as handwashing, toothbrushing, dressing, household tasks, kitchen routines, and following simple instructions.
+
+### Care Lens: Autism Insights
+
+- URL: https://apps.apple.com/ua/app/care-lens-autism-insights/id6757131827
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Caregiver journaling and organization app for recording daily observations, routines, behavior, and progress while identifying longer-term patterns.

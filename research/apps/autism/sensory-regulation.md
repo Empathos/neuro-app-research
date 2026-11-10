@@ -1118,3 +1118,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: iOS emotional-regulation app for children, including neurodivergent users, with emotion check-ins, guided strategies, sensory-profile tools, caregiver coaching, and calming games.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/de/app/autism-play-garden/id6751961935?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: An ad-free app with therapist-informed activities including sensory calming games, AAC-style communication support, tracing, coloring, puzzles, and structured regulation practice.
+
+### ASD Interactive Assessment Game Suite
+
+- URL: https://github.com/HimanshuChauhan7878/ASD
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Public repository for an AI-powered interactive game suite intended to support early autism screening and skill assessment research.

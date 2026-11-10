@@ -1338,3 +1338,43 @@
 - Query: autism education-learning neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: Adaptive literacy-learning tutor designed for children with dyslexia, ADHD, and other reading-learning needs.
+
+### Jade  Learning Through Play
+
+- URL: https://apps.apple.com/br/app/jade-learning-through-play/id1473169233?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: App Store listing for an inclusive learning app supporting children with autism, ADHD, dyslexia, dyscalculia, intellectual disabilities, Down syndrome, and related learning needs.
+
+### Autism Speech and Language
+
+- URL: https://apps.apple.com/fr/app/autism-speech-and-language/id6466824871
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Parent-guided speech and language support app with home activities, personalized learning journeys, sensory modifications, and resources on neurodivergence, echolalia, and gestalt language learning.
+
+### Neurodiversity Concept Repository
+
+- URL: https://github.com/edtechdev/aied/blob/main/content/bn/concepts/neurodiversity.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public GitHub repository page containing an educational concept entry on neurodiversity, useful as a lead for AI-in-education and inclusive-learning research.
+
+### Lingokids neuroinclusive learning activities
+
+- URL: https://apps.apple.com/sg/iphone/story/id1740497408
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: App Store feature describing inclusive Lingokids activities for children ages 28, including autism-focused activities for social skills and emotion recognition and ADHD-focused activities for attention and movement.
