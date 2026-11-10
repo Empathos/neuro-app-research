@@ -638,3 +638,33 @@
 - Query: dyslexia education-learning neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: Systematic literature review focused on innovative technologies supporting students with dyslexia, including app-based interventions.
+
+### Dyslexia & ADHD: dys reading
+
+- URL: https://apps.apple.com/hr/app/dyslexia-adhd-dys-reading/id1559259054
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Reading customization tool for testing fonts, spacing, and colors to identify settings that may make text easier to read for people with dyslexia or ADHD.
+
+### Fluency: Dyslexia Reading App
+
+- URL: https://apps.apple.com/us/app/fluency-dyslexia-reading-app/id6736867163
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Accessibility-focused OCR and reading app that transforms documents and printed pages for dyslexia, ADHD, and other learning differences.
+
+### Poppins Learning: Dyslexia
+
+- URL: https://apps.apple.com/uy/app/poppins-learning-dyslexia/id6480063759
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Reading and phonics app for ages 711, covering phonological awareness, phonics, and decoding through short rhythm-based games; its listing reports clinical-trial research.

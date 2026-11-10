@@ -758,3 +758,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Research lead describing an AI-based adaptive learning platform designed for people with dyslexia.[1]
+
+### Dyslexia Toolkit
+
+- URL: https://github.com/FerroxLabs/wayland/blob/main/src/process/resources/skills-library/bodies/skills/health-wellness/dyslexia-toolkit/SKILL.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public repository document covering dyslexia assistive-technology recommendations, reading strategies, study aids, formatting, and practical text-navigation approaches.
+
+### Booost: Tasks & Planning
+
+- URL: https://play.google.com/store/apps/details?id=com.booosteducation.booost.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Planner designed to support executive-function needs such as planning, prioritising, task initiation, and follow-through; explicitly includes neurodivergent users with dyslexia, ADHD, autism, dyspraxia, and other specific learning difficulties.

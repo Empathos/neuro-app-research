@@ -588,3 +588,13 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Android application using text-to-speech, speech-to-text, OCR, spelling and pronunciation practice, and saved vocabulary for repeated learning.
+
+### Dyslexia-AI
+
+- URL: https://github.com/Ruchira807/Dyslexia-AI
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public AI and IoT platform for dyslexic learners featuring text-to-speech, speech-to-text, visual learning, lighting control, focus mode, and translation.[4]
