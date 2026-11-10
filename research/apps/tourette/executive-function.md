@@ -948,3 +948,23 @@
 - Query: tourette executive-function neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: A public resource page providing information, coping guidance, and referrals for parents and families affected by Tourette syndrome.
+
+### Booost: Tasks & Planning
+
+- URL: https://play.google.com/store/apps/details?id=com.booosteducation.booost.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: A neurodivergent-friendly planning app focused on executive-function support, including prioritizing, task initiation, deadlines, and follow-through.
+
+### New Jersey Center for Tourette Syndrome Sharing Repository
+
+- URL: https://link.springer.com/article/10.1186/1755-8794-1-58
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public research publication describing a repository of Tourette-related clinical data, DNA, and lymphoblastoid cell lines for qualified investigators studying Tourette syndrome and associated ADHD, OCD, and tic disorders.

@@ -858,3 +858,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Public school-focused resources and accommodation guidance for students with Tourette syndrome and tic disorders.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/cl/app/avaz-aac/id909574843?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Customizable AAC text-to-speech app for children and adults with autism and other speech-related disabilities, offering picture symbols and synthesized voices.

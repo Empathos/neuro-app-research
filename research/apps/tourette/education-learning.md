@@ -758,3 +758,63 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Free e-learning and training options covering Tourette syndrome awareness for education professionals, families, healthcare workers, employers, and neurodiversity support.[9]
+
+### TicCoach
+
+- URL: https://apps.apple.com/us/app/ticcoach/id6767370722
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: iPhone app providing educational, CBIT-informed self-management guidance, tic and trigger tracking, coping tools, a plain-language learning library, and resources for parents and schools.
+
+### Tourette Action Resource Library
+
+- URL: https://www.tourettes-action.org.uk/64-resources.html?p=64&rc=999&ta=no
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public resource collection with education advice for parents, teacher-focused learning materials, social stories, app-related guidance, and neurodiversity resources.
+
+### Tourette Simulator
+
+- URL: https://sidequestvr.com/app/45371/tourette-simulator
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Virtual-reality educational experience designed to communicate the lived experience of Tourette syndrome, challenge misconceptions, and promote empathy and awareness.
+
+### Jade  Learning Through Play
+
+- URL: https://apps.apple.com/us/app/jade-learning-through-play/id1473169233?platform=iphone
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: iOS learning app for children with autism, ADHD, dyslexia, dyscalculia, intellectual disabilities, Down syndrome, and other neurodevelopmental profiles.[3]
+
+### NeuroLocker
+
+- URL: https://apps.apple.com/in/app/neurolocker/id6740707608?l=kn
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Productivity and study-support app for neurodivergent students, offering AI lecture notes, transcripts, task creation, reminders, focus timers, white noise, and parent observation features.[4]
+
+### Luna  Simplify Revision
+
+- URL: https://apps.apple.com/ua/app/luna-simplify-revision/id6739215558
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Revision app designed for neurodivergent learners, providing customizable flashcards, color coding, adaptive review scheduling, and educational guides.[8]

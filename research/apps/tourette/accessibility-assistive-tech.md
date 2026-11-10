@@ -578,3 +578,23 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Visual planning and emotional-communication app for autistic, ADHD, and other neurodivergent users, featuring routines, mood tracking, notifications, communication tools, and educational resources.[7]
+
+### Apple Accessibility Features for Education
+
+- URL: https://support.apple.com/en-hk/121825
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Official Apple documentation on built-in accessibility features for neurodivergent students, including Assistive Access, simplified interfaces, visual alternatives, and cognitive-load reduction.[10]
+
+### Studying with Neurodivergence: Tools & Tech
+
+- URL: https://libguides.newcastle.edu.au/studying-with-neurodivergence/module-9-tools-tech
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: University guide covering accessibility tools such as screen readers, dictation, display adjustments, extended-time tools, and specialist assistive-technology support.[5]
