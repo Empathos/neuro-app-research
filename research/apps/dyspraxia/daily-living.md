@@ -648,3 +648,13 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Daily diary and advocacy-support app that helps families record observations and create insight reports about a neurodivergent childs support needs.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/hk/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: App using social narratives and picture schedules to help neurodivergent children practise daily-living skills and build independence with caregiver support.

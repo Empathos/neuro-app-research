@@ -1278,3 +1278,13 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Offline picture-based AAC app with sentence building, speech output, customizable boards, recorded voices, and support for apraxia, autism, aphasia, and other communication needs.
+
+### Soundboard AAC
+
+- URL: https://github.com/srjohnson1986/soundboard
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Cross-platform AAC communication board for Android and web, with iOS support in development; tiles can play recordings or use text-to-speech.

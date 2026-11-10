@@ -688,3 +688,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Repository guidance for designing and auditing digital products for neurodivergent and cognitively diverse users, explicitly including dyspraxia.
+
+### Studying with Neurodivergence: Tools & Tech
+
+- URL: https://libguides.newcastle.edu.au/studying-with-neurodivergence/module-9-tools-tech
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: University assistive-technology guide covering specialist supports such as screen readers, extended-time tools, and accommodations for neurodivergent study.[2]

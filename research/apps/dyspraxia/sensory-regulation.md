@@ -658,3 +658,13 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-10-14
 - Description: Wearable-integrated support tool that uses biometric data to identify possible overwhelm patterns and suggest personalized regulation strategies.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/cz/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: App for tracking energy, stimulation, recovery, sensory demands, masking, and overload patterns in neurodivergent adults.
