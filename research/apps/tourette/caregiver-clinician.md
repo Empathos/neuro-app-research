@@ -838,3 +838,53 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: Public resource hub for neurodivergent adults, caregivers, and clinicians, including autonomy-centered safety planning and a free safety-plan workbook.
+
+### Clinical Resources  Neurodivergent Insights
+
+- URL: https://neurodivergentinsights.com/clinical-resources/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Collection of evidence-informed downloadable workbooks, toolkits, and resources for neurodivergent-affirming clinicians and educators.
+
+### Insights of a Neurodivergent Clinician
+
+- URL: https://neurodivergentinsights.squarespace.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public resource hub associated with neurodivergent clinical practice and support.
+
+### Kyntic
+
+- URL: https://apps.apple.com/kr/app/kyntic/id1643229581?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: A Tourette and tic-disorder app that tracks, saves, and analyzes tic data through user input and sensor data; it was developed with neuroscientists, CBIT therapists, and people with Tourette syndrome.
+
+### TicHelper
+
+- URL: https://keltymentalhealth.ca/resources?field_resource_type_value%5Btool%5D=tool&items_per_page=All
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: An online, self-guided eight-week therapy program for families of children with chronic tic disorder or Tourette disorder, combining education, skill-based lessons, and daily practice.
+
+### Gente_strana_App
+
+- URL: https://github.com/F041
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: A public GitHub project described as a community and social-messaging app for neurodivergent people, including people with autism, ADHD, and Tourette; the repository profile indicates an app-development focus.

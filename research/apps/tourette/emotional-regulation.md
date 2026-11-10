@@ -428,3 +428,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-27
 - Description: iPad app that recommends guided activities across focus, restoration, and emotional regulation, with step-by-step tools and timers.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/ro/app/animi-emotional-intelligence/id6443638345?l=ro
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: An emotion-support app with emotion identification, an emotion encyclopedia, breathing exercises, journaling prompts, emotional communication tools, and regulation activities.

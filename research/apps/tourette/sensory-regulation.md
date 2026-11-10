@@ -639,3 +639,13 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 502
 - Found: 2026-10-31
 - Description: App Store listing for tracking tics, triggers, sleep, diet, screen time, stress, and generating professional reports; also includes calming exercises.[10]
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/cz/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: A neurodivergence-support app for recording energy and stimulation, identifying regulation zones, trying guided resets, and reflecting on sensory demands and recovery.

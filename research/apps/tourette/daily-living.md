@@ -498,3 +498,33 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Public GitHub releases page for a Tourette-analysis project, offering a repository lead for computational or research tooling.
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/us/app/hiki-autism-adhd-nd-dating/id1466184914
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Neurodivergent friendship and dating platform welcoming autistic, ADHD, Tourette, dyslexic, LGBTQIA+, and other neurodivergent users.
+
+### NeuroTranslator
+
+- URL: https://play.google.com/store/apps/details?id=com.oneskillai.neurotranslatorapp&hl=en
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Android communication-support app for neurodivergent and neurotypical users, with AI-assisted social interpretation, speech-to-text, text-to-speech, and Tourette profile options.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/hk/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: App using social narratives, picture schedules, visual timers, token boards, and first/then charts to support daily-living skills and independence for neurodivergent children.[7]
