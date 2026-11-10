@@ -498,3 +498,23 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Neurodivergent-friendly planner with visual routines, gentle reminders, AI-assisted planning, focus timer, and Apple Calendar and Reminders synchronization.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/tw/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Visual planning app with routines, gentle reminders, AI-assisted task planning, color-coded schedules, focus timers, and calendar synchronization.
+
+### Facio: Neurodivergent Co-Pilot
+
+- URL: https://apps.apple.com/gb/app/facio-neurodivergent-co-pilot/id6761283904
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Neurodivergent productivity and lifestyle app supporting task capture, planning, prioritization, task initiation, emotional regulation, and energy-aware decision-making.

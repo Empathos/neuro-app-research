@@ -948,3 +948,53 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Public repository for an AI assistant intended to break down goals, plan tasks, and manage schedules as a personal executive-function support tool.
+
+### OpenKoi
+
+- URL: https://github.com/openkoi-ai/openkoi/tree/main
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Open-source project describing an executive-function-as-a-service AI agent that deliberates and iterates before acting.
+
+### Dialogue AAC
+
+- URL: https://apps.apple.com/kr/app/dialogue-aac/id1500578568?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: AAC communication solution for adults with limited natural speech, including spelling, word prediction, stored phrases, and customizable pages.
+
+### AAC Kids Communication Board
+
+- URL: https://apps.apple.com/hr/app/aac-kids-communication-board/id6761141805
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Picture-based communication board with sentence building, customizable vocabulary, saved phrases, category layouts, and offline use for children needing communication support.
+
+### Another Voice AAC
+
+- URL: https://apps.apple.com/ua/app/another-voice-aac/id6764031415
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: AAC app for nonspeaking or minimally speaking people that lets users tap tiles to build words and sentences and speak them aloud.
+
+### falatheo: aac communication
+
+- URL: https://apps.apple.com/hr/app/falatheo-aac-communication/id6787077767
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Offline AAC app for autistic children and adults, people with apraxia or cerebral palsy, and others who have difficulty speaking; users combine symbols into spoken sentences.

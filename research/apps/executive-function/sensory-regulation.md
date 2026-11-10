@@ -736,3 +736,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: Interactive rhythm app designed for neurodivergent children and teens, targeting attention, coordination, sensory processing, sequencing, and self-regulation.
+
+### Technology, Apps, and Databases
+
+- URL: https://ausm.org/ausm-resources/technology-apps-and-databases/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Autism Society resource page cataloguing technology, apps, and databases, including tools that can support executive functioning and may also benefit autistic users.
+
+### Neurodiversity Factsheets
+
+- URL: https://www.uhsussex.nhs.uk/wp-content/uploads/2025/01/Neurodiversity-Factsheets.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: NHS factsheets discussing sensory profiles, regulation needs, focus tools, and mind-mapping software relevant to neurodivergent support research.

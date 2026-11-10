@@ -928,3 +928,43 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Design reference describing executive-function accessibility patterns such as smaller first steps, visible time, reduced motion, and non-shaming deadline treatment.[10]
+
+### ADHD Brain
+
+- URL: https://github.com/flippinhutt/adhd-brain
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Open-source task-management suite designed for ADHD neurotypes, combining hierarchical organization with AI-based executive-function support.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/cl/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: App Store listing for Tiimo with AI task planning, priority grouping, visual scheduling, focus timers, and accessibility support including VoiceOver, Voice Control, larger text, and dark interface.
+
+### Equal Edge
+
+- URL: https://apps.apple.com/ua/app/equal-edge/id6759566524
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Visual planning and executive-function assistant for neurodivergent college students, supporting task breakdown, prioritization, scheduling, and task initiation.
+
+### Goally Executive Function Tablet & App
+
+- URL: https://www.abledlikeme.com/resources/goally-executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Assistive technology combining dedicated hardware with a companion app, visual schedules, routines, emotion-regulation tools, video modeling, and structured support for children with executive-function needs.
