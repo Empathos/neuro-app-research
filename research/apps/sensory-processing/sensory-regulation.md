@@ -628,3 +628,43 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Public computational notebook repository lead related to modeling and visualizing sensory integration.
+
+### Neuro-Nav App
+
+- URL: https://github.com/Dharaneesh20/Neuro-Nav-App
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-03
+- Description: A sensory-friendly navigation app concept using real-time noise data, crowd-avoidance alerts, and safe-haven recommendations to reduce sensory overload.
+
+### Together As We Are  App Store
+
+- URL: https://apps.apple.com/us/app/together-as-we-are/id6759183214
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Support app for caregivers of neurodivergent children with calming plans, sensory strategies, visual supports, regulation tools, communication scripts, and routine guidance.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/us/app/shift-regulate-reset/id6759524862?l=ru&platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: A real-time regulation tool designed for ADHD, autistic, and neurodivergent users, with modes for overwhelm, shutdown, spiraling, anger, and task paralysis.
+
+### LoopBreak
+
+- URL: https://github.com/aayush1893/loopbreak
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Open-source grounding and regulation tool featuring 5-4-3-2-1 sensory grounding and paced breathing.

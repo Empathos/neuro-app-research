@@ -908,3 +908,53 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Public resource guide covering neurodivergent-support tools such as Tiimo, Goblin Tools, Forest, Freedom, Brain.fm, Todoist, and TickTick.
+
+### Gossik: ADHD apps for adults
+
+- URL: https://play.google.com/store/apps/details?id=com.gossik.GossikChar&hl=en
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Android app offering learning modules, executive-function strategies, habit tools, and mental-health support for adults with ADHD.
+
+### Shimmer Care: ADHD Coaching
+
+- URL: https://apps.apple.com/us/app/shimmer-care-adhd-coaching/id1570668247
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: iOS app combining bite-sized ADHD learning modules, coaching, accountability check-ins, task breakdown, and personalized routines.
+
+### Neurodivergent Memory Experiment Report
+
+- URL: https://github.com/jmeyer1980/neurodivergent-memory/blob/main/EXPERIMENT_REPORT.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public experiment documentation describing executive-function support across logical analysis, emotional processing, practical execution, monitoring, and creative synthesis.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/jp/app/tiimo-visual-daily-planner/id1480220328?l=en
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Visual planning and learning app for diverse cognitive profiles, including ADHD and autism, with executive-function supports, visual timelines, focus timers, task breakdowns, routines, and bite-sized neuroinclusion courses.
+
+### Shimmer Care: ADHD Coaching
+
+- URL: https://apps.apple.com/br/app/shimmer-care-adhd-coaching/id1570668247
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: ADHD coaching app for executive-function challenges, offering bite-sized learning modules, task breakdown, accountability, goal-setting, and practical ADHD skills.

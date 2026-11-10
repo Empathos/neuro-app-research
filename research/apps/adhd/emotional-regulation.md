@@ -1268,3 +1268,63 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Parent-focused neurodevelopmental tracking app for logging behavior, sleep, medication effects, side effects, and mood across the day.
+
+### ADHD: Chores & Emotions
+
+- URL: https://apps.apple.com/us/app/adhd-chores-emotions/id1626295849
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: A childrens game-based app combining chore support with anger-management and emotional-regulation features for children with ADHD.
+
+### Bonding Health: ADHD Care
+
+- URL: https://apps.apple.com/us/app/bonding-health-adhd-care/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Digital ADHD companion centered on emotional regulation, with short audio resets, voice journaling, mood and symptom tracking, and progress tools.[3]
+
+### ADHD Tracker
+
+- URL: https://apps.apple.com/jp/app/adhd-tracker/id6478482276?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: ADHD symptom and mental-health tracker covering emotional dysregulation, rejection sensitivity, sensory overwhelm, anxiety, irritability, overwhelm patterns, and CBT prompts.[6]
+
+### Mightier
+
+- URL: https://apps.apple.com/jp/app/mightier/id1333675573?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Clinician-developed emotional-regulation program for children ages 612, including children with ADHD; uses heart-rate feedback during games to practice calming skills.[7]
+
+### HeyZen: ADHD & Anxiety Relief
+
+- URL: https://apps.apple.com/us/app/heyzen-adhd-anxiety-relief/id6480342684?l=ko
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Mindfulness and meditation app marketed for ADHD and anxiety, with guided practices intended to support calm and stress management.[4]
+
+### ADHD and so much more!
+
+- URL: https://apps.apple.com/us/app/adhd-and-so-much-more/id6776284078
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Support app for parents and carers that includes guidance on communication, routines, emotional regulation, and behavior.[2]

@@ -898,3 +898,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-30
 - Description: Productivity workspace combining mind maps, task management, visual planning, voice notes, distraction reduction, dyslexia-oriented customization, and screen-reader support.
+
+### Neurodivergent Agent Skills
+
+- URL: https://github.com/jpoindexter/neurodivergent-agent-skills/blob/main/skills/nd-choicereduce/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Repository skill focused on reducing choice overload for people with executive-function differences by narrowing large sets of plausible options.
+
+### Neurodivergent Agent Skills: Task Boundaries
+
+- URL: https://github.com/jpoindexter/neurodivergent-agent-skills/blob/main/skills/nd-taskboundary/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Repository skill for marking explicit cognitive task boundaries, preserving task state, and reducing context loss when topics shift.
+
+### Neurodivergent Design References for Daily Focus Board
+
+- URL: https://github.com/github/awesome-copilot/blob/0fe6545b950671641b2b14b44eb56678fea6c6b4/skills/daily-focus-board/references/neurodivergent-design.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Design reference describing executive-function accessibility patterns such as smaller first steps, visible time, reduced motion, and non-shaming deadline treatment.[10]

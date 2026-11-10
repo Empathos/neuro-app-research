@@ -508,3 +508,53 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Accessible educational simulator for dyslexia, Irlen syndrome, low vision, and related reading effects. Includes safeguards such as preserved screen-reader text, reduced-motion support, keyboard operation, and instant reveal.
+
+### GitLab Dyslexia Topic
+
+- URL: https://gitlab.com/explore/projects/topics/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Public GitLab project index including Zacess, an open-source reader intended to convert documents and web pages into personalized, high-contrast, read-aloud notes.
+
+### Dyslexia Tool
+
+- URL: https://github.com/sheepit19-prog/dyslexia-tool
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Privacy-first Chrome extension offering dyslexia-friendly fonts, bionic reading, text-to-speech, reading ruler, spell checking, voice notes, and a PDF reader.
+
+### Lexibar
+
+- URL: https://apps.apple.com/us/app/lexibar/id6753020366
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Reading and writing assistant for dyslexia and other learning difficulties, with text-to-speech, word prediction, and illustrations.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/hk/app/dyslexiabuddy/id1565832172?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Read-aloud tool for dyslexia and ADHD that processes printed pages, PDFs, and on-screen text.
+
+### Read&Write
+
+- URL: https://apps.apple.com/il/app/read-write/id934749270
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Reading and writing support with text-to-speech, synchronized highlighting, word prediction, proofreading, dictionaries, and OpenDyslexic font support.

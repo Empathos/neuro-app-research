@@ -668,3 +668,23 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: App Store planner focused on ADHD routines, emotion tracking, and developing executive-function skills.
+
+### ADHD Daily Planner Skill
+
+- URL: https://github.com/zja2004/BGI-CLI/blob/main/data/skills/adhd-daily-planner/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: An open repository skill for time-blind-friendly planning, realistic time estimation, dopamine-aware task design, daily structure, and executive-function support for ADHD users.
+
+### Daily Focus Board Skill
+
+- URL: https://github.com/github/awesome-copilot/blob/d85f762d6e521abf5fe16703946e9b38adc42da7/skills/daily-focus-board/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Browser-based AI focus-board skill with task status tracking, brain-dump capture, focus mode, reduced motion, gentle deadline countdowns, and non-shaming task carryover.

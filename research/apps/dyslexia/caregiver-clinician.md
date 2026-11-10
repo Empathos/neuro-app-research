@@ -848,3 +848,73 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Official overview of dyslexia-support tools, including Speechify text-to-speech, Helperbird accessibility extensions, Lexy reading practice, and other reading and comprehension aids.[8]
+
+### Dyslexia Screening
+
+- URL: https://github.com/beyondmarks-ai/Dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Open-source Streamlit research application for guided dyslexia screening exercises covering vocabulary, memory, reading, listening, visual discrimination, questionnaires, and optional recorded-reading transcription. It explicitly states that it is an educational/research tool, not a diagnosis.
+
+### Poppins: Dyslexie & Lecture
+
+- URL: https://play.google.com/store/apps/details?id=com.poppins.therapy
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Google Play app for children with dyslexia, dysgraphia, or reading difficulties. It offers adaptive games, independent daily sessions, progress assessment, and support for families working with or awaiting a therapist.
+
+### Augmenta11y
+
+- URL: https://dl.acm.org/doi/10.1145/3284869.3284915
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Cross-platform reading and learning-companion application designed to support children with dyslexia and assist with identification of reading difficulties.
+
+### CLI Engage Dyslexia Screening
+
+- URL: https://public.cliengage.org/tools/assessment/dyslexia-screener/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Public screening and referral-checklist tools for kindergarten and first-grade students, available in English and Spanish.
+
+### Dyslexia Test: School & Pro App
+
+- URL: https://apps.apple.com/pl/app/dyslexia-test-school-pro/id1529452250
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Professional and school-oriented screening app with expanded administration and data-management features.
+
+### International Dyslexia Association Diagnostic Assessment Resources
+
+- URL: https://or.dyslexiaida.org/dyslexia-evaluation/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Directory of screening and assessment resources, including IDA-linked screeners, Lexercise, Dynaread, Nessy, Dyslexia Quest, and decoding apps.
+
+### DALI Dyslexia Assessment for Languages of India
+
+- URL: https://mgiep.unesco.org/article/unesco-mgiep-launches-the-first-online-screening-tool-for-dyslexia-in-regional-indian-languages
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Parent- and teacher-facing screening tool for children through standard 5 in regional Indian languages, with risk results and suggested next steps.

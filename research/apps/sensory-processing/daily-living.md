@@ -369,16 +369,6 @@
 - Found: 2026-07-01
 - Description: Community-sourced directory for connecting families with pediatric occupational therapists specializing in sensory processing and independence skills.
 
-### CDE: Sensory Processing Part 02  Self-Advocacy and Strategies
-
-- URL: https://www.cde.state.co.us/professionaldevelopment/detailondemand/pd_autism_sensory-processing-part02
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: sensory processing independence directory
-- Found: 2026-07-01
-- Description: Official educational resource on proactive strategies, self-advocacy, and sensory independence techniques for individuals with autism.
-
 ### Autism Toolkit  App Store
 
 - URL: https://apps.apple.com/us/iphone/story/id1867605202
@@ -398,16 +388,6 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-10-14
 - Description: Local-first sensory-overload support app with breathing and visual-focus tools, 5-4-3-2-1 grounding, and an instant dark-screen mode for reduced visual input.
-
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/sensory-processing-disorder
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: sensory-processing daily-living neurodivergent app research pass 502
-- Found: 2026-10-14
-- Description: Neuroaffirming guides and quizzes related to sensory processing and neurodivergence, with optional daily tracking, coaching, and printable resources.
 
 ### Thruday Visual Planner
 
@@ -628,3 +608,23 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Work-in-progress, keyboard-first mail, calendar, tasks, and contacts tool designed for people who find administrative tasks difficult, including neurodivergent users.
+
+### Rebuild Your Life: Autistic Burnout Support
+
+- URL: https://studio.com/apps/elena-1/rebuildyourlife
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Guided support app for late-diagnosed autistic adults focused on burnout recovery, sensory and nervous-system mapping, boundaries, reflective exercises, and practical routines.[8]
+
+### Open Spectrum
+
+- URL: https://github.com/Open-Spectrum-Org
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: A GitHub organization associated with a privacy-first, open-source tracker for parents of neurodivergent children.[6]

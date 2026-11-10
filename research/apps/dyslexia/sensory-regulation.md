@@ -398,3 +398,53 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Research publication describing neural text-generation methods intended to improve accessibility for readers with dyslexia.
+
+### AI-for-Accessibility Toolkit
+
+- URL: https://github.com/AI-for-Accessibility-Collective/AI-for-Accessibility-Toolkit
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Open-source accessibility toolkit with dyslexia presets such as wider spacing, larger text, focus mode, bionic reading, and reading rulers, plus sensory settings including reduced motion, muted sounds, and reduced brightness.
+
+### Accessify
+
+- URL: https://github.com/mlim70/Accessify
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Browser accessibility project featuring dyslexia-friendly fonts, spacing adjustments, word simplification, text-to-speech, translation, and color-blindness support.
+
+### Adaptive Reading Assistant for Dyslexia
+
+- URL: https://github.com/Avinashjewargi/Dyslexia_Project
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Experimental web application with color-coded letters, dyslexia-friendly fonts, adjustable spacing, personalized learning, and accessibility customization.
+
+### Dyslexia Reader
+
+- URL: https://github.com/Pukiene/dyslexia-reader
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Web app for children with dyslexia that supports read-aloud practice, error detection, corrective feedback, and adaptive reading activities using speech and machine-learning technologies.
+
+### ReadSmart AI
+
+- URL: https://github.com/aadarshsenapati/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Prototype reading assistant combining eye tracking, speech recognition, visual highlighting, text-to-speech, and reading analytics for dyslexic learners.

@@ -598,3 +598,23 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Research lead discussing technology and game-based tools for dyslexia, including iLearnRW, FROG, Dolphin, Lexercise, and DDDYSLEXIAGAME.
+
+### Dyslexia Reader by MDA
+
+- URL: https://apps.apple.com/us/developer/avaz-inc/id904985795
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Dyslexia-focused reading tool listed in the Avaz developer catalog, relevant to research combining literacy support with communication accessibility.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/sa/app/dyslexiabuddy/id1565832172
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Read-aloud tool for dyslexia and ADHD that supports reading printed pages, PDFs, and on-screen text.

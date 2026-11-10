@@ -468,3 +468,33 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: App Store listing for Tiimo, featuring visual schedules, AI planning, task prioritization, focus timers, and calendar and reminder synchronization.[4]
+
+### P3Fo  Plan, Program, Focus, Organize
+
+- URL: https://github.com/matbgn/p3fo
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Open-source project described as an executive-function prosthetic, intended to bridge the gap between knowing what matters and completing it.
+
+### Vanta Executive-Function Router
+
+- URL: https://github.com/jpoindexter/Vanta/blob/main/executive-function-skills/executive-function-router/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Routing skill that selects low-intrusion executive-function support based on capacity, memory load, activation, and motivation.
+
+### Tiimo  Daily To-Do List
+
+- URL: https://apps.apple.com/sv/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Neurodivergent-friendly planner with visual routines, gentle reminders, AI-assisted planning, focus timer, and Apple Calendar and Reminders synchronization.

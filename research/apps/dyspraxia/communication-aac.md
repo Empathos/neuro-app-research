@@ -1188,3 +1188,93 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 501
 - Found: 2026-11-01
 - Description: Customizable iPad AAC app for children and adults with conditions affecting natural speech, offering picture-based communication, phrase building, and a vocabulary of more than 3,000 fringe words.
+
+### Proloquo4Text AAC
+
+- URL: https://apps.apple.com/ca/app/proloquo4text-aac/id751646884
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Text-to-speech AAC app for people who cannot rely on their voice, including users with developmental disabilities such as autism and apraxia.
+
+### Fluent AAC: Communication App
+
+- URL: https://apps.apple.com/at/app/fluent-aac-communication-app/id1489807378
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Customizable AAC app for children and adults who have difficulty using natural speech, including people with autism, apraxia, stroke-related communication difficulties, and other conditions.
+
+### Spoken  Tap to Talk AAC
+
+- URL: https://play.google.com/store/apps/details?id=com.spoken.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: AAC app for teens and adults with limited or absent speech, including users with autism, apraxia, aphasia, selective mutism, cerebral palsy, Parkinsons disease, or stroke-related speech loss.
+
+### Make a Choice  AAC Buttons
+
+- URL: https://apps.apple.com/nl/app/make-a-choice-aac-buttons/id1295966224
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Choice-board AAC tool designed with speech-pathology input; supports two- or four-button boards, text or images, text-to-speech, and recorded voices, and specifically identifies dyspraxia as a use case.
+
+### CommBoards: AAC Speech & Talk
+
+- URL: https://apps.apple.com/se/app/commboards-aac-speech-talk/id1522541894
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Picture-based AAC app that turns selections into spoken sentences, supports customizable boards, recorded voices, offline use, and users with apraxia, autism, speech delay, aphasia, and related conditions.
+
+### Pictalk Buddy: Routine & AAC
+
+- URL: https://www.pictalk.org/en/article/pictalk-buddy-getting-started/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: AAC and visual-support app for neurodevelopmental conditions including dyspraxia; provides customizable pictogram grids, synthetic speech, schedules, and routines.
+
+### A Demonstration of a Tinkerable Augmentative and Alternative Communication System
+
+- URL: https://www.repository.cam.ac.uk/items/fdabd395-9747-4407-ba56-45b9d23bb0d6
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Research repository record for a configurable AAC system supporting keyboard-based communication, speech synthesis, AI word or phrase prediction, and interaction-data analysis.
+
+### Tiny Talk AAC
+
+- URL: https://apps.apple.com/dk/app/tiny-talk-aac/id6754395983
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: AAC app for children and adults with speech challenges, including apraxia, developmental language disorder, autism, cerebral palsy, and aphasia.
+
+### CommBoards: AAC Speech & Talk
+
+- URL: https://apps.apple.com/se/app/commboards-aac-speech-talk/id1522541894?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Offline picture-based AAC app with sentence building, speech output, customizable boards, recorded voices, and support for apraxia, autism, aphasia, and other communication needs.

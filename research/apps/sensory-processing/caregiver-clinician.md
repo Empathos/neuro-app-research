@@ -888,3 +888,83 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Research on a sensory map concept that lets neurodivergent people annotate local spaces and helps individuals and caregivers identify retreat areas and sensory-friendly environments.
+
+### Sensory-Notebook
+
+- URL: https://github.com/danielrosehill/Sensory-Notebook
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: A public GitHub notebook combining sourced research questions about sensory sensitivity with lived-experience observations, personal sensory profiling, and documented strategies.
+
+### SI Research Knowledge Bank
+
+- URL: https://www.sensoryintegrationeducation.com/courses/sie-research-knowledge-bank-live
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: A searchable collection of research on sensory integration and sensory processing, with plain-language summaries and links to original publications.
+
+### SensyCues
+
+- URL: https://www.sensorygift.com/autism-apps/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: An installable web app for selecting sensory supports, creating reusable plans, logging responses, and reviewing cautious patterns over time without prescribing a universal sensory diet.
+
+### Neurodiverse Sensory Experiences and Digital Intervention
+
+- URL: https://nottingham-repository.worktribe.com/output/57904534/exploring-and-understanding-neurodiverse-sensory-experiences-and-management-through-digital-intervention
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Repository record for research evaluating digital tools that increase sensory awareness and recommend sensory-management strategies.
+
+### AudioBuddy Noise-Sensitivity Support Research
+
+- URL: https://dl.acm.org/doi/abs/10.1145/3737821.3749450
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Research lead for an app concept combining physiological and environmental tracking, regulation strategies, journaling, visualizations, and care-network sharing.
+
+### Assistive Technology for Neurodivergent Individuals: Systematic Review
+
+- URL: https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwag038?redirectedFrom=PDF
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Review of assistive technologies including mobile apps, virtual reality, and smartwatches for self-regulation, independence, daily activities, and quality of life.
+
+### Exploring and Understanding Neurodiverse Sensory Experiences: Full Research Output
+
+- URL: https://nottingham-repository.worktribe.com/OutputFile/57904608
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Research document describing sensory-awareness needs and a prototype app intended to educate users and recommend personalized sensory-management strategies.
+
+### Sensory Processing and Behavioral Outcomes in Developmental Populations
+
+- URL: https://link.springer.com/subjects/sensory-processing-and-behavioral-outcomes-in-developmental-populations
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Research collection covering sensory processing and developmental populations, including measurement work on visual-processing experiences in neurodivergent adults.

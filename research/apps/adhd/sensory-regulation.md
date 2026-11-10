@@ -749,16 +749,6 @@
 - Found: 2026-10-13
 - Description: iOS listing for a neurodivergent-family support app with calming plans, sensory strategies, visual supports, regulation tools, and communication resources.
 
-### Neurodiverge Sensory and Regulation Guides
-
-- URL: https://neurodiverge.app/guides
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: sensory-regulation
-- Query: adhd sensory-regulation neurodivergent app research pass 502
-- Found: 2026-10-13
-- Description: Public guide collection covering sensory processing, sensory overload, sensory diets, and regulation approaches for neurodivergent adults and families.
-
 ### SensyCues
 
 - URL: https://www.sensorygift.com/apps/sensycues/
@@ -948,3 +938,23 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Open-source gamified task manager for neurodivergent users, with focus timing, mood-based interface changes, and sensory feedback.
+
+### ADHD Focus: Calm & Reset
+
+- URL: https://apps.apple.com/us/app/adhd-focus-calm-reset/id6757002744
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: iPhone app offering calming sounds, breathing exercises, guided journeys, and focus-oriented audio for overwhelm and refocusing.
+
+### Awesome ADHD
+
+- URL: https://github.com/yutakobayashidev/awesome-adhd/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public GitHub resource list covering ADHD-support tools and materials, including references related to emotion regulation, attention, initiation, and executive function.

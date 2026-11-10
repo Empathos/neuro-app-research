@@ -329,16 +329,6 @@
 - Found: 2026-10-13
 - Description: Published randomized-trial lead examining VR-based therapy for children with dyspraxia, including coordination, balance, fine-motor skills, and quality-of-life outcomes.[2]
 
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/about
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: caregiver-clinician
-- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Free self-screening tools and neuroaffirming guides for adults exploring neurodivergence and parents raising neurodivergent children; useful as a caregiver-facing research lead.[7]
-
 ### NeuroBloom
 
 - URL: https://neurobloom.app/
@@ -629,16 +619,6 @@
 - Found: 2026-10-23
 - Description: Smartphone-based intervention for children with dyspraxia/DCD, developed with families, support organizations, pediatricians, therapists, and healthcare professionals; includes fine-motor, balance, and coordination activities.
 
-### Neurodiverge.app  Dyspraxia Guide and Tracking Tools
-
-- URL: https://neurodiverge.app/dyspraxia
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: caregiver-clinician
-- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
-- Found: 2026-10-23
-- Description: Neuroaffirming dyspraxia information and support resources, including daily tracking, coaching, and printable materials for adults and parents.
-
 ### OpenScouter Neurodivergence Research
 
 - URL: https://openscouter.com/research
@@ -808,3 +788,33 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Neurodivergent and developmentally diverse family-health platform with caregiver modes, monitoring, analytics, clinical-team coordination, telehealth, and potential EHR integrations.
+
+### SYNC
+
+- URL: https://github.com/alyzaabdullah/SYNC
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Research prototype for motor-planning practice in children with coordination difficulties; includes separate child and therapist modes and raw movement logging for clinician or researcher analysis.
+
+### NeuroHub Research
+
+- URL: https://neurohubcommunity.org/tour/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public neurodivergence community platform describing research conducted with and by neurodivergent people; relevant as a participatory research and recruitment lead.[6]
+
+### Open Spectrum Org
+
+- URL: https://github.com/Open-Spectrum-Org
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Public GitHub organization featuring openspectrum-app, described as a privacy-first, open-source tracker for parents of neurodivergent children.

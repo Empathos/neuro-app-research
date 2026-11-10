@@ -1089,3 +1089,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Public research paper on AI-powered AAC interfaces and timely humorous comments for people who use speech-generating devices.
+
+### ComuniCAA
+
+- URL: https://github.com/topics/augmentative-and-alternative-communication
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Free, open-source AAC web app using pictograms and symbols, with text-to-speech, a visual dictionary, educational games, and accessibility options.
+
+### Neurodiversiteit.nl Research
+
+- URL: https://neurodiversiteit.nl/research/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Research initiative exploring inclusive communication, including co-creation of a universal sign language for neurodivergent people and individuals with communicative differences.

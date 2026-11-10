@@ -419,16 +419,6 @@
 - Found: 2026-10-13
 - Description: Chrome extension concept for ADHD support that links tasks to websites and visualizes reading progress to reduce cognitive load and improve sustained attention.
 
-### Neurodiverge AI Coach
-
-- URL: https://neurodiverge.app/ai-coach
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: accessibility-assistive-tech
-- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: ND-affirming AI coaching resource covering ADHD, AuDHD, sensory overload, executive-function challenges, rejection-sensitive dysphoria, burnout, and workplace support.
-
 ### GitHub ADHD-Aid Topics
 
 - URL: https://github.com/topics/adhd-aid
@@ -578,16 +568,6 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-10-19
 - Description: Open-access research review of ADHD apps found through Apple App Store and Google Play searches, providing a source for app discovery and evaluation.
-
-### Studying with Neurodivergence: Tools and Tech
-
-- URL: https://libguides.newcastle.edu.au/studying-with-neurodivergence/module-7-tools-tech
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: accessibility-assistive-tech
-- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
-- Found: 2026-10-20
-- Description: University guide covering accessibility settings and assistive tools such as focus timers, website blockers, text-to-speech, visual support, and AAC.
 
 ### EFECT
 
@@ -948,3 +928,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Notion-based planner using CBT- and DBT-informed organization tools, color-coded sections, and flexible planning workflows for ADHD users.
+
+### ADHD-Assistant
+
+- URL: https://github.com/SeallLab/ADHD-Assistant
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Open-source conversational productivity assistant for ADHD that creates calendar events, notes, and reminders through natural-language interaction.
+
+### ADHD Pal
+
+- URL: https://apps.apple.com/jp/app/adhd-pal/id6544805108?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: ADHD-focused productivity and focus app listed on the Apple App Store. The listing does not currently specify supported accessibility features.
+
+### Clarify: ADHD Organizer, Timer
+
+- URL: https://apps.apple.com/us/app/clarify-adhd-organizer-timer/id1670958524
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: ADHD organizer and timer app available through the Apple App Store, intended to support task organization and time management.

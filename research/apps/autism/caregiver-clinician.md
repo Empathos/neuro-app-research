@@ -958,3 +958,13 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Public caregiver-support resource hub with practical information and access to the National Caregiver Help Desk app for skills, validation, and task support.
+
+### AutistApp
+
+- URL: https://apps.apple.com/pe/app/autistapp/id6504295148
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Community-created autism support app with visual aids, communication cards, self-regulation tools, emotion tracking, routines, appointment management, and autism information.

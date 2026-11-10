@@ -228,3 +228,23 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-10-30
 - Description: Repository-hosted research paper examining teacherstudent relationships as a support factor for learners with dyslexia, including implications for educational and emotional support.
+
+### AI-Adaptive-Learning-Dyslexia
+
+- URL: https://github.com/Raagnya/AI-Adaptive-Learning-Dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public GitHub repository for an AI-based adaptive-learning system aimed at dyslexia support, using GPT-2, Hugging Face, Flask, and OCR.
+
+### DISLEXIA_AI
+
+- URL: https://github.com/antiquark007/DISLEXIA_AI
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: Public repository describing an educational support ecosystem for dyslexia and learning disabilities, including eye-tracking, audio analysis, adaptive quizzes, and chatbot assistance.

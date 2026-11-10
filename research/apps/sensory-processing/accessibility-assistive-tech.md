@@ -329,16 +329,6 @@
 - Found: 2026-10-16
 - Description: Windows text-to-speech accessibility app that reads webpages, documents, PDFs, emails, screen text, and text within images aloud.
 
-### Neurodiverge App  Sensory Diet
-
-- URL: https://neurodiverge.app/sensory-diet
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: accessibility-assistive-tech
-- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-17
-- Description: Public guide and planning tool for structured sensory input, environmental accommodations, noise reduction, visual adjustments, recovery time, and sensory regulation.
-
 ### IBCCES Sensory Guides and Accessibility App
 
 - URL: https://ibcces.org/sensory-guides/
@@ -668,3 +658,33 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Public assistive-technology resource describing tools for reducing or increasing sensory input, including noise reduction, screen readers, text-to-speech, visual barriers, and alternative input materials.
+
+### GitHub Low-Sensory Topic
+
+- URL: https://github.com/topics/low-sensory
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-08
+- Description: Repository index for low-sensory and accessibility-first projects, including tools for neurodivergent children and sensory-conscious interfaces.
+
+### Cognitive Accessibility Kit: Neurodiversity Design
+
+- URL: https://github.com/bairamilona/cognitive-accessibility-kit/blob/main/neurodiversity-design/SKILL.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Open repository guidance for designing and auditing digital products for neurodivergent and cognitively diverse users, including sensory-friendly design, cognitive load, plain language, and adaptive settings.
+
+### SpectrumScan App
+
+- URL: https://ahs.uic.edu/inside-ahs/events/introducing-the-spectrumscan-app-for-the-autistic-community/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Free app introduced for autistic users with sensory sensitivities; intended to make environments more predictable and support planning around lighting, noise, crowds, and announcements.

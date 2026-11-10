@@ -938,3 +938,73 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Open-source, framework-agnostic toolkit for neurodivergent-friendly interfaces, including adaptable settings for sensory thresholds, attention patterns, reading styles, and cognitive load.
+
+### AbilityMic - AAC Speech Communication Board
+
+- URL: https://apps.microsoft.com/detail/9npj0vvpv9bc?hl=en-US&gl=LS
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-08
+- Description: AAC communication board for children and adults with communication difficulties, featuring symbols, text-to-speech, and offline pictograms.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/no/app/gestalt-aac/id6760491589
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Phrase-based AAC app designed for gestalt language processors, with preloaded communication phrases and integrated calming tools.
+
+### MyVisualRoutine
+
+- URL: https://play.google.com/store/apps/details?id=com.myvisualroutine.app&hl=en-US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Visual schedule and AAC app with picture routines, choice boards, First/Then boards, and communication supports for autistic and other neurodivergent users.
+
+### AAC Speak Helper Tool Documentation
+
+- URL: https://docs.acecentre.org.uk/products/aac-speak-helper-tool/developer-notes
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-09
+- Description: Public developer documentation for an AAC Speak Helper Tool from Ace Centre, useful as a technical and implementation lead.
+
+### TouchChat HD - AAC
+
+- URL: https://apps.apple.com/de/app/touchchat-hd-aac/id398860728
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Full-featured AAC app for people with autism, apraxia, Down syndrome, ALS, stroke, and other conditions affecting natural speech; supports customizable vocabulary pages and synthesized or recorded speech.
+
+### CommBoards: AAC Speech & Talk
+
+- URL: https://apps.apple.com/se/app/commboards-aac-speech-talk/id1522541894
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Picture-based AAC communication board that builds spoken sentences, supports custom photos and recorded voices, works offline, and offers adjustable layouts and multiple languages.
+
+### TypingTalk AAC
+
+- URL: https://apps.apple.com/us/app/typingtalk-aac/id6740844325
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-09
+- Description: Text-to-speech AAC app with offline and online voices, customizable layouts, saved quick phrases, and support for autism, verbal apraxia, aphasia, anxiety, and selective mutism.
