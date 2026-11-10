@@ -778,3 +778,53 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Neurodiversity care program offering caregiver training, skills coaching, care advocacy, therapy, evaluations, and digital resources for children and adults.
+
+### Research Sources & Evidence Base
+
+- URL: https://github.com/lizthedeveloper/multiverse_student_handbook/blob/main/part7/research-sources.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public repository page compiling neurodivergent-led research, participatory frameworks, and evidence-based practices developed by and for the neurodivergent community.
+
+### Experimental Approaches and Theoretical Perspectives in Supporting Individuals with Neurodivergence and Their Caregivers
+
+- URL: https://www.link.springer.com/collections/ebbghbefac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public Springer research collection focused on co-produced caregiver interventions, digital and audiovisual tools evaluated in real-world settings, and participatory research involving neurodivergent people and caregivers.
+
+### My JAKE  Janssen Autism Knowledge Engine
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6454343/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Web and mobile mHealth system enabling caregivers to log autism symptoms, treatments, activities, medical information, and progress for clinician and research use.[3]
+
+### MyHeifer
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6276393/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Autism intervention application that records childrens emotional and behavioral interactions in a virtual environment and reports patterns to caregivers and healthcare providers.[10]
+
+### Thea
+
+- URL: https://dl.acm.org/doi/10.1007/s11042-021-11520-9
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Multimedia collaboration application designed to strengthen caregiver-therapist communication through shared guidance, videos, strategies, progress information, and voice-assisted documentation.[6]

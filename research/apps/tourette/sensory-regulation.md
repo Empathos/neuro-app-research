@@ -509,16 +509,6 @@
 - Found: 2026-07-01
 - Description: Official Instagram post offering a free download of the Emotional Overload Guide, tailored for managing non-tic behaviors and self-regulation in Tourette Syndrome.
 
-### TicClinic Resources - Tourette Syndrome Toolkit
-
-- URL: https://www.ticclinic.org/new-page
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: sensory-regulation
-- Query: Tourette overload directory
-- Found: 2026-07-01
-- Description: TicClinic resource section providing tools for understanding and managing Tourette Syndrome, tic disorders, and associated emotional challenges.
-
 ### SensoryMe
 
 - URL: https://www.sensoryme.app/

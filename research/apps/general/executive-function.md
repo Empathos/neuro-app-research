@@ -868,3 +868,73 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-03
 - Description: Visual planning app with routines, gentle reminders, AI-assisted task planning, prioritization, focus timers, and calendar integration for executive-function support.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/tw/app/inflow-manage-your-adhd/id1528183849?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Science-based ADHD support app for focus, procrastination, follow-through, routines, time management, emotional regulation, and related executive-function challenges.
+
+### Yoodoo: Day Planner for ADHD
+
+- URL: https://apps.apple.com/ga/app/yoodoo-day-planner-for-adhd/id1644320094
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: ADHD day planner focused on executive function and focus, available on iPhone, iPad, web, and computer.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/fi/app/brimming-adhd/id6469721652
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Digital wellness app for ADHD and neurodivergent executive dysfunction, offering task initiation support, overwhelm reduction, personalized guidance, and accountability.
+
+### Addison: What's Your Next Move
+
+- URL: https://apps.apple.com/cn/app/addison-whats-your-next-move/id6751917243
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: ADHD task manager, focus timer, and executive-function app designed for task initiation, time blindness, procrastination, overwhelm, and follow-through.
+
+### ADHD Organiser & Todo: Unstuck
+
+- URL: https://apps.apple.com/hr/app/adhd-organiser-todo-unstuck/id6779624768
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Executive-dysfunction helper that selects one task from an avoidance list and provides a short, low-decision countdown to support task initiation.
+
+### ADHD Brain
+
+- URL: https://github.com/flippinhutt/adhd-brain
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Open-source task-management suite designed for ADHD neurotypes, combining hierarchical organization with AI-powered executive-function support.
+
+### ADHD Brain README
+
+- URL: https://github.com/flippinhutt/adhd-brain/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Repository documentation describing the ADHD-focused task-management system and its AI-assisted executive-function features.

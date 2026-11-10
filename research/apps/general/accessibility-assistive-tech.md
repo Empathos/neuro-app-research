@@ -858,3 +858,33 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Official collection of assistive iOS apps for different abilities, including ADHD focus support, silent body-doubling, sensory-load journaling, rehearsal tools, and education-plan assistance.
+
+### Accessibility for All  App Store
+
+- URL: https://apps.apple.com/us/iphone/story/id1895869577?l=pt-BR
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Apple App Store collection featuring neurodivergence-support tools including Tiimo for breaking tasks into subtasks, RoutineFlow for step-by-step routines, and Proloquo for augmentative and alternative communication.
+
+### NeuroLift Technologies GitHub
+
+- URL: https://github.com/NeuroLift-Technologies
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public organization focused on cognitive-enhancement software and adaptive apps intended to accommodate different ways of thinking and learning.
+
+### Everway workplace accessibility technology
+
+- URL: https://www.everway.com/workplace/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Assistive-technology product page covering text-to-speech, dictation, screen masking, text prediction, spelling support, and planning tools for people with dyslexia, ADHD, autism, dyspraxia, and executive-function difficulties.
