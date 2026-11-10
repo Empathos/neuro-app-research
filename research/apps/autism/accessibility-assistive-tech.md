@@ -1058,3 +1058,53 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Listed in Apple's accessibility-tools collection as an app for finding and rating autism accessibility resources.[1]
+
+### The Autism Helper
+
+- URL: https://apps.apple.com/id/app/the-autism-helper/id1557724340
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: App providing autism-related resources and community support for individuals, families, and educators.
+
+### Autism Awareness  App Store Collection
+
+- URL: https://apps.apple.com/ca/iphone/story/id1279707387
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Apple-curated collection including AAC, text-to-speech, accessible keyboard, visual-story, productivity, and sensory-support apps.
+
+### Our Apps  KindAbilities
+
+- URL: https://kindabilities.com/apps/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Developer page for accessibility-focused apps including AAC, private self-regulation journaling, task support, social rehearsal, and VoiceOver-first tools.
+
+### Accessibility.com Speech Vendor Directory
+
+- URL: https://www.accessibility.com/vendors?category=speech
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Directory of speech and communication assistive-technology vendors, including Tobii Dynavox and APP2Speak.
+
+### TASUC Communication
+
+- URL: https://apps.apple.com/us/app/tasuc-communication/id511169640
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Picture-card communication support tool for verbally disabled children and people with developmental disabilities such as autism.

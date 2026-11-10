@@ -968,3 +968,53 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: Community-created autism support app with visual aids, communication cards, self-regulation tools, emotion tracking, routines, appointment management, and autism information.
+
+### Evin Assist AAC
+
+- URL: https://apps.apple.com/es/app/evin-assist-aac/id6446901962
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Picture-based communication app for people with communication challenges, designed for autistic users and usable by parents, caregivers, teachers, and speech therapists.
+
+### AAC Speech Boards  AAConnect
+
+- URL: https://apps.apple.com/ua/app/aac-speech-boards-aaconnect/id6760730632
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: AAC speech-board app with offline-friendly text-to-speech, ready-made phrases, and custom cards for communication at home, school, therapy, and in the community.
+
+### CardSpeak AI  AAC & PECS
+
+- URL: https://apps.apple.com/jp/app/cardspeak-ai-aac-pecs/id6747005424
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: AAC and PECS-style app for autism, speech delay, and nonspeaking users, allowing picture-card sentence building with text-to-speech.
+
+### Smartie Care
+
+- URL: https://apps.apple.com/us/app/smartie-care/id6737118775
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Caregiver-focused autism support app offering tracking tools, communication aids, and caregiving resources.
+
+### Families' and clinicians' experiences with telehealth assessments for autism
+
+- URL: https://uel-repository.worktribe.com/output/446559/families-and-clinicians-experiences-with-telehealth-assessments-for-autism-a-mixed-methods-systematic-review
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Repository record for a mixed-methods systematic review examining families' and clinicians' experiences with telehealth autism assessments.[10]

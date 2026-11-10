@@ -1328,3 +1328,53 @@
 - Query: autism executive-function neurodivergent app research pass 501
 - Found: 2026-11-02
 - Description: Parent-support app with voice-note summaries, autism-focused assistance, routine suggestions, visual cards, token boards, and tracking for therapy or IEP discussions.[6]
+
+### Booost: Tasks & Planning
+
+- URL: https://play.google.com/store/apps/details?id=com.booosteducation.booost.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Android planner designed to help neurodivergent users plan, prioritize, start tasks, and follow through, including support for autism, ADHD, dyslexia, and dyspraxia.
+
+### AUDHD Executive Function Skill for Claude Code
+
+- URL: https://github.com/assafkip/audhd-executive-function/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public GitHub repository for a Claude Code skill that provides external executive-function support such as task initiation, working-memory assistance, follow-up tracking, and writing help.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/tw/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Official App Store listing for Tiimo, featuring visual schedules, AI-assisted planning, task prioritization, focus timers, and calendar/reminder synchronization.
+
+### NEURORGANIZED Task Management Platform
+
+- URL: https://www.desmoinesregister.com/press-release/story/80853/neurorganized-launches-free-task-management-platform-designed-to-reduce-overwhelm-and-support-executive-functioning
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Free task-management platform and digital planning resource for adults navigating ADHD, AuDHD, executive dysfunction, task paralysis, and home or work organization.
+
+### Magic ToDo (Goblin Tools)
+
+- URL: https://warwick.ac.uk/services/library/using/productivity-tools/magic-todo-gobin-tools/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Documentation and access information for Goblin Tools' task breakdown, priority sorting, time estimation, and checklist features.
