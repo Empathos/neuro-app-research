@@ -778,3 +778,43 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: An iOS app with sensory-play, fidget, calming, emotional, focus, and communication activities intended for autistic children and other neurodivergent learners.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/ua/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Energy and stimulation tracker for neurodivergent adults, using zones such as overloaded, understimulated, wired, and flat to identify regulation patterns.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/ua/app/unmasked-adult-autism-adhd/id6764218809
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Self-discovery app with an eight-category sensory profile, energy and masking check-ins, social scripts, and regulation strategies.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/it/app/autism-adhd-games/id6757896431
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Child-focused app offering low-stimulation sensory play, fidgets, predictable activities, and games intended to support calming and self-regulation.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/cz/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: App for neurodivergent adults to track stimulation, energy, recovery, and states ranging from understimulated to overloaded.

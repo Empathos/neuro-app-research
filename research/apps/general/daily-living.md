@@ -768,3 +768,13 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Visual planner supporting routines, time management, transitions, reminders, checklists, and executive-function challenges across neurodiversity.
+
+### Roost Neurodivergent-Friendly Task Features
+
+- URL: https://github.com/crazyguy106/roost/blob/main/docs/neurodivergent-features.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Repository documentation describing ADHD-friendly task-management features designed to reduce overwhelm, support variable-energy days, and build sustainable productivity habits.

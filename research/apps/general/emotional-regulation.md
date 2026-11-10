@@ -668,3 +668,23 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Open-source self-regulation and biometric health tool that presents body and subjective-wellbeing signals through a low-cognitive-load visual Energy Orb, with stated relevance to neurodivergent users.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/ro/app/animi-emotional-intelligence/id6443638345
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Emotion-awareness and regulation app with alexithymia screening, emotion identification, an emotion encyclopedia, breathing techniques, journaling prompts, and pattern tracking.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/ro/app/animi-emotional-intelligence/id6443638345?l=ro
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Emotion-coaching app focused on alexithymia, emotional awareness, emotion vocabulary, pattern recognition, and emotion regulation, with specific relevance to autistic and ADHD users.
