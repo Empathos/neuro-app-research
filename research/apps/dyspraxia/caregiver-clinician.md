@@ -818,3 +818,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Public GitHub organization featuring openspectrum-app, described as a privacy-first, open-source tracker for parents of neurodivergent children.
+
+### Mobile Applications for Orofacial Dyspraxia Rehabilitation
+
+- URL: https://search.pedro.org.au/search-results/record-detail/80169
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Research record reviewing mobile applications for orofacial dyspraxia rehabilitation and evaluating them with expert input and the Mobile Application Rating Scale.

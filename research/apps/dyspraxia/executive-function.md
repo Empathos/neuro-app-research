@@ -798,3 +798,53 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: App Store listing for Tiimo, offering visual routines, an AI planner, focus timer, task prioritization, and calendar synchronization.
+
+### Booost: Tasks & Planning
+
+- URL: https://play.google.com/store/apps/details?id=com.booosteducation.booost.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Planner designed to support executive-function skills such as planning, prioritising, task initiation, and follow-through; explicitly includes neurodivergent users with dyspraxia and other specific learning difficulties.
+
+### Facio: Neurodivergent Co-Pilot
+
+- URL: https://apps.apple.com/gb/app/facio-neurodivergent-co-pilot/id6761283904
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Neurodivergent productivity app for capturing thoughts by voice and supporting planning, prioritisation, organisation, task initiation, and emotional regulation.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/tw/app/tiimo-daily-to-do-list/id1480220328?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: App Store version of Tiimo offering visual schedules, AI-assisted prioritisation, focus timers, reminders, and calendar integration for executive-function support.
+
+### Dyspraxia Toolkit 2026
+
+- URL: https://eshare.edgehill.ac.uk/18559/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public online toolkit providing information about dyspraxia and available support; potentially useful as a research and service-navigation lead.
+
+### NEURORGANIZED
+
+- URL: https://www.gainesville.com/press-release/story/124214/neurorganized-launches-free-task-management-platform-designed-to-reduce-overwhelm-and-support-executive-functioning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Free task-management platform and digital planning resource designed to reduce overwhelm and support executive functioning for neurodivergent adults.

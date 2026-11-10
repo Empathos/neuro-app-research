@@ -528,3 +528,23 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: Emotion-focused app for identifying feelings, understanding causes, practicing management strategies, and recognizing personal emotional patterns.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/ro/app/animi-emotional-intelligence/id6443638345?l=ro
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Emotion-awareness app focused on identifying feelings, understanding causes, recognizing patterns, and practicing regulation through breathing, journaling, and emotional vocabulary.
+
+### HumOS
+
+- URL: https://github.com/SystemAdmin01/HumOS
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Open-source cognitive-management framework for ADHD and neurodivergence that models cognitive states and provides a local browser-based management cockpit.
