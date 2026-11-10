@@ -958,3 +958,23 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Public GitHub resource list covering ADHD-support tools and materials, including references related to emotion regulation, attention, initiation, and executive function.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/br/app/stim-adhd-sensory-calm/id6758910859
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Sensory interaction app for ADHD and restless minds combining visual trails, touch interaction, haptic feedback, and responsive ambient sound.
+
+### HumOS
+
+- URL: https://github.com/SystemAdmin01/HumOS
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: GitHub project describing an engineering-oriented cognitive-management framework for ADHD, neurodivergence, and overthinking, with supporting documentation.
