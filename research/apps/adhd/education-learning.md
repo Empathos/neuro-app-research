@@ -1388,3 +1388,73 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Neurodiversity-focused learning app offering shorter segments, gamification, voice-first content, visual pathways, and structured navigation.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/nl/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Early-reading app for neurodivergent learners using one-task-at-a-time lessons focused on phonics, pattern recognition, and sight words.
+
+### FocusGenie: ADHD Manager
+
+- URL: https://apps.apple.com/ca/app/focusgenie-adhd-manager/id1623658924
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: ADHD education and management app with bite-sized lessons, task planning, personalized insights, body doubling, and productivity tools.
+
+### CADDAC ADHD App / Online Learning Resources
+
+- URL: https://caddac.ca/resource-category/adhd-app-online-learning/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public resource collection linking ADHD apps and online learning tools, including symptom tracking, neurodivergent adult education, and student-created guidance for education and support systems.
+
+### Incloodle-Classroom
+
+- URL: https://dl.acm.org/doi/full/10.1145/3674506
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Research-evaluated tablet application supporting inclusive collaborative play and social-emotional learning for neurodivergent and neurotypical kindergarten children.
+
+### Re:inclusion
+
+- URL: https://www.ntu.ac.uk/research/research-reimagined/reinclusion
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: University research program developing inclusive educational technologies, including adaptive learning platforms, serious games, and tools for neurodivergent participation in higher education.
+
+### Open ADHD
+
+- URL: https://open-adhd.org/about/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Open project offering free tools for everyday tasks, ADHD learning, and appointment preparation; its public repository includes questionnaire logic, browser-storage code, and tests.
+
+### Exploring Inclusive AI in Education
+
+- URL: https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1855908/full
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Research on neurodivergent and neurotypical students' perceptions of Honest Mirror, an AI application providing personalized feedback for presentation skills.

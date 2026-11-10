@@ -1078,3 +1078,13 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Time-management app using a 24-hour analog watch face to make schedules more visually accessible for ADHD, dyscalculia, time blindness, and other neurodivergent needs.
+
+### Coach
+
+- URL: https://github.com/wowsuchbot/coach
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: AI-powered task-management system for ADHD and executive dysfunction support, offering daily check-ins, priority planning, progress review, and encouragement.[10]

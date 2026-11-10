@@ -788,3 +788,33 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-08
 - Description: Neurodivergent-led collection of websites and apps, including Phoenix, a private neuro-affirming AI companion for autistic, ADHD, and AuDHD people with check-ins and overwhelm-support tools.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/fr/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: App for caregivers of autistic, ADHD, and neurodivergent children, neurodivergent adults, allied health professionals, and educators; supports appointment preparation, medication tracking, and care coordination.
+
+### The CoolCraig App: Promoting Health by Improving Self-Regulation in Adolescents with ADHD
+
+- URL: https://digital.ahrq.gov/care-setting/patient-home?page=3
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: A research-developed connected system combining a smartwatch, mobile app, and web portal to deliver and reinforce self-regulation treatment for adolescents with ADHD.
+
+### ADHD Tracker - CareClinic
+
+- URL: https://play.google.com/store/apps/details?id=com.careclinicsoftware.careclinic&listing=adhd-tracker-app&hl=kn
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Health tracking app with customizable symptom, mood, sleep, nutrition, and activity trackers; supports shareable reports for clinicians and collaboration with caregivers.

@@ -1138,3 +1138,53 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Open planning skill for ADHD brains featuring time-blind-friendly planning, realistic estimation, dopamine-aware task design, daily structure, and executive-function support.
+
+### Hypermonkey: ADHD Productivity
+
+- URL: https://apps.apple.com/qa/app/hypermonkey-adhd-productivity/id6736893516
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: ADHD-focused task and planning app with task breakdown, prioritization assistance, suggestions, a top-three-task Zen Mode, and a flow timer.
+
+### ADHD Organiser & Todo: Unstuck
+
+- URL: https://apps.apple.com/hr/app/adhd-organiser-todo-unstuck/id6779624768
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Executive-dysfunction helper that reduces decision fatigue by selecting one task and providing a short, focused countdown to begin.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/gm/app/brimming-adhd/id6469721652
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Digital wellness app for ADHD, executive dysfunction, and neurodivergent users addressing task initiation, overwhelm, shutdown, time blindness, avoidance, burnout, and decision fatigue.
+
+### Kynd: ADHD Focus
+
+- URL: https://apps.apple.com/uz/app/kynd-adhd-focus/id6773099034
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: ADHD focus app organized around identifying the smallest physical next step, with simple Start, Done, and Not today actions.
+
+### ADHD Brain
+
+- URL: https://github.com/flippinhutt/adhd-brain
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Open-source task-management suite designed for ADHD neurotypes, combining hierarchical organization with AI-powered executive-function support and energy-aware task selection.
