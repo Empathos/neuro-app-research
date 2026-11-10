@@ -514,3 +514,63 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-01
 - Description: Research describing the Behavioral Observation of Classroom Executive Functioning tool for measuring observable student executive-function behaviors and teacher support strategies.[1]
+
+### TherapistAssist ADHD Tools
+
+- URL: https://therapistassist.app/for/adhd-therapists
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Clinician-led, mobile tools for between-session executive-function scaffolding, including task initiation, transitions, and time-blindness support.
+
+### Tiimo
+
+- URL: https://aisotools.com/tool/tiimo
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Visual daily planner for ADHD and other neurodivergent users, with visual timers, routines, reminders, and a companion mode for caregivers or support workers.
+
+### NeuroType Executive Function Reflection Tool
+
+- URL: https://neurotype.app/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Private, browser-based self-reflection tool covering task initiation, planning, sequencing, working memory, time awareness, switching, emotional factors, and follow-through; not a diagnostic tool.
+
+### Inflow ADHD
+
+- URL: https://healthify.nz/apps/i/inflow-adhd
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: ADHD-support app with symptom and mood tracking, coping strategies, goal setting, routine-building, educational resources, and access to online clinicians.
+
+### Autism Behavior and Executive Functioning Resources
+
+- URL: https://oses.ed.sc.gov/family-community/parent-and-community-engagement/autism-spectrum-disorder-virtual-library/autism-behavior-executive-functioning-resources/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: Public resource collection with printable materials, behavior-support links, and evidence-based resources for autism and executive-function needs.
+
+### Pearson Neurodevelopment and Behavior Assessments
+
+- URL: https://www.pearson.com/en-us/work/clinical-assessments/neurodevelopment-behavior
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-10
+- Description: Clinical assessment product page covering tools that gather information from caregivers, teachers, and clinicians, including executive-function and ADHD-related rating scales.

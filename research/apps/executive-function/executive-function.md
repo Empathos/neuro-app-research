@@ -768,3 +768,23 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: A systematic review of recent evidence on digital CBT apps for ADHD, including findings related to executive functioning, adherence, accessibility, and personalization.
+
+### Booost: Tasks & Planning
+
+- URL: https://play.google.com/store/apps/details?id=com.booosteducation.booost.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: An executive-function planner designed for neurodivergent users, including people with ADHD, autism, dyslexia, and dyspraxia; supports planning, prioritizing, task initiation, and follow-through.
+
+### wolfies-executive-function
+
+- URL: https://github.com/wolfiesch/wolfies-executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-10
+- Description: A public GitHub repository explicitly focused on executive-function support and suitable as a lead for further tool or research review.
