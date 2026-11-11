@@ -828,3 +828,63 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Research record reviewing mobile applications for orofacial dyspraxia rehabilitation and evaluating them with expert input and the Mobile Application Rating Scale.
+
+### dob pro  Visual Perception App
+
+- URL: https://apps.apple.com/za/app/dob-pro-visual-perception/id969998406?uo=2
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Therapist-, coach-, and teacher-oriented app with visual-perception exercises, individualized activity creation, lesson organization, progress support, and exercise exchange.
+
+### Utilization of a Mobile Application for Motor Skill Evaluation in Children
+
+- URL: https://www.mdpi.com/2076-3417/11/2/663/pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Research paper describing an Android app for fine-motor assessment and exercise design, with adjustable difficulty, session data collection, and physiotherapist access to performance data.
+
+### The OT Corner with Mrs. K
+
+- URL: https://studio.com/apps/jennifer-kubinski/support
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Caregiver-, educator-, and therapist-facing app offering occupational-therapy-informed strategies for fine motor skills, handwriting, sensory regulation, self-help skills, and classroom participation.
+
+### Kalulu Booklets
+
+- URL: https://github.com/Excello-Recherche-Education/Kalulu-Booklets
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Open-source educational booklet generator with adaptations for pupils with dyspraxia, including larger text, simplified layout, and modified writing activities.
+
+### Jade Neurodivergence Platform
+
+- URL: https://www.jadend.tech/what-is-neurodivergence
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Platform and app offering educational games, family-supported tools, and teacher-facing resources for neurodivergent children.
+
+### Newham Autism Information and Resource Pack
+
+- URL: https://www.newham.gov.uk/downloads/file/8136/autism-information-and-resource-pack
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Public-sector resource pack listing practical organization tools such as shared Todoist task lists and defining dyspraxia as a developmental coordination condition.

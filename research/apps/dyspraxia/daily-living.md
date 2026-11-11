@@ -658,3 +658,13 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: App using social narratives and picture schedules to help neurodivergent children practise daily-living skills and build independence with caregiver support.
+
+### GoblinX ADHD
+
+- URL: https://apps.apple.com/us/app/goblinx-ai-focus-habits/id6462700951?l=vi&platform=watch
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Neurodivergent-focused assistant offering tools for daily tasks, organization, planning, focus, and habits.

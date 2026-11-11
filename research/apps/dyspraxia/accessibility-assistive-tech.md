@@ -698,3 +698,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: University assistive-technology guide covering specialist supports such as screen readers, extended-time tools, and accommodations for neurodivergent study.[2]
+
+### NeuroAdapt SDK
+
+- URL: https://github.com/neuroequality/neuroadapt-sdk
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Public TypeScript toolkit from NeuroEquality intended to support neurodiversity inclusion in emerging technologies.

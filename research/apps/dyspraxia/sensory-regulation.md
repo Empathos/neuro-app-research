@@ -668,3 +668,13 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: App for tracking energy, stimulation, recovery, sensory demands, masking, and overload patterns in neurodivergent adults.
+
+### NeuroNavigate
+
+- URL: https://apps.apple.com/ua/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Low-stimulation companion for neurodivergent teens and adults, featuring task breakdowns, grounding exercises, and breathing techniques.

@@ -548,3 +548,23 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Open-source cognitive-management framework for ADHD and neurodivergence that models cognitive states and provides a local browser-based management cockpit.
+
+### NeuroNavigate
+
+- URL: https://apps.apple.com/lu/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Low-stimulation iPhone app for neurodivergent teens and adults, offering grounding and breathing exercises, focus support, reminders, mind dumps, and daily check-ins.
+
+### Dyspraxia DCD America  Healthcare Professional Resources
+
+- URL: https://www.dyspraxiadcdamerica.org/resources-healthcare-professionals/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Curated public resources for diagnosing and supporting dyspraxia/DCD, with material for healthcare professionals and links to external guidance.

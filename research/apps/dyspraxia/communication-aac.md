@@ -819,16 +819,6 @@
 - Found: 2026-10-16
 - Description: Android AAC app featuring customizable communication buttons, AI sentence suggestions, feelings activities, coping strategies, and administrator controls.
 
-### CommUnity
-
-- URL: https://play.google.com/store/apps/details?id=com.academy.community&hl=en_US
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: communication-aac
-- Query: dyspraxia communication-aac neurodivergent app research pass 501
-- Found: 2026-10-16
-- Description: Symbol-based communication platform for nonverbal, minimally verbal, and limited-literacy users, including people with apraxia and other neurodivergent communication needs.
-
 ### Communication App: AI-Assisted AAC Platform
 
 - URL: https://digitalcommons.kennesaw.edu/cday/Spring_2026/Graduate_Project/13/
@@ -1288,3 +1278,63 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Cross-platform AAC communication board for Android and web, with iOS support in development; tiles can play recordings or use text-to-speech.
+
+### My Words - AAC Communication
+
+- URL: https://apps.apple.com/hr/app/my-words-aac-communication/id6760271260
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: iPhone and iPad AAC app using picture buttons and AI voice output; intended for people with autism, apraxia, cerebral palsy, or other speech difficulties, with large buttons for users with fine-motor challenges.[4]
+
+### DIALOGO AAC / DPAD
+
+- URL: https://www.sapiolife.it/en/soluzione/technological-aids-for-communication/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Professional AAC systems supporting symbolic and alphanumeric communication through images, photos, drawings, and icon libraries; access modes include touch, automatic scanning, manual scanning, and eye pointing. The product page explicitly lists language dyspraxia among relevant conditions.[5]
+
+### Read&Write
+
+- URL: https://www.texthelp.com/products/read-and-write-education/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Literacy support software relevant to dyspraxia, offering word prediction, spelling support, text-to-speech, and reading-pane features to reduce reading and writing demands.[1]
+
+### OrbitNote
+
+- URL: https://www.texthelp.com/products/orbitnote/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Accessible PDF and digital-document tool with text-to-speech and annotation features that can reduce handwriting and fine-motor demands for dyspraxic users.[1]
+
+### Herefordshire Assistive ICT and AAC Guidance
+
+- URL: https://www.herefordshire.gov.uk/support-schools-settings/teaching-children-sen-disability/13
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Public education guidance covering assistive ICT for coordination difficulties or dyspraxia and AAC referrals for spoken-communication difficulties; mentions Clicker, DocsPlus, symbol support, prediction, speech output, and switch access.[10]
+
+### AAC Communication Board
+
+- URL: https://github.com/paktric/aac-communication-board
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Free, open-source AAC communication board. Users tap tiles to hear words spoken aloud or enter custom phrases for speech output.
