@@ -668,3 +668,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Open-source grounding and regulation tool featuring 5-4-3-2-1 sensory grounding and paced breathing.
+
+### Tactile & Haptic Regulation
+
+- URL: https://github.com/NeuroSkill-com/skills/blob/main/skills/neuroskill-protocols-breathfree/SKILL.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Repository protocol documentation covering tactile, auditory, micro-movement, cognitive, and other non-breathing regulation approaches.

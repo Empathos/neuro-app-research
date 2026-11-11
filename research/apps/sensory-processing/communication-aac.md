@@ -1008,3 +1008,13 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Text-to-speech AAC app with offline and online voices, customizable layouts, saved quick phrases, and support for autism, verbal apraxia, aphasia, anxiety, and selective mutism.
+
+### Vanderbilt TRIAD Communication Resources
+
+- URL: https://vkc.vumc.org/vkc/triad/communication-resources
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Educational communication resources for autistic and neurodivergent learners, including AAC guidance, videos, infographics, and practical support strategies.

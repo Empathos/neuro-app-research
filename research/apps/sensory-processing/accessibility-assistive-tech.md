@@ -678,3 +678,33 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Free app introduced for autistic users with sensory sensitivities; intended to make environments more predictable and support planning around lighting, noise, crowds, and announcements.
+
+### Makers Making Change
+
+- URL: https://github.com/makersmakingchange/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Open-source assistive-technology projects from the Neil Squire Society, including adaptive switches, joysticks, sip-and-puff controls, and low-force access devices.
+
+### Open Source Assistive Technology Hackathon
+
+- URL: https://github.com/open-source-accessibility/Open-Source-Assistive-Technology-Hackathon
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: A collection of public assistive-technology projects, including camera-based tools, tactile and braille interfaces, accessibility software, and a weighted backpack project for autistic teens and adults.
+
+### Assistive Technology Tools in Schools
+
+- URL: https://ttaconline.org/Document/zxbIhX_YCJNsBK-MIpq1klfd7-ard_5e/AT-Tools-in-Schools-Booklet-ADACompliant.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Guide to assistive technology for sensory regulation and access, including noise reduction, visual supports, lighting, fidgets, seating, and digital accessibility.
