@@ -958,3 +958,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: ADHD coaching app for executive-function challenges, offering bite-sized learning modules, task breakdown, accountability, goal-setting, and practical ADHD skills.
+
+### Shimmer Care: ADHD Coaching
+
+- URL: https://apps.apple.com/fr/app/shimmer-care-adhd-coaching/id1570668247
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: ADHD and executive-function coaching app with bite-sized learning modules, personalized strategies, accountability support, and task breakdown guidance.[5]
+
+### ADHD Planner AI
+
+- URL: https://apps.apple.com/us/app/adhd-planner-ai/id6758739558?l=pt-BR&platform=watch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Family-oriented planner for children and teens with ADHD, focused on routines, emotional tracking, and development of executive-function skills.[6]

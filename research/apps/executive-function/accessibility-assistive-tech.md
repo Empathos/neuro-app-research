@@ -968,3 +968,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Assistive technology combining dedicated hardware with a companion app, visual schedules, routines, emotion-regulation tools, video modeling, and structured support for children with executive-function needs.
+
+### Executive
+
+- URL: https://github.com/0xysh/executive
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Public GitHub project for executive control of AI agents; described as newly open-sourced and under active development.
+
+### Tiimo: Planning & Focus
+
+- URL: https://apps.apple.com/no/app/tiimo-planning-focus/id1480220328?l=ko
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Visual daily-planning toolkit designed for ADHD, autism, and users who benefit from visual organization, with color-coded plans, focus timing, and AI-powered task checklists.
+
+### Task Breakdown Skill
+
+- URL: https://github.com/jwynia/agent-skills/blob/main/skills/general/productivity/task-breakdown/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: MIT-licensed executive-function support skill that breaks overwhelming tasks into manageable steps using ADHD- and autism-aware strategies.

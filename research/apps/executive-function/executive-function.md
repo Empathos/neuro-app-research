@@ -788,3 +788,33 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: A public GitHub repository explicitly focused on executive-function support and suitable as a lead for further tool or research review.
+
+### Prism Buddy  AI-Powered Task Manager for ADHD & Autism
+
+- URL: https://apps.apple.com/jp/app/prism-buddy/id6738650371?l=en-US&platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: AI task manager offering task breakdown, task-initiation help, schedule planning, decision support, and other executive-function tools.
+
+### DaySteps  Visual Schedule
+
+- URL: https://apps.apple.com/fr/app/daysteps/id6760569729
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Visual schedule supporting guided steps and checklists for families, children, teens, and adults; described as grounded in executive-function research.
+
+### AskSheldon Executive Function Support
+
+- URL: https://asksheldon.app/de/tools/executive-function-support
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Web-based support tool with visible countdowns, selectable work intervals, task naming, and if-stuck planning to make task initiation and switching easier.

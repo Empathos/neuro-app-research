@@ -998,3 +998,33 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Offline AAC app for autistic children and adults, people with apraxia or cerebral palsy, and others who have difficulty speaking; users combine symbols into spoken sentences.
+
+### Differently: ADHD Productivity
+
+- URL: https://apps.microsoft.com/detail/9pj84m2zpmt9?hl=en-US&gl=US
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Microsoft Store app providing task management and focus-timer tools designed for ADHD and other neurodivergent users, emphasizing task initiation and sustained attention.
+
+### Ryan's Voice: Conversation AAC
+
+- URL: https://apps.apple.com/us/app/ryans-voice-conversation-aac/id6759277396
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: AAC app for teenagers and adults who cannot reliably use speech, offering context-aware reply suggestions, ready-made phrases, text-to-speech, custom wording, and an SOS function.
+
+### AAC Communication Board Multi
+
+- URL: https://apps.apple.com/ci/app/aac-communication-board-multi/id6756518817
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: AAC board for autism, speech delays, and communication challenges, with images, text-to-speech, and sentence building.
