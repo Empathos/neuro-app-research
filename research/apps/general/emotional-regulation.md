@@ -688,3 +688,23 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Emotion-coaching app focused on alexithymia, emotional awareness, emotion vocabulary, pattern recognition, and emotion regulation, with specific relevance to autistic and ADHD users.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/us/app/inflow-manage-your-adhd/id1528183849?l=pt-BR&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: ADHD support app covering emotional regulation, self-criticism, rejection-sensitive dysphoria, impulsivity, anxiety, mindfulness, routines, and focus.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/th/app/animi-emotional-intelligence/id6443638345?l=th
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Emotion-awareness app explicitly discussing neurodivergent users, with emotion logging, an emotion wheel, alexithymia-oriented tools, breathing exercises, journaling, and regulation modes.

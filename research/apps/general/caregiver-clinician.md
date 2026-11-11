@@ -828,3 +828,33 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Multimedia collaboration application designed to strengthen caregiver-therapist communication through shared guidance, videos, strategies, progress information, and voice-assisted documentation.[6]
+
+### CareAssist
+
+- URL: https://dl.acm.org/doi/10.1145/3832014
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: A research prototype using multimodal sensing and large language models to support offline caregiver coaching, identify intervention-relevant moments, and generate draft session summaries.
+
+### Neurodiversity-Affirming Care and Support Toolkit
+
+- URL: https://ndconnection.co.uk/resources/p/toolkit-nd-affirming-care-and-support
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Practical toolkit for neurodiversity-affirming support across health, education, and social care, including relational, sensory, emotional-safety, and human-rights-oriented approaches.
+
+### Neurodiversity-Affirming Care and Support Toolkit PDF
+
+- URL: https://www.rcpsych.ac.uk/docs/default-source/improving-care/nccmh/culture-of-care/events/par/learning-events/27-march-2026/par-learning-event-interactive-toolkit-27-march-2026.pdf?sfvrsn=afddc0c0_3
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Downloadable toolkit containing practical principles, discussion and planning prompts, care-plan templates, safety-plan templates, and combined care-and-safety summaries.

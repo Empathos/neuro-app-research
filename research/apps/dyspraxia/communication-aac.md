@@ -819,16 +819,6 @@
 - Found: 2026-10-16
 - Description: Android AAC app featuring customizable communication buttons, AI sentence suggestions, feelings activities, coping strategies, and administrator controls.
 
-### CommUnity
-
-- URL: https://play.google.com/store/apps/details?id=com.academy.community&hl=en_US
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: communication-aac
-- Query: dyspraxia communication-aac neurodivergent app research pass 501
-- Found: 2026-10-16
-- Description: Symbol-based communication platform for nonverbal, minimally verbal, and limited-literacy users, including people with apraxia and other neurodivergent communication needs.
-
 ### Communication App: AI-Assisted AAC Platform
 
 - URL: https://digitalcommons.kennesaw.edu/cday/Spring_2026/Graduate_Project/13/

@@ -1068,3 +1068,53 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Public repository lead for a neurodiversity resource database, suitable for discovering support materials and related tools.
+
+### Otsimo | Special Education
+
+- URL: https://play.google.com/store/apps/details?id=com.otsimo.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Educational game app for learners with autism, ADHD, learning disorders, Down syndrome, and other special needs, offering visual and auditory activities for cognitive, communication, motor, and foundational academic skills.
+
+### Jade - Learning Through Play
+
+- URL: https://apps.apple.com/pt/app/jade-learning-through-play/id1473169233?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Inclusive learning app for neurodivergent children and teens, including learners with autism, dyslexia, ADHD, dyscalculia, and intellectual disabilities; supports varied learning styles and assistive technologies.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/fr/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Structured reading app designed for autistic and ADHD learners, using predictable routines, phonics, sight words, repetition, text-to-speech, and a distraction-free interface.
+
+### Supporting Neurodiverse Learners Toolkit
+
+- URL: https://tools.k12academics.com/toolkits/supporting-neurodiverse-learners.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Education-focused toolkit for supporting students with ADHD, autism, dyslexia, and other learning differences through practical, neurodiversity-affirming strategies.
+
+### Neurodiversity and Third Level Education
+
+- URL: https://www.maynoothuniversity.ie/law/neurodiversity-and-third-level-education-reusable-learning-resource
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: A free, accessible open educational resource co-created with neurodivergent students to support inclusive teaching, services, policies, and learning design in higher education.

@@ -818,3 +818,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: App for neurodivergent adults to track stimulation, energy, recovery, and states ranging from understimulated to overloaded.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/br/app/autism-adhd-games/id6757896431
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: A sensory-friendly activity app for autistic and neurodivergent children featuring fidgets, sensory play, predictable interactions, and calming games.

@@ -778,3 +778,53 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Repository documentation describing ADHD-friendly task-management features designed to reduce overwhelm, support variable-energy days, and build sustainable productivity habits.
+
+### Tiimo: ADHD AI Routine Planner
+
+- URL: https://apps.apple.com/ag/app/tiimo-adhd-ai-routine-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Visual schedule and routine-planning app for ADHD, autism, and time-management support, with color-coded plans, task breakdowns, brain-dump lists, and focus timers.
+
+### Kinwall
+
+- URL: https://github.com/JohnDuprey/kinwall
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Open-source, self-hosted family wall calendar and household organizer with calendars, chores, meals, routines, medicines, and lists, designed with neurodivergent family members in mind.
+
+### Tiimo: ADHD AI Planner & To Do
+
+- URL: https://apps.apple.com/am/app/tiimo-adhd-ai-planner-to-do/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Visual schedule and task-planning app for ADHD and autism, including color-coded plans, task breakdown, reminders, and focus timers.
+
+### ADHD Planner
+
+- URL: https://play.google.com/store/apps/details?id=com.mycompany.mydailyplannerapp&hl=ln
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Android daily-living planner combining shared calendars, reminders, prioritized to-do lists, visual habit tracking, and routine management.
+
+### ADHD Planner: Mindory
+
+- URL: https://apps.apple.com/tw/app/adhd-planner-mindory/id6503987647
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Planner for ADHD, autism, and busy minds with routines, stress and energy check-ins, task breakdown, reminders, focus timers, and calendar synchronization.
