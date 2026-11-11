@@ -818,3 +818,33 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Health tracking app with customizable symptom, mood, sleep, nutrition, and activity trackers; supports shareable reports for clinicians and collaboration with caregivers.
+
+### Amni App Research
+
+- URL: https://formative.jmir.org/2026/1/e95633/XML
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Research lead for the Amni app; the cited publication describes planned clinician dashboards, automated reminders, and a subsequent pilot randomized controlled trial.
+
+### Regulate ADHD
+
+- URL: https://apps.apple.com/se/app/regulate-adhd/id6757410108?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Parent and caregiver app for tracking behavior, sleep, medication timing, side effects, and treatment phases; supports multi-caregiver collaboration and CSV reports for pediatrician visits.
+
+### Nurture ADHD Plus
+
+- URL: https://apps.apple.com/ua/app/nurture-adhd-plus/id6799194815
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Education and community-support app for parents, carers, and grandparents of children with ADHD, offering searchable guidance, live Q&A, and workshops; it states that it is not therapy or diagnosis.

@@ -1149,3 +1149,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: AAC text-to-speech app with customizable phrases, categories, speech settings, and offline functionality.
+
+### AAC Communication Board
+
+- URL: https://github.com/paktric/aac-communication-board
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Free, open-source AAC communication board with tappable speech tiles, custom phrase entry, and text-to-speech.
+
+### AAC Board AI
+
+- URL: https://github.com/shayc/aac-board-ai
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Free, private browser-based AAC app that works offline without an account; users select symbols to build and vocalize messages.
