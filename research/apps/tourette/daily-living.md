@@ -528,3 +528,13 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: App using social narratives, picture schedules, visual timers, token boards, and first/then charts to support daily-living skills and independence for neurodivergent children.[7]
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/gt/app/hiki-autism-adhd-nd-dating/id1466184914?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Neurodivergent friendship and dating platform welcoming autistic, ADHD, Tourettes, dyslexic, and other neurodivergent users.

@@ -818,3 +818,13 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Revision app designed for neurodivergent learners, providing customizable flashcards, color coding, adaptive review scheduling, and educational guides.[8]
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/us/app/hiki-autism-adhd-nd-dating/id1466184914?l=vi&platform=ipad
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Neurodivergent community app for friendship and connection that explicitly welcomes people with Tourette syndrome alongside autistic, ADHD, dyslexic, and other neurodivergent identities.[9]
