@@ -1018,3 +1018,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Repository record for a mixed-methods systematic review examining families' and clinicians' experiences with telehealth autism assessments.[10]
+
+### Mindfulness-Based Psychoeducation App for Parents of Children with ASD
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13235980/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Research article describing development and evaluation of a clinician-led, co-designed app for mindfulness-based psychoeducation and support for parents and caregivers of autistic children.
+
+### Survey on Autism Care, Diagnosis, and Intervention Based on Mobile Apps
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10384173/pdf/sensors-23-06260.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Research resource reviewing autism-focused mobile apps, including caregiver history collection, daily behavior inventories, journals, event tracking, and usability testing.
+
+### Autism Food Coach 2
+
+- URL: https://www.arxiv.org/pdf/2509.18716
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Research-described caregiver tool providing structured support for feeding children with autism, including visual meal plans and progress tracking.

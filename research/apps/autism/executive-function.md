@@ -1378,3 +1378,23 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Documentation and access information for Goblin Tools' task breakdown, priority sorting, time estimation, and checklist features.
+
+### Executive Functioning in Autism Spectrum Disorders
+
+- URL: https://link.springer.com/subjects/executive-functioning-in-autism-spectrum-disorders
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Springer research topic page collecting current research on executive functioning in autism spectrum disorders.
+
+### Real-World Executive Functions in Adults with Autism
+
+- URL: https://eric.ed.gov/?id=EJ1090345
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: ERIC research record examining real-world executive functioning in autistic adults, including flexibility and metacognition.

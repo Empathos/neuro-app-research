@@ -1268,3 +1268,33 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Text-to-speech communication app supporting saved phrases, custom categories, and typed messages for autism and other speech disabilities.
+
+### AAC Board AI
+
+- URL: https://github.com/shayc/aac-board-ai
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Free private AAC board that runs in a browser, works offline without an account, and lets users select symbols to compose and speak messages.[6]
+
+### Kinder Horizon AAC Tools
+
+- URL: https://github.com/kinderhorizon
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Public organization developing privacy-focused communication tools for autistic children, including Lighthouse AAC, an on-device AAC tablet app.[4]
+
+### Lighthouse AAC
+
+- URL: https://github.com/kinderhorizon/lighthouse
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Privacy-focused AAC tablet app project for nonspeaking children, associated with the Kinder Horizon Foundation.

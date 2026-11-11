@@ -1108,3 +1108,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Picture-card communication support tool for verbally disabled children and people with developmental disabilities such as autism.
+
+### Fast AAC
+
+- URL: https://apps.apple.com/us/app/fast-aac/id6751174676
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Offline AAC app with more than 2,500 image tiles, custom images, adjustable grid layouts, phrase folders, multilingual support, and predictive suggestions.
+
+### Tala: AAC for Autism
+
+- URL: https://apps.apple.com/pe/app/tala-aac-for-autism/id6760269821?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: AAC app designed for children with speech delays or limited speech, allowing users to communicate with sentence cards, personalized photos, custom boards, and selectable voices.
+
+### Autism Agent: AAC Speech
+
+- URL: https://apps.apple.com/us/app/autism-agent-aac-speech/id6781058259
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Calm, talking picture-board AAC app for children and adults who communicate without speech or need support when words are difficult.
+
+### Communications
+
+- URL: https://apps.apple.com/jp/app/communications/id560442053?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: AAC app designed for autistic people with speech difficulties, using picture-based communication and sentence-building features; developed with the Autistic Foundation Thailand.

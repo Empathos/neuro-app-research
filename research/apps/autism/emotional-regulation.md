@@ -878,3 +878,43 @@
 - Query: autism emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-09
 - Description: Tracker for meltdowns, sensory experiences, sleep, food, and positive events; supports ABC logging and pattern identification for autistic children, teens, adults, and caregivers.
+
+### Autism Therapies
+
+- URL: https://apps.apple.com/it/app/autism-therapies/id6762062651
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: A parent- and caregiver-oriented library of autism-support activities covering sensory regulation, calming, emotional regulation, communication, social connection, and daily living.
+
+### Emotion regulation in families of autistic children and adolescents
+
+- URL: https://repository.eduhk.hk/en/publications/emotion-regulation-in-families-of-autistic-children-and-adolescen/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Research repository record for a longitudinal study examining links between parental emotion-regulation difficulties, autistic children's regulation challenges, and behavioral outcomes.[1]
+
+### The importance of alexithymia and emotional regulation
+
+- URL: https://research-repository.st-andrews.ac.uk/handle/10023/19855
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Research repository record studying alexithymia, emotional regulation, autistic features, anxiety, and depression in young adults with autism spectrum disorder.[7]
+
+### Emotion Regulation and Autism Spectrum Disorders: A Literature Review
+
+- URL: https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1048&context=sped_etds&httpsredir=1
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Literature review examining emotion regulation in autism spectrum disorders and asking which cognitive regulation strategies may increase adaptive regulation.[9]

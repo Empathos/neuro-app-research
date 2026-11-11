@@ -898,3 +898,13 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Caregiver journaling and organization app for recording daily observations, routines, behavior, and progress while identifying longer-term patterns.
+
+### NeuroNavigate
+
+- URL: https://apps.apple.com/lu/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Low-stimulation companion for neurodivergent teens and adults that breaks overwhelming tasks into small steps and provides optional social-situation guidance.
