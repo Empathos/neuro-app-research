@@ -1138,3 +1138,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Public repository for an AI-powered interactive game suite intended to support early autism screening and skill assessment research.
+
+### SpectrumNest
+
+- URL: https://apps.apple.com/in/app/spectrumnest/id6765968188
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Autism and special-needs tracking app with real-time guidance for meltdowns, sensory overload, aggression, and related support needs.

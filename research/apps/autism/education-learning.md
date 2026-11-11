@@ -1378,3 +1378,23 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: App Store feature describing inclusive Lingokids activities for children ages 28, including autism-focused activities for social skills and emotion recognition and ADHD-focused activities for attention and movement.
+
+### Otsimo
+
+- URL: https://foundation.hundred.org/en/innovations/otsimo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Adaptive early-learning program for children with autism, Down syndrome, and speech delays, featuring skill-building games, speech practice, and an AAC communication tool.
+
+### AutiBuddy
+
+- URL: https://apps.apple.com/ua/app/autibuddy/id6763809995
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Research-inspired app offering interactive games and activities for life skills, social-emotional development, and communication among autistic and neurodivergent learners.
