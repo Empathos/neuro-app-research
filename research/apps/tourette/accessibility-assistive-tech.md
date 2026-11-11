@@ -598,3 +598,23 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: University guide covering accessibility tools such as screen readers, dictation, display adjustments, extended-time tools, and specialist assistive-technology support.[5]
+
+### NeuroNavigate
+
+- URL: https://apps.apple.com/lu/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: iPhone app marketed as a low-stimulation companion for neurodivergent teens and adults, supporting overwhelming tasks and difficult social or conversational situations.
+
+### Apps & Digital Tools  AspieAnswers
+
+- URL: https://aspieanswers.com/apps-digital-tools/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Public directory of current and planned neurodivergent-support apps covering connection, calming, routines, learning, focus, and structured daily activities.

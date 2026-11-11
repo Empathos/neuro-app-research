@@ -888,3 +888,13 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: A public GitHub project described as a community and social-messaging app for neurodivergent people, including people with autism, ADHD, and Tourette; the repository profile indicates an app-development focus.
+
+### Unique Minds
+
+- URL: https://apps.apple.com/nz/app/unique-minds/id6743822738
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Family and professional support app for neurodivergent children, offering personalized support manuals, calming routines, visual schedules, and sharing with caregivers, educators, and therapists.

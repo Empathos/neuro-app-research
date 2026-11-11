@@ -649,3 +649,13 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: A neurodivergence-support app for recording energy and stimulation, identifying regulation zones, trying guided resets, and reflecting on sensory demands and recovery.
+
+### NeuroNavigate
+
+- URL: https://apps.apple.com/ua/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Low-stimulation neurodivergence companion with breathing exercises, grounding techniques, check-ins, reminders, and regulation tools.
