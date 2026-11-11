@@ -938,3 +938,23 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Repository documentation describing the ADHD-focused task-management system and its AI-assisted executive-function features.
+
+### Task Breakdown Skill
+
+- URL: https://github.com/jwynia/agent-skills/blob/main/skills/general/productivity/task-breakdown/SKILL.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: An AI-agent skill for breaking overwhelming tasks into manageable steps, with ADHD- and autism-aware strategies for task initiation and executive-function barriers.
+
+### ADHD Easy-Do your ADHD Planner
+
+- URL: https://apps.apple.com/kr/app/adhd-easy-do-your-adhd-planner/id6476637209?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Planner created for ADHD and neurodivergent users to organize tasks, thoughts, ideas, and daily routines while reducing overwhelm.

@@ -888,3 +888,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: Assistive-technology product page covering text-to-speech, dictation, screen masking, text prediction, spelling support, and planning tools for people with dyslexia, ADHD, autism, dyspraxia, and executive-function difficulties.
+
+### Apple Cognitive Accessibility Documentation
+
+- URL: https://developer.apple.com/documentation/accessibility/cognitive.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Official developer documentation covering Apple cognitive accessibility features that support comprehension, attention, communication, task simplification, and reduced decision load.
+
+### Google Cognitive and Learning Accessibility Resources
+
+- URL: http://www.support.google.com/accessibility/answer/15528542
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Google support resource listing products and features that can assist cognitive and learning accessibility needs.

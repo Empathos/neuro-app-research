@@ -1318,3 +1318,63 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-02
 - Description: Open-source AAC tooling that lets users create and manage communication cards through a web app.
+
+### AAC Communication Board
+
+- URL: https://github.com/paktric/aac-communication-board
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Free, open-source AAC communication board with selectable speech tiles and custom phrase text-to-speech.
+
+### Otsimo AAC | Tap and Talk
+
+- URL: https://apps.apple.com/us/app/otsimo-aac-tap-and-talk/id6443643989
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Customizable symbol-based AAC app with voice output, text-to-speech, and support for nonspeaking users, including autistic people and people with developmental or speech disorders.
+
+### PiCom
+
+- URL: https://apps.apple.com/us/app/picom/id6443864830
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Picture-based AAC communicator with text-to-speech or recorded voice output, offline use, broad device support, and Open Board Format compatibility.
+
+### Gably AAC
+
+- URL: https://apps.apple.com/us/app/gably-aac/id6743555317
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Customizable AAC app with phrases, categories, layouts, symbols, personal images, adjustable voices, and offline functionality.
+
+### SpeakUp AAC
+
+- URL: https://apps.apple.com/us/app/speakup-aac/id6760866157
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Free AAC app offering customizable phrases, voice output, phrase favorites, category browsing, and on-device AI.
+
+### Tiny Talk AAC
+
+- URL: https://apps.apple.com/us/app/tiny-talk-aac/id6754395983
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: AAC app for children and adults featuring core-word boards, sentence construction, text-to-speech voices, and customization.
