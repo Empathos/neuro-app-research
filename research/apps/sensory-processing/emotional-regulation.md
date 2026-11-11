@@ -598,3 +598,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: A public repository containing protocols for emotional regulation, mood, anger, fear, grief, shame, emotional processing, and emotional boundaries.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/nl/app/autism-adhd-games/id6757896431
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: iOS app with sensory play, fidgets, calming interactions, and structured activities intended to support self-regulation, transitions, attention, and emotional regulation.

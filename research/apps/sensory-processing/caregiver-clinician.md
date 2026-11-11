@@ -968,3 +968,33 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Research collection covering sensory processing and developmental populations, including measurement work on visual-processing experiences in neurodivergent adults.
+
+### Sensory Processing Research
+
+- URL: https://sensoryhealth.org/landing-page/research
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Research library containing peer-reviewed abstracts, articles, and related materials organized by topic in sensory processing and sensory health.
+
+### Research Repository: Sensorimotor Processing
+
+- URL: https://repository.essex.ac.uk/35694/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: University research-repository record for work examining action-effect prediction, attention, and internal forward models in sensorimotor processing.
+
+### Lynn Srensen  Sensory Processing Research
+
+- URL: https://github.com/lynnsoerensen
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Public GitHub profile containing research code modeling arousal effects on sensory processing with a deep convolutional neural network and global gain mechanism.

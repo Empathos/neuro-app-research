@@ -628,3 +628,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: A GitHub organization associated with a privacy-first, open-source tracker for parents of neurodivergent children.[6]
+
+### OpenHear
+
+- URL: https://github.com/ljbudgie/Mirror
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: A referenced local-first hearing, haptic, and sensory-processing toolkit ecosystem associated with the Mirror repository, covering sensory substitution and related accessibility concepts.

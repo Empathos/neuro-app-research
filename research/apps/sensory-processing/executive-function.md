@@ -878,3 +878,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Adaptive cognitive-wellness concept combining sensory-adaptive interface modes, executive-dysfunction task breakdown, focus soundscapes, and accessibility-oriented customization.
+
+### CNSP Open Science Resources
+
+- URL: https://cnsp-resources.readthedocs.io
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Public documentation and resources for sensory-processing research, including datasets, analysis pipelines, libraries, tutorials, and example scripts.[10]
