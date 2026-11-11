@@ -574,3 +574,53 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Clinical assessment product page covering tools that gather information from caregivers, teachers, and clinicians, including executive-function and ADHD-related rating scales.
+
+### Task Breakdown Skill
+
+- URL: https://github.com/jwynia/agent-skills/blob/HEAD/skills/general/productivity/task-breakdown/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: A neurodivergent-aware task-decomposition skill for turning overwhelming tasks into manageable steps, with applicability to ADHD, autism, task paralysis, and executive-function difficulties.
+
+### eXeXeF
+
+- URL: https://github.com/Eng4SJ/eXeXeF
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Open-source external executive-functioning project intended to automate support around symptoms affecting cognition and to provide configurable, private personal-assistant systems.
+
+### Neurodivergent Insights Shop and Executive Functioning Workbook
+
+- URL: https://neurodivergentinsights.com/shop-landing/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Clinician-licensed resources with practices for task initiation, working memory, organization, time management, and planning.
+
+### All Brains Belong  Resources for Clinicians
+
+- URL: https://allbrainsbelong.org/resources-for-clinicians/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Free clinician-oriented collection of patient stories, webinars, practical tools, and an evidence-based neurodivergence guide.
+
+### A Preliminary Randomized, Controlled Trial of Executive Function Training
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8813874/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Open-access research covering computer-based executive-function interventions for autistic children, including coached training, Braingame Brian, and Project EVO.
