@@ -978,3 +978,13 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: GitHub project describing an engineering-oriented cognitive-management framework for ADHD, neurodivergence, and overthinking, with supporting documentation.
+
+### NeuroNavigate
+
+- URL: https://apps.apple.com/ua/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Low-stimulation iPhone companion for neurodivergent teens and adults, offering single-next-action support, breathing exercises, and sensory grounding techniques.

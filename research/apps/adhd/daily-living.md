@@ -1088,3 +1088,43 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: AI-powered task-management system for ADHD and executive dysfunction support, offering daily check-ins, priority planning, progress review, and encouragement.[10]
+
+### BrainHD: ADHD Planner & To-Do App
+
+- URL: https://apps.apple.com/us/app/brainhd-adhd-planner-to-do/id6811362391
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: An iOS planner and to-do list designed specifically for ADHD users.
+
+### ADHD Planner & To Do Organizer
+
+- URL: https://apps.apple.com/us/app/adhd-planner-to-do-organizer/id6825038465
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: A planner with routines, habits, medication reminders, mood and sleep check-ins, and adaptive daily scheduling.
+
+### ADHD Planner For Adults & Quiz
+
+- URL: https://apps.apple.com/us/app/adhd-planner-for-adults-quiz/id6760236759
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: An adult ADHD planning tool with visual timelines, reminders, habit tracking, self-assessment, and energy-based task organization.
+
+### Planish: ADHD Day Planner
+
+- URL: https://apps.apple.com/us/app/planish-adhd-day-planner/id6815780955
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: A flexible day planner for ADHD users that presents tasks on a timeline, emphasizes one task at a time, and supports guilt-free replanning.

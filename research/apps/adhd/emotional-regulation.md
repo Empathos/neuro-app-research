@@ -1328,3 +1328,63 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Support app for parents and carers that includes guidance on communication, routines, emotional regulation, and behavior.[2]
+
+### ADHD Planner AI
+
+- URL: https://apps.apple.com/us/app/adhd-planner-ai/id6758739558?l=pt-BR&platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Planner and emotion-tracking app for children and families managing ADHD, with routines, emotional-awareness exercises, goal tracking, and executive-function supports.
+
+### DopaLoop: ADHD Habit Tracker
+
+- URL: https://apps.apple.com/us/app/dopaloop-adhd-habit-tracker/id6758214018
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: ADHD and rejection-sensitive dysphoria support app featuring emotion check-ins, RSD first-aid tools, and psychoeducation on emotion regulation.
+
+### DaisyDo: Calm Intense Emotions
+
+- URL: https://apps.apple.com/ua/app/daisydo-calm-intense-emotions/id6796473777
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Self-help app for intense ADHD emotions with CBT-oriented exercises, trigger and pattern recognition, and a structured 10-day emotion-reset course.
+
+### DaisyDo: Calm Intense Emotions
+
+- URL: https://apps.apple.com/tw/app/daisydo-calm-intense-emotions/id6796473777
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Self-help app designed for people with ADHD who experience intense emotions, including anger, rejection-related self-criticism, overwhelm, and difficulty settling after emotional activation.[4]
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/ua/app/shift-regulate-reset/id6759524862
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Real-time regulation tool for ADHD, autistic, and other neurodivergent users, with modes for spiraling, shutdown, rage, overwhelm, sensory overload, burnout, and task-initiation paralysis.[9]
+
+### ADHD-Monitor: parent training
+
+- URL: https://apps.apple.com/ch/app/adhd-monitor-parent-training/id6768299400?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-11
+- Description: Parent-training and self-guided support app addressing childrens attention, stress, behavior, emotional strain, and adult topics including emotion regulation, stress management, relationships, and self-worth.[8]
