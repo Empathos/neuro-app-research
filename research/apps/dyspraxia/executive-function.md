@@ -848,3 +848,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Free task-management platform and digital planning resource designed to reduce overwhelm and support executive functioning for neurodivergent adults.
+
+### Differently: ADHD Productivity
+
+- URL: https://apps.microsoft.com/detail/9pj84m2zpmt9?hl=en-US&gl=US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-11
+- Description: Windows task manager and focus timer designed for ADHD and other neurodivergent users, with emphasis on starting tasks, maintaining focus, and time awareness.
