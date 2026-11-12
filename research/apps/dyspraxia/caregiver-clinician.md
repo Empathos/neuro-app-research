@@ -888,3 +888,33 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Public-sector resource pack listing practical organization tools such as shared Todoist task lists and defining dyspraxia as a developmental coordination condition.
+
+### Moonbow: Autism Behavior Log
+
+- URL: https://apps.apple.com/us/app/moonbow-autism-behavior-log/id6764191923
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Caregiver logging and clinician-collaboration app with pattern history, clinician-approved home practice, care-circle sharing, clinical PDF reports, and clinician synchronization.
+
+### Locus Therapy
+
+- URL: https://www.linkedin.com/company/locustherapy
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Digital platform described as bridging professional expertise and home-based care through screening, customized intervention plans, and therapist-guided exercises for families.
+
+### Mobile Applications for Orofacial Dyspraxias
+
+- URL: https://search.pedro.org.au/physiotherapy-choices/record-detail/80169
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Evidence-oriented review record identifying and rating mobile applications for rehabilitation of orofacial dyspraxias, with relevance to patient and healthcare-professional research.

@@ -858,3 +858,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Windows task manager and focus timer designed for ADHD and other neurodivergent users, with emphasis on starting tasks, maintaining focus, and time awareness.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/dk/app/inflow-manage-your-adhd/id1528183849?l=da
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: ADHD-focused support app covering executive-function skills that may also apply to autism, dyslexia, dyspraxia, and related needs.

@@ -1338,3 +1338,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Free, open-source AAC communication board. Users tap tiles to hear words spoken aloud or enter custom phrases for speech output.
+
+### AAC Text to Speech for Adults
+
+- URL: https://apps.apple.com/us/app/aac-text-to-speech-for-adults/id6789686992
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: AAC app for adults with difficulty speaking, offering ready-made phrases, editable typed messages, and customizable speech output.
+
+### SpeechBox for Speech Therapy
+
+- URL: https://montech.ruralinstitute.umt.edu/ipad-air-and-newer-apps/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Speech-practice app listed by the University of Montana's MonTECH program for articulation work involving dyspraxia, autism, childhood apraxia, stroke rehabilitation, and related speech disorders.[7]
