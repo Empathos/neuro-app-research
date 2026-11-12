@@ -828,3 +828,43 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: A sensory-friendly activity app for autistic and neurodivergent children featuring fidgets, sensory play, predictable interactions, and calming games.
+
+### Sia: Sensory Overload Relief
+
+- URL: https://apps.apple.com/ua/app/sia-sensory-overload-relief/id6612021805
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: App focused on short coping support for sensory overload, overwhelm, and overthinking, including use by people with ADHD, autism, and AuDHD.
+
+### TedSteps  SEN Support App
+
+- URL: https://apps.apple.com/us/app/tedsteps-sen-support-app/id6773303911
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Support app combining visual routines, transition timers, mood and behavior tracking, emotional-regulation tools, social stories, and sensory-oriented guidance for children with additional needs.
+
+### SocialBlossom: Autism & ADHD
+
+- URL: https://apps.apple.com/ua/app/socialblossom-autism-adhd/id6751892255
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: App using games and social stories to practice emotional awareness, self-management, calm-down skills, body awareness, and sensory breaks.
+
+### CogniFlow
+
+- URL: https://github.com/shafayatsaad/CogniFlow
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: An accessibility assistant for ADHD and dyslexia that includes a digital-calm mode for reducing visual stimuli, animation, and other sources of cognitive or sensory overload.

@@ -858,3 +858,23 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Downloadable toolkit containing practical principles, discussion and planning prompts, care-plan templates, safety-plan templates, and combined care-and-safety summaries.
+
+### KeyAide
+
+- URL: https://www.keyaide.ai/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: AI-supported resource described as serving families and professionals who support neurodivergent people, with multilingual information and caregiving techniques.
+
+### AUDHD
+
+- URL: https://github.com/altmind-labs/AUDHD
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Open-source adaptive neurodiversity companion using personalized tools and AI-supported insights for people with ADHD, autism, dyslexia, and related neurodivergent traits.
