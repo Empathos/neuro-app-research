@@ -968,3 +968,23 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Game-based social and emotional learning app where neurodivergent students practice problem-solving, emotional management, and relationship skills.
+
+### Teacher-Carers' Preparedness for Inclusive Education
+
+- URL: https://www.mdpi.com/2227-7102/16/5/781
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Education research examining teacher-carer preparedness, strategies, and experiences supporting learners with Developmental Coordination Disorder (DCD/Dyspraxia).
+
+### Pencil Spaces: Special Needs and Special Education
+
+- URL: https://www.pencilspaces.com/solutions/special-needs
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Online teaching platform for tutors, schools, and therapists supporting SEND learners, including dyspraxia/DCD, with reduced fine-motor demands and structured lesson tools.

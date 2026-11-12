@@ -719,16 +719,6 @@
 - Found: 2026-10-20
 - Description: ADHD-focused planner offering focus, habits, productivity analysis, priority support, and on-device processing designed to keep notes local.
 
-### ADHD: Planner & Lifehacks
-
-- URL: https://apps.apple.com/us/app/adhd-planner-lifehacks/id6753921198
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: executive-function
-- Query: adhd executive-function neurodivergent app research pass 501
-- Found: 2026-10-20
-- Description: Planner combining tasks, habits, medication tracking, focus timers, visual organization, reminders, and brain-dump capture for neurodivergent users.
-
 ### ADHD Organizer, Daily Planner
 
 - URL: https://apps.apple.com/us/app/adhd-organizer-daily-planner/id1494584871

@@ -668,3 +668,23 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Neurodivergent-focused assistant offering tools for daily tasks, organization, planning, focus, and habits.
+
+### Beats Medical Application
+
+- URL: https://apps.apple.com/us/app/beats-medical-application/id866567480
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: App providing structured at-home walking, speech, and dexterity exercises for motor-function rehabilitation and everyday motor challenges.[9]
+
+### Dysmaths
+
+- URL: https://github.com/gchampeau/dysmaths
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Open-source web app for writing and organizing mathematics and geometry work visually, with dyspraxia listed among its intended users.
