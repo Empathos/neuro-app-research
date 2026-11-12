@@ -1148,3 +1148,23 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: AAC app designed for autistic people with speech difficulties, using picture-based communication and sentence-building features; developed with the Autistic Foundation Thailand.
+
+### VisualVoice
+
+- URL: https://apps.apple.com/rs/app/visualvoice/id6749776764?platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: AAC app using autism-oriented pictograms and emojis, visual routines, text-to-speech, offline operation, multilingual support, sensory-friendly design, and parental controls.
+
+### Autism Therapies App
+
+- URL: https://apps.apple.com/sg/app/autism-therapies/id6762062651
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Collection of autism- and ADHD-friendly activities covering speech, occupational therapy, sensory regulation, motor skills, calming, and daily living.

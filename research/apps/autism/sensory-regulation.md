@@ -1148,3 +1148,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Autism and special-needs tracking app with real-time guidance for meltdowns, sensory overload, aggression, and related support needs.
+
+### Spectrum: Sensory Calm & Care
+
+- URL: https://play.google.com/store/apps/details?id=com.neonest.spectrum&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: An offline Android sensory-calming app with predictable sensory rooms, ambient sounds, breathing exercises, and a zen sand garden for self-regulation.
+
+### Autism Sensory Games & Fidgets
+
+- URL: https://play.google.com/store/apps/details?id=com.rngamingstudio.asmr.toys.anxiety.fidget.popit&hl=en
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: An Android sensory-play app featuring virtual fidgets, pop-it interactions, sorting activities, stretching, tapping, and other calming exercises.
