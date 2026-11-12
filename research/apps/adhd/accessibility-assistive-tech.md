@@ -968,3 +968,23 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: Public repository for a personalized ADHD assistant focused on planning, focus, and accountability.
+
+### NeuroCoach  Multi-Agent ADHD Productivity Assistant
+
+- URL: https://github.com/arpit-005/NeuroCoach-ADHD-Executive-Function-Engine
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Public repository for an ADHD productivity assistant featuring energy-aware scheduling, adaptive feedback, and integrations with tools such as Slack, Notion, and Google Calendar.
+
+### AI-Assisted ADHD Diagnosis Through Eye Tracking Technology
+
+- URL: https://github.com/irmakerkol/AI-Assisted-ADHD-Diagnosis-Through-Eye-Tracking-Technology
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Public research repository exploring machine-learning support for ADHD diagnosis using eye-tracking data.

@@ -1458,3 +1458,23 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Research on neurodivergent and neurotypical students' perceptions of Honest Mirror, an AI application providing personalized feedback for presentation skills.
+
+### Focus Booster: ADHD Study Tool
+
+- URL: https://apps.apple.com/us/app/focus-booster-adhd-study-tool/id6741526518
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: ADHD-focused study and productivity app combining a visual Pomodoro timer, distraction-free interface, and student planning tools for homework and exam preparation.
+
+### ADHD Study Buddy: Homework App
+
+- URL: https://apps.apple.com/hr/app/adhd-study-buddy-homework/id6826873600
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Homework support app for college and university students with ADHD, using task breakdown, body doubling, guided next steps, and deadline support.

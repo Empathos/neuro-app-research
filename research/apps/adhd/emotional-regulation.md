@@ -1388,3 +1388,43 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Parent-training and self-guided support app addressing childrens attention, stress, behavior, emotional strain, and adult topics including emotion regulation, stress management, relationships, and self-worth.[8]
+
+### ADHD Tracker
+
+- URL: https://apps.apple.com/is/app/adhd-tracker/id6478482276
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: ADHD health tracker for symptoms, medication, mood, lifestyle, emotional dysregulation, rejection sensitivity, sensory overwhelm, anxiety, stress, and CBT-oriented support prompts.
+
+### Regulate ADHD
+
+- URL: https://apps.apple.com/tw/app/regulate-adhd/id6757410108
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Parent-oriented app for neurodivergent children that tracks behavior patterns, sleep quality, and medication effects over time.
+
+### ADHD and so much more!
+
+- URL: https://apps.apple.com/gb/app/adhd-and-so-much-more/id6776284078
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Support app for parents and carers addressing ADHD-related communication, routines, emotional regulation, behavior, and practical everyday strategies.
+
+### Cognico: ADHD Control
+
+- URL: https://apps.apple.com/us/app/cognico-adhd-control/id6759532868
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Public App Store lead for an ADHD-focused control and support tool; the listing provides a starting point for evaluating its relevance to regulation research.
