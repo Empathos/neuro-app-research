@@ -1298,3 +1298,33 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Privacy-focused AAC tablet app project for nonspeaking children, associated with the Kinder Horizon Foundation.
+
+### CoughDrop
+
+- URL: https://apps.apple.com/us/app/coughdrop/id1021384570
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Cross-device AAC communication and support tool for autism and other complex communication needs. Offers starter and customizable boards, symbols, user images, recorded audio, speech synthesis, and reporting features.
+
+### Sonus: AAC Talker & Speech Aid
+
+- URL: https://apps.apple.com/us/app/sonus-aac-talker-speech-aid/id6776835720
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Offline AAC app that converts symbols into speech, with customizable cards, categories, multiple profiles, switch/scanning mode, adjustable voices, PDF export, and shared board setups.
+
+### PictoKids AAC: Speech Kids
+
+- URL: https://apps.apple.com/us/app/pictokids-aac-speech-kids/id6744828648
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Childrens AAC communication tool with pictograms, natural voices, AI-assisted sentence creation, categories, and support for autistic and nonspeaking children.

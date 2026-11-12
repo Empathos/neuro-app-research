@@ -918,3 +918,23 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Literature review examining emotion regulation in autism spectrum disorders and asking which cognitive regulation strategies may increase adaptive regulation.[9]
+
+### AutistApp
+
+- URL: https://apps.apple.com/pe/app/autistapp/id6504295148?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Free app created with and for the autistic community, offering self-regulation tools, communication resources, autonomy support, and a daily emotion tracker.
+
+### Calm Steps
+
+- URL: https://apps.apple.com/de/app/calm-steps/id6755076182?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Emotional-regulation and behavioral-support app for children, including neurodivergent children with autism, ADHD, and sensory needs; includes check-ins, guided activities, and tracking.

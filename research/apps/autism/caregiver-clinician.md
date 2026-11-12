@@ -1048,3 +1048,23 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Research-described caregiver tool providing structured support for feeding children with autism, including visual meal plans and progress tracking.
+
+### CareGiver
+
+- URL: https://github.com/0ShNa0/CareGiver
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open-source web application offering caregivers of autistic people and others a resource-sharing and community-support space.[3]
+
+### Neurobridge
+
+- URL: https://github.com/harshitworkmain/Neurobridge
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open-source remote-care platform for ASD combining caregiver tools, clinician analytics, teleconsultation, therapy games, and AI-assisted screening.[6]

@@ -908,3 +908,43 @@
 - Query: autism daily-living neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Low-stimulation companion for neurodivergent teens and adults that breaks overwhelming tasks into small steps and provides optional social-situation guidance.
+
+### Pictalk Buddy: Autism Routine
+
+- URL: https://apps.apple.com/es/app/pictalk-buddy-autism-routine/id6502835578
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Visual routine planner for autism, ADHD, and other neurodevelopmental conditions, with pictograms, timers, audio reminders, and smartwatch support.
+
+### Fun Routine - Daily Planner
+
+- URL: https://apps.apple.com/lc/app/fun-routine-daily-planner/id1600111925
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Interactive daily planner and routine tool designed for autistic people and people with other neurological conditions.
+
+### Ambleen: Family Daily Routine
+
+- URL: https://apps.apple.com/us/app/ambleen-family-daily-routine/id6769819054
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Family routine app that presents calm, visual step-by-step tasks for autistic, ADHD, and PDA children.
+
+### First and Then Visual Schedule
+
+- URL: https://apps.apple.com/us/app/first-and-then-visual-schedule/id6747053750
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Visual scheduling and First/Then board app with custom images, voice instructions, progress tracking, offline use, and multi-device synchronization.

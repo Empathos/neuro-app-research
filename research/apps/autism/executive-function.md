@@ -1398,3 +1398,53 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: ERIC research record examining real-world executive functioning in autistic adults, including flexibility and metacognition.
+
+### AutistAI
+
+- URL: https://apps.apple.com/us/app/autistaai/id6760936026
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Autism-support app with daily routines, reminders, schedules, emotional-regulation tools, communication aids, caregiver collaboration, and activity tracking.
+
+### Autism Captain
+
+- URL: https://apps.apple.com/ua/app/autism-captain/id6759001053
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: AI-assisted autism care tracker for logging routines, sensory factors, stressors, triggers, supports, and generating shareable summaries for care teams.
+
+### Autism Love
+
+- URL: https://apps.apple.com/us/app/autism-love/id6758582988
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Parent companion offering autism-tool discovery, calming and sensory resources, daily-skills and routine support, progress tracking, and notes.
+
+### BluePal: Autism Assistant
+
+- URL: https://apps.apple.com/us/app/bluepal-autism-assistant/id6737531049
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Autism-support app with an AI assistant, expert-led resources, communication and daily-living content, emotional-skills guidance, community tools, and local-resource mapping.
+
+### Bloom Autism Support
+
+- URL: https://apps.apple.com/ua/app/bloom-autism-support/id6761259907
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Family-support app for organizing IEP information, school communications, evaluations, visual schedules, social stories, and progress toward independence.

@@ -1398,3 +1398,33 @@
 - Query: autism education-learning neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Research-inspired app offering interactive games and activities for life skills, social-emotional development, and communication among autistic and neurodivergent learners.
+
+### Autism Learning Games For Kids
+
+- URL: https://apps.apple.com/ca/app/autism-learning-games-for-kids/id6747318529
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Sensory-friendly early-learning app with structured activities for attention, listening, matching, counting, shape recognition, and cognitive development.
+
+### Noggin Labs
+
+- URL: https://github.com/Noggin-Labs
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: GitHub organization developing an adaptive educational platform focused on accessible, individualized learning for neurodivergent children.
+
+### Divergo: Autism Work & School App
+
+- URL: https://apps.apple.com/us/app/divergo-autism-work-school/id6819078850
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: A companion for autistic and neurodivergent adults navigating college and workplaces, including guidance for social and educational situations.
