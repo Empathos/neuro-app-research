@@ -449,16 +449,6 @@
 - Found: 2026-07-01
 - Description: Free, scientifically validated online ADHD test for teens and adults, offering a starting point for clinicians to discuss symptoms with patients.
 
-### eliospina/neuroljus-canon-stable
-
-- URL: https://github.com/eliospina/neuroljus-canon-stable
-- Source: github-search
-- Condition: adhd
-- Support category: caregiver-clinician
-- Query: focus caregiver app
-- Found: 2026-08-09
-- Description: Empathic, privacy-first AI companion for caregivers of non-verbal autistic individuals
-
 ### ADHD CARE
 
 - URL: https://adhdcare.online/
@@ -848,3 +838,73 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Education and community-support app for parents, carers, and grandparents of children with ADHD, offering searchable guidance, live Q&A, and workshops; it states that it is not therapy or diagnosis.
+
+### ADHD Tracker - CareClinic
+
+- URL: https://play.google.com/store/apps/details?id=com.careclinicsoftware.careclinic&listing=adhd-tracker-app&hl=en_CA
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Symptom, mood, sleep, activity, and nutrition tracking with exportable reports and care-team collaboration for family members, caregivers, and healthcare professionals.
+
+### audhd.ai - Adaptive Neurodiversity Empowerment Companion
+
+- URL: https://github.com/altmind-labs/AUDHD
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open-source platform for ADHD, autism, dyslexia, and related neurodivergence that combines personalized tools, AI support, and ongoing research summaries.
+
+### ADHD Support via Calm Health and ADHD Central
+
+- URL: https://www.trispharma.com/tris-pharma-adhd-support-calm-health-adhd-central/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Official collaboration providing patients and caregivers with ADHD-focused mental-wellness, organization, habit-building, and self-management resources.
+
+### REMEMO: ADHD Child-Caregiver-Therapist Communication App
+
+- URL: https://dl.acm.org/doi/10.1145/3711075
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Research-described mobile app supporting individual and collaborative use by children with ADHD, parents, therapists, and educators through experience and emotion recording and selective sharing.
+
+### CoolCraig App
+
+- URL: https://digital.ahrq.gov/sites/default/files/docs/citation/r21hs026058-lakes-final-report-2022.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Wearable, mobile-app, and web-portal system developed with children, parents, teachers, and clinicians to support self-regulation and treatment adherence for youth with ADHD.
+
+### CoolTaCo Digital Health Intervention
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11534993/pdf/44247_2024_Article_134.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Study protocol for a smartwatch and smartphone intervention using child-parent co-regulation, parent data capture, treatment adherence tracking, and shared decision-making in pediatric ADHD care.
+
+### Caregiver-Centered ADHD Mobile App and AI Coaching Intervention
+
+- URL: https://www.sbir.gov/awards/208205
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: SBIR project for a family-focused pediatric ADHD treatment app with virtual coaching, caregiver coping modules, clinician-guided AI, and feasibility testing with caregivers.

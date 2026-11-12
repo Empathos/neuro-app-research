@@ -1188,3 +1188,33 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Open-source task-management suite designed for ADHD neurotypes, combining hierarchical organization with AI-powered executive-function support and energy-aware task selection.
+
+### ADHD Planner AI
+
+- URL: https://apps.apple.com/hk/app/adhd-planner-ai/id6758739558?platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Family-oriented tool for children ages 618 that supports routines, emotional regulation, habit tracking, visual schedules, and executive-function skill development.[8]
+
+### ADHD Planner  AI Task Manager
+
+- URL: https://apps.apple.com/tw/app/adhd-planner-ai-task-manager/id6760858384
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: AI task manager that breaks overwhelming tasks into smaller actionable steps and includes brain-dump organization and executive-dysfunction support.[5]
+
+### Routine Tracker: ADHD Planner
+
+- URL: https://apps.apple.com/it/app/routine-tracker-adhd-planner/id6761393046
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: All-in-one routine, habit, task, focus-timer, time-blocking, and reminder app designed to make daily planning more manageable.[10]

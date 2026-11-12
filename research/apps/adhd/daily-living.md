@@ -1128,3 +1128,63 @@
 - Query: adhd daily-living neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: A flexible day planner for ADHD users that presents tasks on a timeline, emphasizes one task at a time, and supports guilt-free replanning.
+
+### Burgle!: Remastered
+
+- URL: https://github.com/burgle-remastered/burgle-remastered-project
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open-source scheduling and journaling app for ADHD and autistic users, centered on energy delegation, recovery, structured time management, routines, and flexible planning.
+
+### Ishi: ADHD Unstuck, Brain Dump
+
+- URL: https://apps.apple.com/eg/app/ishi-adhd-unstuck-brain-dump/id6767989715
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: iPhone AI planner and brain-dump tool for adults with ADHD and executive dysfunction, positioned as an executive-function day planner.
+
+### Stepping: ADHD Task Planner
+
+- URL: https://apps.apple.com/hr/app/stepping-adhd-task-planner/id6796930534
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Task tool for ADHD, autism, AuDHD, and executive dysfunction featuring one-step-at-a-time guidance, micro-steps, time awareness, brain dumping, and household-space planning.
+
+### Aethyr ADHD Planner & Tasks
+
+- URL: https://apps.apple.com/lu/app/aethyr-adhd-planner-tasks/id6782637326
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Daily routine and task planner with reminders, checklists, medication tracking, focus tools, and small-step task breakdowns for ADHD and neurodivergent users.
+
+### Unstuck: ADHD Planner Focus
+
+- URL: https://apps.apple.com/us/app/unstuck-adhd-planner-focus/id6786830128
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Planner that accepts typed or spoken brain dumps, turns them into 37 small steps, and presents one step at a time.
+
+### addTaskManager: ADD To Do List
+
+- URL: https://apps.apple.com/us/app/addtaskmanager-add-to-do-list/id1492487688
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: ADHD-oriented task manager designed to provide a structured path from scattered to-do lists to completed tasks.
