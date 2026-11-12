@@ -709,16 +709,6 @@
 - Found: 2026-08-10
 - Description: Adaptive Malayalam AI tutor for neurodivergent learners with personalized learning and mastery tracking.
 
-### Thes-IS-IT/Easylens
-
-- URL: https://github.com/Thes-IS-IT/Easylens
-- Source: github-search
-- Condition: general
-- Support category: communication-aac
-- Query: accessibility speech support startup
-- Found: 2026-08-15
-- Description: Easylens is a state-of-the-art accessibility assistant mobile application designed to empower visually impaired and neurodivergent users. By blending local computer vision, on-device and cloud large language models, cloud storage databases, and edge wearable glasses integration, Easylens functions as a real-time smart companion.
-
 ### Communication Buddy
 
 - URL: https://github.com/summansomewhere/communication-buddy
@@ -1378,3 +1368,13 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: AAC app for children and adults featuring core-word boards, sentence construction, text-to-speech voices, and customization.
+
+### Sonus: AAC Talker & Speech Aid
+
+- URL: https://apps.apple.com/us/app/sonus-aac-talker-speech-aid/id6776835720
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: AAC talker that converts picture selections into spoken sentences for people with autism, apraxia, Down syndrome, aphasia, or other conditions affecting speech.

@@ -828,3 +828,33 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Planner for ADHD, autism, and busy minds with routines, stress and energy check-ins, task breakdown, reminders, focus timers, and calendar synchronization.
+
+### Executive Functions
+
+- URL: https://apps.apple.com/us/app/executive-functions/id1454539412
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: App focused on exercises for executive-function skills, including working memory, recall, discrimination, and short-term information processing.
+
+### MeinSystem: AuDHD Planner
+
+- URL: https://apps.apple.com/de/app/meinsystem-audhd-planner/id6793159792
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Calm daily planner for adults with ADHD, autism, and AuDHD, focused on organizing everyday tasks and routines.
+
+### ADHD Routine Planner Prism
+
+- URL: https://apps.apple.com/nz/app/adhd-routine-planner-prism/id6738650371
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Planner for ADHD, autism, and other neurodivergent users with task breakdown, time estimation, focus planning, text simplification, recipe help, and daily guidance.

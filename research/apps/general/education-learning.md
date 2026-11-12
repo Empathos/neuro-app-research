@@ -1118,3 +1118,63 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: A free, accessible open educational resource co-created with neurodivergent students to support inclusive teaching, services, policies, and learning design in higher education.
+
+### Visual Genius
+
+- URL: https://github.com/kimtth/visual-genius
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open-source visual learning and communication aid using cards for children with autism and related learning needs.[7]
+
+### Neurodivergent Toolkit
+
+- URL: https://github.com/ocxly/Neurodivergent_Toolkit
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Public ADHD-focused productivity toolkit listed in the OCXLY repository portfolio.[4]
+
+### SenseToKnow
+
+- URL: https://autismcenter.duke.edu/news/screening-app-identifies-autism-associated-behaviors-children-and-without-co-occurring-adhd
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Duke-developed tablet app research lead assessing attention, gaze, movement, facial expression, and touchscreen interaction in young children, including participants with autism and ADHD.[1]
+
+### Enara
+
+- URL: https://apps.apple.com/us/app/myenara/id6739212139
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: An AI-supported early-intervention and learning platform for children with ADHD, autism, Down syndrome, and other learning differences, connecting parents, educators, and therapists.
+
+### Geniuslane Learning
+
+- URL: https://apps.apple.com/ag/app/geniuslane-learning/id1663921934
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: An education app offering neurodiversity and neurodevelopmental-impairment courses and guidance for parents, professionals, and schools.
+
+### IAC Digital Neurodiversity
+
+- URL: https://apps.apple.com/in/app/iac-digital-neurodiversity/id6476548289
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: A professional education app with structured autism-support training delivered through audio, video, presentations, and specialized learning modules.

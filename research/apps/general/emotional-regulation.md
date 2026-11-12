@@ -708,3 +708,33 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Emotion-awareness app explicitly discussing neurodivergent users, with emotion logging, an emotion wheel, alexithymia-oriented tools, breathing exercises, journaling, and regulation modes.
+
+### MoodBadger
+
+- URL: https://github.com/simonpainter/MoodBadger
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: An assistive visual communication tool using a Pimoroni Badger2040 e-ink display to help neurodivergent children communicate emotional states and support regulation.
+
+### Burgle!
+
+- URL: https://github.com/BurgleProject/Project
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: A journaling and routine-building app for neurodivergent users that combines structured tasks, reflection, wind-down activities, and burnout-aware planning.
+
+### Burgle!: Remastered
+
+- URL: https://github.com/burgle-remastered/burgle-remastered-project
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: An ADHD- and autism-oriented scheduling app centered on energy delegation, recovery, structured time management, and flexible daily routines.

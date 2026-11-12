@@ -958,3 +958,53 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Planner created for ADHD and neurodivergent users to organize tasks, thoughts, ideas, and daily routines while reducing overwhelm.
+
+### ADHD Organizer & Todo: Unstuck
+
+- URL: https://apps.apple.com/us/app/adhd-organizer-todo-unstuck/id6779624768
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: An iPhone tool for task initiation that uses brain dumping, task randomization, and short distraction-free countdowns.
+
+### Ishi: ADHD Unstuck, Brain Dump
+
+- URL: https://apps.apple.com/eg/app/ishi-adhd-unstuck-brain-dump/id6767989715
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: An AI day planner designed for adults with ADHD and executive dysfunction.
+
+### Brainy ADHD - Tasks and Habits
+
+- URL: https://apps.apple.com/nz/app/brainy-adhd-tasks-and-habits/id6761862417
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: A gamified routine, task, and habit tracker designed for ADHD and neurodiversity, with features targeting task initiation, time blindness, and procrastination.
+
+### Sprout: Smart ADHD Task App
+
+- URL: https://apps.apple.com/gb/app/sprout-smart-adhd-task-app/id6754895173
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: An AI task manager for ADHD and neurodivergent users that converts brain dumps into tasks, breaks down projects, suggests priorities, and uses a virtual pet companion.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/sn/app/inflow-manage-your-adhd/id1528183849
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: A science-based ADHD support program covering focus, goal setting, time management, routines, emotional regulation, distraction, and executive function.
