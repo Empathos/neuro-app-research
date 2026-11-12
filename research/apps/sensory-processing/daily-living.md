@@ -638,3 +638,23 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: A referenced local-first hearing, haptic, and sensory-processing toolkit ecosystem associated with the Mirror repository, covering sensory substitution and related accessibility concepts.
+
+### Nello: Autism Behavior Tracker
+
+- URL: https://apps.apple.com/us/app/nello-autism-behavior-tracker/id6784738384
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Tracker for sensory moments, meltdowns, sleep, food, toileting, and daily wins, with ABC behavior logging and pattern history for caregivers or self-tracking.
+
+### Burgle!: Remastered
+
+- URL: https://github.com/burgle-remastered/burgle-remastered-project
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Open-source scheduling and journaling app for ADHD and autistic users, emphasizing energy management, recovery, structured time, routines, and flexible planning.

@@ -888,3 +888,23 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Public documentation and resources for sensory-processing research, including datasets, analysis pipelines, libraries, tutorials, and example scripts.[10]
+
+### psytools
+
+- URL: https://github.com/urtuba/psytools/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open-source psychological assessment toolkit with predefined inventories, including measures related to sensory processing and sensitivity.[5]
+
+### BeatBop: Interactive Metronome
+
+- URL: https://apps.apple.com/de/app/beatbop-interactive-metronome/id6753838813
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: App Store tool for neurodivergent children and teens using customizable rhythmic activities aimed at attention, coordination, self-regulation, sensory processing, and executive-function challenges.

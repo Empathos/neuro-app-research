@@ -998,3 +998,13 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Public GitHub profile containing research code modeling arousal effects on sensory processing with a deep convolutional neural network and global gain mechanism.
+
+### SenseToKnow
+
+- URL: https://medschool.duke.edu/news/invented-duke-identifying-autism-earlier
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Smartphone and tablet screening app that analyzes childrens responses to videos and provides objective behavioral data that can complement caregiver questionnaires and clinician observations.

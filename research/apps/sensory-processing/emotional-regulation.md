@@ -608,3 +608,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: iOS app with sensory play, fidgets, calming interactions, and structured activities intended to support self-regulation, transitions, attention, and emotional regulation.
+
+### FerroxLabs Emotional Regulation Skills
+
+- URL: https://github.com/FerroxLabs/wayland/blob/main/src/process/resources/skills-library/bodies/skills/health-wellness/emotional-regulation-skills/SKILL.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Repository skill document covering STOP, urge surfing, cognitive reframing, emotional labeling, opposite action, physiological soothing, and personalized regulation toolkits.
