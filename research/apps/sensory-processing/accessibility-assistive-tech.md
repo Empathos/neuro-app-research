@@ -708,3 +708,53 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Guide to assistive technology for sensory regulation and access, including noise reduction, visual supports, lighting, fidgets, seating, and digital accessibility.
+
+### Sensory Games PlayGround
+
+- URL: https://apps.apple.com/us/app/sensory-games-playground/id6754518494
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: App Store sensory activity tool designed for children, teens, and adults, including neurodivergent and autistic users, with predictable, low-stakes visual activities.
+
+### Grassroots Open Assistive Tech
+
+- URL: https://github.com/openassistivetech
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open GitHub organization documenting, curating, preserving, and sharing freely available assistive-technology designs and information.
+
+### HushMap
+
+- URL: https://github.com/topics/assistive-technology?l=swift
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Open-source iOS project lead for finding sensory-friendly places nearby, with community contributions and Apple Watch support.
+
+### Neurodiversity Directory Assistive Technology Guide
+
+- URL: https://neurodiversity.directory/support/assistive-technology/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-12
+- Description: Public guide covering assistive technologies for sensory regulation, executive function, reading accessibility, communication, focus, and environmental accommodation.
+
+### W3C Sensory Characteristics Guidance
+
+- URL: https://w3c.github.io/silver/prototypes/PlainLanguage/site/1-3-3/alt2.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-12
+- Description: Accessibility guidance recommending that instructions not rely solely on shape, size, location, orientation, or sound, supporting users with sensory and assistive-technology needs.
