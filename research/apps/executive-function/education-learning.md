@@ -978,3 +978,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Family-oriented planner for children and teens with ADHD, focused on routines, emotional tracking, and development of executive-function skills.[6]
+
+### A Neurodiversity Guide to Effective Work
+
+- URL: https://services.google.com/fh/files/misc/understood_google_workspace_neurodiversity_guide.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: A public guide from Google Workspace and Understood.org explaining executive-function challenges and practical digital supports for planning, organization, focus, and task completion.
+
+### Neuroinclusive Classroom: Supporting Executive Function
+
+- URL: https://www.utm.utoronto.ca/rgasc/media/3544/download
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: An educational resource recommending clear instructions, task breakdowns, checkpoints, feedback, movement breaks, quiet zones, and other supports for neurodivergent learners.

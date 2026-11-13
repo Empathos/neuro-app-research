@@ -756,3 +756,33 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: NHS factsheets discussing sensory profiles, regulation needs, focus tools, and mind-mapping software relevant to neurodivergent support research.
+
+### Neurodivergent Insights Digital Downloads
+
+- URL: https://neurodivergentinsights.com/neurodivergent-store/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Self-paced digital workbooks addressing sensory needs, executive functioning, burnout, emotions, task initiation, working memory, organization, time management, and planning.
+
+### Neurodivergent Insights Resources for Adults
+
+- URL: https://neurodivergentinsights.com/shop-adults/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Printable and digital workbooks focused on executive functioning, sensory needs, burnout, emotions, rejection sensitivity, and interest-based nervous-system support.
+
+### AspieAnswers Worksheets for Neurodivergents
+
+- URL: https://aspieanswers.com/resource-downloads-library/worksheets-printables-index/worksheets-for-neurodivergents/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Public worksheet and printable library covering executive-function challenges, routines, sensory differences, and emotional-regulation needs.

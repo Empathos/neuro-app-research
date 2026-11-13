@@ -518,3 +518,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Neurodivergent productivity and lifestyle app supporting task capture, planning, prioritization, task initiation, emotional regulation, and energy-aware decision-making.
+
+### BurgleProject Repositories
+
+- URL: https://github.com/orgs/BurgleProject/repositories
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Public repository collection including Burgle!, a journaling app intended to help neurodivergent users create routines and plan tasks.

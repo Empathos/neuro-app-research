@@ -1028,3 +1028,23 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: AAC board for autism, speech delays, and communication challenges, with images, text-to-speech, and sentence building.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/si/app/tiimo-to-do-list-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: App Store listing for Tiimo, featuring visual schedules, task prioritization, focus timers, and calendar/reminder synchronization for executive-function support.[8]
+
+### NeuroCapture
+
+- URL: https://apps.apple.com/qa/app/neurocapture/id6810226607
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Voice- and text-capture app that turns thoughts into tasks, reminders, appointments, notes, and next actions; aimed in part at users with ADHD and executive-function challenges.[5]
