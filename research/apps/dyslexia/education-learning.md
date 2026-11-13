@@ -668,3 +668,43 @@
 - Query: dyslexia education-learning neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: Reading and phonics app for ages 711, covering phonological awareness, phonics, and decoding through short rhythm-based games; its listing reports clinical-trial research.
+
+### Poppins Learning
+
+- URL: https://www.poppinslearning.io/?hsLang=en
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Reading intervention platform for children ages 614 with dyslexia or reading difficulties; it uses rhythm-based practice alongside phonics and specialist support.[3]
+
+### Yale Dyslexia: Assistive Technology
+
+- URL: https://www.dyslexia.yale.edu/resources/educators/school-culture/a-charter-schools-journey-into-assistive-technology/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Educational assistive-technology examples including See.Touch.Learn., Phonics Genius, and Co:Writer for lessons, phonemic awareness, word patterns, and predictive writing.[6]
+
+### Pixel Phonics
+
+- URL: https://github.com/khanzoefisha/Dyslexia-
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Open-source AI-powered dyslexia learning platform described as a multisensory coach for sound matching, word retrieval, and adaptive intervention.
+
+### GitHub Dyslexia Topic
+
+- URL: https://github.com/topics/dyslexia?o=desc&s=forks
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Public GitHub topic directory aggregating dyslexia-related repositories, including browser extensions, reading aids, revision apps, and text-simplification tools.

@@ -598,3 +598,13 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: Public AI and IoT platform for dyslexic learners featuring text-to-speech, speech-to-text, visual learning, lighting control, focus mode, and translation.[4]
+
+### Lateral OS: Dyslexia
+
+- URL: https://lateralos.com/understand
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Public neurodivergence information and support platform with dyslexia-focused guides addressing reading, spelling, written language, everyday experiences, and practical needs.[1]

@@ -959,16 +959,6 @@
 - Found: 2026-11-08
 - Description: ADHD organizer and timer app available through the Apple App Store, intended to support task organization and time management.
 
-### ADHD Assistant by DerekW00
-
-- URL: https://github.com/DerekW00/adhd-assistant
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: accessibility-assistive-tech
-- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-11-10
-- Description: Public repository for a personalized ADHD assistant focused on planning, focus, and accountability.
-
 ### NeuroCoach  Multi-Agent ADHD Productivity Assistant
 
 - URL: https://github.com/arpit-005/NeuroCoach-ADHD-Executive-Function-Engine

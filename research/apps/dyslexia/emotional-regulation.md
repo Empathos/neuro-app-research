@@ -69,16 +69,6 @@
 - Found: 2026-07-01
 - Description: Assistive reading and writing tool for struggling readers and writers. Provides text-to-speech, text highlighting, and word prediction to ease cognitive load and support confidence.
 
-### Dyslexia Referral Checklist Manuals (CLI Engage)
-
-- URL: https://public.cliengage.org/training/support/how-to-guides/dyslexia-referral-checklist-manuals/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: emotional-regulation
-- Query: dyslexia mood tracking directory
-- Found: 2026-07-01
-- Description: Official CLI Engage manuals and online checklist for tracking student data related to dyslexia referrals, usable with any progress monitoring tool to support neurodivergent education.
-
 ### Reading Rockets
 
 - URL: https://readingrockets.org/
@@ -248,3 +238,13 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Public repository describing an educational support ecosystem for dyslexia and learning disabilities, including eye-tracking, audio analysis, adaptive quizzes, and chatbot assistance.
+
+### BrightBud Dyslexia Support System
+
+- URL: https://github.com/Mukky2005/Dyslexic
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Public repository for an AI-powered multilingual dyslexia-support platform involving screening, adaptive learning, and collaboration among students, teachers, and parents.

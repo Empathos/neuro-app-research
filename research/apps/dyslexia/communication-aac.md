@@ -648,3 +648,73 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Web tool for creating customizable dyslexia-focused AAC boards with symbols, text-to-speech, layouts, functional phrases, and personal images.
+
+### Expressia
+
+- URL: https://apps.apple.com/us/app/expressia/id1559140004
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: AAC and cognitive-stimulation app with customizable communication boards, images, sounds, and recorded voice; explicitly lists dyslexia and learning disorders among supported contexts.
+
+### Accessible Literacy Learning
+
+- URL: https://apps.apple.com/ca/app/accessible-literacy-learning/id983666508
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Literacy program designed for non-speaking students who use AAC, covering phonics, decoding, sight words, and shared reading with progress tracking.
+
+### Apps for accessibility
+
+- URL: https://apps.apple.com/bf/story/id1266441335
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Apple accessibility collection featuring dyslexia-support tools and AAC apps including TouchChat HD, Proloquo4Text, and Proloquo2Go.
+
+### Accessible Education
+
+- URL: https://apps.apple.com/au/iphone/room/1346447596
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Apple collection of accessible education apps including Proloquo2Go AAC, Predictable text-based AAC, and Easy Dyslexia Aid.
+
+### Accessibility Tools Everyone Should Have for iPad
+
+- URL: https://apps.apple.com/ca/ipad/room/6502776599
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Apple accessibility collection covering symbol-based AAC, text-to-speech communication, dyslexia tools, accessible keyboards, and literacy support.
+
+### BRIDGE Communication
+
+- URL: https://apps.apple.com/de/app/bridge-communication/id1358326786?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Multipurpose communication and learning app covering reading, spelling, writing, speech development, dyslexia support, and AAC.
+
+### Apps for Accessibility
+
+- URL: https://apps.apple.com/fr/iphone/story/id1266441335?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Apple accessibility collection listing dyslexia-oriented reading tools and AAC options including Proloquo4Text.
