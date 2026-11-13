@@ -1378,3 +1378,13 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: AAC talker that converts picture selections into spoken sentences for people with autism, apraxia, Down syndrome, aphasia, or other conditions affecting speech.
+
+### AACtive
+
+- URL: https://apps.apple.com/us/app/aactive/id6761115329
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: AAC communication app supporting touch and eye-gaze control, communication boards, speech synthesis, pain assessment, and on-screen keyboards.[2]

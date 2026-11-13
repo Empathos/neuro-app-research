@@ -868,3 +868,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: An accessibility assistant for ADHD and dyslexia that includes a digital-calm mode for reducing visual stimuli, animation, and other sources of cognitive or sensory overload.
+
+### NeuroCompass
+
+- URL: https://apps.apple.com/us/app/neurocompass/id6767012395
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: ADHD-, autism-, and HSP-focused companion with sensory-aware settings, reduced motion, and optional haptics.

@@ -738,3 +738,13 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-12
 - Description: An ADHD- and autism-oriented scheduling app centered on energy delegation, recovery, structured time management, and flexible daily routines.
+
+### Grump Meter
+
+- URL: https://aacap.org/AACAP/AACAP/Families_and_Youth/Resource_Centers/Emotional_Dysregulation/Resources_for_Youth.aspx
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Emotion-identification and regulation tool for children and adults that helps users name escalating feelings and work toward calmer interactions.

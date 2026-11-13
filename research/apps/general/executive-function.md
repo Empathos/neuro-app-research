@@ -1008,3 +1008,33 @@
 - Query: general executive-function neurodivergent app research pass 501
 - Found: 2026-11-12
 - Description: A science-based ADHD support program covering focus, goal setting, time management, routines, emotional regulation, distraction, and executive function.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/us/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Neurodivergent-focused toolkit with Magic To-Do task breakdown, one-step focus mode, and a calm timer.
+
+### Neurodiv Kit
+
+- URL: https://apps.apple.com/nz/app/neurodiv-kit/id6825699004
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Offline toolkit for neurodivergent users with tools to focus, sort ideas, regain motivation, and move forward step by step.
+
+### GoblinX ADHD Habit Tracker
+
+- URL: https://apps.apple.com/us/app/habit-tracker-routine-planner/id6462700951
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: ADHD-oriented organizer for daily tasks, routines, planning, mood tracking, and related executive-function support.
