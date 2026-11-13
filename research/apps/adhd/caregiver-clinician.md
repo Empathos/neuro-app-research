@@ -908,3 +908,23 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: SBIR project for a family-focused pediatric ADHD treatment app with virtual coaching, caregiver coping modules, clinician-guided AI, and feasibility testing with caregivers.
+
+### ADHD itch.io Collection
+
+- URL: https://itch.io/c/7979622/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Public collection of small ADHD-oriented tools and games, including reminder, executive-function, and broader neurodivergent-support applications.
+
+### NEURODIVERSITY-AFFIRMING CARE FOR ADHD
+
+- URL: https://repository.nusystem.org/server/api/core/bitstreams/a91c256a-bb85-4d7a-8c24-30a5c778ec94/content
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Public capstone repository item examining neurodiversity-affirming care for clinicians working with ADHD clients, including support networks and neurodivergent-led communities.

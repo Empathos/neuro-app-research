@@ -1478,3 +1478,13 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Homework support app for college and university students with ADHD, using task breakdown, body doubling, guided next steps, and deadline support.
+
+### Awesome ADHD
+
+- URL: https://github.com/xargsuk/awesome-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Curated repository of ADHD apps, productivity tools, books, educational resources, and support services across multiple platforms.

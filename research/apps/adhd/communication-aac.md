@@ -1169,3 +1169,13 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Free, private browser-based AAC app that works offline without an account; users select symbols to build and vocalize messages.
+
+### Social Coach Live
+
+- URL: https://github.com/DHIWAHAR-K/social-coach-live
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Public GitHub repository for an AI communication coach aimed at autistic and neurodivergent users, combining transcription, emotion analysis, and locally generated coaching.
