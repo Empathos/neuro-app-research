@@ -908,3 +908,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: App Store tool for neurodivergent children and teens using customizable rhythmic activities aimed at attention, coordination, self-regulation, sensory processing, and executive-function challenges.
+
+### Tiimo
+
+- URL: https://apps.apple.com/si/app/tiimo-to-do-list-planner/id1480220328?l=sl&platform=vision
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Visual planning and executive-function app with AI-assisted task planning, color-coded schedules, prioritization, focus timers, and calendar/reminder synchronization.

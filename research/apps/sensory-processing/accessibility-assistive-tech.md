@@ -758,3 +758,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Accessibility guidance recommending that instructions not rely solely on shape, size, location, orientation, or sound, supporting users with sensory and assistive-technology needs.
+
+### PSI Lab at Texas A&M
+
+- URL: https://github.com/PSI-TAMU
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Research lab repository profile covering digital health, physiological sensing, biofeedback, and assistive technologies.

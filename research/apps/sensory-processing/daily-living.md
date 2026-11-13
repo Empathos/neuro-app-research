@@ -658,3 +658,33 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Open-source scheduling and journaling app for ADHD and autistic users, emphasizing energy management, recovery, structured time, routines, and flexible planning.
+
+### SenLife  ADHD & Autism Support
+
+- URL: https://apps.apple.com/si/app/senlife-adhd-autism-support/id6450156262
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Daily diary and insight-reporting app for recording behavior, emotions, routines, medication effects, and support contributions from caregivers, teachers, and clinicians.[4]
+
+### My Virtual Carer
+
+- URL: https://play.google.com/store/apps/details?id=uk.co.syncrosphere.mydigitalnanny
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Care-coordination app for structured reminders covering meals, hygiene, mobility, wellbeing checks, school runs, visits, and other daily support routines.[8]
+
+### NeuroCompass
+
+- URL: https://apps.apple.com/us/app/neurocompass/id6767012395
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Sensory-aware autism and HSP companion featuring sensory settings, reduced motion, disabled haptics, and a calmer home screen.

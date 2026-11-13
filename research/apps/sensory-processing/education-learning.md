@@ -1048,3 +1048,33 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Sensory-friendly learning app concept featuring customizable learning, calm visuals, caregiver tools, and support for autistic, ADHD, and dyslexic learners.
+
+### Sensory Project Research Corner
+
+- URL: https://sensoryproject.org/research/research-corner/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Public research hub covering sensory processing, neurodivergence, gender diversity, and lived-experience research.
+
+### Investigation of Associations Between Self-Reported Sensory Processing and Neurodivergence
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/41742218/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: PubMed-indexed research investigating sensory processing differences in relation to neurodivergence, gender diversity, and related support needs.
+
+### Creating the Conditions for Inclusion
+
+- URL: https://journals.sagepub.com/doi/10.1177/27546330241285353
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Study of sensory differences and environmental supports for neurodivergent university staff and postgraduate students.
