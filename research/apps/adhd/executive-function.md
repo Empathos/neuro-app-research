@@ -1208,3 +1208,33 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-11-12
 - Description: All-in-one routine, habit, task, focus-timer, time-blocking, and reminder app designed to make daily planning more manageable.[10]
+
+### Float Note: ADHD Power Tool
+
+- URL: https://apps.apple.com/us/app/float-note-adhd-power-tool/id6476446221
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: ADHD-oriented tool designed to address excessive thoughts, disorganization, overwhelm, and difficulty maintaining focus.
+
+### ADHD: Habit Tracker
+
+- URL: https://apps.apple.com/us/app/adhd-habit-tracker/id6456410617
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: ADHD-oriented organizer for managing tasks, lists, to-dos, checklists, reminders, and habits.
+
+### ADHD Tools for Goblins
+
+- URL: https://apps.apple.com/us/app/adhd-tools-for-goblins/id6817659098
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Planner and habit-tracking app with task breakdown, brain dumps, reminders, focus sessions, and Pomodoro-style timing.

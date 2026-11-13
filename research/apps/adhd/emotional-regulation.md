@@ -1428,3 +1428,13 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-12
 - Description: Public App Store lead for an ADHD-focused control and support tool; the listing provides a starting point for evaluating its relevance to regulation research.
+
+### awesome-adhd: Emotion Regulation
+
+- URL: https://github.com/yutakobayashidev/awesome-adhd/blob/main/concepts/emotion-regulation.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Public GitHub resource page collecting ADHD-related material focused on emotional regulation.[2]

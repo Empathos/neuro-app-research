@@ -1188,3 +1188,43 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: ADHD-oriented task manager designed to provide a structured path from scattered to-do lists to completed tasks.
+
+### ADHD Guide: Planner & Focus
+
+- URL: https://apps.apple.com/us/app/adhd-guide-planner-focus/id6744699255
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: ADHD and neurodivergence support app with visual planning, routines, habit tracking, Pomodoro focus timing, self-tests, breathing exercises, meal planning, and educational content.
+
+### BrightMind: ADHD Assistant
+
+- URL: https://apps.apple.com/us/app/brightmind-adhd-assistant/id6751622140
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: ADHD-oriented daily assistant that stores tasks, helps plan the day, provides reminders, and calls users when it is time to begin activities.
+
+### Ishi: ADHD Unstuck, Brain Dump
+
+- URL: https://apps.apple.com/us/app/ishi-adhd-unstuck-brain-dump/id6767989715
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: AI planner and brain-dump app positioned for adults with ADHD and executive dysfunction, with day-planning support.
+
+### ADHD Daily Planner Skill
+
+- URL: https://github.com/vitaclaw/vitaclaw/blob/main/skills/adhd-daily-planner/SKILL.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Open-source planning skill for ADHD brains emphasizing realistic time estimation, time-blindness support, dopamine-aware task design, and daily structure.

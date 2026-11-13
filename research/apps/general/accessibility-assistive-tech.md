@@ -59,16 +59,6 @@
 - Found: 2026-06-26
 - Description: Documentation page from the Frist Center for Autism and Innovation, providing start-up support resources for startups focused on autism and neurodiversity technology.
 
-### AbilityNet - TechShare Pro 2025: Neurodiversity and Accessibility Panel
-
-- URL: https://www.abilitynet.org/techshare-pro-2025/neurodiversity-accessibility
-- Source: perplexity-sonar
-- Condition: general
-- Support category: accessibility-assistive-tech
-- Query: neurodiversity mobile accessibility startup
-- Found: 2026-06-26
-- Description: Official event page for AbilityNet's TechShare Pro 2025 panel discussing neurodiversity in digital accessibility, featuring startup and research leads.
-
 ### Living Simplified - Neurodiversity Mobile Accessibility Toolkit
 
 - URL: https://www.living-simplified.com/neurodiversity-mobile-toolkit

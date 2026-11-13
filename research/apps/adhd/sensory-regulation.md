@@ -988,3 +988,33 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Low-stimulation iPhone companion for neurodivergent teens and adults, offering single-next-action support, breathing exercises, and sensory grounding techniques.
+
+### ADHD Focus: Calm & Reset
+
+- URL: https://apps.apple.com/ca/app/adhd-focus-calm-reset/id6757002744
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Calming and refocusing app offering breathing exercises, guided journeys, brown noise, ambient soundscapes, and other ADHD-friendly audio.
+
+### Hyperfocus App
+
+- URL: https://apps.apple.com/ca/app/hyperfocus-app/id6749962721
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Focus and rest sound app with multiple noise types and ambient sounds designed to support concentration, sensory regulation, and reduced mental overload.
+
+### Attentiv: ADHD Focus Timer
+
+- URL: https://apps.apple.com/br/app/attentiv-adhd-focus-timer/id6781804486
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Private ADHD focus timer for neurodivergent users with brown noise, binaural audio, rain, lo-fi, white noise, forest sounds, and lock-screen widgets.
