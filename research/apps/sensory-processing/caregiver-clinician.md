@@ -899,16 +899,6 @@
 - Found: 2026-11-08
 - Description: A public GitHub notebook combining sourced research questions about sensory sensitivity with lived-experience observations, personal sensory profiling, and documented strategies.
 
-### SI Research Knowledge Bank
-
-- URL: https://www.sensoryintegrationeducation.com/courses/sie-research-knowledge-bank-live
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: caregiver-clinician
-- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
-- Found: 2026-11-08
-- Description: A searchable collection of research on sensory integration and sensory processing, with plain-language summaries and links to original publications.
-
 ### SensyCues
 
 - URL: https://www.sensorygift.com/autism-apps/

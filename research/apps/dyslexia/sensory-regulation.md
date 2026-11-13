@@ -448,3 +448,13 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Prototype reading assistant combining eye tracking, speech recognition, visual highlighting, text-to-speech, and reading analytics for dyslexic learners.
+
+### Free Dyslexia Reading Intervention
+
+- URL: https://github.com/stevenchanin/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Public repository for a free dyslexia reading-intervention tool.

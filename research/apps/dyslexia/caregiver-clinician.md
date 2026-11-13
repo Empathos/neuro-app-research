@@ -879,16 +879,6 @@
 - Found: 2026-11-08
 - Description: Cross-platform reading and learning-companion application designed to support children with dyslexia and assist with identification of reading difficulties.
 
-### CLI Engage Dyslexia Screening
-
-- URL: https://public.cliengage.org/tools/assessment/dyslexia-screener/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: caregiver-clinician
-- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
-- Found: 2026-11-09
-- Description: Public screening and referral-checklist tools for kindergarten and first-grade students, available in English and Spanish.
-
 ### Dyslexia Test: School & Pro App
 
 - URL: https://apps.apple.com/pl/app/dyslexia-test-school-pro/id1529452250
@@ -918,3 +908,53 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-09
 - Description: Parent- and teacher-facing screening tool for children through standard 5 in regional Indian languages, with risk results and suggested next steps.
+
+### Neuro: Reading Made Easier
+
+- URL: https://apps.apple.com/us/app/neuro-reading-made-easier/id6789603712
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Reading-support app for people with dyslexia, ADHD, and other neurodivergent reading differences, offering text transformation, gamified reading exercises, and an on-device reading coach.
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/ec/app/hiki-autism-adhd-nd-dating/id1466184914
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Neurodivergent community and social-connection app welcoming autistic, ADHD, dyslexic, and other neurodivergent users; potentially relevant to peer and caregiver-support research.
+
+### AskSheldon
+
+- URL: https://asksheldon.app/about
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Neurodivergence education and support-finder platform for adults and families, including dyslexia resources and clinician-oriented tools; it does not provide formal diagnoses.
+
+### Lived Experiences of Primary Caregivers of Children with Dyslexia
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11572300/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Open-access research article examining caregiver experiences and identifying needs for earlier diagnosis, support services, and caregiver education.
+
+### Parents and caregivers in dyslexia research: A bibliometric review
+
+- URL: https://rw.org.za/index.php/rw/article/view/642/1716
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Research review mapping global literature on parents and caregivers in dyslexia studies, useful for identifying research themes and source networks.
