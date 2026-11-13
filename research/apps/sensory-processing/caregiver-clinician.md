@@ -1008,3 +1008,23 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Smartphone and tablet screening app that analyzes childrens responses to videos and provides objective behavioral data that can complement caregiver questionnaires and clinician observations.
+
+### Sensory Processing Measure, Remote Version
+
+- URL: https://telerehab-spot.com/en/tele_tools/tele_assessments/communication
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Remote digital assessment listing for the updated Sensory Processing Measure, potentially useful for clinician-led sensory-processing evaluation and tele-rehabilitation workflows.[9]
+
+### Assistive Technology for Neurodivergent Individuals: Systematic Review
+
+- URL: https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwag038/8751180?redirectedFrom=fulltext
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Recent review of mobile apps, VR, smartwatches, and other assistive technologies supporting self-regulation, daily activities, independence, and quality of life among neurodivergent people.[4]

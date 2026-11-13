@@ -678,3 +678,33 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Repository protocol documentation covering tactile, auditory, micro-movement, cognitive, and other non-breathing regulation approaches.
+
+### Neurodivergence: Consciousness
+
+- URL: https://play.google.com/store/apps/details?id=com.metaframe.neurodivergence
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Android companion app offering soundscapes, white noise, routine tracking, and logs for emotional states, sensory triggers, and energy patterns.
+
+### Neurodiv Kit
+
+- URL: https://apps.apple.com/nz/app/neurodiv-kit/id6825699004
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: An offline toolkit for neurodivergent users that includes focus, activation, unwinding, sleep, and calming audio tools such as brown, pink, and white noise.
+
+### Neurodivergent Insights Sensory Self-Care and Self-Advocacy Bundle
+
+- URL: https://neurodivergentinsights.com/bundles/sensory-self-care-and-self-advocacy-bundle/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: A practical digital resource bundle covering sensory preferences, triggers, soothing strategies, stimulus regulation, emotional regulation, and self-advocacy.

@@ -879,16 +879,6 @@
 - Found: 2026-11-08
 - Description: Cross-platform reading and learning-companion application designed to support children with dyslexia and assist with identification of reading difficulties.
 
-### CLI Engage Dyslexia Screening
-
-- URL: https://public.cliengage.org/tools/assessment/dyslexia-screener/
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: caregiver-clinician
-- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
-- Found: 2026-11-09
-- Description: Public screening and referral-checklist tools for kindergarten and first-grade students, available in English and Spanish.
-
 ### Dyslexia Test: School & Pro App
 
 - URL: https://apps.apple.com/pl/app/dyslexia-test-school-pro/id1529452250

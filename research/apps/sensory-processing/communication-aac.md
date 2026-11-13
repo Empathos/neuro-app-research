@@ -1018,3 +1018,43 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Educational communication resources for autistic and neurodivergent learners, including AAC guidance, videos, infographics, and practical support strategies.
+
+### Augmentative and Alternative Communication in Early Intervention
+
+- URL: https://www.asha.org/practice/early-intervention-provider-support/augmentative-and-alternative-communication-in-early-intervention/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Professional guidance from ASHA covering AAC, including gestures, signs, picture boards, speech-generating devices, and communication apps.
+
+### AAC Consideration Toolkit Guidebook
+
+- URL: https://mn.gov/admin/assets/SP004%20Guidebook_DRAFT_0908_tcm36-706137.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Minnesota AAC guidance addressing individualized communication supports, sensory-processing considerations, switch access, and customizable AAC apps.
+
+### AAC Communicator
+
+- URL: https://apps.apple.com/tw/app/aac-communicator/id6736945227?l=en-GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Communication app that converts speech into AAC pictograms and provides visual communication support for autistic and developmentally disabled users.
+
+### CommEase AAC
+
+- URL: https://apps.apple.com/nl/app/commease-aac/id6752897841?l=en-GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Offline visual AAC app with communication tiles, sentence building, text-to-speech, voice-to-text, customizable content, and a large symbol library.

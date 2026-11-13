@@ -618,3 +618,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-12
 - Description: Repository skill document covering STOP, urge surfing, cognitive reframing, emotional labeling, opposite action, physiological soothing, and personalized regulation toolkits.
+
+### AI-Assisted Digital Behavioral Screening and Mental Health Support Platform
+
+- URL: https://github.com/aaditya-29/AI-Assisted-Digital-Behavioral-Screening-Mental-Health-Support-Platform/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: A repository describing tracking for sensory sensitivity and emotional regulation, with sensory observations used to recommend activities and possible occupational-therapy referral.
