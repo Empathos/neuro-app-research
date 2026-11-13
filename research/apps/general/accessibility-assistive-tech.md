@@ -908,3 +908,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Google support resource listing products and features that can assist cognitive and learning accessibility needs.
+
+### Tiimo: ADHD AI Routine Planner
+
+- URL: https://apps.apple.com/ci/app/tiimo-adhd-ai-routine-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: App Store listing for a visual schedule and routine-planning app designed for ADHD, autism, and users who benefit from structured daily tasks.

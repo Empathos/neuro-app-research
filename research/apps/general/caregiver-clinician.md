@@ -878,3 +878,33 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Open-source adaptive neurodiversity companion using personalized tools and AI-supported insights for people with ADHD, autism, dyslexia, and related neurodivergent traits.
+
+### BRIDGES Engage
+
+- URL: https://play.google.com/store/apps/details?id=com.neuroai.bridges&hl=en
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Clinician- and neurodiversity-expert-curated Android app for parents and caregivers of children with autism, offering routines, activities, guidance, and professional-intervention reinforcement.
+
+### Autism Victory Caregiver App
+
+- URL: https://apps.apple.com/us/app/autism-victory-caregiver-app/id6769131894
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Caregiver-focused iOS app providing autism funding, respite, caregiver-pay, waiver, resource, and expert-guidance information.
+
+### Supporting Neurodivergent Pupils in Mainstream Schools
+
+- URL: https://ray.yorksj.ac.uk/id/eprint/13789/9/hamilton-cook-2026-supporting-neurodivergent-pupils-in-mainstream-schools-a-mixed-methods-survey-of-school-staff-in-the.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Public research-paper PDF reporting a mixed-methods survey of UK school staff about supporting neurodivergent pupils, useful for caregiver-clinician and education-support research.

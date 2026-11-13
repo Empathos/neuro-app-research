@@ -1178,3 +1178,43 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: A professional education app with structured autism-support training delivered through audio, video, presentations, and specialized learning modules.
+
+### Lingokids: Learning Activities for Neurodiverse Kids
+
+- URL: https://apps.apple.com/cl/story/id1755400227?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Childrens learning app with activities for ages 28 across reading, mathematics, engineering, mindfulness, communication, social skills, autism, dyslexia, and ADHD-related learning needs.
+
+### My Genius: Neurodiversity App
+
+- URL: https://apps.apple.com/au/app/my-genius-neurodiversity-app/id6756838712
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Autism and ADHD profiling app with downloadable resources for parents, caregivers, support workers, and educators.
+
+### IAC Digital Neurodiversity
+
+- URL: https://apps.apple.com/jp/app/iac-digital-neurodiversity/id6476548289?l=en-US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Education and training app offering audio, video, presentation, and learning modules for professionals supporting autistic people.
+
+### Lingokids: Games & Shows
+
+- URL: https://apps.apple.com/us/story/id1755400227
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-13
+- Description: Children's learning app for ages 28 with activities spanning reading, mathematics, engineering, mindfulness, communication, social skills, and attention, including content tailored to autism, ADHD, and dyslexia.[6]

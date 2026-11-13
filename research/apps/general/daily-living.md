@@ -858,3 +858,23 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Planner for ADHD, autism, and other neurodivergent users with task breakdown, time estimation, focus planning, text simplification, recipe help, and daily guidance.
+
+### NotAlone: Neurodiversity & AI
+
+- URL: https://apps.apple.com/in/app/notalone-neurodiversity-ai/id6752503007
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Parent-focused neurodiversity app with daily mood, sleep, activity, meltdown, and wellness tracking, plus pattern insights and guided resources.
+
+### The Neurodiversity Alliance
+
+- URL: https://apps.apple.com/be/app/the-neurodiversity-alliance/id6630763746
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-13
+- Description: Public app-store listing for a neurodiversity-focused support application.
