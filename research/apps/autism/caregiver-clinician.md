@@ -1068,3 +1068,23 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-12
 - Description: Open-source remote-care platform for ASD combining caregiver tools, clinician analytics, teleconsultation, therapy games, and AI-assisted screening.[6]
+
+### 5Minutes4Myself Caregiver Wellness App Study
+
+- URL: https://humanfactors.jmir.org/2024/1/e54171/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Study of a mindfulness app developed with caregivers of children with autism, including feasibility, usability, and caregiver-stress outcomes.
+
+### Autism Caregiver mHealth Intervention Stakeholder Study
+
+- URL: https://www.boa.unimib.it/retrieve/6bd10f89-a64d-4f55-b3c9-a29059a89de7/unpaywall-bitstream--1210526719.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Open research paper examining caregiver and clinician needs, attitudes, and expectations for a mobile caregiver-mediated intervention.

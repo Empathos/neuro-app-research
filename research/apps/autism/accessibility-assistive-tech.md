@@ -1168,3 +1168,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Collection of autism- and ADHD-friendly activities covering speech, occupational therapy, sensory regulation, motor skills, calming, and daily living.
+
+### AutiSense
+
+- URL: https://github.com/Partha-dev01/AutiSense
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Privacy-oriented browser platform using on-device computer vision to support understanding of repetitive motor movements and provide guided post-diagnosis activities.
+
+### Apple Accessibility Features for Education
+
+- URL: https://support.apple.com/en-ph/121825
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Official documentation covering accessibility features relevant to neurodivergent learners, including Assistive Access, Guided Access, read-aloud tools, and customizable reading experiences.
+
+### Technology to Support Autistic Children
+
+- URL: https://www.autismaustralia.org.au/navigating-autism/technology-to-support-autistic-children
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Overview of assistive technology for autistic children, including AAC, educational software, Proloquo2Go, and TouchChat HD.
+
+### Autism Awareness App Store Collection
+
+- URL: https://apps.apple.com/ca/story/id1279707387
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Apple App Store collection featuring autism-related tools such as Proloquo2Go, Proloquo4Text, Keeble, Pictello, Assistive Express, Voice Dream, and GoTalk WOW.

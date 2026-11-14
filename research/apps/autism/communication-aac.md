@@ -1328,3 +1328,33 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Childrens AAC communication tool with pictograms, natural voices, AI-assisted sentence creation, categories, and support for autistic and nonspeaking children.
+
+### SayItBuddy! AI-Powered AAC App
+
+- URL: https://apps.apple.com/us/app/sayitbuddy-ai-powered-aac/id6746968532
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Visual AAC app for non-speaking children and adults, with optional AI-generated phrase suggestions and support for autism, apraxia, aphasia, and other communication needs.
+
+### Flexspeak AAC
+
+- URL: https://apps.apple.com/us/app/flexspeak-aac/id6642667205
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Multilingual AAC app with customizable vocabulary, symbol and photo support, remote editing, group sharing, AI prediction, and translation features.
+
+### AAC Visuals Board for Autism
+
+- URL: https://apps.apple.com/br/app/aac-visuals-board-for-autism/id6451429642
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Visual AAC board designed for non-speaking users, autism communication, and aphasia.

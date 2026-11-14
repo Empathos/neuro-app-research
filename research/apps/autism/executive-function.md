@@ -1448,3 +1448,33 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Family-support app for organizing IEP information, school communications, evaluations, visual schedules, social stories, and progress toward independence.
+
+### Goblin Tools: Autism Pal To Do
+
+- URL: https://apps.apple.com/jp/app/goblin-tools-autism-pal-to-do/id1527180714?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Neurodivergent-focused productivity app with task decomposition, time estimation, visual time awareness, and tools intended to reduce overwhelm and decision paralysis for autistic and ADHD users.
+
+### Autism GitHub Topic
+
+- URL: https://github.com/topics/autism?l=typescript
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Public GitHub repository directory containing autism-related projects, including apps evaluated for usability, sensory impact, and cognitive load.
+
+### Leantime
+
+- URL: https://github.com/Leantime/leantime
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Open-source project-management software designed for neurodiverse users, including people with ADHD, autism, and dyslexia; it provides visual task views and simplified workflows.[9]
