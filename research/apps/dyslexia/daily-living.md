@@ -608,3 +608,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public neurodivergence information and support platform with dyslexia-focused guides addressing reading, spelling, written language, everyday experiences, and practical needs.[1]
+
+### Open-A11y Documentation
+
+- URL: https://github.com/aotr/open-a11y/blob/main/docs/README.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Documentation for an accessibility package offering dyslexia-font support, reading guides, reading masks, focus modes, contrast controls, screen-reader features, and persistent accessibility profiles.
+
+### Featherpress
+
+- URL: https://github.com/pelagicdeep/featherpress
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: A dyslexia-first publishing pipeline that converts manuscripts into accessible PDFs, EPUBs, audiobook-ready text, voiced audiobooks, and customizable HTML readers.

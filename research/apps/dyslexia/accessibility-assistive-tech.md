@@ -598,3 +598,33 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Reading and writing assistant with text-to-speech, word prediction, illustrations, and support for dyslexia, dysorthographia, and other learning difficulties.
+
+### Read&Write Gold
+
+- URL: https://access.duke.edu/resources/assistive-tech-tools/readwrite-gold/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Texthelp literacy software offering text-to-speech, screenshot reading, audio conversion, word prediction, translation, and writing support for dyslexia and learning difficulties.
+
+### Yale Dyslexia: Time & Tools
+
+- URL: https://dyslexia.yale.edu/resources/accommodations/time-and-tools/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Accessibility and accommodation examples including Livescribe Smartpen for note capture, Dragon NaturallySpeaking for dictation, and Read&Write Gold for reading and writing.
+
+### Yale Dyslexia: Word Processor
+
+- URL: https://www.dyslexia.yale.edu/resources/tools-technology/tech-tips/word-processor/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Assistive word-processing resource highlighting Co:Writer for spelling support and text-to-speech options for users with dyslexia, dysgraphia, or other learning disabilities.

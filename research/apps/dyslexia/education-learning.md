@@ -708,3 +708,73 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Public GitHub topic directory aggregating dyslexia-related repositories, including browser extensions, reading aids, revision apps, and text-simplification tools.
+
+### Helperbird
+
+- URL: https://apps.apple.com/tr/app/helperbird/id1589138053
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Accessibility app offering dyslexia support, immersive reading, reading mode, voice typing, and writing tools.
+
+### Easy Dyslexia Aid
+
+- URL: https://apps.apple.com/kr/app/easy-dyslexia-aid/id1088194043?l=en-GB&platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Literacy and spelling aid featuring OpenDyslexic font support, color overlays, and speech-to-text input.
+
+### University of Michigan Dyslexia Help: Software and Assistive Technology
+
+- URL: https://dyslexiahelp.umich.edu/TOOls/software-assistive-technology
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: University-curated directory of assistive technologies for dyslexia, including text-to-speech, spell checking, digital pens, literacy software, and reading tools.
+
+### Hikaya: Bilingual Dyslexia and Dyscalculia Learning App
+
+- URL: https://www.tandfonline.com/doi/full/10.1080/1034912X.2026.2743499
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Android learning application supporting Arabic and English literacy and mathematics, with child progress monitoring and reading-aloud evaluation.[2]
+
+### ABCDinos, Reader Pro, and Galexia
+
+- URL: http://www.scielo.org.co/scielo.php?script=sci_abstract&pid=S0121-11292026000100004&lng=en&nrm=iso%3AFEfecto&tlng=en
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Three mobile applications evaluated for dyslexia literacy support; the study highlights playful learning, personalization, and combined visual-auditory resources.[3]
+
+### ArivuPath
+
+- URL: https://link.springer.com/chapter/10.1007/978-981-96-6932-5_32
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Mobile application for children with dyslexia and related learning disorders, combining assessment, Tamil letter learning, mathematics, word recognition, and multisensory feedback.[5]
+
+### Auto Train Brain
+
+- URL: https://research.sabanciuniv.edu/id/eprint/43629/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Neurofeedback and multisensory-learning mobile app studied as an intervention for reading abilities, phonemic awareness, and nonword spelling in children with dyslexia.[6]

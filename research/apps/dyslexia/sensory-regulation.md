@@ -458,3 +458,23 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Public repository for a free dyslexia reading-intervention tool.
+
+### DyslexiSLASH
+
+- URL: https://github.com/AdrianaCeric/DyslexiSLASH
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: A gamified dyslexia-support app using letter-orientation and visual-motor activities intended to improve attention, letter identification, confidence, and engagement.
+
+### Neurodiverge App
+
+- URL: https://neurodiverge.app/?ref=resource.fyi
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Public neurodivergent self-screening and support tool covering dyslexia, sensory processing, autism, ADHD, dyspraxia, tics, and sensory-channel profiles.
