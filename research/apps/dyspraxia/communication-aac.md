@@ -1358,3 +1358,13 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Speech-practice app listed by the University of Montana's MonTECH program for articulation work involving dyspraxia, autism, childhood apraxia, stroke rehabilitation, and related speech disorders.[7]
+
+### Dynamic Augmentative and Alternative Communication
+
+- URL: https://github.com/AI-AAC/Dynamic-Augmentative-and-Alternative-Communication
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Research-oriented AAC repository exploring AI and machine learning to generate context-aware communication boards and symbol-supported stories.
