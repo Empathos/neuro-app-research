@@ -1018,3 +1018,43 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Recent review of mobile apps, VR, smartwatches, and other assistive technologies supporting self-regulation, daily activities, independence, and quality of life among neurodivergent people.[4]
+
+### USC InspireLab Assessments
+
+- URL: https://chan.usc.edu/inspirelab/assessments
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Official pediatric clinical and research assessment resource featuring caregiver-report measures such as the Sensory Experiences Questionnaire, First Year(s) Inventory, and Sensory Processing Assessment for Young Children.[7]
+
+### Sensory Integration Intervention Research Model
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3708964/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Pilot research model involving caregiver-completed Sensory Processing Measure assessments, clinician evaluation, and collaboratively developed goals using Goal Attainment Scaling.[6]
+
+### SensoryTreat Home-Program Adherence App Case Study
+
+- URL: https://cris.haifa.ac.il/en/publications/using-home-program-adherence-app-in-pediatric-therapy-case-study-/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Research lead on a caregiver-facing pediatric therapy app involving home-program adherence, goal setting, feedback logs, and parental competence.
+
+### EaseSense
+
+- URL: https://dl.acm.org/doi/10.1145/3785651.3831550
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Wearable interactive system research supporting shared understanding between children with sensory processing disorder and caregivers through sensory-state cues, environmental sensing, records, and response suggestions.
