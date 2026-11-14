@@ -1048,3 +1048,23 @@
 - Query: executive-function communication-aac neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Voice- and text-capture app that turns thoughts into tasks, reminders, appointments, notes, and next actions; aimed in part at users with ADHD and executive-function challenges.[5]
+
+### Dopamind: Everyday AI Partner
+
+- URL: https://apps.apple.com/at/app/dopamind-everyday-ai-partner/id6747915249?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: AI assistant app positioned as executive-function support for neurodivergent users, helping with planning and everyday task management.
+
+### ADHD Daily Planner
+
+- URL: https://github.com/FridrichMethod/awesome-skills/blob/main/skills/adhd-daily-planner/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Planning skill designed for ADHD brains, emphasizing time-blind-friendly estimates, dopamine-aware task design, and practical executive-function scaffolding.

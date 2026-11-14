@@ -786,3 +786,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Public worksheet and printable library covering executive-function challenges, routines, sensory differences, and emotional-regulation needs.
+
+### Free ADHD, Anxiety & Executive Function Tools
+
+- URL: https://mountainfamilytherapy.org/therapy-app/individuals
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Public web-based collection of tools for task paralysis, focus, planning, nervous-system regulation, breathing, grounding, and sensory-grounding exercises.

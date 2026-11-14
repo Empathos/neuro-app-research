@@ -998,3 +998,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: MIT-licensed executive-function support skill that breaks overwhelming tasks into manageable steps using ADHD- and autism-aware strategies.
+
+### P31 EDE  Open-Source Assistive Technology for Neurodivergent Individuals
+
+- URL: https://github.com/p31labs/p31ca
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Public repository for an assistive-technology development environment combining cognitive interface tools, hardware, firmware, and AI networking.
+
+### Examples of Useful Assistive Technology
+
+- URL: https://neurodivergencewales.org/wp-content/uploads/2026/03/Example-Assistive-Technology.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Public guide covering assistive technologies for memory, organization, focus, time management, task prioritization, transcription, note-taking, planning, text-to-speech, and sensory support.
+
+### Serio NGO
+
+- URL: https://github.com/serio-ngo
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Public organization profile for a nonprofit building free technology for neurodivergent people.

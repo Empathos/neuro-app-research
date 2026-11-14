@@ -688,3 +688,13 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Browser-based AI focus-board skill with task status tracking, brain-dump capture, focus mode, reduced motion, gentle deadline countdowns, and non-shaming task carryover.
+
+### Facio: Neurodivergent Co-Pilot
+
+- URL: https://apps.apple.com/tr/app/facio-neurodivergent-co-pilot/id6761283904
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Neurodivergent productivity app using voice capture to support planning, prioritization, organization, task initiation, and emotional regulation.

@@ -528,3 +528,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public repository collection including Burgle!, a journaling app intended to help neurodivergent users create routines and plan tasks.
+
+### Daily Focus Board
+
+- URL: https://github.com/github/awesome-copilot/blob/main/skills/daily-focus-board/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: An AI-driven browser focus board with brain dump, task states, progress tracking, gentle deadline countdowns, reduced motion, focus mode, and non-shaming task carryover designed for executive-function and neurodivergent-friendly use.[6]
