@@ -778,3 +778,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Planner designed to support executive-function needs such as planning, prioritising, task initiation, and follow-through; explicitly includes neurodivergent users with dyslexia, ADHD, autism, dyspraxia, and other specific learning difficulties.
+
+### IREAD: Individualized Reading Enhancing Application for Dyslexia
+
+- URL: https://iopscience.iop.org/article/10.1088/1757-899X/803/1/012015/pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Mobile assistive application for dyslexic learners that primarily uses text-to-speech technology to support reading; the reported usability evaluation was positive.
+
+### Technology-Based Interventions in Dyslexia: A Review
+
+- URL: https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0103-84862025000300570&lng=t&nrm=iso&tlng=en
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Review of technology interventions, including the Leady mobile app, multisensory literacy activities, and speech-to-text tools for writing difficulties.

@@ -718,3 +718,13 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Apple accessibility collection listing dyslexia-oriented reading tools and AAC options including Proloquo4Text.
+
+### Keeble Assistive Keyboard
+
+- URL: https://keeblekeyboard.com/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Assistive keyboard lead for dyslexia and other learning or motor impairments, offering customizable layouts, word prediction, text-to-speech feedback, and key-size or spacing adjustments.

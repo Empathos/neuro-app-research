@@ -958,3 +958,13 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Research review mapping global literature on parents and caregivers in dyslexia studies, useful for identifying research themes and source networks.
+
+### Ayoa Dyslexia Support Tools
+
+- URL: https://www.ayoa.com/dyslexia/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Mind-mapping and planning tool with customizable neurodiversity-oriented settings and AI-generated content options for dyslexia, ADHD, and autism.
