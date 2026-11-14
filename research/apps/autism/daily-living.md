@@ -948,3 +948,33 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Visual scheduling and First/Then board app with custom images, voice instructions, progress tracking, offline use, and multi-device synchronization.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/sg/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Uses social narratives, picture schedules, visual timers, token boards, and first/then charts to support children learning social and daily-living skills.
+
+### Tiimo - Visual Daily Planner
+
+- URL: https://apps.apple.com/vc/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Visual daily-planning app for diverse cognitive profiles, including ADHD and autism, with executive-function support and research-backed planning features.
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/uz/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: App for neurodivergent children using social narratives, picture schedules, visual timers, token boards, and first-then charts to support daily-living independence.
