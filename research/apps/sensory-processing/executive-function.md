@@ -918,3 +918,43 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Visual planning and executive-function app with AI-assisted task planning, color-coded schedules, prioritization, focus timers, and calendar/reminder synchronization.
+
+### BeatBop: Interactive Metronome
+
+- URL: https://apps.apple.com/gh/app/beatbop-interactive-metronome/id6753838813
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: iPad app for rhythm-based focus, coordination, attention, self-regulation, and sensory-processing practice, designed for neurodivergent children and teens.
+
+### Neurodiversity Apps Directory
+
+- URL: https://neurodiversity.directory/listing-category/neurodiversity-apps/?cred%5B0%5D=neuro_affirming
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Public directory of neurodiversity-focused apps, including executive-function assistants and sensory-regulation tools such as grounding, sound, haptic, and trigger-tracking apps.
+
+### ADHD Daily Planner Skill
+
+- URL: https://github.com/curiositech/some_claude_skills/blob/main/.claude/skills/adhd-daily-planner/SKILL.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Open repository skill for time-blind-friendly planning, realistic time estimation, daily structure, and executive-function support for ADHD and neurodivergent users.
+
+### Multiverse Student Handbook Research Sources
+
+- URL: https://github.com/lizTheDeveloper/multiverse_student_handbook/blob/main/part7/research-sources.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Public GitHub research-source collection that may provide additional leads for neurodivergence, accessibility, and student-support research.

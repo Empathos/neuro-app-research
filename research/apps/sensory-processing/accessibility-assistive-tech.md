@@ -768,3 +768,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Research lab repository profile covering digital health, physiological sensing, biofeedback, and assistive technologies.
+
+### Web Content Accessibility Guidelines 2.2
+
+- URL: https://w3c.github.io/wcag/guidelines/22/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: W3C accessibility guidance covering text alternatives, sensory characteristics, screen readers, text-to-speech, alternative keyboards, and other assistive technologies.
+
+### AccessProfile+
+
+- URL: https://apps.apple.com/zm/app/accessprofile/id6759070818
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Accessibility-profile app that lets users document sensory-processing, communication, cognitive, mobility, hearing, vision, and emotional-support needs, then share them through a QR code.
