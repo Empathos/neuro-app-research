@@ -688,3 +688,13 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Open-source web app for writing and organizing mathematics and geometry work visually, with dyspraxia listed among its intended users.
+
+### Thruday for Parents and Carers
+
+- URL: https://www.stockport.gov.uk/directories/entry/send/parents-carer-send/thruday
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Public service directory listing describing Thruday as a free visual planner for autistic and neurodivergent people, with routines and task planning intended to build daily-life independence.[5]

@@ -918,3 +918,23 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Evidence-oriented review record identifying and rating mobile applications for rehabilitation of orofacial dyspraxias, with relevance to patient and healthcare-professional research.
+
+### Dyspraxia at Work Toolkit
+
+- URL: https://www.theiet.org/neurodiversity-in-engineering-and-technology/understanding-neurodivergence-at-work-toolkit/dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Public workplace guidance recommending organisational aids and neurodivergent-designed apps such as Tiimo and Thruday, alongside reminder systems.
+
+### Dyspraxia Foundation: Practical Tips for Everyday Life
+
+- URL: https://dyspraxiafoundation.co.uk/young-people/practical-tips-for-everyday-life
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Official dyspraxia support resource that highlights visual planning tools such as Tiimo and Thruday for organisation and daily routines.

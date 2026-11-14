@@ -868,3 +868,23 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: ADHD-focused support app covering executive-function skills that may also apply to autism, dyslexia, dyspraxia, and related needs.
+
+### Facio: Neurodivergent Co-Pilot
+
+- URL: https://apps.apple.com/tr/app/facio-neurodivergent-co-pilot/id6761283904
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: iOS productivity app using voice capture and automation to support executive-function challenges for neurodivergent users.
+
+### Dopamind: Everyday AI Partner
+
+- URL: https://apps.apple.com/at/app/dopamind-everyday-ai-partner/id6747915249?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: AI-based app positioned as an executive-function partner for neurodivergent users, intended to help offload planning and daily organization.
