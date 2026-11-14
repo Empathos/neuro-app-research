@@ -818,3 +818,43 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Web-based support tool with visible countdowns, selectable work intervals, task naming, and if-stuck planning to make task initiation and switching easier.
+
+### ExEF  ADHD & Executive Function Coaching
+
+- URL: https://github.com/jacobpopcantstop/ExEF
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Open-source program and website project for executive-function coaching and connecting users with support across executive-function domains.
+
+### Executive
+
+- URL: https://github.com/ncr5012/executive
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-14
+- Description: Public GitHub repository for a real-time dashboard that coordinates multiple AI coding sessions; potentially relevant as a tool lead for externalizing planning and task control.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/ne/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Visual planning app offering routines, reminders, AI-assisted planning, task prioritization, focus timing, and calendar integration.
+
+### Vanta Executive-Function Skills
+
+- URL: https://github.com/jpoindexter/Vanta/tree/main/executive-function-skills
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-14
+- Description: Repository of reusable executive-function concepts covering task decomposition, working-memory externalization, task initiation, time support, and low-capacity workflows.
