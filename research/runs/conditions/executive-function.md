@@ -1,9 +1,9 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-11-14T14:15:58.228995+00:00
-- New findings: 12
-- Rejected dead links: 2
+- UTC timestamp: 2026-11-15T15:05:45.368662+00:00
+- New findings: 17
+- Rejected dead links: 3
 
 ## Support Categories
 
@@ -14,36 +14,36 @@
 
 ### executive-function
 
-- `executive-function executive-function neurodivergent app research pass 501`: 2 new finding(s), 0 rejected dead link(s)
-- `executive-function executive-function neurodivergent app research pass 502`: 2 new finding(s), 0 rejected dead link(s)
+- `executive-function executive-function neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function executive-function neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `executive-function sensory-regulation neurodivergent app research pass 501`: 1 new finding(s), 1 rejected dead link(s)
+- `executive-function sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
 - `executive-function sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
-- `executive-function education-learning neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `executive-function education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function education-learning neurodivergent app research pass 501`: 4 new finding(s), 0 rejected dead link(s)
+- `executive-function education-learning neurodivergent app research pass 502`: 2 new finding(s), 1 rejected dead link(s)
 
 ### emotional-regulation
 
-- `executive-function emotional-regulation neurodivergent app research pass 501`: 1 new finding(s), 0 rejected dead link(s)
-- `executive-function emotional-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function emotional-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function emotional-regulation neurodivergent app research pass 502`: 2 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
 - `executive-function daily-living neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `executive-function daily-living neurodivergent app research pass 502`: 1 new finding(s), 0 rejected dead link(s)
+- `executive-function daily-living neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
 
-- `executive-function caregiver-clinician neurodivergent app research pass 501`: 0 new finding(s), 1 rejected dead link(s)
-- `executive-function caregiver-clinician neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function caregiver-clinician neurodivergent app research pass 501`: 2 new finding(s), 0 rejected dead link(s)
+- `executive-function caregiver-clinician neurodivergent app research pass 502`: 2 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `executive-function accessibility-assistive-tech neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `executive-function accessibility-assistive-tech neurodivergent app research pass 502`: 3 new finding(s), 0 rejected dead link(s)
+- `executive-function accessibility-assistive-tech neurodivergent app research pass 501`: 2 new finding(s), 1 rejected dead link(s)
+- `executive-function accessibility-assistive-tech neurodivergent app research pass 502`: 1 new finding(s), 1 rejected dead link(s)
 

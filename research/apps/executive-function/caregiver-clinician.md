@@ -624,3 +624,43 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Open-access research covering computer-based executive-function interventions for autistic children, including coached training, Braingame Brian, and Project EVO.
+
+### NDDisclosure_ASSETS2025
+
+- URL: https://github.com/kaianew/NDDisclosure_ASSETS2025
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public research repository for a mixed-methods study on neurodivergence disclosure in software workplaces, including study-related assets and findings concerning social support.
+
+### TrueConvos: ADHD & Autism Chat
+
+- URL: https://apps.apple.com/eg/app/trueconvos-adhd-autism-chat/id1545810479
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Peer-support app connecting people navigating ADHD, autism, AuDHD, executive-function challenges, sensory overwhelm, burnout, and related experiences; it is not presented as therapy.
+
+### Thruday
+
+- URL: https://apps.apple.com/us/app/thruday/id1645552771?platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Visual daily planning and routine support for ADHD, autism, and related executive-function challenges, with collaborative features for family members and carers.
+
+### Choiceworks
+
+- URL: https://bridgingapps.org/expansion-pilot-update-from-easterseals-port-health/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Visual-schedule and emotional-regulation app for preschoolers and older users with autism, ADHD, or other conditions affecting executive-function skills; relevant to caregiver-supported routines.

@@ -1028,3 +1028,33 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Public organization profile for a nonprofit building free technology for neurodivergent people.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/de/app/tiimo-daily-to-do-list/id1480220328?l=en-GB&platform=mac
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Visual planner and executive-function support app for ADHD and autism, offering color-coded schedules, AI task prioritization, focus timers, larger text, dark interface, and voice control.
+
+### Tiimo: AI Planner & To-do App
+
+- URL: https://apps.apple.com/jo/app/tiimo-ai-planner-to-do/id1480220328?platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Planning assistant with AI task creation and prioritization, visual scheduling, and a calming focus timer designed to support executive function.
+
+### HapticPulse
+
+- URL: https://github.com/Dustb0/HapticPulse
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Assistive deep-work project using haptic feedback from a game controller as a tactile anchor for neurodivergent focus sessions.[4]

@@ -998,3 +998,63 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: An educational resource recommending clear instructions, task breakdowns, checkpoints, feedback, movement breaks, quiet zones, and other supports for neurodivergent learners.
+
+### ArziFlow App
+
+- URL: https://apps.apple.com/gb/app/arziflow/id6755366386
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: ADHD-focused planning and executive-function support app featuring psychoeducational content, executive-function metrics, focus timers, research-informed soundscapes, and specialized coaching tools.
+
+### How can AI tools help neurodivergent learners?
+
+- URL: https://www.teachingenglish.org.uk/professional-development/teachers/using-digital-technologies/how-can-ai-tools-help-neurodivergent
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: British Council guidance describing digital supports for neurodivergent learners, including structured prompts, visual checklists, notes, reminders, and timer tools.
+
+### Categorizing Interactive Digital Learning Environments
+
+- URL: https://ojs.library.queensu.ca/index.php/PCEEA/article/download/19579/12786
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Research-oriented resource discussing executive-function tools such as Goblin Tools, Tiimo, and StayOnTask for breaking down coursework, managing deadlines, and building structured routines.
+
+### Neuro Navigation in Education
+
+- URL: https://www.neuronavigation.org/post/enhancing-education-with-neuro-navigation
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Educational resource describing visual planners, timers, checklists, reminders, and text-to-speech as supports for organization, task management, reading, and executive functioning.
+
+### Shimmer: ADHD Coaching
+
+- URL: https://play.google.com/store/apps/details?id=org.name.shimmerapp&hl=en_CA
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Provides bite-sized ADHD psychoeducation, executive-function skills, routines, guidance, and accountability for users with ADHD or related executive-function challenges.
+
+### Equal Edge
+
+- URL: https://apps.apple.com/us/app/equal-edge/id6759566524
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Visual planning and executive-function assistant for neurodivergent college students; supports assignment breakdown, prioritization, scheduling, task initiation, and academic organization.
