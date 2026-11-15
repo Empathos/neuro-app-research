@@ -1208,3 +1208,23 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Apple App Store collection featuring autism-related tools such as Proloquo2Go, Proloquo4Text, Keeble, Pictello, Assistive Express, Voice Dream, and GoTalk WOW.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?platform=mac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Text-to-speech AAC app for autistic and nonspeaking users, offering customizable communication, extensive picture vocabulary, and multiple voices.
+
+### GadAAC
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Picture-based AAC app for nonspeaking and autistic users with visual schedules, First/Then sequences, custom photo tiles, screen-reader labels, large touch targets, and high-contrast and dark modes.

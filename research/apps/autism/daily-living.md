@@ -978,3 +978,23 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: App for neurodivergent children using social narratives, picture schedules, visual timers, token boards, and first-then charts to support daily-living independence.
+
+### ASCV Executive Functioning Fact Sheet
+
+- URL: https://ascv.org/wp-content/uploads/2025/08/ASCV-About-Executive-Functioning-Fact-Sheet-2025.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public resource listing daily-living and executive-function tools including Tiimo, Habitica, Finch, Sweepy, and Goblin Tools.[5]
+
+### Autistica Tips Hub
+
+- URL: https://www.kmhealthandcare.uk/everyday-life/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Publicly described app and resource hub created with and for the autistic community, offering practical everyday-life tips and high-quality support resources.[9]

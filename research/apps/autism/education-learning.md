@@ -1428,3 +1428,43 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: A companion for autistic and neurodivergent adults navigating college and workplaces, including guidance for social and educational situations.
+
+### Autism Learning Flashcards
+
+- URL: https://apps.apple.com/us/app/autism-learning-flashcards/id6759466656
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: iOS learning app for toddlers and preschoolers featuring flashcards, sounds, vocabulary, numbers, letters, animals, food, vehicles, and body parts.
+
+### A+ Autism
+
+- URL: https://apps.apple.com/us/app/a-autism/id6741469887
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Family-focused iPad education app teaching word association and identification of objects, animals, and corresponding sounds.
+
+### Autism Apps
+
+- URL: https://apps.apple.com/ca/app/autism-apps/id441600681
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Searchable directory of apps used by autistic people and people with other special needs, organized into more than 30 categories.
+
+### Autism ABC App
+
+- URL: https://apps.apple.com/se/app/autism-abc-app/id1440737015
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: App for educators and parents supporting autistic children, with playful, cognitive, and motor-skill activities.[7]

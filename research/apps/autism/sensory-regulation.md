@@ -1168,3 +1168,43 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: An Android sensory-play app featuring virtual fidgets, pop-it interactions, sorting activities, stretching, tapping, and other calming exercises.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/rs/app/unmasked-adult-autism-adhd/id6764218809?platform=watch
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Adult self-discovery and support app featuring an eight-category sensory profile, regulation strategies, social scripts, masking and energy check-ins, and trend tracking.
+
+### IBCCES Accessibility App
+
+- URL: https://apps.apple.com/de/app/ibcces-accessibility-app/id6475414252
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Accessibility-planning app that includes autism and sensory information for travel, entertainment, and participating venues.
+
+### Autism Sensory Games & Toys
+
+- URL: https://apps.apple.com/jp/app/autism-sensory-games-toys/id1561581241?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: iPad app offering sensory games and calming activities intended to support relaxation and daily self-regulation.
+
+### Aetherium
+
+- URL: https://github.com/voidwave-lab/Aetherium/blob/main/TRANSPARENCY.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public open-source project described as a neurodivergent sensory-regulation and receptive music-therapy environment.
