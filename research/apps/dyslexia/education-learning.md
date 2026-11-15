@@ -778,3 +778,13 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Neurofeedback and multisensory-learning mobile app studied as an intervention for reading abilities, phonemic awareness, and nonword spelling in children with dyslexia.[6]
+
+### Poppins Learning: Dyslexia
+
+- URL: https://apps.apple.com/us/app/poppins-learning-dyslexia/id6480063759
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Reading and phonics app for children ages 711, including learners with dyslexia; uses short games targeting phonological awareness, phonics, and decoding.

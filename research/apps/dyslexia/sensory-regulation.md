@@ -478,3 +478,13 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Public neurodivergent self-screening and support tool covering dyslexia, sensory processing, autism, ADHD, dyspraxia, tics, and sensory-channel profiles.
+
+### ColorTint
+
+- URL: https://github.com/MattByName/color-tint
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: GNOME desktop extension providing a translucent colored overlay intended to support dyslexia, visual stress, scopic sensitivity, and related visual-processing needs.

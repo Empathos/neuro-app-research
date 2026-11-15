@@ -628,3 +628,13 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Assistive word-processing resource highlighting Co:Writer for spelling support and text-to-speech options for users with dyslexia, dysgraphia, or other learning disabilities.
+
+### Accessibility Widget
+
+- URL: https://github.com/swethatheresa/Accessibility-Widget
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Open-source web accessibility component offering controls such as font size, letter spacing, dyslexic font, cursor size, link and heading highlighting, line height, and contrast.
