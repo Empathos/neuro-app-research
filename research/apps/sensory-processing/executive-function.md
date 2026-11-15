@@ -958,3 +958,33 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Public GitHub research-source collection that may provide additional leads for neurodivergence, accessibility, and student-support research.
+
+### Tiimo: Time Perception and Neurodivergence
+
+- URL: https://www.tiimoapp.com/resource-hub/time-perception-neurodivergence
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Official Tiimo resource explaining time perception and its relationship to executive function and neurodivergence.
+
+### Equal Edge
+
+- URL: https://apps.apple.com/us/app/equal-edge/id6759566524
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Visual planning and executive-function assistant for neurodivergent college students, supporting task breakdown, prioritization, scheduling, and task initiation.
+
+### SensoryGift App Suite
+
+- URL: https://www.prlog.org/13167450-sensorygift-launches-privacy-first-app-suite-for-neurodivergent-daily-support.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Privacy-focused suite comprising ViziCues for visual schedules and transitions, SensyCues for organizing and tracking sensory supports, and Reset for overload, shutdown, or difficulty continuing a plan.

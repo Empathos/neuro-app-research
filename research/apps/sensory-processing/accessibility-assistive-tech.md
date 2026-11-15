@@ -788,3 +788,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Accessibility-profile app that lets users document sensory-processing, communication, cognitive, mobility, hearing, vision, and emotional-support needs, then share them through a QR code.
+
+### SensoryGift
+
+- URL: https://www.sensorygift.com/about-us/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Provides practical neurodivergent-support resources, including visual supports, printables, interactive tools, and apps for sensory needs, routines, transitions, and difficult moments.

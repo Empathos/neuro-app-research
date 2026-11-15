@@ -699,12 +699,22 @@
 - Found: 2026-11-14
 - Description: Free iOS and Android app offering sensory-friendly community locations, personalized sensory and communication profiles, coping strategies, accessibility guides, social narratives, and visual schedules.[1]
 
-### Get Unstuck
+### Sensory Budget
 
-- URL: https://apps.apple.com/us/app/get-unstuck/id6751072710
+- URL: https://apps.apple.com/es/app/sensory-budget/id6813163966?l=en-GB
 - Source: perplexity-sonar
 - Condition: sensory-processing
 - Support category: daily-living
 - Query: sensory-processing daily-living neurodivergent app research pass 501
-- Found: 2026-11-14
-- Description: iOS app for neurodivergent users that breaks overwhelming tasks into manageable steps, identifies blockers, tracks progress gently, and provides sensory-friendly visual themes.[7]
+- Found: 2026-11-15
+- Description: App for ADHD, autistic, and sensory-sensitive users that estimates daily energy costs from noise, crowds, commuting, task switching, social time, and other demands.
+
+### NEURORGANIZED Task Management Platform
+
+- URL: https://www.kxan.com/business/press-releases/ein-presswire/916843644/neurorganized-launches-free-task-management-platform-designed-to-reduce-overwhelm-and-support-executive-functioning
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Task-management platform focused on reducing overwhelm and supporting executive functioning, with routine builders, home-management systems, habit trackers, and planning resources.[6]

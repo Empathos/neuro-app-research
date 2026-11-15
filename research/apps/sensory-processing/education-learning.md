@@ -1078,3 +1078,23 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Study of sensory differences and environmental supports for neurodivergent university staff and postgraduate students.
+
+### Sensory Overload
+
+- URL: https://sensoryoverload.info/frequently-asked-questions/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public learning platform offering education, articles, courses, and practical resources covering sensory processing and neurodivergent life.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/us/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Structured phonics and sight-word app for autistic and ADHD learners, emphasizing one-task-at-a-time lessons, predictable routines, minimal sensory input, offline use, and no distracting animations or sounds.[7]

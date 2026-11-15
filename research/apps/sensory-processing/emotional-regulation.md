@@ -628,3 +628,23 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: A repository describing tracking for sensory sensitivity and emotional regulation, with sensory observations used to recommend activities and possible occupational-therapy referral.
+
+### SocialBlossom: Autism & ADHD
+
+- URL: https://apps.apple.com/br/app/socialblossom-autism-adhd/id6751892255
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Child-focused app using games and stories to support emotion recognition, self-management, body awareness, calming strategies, social skills, and sensory breaks for children with autism, ADHD, or sensory differences.
+
+### Aetherium
+
+- URL: https://github.com/voidwave-lab/Aetherium/blob/main/TRANSPARENCY.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public GitHub project described as an open-source sanctuary for deep listening, neurodivergent sensory regulation, and receptive music therapy.

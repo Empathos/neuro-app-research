@@ -708,3 +708,33 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: A practical digital resource bundle covering sensory preferences, triggers, soothing strategies, stimulus regulation, emotional regulation, and self-advocacy.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Apple app for calming and regulation with a sensory dial, reduced-stimulation mode, breathing guidance, haptics, visual schedules, and parent controls.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/cl/app/shift-regulate-reset/id6759524862?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Regulation app designed for ADHD, autistic, and other neurodivergent users, with modes for sensory overload, shutdown, spiraling, anger, and task initiation.
+
+### MonkeyThrive Regulation Guide
+
+- URL: https://github.com/Is0cre/MonkeyThrive/blob/main/regulate.md
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public repository document containing sensory-grounding and regulation techniques, including a text-guided 5-4-3-2-1 exercise.

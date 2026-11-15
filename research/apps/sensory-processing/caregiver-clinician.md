@@ -1058,3 +1058,53 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Wearable interactive system research supporting shared understanding between children with sensory processing disorder and caregivers through sensory-state cues, environmental sensing, records, and response suggestions.
+
+### An AI Gen and LLM-Based Platform for Pedagogical Support and Sensory Accommodations for Neurodivergent Students
+
+- URL: https://sol.sbc.org.br/index.php/sbsi/article/cite/34339/EndNoteCitationPlugin
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Research lead for an AI platform intended to support teachers, families, and therapists with personalized pedagogical activities and sensory accommodations for neurodivergent students.[3]
+
+### Towards a Digital Twin Framework for Sensory-Aware Neurodivergent Route Personalisation
+
+- URL: https://repository.essex.ac.uk/43773/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research repository lead for NavTwin, a framework combining personal and environmental digital twins to model sensory profiles and predict crowd density, noise, and visual complexity for neurodivergent route planning.[1]
+
+### A Systematic Review of the Sensory Processing Experiences of People with ADHD
+
+- URL: https://ray.yorksj.ac.uk/id/eprint/15562/9/1-s2.0-S3050579826000483-main.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Systematic-review PDF covering sensory-processing differences in ADHD and explicitly considering parent, carer, family, educator, researcher, and clinician reports.[7]
+
+### Sensory Processing and Behavioral Outcomes in Developmental Populations
+
+- URL: http://www.link.springer.com/subjects/sensory-processing-and-behavioral-outcomes-in-developmental-populations
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research topic page aggregating work on sensory over-responsivity across neurodevelopmental populations, including caregiver-related adversity and visual-processing questionnaires for neurodivergent adults.[4]
+
+### Designing Neurodiversity-Affirming and Trauma-Informed Clinical Spaces
+
+- URL: https://research-repository.uwa.edu.au/en/publications/designing-neurodiversity-affirming-and-trauma-informed-clinical-s/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Clinical-design research lead addressing sensory processing differences and practical environmental adaptations across visual, auditory, olfactory, tactile, proprioceptive, thermal, and gustatory domains.[2]
