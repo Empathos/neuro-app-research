@@ -1179,3 +1179,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public GitHub repository for an AI communication coach aimed at autistic and neurodivergent users, combining transcription, emotion analysis, and locally generated coaching.
+
+### Inflow
+
+- URL: https://github.com/getinflow
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: ADHD management app described as science-based and developed with ADHD clinicians and psychologists.
+
+### Skelly Jelly
+
+- URL: https://github.com/chreez/skelly-jelly
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Neurodiversity-affirming ADHD focus companion providing ambient, non-disruptive support during focus states.

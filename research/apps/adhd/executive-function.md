@@ -1238,3 +1238,43 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Planner and habit-tracking app with task breakdown, brain dumps, reminders, focus sessions, and Pomodoro-style timing.
+
+### ADHD Daily Planner
+
+- URL: https://apps.apple.com/us/app/adhd-daily-planner/id6778308359
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Daily planning app focused on reducing overwhelm, clearing mental clutter, selecting priorities, building routines, and starting tasks one at a time.
+
+### Timentor: ADHD Planner
+
+- URL: https://apps.apple.com/us/app/timentor-adhd-planner/id6801571742
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Voice-first planner that converts spoken thoughts into tasks, breaks overwhelming work into smaller steps, and presents one actionable item at a time.
+
+### ADHD Calendar: Fast & Fun
+
+- URL: https://apps.apple.com/us/app/adhd-calendar-fast-fun/id6792322212
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Visual planner with task-linked focus blocks, routines, reminders, energy check-ins, and a simplified Today timeline intended for executive-function-friendly scheduling.
+
+### Cadencia: ADHD Planner
+
+- URL: https://apps.apple.com/us/app/cadencia-adhd-planner/id6760507102
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Visual schedule and task manager featuring time-block planning, rapid task capture, a visual daily timeline, and a low-distraction interface for ADHD and neurodivergent users.

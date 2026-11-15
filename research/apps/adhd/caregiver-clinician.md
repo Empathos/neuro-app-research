@@ -928,3 +928,63 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Public capstone repository item examining neurodiversity-affirming care for clinicians working with ADHD clients, including support networks and neurodivergent-led communities.
+
+### Trayt
+
+- URL: https://apps.apple.com/us/app/trayt/id1235887472
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Care-tracking app for individuals, parents, and caregivers managing ADHD and other brain-based conditions; records symptoms, behaviors, treatments, and progress in a format intended for clinician collaboration.
+
+### Care ADHD Patient
+
+- URL: https://apps.apple.com/gb/app/care-adhd-patient/id6480379348
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: ADHD patient app that includes one-to-one messaging with an assigned ADHD coach where available, making it a potential lead for patientsupport-provider communication research.
+
+### CareHaven
+
+- URL: https://chadd.org/professional-profile/?member_id=221170
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Privacy-focused iPhone care-coordination app for ADHD, autism, and other complex needs, covering medications, appointments, symptom logs, school and therapy notes, and shared caregiver access.
+
+### REMEMO: ADHD Child-Caregiver Communication App Research
+
+- URL: https://repositum.tuwien.at/handle/20.500.12708/219568
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research project describing a mobile app designed with ADHD children and caregivers, supporting shared emotional records, reflection, communication, and therapeutic practices.
+
+### Cleo Caregiving Platform
+
+- URL: https://hicleo.com/why-cleo/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Family caregiving platform covering specialized caregiving journeys including neurodivergence, with support intended for caregivers and care recipients.
+
+### AHRQ Digital Healthcare Research: Mobile Apps
+
+- URL: https://digital.ahrq.gov/technology/mobile-app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public research resource covering digital assessments and interventions for children and adolescents with ADHD.

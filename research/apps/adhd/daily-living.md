@@ -1228,3 +1228,23 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Open-source planning skill for ADHD brains emphasizing realistic time estimation, time-blindness support, dopamine-aware task design, and daily structure.
+
+### Kairoscope: Day Planner
+
+- URL: https://apps.apple.com/us/app/kairoscope-day-planner/id6789844534
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Visual day-planning app for neurodivergent users featuring time visualization, routines, mood and energy tracking, and stepwise task guidance.
+
+### RightNow Focus: ADHD Planner
+
+- URL: https://apps.apple.com/us/app/rightnow-focus-adhd-planner/id6749246705
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Time-based focus tool that offers a single task card based on available time windows such as 5, 15, 30, or 60 minutes.

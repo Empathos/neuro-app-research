@@ -1438,3 +1438,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public GitHub resource page collecting ADHD-related material focused on emotional regulation.[2]
+
+### Bonding Health: ADHD Reset
+
+- URL: https://apps.apple.com/us/app/bonding-health-adhd-reset/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: App Store listing for rapid ADHD regulation support, including brief guided resets for emotional spirals, task paralysis, overstimulation, frustration, and burnout.
+
+### ADHDAlly
+
+- URL: https://play.google.com/store/apps/details?id=com.adhdally.app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public Android app lead focused on ADHD-oriented support and tools.

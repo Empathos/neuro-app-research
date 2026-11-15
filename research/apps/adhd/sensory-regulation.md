@@ -1018,3 +1018,93 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Private ADHD focus timer for neurodivergent users with brown noise, binaural audio, rain, lo-fi, white noise, forest sounds, and lock-screen widgets.
+
+### Endel: Sonic Support for ADHD
+
+- URL: https://endel.io/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Adaptive soundscapes and sonic self-care tools designed to support attention, reduce distraction, and ease overstimulation.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/by/app/stim-adhd-sensory-calm/id6758910859?see-all=customers-also-bought-apps&platform=iphone
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: App Store listing for an ADHD-focused sensory-calming tool.
+
+### Solace: ADHD Relief & Calm
+
+- URL: https://apps.apple.com/us/app/solace-adhd-relief-calm/id6744309865
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: iOS app providing short calming or grounding interventions, games, soundscapes, breathing, mindfulness, movement, and personalized reset tools.
+
+### Aetherium
+
+- URL: https://github.com/voidwave-lab/Aetherium/blob/main/TRANSPARENCY.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Open-source public-benefit project focused on deep listening, neurodivergent sensory regulation, and receptive music therapy.
+
+### Neurohaven Tools & Apps
+
+- URL: https://neurohaven.co.uk/ja/appstore
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Directory featuring Sensory Studio, an interactive low-pressure sensory web experience, and Syncq-i, an ADHD planning and reflection suite.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/jp/app/stim-adhd-sensory-calm/id6758910859?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Sensory-calming app combining reactive haptics, ambient soundscapes, and interactive visuals for people with ADHD and restless minds.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/us/app/shift-regulate-reset/id6759524862?l=pt-BR&platform=ipad
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Regulation tool for ADHD, autistic, and neurodivergent users with modes for spiraling, shutdown, rage, overwhelm, and task paralysis.
+
+### AuDHD Loop
+
+- URL: https://apps.apple.com/ca/app/audhd-loop/id6772554876
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Private on-device journal for adults to observe sensory load, energy, stims, and task momentum without scoring.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/rs/app/unmasked-adult-autism-adhd/id6764218809?platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Self-discovery companion for adults exploring possible autism, ADHD, or both, including neurodivergent traits and masking.

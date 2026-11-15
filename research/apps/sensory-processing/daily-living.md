@@ -699,12 +699,3 @@
 - Found: 2026-11-14
 - Description: Free iOS and Android app offering sensory-friendly community locations, personalized sensory and communication profiles, coping strategies, accessibility guides, social narratives, and visual schedules.[1]
 
-### Get Unstuck
-
-- URL: https://apps.apple.com/us/app/get-unstuck/id6751072710
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: sensory-processing daily-living neurodivergent app research pass 501
-- Found: 2026-11-14
-- Description: iOS app for neurodivergent users that breaks overwhelming tasks into manageable steps, identifies blockers, tracks progress gently, and provides sensory-friendly visual themes.[7]

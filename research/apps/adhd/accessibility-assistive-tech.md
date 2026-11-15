@@ -978,3 +978,13 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Public research repository exploring machine-learning support for ADHD diagnosis using eye-tracking data.
+
+### Web-Based Task Management for Individuals with ADHD
+
+- URL: https://dl.acm.org/doi/full/10.1145/3797867.3841236
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research-backed browser overlay prototype combining spatial task management with webpage reading-progress tracking to support ADHD-related executive-function needs.

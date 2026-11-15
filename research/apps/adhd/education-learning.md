@@ -1488,3 +1488,43 @@
 - Query: adhd education-learning neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Curated repository of ADHD apps, productivity tools, books, educational resources, and support services across multiple platforms.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/ru/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Structured early-reading app for neurodivergent learners, using one-task-at-a-time lessons, predictable routines, text-to-speech, offline access, and distraction-free design.
+
+### ADHD - Cognitive Research
+
+- URL: https://apps.apple.com/co/app/adhd-cognitive-research/id1412022818?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Research participation app measuring ADHD-related cognitive domains such as focused attention, inhibition, monitoring, short-term visual memory, working memory, planning, and hand-eye coordination.
+
+### Dalza
+
+- URL: https://apps.apple.com/pt/app/dalza/id6468228830?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Collaboration platform for parents, teachers, and healthcare professionals supporting children with barriers to learning or SEND through education, assessment, treatment, and monitoring.
+
+### Accessibility for All: Managing ADHD
+
+- URL: https://apps.apple.com/us/iphone/story/id1895869577?l=fr-FR
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Apple App Store feature highlighting ADHD-support tools including Tiimo for breaking tasks into subtasks and RoutineFlow for step-by-step routines and timers.
