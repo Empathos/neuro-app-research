@@ -538,3 +538,13 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Neurodivergent friendship and dating platform welcoming autistic, ADHD, Tourettes, dyslexic, and other neurodivergent users.
+
+### TicCoach
+
+- URL: https://apps.apple.com/tw/app/ticcoach/id6767370722
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Tic and Tourette support app based on CBIT principles, with guided exercises, tic and trigger tracking, educational content, grounding tools, and parent resources.

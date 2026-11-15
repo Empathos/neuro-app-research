@@ -868,3 +868,63 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Customizable AAC text-to-speech app for children and adults with autism and other speech-related disabilities, offering picture symbols and synthesized voices.
+
+### Eloquia
+
+- URL: https://apps.apple.com/ec/app/eloquia/id6762588227?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: AAC communicator for autistic and neurodivergent people, with pictograms, quick phrases, emotion and needs communication, offline use, and speech output.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/de/app/innervoice-aac-for-autism/id730856179
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: AAC app for autistic and nonspeaking users that supports communication through boards, typing, and speech in everyday situations.
+
+### Therapist-guided mobile app-assisted behavioral treatment
+
+- URL: https://link.springer.com/article/10.1007/s00787-025-02925-0
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research study evaluating a therapist-guided mobile app intervention for children and adolescents with Tourette syndrome or chronic tic disorders; the pilot found the approach feasible and acceptable.[8]
+
+### TSBand: Tic Attack Monitoring System
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12671283/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Prototype wearable and companion app intended to detect tic attacks using physiological and audio signals and notify designated caregivers.[6]
+
+### AAC GitHub Topic
+
+- URL: https://github.com/topics/aac?l=typescript&o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public repository listing for AAC projects, including apps supporting children with speech and language difficulties, autism, apraxia, and emerging communication needs.[5]
+
+### Tourette Syndrome Online Support Communities
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7671842/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research on online support communities for Tourette syndrome and tic disorders, including benefits for communication with health professionals, knowledge-sharing, and offline tic management.[10]

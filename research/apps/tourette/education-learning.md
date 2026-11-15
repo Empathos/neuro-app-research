@@ -828,3 +828,33 @@
 - Query: tourette education-learning neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Neurodivergent community app for friendship and connection that explicitly welcomes people with Tourette syndrome alongside autistic, ADHD, dyslexic, and other neurodivergent identities.[9]
+
+### NHS: Tourette Syndrome
+
+- URL: https://www.nhs.uk/conditions/tourette-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public health education page explaining Tourette syndrome and directing users to support groups and education-related assistance through Tourettes Action.
+
+### Tourette Association of America: Learn More About Tourette Syndrome and Tic Disorders
+
+- URL: https://tourette.org/learn-more-about-tourette-syndrome-and-tic-disorders/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Official learning and community-support entry point with awareness, webinars, training, support groups, and research-related organizational information.
+
+### Project NeuroFreedom
+
+- URL: https://github.com/dotjade/project-neurofreedom
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public GitHub repository for evidence-linked summaries and source records from research on Tourette syndrome and tic disorders.

@@ -659,3 +659,13 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Low-stimulation neurodivergence companion with breathing exercises, grounding techniques, check-ins, reminders, and regulation tools.
+
+### Aetherium
+
+- URL: https://github.com/voidwave-lab/Aetherium
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Open-source neurodivergent sensory-regulation and receptive-music-therapy project with desktop, PWA, iOS, and Android plans.[2]

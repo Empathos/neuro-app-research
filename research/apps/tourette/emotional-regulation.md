@@ -438,3 +438,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: An emotion-support app with emotion identification, an emotion encyclopedia, breathing exercises, journaling prompts, emotional communication tools, and regulation activities.
+
+### SHIFT: Regulate & Reset
+
+- URL: https://apps.apple.com/es/app/shift-regulate-reset/id6759524862?l=ca&platform=vision
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: App Store listing for a neurodivergent crisis-regulation tool with modes for spiraling, freezing, raging, overwhelm, and getting stuck.
