@@ -1528,3 +1528,53 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Apple App Store feature highlighting ADHD-support tools including Tiimo for breaking tasks into subtasks and RoutineFlow for step-by-step routines and timers.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Curated GitHub list of tools, resources, and services for neurodivergent learners, educators, and parents, including executive-function, ADHD, study-skills, and focus resources.
+
+### Own Words: ADHD Flashcards
+
+- URL: https://apps.apple.com/us/app/own-words-adhd-flashcards/id6823240011
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Flashcard study app designed for ADHD users, using short sessions, one-card-at-a-time presentation, and typed recall before revealing answers.
+
+### TaskSteer: ADHD Task Starter
+
+- URL: https://apps.apple.com/us/app/tasksteer-adhd-task-starter/id6819027175
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iOS task-starting app offering adaptable templates, practical tools, and checklists for adults who need help initiating or resuming tasks, including adults with ADHD.
+
+### ADHD Planner Organizer  Alti
+
+- URL: https://apps.apple.com/do/app/adhd-planner-organizer-alti/id6738433959?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: ADHD-oriented planner with animated task visualization, focus tools, and cognitive-support features intended to reduce overwhelm and improve organization.
+
+### MyStudyLife
+
+- URL: https://mystudylife.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Student planner for class schedules, homework, exams, reminders, and recurring timetables; identified in current ADHD-student app coverage as a tool for academic organization.

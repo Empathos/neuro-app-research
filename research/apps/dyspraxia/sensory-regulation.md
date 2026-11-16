@@ -629,16 +629,6 @@
 - Found: 2026-10-13
 - Description: Android app offering calming sounds, five-senses grounding, sensory regulation tools, and pattern reports that can be shared with professionals.
 
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: sensory-regulation
-- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Public neurodivergence self-screening and guidance platform covering dyspraxia, sensory differences, autism, ADHD, and related support needs.
-
 ### SensoryGift
 
 - URL: https://www.sensorygift.com/

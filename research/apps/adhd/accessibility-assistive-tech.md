@@ -988,3 +988,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Research-backed browser overlay prototype combining spatial task management with webpage reading-progress tracking to support ADHD-related executive-function needs.
+
+### ADHD Detection GitHub Topic
+
+- URL: https://github.com/topics/adhd-detection
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public repositories exploring ADHD screening, attention tracking, computer vision, and accessible awareness tools.
+
+### Differently: ADHD Productivity
+
+- URL: https://apps.apple.com/us/app/differently-adhd-productivity/id6800354917
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Focus timer and planning tool designed for ADHD users; the App Store listing notes that it is not a medical device and does not diagnose or treat conditions.
+
+### Mothy - ADHD Productivity
+
+- URL: https://apps.apple.com/us/app/mothy-adhd-productivity/id6781503063
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: ADHD productivity app using a brief WHO ASRS-based screening to adapt task breakdown, session length, and interaction style to attention patterns.

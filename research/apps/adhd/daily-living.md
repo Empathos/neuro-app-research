@@ -1248,3 +1248,23 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Time-based focus tool that offers a single task card based on available time windows such as 5, 15, 30, or 60 minutes.
+
+### ADHD Focus Planner & To-Do
+
+- URL: https://apps.apple.com/ca/app/adhd-focus-planner-to-do/id6785607496
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: ADHD- and neurodivergent-oriented planner featuring brain dumps, small first steps, focus timing, body doubling, task reminders, and export or deletion of user data.
+
+### ADHD Planner Organizer Planbo
+
+- URL: https://apps.apple.com/us/app/adhd-planner-organizer-planbo/id6761025706?l=pt-BR&platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iPad-focused ADHD digital planner with task chunking, hyperfocus tracking, a dopamine menu, and ADHD-oriented planning templates.

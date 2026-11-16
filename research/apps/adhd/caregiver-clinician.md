@@ -899,16 +899,6 @@
 - Found: 2026-11-12
 - Description: Study protocol for a smartwatch and smartphone intervention using child-parent co-regulation, parent data capture, treatment adherence tracking, and shared decision-making in pediatric ADHD care.
 
-### Caregiver-Centered ADHD Mobile App and AI Coaching Intervention
-
-- URL: https://www.sbir.gov/awards/208205
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: caregiver-clinician
-- Query: adhd caregiver-clinician neurodivergent app research pass 502
-- Found: 2026-11-12
-- Description: SBIR project for a family-focused pediatric ADHD treatment app with virtual coaching, caregiver coping modules, clinician-guided AI, and feasibility testing with caregivers.
-
 ### ADHD itch.io Collection
 
 - URL: https://itch.io/c/7979622/adhd
@@ -988,3 +978,33 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Public research resource covering digital assessments and interventions for children and adolescents with ADHD.
+
+### TrueConvos: ADHD & Autism Chat App
+
+- URL: https://apps.apple.com/ca/app/trueconvos-adhd-autism-chat/id1545810479
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Peer-support chat app connecting people navigating ADHD, autism, and AuDHD with others who have related lived experience.
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/ec/app/hiki-autism-adhd-nd-dating/id1466184914?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Neurodivergent friendship and dating platform for people with ADHD, autism, and other neurodivergent identities.
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ca/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Reflection and coaching app designed with psychology professionals to help parents, carers, and neurodivergent adults record difficult moments, identify triggers, and develop practical support strategies.

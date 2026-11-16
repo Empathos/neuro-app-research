@@ -1458,3 +1458,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Public Android app lead focused on ADHD-oriented support and tools.
+
+### Bonding Health: TDHA Calm
+
+- URL: https://apps.apple.com/fr/app/bonding-health-tdha-calm/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Regulation and focus tool with guided support for task paralysis, overstimulation, irritability, burnout, and daily overwhelm; includes an emotional-regulation self-assessment.
+
+### Daily ADHD Self-Care: Evolve
+
+- URL: https://apps.apple.com/no/app/daily-adhd-self-care-evolve/id1515433542
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: ADHD self-care companion using CBT and DBT techniques, guided meditations, breathing exercises, journaling, and routines for stress, anxiety, sleep, and emotional regulation.

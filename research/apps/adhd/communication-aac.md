@@ -1199,3 +1199,33 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Neurodiversity-affirming ADHD focus companion providing ambient, non-disruptive support during focus states.
+
+### LoriComunica: Autism ADHD AAC
+
+- URL: https://play.google.com/store/apps/details?id=com.loriconecta.loricomunica&hl=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Google Play listing for an AAC app supporting children and adults with speech challenges, with communication through touch, blinking, or facial movements and tools for constructing sentences and expressing needs.
+
+### Pictalk Buddy: Routine & AAC
+
+- URL: https://apps.apple.com/es/app/pictalk-buddy-routine-aac/id6502835578?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official App Store listing combining visual schedules, routines, pictogram-based AAC, and text-to-speech for users including people with autism, ADHD, and other neurodevelopmental or communication conditions.
+
+### GadAAC
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official App Store listing for a free AAC app that builds spoken messages from pictograms, supports custom photo tiles, visual schedules, First/Then sequences, accessibility labels, large touch targets, and high-contrast and dark modes.

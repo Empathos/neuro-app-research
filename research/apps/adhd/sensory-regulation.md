@@ -1108,3 +1108,33 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Self-discovery companion for adults exploring possible autism, ADHD, or both, including neurodivergent traits and masking.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/us/app/unmasked-adult-autism-adhd/id6764218809
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Adult self-discovery app with sensory profiling across sound, light, proprioception, interoception, and other sensory domains, plus energy and masking logs.
+
+### Sensory Budget
+
+- URL: https://apps.apple.com/es/app/sensory-budget/id6813163966?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Sensory and energy budgeting app for ADHD, autistic, and sensory-sensitive users; estimates daily demands from factors such as noise, crowds, bright spaces, meetings, task switching, and commuting.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/us/app/stim-adhd-sensory-calm/id6758910859?l=ar
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: iPhone sensory-regulation app combining touch interaction, visual color trails, haptic feedback, and ambient soundscapes such as white noise, rain, and calming tones.
