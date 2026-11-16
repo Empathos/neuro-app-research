@@ -1108,3 +1108,43 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Clinical-design research lead addressing sensory processing differences and practical environmental adaptations across visual, auditory, olfactory, tactile, proprioceptive, thermal, and gustatory domains.[2]
+
+### ASSIST: Autism Sensory Strategies, Information, and Toolkit
+
+- URL: https://paautism.org/resource/assist-toolkit/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public sensory-support toolkit for autistic people, families, and providers, including sensory strategies, visual sequencing, calming music, and caregiver-oriented resources.
+
+### Sensory Processing and Using the Sensory Toolkit
+
+- URL: https://www.orygen.org.au/Training/Resources/Neurodiversity/Fact-sheets/Sensory-processing-and-using-the-Sensory-Toolkit/ORYGEN_What-is-sensory-processing-and-using-sensor.aspx?ext=.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Clinician-facing sensory toolkit guidance covering sensory experiences, environmental preferences, collaborative young-personclinician planning, and feedback collection.
+
+### Sensory Profile 2
+
+- URL: https://www.pearsonassessments.com/professional-assessments/featured-topics/autism/early-childhood.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official assessment resource describing a standardized caregiver-report tool for evaluating childrens sensory-processing patterns.
+
+### Sensory Processing Modalities and Their Associations With ...
+
+- URL: https://link.springer.com/article/10.1007/s10803-025-07185-0
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Study comparing sensory-processing patterns in autistic children, children with ADHD, and neurotypical children using parent reports and direct auditory measures.[8]

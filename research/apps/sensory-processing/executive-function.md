@@ -988,3 +988,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Privacy-focused suite comprising ViziCues for visual schedules and transitions, SensyCues for organizing and tracking sensory supports, and Reset for overload, shutdown, or difficulty continuing a plan.
+
+### Animus Thalamus
+
+- URL: https://github.com/animusuno/thalamus
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Repository for a sensory-routing and filtering component described as handling input filtering, routing, contextual organization, and real-time sensory processing.

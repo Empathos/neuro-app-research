@@ -1039,3 +1039,43 @@
 - Found: 2026-11-13
 - Description: Minnesota AAC guidance addressing individualized communication supports, sensory-processing considerations, switch access, and customizable AAC apps.
 
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/de/app/innervoice-aac-for-autism/id730856179
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: AAC app for autistic and nonspeaking users supporting communication through boards, typing, and speech, including choices, questions, and requests for breaks.[2]
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?l=es-MX&platform=ipad
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Text-to-speech AAC app for children and adults with autism and other speech difficulties, using picture-based communication and customizable sentence formation.[4]
+
+### AAC Talk: Autism Voice Board
+
+- URL: https://apps.apple.com/us/app/aac-talk-autism-voice-board/id6809749030
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Picture-based communication board that speaks selected symbols and builds messages in a sentence strip for nonspeaking or minimally speaking users.[5]
+
+### Sky Simple AAC
+
+- URL: https://apps.apple.com/us/app/sky-simple-aac/id6762288300?platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Minimal communication board for nonspeaking children, designed with soft colors, gentle motion, and a low-stimulation interface to reduce sensory overload.[10]

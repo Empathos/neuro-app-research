@@ -798,3 +798,43 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Provides practical neurodivergent-support resources, including visual supports, printables, interactive tools, and apps for sensory needs, routines, transitions, and difficult moments.
+
+### SixthSense
+
+- URL: https://github.com/k-kochhar/SixthSense
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: An open-source assistive-technology project combining computer vision with wearable haptic feedback to communicate environmental information through touch.
+
+### Tictactanium
+
+- URL: https://github.com/Huskberry/tictactanium
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: A Raspberry Pi-based wrist or vest device using haptic feedback and text-to-speech to support accessible interaction for people with audio or visual impairments.
+
+### Assistive Technology GitHub Topics
+
+- URL: https://github.com/topics/assistive-technology?l=c%2B%2B&o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: A public repository directory covering assistive input devices, accessibility software, human-machine interfaces, and alternative interaction technologies.
+
+### tether.nvim
+
+- URL: https://github.com/Phrozenn1/tether.nvim
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open-source Neovim workflow tool combining a Flowmodoro timer, working-memory note capture, and cognitive anchoring for ADHD, autism, dyslexia, and other neurodivergent users.

@@ -738,3 +738,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Public repository document containing sensory-grounding and regulation techniques, including a text-guided 5-4-3-2-1 exercise.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/es/app/shift-regulate-reset/id6759524862?l=ca&platform=vision
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Crisis-regulation app for ADHD, autistic, and neurodivergent users with modes for spiraling, shutdown, rage, sensory overwhelm, and task paralysis.
