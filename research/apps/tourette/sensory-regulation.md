@@ -519,16 +519,6 @@
 - Found: 2026-10-13
 - Description: Digital sensory profile and strategy toolkit with check-ins and personalized regulation suggestions for neurodivergent adults.
 
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: sensory-regulation
-- Query: tourette sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Self-screening and profile tool covering autism, ADHD, dyspraxia, dyslexia, sensory differences, and tics, including an eight-channel sensory profile.
-
 ### Together As We Are
 
 - URL: https://play.google.com/store/apps/details?id=com.storieswithoutlabels.app&hl=en_GB
@@ -669,3 +659,23 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Open-source neurodivergent sensory-regulation and receptive-music-therapy project with desktop, PWA, iOS, and Android plans.[2]
+
+### Things We Do
+
+- URL: https://github.com/fac30/things-we-do
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Open-source progressive web application for task management, mood tracking, emotional well-being, personalized coping toolkits, and insights.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Self-regulation app for sensitive and neurodivergent children and adults with calming exercises, a sensory dial, a one-tap 'Too Much' mode, haptic breathing support, and transition tools.

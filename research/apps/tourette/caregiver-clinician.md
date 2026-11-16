@@ -898,3 +898,43 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Browsable directory of public repositories related to neurodivergence, including conversational support systems and local-first tools for ADHD, autism, and related needs.
+
+### Tourettes Action Resource Library
+
+- URL: https://www.tourettes-action.org.uk/64-resources.html?rc=999&ta=no
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public resource library with materials for children, parents, teachers, and caregivers, plus information about research into online support groups for tic disorders and Tourette syndrome.
+
+### knotted.
+
+- URL: https://play.google.com/store/apps/details?id=de.knotted.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Android app offering neurodivergence information, practical daily-life tools, sensory-product recommendations, and moderated community spaces for connection and peer support.
+
+### Treatment Options & Clinician Tools
+
+- URL: https://www.catalight.org/treatment-options
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Public clinician-tools page describing caregiver-participatory treatment approaches and tools for adapting care to individual and family needs.
+
+### Hazel Conversational Agent for Neurodivergent Caregivers
+
+- URL: https://www.nature.com/articles/s41598-026-44254-5
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Research publication evaluating Hazel, a conversational agent intended to support parents and carers of autistic and neurodivergent children, including assessment of safety, empathy, and utility.

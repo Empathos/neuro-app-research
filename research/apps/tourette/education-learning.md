@@ -858,3 +858,53 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Public GitHub repository for evidence-linked summaries and source records from research on Tourette syndrome and tic disorders.
+
+### Tourette Action Education Resources
+
+- URL: https://www.tourettes-action.org.uk/64-resources.html?rc=3
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: UK-based education resources for young people, parents, and teachers, including classroom lesson plans and a social story designed to support communication about Tourette syndrome.
+
+### Tourette Association Toolkit Archives
+
+- URL: https://tourette.org/topic/tool-kit/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official archive of practical toolkits, including teen Tourette guidance and an IEP binder organizer covering evaluations, accommodations, school records, communication, and support planning.
+
+### ticnet
+
+- URL: https://github.com/jafarbakhshaliyev/ticnet
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Research repository using machine-learning architectures to distinguish Tourette syndrome, functional tic-like behaviors, and overlapping presentations.
+
+### DisMech Tourette Syndrome Knowledge Base
+
+- URL: https://github.com/monarch-initiative/dismech/blob/main/kb/disorders/Tourette_Syndrome.yaml
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Structured, machine-readable knowledge-base entry for Tourette syndrome in the Monarch Initiative disease-mechanism project.
+
+### Tourette-stimulator
+
+- URL: https://github.com/EstebanValverde/Tourette-stimulator
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open hardware and software repository for a wristband-style median-nerve stimulation device intended for exploratory tic-management research.

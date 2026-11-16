@@ -928,3 +928,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Research on online support communities for Tourette syndrome and tic disorders, including benefits for communication with health professionals, knowledge-sharing, and offline tic management.[10]
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?l=es-MX&platform=ipad
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC text-to-speech app with customizable picture-based communication, sentence construction, and support for people with speech difficulties.
