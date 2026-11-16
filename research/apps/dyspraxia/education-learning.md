@@ -988,3 +988,43 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Online teaching platform for tutors, schools, and therapists supporting SEND learners, including dyspraxia/DCD, with reduced fine-motor demands and structured lesson tools.
+
+### An Interpretative Phenomenological Analysis of the Lived Experiences of Children with Dyspraxia in UK Secondary Schools
+
+- URL: https://repository.uel.ac.uk/item/898q1
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: University repository record for research examining the lived educational experiences of children with dyspraxia in UK secondary schools.
+
+### Using a Simulator to Help Students with Dyspraxia Learn Geometry
+
+- URL: https://eric.ed.gov/?id=EJ1289452
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: ERIC research record describing a computer simulator designed to help students with motor-coordination difficulties learn geometry and construct figures without relying solely on pencil-and-paper drawing.
+
+### Cantoo Scribe
+
+- URL: https://apps.microsoft.com/detail/9mv9zfv2rn3k?hl=sr-Latn-RS&gl=TW
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Inclusive education software for primary, middle, and high school students, with note-taking, PDF and ebook accessibility, dictation, reading, word prediction, voice notes, and tools specifically supporting dyspraxia and other DYS profiles.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/ng/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Visual planning and learning app for diverse cognitive profiles, supporting executive functioning, routines, time management, reminders, and neuroinclusion-focused learning resources.

@@ -938,3 +938,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Official dyspraxia support resource that highlights visual planning tools such as Tiimo and Thruday for organisation and daily routines.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/ru/app/beats-medical-parkinsons-app/id866567480?l=uk&platform=watch
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: App Store listing that includes the Beats Medical Dyspraxia App, a public lead for dyspraxia-focused therapeutic support.

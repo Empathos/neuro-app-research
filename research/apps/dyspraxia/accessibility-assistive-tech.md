@@ -708,3 +708,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Public TypeScript toolkit from NeuroEquality intended to support neurodiversity inclusion in emerging technologies.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/tt/app/beats-medical-dyspraxia-app/id1194965395
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, and communication activities.
