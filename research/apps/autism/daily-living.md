@@ -998,3 +998,23 @@
 - Query: autism daily-living neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Publicly described app and resource hub created with and for the autistic community, offering practical everyday-life tips and high-quality support resources.[9]
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/nl/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: App featuring social narratives, picture schedules, token boards, visual timers, and first/then charts for daily-living and social-skill support.
+
+### Mariko Digital Assistant
+
+- URL: https://apps.apple.com/us/app/mariko-digital-assistant/id1645374416
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Visual daily-schedule assistant developed for neurodivergent people, families, and professionals to organize tasks, timing, and responsibility.

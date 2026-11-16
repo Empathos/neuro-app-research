@@ -1358,3 +1358,23 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Visual AAC board designed for non-speaking users, autism communication, and aphasia.
+
+### Pictalk
+
+- URL: https://github.com/kangraemin/pictalk
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public repository lead for an on-device AI AAC app intended for children with autism.
+
+### Asterics AAC
+
+- URL: https://github.com/logoremakefour1530/AsTeRICS-Grid
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Flexible grid-based AAC tool supporting touch, keyboard, switches, and eye gaze, with text-to-speech, multilingual functionality, and offline use.

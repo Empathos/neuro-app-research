@@ -1228,3 +1228,33 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Picture-based AAC app for nonspeaking and autistic users with visual schedules, First/Then sequences, custom photo tiles, screen-reader labels, large touch targets, and high-contrast and dark modes.
+
+### HiAlert: Communication App
+
+- URL: https://www.autism.org.uk/autism-services-directory/hialert-communication-app-with-free-alert-card-for-autism-and-other-health-conditions-and-disabilit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Communication and support app with an alert card, securely stored health details, and regulation features; available for iOS and Android.
+
+### Autism Kids: Voice & Routines
+
+- URL: https://play.google.com/store/apps/details?id=com.phonegap.matraquinha&hl=en&gl=BR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC and routine-support app for autistic and nonspeaking children, featuring image-based voice communication and offline operation.
+
+### Autism: Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.autism&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC communicator with voiced cards, customizable content, and visual communication tools for autistic and other nonspeaking users.

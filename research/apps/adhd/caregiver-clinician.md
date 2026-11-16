@@ -899,16 +899,6 @@
 - Found: 2026-11-12
 - Description: Study protocol for a smartwatch and smartphone intervention using child-parent co-regulation, parent data capture, treatment adherence tracking, and shared decision-making in pediatric ADHD care.
 
-### Caregiver-Centered ADHD Mobile App and AI Coaching Intervention
-
-- URL: https://www.sbir.gov/awards/208205
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: caregiver-clinician
-- Query: adhd caregiver-clinician neurodivergent app research pass 502
-- Found: 2026-11-12
-- Description: SBIR project for a family-focused pediatric ADHD treatment app with virtual coaching, caregiver coping modules, clinician-guided AI, and feasibility testing with caregivers.
-
 ### ADHD itch.io Collection
 
 - URL: https://itch.io/c/7979622/adhd

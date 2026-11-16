@@ -1088,3 +1088,23 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Open research paper examining caregiver and clinician needs, attitudes, and expectations for a mobile caregiver-mediated intervention.
+
+### SenseToKnow autism screening app research
+
+- URL: https://dl.acm.org/doi/10.1145/3613905.3650995
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Research on a portable autism screening application usable by caregivers at home or in primary-care clinics, supporting caregiver- and clinician-informed developmental assessment.
+
+### TRIP App Development and Usability Study
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13235980/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open-access research article describing systematic, evidence-informed development and clinician-led co-design of a caregiver psychoeducation app for autism support.[5]
