@@ -638,3 +638,23 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Open-source web accessibility component offering controls such as font size, letter spacing, dyslexic font, cursor size, link and heading highlighting, line height, and contrast.
+
+### Dyslexia Diagnostic Frameworks
+
+- URL: https://accessibility.tools/docs/dyslexia/diagnostic-frameworks
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Reference material on diagnostic systems and frameworks relevant to dyslexia research and support design.
+
+### Dyslexia Research Reference List
+
+- URL: https://accessibility.tools/docs/dyslexia/references
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Public bibliography of scientific research, diagnostic manuals, and organizational resources used in dyslexia literature review.

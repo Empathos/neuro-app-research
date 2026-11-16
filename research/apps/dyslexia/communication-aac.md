@@ -728,3 +728,13 @@
 - Query: dyslexia communication-aac neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Assistive keyboard lead for dyslexia and other learning or motor impairments, offering customizable layouts, word prediction, text-to-speech feedback, and key-size or spacing adjustments.
+
+### Keeble
+
+- URL: https://keeble.co/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: communication-aac
+- Query: dyslexia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Accessible keyboard designed to support typing for people with dyslexia and other learning, cognitive, or motor impairments through prediction, text-to-speech feedback, and customizable layouts.
