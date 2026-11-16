@@ -908,3 +908,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: App Store listing for a visual schedule and routine-planning app designed for ADHD, autism, and users who benefit from structured daily tasks.
+
+### Neurodiversity in Business: Assistive Technologies
+
+- URL: https://neurodiversity.org/resource-library/assistive-technologies/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Resource-library page focused on assistive technologies relevant to neurodivergent users and workplace accessibility.[5]
+
+### A Scoping Review of Digital Assistive Technologies for Neurodivergent People
+
+- URL: https://pure.au.dk/ws/files/473637328/Rempel_Heimann_Prilop_2026_Scoping_review_assistive-technology.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open research review identifying technology categories including prompting systems, self-monitoring apps, AI audio, mind-mapping, assistive robots, screen readers, OCR, speech recognition, and note-taking tools.

@@ -1038,3 +1038,43 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: ADHD-oriented organizer for daily tasks, routines, planning, mood tracking, and related executive-function support.
+
+### Flowcus: Focus ADHD
+
+- URL: https://apps.apple.com/us/app/focus-adhd/id6618147158?l=ar
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: An app designed for people with ADHD or ADD, focused on improving attention, organization, confidence, and sustained focus.
+
+### ADHD Planner Organizer - Alti
+
+- URL: https://apps.apple.com/do/app/adhd-planner-organizer-alti/id6738433959?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A visual planner combining task visualization, focus timers, brain dumps, routines, motivation prompts, and executive-function support for ADHD and neurodivergent users.
+
+### FocusPlay: ADHD & Focus
+
+- URL: https://apps.apple.com/co/app/focusplay-adhd-focus/id6762486364?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: An ADHD-focused app using mini-games intended to exercise focus, working recall, impulse control, and cognitive flexibility.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A curated repository of tools and resources for neurodivergent learners, including executive-function study supports, focus timers, and digital self-management tools.

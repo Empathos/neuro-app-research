@@ -1388,3 +1388,43 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: AAC communication app supporting touch and eye-gaze control, communication boards, speech synthesis, pain assessment, and on-screen keyboards.[2]
+
+### EYA  AAC Communication
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC platform with communication cards, personalized boards, saved phrases, an AAC keyboard, and speech output for children and adults with communication difficulties.
+
+### Vocality AAC
+
+- URL: https://apps.apple.com/us/app/vocality-aac/id6757679441
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Text-to-speech AAC app with message prediction, shortcuts, and suggested responses for people who have difficulty speaking.
+
+### Isaac AAC
+
+- URL: https://apps.apple.com/us/app/isaac-aac/id6746368688?platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC communication aid offering visual symbols, custom symbol drawing, voice output, and predictive text.
+
+### QVoice  AAC communication app
+
+- URL: https://apps.apple.com/jo/app/qvoice-aac-communication-app/id1610926840
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC app developed for emerging speech-generating-device users, including people with cognitive challenges and cortical visual impairment.

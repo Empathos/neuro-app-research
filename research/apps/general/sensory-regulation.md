@@ -878,3 +878,73 @@
 - Query: general sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: ADHD-, autism-, and HSP-focused companion with sensory-aware settings, reduced motion, and optional haptics.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/cl/app/shift-regulate-reset/id6759524862?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iOS regulation app designed for ADHD, autistic, and neurodivergent users, offering mode-specific interventions for spiraling, shutdown, rage, sensory overwhelm, and task paralysis.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Calming and self-regulation app for sensitive and neurodivergent children and families, featuring a sensory dial, low-stimulation calm mode, breathing, feelings prompts, visual sequencing, and transition timers.
+
+### Resonance Compass
+
+- URL: https://github.com/quantum-weaver
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public project listed under the Quantum-Weaver GitHub profile; described as a local-first sensory-oriented media tool with a real-time visualizer and sensory lexicon.
+
+### AuDHD Loop
+
+- URL: https://apps.apple.com/ca/app/audhd-loop/id6772554876
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A private on-device journal for tracking sensory load, stimming, energy, and task momentum without scoring users.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/rs/app/unmasked-adult-autism-adhd/id6764218809?platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A self-discovery app with an eight-category sensory profile, regulation toolkit, masking and energy check-ins, and trend tracking for adults exploring autism or ADHD.
+
+### Nello: Autism Behavior Tracker
+
+- URL: https://apps.apple.com/ca/app/nello-autism-behavior-tracker/id6784738384
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A strengths-based tracker for recording sensory moments, meltdowns, sleep, food, and related context, with ABC-style reports for identifying patterns.
+
+### Sensory Budget
+
+- URL: https://apps.apple.com/es/app/sensory-budget/id6813163966?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: An app for ADHD, autistic, and sensory-sensitive users to track how noise, crowds, and plans affect daily energy capacity.

@@ -9,16 +9,6 @@
 - Found: 2026-06-20
 - Description: UT San Antonios AI-supported caregiver app for children with autism, designed to help parents practice behavioral skills and receive feedback outside clinic sessions.
 
-### Safe4All
-
-- URL: https://safe4allapp.com
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: caregiver-clinician
-- Query: autism caregiver app
-- Found: 2026-06-20
-- Description: An autism and IDD management and communication app for people with autism and their caregivers, with task management and secure communications for daily routines.
-
 ### Autism and Beyond
 
 - URL: https://nyulangone.org/news/researchers-find-autism-screening-app-caregiver-friendly-produces-reliable-scientific-data

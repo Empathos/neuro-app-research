@@ -908,3 +908,33 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Public research-paper PDF reporting a mixed-methods survey of UK school staff about supporting neurodivergent pupils, useful for caregiver-clinician and education-support research.
+
+### Au'commadate
+
+- URL: https://apps.apple.com/co/app/aucommadate/id6762436895
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Touch-only communication board and family-support app for nonspeaking and minimally verbal people, with routines, outcome snapshots, caregiver resources, and data export for clinicians.
+
+### Neuro Buddy
+
+- URL: https://play.google.com/store/apps/details?id=com.base69b6ac261ac8e0da2743c35a.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Google Play app for parents, caregivers, professionals, and adults supporting or exploring ADHD, autism, and AuDHD, developed with occupational-therapy input.
+
+### BRIDGES Engage
+
+- URL: https://apps.apple.com/ca/app/bridges-engage/id6744975919?l=fr-CA
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Clinician- and neurodiversity-expert-curated app providing autism caregivers with routines, structured activities, emotional-regulation support, and daily guidance.

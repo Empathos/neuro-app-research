@@ -1218,3 +1218,13 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Children's learning app for ages 28 with activities spanning reading, mathematics, engineering, mindfulness, communication, social skills, and attention, including content tailored to autism, ADHD, and dyslexia.[6]
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/us/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Structured phonics and sight-word app designed for autistic and ADHD learners, featuring one-task lessons, predictable routines, minimal sensory input, text-to-speech, offline use, and no tracking.

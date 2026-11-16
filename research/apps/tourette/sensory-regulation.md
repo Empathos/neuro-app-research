@@ -519,16 +519,6 @@
 - Found: 2026-10-13
 - Description: Digital sensory profile and strategy toolkit with check-ins and personalized regulation suggestions for neurodivergent adults.
 
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: sensory-regulation
-- Query: tourette sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Self-screening and profile tool covering autism, ADHD, dyspraxia, dyslexia, sensory differences, and tics, including an eight-channel sensory profile.
-
 ### Together As We Are
 
 - URL: https://play.google.com/store/apps/details?id=com.storieswithoutlabels.app&hl=en_GB

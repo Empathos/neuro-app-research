@@ -819,16 +819,6 @@
 - Found: 2026-11-11
 - Description: Web-based support tool with visible countdowns, selectable work intervals, task naming, and if-stuck planning to make task initiation and switching easier.
 
-### ExEF  ADHD & Executive Function Coaching
-
-- URL: https://github.com/jacobpopcantstop/ExEF
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: executive-function
-- Query: executive-function executive-function neurodivergent app research pass 501
-- Found: 2026-11-14
-- Description: Open-source program and website project for executive-function coaching and connecting users with support across executive-function domains.
-
 ### Executive
 
 - URL: https://github.com/ncr5012/executive
