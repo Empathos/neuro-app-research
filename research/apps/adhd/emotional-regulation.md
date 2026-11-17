@@ -1478,3 +1478,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: ADHD self-care companion using CBT and DBT techniques, guided meditations, breathing exercises, journaling, and routines for stress, anxiety, sleep, and emotional regulation.
+
+### Outspiral: RSD & ADHD Relief
+
+- URL: https://apps.apple.com/us/app/outspiral-rsd-adhd-relief/id6760420631
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: App focused on ADHD emotions, rejection-sensitive dysphoria, and overwhelm.
+
+### Executive Function Toolkit
+
+- URL: https://github.com/curiositech/some_claude_skills/blob/main/.claude/skills/adhd-daily-planner/references/executive-function-toolkit.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Repository documentation containing ADHD support material, including an emotional-regulation section with the STOP technique.

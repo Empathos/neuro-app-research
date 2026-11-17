@@ -429,16 +429,6 @@
 - Found: 2026-06-29
 - Description: A comprehensive review of top AAC mobile apps, including considerations for motor plan-based designs and customization for neurodivergent users.
 
-### Set up a Focus on iPhone - Apple Support
-
-- URL: https://support.apple.com/guide/iphone/set-up-a-focus-iphd6288a67f/ios
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: communication-aac
-- Query: focus speech support iOS Android
-- Found: 2026-06-30
-- Description: Official Apple documentation for configuring Focus Mode on iOS, including settings to silence notifications, customize lock screens, and manage focus filters for neurodivergent support and speech concentration.
-
 ### Digital Wellbeing & Parental Controls - Android Focus Mode
 
 - URL: https://support.google.com/android-help/topic/7783467922911591
@@ -1229,3 +1219,33 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: Official App Store listing for a free AAC app that builds spoken messages from pictograms, supports custom photo tiles, visual schedules, First/Then sequences, accessibility labels, large touch targets, and high-contrast and dark modes.
+
+### ADHD: Advanced Divergent Human Development
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: GitHub project exploring AI-assisted support for neurodivergent people, including conversational-tone monitoring, social-cue indicators, smartwatch integration, and the NeuroVerse platform.
+
+### Inflow
+
+- URL: https://github.com/GetInflow
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Official GitHub organization for Inflow, an ADHD-management app described as science-based and developed with ADHD clinicians and psychologists.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/us/app/tiimo/id1480220328
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Visual planning and routine app designed for neurodivergent users, including people with ADHD; breaks tasks into smaller steps.

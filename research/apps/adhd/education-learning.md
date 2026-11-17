@@ -1578,3 +1578,13 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Student planner for class schedules, homework, exams, reminders, and recurring timetables; identified in current ADHD-student app coverage as a tool for academic organization.
+
+### LearnKit
+
+- URL: https://github.com/johnnyrobot/learnkit
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neuroinclusive coursework toolkit containing instructional-design rules, schemas, and auditors for creating accessible learning content for ADHD, dyslexia, autism, and cognitive accessibility.[7]

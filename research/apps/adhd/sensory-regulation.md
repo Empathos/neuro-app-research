@@ -259,16 +259,6 @@
 - Found: 2026-06-25
 - Description: Official medical overview from Cleveland Clinic detailing symptoms, causes, and treatment options for executive dysfunction, including overload triggered by neurodevelopmental conditions.
 
-### MindGenius MindMapping Software
-
-- URL: https://www.mindgenius.com/mindmapping
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: sensory-regulation
-- Query: executive function overload directory
-- Found: 2026-06-25
-- Description: Official product page for MindGenius mindmapping tool, a documented repository and app used to structure ideas visually and reduce cognitive load for neurodivergent users.
-
 ### Pomodoro Technique Timer Apps Directory
 
 - URL: https://pomofocus.io/
@@ -1138,3 +1128,53 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: iPhone sensory-regulation app combining touch interaction, visual color trails, haptic feedback, and ambient soundscapes such as white noise, rain, and calming tones.
+
+### Thrum: ADHD Focus Timer
+
+- URL: https://apps.apple.com/no/app/thrum-adhd-focus-timer/id6776406494
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Silent haptic focus timer that uses gentle wrist or iPhone vibrations and interval cues to support time awareness without visual countdowns.
+
+### FocusLab AI: ADHD Coach
+
+- URL: https://apps.apple.com/no/app/focuslab-ai-adhd-coach/id6760952559
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: ADHD planning and focus app featuring sensory breaks for quiet resets and context-based focus rituals.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/ch/app/inflow-manage-your-adhd/id1528183849?l=it&platform=tv
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Science-based ADHD support program covering focus, routines, emotional regulation, anxiety, mindfulness, and rejection-sensitive dysphoria.
+
+### Mossy: ADHD Focus Timer
+
+- URL: https://apps.apple.com/us/app/mossy-adhd-focus-timer/id6806260579
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: ADHD-oriented focus companion with breaks, tasks, gentle rewards, calming soundscapes, offline use, and on-device focus data.
+
+### Quantum-Weaver
+
+- URL: https://github.com/quantum-weaver
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: A public developer profile featuring personal-device apps, including a sensory lexicon and tools related to visual or sensory interaction.

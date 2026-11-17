@@ -1008,3 +1008,33 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Reflection and coaching app designed with psychology professionals to help parents, carers, and neurodivergent adults record difficult moments, identify triggers, and develop practical support strategies.
+
+### CareClinic ADHD Tracker
+
+- URL: https://play.google.com/store/apps/details?id=com.careclinicsoftware.careclinic&listing=adhd-tracker-app&hl=sw
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: ADHD symptom and mood tracker with shareable PDF reports and collaboration features for family members, caregivers, therapists, and other healthcare providers.
+
+### Neurodivergence GitHub Topics
+
+- URL: https://github.com/topics/neurodivergence?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public repository directory containing neurodivergence-related projects, including conversational support systems, ADHD and dyslexia learning tools, and local-first apps.
+
+### ADHD GitLab Projects
+
+- URL: https://gitlab.com/explore/projects/topics/adhd?language=8&sort=latest_activity_desc
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public project directory with ADHD-oriented tools such as task breakdown, calendar scheduling, focus timers, rewards, self-reflection, and neurodivergent-friendly desktop applications.

@@ -1278,3 +1278,53 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Visual schedule and task manager featuring time-block planning, rapid task capture, a visual daily timeline, and a low-distraction interface for ADHD and neurodivergent users.
+
+### Elumi  ADHD Support & Coach
+
+- URL: https://apps.apple.com/ar/app/elumi-adhd-support-coach/id6765951081
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: ADHD support system for planning days, breaking tasks into manageable steps, tracking mood and energy, building routines, and reflecting on focus patterns.
+
+### Indy: ADHD AI Coach & Planner
+
+- URL: https://apps.apple.com/us/app/indy-adhd-ai-coach-planner/id6754361764
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: ADHD coaching and planning app with brief daily check-ins, weekly planning, realistic priorities, challenge-based habit building, and progress-pattern tracking.
+
+### BYANA - ADHD in everyday life
+
+- URL: https://apps.apple.com/ca/app/byana-adhd-in-everyday-life/id6753208941
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Personalized ADHD screening and support app addressing executive dysfunction, time management, motivation, emotional regulation, procrastination, focus, and self-organization.
+
+### Arabtesting-ADHD
+
+- URL: https://apps.apple.com/us/app/arabtesting-adhd/id6478961445
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Collaborative ADHD support app for children, adolescents, and adults, connecting psychologists, teachers, coaches, parents, and users to track development and encourage organization and productivity.
+
+### Apps to support those with ADHD
+
+- URL: https://apps.apple.com/ao/iphone/story/id1679598336
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Apple App Store collection featuring ADHD-relevant tools for routines, focus, time management, task tracking, habit building, app blocking, Pomodoro timing, and daily planning.

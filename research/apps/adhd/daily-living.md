@@ -1268,3 +1268,63 @@
 - Query: adhd daily-living neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: iPad-focused ADHD digital planner with task chunking, hyperfocus tracking, a dopamine menu, and ADHD-oriented planning templates.
+
+### Flowcus: Empowering Individuals with ADHD and ADD
+
+- URL: https://apps.apple.com/us/app/focus-adhd/id6618147158?l=ar
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: App supporting daily routines, tasks, responsibilities, focus, organization, scheduling, prioritization, rewards, and executive functioning.
+
+### Ishi: ADHD Unstuck, Brain Dump
+
+- URL: https://apps.apple.com/gb/app/ishi-adhd-unstuck-brain-dump/id6767989715
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AI day planner for ADHD and executive dysfunction that turns brain dumps into ordered steps, supports fixed commitments, task breakdown, breathing exercises, and everyday chores and errands.
+
+### Sprout: Smart ADHD Task App
+
+- URL: https://apps.apple.com/st/app/sprout-smart-adhd-task-app/id6754895173
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AI focus planner and to-do list with a daily plan, automatically surfaced due tasks, selected focus tasks, and visual progress tracking.
+
+### Executive Functioning Apps
+
+- URL: https://apps.apple.com/at/developer/executive-functioning/id1670674938?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: App Store developer page listing executive-functioning tools, including ADHD schedule and calendar-planning apps.
+
+### Inflow  Manage Your ADHD
+
+- URL: https://apps.apple.com/sr/app/inflow-manage-your-adhd/id1528183849?platform=tv
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: App Store listing for an ADHD-focused program supporting focus, routines, habits, procrastination, and follow-through.
+
+### ADHD-OS
+
+- URL: https://github.com/LegionForge/ADHD-OS
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public repository for a modular personal-assistant framework emphasizing frictionless capture, external working memory, task support, and local data ownership.
