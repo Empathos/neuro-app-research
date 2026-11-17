@@ -788,3 +788,13 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Reading and phonics app for children ages 711, including learners with dyslexia; uses short games targeting phonological awareness, phonics, and decoding.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Curated GitHub list of tools, resources, and services for neurodivergent learners, educators, and parents, including the OpenDyslexic font.

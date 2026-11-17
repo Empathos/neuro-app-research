@@ -628,3 +628,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: A dyslexia-first publishing pipeline that converts manuscripts into accessible PDFs, EPUBs, audiobook-ready text, voiced audiobooks, and customizable HTML readers.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/us/app/dyslexiabuddy/id1565832172?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Reading-assistance app marketed for people with dyslexia, with research-informed features intended to support reading speed and comprehension.
+
+### GitHub Dyslexia Topic
+
+- URL: https://github.com/topics/dyslexia?l=python&o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public repository index with dyslexia-focused projects, including text-to-speech readers, PDF reflow tools, adaptive reading interfaces, writing assistance, and accessible learning software.
