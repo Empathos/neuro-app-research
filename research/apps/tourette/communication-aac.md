@@ -938,3 +938,43 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: AAC text-to-speech app with customizable picture-based communication, sentence construction, and support for people with speech difficulties.
+
+### GadAAC  AAC + AI
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AAC app for children and adults with limited or no speech, including neurodivergent users. Provides picture-based communication, custom tiles, visual schedules, First/Then sequences, accessibility labels, large touch targets, and high-contrast and dark modes.
+
+### Managing Tourette and Tic Disorders Provider Toolkit
+
+- URL: https://tourette.org/wp-content/uploads/Full-Provider-Tool-Kit-rev.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Official provider toolkit addressing Tourette syndrome, tic disorders, communication disorders, processing delays, memory deficits, and executive-function difficulties.
+
+### Tourette Association Support for Children
+
+- URL: https://tourette.org/about-tourette/overview/living-tourette-syndrome/children-with-tourette-0-12/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Official guidance on communication strategies for children with Tourette syndrome, including explaining Tourette to classmates and teachers.
+
+### Navigating Tourette Syndrome: Young Adult Toolkit
+
+- URL: https://tourette.org/wp-content/uploads/TAA_Young_Adult_Toolkit.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Official young-adult toolkit with social-communication strategies, including practicing disclosure, active listening, and clear I statements.

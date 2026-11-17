@@ -908,3 +908,13 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Open hardware and software repository for a wristband-style median-nerve stimulation device intended for exploratory tic-management research.
+
+### Hiki: Autism ADHD & ND Dating  App Store
+
+- URL: https://apps.apple.com/fr/app/hiki-autism-adhd-nd-dating/id1466184914?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodivergent friendship and dating app that explicitly welcomes people with Tourette syndrome alongside autistic, ADHD, dyslexic, and other neurodivergent users.

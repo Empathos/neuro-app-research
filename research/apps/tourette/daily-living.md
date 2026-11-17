@@ -548,3 +548,43 @@
 - Query: tourette daily-living neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: Tic and Tourette support app based on CBIT principles, with guided exercises, tic and trigger tracking, educational content, grounding tools, and parent resources.
+
+### Kaboose: Neurodivergent Life
+
+- URL: https://apps.apple.com/in/app/kaboose-neurodivergent-life/id1592717370
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Community and practical-support app offering neurodivergence-focused learning, resources, peer connection, and tools for communication, overwhelm, burnout, self-advocacy, work, and everyday life.
+
+### Mariko Digital Assistant
+
+- URL: https://apps.apple.com/us/app/mariko-digital-assistant/id1645374416
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Visual daily-schedule assistant developed for neurodivergent people, families, and professionals to organize tasks, timing, priorities, and responsibilities.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public directory listing for a free visual planner and assistive-living app supporting neurodivergent daily routines, printable schedules, picture-based communication cards, caregiver collaboration, and mood tracking.
+
+### Tourette Advocate Agent
+
+- URL: https://github.com/tlennon-ie/neurodock/blob/2d9cac6/.claude/agents/tourette-advocate.md
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Open-source review agent for checking software and content for Tourette-aware design, including involuntary tics, premonitory urges, suppression fatigue, sensory triggers, and OCD/ADHD overlap.[6]

@@ -938,3 +938,43 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Research publication evaluating Hazel, a conversational agent intended to support parents and carers of autistic and neurodivergent children, including assessment of safety, empathy, and utility.
+
+### Teens, Tics, and Tech
+
+- URL: https://www.acamh.org/blog/teens-tics-and-tech-camilla-babbage-in-conversation-tourettes-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Research lead on a digital self-help app for young people with Tourette syndrome, developed with input from young people, carers, and professionals; proposed features include reminders, coping, calming, and psychoeducation.
+
+### The Role of Digital Tools in Meeting the Needs of Adults With Tourette Syndrome
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/12919968
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Human-centered design research identifying demand for accessible tic and trigger monitoring, mental-health support, and tools that can involve family or clinical support.
+
+### Qualitative Survey Study of User Experiences of Online Support Communities
+
+- URL: https://formative.jmir.org/2025/1/e66912
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Recent study examining how online support communities may improve mental well-being, self-esteem, tic acceptance, peer recognition, and social connection.
+
+### Neuronet-app
+
+- URL: https://github.com/psychological-safety-yogis/Neuronet-app
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public GitHub repository for a neurodiversity-oriented application that explicitly includes Tourette syndrome among the neurocognitive differences it aims to support.

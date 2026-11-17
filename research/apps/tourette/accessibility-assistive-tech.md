@@ -618,3 +618,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Public directory of current and planned neurodivergent-support apps covering connection, calming, routines, learning, focus, and structured daily activities.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/nr/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodivergent-focused planning and task-scheduling app supporting executive function, focus, routines, and breaking tasks into smaller steps.[9]
