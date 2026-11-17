@@ -1078,3 +1078,43 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: A curated repository of tools and resources for neurodivergent learners, including executive-function study supports, focus timers, and digital self-management tools.
+
+### Neurodivergent Visual Organization
+
+- URL: https://github.com/jeremylongshore/tons-of-skills-marketplace/blob/main/plugins/productivity/neurodivergent-visual-org/skills/neurodivergent-visual-org/SKILL.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: An MIT-licensed Claude Code skill for creating ADHD-friendly visual task breakdowns, decision trees, realistic time estimates, and compassionate organizational tools.
+
+### Onefold: ADHD Focus & Calm
+
+- URL: https://apps.apple.com/us/app/onefold-adhd-focus-calm/id6781411336
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: An ADHD-friendly focus app offering brain dumps, next-step selection, task breakdown, gentle focus sessions, and support for overwhelm, procrastination, time blindness, and executive-function difficulties.
+
+### Diverge: ADHD Planner Todo
+
+- URL: https://apps.apple.com/us/app/diverge-adhd-planner-todo/id6747709978
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: ADHD-oriented planner that turns brain dumps into actionable tasks.[6]
+
+### ADHD-OS
+
+- URL: https://github.com/LegionForge/ADHD-OS
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public GitHub repository for a personal assistant framework intended as an external executive-function system, with frictionless capture, modular memory, and multi-agent coordination.[8]

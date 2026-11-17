@@ -948,3 +948,23 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: An app for ADHD, autistic, and sensory-sensitive users to track how noise, crowds, and plans affect daily energy capacity.
+
+### Neurture: Family Support
+
+- URL: https://apps.apple.com/us/app/neurture-family-support/id6760677402
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: A family-support app with sensory-friendly activities including sand drawing, bubble-wrap popping, breathing balloons, and counting exercises.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/bo/app/calm-fidgets-sensory-play/id6761034020?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: A sensory-play app offering virtual fidgets and repetitive interactions such as spinning, popping, stretching, tapping, and twisting.

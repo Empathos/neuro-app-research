@@ -1428,3 +1428,23 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: AAC app developed for emerging speech-generating-device users, including people with cognitive challenges and cortical visual impairment.
+
+### Unmute AAC
+
+- URL: https://github.com/Brooklyn-git/Unmute-AAC-App
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Offline, customizable Android AAC app using symbols, emoji, or personal photos to build spoken sentences.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/kr/app/innervoice-aac-for-autism/id730856179?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Communication-board app enabling autistic and nonspeaking users to express choices, ideas, questions, requests, and conversational messages through speech.

@@ -878,3 +878,23 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public app-store listing for a neurodiversity-focused support application.
+
+### VRSEx/ADHD  Advanced Divergent Human Development
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: A public repository for a proposed NeuroVerse platform combining smartwatch, tablet, AI, and virtual-reality components to support social cues, daily task performance, and emotional development.
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ca/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: In-the-moment support app for neurodivergent adults, parents, and carers to record difficult moments, identify triggers, and develop practical strategies.

@@ -689,16 +689,6 @@
 - Found: 2026-10-24
 - Description: Official documentation covering accessibility APIs, assistive technologies, cognitive disabilities, and testing app experiences with accessibility features.
 
-### Apple Cognitive Accessibility Features
-
-- URL: https://support.apple.com/guide/iphone/overview-of-cognitive-accessibility-features-iph0ede5b8d6/ios
-- Source: perplexity-sonar
-- Condition: general
-- Support category: accessibility-assistive-tech
-- Query: general accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-24
-- Description: Official iPhone user guide covering cognitive-support features including Focus, Dictation, Read & Speak, Live Captions, reduced motion, and simplified reading.
-
 ### MDN Cognitive Accessibility
 
 - URL: https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Cognitive_accessibility

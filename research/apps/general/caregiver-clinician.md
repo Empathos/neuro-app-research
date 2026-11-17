@@ -938,3 +938,53 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Clinician- and neurodiversity-expert-curated app providing autism caregivers with routines, structured activities, emotional-regulation support, and daily guidance.
+
+### Awesome Neurodiversity
+
+- URL: https://github.com/awesome-neurodiversity/awesome-neurodiversity
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Community-maintained GitHub collection of neurodiversity resources, events, organizations, and tools.
+
+### ND Resource Hub
+
+- URL: https://neurodiversity.org/ndresourcehub/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public hub aggregating expert resources from across the neurodiversity community for individuals, families, and support professionals.
+
+### Pivot Diversity Resources
+
+- URL: https://www.pivotdiversity.com/resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodiversity resource page listing apps and tools, including focus and productivity supports.
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Family support app for neurodivergent children that includes observation logs, automated summaries for therapists and IEP teams, clinician-backed guidance, resource libraries, and parent wellbeing tools.
+
+### VARA App
+
+- URL: https://www.autism360.com/vara/?region=us
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Autism support app offering personalized answers from Autism360 clinicians.

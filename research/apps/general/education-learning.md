@@ -1228,3 +1228,63 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Structured phonics and sight-word app designed for autistic and ADHD learners, featuring one-task lessons, predictable routines, minimal sensory input, text-to-speech, offline use, and no tracking.
+
+### Inclusive Media and Design Centre Repositories
+
+- URL: https://github.com/orgs/IMDC/repositories
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public repository collection including Webmoti-React, described as a hybrid learning platform for neurodivergent students, plus other accessibility-focused projects.
+
+### Rowan University Disability-Specific Resources
+
+- URL: https://education.rowan.edu/lrcsouth/online-resource-site/inclusive_ed/disability-specific.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Educational resource hub for parents, teachers, and learners, including AAC communication cards, social stories, academic materials, regulation activities, and transition resources.
+
+### GitHub Inclusive Education Topic
+
+- URL: https://github.com/topics/inclusive-education
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Repository directory featuring inclusive-learning projects such as ReadEase, a dyslexia-focused platform with multisensory modules, gamified phonics, voice-assisted notes, and immersive reading.
+
+### Neurodiversity Learning Dataset
+
+- URL: https://github.com/ArosioGiada/neurodiversity-learning-patterns/blob/main/student_performance_dataset.csv
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public CSV dataset associated with neurodiversity learning-pattern research and student-performance analysis.
+
+### Assistive Technology for Accessible Education
+
+- URL: https://school-education.ec.europa.eu/en/discover/news/assistive-technology-accessible-education?prefLang=fr
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: European Commission education resource describing text-to-speech, AAC, task organizers, focus-enhancing apps, and other assistive technologies for learners with dyslexia, autism, ADHD, and related needs.
+
+### Ocxly
+
+- URL: https://github.com/ocxly/Ocxly
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public research and development repository focused on AI, education, human-centered technology, accessibility, neurodiversity, language learning, and ADHD focus tools.
