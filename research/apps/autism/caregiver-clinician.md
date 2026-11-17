@@ -1108,3 +1108,43 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Open-access research article describing systematic, evidence-informed development and clinician-led co-design of a caregiver psychoeducation app for autism support.[5]
+
+### YAPP (Your Accessible Personal Platform)
+
+- URL: https://apps.apple.com/no/app/yapersonal-platform/id6759991282?l=nb
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: AAC platform for nonspeaking and low-verbal users, with clinician analytics, caregiver-device mirroring, prompts, alerts, and sensory-friendly interface options.
+
+### Au'commadate
+
+- URL: https://apps.apple.com/co/app/aucommadate/id6762436895
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Touch-based communication and family-support app for nonspeaking or minimally verbal users, designed for use by families, caregivers, educators, and speech-language clinicians.
+
+### Adappt co-creation study
+
+- URL: https://repository.uantwerpen.be/docman/irua/e59e96motoM65
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Research lead describing a smartphone app co-created with parents of neurodivergent children and mental-health professionals to support parental well-being and adaptation.
+
+### WellBe assistive smartwatch application
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwaf037/8276143
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Research lead for an assistive smartwatch app supporting emotion regulation in neurodivergent adults through self-report, breathing prompts, coping strategies, and help-seeking options.

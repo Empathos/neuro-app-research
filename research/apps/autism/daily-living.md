@@ -1018,3 +1018,23 @@
 - Query: autism daily-living neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: Visual daily-schedule assistant developed for neurodivergent people, families, and professionals to organize tasks, timing, and responsibility.
+
+### SenLife  ADHD & Autism Support
+
+- URL: https://apps.apple.com/rs/app/senlife-adhd-autism-support/id6450156262
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Daily diary app for recording behavior, emotions, routines, medication, and support observations, with reports that can be shared with carers, teachers, and clinicians.
+
+### Tiimo
+
+- URL: https://apps.apple.com/tm/iphone/story/id1565800289
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Visual daily planner and task scheduler designed with neurodiversity in mind, featuring color-coded timelines, reminders, and task breakdowns.[5]

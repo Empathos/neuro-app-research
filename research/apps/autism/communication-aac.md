@@ -1378,3 +1378,43 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Flexible grid-based AAC tool supporting touch, keyboard, switches, and eye gaze, with text-to-speech, multilingual functionality, and offline use.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/kr/app/innervoice-aac-for-autism/id730856179?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Communication support app for autistic and nonspeaking people, offering communication boards, typing, speech, English and Spanish support, and the ability to convert photographed or imported board images into talking boards.[9]
+
+### My Voice AAC
+
+- URL: https://apps.apple.com/us/app/my-voice-aac/id6758536696
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Offline visual-tile AAC app with customizable photos, recorded audio or text-to-speech, folders, linked tiles, adjustable layouts, and on-device or iCloud data storage.[3]
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/es/app/innervoice-aac-for-autism/id730856179?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Communication-support app that turns communication boards into speech and supports board buttons, typing, and speech in English or Spanish.
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/us/app/speech-assistant-aac/id1139762358?l=zh-Hant-TW&platform=mac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Text-to-speech AAC app for speech impairments, including autism, with customizable categories, saved phrase buttons, and keyboard-based message entry.

@@ -1208,3 +1208,53 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Public open-source project described as a neurodivergent sensory-regulation and receptive music-therapy environment.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/bo/app/calm-fidgets-sensory-play/id6761034020?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Apple app providing virtual fidgets and calming sensory activities intended to support self-regulation, sensory-seeking needs, transitions, and quiet independent play.
+
+### BridgeAAC Core
+
+- URL: https://github.com/BridgeAAC/core/wiki
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Open-source AAC project with a communication board and a high-contrast, soft-color sensory mode intended to reduce glare and visual fatigue or overload.
+
+### Otsimo | Special Education 1+
+
+- URL: https://apps.apple.com/ec/app/otsimo-special-education-1/id1084723774?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Special-education app providing autism-focused games and social stories for people with autism and other developmental or learning differences.
+
+### Nomi: Autism Parents Support
+
+- URL: https://apps.apple.com/au/app/nomi-autism-parents-support/id6758640566
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Parent-support app for logging triggers, intensity, duration, environment, foods, and sensitivities, while creating visual routines and accessing sensory-processing guidance.
+
+### MeltdownMap: AI Autism Tracker
+
+- URL: https://apps.apple.com/ca/app/meltdownmap-ai-autism-tracker/id6781921346
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Autism tracking app for recording meltdown triggers, intensity, duration, location, sleep, sensory input, and helpful interventions to identify patterns and support therapy discussions.

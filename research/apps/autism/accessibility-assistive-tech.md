@@ -1258,3 +1258,13 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: AAC communicator with voiced cards, customizable content, and visual communication tools for autistic and other nonspeaking users.
+
+### EYA  AAC Communication
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AAC platform for children and adults with speech difficulties, featuring communication cards, customizable boards, saved phrases, daily routines, and large-button layouts.[4]

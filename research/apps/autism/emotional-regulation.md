@@ -938,3 +938,33 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Emotional-regulation and behavioral-support app for children, including neurodivergent children with autism, ADHD, and sensory needs; includes check-ins, guided activities, and tracking.
+
+### HablemosTEA: ASD & Autism App
+
+- URL: https://apps.apple.com/uy/app/hablemostea-asd-autism-app/id6760207146
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Autism-support app focused on communication, emotional expression, visual schedules, self-regulation, and a Calm Zone for anxiety or overstimulation.
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ca/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodiversity-support app for recording difficult moments, exploring triggers and needs, reflecting on emotions and responses, and identifying strategies for regulation and communication.
+
+### Gentle Ally: PDA Parent Helper
+
+- URL: https://apps.apple.com/jm/app/gentle-ally-pda-parent-helper/id6755533920
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Parent-support app offering PDA-aware demand rephrasing, regulation planning, grounding scripts, breathing exercises, child profiles, and de-escalation guidance.
