@@ -968,3 +968,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: A sensory-play app offering virtual fidgets and repetitive interactions such as spinning, popping, stretching, tapping, and twisting.
+
+### NeurOS: Neurodivergent Planner
+
+- URL: https://play.google.com/store/apps/dev?id=5622740462210402208&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Android developer listing featuring a neurodivergent planner for ADHD and focus with task breakdown, timers, and sensory tools.

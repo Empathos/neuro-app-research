@@ -1288,3 +1288,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Public research and development repository focused on AI, education, human-centered technology, accessibility, neurodiversity, language learning, and ADHD focus tools.
+
+### Geniuslane Learning
+
+- URL: https://apps.apple.com/us/app/geniuslane-learning/id1663921934
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: App offering CPD-approved neurodiversity and neurodevelopment courses for parents, professionals, and schools, with step-by-step guidance for supporting children.
+
+### Lingokids Neuroinclusive Learning Activities
+
+- URL: https://apps.apple.com/es/iphone/story/id1740497408?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Apple App Store feature describing Lingokids activities for children ages 28, including content supporting social skills, emotion recognition, movement, focus, and attention for neurodivergent learners.

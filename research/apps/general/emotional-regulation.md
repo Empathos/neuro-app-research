@@ -768,3 +768,13 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Crisis-regulation app for ADHD, autistic, and other neurodivergent users, organized around spiraling, freezing, raging, overwhelm, and being stuck.
+
+### Now & Next
+
+- URL: https://www.autism.org.uk/autism-services-directory/now-next-picture-routine-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Visual routine app for autistic and ADHD children that includes calm-down tools, breathing support, emotion cards, visual timers, and picture-based communication.

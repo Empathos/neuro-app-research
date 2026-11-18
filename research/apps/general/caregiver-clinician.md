@@ -988,3 +988,13 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Autism support app offering personalized answers from Autism360 clinicians.
+
+### Moonbow: Autism Behavior Log
+
+- URL: https://apps.apple.com/ca/app/moonbow-autism-behavior-log/id6764191923
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Caregiver behavior-logging app that structures events into ABC-style insights, supports clinician-approved home practice, and provides shareable summaries and reports for therapists, BCBA teams, teachers, and IEP teams.

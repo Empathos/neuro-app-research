@@ -918,3 +918,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Open research review identifying technology categories including prompting systems, self-monitoring apps, AI audio, mind-mapping, assistive robots, screen readers, OCR, speech recognition, and note-taking tools.
+
+### Apple Cognitive Accessibility
+
+- URL: https://www.apple.com/lae/accessibility/cognitive/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Official overview of Assistive Access, Guided Access, Safari Reader, and other Apple features supporting comprehension, attention, communication, and reduced cognitive load.
+
+### Everway Assistive Technology
+
+- URL: https://www.everway.com/en-gb/solutions/assistive-tech/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Assistive-technology suite offering text-to-speech, writing and reading support, PDF accessibility, visual planning, and structured task tools.

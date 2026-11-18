@@ -1118,3 +1118,23 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Public GitHub repository for a personal assistant framework intended as an external executive-function system, with frictionless capture, modular memory, and multi-agent coordination.[8]
+
+### MindBalance
+
+- URL: https://github.com/Fewdev1122/MindBalance
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Neuro-inclusive productivity project combining task management, Google Calendar integration, cognitive-load visualization, and support for time blindness.
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://apps.microsoft.com/detail/9p9vvnb7fn2k
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Windows daily planner with a spatial agenda, AI brain dump, focus timer, cognitive games, and offline support for neurodivergent users.

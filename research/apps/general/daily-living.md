@@ -898,3 +898,13 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: In-the-moment support app for neurodivergent adults, parents, and carers to record difficult moments, identify triggers, and develop practical strategies.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Visual planner and assistive-living app for autistic and neurodivergent people, offering daily schedules, to-do lists, and routine support across mobile and web.

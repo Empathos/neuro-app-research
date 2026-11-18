@@ -1448,3 +1448,33 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Communication-board app enabling autistic and nonspeaking users to express choices, ideas, questions, requests, and conversational messages through speech.
+
+### Flexspeak AAC
+
+- URL: https://apps.apple.com/us/app/flexspeak-aac/id6642667205?l=ar&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Multilingual AAC app with AI prediction, custom vocabulary, remote editing, group sharing, symbols and photos, and support for autistic and non-speaking users.[7]
+
+### Sherpa: Autism & ND Parenting
+
+- URL: https://apps.apple.com/us/app/sherpa-autism-nd-parenting/id1568913225?l=es-MX
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Parent-support app for autistic and neurodivergent children featuring custom image-based word decks for speech and language development, visual social stories, and visual timers.[5]
+
+### Kaboose: Neurodivergent Life
+
+- URL: https://apps.apple.com/us/app/kaboose-neurodivergent-life/id1592717370
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Neurodivergent community and support app covering communication, overwhelm, burnout, relationships, self-advocacy, work, and everyday experiences, with practical resources and tools.[2]
