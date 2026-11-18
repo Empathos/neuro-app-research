@@ -796,3 +796,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Public web-based collection of tools for task paralysis, focus, planning, nervous-system regulation, breathing, grounding, and sensory-grounding exercises.
+
+### VRSEx/ADHD
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Public repository for a neurodivergence-support platform combining AI, smartwatch and tablet software, social-cue displays, virtual reality, daily-task support, and social-emotional development.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/nr/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: App Store version of Tiimo offering visual daily planning and a calming focus timer to support task completion and time awareness.

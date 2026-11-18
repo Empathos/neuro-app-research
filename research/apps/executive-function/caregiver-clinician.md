@@ -664,3 +664,33 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Visual-schedule and emotional-regulation app for preschoolers and older users with autism, ADHD, or other conditions affecting executive-function skills; relevant to caregiver-supported routines.
+
+### Trayt
+
+- URL: https://apps.apple.com/us/app/trayt/id1235887472
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Healthcare tracking app for people with autism, ADHD, and other brain-based disorders that lets individuals and caregivers record symptoms using measures intended to support communication with clinicians.
+
+### Mapping Neurodevelopmental Diversity in Executive Function  PDF
+
+- URL: https://pure.uva.nl/ws/files/255989683/Mapping_neurodevelopmental_diversity_in_executive_function.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Full-text research paper describing executive-function diversity and incorporating parent or caregiver ratings; the indexed record also references a related NeurodiversityInEF repository.
+
+### Neurodivergent Students: A Continuum of Skills with an Emphasis on Creativity and Executive Functions
+
+- URL: https://tandfonline.com/doi/epub/10.1080/21622965.2024.2406914
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Study examining executive functions in neurodivergent secondary students, including ADHD, dyslexia, intellectual disability, and giftedness, using the Nesplora Ice-Cream virtual-reality assessment.

@@ -1058,3 +1058,33 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Visual planning and executive-function assistant for neurodivergent college students; supports assignment breakdown, prioritization, scheduling, task initiation, and academic organization.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Curated repository of tools and frameworks for executive dysfunction, ADHD, and autism-spectrum learners, including study skills, executive-function tutoring, and open-source focus timers.
+
+### Unlimitics
+
+- URL: https://foundation.hundred.org/en/innovations/unlimitics
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: AI-driven educational platform for school-aged children that develops executive-function skills through simulations involving self-awareness, emotional regulation, reflection, and decision-making.
+
+### The ADHD Executive
+
+- URL: https://apps.apple.com/ru/app/the-adhd-executive/id6749107142
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: ADHD support app with guided short resets, reflection prompts, and daily exercises intended to reduce cognitive friction and support clearer thinking.
