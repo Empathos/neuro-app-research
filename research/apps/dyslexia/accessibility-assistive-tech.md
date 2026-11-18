@@ -439,16 +439,6 @@
 - Found: 2026-10-28
 - Description: University resource focused on reading, spelling, and writing programs for people with dyslexia and language disabilities, with links to intervention and technology resources.
 
-### SimplifyAI Text Accessibility System
-
-- URL: https://github.com/acedreamer/offline-text-accessibility/blob/master/plan/ARCHITECTURE_DEEP_DIVE.md
-- Source: perplexity-sonar
-- Condition: dyslexia
-- Support category: accessibility-assistive-tech
-- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
-- Found: 2026-10-29
-- Description: Desktop accessibility project for neurodivergent users with a dyslexia mode offering shorter sentences, improved spacing, optional hyphenation, and text-to-speech.
-
 ### PSInclusive Accessibility
 
 - URL: https://github.com/PSInclusive/Accessibility
@@ -628,3 +618,53 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Assistive word-processing resource highlighting Co:Writer for spelling support and text-to-speech options for users with dyslexia, dysgraphia, or other learning disabilities.
+
+### Accessibility Widget
+
+- URL: https://github.com/swethatheresa/Accessibility-Widget
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Open-source web accessibility component offering controls such as font size, letter spacing, dyslexic font, cursor size, link and heading highlighting, line height, and contrast.
+
+### Dyslexia Diagnostic Frameworks
+
+- URL: https://accessibility.tools/docs/dyslexia/diagnostic-frameworks
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Reference material on diagnostic systems and frameworks relevant to dyslexia research and support design.
+
+### Dyslexia Research Reference List
+
+- URL: https://accessibility.tools/docs/dyslexia/references
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Public bibliography of scientific research, diagnostic manuals, and organizational resources used in dyslexia literature review.
+
+### Dolphin EasyReader
+
+- URL: https://www.rnibbookshare.org/help/read-with-dolphin-easyreader
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Accessible reading app supporting dyslexia and other print disabilities, with text-to-speech, adjustable fonts, spacing, colors, highlighting, and playback speed.
+
+### VDWrite
+
+- URL: https://www-redesign.wcu.edu/learn/academic-services/disability-services/assistive-technology.aspx
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Writing tool described as supporting dyslexia with text-to-speech proofreading, phonetic and word search, outline creation, voice-based proofreading, and VoiceOver navigation.

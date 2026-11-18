@@ -429,16 +429,6 @@
 - Found: 2026-06-29
 - Description: A comprehensive review of top AAC mobile apps, including considerations for motor plan-based designs and customization for neurodivergent users.
 
-### Set up a Focus on iPhone - Apple Support
-
-- URL: https://support.apple.com/guide/iphone/set-up-a-focus-iphd6288a67f/ios
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: communication-aac
-- Query: focus speech support iOS Android
-- Found: 2026-06-30
-- Description: Official Apple documentation for configuring Focus Mode on iOS, including settings to silence notifications, customize lock screens, and manage focus filters for neurodivergent support and speech concentration.
-
 ### Digital Wellbeing & Parental Controls - Android Focus Mode
 
 - URL: https://support.google.com/android-help/topic/7783467922911591

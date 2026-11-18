@@ -259,16 +259,6 @@
 - Found: 2026-06-25
 - Description: Official medical overview from Cleveland Clinic detailing symptoms, causes, and treatment options for executive dysfunction, including overload triggered by neurodevelopmental conditions.
 
-### MindGenius MindMapping Software
-
-- URL: https://www.mindgenius.com/mindmapping
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: sensory-regulation
-- Query: executive function overload directory
-- Found: 2026-06-25
-- Description: Official product page for MindGenius mindmapping tool, a documented repository and app used to structure ideas visually and reduce cognitive load for neurodivergent users.
-
 ### Pomodoro Technique Timer Apps Directory
 
 - URL: https://pomofocus.io/

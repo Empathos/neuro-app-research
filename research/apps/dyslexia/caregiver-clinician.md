@@ -968,3 +968,13 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Mind-mapping and planning tool with customizable neurodiversity-oriented settings and AI-generated content options for dyslexia, ADHD, and autism.
+
+### Dyslexia Data Consortium: Neuroimaging Data Sharing and Analysis
+
+- URL: https://www.link.springer.com/article/10.1007/s12021-025-09747-0
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Research platform providing dyslexia neuroimaging data sharing, harmonization, image-processing resources, and analysis tools.
