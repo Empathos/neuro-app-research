@@ -1268,3 +1268,23 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: AAC platform for children and adults with speech difficulties, featuring communication cards, customizable boards, saved phrases, daily routines, and large-button layouts.[4]
+
+### Matraquinha: Autism
+
+- URL: https://apps.apple.com/ni/app/matraquinha-autism/id1423586611?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Image-to-speech AAC app for people with autism, nonverbal communication, or speech difficulties; supports expression of needs, emotions, and desires.
+
+### AssistiveWare Proloquo
+
+- URL: https://www.apple.com/us-es/newsroom/2023/05/assistiveware-ushers-in-next-generation-of-aac-technology/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Apple newsroom overview of AssistiveWare's Proloquo and Proloquo Coach AAC tools for communication, language development, and support from families and educators.

@@ -1258,3 +1258,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Autism tracking app for recording meltdown triggers, intensity, duration, location, sleep, sensory input, and helpful interventions to identify patterns and support therapy discussions.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/tw/app/autism-play-garden/id6751961935?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Ad-free app with therapist-informed activities including AAC, sensory calming games, tracing, coloring, puzzles, and daily-living supports.

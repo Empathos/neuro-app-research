@@ -1148,3 +1148,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Research lead for an assistive smartwatch app supporting emotion regulation in neurodivergent adults through self-report, breathing prompts, coping strategies, and help-seeking options.
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Family support app for autism, ADHD, sensory processing differences, and other neurodivergent profiles, including observation logs, therapist and IEP summaries, resource materials, and structured support plans.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/no/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Neuroaffirming support app for caregivers, neurodivergent adults, allied-health professionals, and educators; organizes observations, documents, medications, and support-team information.
+
+### New Jersey Autism Center of Excellence
+
+- URL: https://njace.us/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Public autism research and clinical resource organization involving autistic people and caregivers in diagnosis, research, and management, with plans for a statewide research database connecting families and researchers.

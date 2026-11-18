@@ -968,3 +968,13 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Parent-support app offering PDA-aware demand rephrasing, regulation planning, grounding scripts, breathing exercises, child profiles, and de-escalation guidance.
+
+### Mood Toolbox
+
+- URL: https://apps.apple.com/us/app/mood-toolbox/id1342614348?l=zh
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Mood-recognition and management app created for children with autism and special needs, featuring mood tracking, calming strategies, games, and caregiver or educator monitoring.
