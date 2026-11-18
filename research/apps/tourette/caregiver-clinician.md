@@ -978,3 +978,13 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Public GitHub repository for a neurodiversity-oriented application that explicitly includes Tourette syndrome among the neurocognitive differences it aims to support.
+
+### TicSafe
+
+- URL: https://apps.apple.com/jp/app/ticsafe/id6738706091?l=en-US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: iOS app developed by a person with Tourette syndrome, offering medication guidance, communication support for medical professionals and therapists, tic-management strategies, and educational resources.

@@ -628,3 +628,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Neurodivergent-focused planning and task-scheduling app supporting executive function, focus, routines, and breaking tasks into smaller steps.[9]
+
+### TSBand wearable tic-monitoring system
+
+- URL: https://neuro.jmir.org/2023/1/e43351/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Research prototype combining a sensor-equipped wristband, machine-learning tic-attack detection, audio monitoring, manual alerts, and a companion app for notifying caregivers.

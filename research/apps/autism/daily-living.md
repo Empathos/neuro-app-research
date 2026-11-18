@@ -179,16 +179,6 @@
 - Found: 2026-06-29
 - Description: Official product page for Proloquo2Go, a leading AAC app featuring natural voices and customizable vocabularies to support daily communication and living for children and adults.
 
-### AbleNet - Daily Living with AAC Documentation
-
-- URL: https://support.ablenetinc.com/category/families/ablefamilies/learn-more/daily-living-with-aac/
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: daily-living
-- Query: AAC daily living support app
-- Found: 2026-06-29
-- Description: Official documentation and resource hub from AbleNet offering strategies, guides, and tool recommendations for integrating AAC devices into daily living routines for neurodivergent individuals.
-
 ### The role of augmentative and alternative communication for children ...
 
 - URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5036660/

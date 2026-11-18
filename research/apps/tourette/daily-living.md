@@ -588,3 +588,13 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Open-source review agent for checking software and content for Tourette-aware design, including involuntary tics, premonitory urges, suppression fatigue, sensory triggers, and OCD/ADHD overlap.[6]
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/ly/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Visual day-planning app intended for forgetful and neurodivergent users, supporting routines, independent living, and caregiver-assisted planning.

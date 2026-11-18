@@ -448,3 +448,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: App Store listing for a neurodivergent crisis-regulation tool with modes for spiraling, freezing, raging, overwhelm, and getting stuck.
+
+### Animi: Emotional Intelligence
+
+- URL: https://play.google.com/store/apps/details?id=com.animiapp.animi&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Emotion-coaching app focused on emotional awareness, alexithymia, emotion vocabulary, identifying causes, and recognizing personal emotional patterns.

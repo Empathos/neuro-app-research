@@ -179,16 +179,6 @@
 - Found: 2026-06-25
 - Description: Official repository of AAC (augmentative and alternative communication) apps and software supporting eye tracking and eye gaze for neurodivergent users.
 
-### QuickTalker Freestyle Eye Tracking Setup  AbleNet Documentation
-
-- URL: https://support.ablenetinc.com/quicktalker-freestyle/eye-tracking-or-eye-gaze-for-aac
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: communication-aac
-- Query: tic tracking communication support software
-- Found: 2026-06-25
-- Description: Official documentation for configuring eye tracking on the QuickTalker Freestyle iPad app for AAC communication.
-
 ### Eyetell Eye Tracking Communication App  Facebook Announcement
 
 - URL: https://www.facebook.com/groups/ATMakers/posts/794431437634964
@@ -238,16 +228,6 @@
 - Query: tic tracking AAC directory
 - Found: 2026-06-25
 - Description: Leading provider of AAC devices with expert clinicians to help find the best fit, offering customized solutions for individuals with tic disorders.
-
-### QuickTalker Freestyle Eye Tracking Settings
-
-- URL: https://support.ablenetinc.com/quicktalker-freestyle/eye-tracking-or-eye-gaze-for-aac/
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: communication-aac
-- Query: tic tracking AAC directory
-- Found: 2026-06-25
-- Description: Documentation guide enabling eye tracking on QuickTalker Freestyle for AAC, showing how to control speech-generating devices with eye movements.
 
 ### Eye Tracking Archives - NWACS
 
