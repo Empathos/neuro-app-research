@@ -1328,3 +1328,53 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Apple App Store collection featuring ADHD-relevant tools for routines, focus, time management, task tracking, habit building, app blocking, Pomodoro timing, and daily planning.
+
+### Doable - ADHD Task Manager
+
+- URL: https://apps.apple.com/us/app/doable-adhd-task-manager/id6756186851
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: ADHD-focused task manager offering AI task breakdown, subtasks, focus mode, recurring tasks, and a distraction-reduced interface.
+
+### Set: ADHD Task Manager & Timer
+
+- URL: https://apps.apple.com/us/app/set-adhd-task-manager-timer/id6753867602
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Task-management and flexible-timer app designed for ADHD, time blindness, variable schedules, creators, freelancers, and students.
+
+### ADHD Assistant
+
+- URL: https://apps.apple.com/us/app/adhd-assistant/id6752323911
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: ADHD-oriented task manager with routine templates, a daily three-task limit, Pomodoro timing, and home- and lock-screen memo widgets.
+
+### ADHD Todo
+
+- URL: https://apps.apple.com/us/app/adhd-todo/id6755389010?l=zh-Hans-CN
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Task-management app explicitly designed to organize responsibilities in ways intended to match ADHD cognitive needs.
+
+### ADHD Daily Planner & Tasks Pro
+
+- URL: https://apps.apple.com/lu/app/adhd-daily-planner-tasks-pro/id6761681085
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: ADHD-friendly planner combining tasks, habits, reminders, journals, schedules, and routine tracking.

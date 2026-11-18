@@ -1178,3 +1178,43 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: A public developer profile featuring personal-device apps, including a sensory lexicon and tools related to visual or sensory interaction.
+
+### Zelmwell
+
+- URL: https://apps.apple.com/is/app/zelmwell/id6765888359
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: ADHD emotional-regulation app featuring guided breathing and customizable ambient soundscapes for sensory calm.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Regulation and sleep app for sensitive and neurodivergent children and adults, including a one-tap calming mode with breathing guidance and haptic pulses.
+
+### ADHD Brain
+
+- URL: https://apps.apple.com/nl/app/adhd-brain/id6766603877?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: All-in-one ADHD support app with focus timers, calming sounds, visual relaxation, sensory tools, brain games, notes, and routine-building features.
+
+### Sensory Fidgets
+
+- URL: https://apps.apple.com/ae/app/sensory-fidgets/id6754608368
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Collection of more than 50 interactive digital fidgets intended to support relaxation, focus, self-regulation, transitions, and staying on task for users including people with ADHD.

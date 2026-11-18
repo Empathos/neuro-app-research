@@ -1588,3 +1588,23 @@
 - Query: adhd education-learning neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Neuroinclusive coursework toolkit containing instructional-design rules, schemas, and auditors for creating accessible learning content for ADHD, dyslexia, autism, and cognitive accessibility.[7]
+
+### Microsoft Hackathon AI Learning for Neurodiverse Learners
+
+- URL: https://github.com/SheaGuev/Microsoft-Hackathon-AI-LLMs-Neurodiverse-Learners
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Public prototype that uses questionnaire-based learner profiles and AI-generated study spaces to provide personalized materials, visual aids, practice formats, and learning strategies.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/us/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Phonics and sight-word learning app designed for autistic and ADHD learners.

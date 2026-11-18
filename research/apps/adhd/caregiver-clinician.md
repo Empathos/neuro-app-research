@@ -1038,3 +1038,13 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Public project directory with ADHD-oriented tools such as task breakdown, calendar scheduling, focus timers, rewards, self-reflection, and neurodivergent-friendly desktop applications.
+
+### Adappt: Smartphone Support for Parents of Neurodivergent Children
+
+- URL: https://repository.uantwerpen.be/docman/irua/e59e96motoM65
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Research repository record describing a co-created smartphone app using accessible, evidence-based positive-psychology interventions to support parents of neurodivergent children.

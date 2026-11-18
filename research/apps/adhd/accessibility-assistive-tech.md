@@ -729,16 +729,6 @@
 - Found: 2026-10-29
 - Description: ADHD-focused task manager offering brain dumps, AI task breakdown, body-doubling support, and simplified task progression.
 
-### Symplara: ADHD Focus & Tasks
-
-- URL: https://apps.apple.com/us/app/symplara-adhd-focus-tasks/id6754533445
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: accessibility-assistive-tech
-- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-29
-- Description: ADHD-oriented productivity app with focus timers, task planning, and daily, weekly, and monthly organization views.
-
 ### ADHD-Focus: Focus & Routines
 
 - URL: https://play.google.com/store/apps/details?id=click.adhdsupport.focus
@@ -1018,3 +1008,13 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: ADHD productivity app using a brief WHO ASRS-based screening to adapt task breakdown, session length, and interaction style to attention patterns.
+
+### Onefold: ADHD Focus & Calm
+
+- URL: https://apps.apple.com/us/app/onefold-adhd-focus-calm/id6781411336
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: ADHD-friendly self-support tool for voice or text brain dumps, choosing a manageable next step, short focus sessions, and reducing overwhelm.

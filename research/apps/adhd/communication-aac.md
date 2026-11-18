@@ -1249,3 +1249,63 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Visual planning and routine app designed for neurodivergent users, including people with ADHD; breaks tasks into smaller steps.
+
+### GadAAC
+
+- URL: https://apps.apple.com/tw/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Free AAC app for nonspeaking or speech-limited users, offering customizable tiles, visual schedules, First/Then sequences, and accessibility settings.
+
+### Walkie Talkie AAC
+
+- URL: https://apps.apple.com/us/app/walkie-talkie-aac/id6800186644
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: iPhone and iPad communication display that shows messages in large type and speaks them aloud. Designed for outward-facing communication and usable without an account or advertisements.
+
+### All in One AAC
+
+- URL: https://apps.apple.com/pl/app/all-in-one-aac/id6753122872
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Multilingual, offline-friendly AAC app for children, teens, and adults. Supports picture-based communication for expressing needs, feelings, and ideas at home, school, therapy, and in the community.
+
+### Tiny Talk AAC
+
+- URL: https://apps.apple.com/cz/app/tiny-talk-aac/id6754395983
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: AAC app for children and adults with limited or no speech, including users with autism, apraxia, developmental language disorder, cerebral palsy, aphasia, ALS, and related conditions.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?platform=mac
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Flexible AAC text-to-speech tool for children and adults with autism, cerebral palsy, Down syndrome, aphasia, apraxia, and other speech difficulties. Includes picture-supported sentence construction and high-quality voices.
+
+### SteadyTouch AAC Speech Talker
+
+- URL: https://apps.apple.com/us/app/steadytouch-aac-speech-talker/id6806338883
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: AAC app combining communication, spelling, learning activities, games, and rewards for iPhone, iPad, and Apple Watch. Intended for non-speaking autistic users and other people with communication needs.

@@ -1328,3 +1328,13 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Public repository for a modular personal-assistant framework emphasizing frictionless capture, external working memory, task support, and local data ownership.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/br/app/brimming-adhd/id6469721652?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Digital wellness app for ADHD and neurodivergent executive dysfunction, focused on overcoming task initiation, overwhelm, avoidance, and follow-through difficulties.

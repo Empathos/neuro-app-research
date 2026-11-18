@@ -1498,3 +1498,23 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Repository documentation containing ADHD support material, including an emotional-regulation section with the STOP technique.
+
+### ADHD - Cognitive Research
+
+- URL: https://play.google.com/store/apps/details?id=com.cognifit.android.adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Google Play app intended for participation in ADHD-related scientific studies, including cognitive evaluation and stimulation.
+
+### ADHD - Cognitive Research
+
+- URL: https://apps.apple.com/nz/app/adhd-cognitive-research/id1412022818
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: App Store version of a research-oriented ADHD tool covering attention, inhibition, monitoring, memory, planning, and coordination.
