@@ -478,3 +478,33 @@
 - Query: dyslexia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-15
 - Description: GNOME desktop extension providing a translucent colored overlay intended to support dyslexia, visual stress, scopic sensitivity, and related visual-processing needs.
+
+### Dyslexia GitHub Topics
+
+- URL: https://github.com/topics/dyslexia?o=desc&s=stars
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Public repository index featuring dyslexia-related projects, including ColorTint, a desktop color-overlay tool for dyslexia and visual stress, plus other learning-support tools.
+
+### App for Dyslexia
+
+- URL: https://github.com/isha-git/App-for-Dyslexia/blob/master/README.md
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Android application repository with text-to-speech, speech-to-text, spelling and pronunciation practice, OCR scanning, and word storage for further practice.
+
+### Dyslexia and Autism Toolkit
+
+- URL: https://apps.apple.com/gt/ipad/story/id1867605202?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: sensory-regulation
+- Query: dyslexia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Apple App Store editorial collection highlighting Voice Dream Reader for text-to-speech reading support and Calm for low-stimulus sensory regulation, soundscapes, breathing, and grounding.

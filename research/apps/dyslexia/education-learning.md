@@ -798,3 +798,33 @@
 - Query: dyslexia education-learning neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Curated GitHub list of tools, resources, and services for neurodivergent learners, educators, and parents, including the OpenDyslexic font.
+
+### Dyslexia.ai - Smart Phonics
+
+- URL: https://apps.apple.com/us/app/dyslexia-ai-smart-phonics/id1564885095
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Phonics-based literacy app supporting reading, spelling, rhyming, and vowel learning for learners with dyslexia.
+
+### Dyslexia & ADHD: dys reading
+
+- URL: https://apps.apple.com/ro/app/dyslexia-adhd-dys-reading/id1559259054
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Neurodivergent reading-accessibility tool for testing fonts, spacing, and color settings with sample text; explicitly not a diagnostic tool.
+
+### Dyslexia Browser: Easy Reading
+
+- URL: https://apps.apple.com/gb/app/dyslexia-browser-easy-reading/id1085601190
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Web browser offering dyslexia-friendly fonts, color overlays, clutter-free reader mode, and read-aloud word highlighting.

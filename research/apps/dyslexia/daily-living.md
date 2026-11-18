@@ -648,3 +648,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Public repository index with dyslexia-focused projects, including text-to-speech readers, PDF reflow tools, adaptive reading interfaces, writing assistance, and accessible learning software.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Open-source Chrome extension for dyslexia, ADHD, and motor differences, offering text-to-speech, speech-to-text, text simplification, dyslexia-optimized reading, and neurodivergent profiles.
+
+### Autoscroll Bionic Reading
+
+- URL: https://github.com/mandy321/Autoscroll-Bionic-Reading
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Public reading-support project combining bionic reading, a focus lane, and auto-scroll features intended for ADHD and dyslexia.
