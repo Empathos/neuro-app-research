@@ -948,3 +948,63 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: App Store listing that includes the Beats Medical Dyspraxia App, a public lead for dyspraxia-focused therapeutic support.
+
+### Utilization of a Mobile Application for Motor Skill Evaluation in Children
+
+- URL: https://ruc.udc.es/dspace/bitstream/handle/2183/27413/D.Moreno_Naya_2021_Utilization_of_a_Mobile_Application_for_Motor_Skill_Evaluation_in_Children.pdf?sequence=3
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Research and implementation lead for an Android app that lets physiotherapists design, evaluate, monitor, and quantify fine-motor exercises while retrieving performance data.
+
+### Web Platform Supporting Families of Children With Suspected or Diagnosed DCD
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/30273508/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Randomized feasibility trial of a family-support web platform offering online resources, forums, and videoconferencing with a therapist; useful caregiver-clinician design evidence.
+
+### Facebook-Delivered Parent-Mediated Physical Activity Intervention for Children With DCD
+
+- URL: https://research.monash.edu/en/publications/investigating-the-feasibility-and-acceptability-of-a-facebook-del/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Feasibility study using private Facebook groups, parent resources, questionnaires, and activity trackers to support physical activity for children with developmental coordination disorder.
+
+### Effects of an eHealth Intervention for Families of Children With DCD
+
+- URL: https://ouci.dntb.gov.ua/en/works/lxLy8gbN/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: eHealth intervention combining educational materials, social-media support, and wearable step tracking for families of children with DCD; reports quality-of-life and engagement outcomes.
+
+### Developmental Coordination Disorder and the Role of New Technologies
+
+- URL: https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2023-1333.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Review of tablet, virtual-reality, active-video-game, and console technologies for DCD interventions, highlighting motor-learning applications and evidence gaps.
+
+### Co-creating adappt
+
+- URL: https://repository.uantwerpen.be/docman/irua/e59e96motoM65
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Research repository record describing Adappt, a smartphone application co-created with parents of neurodivergent children and mental-health care professionals to support parental well-being.[4]

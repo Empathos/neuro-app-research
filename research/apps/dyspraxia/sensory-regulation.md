@@ -668,3 +668,13 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Low-stimulation companion for neurodivergent teens and adults, featuring task breakdowns, grounding exercises, and breathing techniques.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Calming app for sensitive and neurodivergent children and adults, including a one-tap calming mode with breathing guidance and haptic pacing.

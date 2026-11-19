@@ -749,16 +749,6 @@
 - Found: 2026-10-19
 - Description: Open-source repository entry for an ADHD daily-planning skill supporting neurodivergent-oriented organization.[3]
 
-### ADHD Planner - Routine & Tasks
-
-- URL: https://play.google.com/store/apps/details?id=com.adhd.planner.taches.tasks.routine.easy
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: daily-living
-- Query: adhd daily-living neurodivergent app research pass 501
-- Found: 2026-10-20
-- Description: Android planner for neurodivergent users featuring visual routines, guided transitions, daily habits, and energy awareness.
-
 ### Hypermonkey: ADHD Productivity
 
 - URL: https://apps.apple.com/us/app/hypermonkey-adhd-productivity/id6736893516

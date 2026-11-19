@@ -718,3 +718,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, and communication activities.
+
+### Assistive Technology Apps and Extensions for Struggling Students
+
+- URL: https://www.chconline.org/resourcelibrary/assistive-technology-apps-and-extensions-for-struggling-students/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Resource list linking to tools such as Bookshare for accessible reading formats and Microsoft Seeing AI for reading printed or handwritten text aloud.

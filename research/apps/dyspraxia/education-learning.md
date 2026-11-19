@@ -1028,3 +1028,43 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Visual planning and learning app for diverse cognitive profiles, supporting executive functioning, routines, time management, reminders, and neuroinclusion-focused learning resources.
+
+### Tiimo - Visual Daily Planner
+
+- URL: https://apps.apple.com/tc/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Visual planning and learning app for diverse cognitive profiles, supporting executive functioning, routines, time management, and neuroinclusive learning.
+
+### Kaboose: Neurodivergent Life
+
+- URL: https://apps.apple.com/us/app/kaboose-neurodivergent-life/id1592717370
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Neurodivergent support app offering practical learning content, community, self-advocacy resources, and tools for everyday life.
+
+### Reed AI App
+
+- URL: https://apps.apple.com/us/app/reed-ai-app/id6741428175
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Communication-learning app for neurodivergent children that converts everyday spoken language into visual, audio, and sensory supports.
+
+### Developmental Coordination Disorder (Dyspraxia): What Helps and Hinders in the School Years
+
+- URL: https://discovery.ucl.ac.uk/id/eprint/10147670/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: UCL repository record for research examining school-year factors associated with later achievement and wellbeing for people with developmental coordination disorder.
