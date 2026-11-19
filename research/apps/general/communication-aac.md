@@ -1478,3 +1478,53 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Neurodivergent community and support app covering communication, overwhelm, burnout, relationships, self-advocacy, work, and everyday experiences, with practical resources and tools.[2]
+
+### AAC Text to Speech for Adults
+
+- URL: https://apps.apple.com/ge/app/aac-text-to-speech-for-adults/id6789686992
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Adult-focused AAC app with customizable phrases, text-to-speech, emergency and medical communication categories, personal voice support, and multilingual options.
+
+### AAC Text Communication Device
+
+- URL: https://apps.apple.com/ca/app/aac-text-communication-device/id6475756600
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Text-based AAC app allowing users to type or select preset phrases and convert them into spoken communication for speech challenges or temporary voice loss.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/gh/app/avaz-aac/id909574843
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Customizable AAC and text-to-speech app supporting autistic people and users with speech delays, aphasia, apraxia, cerebral palsy, and related needs.[3]
+
+### Grid for iPad AAC
+
+- URL: https://apps.apple.com/us/app/grid-for-ipad-aac/id1064332378
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: AAC platform with symbol- and text-based communication, switch access, predictive text, multilingual voices, and adaptable grid sets.[9][10]
+
+### GoTalk NOW PLUS
+
+- URL: https://apps.apple.com/it/app/gotalk-now-plus/id742150885
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Flexible AAC app with adjustable page layouts, recorded messages, text-to-speech, and customizable navigation for people with speaking difficulties.[5]

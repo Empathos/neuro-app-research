@@ -1138,3 +1138,43 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Windows daily planner with a spatial agenda, AI brain dump, focus timer, cognitive games, and offline support for neurodivergent users.
+
+### Goblin Tools
+
+- URL: https://apps.apple.com/es/app/goblin-tools/id6449003064?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Collection of tools for breaking overwhelming tasks into steps, clarifying messages, supporting decisions, and organizing thoughts.
+
+### Sprout: Smart ADHD Task App
+
+- URL: https://apps.apple.com/st/app/sprout-smart-adhd-task-app/id6754895173
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: An iPhone and iPad task app for ADHD and neurodivergent users featuring brain dumps, AI task breakdown, prioritization, focus support, and gamification.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/br/app/brimming-adhd/id6469721652?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: An iPhone digital-wellness app for ADHD and neurodivergent executive dysfunction, addressing task initiation, overwhelm, shutdown, time blindness, avoidance, and decision fatigue.
+
+### Focus-Mate
+
+- URL: https://apps.apple.com/us/app/focus-mate/id6806053839?l=fr-FR
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: An iPhone and iPad AI ADHD and executive-function coach with natural-language task capture, flexible focus timers, habit support, and a companion-pet feature.

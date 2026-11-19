@@ -998,3 +998,13 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Caregiver behavior-logging app that structures events into ABC-style insights, supports clinician-approved home practice, and provides shareable summaries and reports for therapists, BCBA teams, teachers, and IEP teams.
+
+### ComuniTEApp
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp&hl=en
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Caregiver-oriented autism and neurodiversity platform featuring pictogram-based communication, an AI assistant, emergency assistance, and support-network management.

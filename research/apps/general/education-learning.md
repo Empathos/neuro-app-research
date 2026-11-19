@@ -1308,3 +1308,43 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Apple App Store feature describing Lingokids activities for children ages 28, including content supporting social skills, emotion recognition, movement, focus, and attention for neurodivergent learners.
+
+### NeuroEquality Community Repository
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Organization overview documenting public projects such as READY, Safe4All, STAR, and other inclusion-focused applications and resources.
+
+### Everway Education Software
+
+- URL: https://www.everway.com/education/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Education software suite offering literacy support, accessible mathematics, PDF annotation, visual learning, communication tools, special-education curriculum, and IEP management.
+
+### AI for Disabled and Neurodivergent Learners FAQ
+
+- URL: https://github.com/edtechdev/aied/blob/main/content/ko/faqs/ai-disabled-neurodivergent-learners.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open repository resource addressing how AI can support disabled and neurodivergent learners in educational settings.
+
+### Study Skills for Neurodivergent Students
+
+- URL: https://libguides.derby.ac.uk/c.php?g=720403&p=5227958
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: University resource listing learning-support tools such as Anki spaced-repetition flashcards and calming soundscape apps for study environments.

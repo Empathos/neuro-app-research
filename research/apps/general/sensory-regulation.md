@@ -978,3 +978,53 @@
 - Query: general sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Android developer listing featuring a neurodivergent planner for ADHD and focus with task breakdown, timers, and sensory tools.
+
+### Signal & Support
+
+- URL: https://apps.apple.com/my/app/signal-support/id6758867206
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Private, on-device self-check-in tool for understanding functional state, communicating support needs, and receiving sensory-support reminders.
+
+### Tihi
+
+- URL: https://apps.apple.com/ae/app/tihi/id6751172848
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Silent signaling app for sensory overload and overwhelm, with preset or custom messages such as Need Quiet, Need Break, and Need Help.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/ie/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Energy and stimulation tracker for neurodivergent adults, using zones such as Overloaded and Understimulated and reflection prompts about sensory demands and recovery.
+
+### BrightMo Sensory
+
+- URL: https://apps.apple.com/cl/app/brightm%C5%8D-sensory/id6760000134?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Calm sensory-learning app for toddlers and children with autism, sensory sensitivities, and developmental differences.
+
+### MyVisualRoutine: Autism & ADHD
+
+- URL: https://apps.apple.com/az/app/myvisualroutine-autism-adhd/id6757563805
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Visual-support app for autism and ADHD featuring visual schedules, choice boards, and First/Then boards.

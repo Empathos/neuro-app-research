@@ -908,3 +908,33 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Visual planner and assistive-living app for autistic and neurodivergent people, offering daily schedules, to-do lists, and routine support across mobile and web.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/pa/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: An app for neurodivergent adults to recognize patterns in energy, stimulation, and recovery at work and in everyday life.
+
+### Mariko digital assistant
+
+- URL: https://apps.apple.com/us/app/mariko-digital-assistant/id1645374416
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: A visual daily-schedule and planning assistant developed for neurodivergent people, families, and professionals, supporting organization, prioritization, and shared routines.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/fr/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Collection of tools for ADHD, autistic, dyslexic, and easily overwhelmed users, including task decomposition, one-step focus, brain dumping, tone support, and time estimation.

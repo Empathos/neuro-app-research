@@ -938,3 +938,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Assistive-technology suite offering text-to-speech, writing and reading support, PDF accessibility, visual planning, and structured task tools.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open-source Chrome extension providing text-to-speech, speech-to-text, text simplification, and study tools for learners with dyslexia, ADHD, and motor differences.

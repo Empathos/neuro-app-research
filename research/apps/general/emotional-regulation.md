@@ -778,3 +778,13 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Visual routine app for autistic and ADHD children that includes calm-down tools, breathing support, emotion cards, visual timers, and picture-based communication.
+
+### Animi: Emotional Intelligence
+
+- URL: https://play.google.com/store/apps/details?id=com.animiapp.animi&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Emotion-coaching app focused on emotional awareness, alexithymia, emotion vocabulary, causes, patterns, and regulation, including support relevant to neurodivergent users.
