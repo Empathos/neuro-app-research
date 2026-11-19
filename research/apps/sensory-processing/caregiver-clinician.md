@@ -1148,3 +1148,13 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Study comparing sensory-processing patterns in autistic children, children with ADHD, and neurotypical children using parent reports and direct auditory measures.[8]
+
+### NeuroVerse ADHD Platform
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Public repository describing an assistive platform using smartwatch, tablet, and virtual-reality components to support neurodivergent users with social-cue interpretation.

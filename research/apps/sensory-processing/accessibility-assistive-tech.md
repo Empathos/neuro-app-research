@@ -838,3 +838,63 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Open-source Neovim workflow tool combining a Flowmodoro timer, working-memory note capture, and cognitive anchoring for ADHD, autism, dyslexia, and other neurodivergent users.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open-source browser extension providing text-to-speech, speech-to-text, text simplification, screen overlays, dark mode, and profiles for ADHD, autism, dyslexia, sensory sensitivity, motor impairment, and low vision.
+
+### NeuroEquality GitHub Organization
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Public organization developing accessibility-focused tools for autistic, ADHD, dyslexic, and other neurodivergent communities, including safety, communication, coaching, and inclusive-design projects.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Curated public list of tools, resources, methodologies, and services for neurodivergent learners, educators, and families.
+
+### OptiKey
+
+- URL: https://github.com/OptiKey/OptiKey
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source eye-gaze computer-control and speech software designed as assistive technology.
+
+### VibHearing
+
+- URL: https://github.com/fbeser/VibHearing
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source wearable platform translating meaningful environmental sounds into haptic signals for humans and animals.
+
+### AccessKit
+
+- URL: https://github.com/AccessKit/accesskit
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source accessibility infrastructure for custom UI toolkits, exposing accessibility trees to assistive technologies across desktop and mobile platforms.

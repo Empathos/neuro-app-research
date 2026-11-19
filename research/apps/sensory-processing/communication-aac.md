@@ -1079,3 +1079,43 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Minimal communication board for nonspeaking children, designed with soft colors, gentle motion, and a low-stimulation interface to reduce sensory overload.[10]
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Family support app for autism, ADHD, sensory-processing differences, learning disabilities, and other neurodivergent profiles. Provides sensory-friendly activities, bedtime stories, guides, printable tools, and child-safe mode.
+
+### Tihi
+
+- URL: https://apps.apple.com/ae/app/tihi/id6751172848
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Silent-signaling communication app for sensory overload and situations where speech is difficult. Supports preset or custom messages such as Need Quiet, Need Break, Sensory Overload, and Need Help.
+
+### Flexspeak AAC
+
+- URL: https://apps.apple.com/us/app/flexspeak-aac/id6642667205?l=ar&platform=ipad
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Multilingual AAC app with customizable vocabulary, symbol and photo support, AI prediction, translation, and remote editing.
+
+### EYA  AAC Communication App
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: AAC platform offering communication cards, personalized boards, saved phrases, an AAC keyboard, word prediction, and speech output.

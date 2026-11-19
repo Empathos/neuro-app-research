@@ -1110,16 +1110,6 @@
 - Found: 2026-11-08
 - Description: Research initiative exploring inclusive communication, including co-creation of a universal sign language for neurodivergent people and individuals with communicative differences.
 
-### ADHD Assist
-
-- URL: https://github.com/jonashw/adhd-assistant
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: communication-aac
-- Query: adhd communication-aac neurodivergent app research pass 501
-- Found: 2026-11-10
-- Description: Open-source brainstorming and conversation aid designed to help people with ADHD navigate ideas, manage dependent tasks, and support written communication.
-
 ### adhd-assist
 
 - URL: https://github.com/fenegroni/adhd-assist

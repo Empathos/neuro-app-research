@@ -648,3 +648,13 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Public GitHub project described as an open-source sanctuary for deep listening, neurodivergent sensory regulation, and receptive music therapy.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Crisis-regulation tool for ADHD, autistic, and neurodivergent users with modes for spiraling, shutdown, anger, sensory overload, and task paralysis.

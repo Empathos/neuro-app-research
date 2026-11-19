@@ -748,3 +748,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Crisis-regulation app for ADHD, autistic, and neurodivergent users with modes for spiraling, shutdown, rage, sensory overwhelm, and task paralysis.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/gb/app/unmasked-adult-autism-adhd/id6764218809
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Adult self-discovery app with sensory mapping across multiple sensory systems, shareable sensory profiles, masking tracking, social scripts, and grounding tools.
