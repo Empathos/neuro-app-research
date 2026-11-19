@@ -1,9 +1,9 @@
 # Latest Research Run
 
 - Condition: executive-function
-- UTC timestamp: 2026-11-18T16:42:13.515261+00:00
-- New findings: 13
-- Rejected dead links: 0
+- UTC timestamp: 2026-11-19T16:38:49.805749+00:00
+- New findings: 6
+- Rejected dead links: 1
 
 ## Support Categories
 
@@ -19,13 +19,13 @@
 
 ### sensory-regulation
 
-- `executive-function sensory-regulation neurodivergent app research pass 501`: 1 new finding(s), 0 rejected dead link(s)
+- `executive-function sensory-regulation neurodivergent app research pass 501`: 1 new finding(s), 1 rejected dead link(s)
 - `executive-function sensory-regulation neurodivergent app research pass 502`: 1 new finding(s), 0 rejected dead link(s)
 
 ### education-learning
 
 - `executive-function education-learning neurodivergent app research pass 501`: 2 new finding(s), 0 rejected dead link(s)
-- `executive-function education-learning neurodivergent app research pass 502`: 1 new finding(s), 0 rejected dead link(s)
+- `executive-function education-learning neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### emotional-regulation
 
@@ -39,11 +39,11 @@
 
 ### caregiver-clinician
 
-- `executive-function caregiver-clinician neurodivergent app research pass 501`: 1 new finding(s), 0 rejected dead link(s)
-- `executive-function caregiver-clinician neurodivergent app research pass 502`: 2 new finding(s), 0 rejected dead link(s)
+- `executive-function caregiver-clinician neurodivergent app research pass 501`: 2 new finding(s), 0 rejected dead link(s)
+- `executive-function caregiver-clinician neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### accessibility-assistive-tech
 
-- `executive-function accessibility-assistive-tech neurodivergent app research pass 501`: 3 new finding(s), 0 rejected dead link(s)
-- `executive-function accessibility-assistive-tech neurodivergent app research pass 502`: 2 new finding(s), 0 rejected dead link(s)
+- `executive-function accessibility-assistive-tech neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `executive-function accessibility-assistive-tech neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 

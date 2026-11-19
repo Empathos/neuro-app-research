@@ -816,3 +816,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: App Store version of Tiimo offering visual daily planning and a calming focus timer to support task completion and time awareness.
+
+### MindBalance
+
+- URL: https://github.com/Fewdev1122/MindBalance
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open repository for a neuro-inclusive productivity tool supporting ADHD and autistic users through visual task mapping, cognitive-load awareness, calendar integration, and distraction-free design.
+
+### NeuroEquality Project Index
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Project overview listing public NeuroEquality initiatives such as Safe4All, READY, GROW, WNIT, and STAR, with development-stage information.

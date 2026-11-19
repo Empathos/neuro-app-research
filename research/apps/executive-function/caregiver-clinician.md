@@ -694,3 +694,23 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Study examining executive functions in neurodivergent secondary students, including ADHD, dyslexia, intellectual disability, and giftedness, using the Nesplora Ice-Cream virtual-reality assessment.
+
+### Inflow  Manage Your ADHD
+
+- URL: https://apps.apple.com/sr/app/inflow-manage-your-adhd/id1528183849
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: A science-based ADHD support program focused on attention, procrastination, follow-through, executive function, CBT skills, and practical daily-life strategies.
+
+### Neurodiversity Planner Software Directory
+
+- URL: https://www.f6s.com/software/category/neurodiversity-planner
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Public directory of neurodiversity planning tools, including Tiimo, CORXLY, and ReMindMe, with examples spanning visual planning, AI task organization, caregiver or provider dashboards, and executive-function support.

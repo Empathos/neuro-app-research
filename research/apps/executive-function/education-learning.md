@@ -1088,3 +1088,23 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: ADHD support app with guided short resets, reflection prompts, and daily exercises intended to reduce cognitive friction and support clearer thinking.
+
+### Learnkit
+
+- URL: https://github.com/johnnyrobot/learnkit
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: A neuroinclusive coursework kit containing evidence-based rules, schemas, and auditors for designing and generating instructional content.
+
+### webmoti-react
+
+- URL: https://github.com/IMDC/webmoti-react
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: A public GitHub project described as a hybrid learning platform for neurodivergent students.
