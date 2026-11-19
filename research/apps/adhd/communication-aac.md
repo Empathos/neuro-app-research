@@ -1100,16 +1100,6 @@
 - Found: 2026-11-08
 - Description: Research initiative exploring inclusive communication, including co-creation of a universal sign language for neurodivergent people and individuals with communicative differences.
 
-### ADHD Assist
-
-- URL: https://github.com/jonashw/adhd-assistant
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: communication-aac
-- Query: adhd communication-aac neurodivergent app research pass 501
-- Found: 2026-11-10
-- Description: Open-source brainstorming and conversation aid designed to help people with ADHD navigate ideas, manage dependent tasks, and support written communication.
-
 ### adhd-assist
 
 - URL: https://github.com/fenegroni/adhd-assist
@@ -1309,3 +1299,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: AAC app combining communication, spelling, learning activities, games, and rewards for iPhone, iPad, and Apple Watch. Intended for non-speaking autistic users and other people with communication needs.
+
+### BridgeAAC Core
+
+- URL: https://github.com/BridgeAAC/core
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Free, open-source, offline-ready AAC software supporting phones, tablets, computers, and Open Board Format files.[7]
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open-source AAC organization focused on free, offline-first communication tools across iOS, Android, Windows, macOS, Linux, ChromeOS, and the web.[9]

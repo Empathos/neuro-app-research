@@ -1378,3 +1378,33 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: ADHD-friendly planner combining tasks, habits, reminders, journals, schedules, and routine tracking.
+
+### Apps to support those with ADHD
+
+- URL: https://apps.apple.com/hr/iphone/story/id1679598336
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Apples official collection of ADHD-supportive apps covering routines, task management, focus timers, distraction blocking, visual scheduling, and focus sounds.
+
+### NeuroKit: ADHD Focus Tool
+
+- URL: https://apps.apple.com/uy/app/neurokit-adhd-focus-tool/id6754565338
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: An AI-powered productivity suite positioned for clearer thinking, organization, and focus support, including users with ADHD.
+
+### ADive: ADHD + Productivity
+
+- URL: https://apps.apple.com/tr/app/adive-adhd-productivity/id6751934607
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: A productivity app focused on concentration, planning, time management, distraction reduction, habit building, and ADHD-related skills.

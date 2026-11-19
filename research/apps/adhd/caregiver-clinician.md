@@ -1048,3 +1048,43 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Research repository record describing a co-created smartphone app using accessible, evidence-based positive-psychology interventions to support parents of neurodivergent children.
+
+### ADHD Resource List
+
+- URL: https://www.embracethemuchness.com/adhdresources
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Public ADHD support directory covering education, professional development, neurodiversity-affirming training, consultation, and groups involving people with lived and professional ADHD experience.[1]
+
+### Understood Knowledge Hub
+
+- URL: https://www.understood.org/en/knowledge-hub
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Public research and support hub containing ADHD and learning-difference research briefs, literature reviews, and user-research studies.[7]
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Family support app for neurodivergent children, including ADHD; offers behavior observation logs, timestamped tracking, automated summaries for therapists and IEP teams, resource materials, and structured support pathways.
+
+### Moonbow: Autism Behavior Log
+
+- URL: https://apps.apple.com/ca/app/moonbow-autism-behavior-log/id6764191923
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Caregiver-clinician collaboration app with home-practice assignments, parent feedback, clinician dashboards, care-circle invitations, clinical PDF export, and clinician synchronization for neurodivergent children.

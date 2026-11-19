@@ -1218,3 +1218,33 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Collection of more than 50 interactive digital fidgets intended to support relaxation, focus, self-regulation, transitions, and staying on task for users including people with ADHD.
+
+### Neuro-Flow
+
+- URL: https://apps.apple.com/gh/app/neuro-flow/id6773594066
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: ADHD and neurodivergent habit and focus app offering shame-free streaks, focus timing, live body doubling, and a short dopamine menu.
+
+### NeurOS: Neurodivergent Planner
+
+- URL: https://play.google.com/store/apps/dev?id=5622740462210402208&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Google Play developer listing featuring a neurodivergent planner for ADHD and focus with task breakdown, timers, and sensory tools.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/uy/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: ADHD, autistic, and dyslexic support app with one-step focus mode, personalized energy and sensitivity context, planner tools, and low-stimulation settings.

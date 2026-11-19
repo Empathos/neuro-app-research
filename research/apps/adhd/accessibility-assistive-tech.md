@@ -1018,3 +1018,53 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: ADHD-friendly self-support tool for voice or text brain dumps, choosing a manageable next step, short focus sessions, and reducing overwhelm.
+
+### NeuroDinoWorld
+
+- URL: https://apps.apple.com/us/app/neurodinoworld/id6771990498
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Sensory-friendly iOS app for children with ADHD, autism, and other neurodivergent profiles, with VoiceOver, Voice Control, dark interface, sufficient contrast, reduced motion, and audio descriptions.
+
+### Free Assistive Technology: Study and Productivity Tools
+
+- URL: https://resources.nu.edu/assistivetechnology/studytools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Resource guide for assistive technologies that help with organization, assignment breakdown, time management, note-taking, and reducing overwhelm for students with ADHD or executive-function challenges.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source Chrome extension for Canvas, Moodle, and Google Classroom with text-to-speech, speech-to-text, text simplification, study tools, ADHD-oriented profiles, and WCAG 2.2 AA support.[8]
+
+### Awesome ADHD: Digital ADHD Support
+
+- URL: https://github.com/yutakobayashidev/awesome-adhd/blob/main/concepts/digital-adhd-support.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Curated research and tool index covering digital ADHD support, accessibility, assistive technology, education, therapy, and related HCI projects.[6]
+
+### OnlyTerp/adhd
+
+- URL: https://github.com/OnlyTerp/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source research-loop project combining a thinker model, background tracker, and persistent notebook for organizing extended AI-assisted research.[3]

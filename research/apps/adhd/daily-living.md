@@ -749,16 +749,6 @@
 - Found: 2026-10-19
 - Description: Open-source repository entry for an ADHD daily-planning skill supporting neurodivergent-oriented organization.[3]
 
-### ADHD Planner - Routine & Tasks
-
-- URL: https://play.google.com/store/apps/details?id=com.adhd.planner.taches.tasks.routine.easy
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: daily-living
-- Query: adhd daily-living neurodivergent app research pass 501
-- Found: 2026-10-20
-- Description: Android planner for neurodivergent users featuring visual routines, guided transitions, daily habits, and energy awareness.
-
 ### Hypermonkey: ADHD Productivity
 
 - URL: https://apps.apple.com/us/app/hypermonkey-adhd-productivity/id6736893516
@@ -1338,3 +1328,33 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Digital wellness app for ADHD and neurodivergent executive dysfunction, focused on overcoming task initiation, overwhelm, avoidance, and follow-through difficulties.
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://apps.microsoft.com/detail/9p9vvnb7fn2k?hl=fr-FR&gl=TN
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Windows daily planner for ADHD and neurodivergent users featuring a spatial agenda, AI brain dump, focus timer, cognitive games, and streak tracking.
+
+### Flow: ADHD Planner for Adults
+
+- URL: https://apps.apple.com/st/app/flow-adhd-planner-for-adults/id6758484365
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Adult ADHD planner focused on daily routines, visual timing, executive dysfunction, time blindness, and task initiation.
+
+### Fewdev1122/MindBalance
+
+- URL: https://github.com/Fewdev1122/MindBalance
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open repository for a neuro-inclusive productivity tool combining task management, Google Calendar integration, burnout support, and cognitive-load visualization.

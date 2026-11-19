@@ -1608,3 +1608,13 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Phonics and sight-word learning app designed for autistic and ADHD learners.
+
+### ADHD Cognitive Research
+
+- URL: https://apps.apple.com/kr/app/adhd-cognitive-research/id1412022818
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Research-oriented iOS app for participating in ADHD studies and assessing areas such as attention, inhibition, monitoring, working memory, planning, and hand-eye coordination.
