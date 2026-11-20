@@ -189,16 +189,6 @@
 - Found: 2026-06-25
 - Description: Official NAPA Center documentation explaining the four components of praxis (ideation, motor planning, execution, feedback) and providing therapy activity examples.
 
-### Task Initiation Visual
-
-- URL: https://www.teacherspayteachers.com/Free-Download/Task-Initiation-Visual-7634078
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: executive-function
-- Query: motor planning task initiation directory
-- Found: 2026-06-25
-- Description: Free downloadable visual reminder for students to support neurodivergent learners in initiating tasks independently.
-
 ### Motor Planning Master Class
 
 - URL: https://www.facebook.com/groups/538540446620062/posts/1624076128066483/

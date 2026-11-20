@@ -99,16 +99,6 @@
 - Found: 2026-06-26
 - Description: Sensory-based interventions for home use, including calm corners, noise management, and visual supports for neurodivergent children.
 
-### Everyday Living: Comprehensive and User-Friendly App for Caregivers and Elderly
-
-- URL: https://play.google.com/store/apps/details?id=com.mogul.app&hl=en_US
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: overload daily living support app
-- Found: 2026-06-29
-- Description: Everyday Living is a comprehensive and user-friendly app that caters to caregivers, elderly patients, and individuals requiring assisted living, designed to support daily routines and reduce overload.
-
 ### Everyday Living App: Personal Care HCS Providers in Texas
 
 - URL: https://everydaylivingapp.com
@@ -118,16 +108,6 @@
 - Query: overload daily living support app
 - Found: 2026-06-29
 - Description: The Everyday Living app is a user-friendly mobile application designed to assist individuals, families, case workers, and guardians in finding suitable support and managing daily tasks to prevent overload.
-
-### Everyday Living - Apps on Google Play (Official Product Page)
-
-- URL: https://play.google.com/store/apps/details?id=com.mogul.app
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: overload daily living support app
-- Found: 2026-06-29
-- Description: Official Google Play page for Everyday Living, a tool that helps users with neurodivergence and elderly care manage daily living without feeling overwhelmed by routine tasks.
 
 ### 10 Great Apps for Seniors Living Alone - Parsons House Austin
 

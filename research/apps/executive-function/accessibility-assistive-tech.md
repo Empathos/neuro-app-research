@@ -1028,3 +1028,103 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Public organization profile for a nonprofit building free technology for neurodivergent people.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/de/app/tiimo-daily-to-do-list/id1480220328?l=en-GB&platform=mac
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Visual planner and executive-function support app for ADHD and autism, offering color-coded schedules, AI task prioritization, focus timers, larger text, dark interface, and voice control.
+
+### Tiimo: AI Planner & To-do App
+
+- URL: https://apps.apple.com/jo/app/tiimo-ai-planner-to-do/id1480220328?platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Planning assistant with AI task creation and prioritization, visual scheduling, and a calming focus timer designed to support executive function.
+
+### HapticPulse
+
+- URL: https://github.com/Dustb0/HapticPulse
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Assistive deep-work project using haptic feedback from a game controller as a tactile anchor for neurodivergent focus sessions.[4]
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/bs/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Visual planning app with AI-assisted prioritization, task breakdown, focus timers, reminders, and support for VoiceOver, Voice Control, and dark mode.[1]
+
+### Microsoft Accessibility Considerations Toolkit
+
+- URL: https://github.com/microsoft/Microsoft-Accessibility/tree/main/Accessibility-Considerations-Toolkit
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Public knowledge base covering accessibility considerations, assistive-technology interaction patterns, and documented research, including executive-function-related guidance.[10]
+
+### Memory, Attention, and Executive Function Considerations
+
+- URL: https://github.com/microsoft/Microsoft-Accessibility/blob/main/Accessibility-Considerations-Toolkit/considerations/4.2.10-memory-attention-and-executive-function.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Focused Microsoft accessibility guidance for memory, attention, and executive-function needs.[2]
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://apps.microsoft.com/detail/9p9vvnb7fn2k?hl=nl-NL&gl=BE
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Windows planner designed for neurodivergent users, offering a spatial agenda, AI brain dump, focus timer, cognitive games, offline operation, and streak tracking.
+
+### Assistive Technology for Memory and Cognition
+
+- URL: https://www.assistivetechnology.org/topics/daily-living-cognition/assistive-technology-for-memory-and-cognition
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Assistive-technology resource covering cognition and memory supports, with executive-function applications for planning, prioritization, time management, and task initiation.
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/ru/app/thruday-visual-daily-planner/id1645552771?l=uk
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Visual day-planning app for time blindness and executive-function support, with color cues, images, time blocking, large text, dark mode, and contrast options.
+
+### Executive Functioning and Assistive Technology
+
+- URL: https://pasen.org/executive-functioning-and-assistive-technology/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Public resource listing assistive technologies intended to help manage executive-function difficulties.
