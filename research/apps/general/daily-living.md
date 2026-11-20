@@ -878,3 +878,93 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public app-store listing for a neurodiversity-focused support application.
+
+### VRSEx/ADHD  Advanced Divergent Human Development
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: A public repository for a proposed NeuroVerse platform combining smartwatch, tablet, AI, and virtual-reality components to support social cues, daily task performance, and emotional development.
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ca/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: In-the-moment support app for neurodivergent adults, parents, and carers to record difficult moments, identify triggers, and develop practical strategies.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Visual planner and assistive-living app for autistic and neurodivergent people, offering daily schedules, to-do lists, and routine support across mobile and web.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/pa/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: An app for neurodivergent adults to recognize patterns in energy, stimulation, and recovery at work and in everyday life.
+
+### Mariko digital assistant
+
+- URL: https://apps.apple.com/us/app/mariko-digital-assistant/id1645374416
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: A visual daily-schedule and planning assistant developed for neurodivergent people, families, and professionals, supporting organization, prioritization, and shared routines.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/fr/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Collection of tools for ADHD, autistic, dyslexic, and easily overwhelmed users, including task decomposition, one-step focus, brain dumping, tone support, and time estimation.
+
+### Thruday Visual Daily Planner  Apple App Store
+
+- URL: https://apps.apple.com/cz/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: App Store listing for visual routines, recurring activities, reminders, task breakdowns, mood tracking, printable schedules, and support for independent living, family planning, and carers.
+
+### Clindoo  Google Play
+
+- URL: https://play.google.com/store/apps/details?id=fr.clindoo.app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Routine-support app for children with autism or ADHD, using images, simple step sequences, weekly planning, hygiene and self-care routines, and reminders to build independence.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/hk/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: App offering task breakdown, one-step focus, brain-dumping, message formalization, tone interpretation, time estimation, recipe assistance, and plain-language explanations.

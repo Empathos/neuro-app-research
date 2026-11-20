@@ -748,3 +748,53 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Emotion-identification and regulation tool for children and adults that helps users name escalating feelings and work toward calmer interactions.
+
+### Neurodiv Kit
+
+- URL: https://play.google.com/store/apps/details?id=com.sensetrails.neurodivkit
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Android toolkit for neurodivergent users, offering four simple tools designed around differing attention and regulation needs.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/es/app/shift-regulate-reset/id6759524862
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Crisis-regulation app for ADHD, autistic, and other neurodivergent users, organized around spiraling, freezing, raging, overwhelm, and being stuck.
+
+### Now & Next
+
+- URL: https://www.autism.org.uk/autism-services-directory/now-next-picture-routine-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Visual routine app for autistic and ADHD children that includes calm-down tools, breathing support, emotion cards, visual timers, and picture-based communication.
+
+### Animi: Emotional Intelligence
+
+- URL: https://play.google.com/store/apps/details?id=com.animiapp.animi&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Emotion-coaching app focused on emotional awareness, alexithymia, emotion vocabulary, causes, patterns, and regulation, including support relevant to neurodivergent users.
+
+### Diverge README
+
+- URL: https://github.com/mukut03/diverge/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Project documentation describing Diverges neurodivergent-focused journaling workflow and emotional-regulation features.

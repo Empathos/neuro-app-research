@@ -1388,3 +1388,183 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: AAC communication app supporting touch and eye-gaze control, communication boards, speech synthesis, pain assessment, and on-screen keyboards.[2]
+
+### EYA  AAC Communication
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC platform with communication cards, personalized boards, saved phrases, an AAC keyboard, and speech output for children and adults with communication difficulties.
+
+### Vocality AAC
+
+- URL: https://apps.apple.com/us/app/vocality-aac/id6757679441
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Text-to-speech AAC app with message prediction, shortcuts, and suggested responses for people who have difficulty speaking.
+
+### Isaac AAC
+
+- URL: https://apps.apple.com/us/app/isaac-aac/id6746368688?platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC communication aid offering visual symbols, custom symbol drawing, voice output, and predictive text.
+
+### QVoice  AAC communication app
+
+- URL: https://apps.apple.com/jo/app/qvoice-aac-communication-app/id1610926840
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC app developed for emerging speech-generating-device users, including people with cognitive challenges and cortical visual impairment.
+
+### Unmute AAC
+
+- URL: https://github.com/Brooklyn-git/Unmute-AAC-App
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Offline, customizable Android AAC app using symbols, emoji, or personal photos to build spoken sentences.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/kr/app/innervoice-aac-for-autism/id730856179?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Communication-board app enabling autistic and nonspeaking users to express choices, ideas, questions, requests, and conversational messages through speech.
+
+### Flexspeak AAC
+
+- URL: https://apps.apple.com/us/app/flexspeak-aac/id6642667205?l=ar&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Multilingual AAC app with AI prediction, custom vocabulary, remote editing, group sharing, symbols and photos, and support for autistic and non-speaking users.[7]
+
+### Sherpa: Autism & ND Parenting
+
+- URL: https://apps.apple.com/us/app/sherpa-autism-nd-parenting/id1568913225?l=es-MX
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Parent-support app for autistic and neurodivergent children featuring custom image-based word decks for speech and language development, visual social stories, and visual timers.[5]
+
+### Kaboose: Neurodivergent Life
+
+- URL: https://apps.apple.com/us/app/kaboose-neurodivergent-life/id1592717370
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Neurodivergent community and support app covering communication, overwhelm, burnout, relationships, self-advocacy, work, and everyday experiences, with practical resources and tools.[2]
+
+### AAC Text to Speech for Adults
+
+- URL: https://apps.apple.com/ge/app/aac-text-to-speech-for-adults/id6789686992
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Adult-focused AAC app with customizable phrases, text-to-speech, emergency and medical communication categories, personal voice support, and multilingual options.
+
+### AAC Text Communication Device
+
+- URL: https://apps.apple.com/ca/app/aac-text-communication-device/id6475756600
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Text-based AAC app allowing users to type or select preset phrases and convert them into spoken communication for speech challenges or temporary voice loss.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/gh/app/avaz-aac/id909574843
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Customizable AAC and text-to-speech app supporting autistic people and users with speech delays, aphasia, apraxia, cerebral palsy, and related needs.[3]
+
+### Grid for iPad AAC
+
+- URL: https://apps.apple.com/us/app/grid-for-ipad-aac/id1064332378
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: AAC platform with symbol- and text-based communication, switch access, predictive text, multilingual voices, and adaptable grid sets.[9][10]
+
+### GoTalk NOW PLUS
+
+- URL: https://apps.apple.com/it/app/gotalk-now-plus/id742150885
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Flexible AAC app with adjustable page layouts, recorded messages, text-to-speech, and customizable navigation for people with speaking difficulties.[5]
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source, offline-first AAC software designed to provide accessible communication without paywalls, subscriptions, or specialized hardware.
+
+### VocalTiles
+
+- URL: https://apps.apple.com/ca/app/vocaltiles/id6790195616
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AAC app with visual communication boards, text-to-speech, Gestalt Language Processor support, and social-story creation features.
+
+### CPR: Assistive AAC Communication System
+
+- URL: https://github.com/KSKAUSHIKRAM/CPR
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source AAC application built with Python and Kivy, featuring image generation, text processing, speech synthesis, and context-aware recommendations.
+
+### AAC Essentials
+
+- URL: https://apps.apple.com/st/app-bundle/aac-essentials/id923988203
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: App Store bundle containing Proloquo2Go, Proloquo4Text, Pictello, Keedogo, and Keedogo Plus for symbol-supported AAC, text-to-speech communication, visual stories, and accessible typing.

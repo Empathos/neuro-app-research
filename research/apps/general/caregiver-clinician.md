@@ -908,3 +908,123 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Public research-paper PDF reporting a mixed-methods survey of UK school staff about supporting neurodivergent pupils, useful for caregiver-clinician and education-support research.
+
+### Au'commadate
+
+- URL: https://apps.apple.com/co/app/aucommadate/id6762436895
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Touch-only communication board and family-support app for nonspeaking and minimally verbal people, with routines, outcome snapshots, caregiver resources, and data export for clinicians.
+
+### Neuro Buddy
+
+- URL: https://play.google.com/store/apps/details?id=com.base69b6ac261ac8e0da2743c35a.app&hl=en_GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Google Play app for parents, caregivers, professionals, and adults supporting or exploring ADHD, autism, and AuDHD, developed with occupational-therapy input.
+
+### BRIDGES Engage
+
+- URL: https://apps.apple.com/ca/app/bridges-engage/id6744975919?l=fr-CA
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Clinician- and neurodiversity-expert-curated app providing autism caregivers with routines, structured activities, emotional-regulation support, and daily guidance.
+
+### Awesome Neurodiversity
+
+- URL: https://github.com/awesome-neurodiversity/awesome-neurodiversity
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Community-maintained GitHub collection of neurodiversity resources, events, organizations, and tools.
+
+### ND Resource Hub
+
+- URL: https://neurodiversity.org/ndresourcehub/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public hub aggregating expert resources from across the neurodiversity community for individuals, families, and support professionals.
+
+### Pivot Diversity Resources
+
+- URL: https://www.pivotdiversity.com/resources
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodiversity resource page listing apps and tools, including focus and productivity supports.
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Family support app for neurodivergent children that includes observation logs, automated summaries for therapists and IEP teams, clinician-backed guidance, resource libraries, and parent wellbeing tools.
+
+### VARA App
+
+- URL: https://www.autism360.com/vara/?region=us
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Autism support app offering personalized answers from Autism360 clinicians.
+
+### Moonbow: Autism Behavior Log
+
+- URL: https://apps.apple.com/ca/app/moonbow-autism-behavior-log/id6764191923
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Caregiver behavior-logging app that structures events into ABC-style insights, supports clinician-approved home practice, and provides shareable summaries and reports for therapists, BCBA teams, teachers, and IEP teams.
+
+### ComuniTEApp
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp&hl=en
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Caregiver-oriented autism and neurodiversity platform featuring pictogram-based communication, an AI assistant, emergency assistance, and support-network management.
+
+### Neurodivergence repositories
+
+- URL: https://github.com/topics/neurodivergence?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: GitHub topic directory for public neurodivergence projects, including conversational AI and socioemotional-support repositories.
+
+### Skelly Jelly
+
+- URL: https://github.com/chreez/skelly-jelly
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source neurodiversity-affirming ADHD focus companion providing ambient support without disrupting focus states.

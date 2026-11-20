@@ -689,16 +689,6 @@
 - Found: 2026-10-24
 - Description: Official documentation covering accessibility APIs, assistive technologies, cognitive disabilities, and testing app experiences with accessibility features.
 
-### Apple Cognitive Accessibility Features
-
-- URL: https://support.apple.com/guide/iphone/overview-of-cognitive-accessibility-features-iph0ede5b8d6/ios
-- Source: perplexity-sonar
-- Condition: general
-- Support category: accessibility-assistive-tech
-- Query: general accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-24
-- Description: Official iPhone user guide covering cognitive-support features including Focus, Dictation, Read & Speak, Live Captions, reduced motion, and simplified reading.
-
 ### MDN Cognitive Accessibility
 
 - URL: https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Cognitive_accessibility
@@ -908,3 +898,63 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: App Store listing for a visual schedule and routine-planning app designed for ADHD, autism, and users who benefit from structured daily tasks.
+
+### Neurodiversity in Business: Assistive Technologies
+
+- URL: https://neurodiversity.org/resource-library/assistive-technologies/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Resource-library page focused on assistive technologies relevant to neurodivergent users and workplace accessibility.[5]
+
+### A Scoping Review of Digital Assistive Technologies for Neurodivergent People
+
+- URL: https://pure.au.dk/ws/files/473637328/Rempel_Heimann_Prilop_2026_Scoping_review_assistive-technology.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open research review identifying technology categories including prompting systems, self-monitoring apps, AI audio, mind-mapping, assistive robots, screen readers, OCR, speech recognition, and note-taking tools.
+
+### Apple Cognitive Accessibility
+
+- URL: https://www.apple.com/lae/accessibility/cognitive/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Official overview of Assistive Access, Guided Access, Safari Reader, and other Apple features supporting comprehension, attention, communication, and reduced cognitive load.
+
+### Everway Assistive Technology
+
+- URL: https://www.everway.com/en-gb/solutions/assistive-tech/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Assistive-technology suite offering text-to-speech, writing and reading support, PDF accessibility, visual planning, and structured task tools.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open-source Chrome extension providing text-to-speech, speech-to-text, text simplification, and study tools for learners with dyslexia, ADHD, and motor differences.
+
+### Decide: AI Decision Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.iti.decide&hl=en
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Google Play listing for an app described as providing AI-powered daily decision support for neurodivergent users experiencing decision fatigue or paralysis.[9]
