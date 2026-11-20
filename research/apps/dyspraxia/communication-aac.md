@@ -1368,3 +1368,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Research-oriented AAC repository exploring AI and machine learning to generate context-aware communication boards and symbol-supported stories.
+
+### EYA  AAC Communication
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iPad AAC app offering symbol- and picture-based sentence building, personalized communication boards, saved phrases, daily routines, and collaboration features for children and adults with speech difficulties.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?l=es-MX&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: AAC text-to-speech app for children and adults with autism, apraxia, and other speech difficulties; includes picture-based communication and sentence formation.

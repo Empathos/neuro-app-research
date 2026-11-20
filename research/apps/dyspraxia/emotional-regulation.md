@@ -568,3 +568,33 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Curated public resources for diagnosing and supporting dyspraxia/DCD, with material for healthcare professionals and links to external guidance.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/es/app/shift-regulate-reset/id6759524862?l=ca&platform=vision
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Crisis-regulation app for ADHD, autistic, and neurodivergent users, organized around spiraling, shutdown, rage, overwhelm, and stuck states with grounding, activation, sensory-reduction, and micro-step tools.[8]
+
+### Animi: Emotional Intelligence
+
+- URL: https://play.google.com/store/apps/details?id=com.animiapp.animi&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Emotion-coaching app addressing alexithymia, emotional awareness, emotion vocabulary, and emotional regulation.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: ADHD/AuDHD burnout and energy tracker with emotional first-aid tools, emotional-reset guidance, somatic grounding techniques, and nervous-system regulation support.

@@ -539,16 +539,6 @@
 - Found: 2026-10-17
 - Description: Directory of Tourette support groups and chapter-based community resources for individuals, families, and caregivers.
 
-### famtic: A Weekly Tic Diary for Families
-
-- URL: https://famtic.app/en
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: caregiver-clinician
-- Query: tourette caregiver-clinician neurodivergent app research pass 502
-- Found: 2026-10-17
-- Description: Family-focused weekly diary for recording motor and vocal tics, generating multi-week trends, and exporting summaries or raw data for neurologists and therapists.[2]
-
 ### TicTracker
 
 - URL: https://tictracker.com/

@@ -629,16 +629,6 @@
 - Found: 2026-10-13
 - Description: Android app offering calming sounds, five-senses grounding, sensory regulation tools, and pattern reports that can be shared with professionals.
 
-### Neurodiverge App
-
-- URL: https://neurodiverge.app/
-- Source: perplexity-sonar
-- Condition: dyspraxia
-- Support category: sensory-regulation
-- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-13
-- Description: Public neurodivergence self-screening and guidance platform covering dyspraxia, sensory differences, autism, ADHD, and related support needs.
-
 ### SensoryGift
 
 - URL: https://www.sensorygift.com/
@@ -678,3 +668,43 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Low-stimulation companion for neurodivergent teens and adults, featuring task breakdowns, grounding exercises, and breathing techniques.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Calming app for sensitive and neurodivergent children and adults, including a one-tap calming mode with breathing guidance and haptic pacing.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/cz/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Sensory-play app with virtual fidgets and calming activities intended to support self-regulation, sensory-seeking needs, transitions, waiting periods, and repetitive cause-and-effect interaction.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/sn/app/autism-fidgets/id6761034020?platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Interactive sensory-fidget app for autistic and neurodivergent children, offering calming, focus-supporting, and repetitive touch-based activities for transitions and quiet moments.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/ie/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Companion app for neurodivergent adults to track energy, stimulation, overload, understimulation, masking, sensory demands, and recovery patterns across daily life and work.
