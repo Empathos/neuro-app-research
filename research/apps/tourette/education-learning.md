@@ -918,3 +918,33 @@
 - Query: tourette education-learning neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Neurodivergent friendship and dating app that explicitly welcomes people with Tourette syndrome alongside autistic, ADHD, dyslexic, and other neurodivergent users.
+
+### Dalza App
+
+- URL: https://apps.apple.com/pt/app/dalza/id6468228830?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: A collaboration and support platform for parents, teachers, and healthcare professionals working with children facing learning barriers or SEND needs, including education, assessment, treatment, monitoring, and learning resources.
+
+### Sandpit Talk
+
+- URL: https://apps.apple.com/pk/app/sandpit-talk/id6791470640
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: An inclusive-education companion for educators that provides strengths-based, neurodiversity-affirming classroom strategies through an interactive AI conversation.
+
+### Glean
+
+- URL: https://accessability.utdallas.edu/2025/04/24/top-5-apps-for-neurodivergent-college-students/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: A lecture note-taking and study-support tool highlighted for neurodivergent college students, with lecture recording, synchronized notes, transcripts, and study questions.

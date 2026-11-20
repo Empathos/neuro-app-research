@@ -988,3 +988,43 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: iOS app developed by a person with Tourette syndrome, offering medication guidance, communication support for medical professionals and therapists, tic-management strategies, and educational resources.
+
+### Neurodivergent Insights Parents & Caregivers
+
+- URL: https://neurodivergentinsights.com/parents-and-caregivers/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Caregiver resources addressing neurodivergent childrens sensory needs, emotions, motivation, and caregiver burnout.[6]
+
+### Neurodivergent Insights Free Resources
+
+- URL: https://neurodivergentinsights.com/free-resources/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Free research-informed and neurodivergent-affirming tools created for ADHD and autism support, with potential relevance to caregiver and clinician research.[7]
+
+### Neurodiversity-Affirming Care and Support Toolkit
+
+- URL: https://static1.squarespace.com/static/632462bb88e23c400c82d41a/t/69f0c3262575761be1260279/1777386278215/NdC_NdAffirming%2BCare%2Band%2BSupport_Toolkit_V14.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Public toolkit for neurodiversity-affirming care across health, education, and social care, including discussion prompts, care-plan templates, safety plans, and coordinated support tools.[9]
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/in/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Tic and Tourette logging tool offering trigger tracking, calming exercises, clinical PDF reports, and family synchronization for multiple caregivers.[9]

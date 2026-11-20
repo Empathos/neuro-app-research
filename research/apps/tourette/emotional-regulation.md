@@ -458,3 +458,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Emotion-coaching app focused on emotional awareness, alexithymia, emotion vocabulary, identifying causes, and recognizing personal emotional patterns.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: ADHD/AuDHD energy and burnout tracker with emotional first-aid tools, somatic grounding, breathing visualization, and nervous-system regulation guides.

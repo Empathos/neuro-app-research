@@ -598,3 +598,33 @@
 - Query: tourette daily-living neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Visual day-planning app intended for forgetful and neurodivergent users, supporting routines, independent living, and caregiver-assisted planning.
+
+### TicFlow - Trigger Diary
+
+- URL: https://apps.apple.com/pa/app/ticflow-trigger-diary/id6759267079?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Daily check-in and trigger diary for tracking relationships between tics and sleep, stress, diet, exercise, and other factors.
+
+### Tic-Tact
+
+- URL: https://babytech.jp/en/2026/11/tic-tact-app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Audio-based iPhone app designed to support people with tics through adjustable alternating sound patterns combined with music or ambient sounds; clinical efficacy is not yet established.
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/us/app/hiki-autism-adhd-nd-dating/id1466184914?l=ar&platform=watch
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Neurodivergent social and friendship platform welcoming autistic, ADHD, AuDHD, Tourettes, dyslexic, and other neurodivergent users.

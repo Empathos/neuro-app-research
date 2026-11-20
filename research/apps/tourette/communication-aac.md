@@ -958,3 +958,43 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: Official young-adult toolkit with social-communication strategies, including practicing disclosure, active listening, and clear I statements.
+
+### VocalTiles
+
+- URL: https://apps.apple.com/ca/app/vocaltiles/id6790195616
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AAC app for iPhone, iPad, and Apple Watch that creates visual communication boards, supports Gestalt Language Processors, and generates social stories.
+
+### GadAAC
+
+- URL: https://apps.apple.com/tw/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Free AAC app for iPhone and iPad that uses pictograms, text-to-speech, custom photos, visual schedules, First/Then sequences, and accessibility features for neurodivergent users.
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source, offline-first AAC organization developing free local software, interoperable communication-board formats, and tools designed to avoid subscription and hardware barriers.
+
+### BridgeAAC Core
+
+- URL: https://github.com/BridgeAAC/core
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Free, open-source AAC application supporting offline use, text-to-speech, Open Board Format files, and local data ownership.
