@@ -1518,3 +1518,13 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: App Store version of a research-oriented ADHD tool covering attention, inhibition, monitoring, memory, planning, and coordination.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: ADHD/AuDHD burnout and energy tracker with emotional-first-aid tools, dysregulation and rejection-sensitive dysphoria support, somatic grounding, breathing, brown noise, and NSDR resources.

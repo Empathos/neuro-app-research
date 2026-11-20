@@ -1248,3 +1248,13 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: ADHD, autistic, and dyslexic support app with one-step focus mode, personalized energy and sensitivity context, planner tools, and low-stimulation settings.
+
+### Anchor: ADHD Daily Focus
+
+- URL: https://apps.apple.com/us/app/anchor-adhd-daily-focus/id6800768819
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: An ADHD-focused routine and concentration companion with optional ambient sounds, meaningful haptics, VoiceOver support, Reduce Motion, and sensory-conscious design.

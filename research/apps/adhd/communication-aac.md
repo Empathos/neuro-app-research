@@ -1319,3 +1319,53 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: Open-source AAC organization focused on free, offline-first communication tools across iOS, Android, Windows, macOS, Linux, ChromeOS, and the web.[9]
+
+### TwIPS2: LLM-Powered Texting Support
+
+- URL: https://dl.acm.org/doi/10.1145/3663548.3675633
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Research prototype supporting tone interpretation, emotionally aligned drafting, and alternative phrasing for potentially misunderstood messages, evaluated with autistic participants.
+
+### NeuroBridge
+
+- URL: https://dl.acm.org/doi/full/10.1145/3663547.3746337
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Online platform using generative AI to simulate cross-neurotype communication scenarios and provide feedback during interactions.
+
+### Tone Indicators: Designing Accessible CMC Cues for Neurodiverse Users
+
+- URL: http://dl.acm.org/doi/10.1145/3757677
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Research on explicit tone and intent cues for computer-mediated communication, reporting reduced cognitive load and increased confidence for neurodiverse users.
+
+### Navigating Neurodivergence with AI Chatbots
+
+- URL: https://dl.acm.org/doi/full/10.1145/3772318.3791334
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Study examining neurodivergent use of AI chatbots for communication, planning, emotional regulation, and working-memory support, alongside concerns about privacy, masking, and altered message intent.
+
+### Working Together Toward Interdependence
+
+- URL: http://dl.acm.org/doi/10.1145/3706598.3713344
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Research on chatbot-based support for balanced interactions between neurodivergent and neurotypical people, focusing on communication barriers and reciprocal assistance.

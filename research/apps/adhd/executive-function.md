@@ -1408,3 +1408,43 @@
 - Query: adhd executive-function neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: A productivity app focused on concentration, planning, time management, distraction reduction, habit building, and ADHD-related skills.
+
+### ADHD GitHub Topic
+
+- URL: https://github.com/topics/adhd?l=typescript&o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Public GitHub topic page collecting ADHD-focused software repositories, including focus timers, weekly insights, productivity tools, and agent-based projects.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/nr/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: iOS visual planning app with routines, gentle reminders, AI-assisted brain-dump planning, prioritization, task scheduling, and focus timing for ADHD and executive-function support.
+
+### ADHD Organiser & Todo: Unstuck
+
+- URL: https://apps.apple.com/gb/app/adhd-organiser-todo-unstuck/id6779624768
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Task-selection and initiation app for ADHD and executive dysfunction, using a single-task workflow and short countdowns to reduce decision fatigue.
+
+### MyndMap
+
+- URL: https://apps.apple.com/us/app/myndmap/id6473708009
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: ADHD-focused productivity app for planning, long-term goals, focus, and emotional balance, designed for people with ADHD or executive-function challenges.

@@ -1618,3 +1618,43 @@
 - Query: adhd education-learning neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: Research-oriented iOS app for participating in ADHD studies and assessing areas such as attention, inhibition, monitoring, working memory, planning, and hand-eye coordination.
+
+### NESTL: Neurodivergent Education for Students, Teaching & Learning
+
+- URL: https://www.education.ox.ac.uk/project/neurodivergent-education-for-students-teaching-learning-nestl/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: University of Oxford project offering a co-created toolkit for neurodivergent-inclusive teaching and learning, informed by workshops, interviews, and literature reviews.
+
+### Chat ADHD
+
+- URL: https://apps.apple.com/us/app/chat-adhd/id6759792144
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: An educational and support app providing structured ADHD learning content, saved resources, and optional AI-guided educational chat for people exploring ADHD and their supporters.
+
+### Versed Learn
+
+- URL: https://apps.apple.com/sg/app/versed-learn/id6758624963
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: An accessible flashcard and spaced-repetition app designed for learners with ADHD, dyslexia, and autism.
+
+### ADHaSi
+
+- URL: https://play.google.com/store/apps/details?id=de.adhasi.app&hl=en
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: A learning app for children and teenagers aged 816 with ADHD, using short learning units, adaptive content, and rewards across subjects such as reading, languages, and mathematics.
