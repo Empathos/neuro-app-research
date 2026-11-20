@@ -1039,3 +1039,113 @@
 - Found: 2026-11-13
 - Description: Minnesota AAC guidance addressing individualized communication supports, sensory-processing considerations, switch access, and customizable AAC apps.
 
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/de/app/innervoice-aac-for-autism/id730856179
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: AAC app for autistic and nonspeaking users supporting communication through boards, typing, and speech, including choices, questions, and requests for breaks.[2]
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?l=es-MX&platform=ipad
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Text-to-speech AAC app for children and adults with autism and other speech difficulties, using picture-based communication and customizable sentence formation.[4]
+
+### AAC Talk: Autism Voice Board
+
+- URL: https://apps.apple.com/us/app/aac-talk-autism-voice-board/id6809749030
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Picture-based communication board that speaks selected symbols and builds messages in a sentence strip for nonspeaking or minimally speaking users.[5]
+
+### Sky Simple AAC
+
+- URL: https://apps.apple.com/us/app/sky-simple-aac/id6762288300?platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Minimal communication board for nonspeaking children, designed with soft colors, gentle motion, and a low-stimulation interface to reduce sensory overload.[10]
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Family support app for autism, ADHD, sensory-processing differences, learning disabilities, and other neurodivergent profiles. Provides sensory-friendly activities, bedtime stories, guides, printable tools, and child-safe mode.
+
+### Tihi
+
+- URL: https://apps.apple.com/ae/app/tihi/id6751172848
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Silent-signaling communication app for sensory overload and situations where speech is difficult. Supports preset or custom messages such as Need Quiet, Need Break, Sensory Overload, and Need Help.
+
+### Flexspeak AAC
+
+- URL: https://apps.apple.com/us/app/flexspeak-aac/id6642667205?l=ar&platform=ipad
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Multilingual AAC app with customizable vocabulary, symbol and photo support, AI prediction, translation, and remote editing.
+
+### EYA  AAC Communication App
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: AAC platform offering communication cards, personalized boards, saved phrases, an AAC keyboard, word prediction, and speech output.
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC/core/wiki
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open communication system for iPad, Android, Chromebook, PC, and other devices, with offline speech, switch scanning, sensory mode, and Open Board Format support.
+
+### Sensory Boards
+
+- URL: https://apps.apple.com/bz/app/sensory-boards/id6761338208
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AAC board creator with built-in symbols, CVI mode, and Open Board Format export for sharing boards across compatible AAC applications.
+
+### LAMP Words for Life and TouchChat
+
+- URL: https://lampwflapp.com/apps
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Official AAC app provider page describing LAMP Words for Life, based on Language Acquisition through Motor Planning, and TouchChat for people whose natural speech is affected by autism, Down syndrome, ALS, apraxia, stroke, or related conditions.

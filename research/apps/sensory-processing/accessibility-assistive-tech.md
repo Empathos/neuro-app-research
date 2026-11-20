@@ -788,3 +788,123 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Accessibility-profile app that lets users document sensory-processing, communication, cognitive, mobility, hearing, vision, and emotional-support needs, then share them through a QR code.
+
+### SensoryGift
+
+- URL: https://www.sensorygift.com/about-us/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Provides practical neurodivergent-support resources, including visual supports, printables, interactive tools, and apps for sensory needs, routines, transitions, and difficult moments.
+
+### SixthSense
+
+- URL: https://github.com/k-kochhar/SixthSense
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: An open-source assistive-technology project combining computer vision with wearable haptic feedback to communicate environmental information through touch.
+
+### Tictactanium
+
+- URL: https://github.com/Huskberry/tictactanium
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: A Raspberry Pi-based wrist or vest device using haptic feedback and text-to-speech to support accessible interaction for people with audio or visual impairments.
+
+### Assistive Technology GitHub Topics
+
+- URL: https://github.com/topics/assistive-technology?l=c%2B%2B&o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: A public repository directory covering assistive input devices, accessibility software, human-machine interfaces, and alternative interaction technologies.
+
+### tether.nvim
+
+- URL: https://github.com/Phrozenn1/tether.nvim
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open-source Neovim workflow tool combining a Flowmodoro timer, working-memory note capture, and cognitive anchoring for ADHD, autism, dyslexia, and other neurodivergent users.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open-source browser extension providing text-to-speech, speech-to-text, text simplification, screen overlays, dark mode, and profiles for ADHD, autism, dyslexia, sensory sensitivity, motor impairment, and low vision.
+
+### NeuroEquality GitHub Organization
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Public organization developing accessibility-focused tools for autistic, ADHD, dyslexic, and other neurodivergent communities, including safety, communication, coaching, and inclusive-design projects.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Curated public list of tools, resources, methodologies, and services for neurodivergent learners, educators, and families.
+
+### OptiKey
+
+- URL: https://github.com/OptiKey/OptiKey
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source eye-gaze computer-control and speech software designed as assistive technology.
+
+### VibHearing
+
+- URL: https://github.com/fbeser/VibHearing
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source wearable platform translating meaningful environmental sounds into haptic signals for humans and animals.
+
+### AccessKit
+
+- URL: https://github.com/AccessKit/accesskit
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source accessibility infrastructure for custom UI toolkits, exposing accessibility trees to assistive technologies across desktop and mobile platforms.
+
+### Neurodiversity Apps and Software Directory
+
+- URL: https://neurodiversity.directory/listing-category/neurodiversity-apps/?cred%5B0%5D=verified&view=grid
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: A directory of apps and software for ADHD, autism, sensory regulation, accessibility, productivity, calming input, haptic grounding, and sensory-trigger tracking.

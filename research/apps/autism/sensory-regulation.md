@@ -939,16 +939,6 @@
 - Found: 2026-10-24
 - Description: Autism behavior and sensory tracker for parents, autistic teens, and adults; logs meltdowns, shutdowns, sensory moments, sleep, food, and regulation patterns.
 
-### Spoons - Autism Energy Tracker
-
-- URL: https://play.google.com/store/apps/details?id=app.getspoons.spoons&hl=en-US
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: sensory-regulation
-- Query: autism sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-24
-- Description: Energy-tracking app for autistic adults focused on burnout, masking fatigue, shutdowns, sensory overload, and daily energy patterns.
-
 ### Calm Apps for Kids Who See the World Differently
 
 - URL: https://gentle-motion.com/

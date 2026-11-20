@@ -1078,3 +1078,73 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Study of sensory differences and environmental supports for neurodivergent university staff and postgraduate students.
+
+### Sensory Overload
+
+- URL: https://sensoryoverload.info/frequently-asked-questions/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public learning platform offering education, articles, courses, and practical resources covering sensory processing and neurodivergent life.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/us/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Structured phonics and sight-word app for autistic and ADHD learners, emphasizing one-task-at-a-time lessons, predictable routines, minimal sensory input, offline use, and no distracting animations or sounds.[7]
+
+### BrightMo Sensory
+
+- URL: https://apps.apple.com/cl/app/brightm%C5%8D-sensory/id6760000134?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Sensory-friendly learning app for toddlers and children with autism, sensory sensitivities, and developmental differences, covering colors, numbers, letters, sounds, and matching.
+
+### Autism ADHD Games
+
+- URL: https://apps.apple.com/be/app/autism-adhd-games/id6757896431?platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: App offering sensory play, fidgets, communication, focus, emotional learning, fine-motor activities, calming practice, tracing, sorting, mazes, and numbers for autistic and neurodivergent learners.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/bo/app/calm-fidgets-sensory-play/id6761034020?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Sensory app with hundreds of digital fidgets and calming activities, including spinning, popping, stretching, tapping, gentle motion, and relaxing visual interactions.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/ru/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Distraction-free literacy app designed for neurodivergent learners, using one-task lessons, predictable routines, minimal sensory input, phonics, sight words, and offline use.
+
+### EZducate Interactive Learning Games
+
+- URL: https://www.ezducate.ai/games
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Collection of sensory-safe learning games covering math, reading, sensory processing, auditory processing, feelings, and daily living skills.

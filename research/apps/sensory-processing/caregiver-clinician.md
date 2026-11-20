@@ -1058,3 +1058,133 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Wearable interactive system research supporting shared understanding between children with sensory processing disorder and caregivers through sensory-state cues, environmental sensing, records, and response suggestions.
+
+### An AI Gen and LLM-Based Platform for Pedagogical Support and Sensory Accommodations for Neurodivergent Students
+
+- URL: https://sol.sbc.org.br/index.php/sbsi/article/cite/34339/EndNoteCitationPlugin
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Research lead for an AI platform intended to support teachers, families, and therapists with personalized pedagogical activities and sensory accommodations for neurodivergent students.[3]
+
+### Towards a Digital Twin Framework for Sensory-Aware Neurodivergent Route Personalisation
+
+- URL: https://repository.essex.ac.uk/43773/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research repository lead for NavTwin, a framework combining personal and environmental digital twins to model sensory profiles and predict crowd density, noise, and visual complexity for neurodivergent route planning.[1]
+
+### A Systematic Review of the Sensory Processing Experiences of People with ADHD
+
+- URL: https://ray.yorksj.ac.uk/id/eprint/15562/9/1-s2.0-S3050579826000483-main.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Systematic-review PDF covering sensory-processing differences in ADHD and explicitly considering parent, carer, family, educator, researcher, and clinician reports.[7]
+
+### Sensory Processing and Behavioral Outcomes in Developmental Populations
+
+- URL: http://www.link.springer.com/subjects/sensory-processing-and-behavioral-outcomes-in-developmental-populations
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research topic page aggregating work on sensory over-responsivity across neurodevelopmental populations, including caregiver-related adversity and visual-processing questionnaires for neurodivergent adults.[4]
+
+### Designing Neurodiversity-Affirming and Trauma-Informed Clinical Spaces
+
+- URL: https://research-repository.uwa.edu.au/en/publications/designing-neurodiversity-affirming-and-trauma-informed-clinical-s/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Clinical-design research lead addressing sensory processing differences and practical environmental adaptations across visual, auditory, olfactory, tactile, proprioceptive, thermal, and gustatory domains.[2]
+
+### ASSIST: Autism Sensory Strategies, Information, and Toolkit
+
+- URL: https://paautism.org/resource/assist-toolkit/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public sensory-support toolkit for autistic people, families, and providers, including sensory strategies, visual sequencing, calming music, and caregiver-oriented resources.
+
+### Sensory Processing and Using the Sensory Toolkit
+
+- URL: https://www.orygen.org.au/Training/Resources/Neurodiversity/Fact-sheets/Sensory-processing-and-using-the-Sensory-Toolkit/ORYGEN_What-is-sensory-processing-and-using-sensor.aspx?ext=.pdf
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Clinician-facing sensory toolkit guidance covering sensory experiences, environmental preferences, collaborative young-personclinician planning, and feedback collection.
+
+### Sensory Profile 2
+
+- URL: https://www.pearsonassessments.com/professional-assessments/featured-topics/autism/early-childhood.html
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official assessment resource describing a standardized caregiver-report tool for evaluating childrens sensory-processing patterns.
+
+### Sensory Processing Modalities and Their Associations With ...
+
+- URL: https://link.springer.com/article/10.1007/s10803-025-07185-0
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Study comparing sensory-processing patterns in autistic children, children with ADHD, and neurotypical children using parent reports and direct auditory measures.[8]
+
+### NeuroVerse ADHD Platform
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Public repository describing an assistive platform using smartwatch, tablet, and virtual-reality components to support neurodivergent users with social-cue interpretation.
+
+### Spectrum: Sensory Calm & Care
+
+- URL: https://apps.apple.com/ua/app/spectrum-sensory-calm-care/id6797337304
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: iOS app for children with special educational needs, autistic people, older adults, and people with dementia. Includes sensory profiles, visual schedules, communication boards, caregiver tools, grounding techniques, and printable handover sheets.
+
+### Neurture: Family Support for iOS
+
+- URL: https://apps.apple.com/us/app/neurture-family-support/id6760677402
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Apple App Store version with sensory-friendly play, clinician-approved resources, visual cards, calming audio, observation tracking, and exportable summaries for teachers, therapists, and doctors.
+
+### Stories My Way for Android
+
+- URL: https://sourceforge.net/app/stories-my-way/android/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Free Android app for families raising neurodivergent children. Supports personalized sensory-sensitive stories, child profiles, trigger and preference tracking, emotional processing, self-regulation, and caregiver, therapist, and coach use.
