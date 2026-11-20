@@ -1288,3 +1288,13 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Apple newsroom overview of AssistiveWare's Proloquo and Proloquo Coach AAC tools for communication, language development, and support from families and educators.
+
+### COSMOS-HEARTLIGHT
+
+- URL: https://github.com/NavisWORLD/COSMOS-HEARTLIGHT
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Open-source, local-first support technology for inclusive classrooms, combining communication, sensory access, teacher observation, and student autonomy features.

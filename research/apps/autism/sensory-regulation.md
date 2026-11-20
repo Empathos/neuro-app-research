@@ -939,16 +939,6 @@
 - Found: 2026-10-24
 - Description: Autism behavior and sensory tracker for parents, autistic teens, and adults; logs meltdowns, shutdowns, sensory moments, sleep, food, and regulation patterns.
 
-### Spoons - Autism Energy Tracker
-
-- URL: https://play.google.com/store/apps/details?id=app.getspoons.spoons&hl=en-US
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: sensory-regulation
-- Query: autism sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-24
-- Description: Energy-tracking app for autistic adults focused on burnout, masking fatigue, shutdowns, sensory overload, and daily energy patterns.
-
 ### Calm Apps for Kids Who See the World Differently
 
 - URL: https://gentle-motion.com/
@@ -1268,3 +1258,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-18
 - Description: Ad-free app with therapist-informed activities including AAC, sensory calming games, tracing, coloring, puzzles, and daily-living supports.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Regulation tool for autistic, ADHD, and other neurodivergent users with modes for spiraling, overwhelm, sensory reduction, grounding, and breathing.
+
+### Tihi
+
+- URL: https://apps.apple.com/ae/app/tihi/id6751172848
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Minimalist silent-communication app for sending preset or custom alerts such as sensory overload, need quiet, need a break, or need help.

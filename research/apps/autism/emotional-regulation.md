@@ -978,3 +978,43 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Mood-recognition and management app created for children with autism and special needs, featuring mood tracking, calming strategies, games, and caregiver or educator monitoring.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Neurodivergent energy and burnout tracker with emotional-first-aid tools, emotional reset guidance, somatic grounding, and regulation resources.[4]
+
+### The Feeling Wheel
+
+- URL: https://neurodivergentinsights.com/emotions/the-feeling-wheel/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Free digital visual tool for identifying and exploring emotions with greater nuance and reduced pressure.
+
+### Emotions 101 for Clinical Use
+
+- URL: https://neurodivergentinsights.com/emotions/emotions-101-for-clinical-use/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Digital workbook and skills resource for clinicians, coaches, and helpers supporting autistic, ADHD, AuDHD, and otherwise neurodivergent adults with emotional literacy and regulation.
+
+### Emotion Regulation Cards for Therapists
+
+- URL: https://neurodivergentinsights.com/emotions/printable-emotion-regulation-cards-clinical/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Printable visual strategy cards covering relaxation, mindfulness, grounding, distress tolerance, and sensory soothing for autistic and otherwise neurodivergent adults.

@@ -1038,3 +1038,23 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Visual schedule and planning app with color-coded timelines, task prioritization, reminders, and an AI co-planner designed for neurodivergent users.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Visual planner and assistive-living app for autistic and neurodivergent users, with routines, to-do lists, printable visual schedules, communication cards, mood tracking, and shared carer access.
+
+### Tiimo
+
+- URL: https://gizmodo.com/download/tiimo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Visual planning and routine-building app with timelines, reminders, timers, to-do lists, mood tracking, focus tools, and task-planning support for executive-function challenges.

@@ -1468,3 +1468,23 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: App for educators and parents supporting autistic children, with playful, cognitive, and motor-skill activities.[7]
+
+### Otsimo Special Education
+
+- URL: https://hundred.org/en/innovations/otsimo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Adaptive early-learning app with skill-building games, speech practice, and AAC communication tools for children with autism and other developmental disabilities.
+
+### Learningwell.ai
+
+- URL: https://www.autism.org.uk/autism-services-directory/learningwell-ai-%E2%80%93-ai-powered-support-for-autistic-learners-parents-educators
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AI-powered education platform for personalized support, differentiated materials, simplified content, sensory-friendly activities, and individualized learning goals for autistic learners.

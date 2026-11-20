@@ -1508,3 +1508,13 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-11-17
 - Description: iOS app offering visual schedules, color-coded tasks, AI prioritization, gentle reminders, and a focus timer.
+
+### Lunatask
+
+- URL: https://lunatask.app/about
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Privacy-focused productivity and life-tracking app created to help neurodivergent users manage priorities, distractions, overwhelm, focus, and achievable task lists.

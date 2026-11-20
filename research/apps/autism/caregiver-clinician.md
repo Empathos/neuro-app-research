@@ -1178,3 +1178,33 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Public autism research and clinical resource organization involving autistic people and caregivers in diagnosis, research, and management, with plans for a statewide research database connecting families and researchers.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/au/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Neuroaffirming support for families and neurodivergent adults, including care coordination, document analysis, medication and observation tracking, school and therapy support, and allied-health collaboration.
+
+### Skill Bloom
+
+- URL: https://www.standard.co.uk/business/axastartupangel/axa-neurodivergent-children-app-social-b1305023.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: App for children with neurodivergent support needs that generates personalized social scenarios and includes appointment management, progress reports, and goal-setting for families and professionals.
+
+### Canvas Dx caregiver-clinician workflow study
+
+- URL: https://formative.jmir.org/2026/1/e98697/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Public research report on integrating an FDA-authorized digital autism diagnostic tool into developmental-pediatrics workflows using caregiver questionnaires, clinician questionnaires, and caregiver-uploaded home videos.[10]
