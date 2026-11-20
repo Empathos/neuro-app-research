@@ -618,3 +618,43 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Public directory of current and planned neurodivergent-support apps covering connection, calming, routines, learning, focus, and structured daily activities.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/nr/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodivergent-focused planning and task-scheduling app supporting executive function, focus, routines, and breaking tasks into smaller steps.[9]
+
+### TSBand wearable tic-monitoring system
+
+- URL: https://neuro.jmir.org/2023/1/e43351/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Research prototype combining a sensor-equipped wristband, machine-learning tic-attack detection, audio monitoring, manual alerts, and a companion app for notifying caregivers.
+
+### Signal & Support
+
+- URL: https://apps.apple.com/us/app/signal-support/id6758867206
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Private, on-device self-monitoring app for neurodivergent users to understand functional state and communicate support needs.
+
+### Decide: AI Decision Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.iti.decide&hl=en-US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Android app created for neurodivergent users to reduce decision fatigue through guided reflection, recommendations, routines, energy-level options, and randomized choices.[2]

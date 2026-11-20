@@ -429,16 +429,6 @@
 - Found: 2026-06-29
 - Description: A comprehensive review of top AAC mobile apps, including considerations for motor plan-based designs and customization for neurodivergent users.
 
-### Set up a Focus on iPhone - Apple Support
-
-- URL: https://support.apple.com/guide/iphone/set-up-a-focus-iphd6288a67f/ios
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: communication-aac
-- Query: focus speech support iOS Android
-- Found: 2026-06-30
-- Description: Official Apple documentation for configuring Focus Mode on iOS, including settings to silence notifications, customize lock screens, and manage focus filters for neurodivergent support and speech concentration.
-
 ### Digital Wellbeing & Parental Controls - Android Focus Mode
 
 - URL: https://support.google.com/android-help/topic/7783467922911591
@@ -1109,16 +1099,6 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-11-08
 - Description: Research initiative exploring inclusive communication, including co-creation of a universal sign language for neurodivergent people and individuals with communicative differences.
-
-### ADHD Assist
-
-- URL: https://github.com/jonashw/adhd-assistant
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: communication-aac
-- Query: adhd communication-aac neurodivergent app research pass 501
-- Found: 2026-11-10
-- Description: Open-source brainstorming and conversation aid designed to help people with ADHD navigate ideas, manage dependent tasks, and support written communication.
 
 ### adhd-assist
 

@@ -968,3 +968,63 @@
 - Query: tourette executive-function neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: Public research publication describing a repository of Tourette-related clinical data, DNA, and lymphoblastoid cell lines for qualified investigators studying Tourette syndrome and associated ADHD, OCD, and tic disorders.
+
+### NINDS Tourette Syndrome Genetic Repository
+
+- URL: https://catalog.coriell.org/1/NINDS/Diseases/Tourette-Syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Coriell/NINDS repository of Tourette syndrome genetic samples and related unaffected or affected family controls for research.
+
+### CDC Tourette Syndrome Articles
+
+- URL: https://portugues.cdc.gov/tourette-syndrome/articles/index.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: CDC-indexed scientific articles on Tourette syndrome, including research on academic, interpersonal, recreational, and family impairment in youth with Tourette syndrome and ADHD.
+
+### PLOS One Tourette Syndrome Research
+
+- URL: https://journals.plos.org/plosone/browse/tourette_syndrome?sortOrder=MOST_VIEWS_ALL_TIME&page=1
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public research collection covering Tourette syndrome, cognition, emotion, behavior, ADHD, and longitudinal follow-up studies.
+
+### Tourette Syndrome Research Collection
+
+- URL: http://www.link.springer.com/collections/cjhjicicjd
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public Springer topical collection covering Tourette syndrome genetics, neurological mechanisms, behavioral and pharmacological therapies, and quality-of-life impacts.
+
+### CDC Tourette Syndrome Research
+
+- URL: https://archive.cdc.gov/www_cdc_gov/tourette-syndrome/research/index.html
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: CDC research hub covering screening and diagnostic tools, prevalence, quality of life, parenting, relationships, and education impacts.
+
+### Topical Collection on Tourettes Syndrome
+
+- URL: http://link.springer.com/collections/cjhjicicjd
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Research collection covering Tourette syndrome genetics, neurobiology, behavioral and pharmacological therapies, and quality-of-life impacts.

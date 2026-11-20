@@ -179,16 +179,6 @@
 - Found: 2026-06-25
 - Description: Official repository of AAC (augmentative and alternative communication) apps and software supporting eye tracking and eye gaze for neurodivergent users.
 
-### QuickTalker Freestyle Eye Tracking Setup  AbleNet Documentation
-
-- URL: https://support.ablenetinc.com/quicktalker-freestyle/eye-tracking-or-eye-gaze-for-aac
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: communication-aac
-- Query: tic tracking communication support software
-- Found: 2026-06-25
-- Description: Official documentation for configuring eye tracking on the QuickTalker Freestyle iPad app for AAC communication.
-
 ### Eyetell Eye Tracking Communication App  Facebook Announcement
 
 - URL: https://www.facebook.com/groups/ATMakers/posts/794431437634964
@@ -238,16 +228,6 @@
 - Query: tic tracking AAC directory
 - Found: 2026-06-25
 - Description: Leading provider of AAC devices with expert clinicians to help find the best fit, offering customized solutions for individuals with tic disorders.
-
-### QuickTalker Freestyle Eye Tracking Settings
-
-- URL: https://support.ablenetinc.com/quicktalker-freestyle/eye-tracking-or-eye-gaze-for-aac/
-- Source: perplexity-sonar
-- Condition: tourette
-- Support category: communication-aac
-- Query: tic tracking AAC directory
-- Found: 2026-06-25
-- Description: Documentation guide enabling eye tracking on QuickTalker Freestyle for AAC, showing how to control speech-generating devices with eye movements.
 
 ### Eye Tracking Archives - NWACS
 
@@ -868,3 +848,153 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-11-10
 - Description: Customizable AAC text-to-speech app for children and adults with autism and other speech-related disabilities, offering picture symbols and synthesized voices.
+
+### Eloquia
+
+- URL: https://apps.apple.com/ec/app/eloquia/id6762588227?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: AAC communicator for autistic and neurodivergent people, with pictograms, quick phrases, emotion and needs communication, offline use, and speech output.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/de/app/innervoice-aac-for-autism/id730856179
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: AAC app for autistic and nonspeaking users that supports communication through boards, typing, and speech in everyday situations.
+
+### Therapist-guided mobile app-assisted behavioral treatment
+
+- URL: https://link.springer.com/article/10.1007/s00787-025-02925-0
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research study evaluating a therapist-guided mobile app intervention for children and adolescents with Tourette syndrome or chronic tic disorders; the pilot found the approach feasible and acceptable.[8]
+
+### TSBand: Tic Attack Monitoring System
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12671283/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Prototype wearable and companion app intended to detect tic attacks using physiological and audio signals and notify designated caregivers.[6]
+
+### AAC GitHub Topic
+
+- URL: https://github.com/topics/aac?l=typescript&o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public repository listing for AAC projects, including apps supporting children with speech and language difficulties, autism, apraxia, and emerging communication needs.[5]
+
+### Tourette Syndrome Online Support Communities
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7671842/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research on online support communities for Tourette syndrome and tic disorders, including benefits for communication with health professionals, knowledge-sharing, and offline tic management.[10]
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?l=es-MX&platform=ipad
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC text-to-speech app with customizable picture-based communication, sentence construction, and support for people with speech difficulties.
+
+### GadAAC  AAC + AI
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AAC app for children and adults with limited or no speech, including neurodivergent users. Provides picture-based communication, custom tiles, visual schedules, First/Then sequences, accessibility labels, large touch targets, and high-contrast and dark modes.
+
+### Managing Tourette and Tic Disorders Provider Toolkit
+
+- URL: https://tourette.org/wp-content/uploads/Full-Provider-Tool-Kit-rev.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Official provider toolkit addressing Tourette syndrome, tic disorders, communication disorders, processing delays, memory deficits, and executive-function difficulties.
+
+### Tourette Association Support for Children
+
+- URL: https://tourette.org/about-tourette/overview/living-tourette-syndrome/children-with-tourette-0-12/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Official guidance on communication strategies for children with Tourette syndrome, including explaining Tourette to classmates and teachers.
+
+### Navigating Tourette Syndrome: Young Adult Toolkit
+
+- URL: https://tourette.org/wp-content/uploads/TAA_Young_Adult_Toolkit.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Official young-adult toolkit with social-communication strategies, including practicing disclosure, active listening, and clear I statements.
+
+### VocalTiles
+
+- URL: https://apps.apple.com/ca/app/vocaltiles/id6790195616
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AAC app for iPhone, iPad, and Apple Watch that creates visual communication boards, supports Gestalt Language Processors, and generates social stories.
+
+### GadAAC
+
+- URL: https://apps.apple.com/tw/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Free AAC app for iPhone and iPad that uses pictograms, text-to-speech, custom photos, visual schedules, First/Then sequences, and accessibility features for neurodivergent users.
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source, offline-first AAC organization developing free local software, interoperable communication-board formats, and tools designed to avoid subscription and hardware barriers.
+
+### BridgeAAC Core
+
+- URL: https://github.com/BridgeAAC/core
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Free, open-source AAC application supporting offline use, text-to-speech, Open Board Format files, and local data ownership.
