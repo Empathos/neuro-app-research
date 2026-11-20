@@ -1208,3 +1208,93 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Apple App Store collection featuring autism-related tools such as Proloquo2Go, Proloquo4Text, Keeble, Pictello, Assistive Express, Voice Dream, and GoTalk WOW.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?platform=mac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Text-to-speech AAC app for autistic and nonspeaking users, offering customizable communication, extensive picture vocabulary, and multiple voices.
+
+### GadAAC
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Picture-based AAC app for nonspeaking and autistic users with visual schedules, First/Then sequences, custom photo tiles, screen-reader labels, large touch targets, and high-contrast and dark modes.
+
+### HiAlert: Communication App
+
+- URL: https://www.autism.org.uk/autism-services-directory/hialert-communication-app-with-free-alert-card-for-autism-and-other-health-conditions-and-disabilit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Communication and support app with an alert card, securely stored health details, and regulation features; available for iOS and Android.
+
+### Autism Kids: Voice & Routines
+
+- URL: https://play.google.com/store/apps/details?id=com.phonegap.matraquinha&hl=en&gl=BR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC and routine-support app for autistic and nonspeaking children, featuring image-based voice communication and offline operation.
+
+### Autism: Communication
+
+- URL: https://play.google.com/store/apps/details?id=com.autism&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: AAC communicator with voiced cards, customizable content, and visual communication tools for autistic and other nonspeaking users.
+
+### EYA  AAC Communication
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AAC platform for children and adults with speech difficulties, featuring communication cards, customizable boards, saved phrases, daily routines, and large-button layouts.[4]
+
+### Matraquinha: Autism
+
+- URL: https://apps.apple.com/ni/app/matraquinha-autism/id1423586611?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Image-to-speech AAC app for people with autism, nonverbal communication, or speech difficulties; supports expression of needs, emotions, and desires.
+
+### AssistiveWare Proloquo
+
+- URL: https://www.apple.com/us-es/newsroom/2023/05/assistiveware-ushers-in-next-generation-of-aac-technology/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Apple newsroom overview of AssistiveWare's Proloquo and Proloquo Coach AAC tools for communication, language development, and support from families and educators.
+
+### COSMOS-HEARTLIGHT
+
+- URL: https://github.com/NavisWORLD/COSMOS-HEARTLIGHT
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Open-source, local-first support technology for inclusive classrooms, combining communication, sensory access, teacher observation, and student autonomy features.

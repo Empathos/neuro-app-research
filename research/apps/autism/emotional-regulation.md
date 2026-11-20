@@ -938,3 +938,83 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Emotional-regulation and behavioral-support app for children, including neurodivergent children with autism, ADHD, and sensory needs; includes check-ins, guided activities, and tracking.
+
+### HablemosTEA: ASD & Autism App
+
+- URL: https://apps.apple.com/uy/app/hablemostea-asd-autism-app/id6760207146
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Autism-support app focused on communication, emotional expression, visual schedules, self-regulation, and a Calm Zone for anxiety or overstimulation.
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ca/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodiversity-support app for recording difficult moments, exploring triggers and needs, reflecting on emotions and responses, and identifying strategies for regulation and communication.
+
+### Gentle Ally: PDA Parent Helper
+
+- URL: https://apps.apple.com/jm/app/gentle-ally-pda-parent-helper/id6755533920
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Parent-support app offering PDA-aware demand rephrasing, regulation planning, grounding scripts, breathing exercises, child profiles, and de-escalation guidance.
+
+### Mood Toolbox
+
+- URL: https://apps.apple.com/us/app/mood-toolbox/id1342614348?l=zh
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Mood-recognition and management app created for children with autism and special needs, featuring mood tracking, calming strategies, games, and caregiver or educator monitoring.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Neurodivergent energy and burnout tracker with emotional-first-aid tools, emotional reset guidance, somatic grounding, and regulation resources.[4]
+
+### The Feeling Wheel
+
+- URL: https://neurodivergentinsights.com/emotions/the-feeling-wheel/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Free digital visual tool for identifying and exploring emotions with greater nuance and reduced pressure.
+
+### Emotions 101 for Clinical Use
+
+- URL: https://neurodivergentinsights.com/emotions/emotions-101-for-clinical-use/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Digital workbook and skills resource for clinicians, coaches, and helpers supporting autistic, ADHD, AuDHD, and otherwise neurodivergent adults with emotional literacy and regulation.
+
+### Emotion Regulation Cards for Therapists
+
+- URL: https://neurodivergentinsights.com/emotions/printable-emotion-regulation-cards-clinical/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Printable visual strategy cards covering relaxation, mindfulness, grounding, distress tolerance, and sensory soothing for autistic and otherwise neurodivergent adults.

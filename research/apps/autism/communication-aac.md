@@ -1358,3 +1358,113 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Visual AAC board designed for non-speaking users, autism communication, and aphasia.
+
+### Pictalk
+
+- URL: https://github.com/kangraemin/pictalk
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public repository lead for an on-device AI AAC app intended for children with autism.
+
+### Asterics AAC
+
+- URL: https://github.com/logoremakefour1530/AsTeRICS-Grid
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Flexible grid-based AAC tool supporting touch, keyboard, switches, and eye gaze, with text-to-speech, multilingual functionality, and offline use.
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/kr/app/innervoice-aac-for-autism/id730856179?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Communication support app for autistic and nonspeaking people, offering communication boards, typing, speech, English and Spanish support, and the ability to convert photographed or imported board images into talking boards.[9]
+
+### My Voice AAC
+
+- URL: https://apps.apple.com/us/app/my-voice-aac/id6758536696
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Offline visual-tile AAC app with customizable photos, recorded audio or text-to-speech, folders, linked tiles, adjustable layouts, and on-device or iCloud data storage.[3]
+
+### InnerVoice: AAC for Autism
+
+- URL: https://apps.apple.com/es/app/innervoice-aac-for-autism/id730856179?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Communication-support app that turns communication boards into speech and supports board buttons, typing, and speech in English or Spanish.
+
+### Speech Assistant AAC
+
+- URL: https://apps.apple.com/us/app/speech-assistant-aac/id1139762358?l=zh-Hant-TW&platform=mac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Text-to-speech AAC app for speech impairments, including autism, with customizable categories, saved phrase buttons, and keyboard-based message entry.
+
+### Tap AAC: Nonverbal Speech App
+
+- URL: https://play.google.com/store/apps/details?id=com.tapaac.app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: AAC app for nonspeaking and minimally speaking users, including autistic people. Supports picture selection and typed speech, works offline, and includes customizable communication options.
+
+### CoughDrop AAC
+
+- URL: https://play.google.com/store/apps/details?id=com.mycoughdrop.coughdrop&hl=en_CA
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Configurable AAC communication and support tool for autistic people and others with complex communication needs. Offers starter boards, symbol sets, user images, recorded audio, speech synthesis, and cross-device access.
+
+### Proloquo2Go AAC
+
+- URL: https://apps.apple.com/no/app/proloquo2go-aac/id308368164?l=nb
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Customizable AAC app for people who cannot speak or need help being understood, including autistic users; supports natural-sounding voices and multilingual use.
+
+### Speak Agent AAC Research Project
+
+- URL: https://ies.ed.gov/use-work/awards/enhancing-augmentative-and-alternative-communication-speed-and-accuracy
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Public research project developing and testing an AAC app intended to improve communication speed and accuracy for students with speech disabilities, including autistic students.
+
+### SPEAKall! AAC Research
+
+- URL: https://link.springer.com/chapter/10.1007/978-3-030-60149-2_32
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Research lead describing autism-specific mobile AAC applications, including SPEAKall! and SPEAKall! Lite, with usability and communication assessment applications.
