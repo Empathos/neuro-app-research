@@ -948,3 +948,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: Open-source Chrome extension providing text-to-speech, speech-to-text, text simplification, and study tools for learners with dyslexia, ADHD, and motor differences.
+
+### Decide: AI Decision Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.iti.decide&hl=en
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Google Play listing for an app described as providing AI-powered daily decision support for neurodivergent users experiencing decision fatigue or paralysis.[9]

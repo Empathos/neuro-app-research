@@ -1008,3 +1008,23 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Caregiver-oriented autism and neurodiversity platform featuring pictogram-based communication, an AI assistant, emergency assistance, and support-network management.
+
+### Neurodivergence repositories
+
+- URL: https://github.com/topics/neurodivergence?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: GitHub topic directory for public neurodivergence projects, including conversational AI and socioemotional-support repositories.
+
+### Skelly Jelly
+
+- URL: https://github.com/chreez/skelly-jelly
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source neurodiversity-affirming ADHD focus companion providing ambient support without disrupting focus states.

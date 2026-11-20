@@ -1028,3 +1028,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Visual-support app for autism and ADHD featuring visual schedules, choice boards, and First/Then boards.
+
+### Calm Fidgets: Sensory Play App
+
+- URL: https://apps.apple.com/cz/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Sensory-play app with fidgets and calming activities intended to support self-regulation, sensory-seeking needs, transitions, and quiet independent play.

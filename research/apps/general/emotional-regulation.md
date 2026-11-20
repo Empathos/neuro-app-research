@@ -788,3 +788,13 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Emotion-coaching app focused on emotional awareness, alexithymia, emotion vocabulary, causes, patterns, and regulation, including support relevant to neurodivergent users.
+
+### Diverge README
+
+- URL: https://github.com/mukut03/diverge/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Project documentation describing Diverges neurodivergent-focused journaling workflow and emotional-regulation features.

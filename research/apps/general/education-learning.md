@@ -1348,3 +1348,33 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: University resource listing learning-support tools such as Anki spaced-repetition flashcards and calming soundscape apps for study environments.
+
+### Ezducate
+
+- URL: https://www.ezducate.ai/lp/edtech-neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Assistive learning platform offering visual supports, differentiated content, visual schedules, social narratives, plain-language adaptations, and picture supports.
+
+### Brain in Hand
+
+- URL: https://braininhand.co.uk/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Web and mobile support tool for managing anxiety, overwhelm, routines, problem-solving, and task memory, with applications for neurodivergent learners.
+
+### LearnKit
+
+- URL: https://github.com/johnnyrobot/learnkit
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Neuroinclusive coursework toolkit offering evidence-based rules, schemas, and auditors for designing and generating instructional content across subjects.

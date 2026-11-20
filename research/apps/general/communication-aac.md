@@ -1528,3 +1528,43 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Flexible AAC app with adjustable page layouts, recorded messages, text-to-speech, and customizable navigation for people with speaking difficulties.[5]
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source, offline-first AAC software designed to provide accessible communication without paywalls, subscriptions, or specialized hardware.
+
+### VocalTiles
+
+- URL: https://apps.apple.com/ca/app/vocaltiles/id6790195616
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AAC app with visual communication boards, text-to-speech, Gestalt Language Processor support, and social-story creation features.
+
+### CPR: Assistive AAC Communication System
+
+- URL: https://github.com/KSKAUSHIKRAM/CPR
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open-source AAC application built with Python and Kivy, featuring image generation, text processing, speech synthesis, and context-aware recommendations.
+
+### AAC Essentials
+
+- URL: https://apps.apple.com/st/app-bundle/aac-essentials/id923988203
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: App Store bundle containing Proloquo2Go, Proloquo4Text, Pictello, Keedogo, and Keedogo Plus for symbol-supported AAC, text-to-speech communication, visual stories, and accessible typing.

@@ -1178,3 +1178,23 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: An iPhone and iPad AI ADHD and executive-function coach with natural-language task capture, flexible focus timers, habit support, and a companion-pet feature.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/nz/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: iOS planner and to-do app offering focus and task-starting tools for ADHD, autistic, dyslexic, and easily overwhelmed users.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/uy/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: iOS app offering ADHD- and neurodivergence-oriented planning tools, task breakdown, and a one-step-at-a-time focus mode.

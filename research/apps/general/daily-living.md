@@ -938,3 +938,33 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Collection of tools for ADHD, autistic, dyslexic, and easily overwhelmed users, including task decomposition, one-step focus, brain dumping, tone support, and time estimation.
+
+### Thruday Visual Daily Planner  Apple App Store
+
+- URL: https://apps.apple.com/cz/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: App Store listing for visual routines, recurring activities, reminders, task breakdowns, mood tracking, printable schedules, and support for independent living, family planning, and carers.
+
+### Clindoo  Google Play
+
+- URL: https://play.google.com/store/apps/details?id=fr.clindoo.app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Routine-support app for children with autism or ADHD, using images, simple step sequences, weekly planning, hygiene and self-care routines, and reminders to build independence.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/hk/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: App offering task breakdown, one-step focus, brain-dumping, message formalization, tone interpretation, time estimation, recipe assistance, and plain-language explanations.
