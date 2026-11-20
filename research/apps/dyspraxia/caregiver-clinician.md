@@ -1008,3 +1008,33 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Research repository record describing Adappt, a smartphone application co-created with parents of neurodivergent children and mental-health care professionals to support parental well-being.[4]
+
+### Brume
+
+- URL: https://solve.mit.edu/solutions/43438
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Learning game for children aged approximately 58 that analyzes gameplay for potential dyspraxic patterns and provides parents with an online dashboard. Intended to support communication among families, teachers, and education professionals.
+
+### Speech Therapy for Apraxia
+
+- URL: https://www.prweb.com/releases/2022/08/prweb18822962.htm
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Home speech-practice app for childhood or adult apraxia, designed for use by parents, individuals, and speech therapists with caregiver or clinician participation.
+
+### Mapping Motion: A Cognitive Approach to Dyspraxia Multimodal Tool
+
+- URL: https://dl.acm.org/doi/10.1007/978-3-031-80366-6_2
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Research publication describing a software tool aimed at supporting speech therapy for developmental verbal dyspraxia, providing a lead for clinician-facing or research-oriented tool development.

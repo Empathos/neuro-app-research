@@ -1068,3 +1068,23 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: UCL repository record for research examining school-year factors associated with later achievement and wellbeing for people with developmental coordination disorder.
+
+### Skill Bloom
+
+- URL: https://www.standard.co.uk/business/axastartupangel/axa-neurodivergent-children-app-social-b1305023.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: App lead focused on helping neurodivergent children practise real-life social scenarios through prompts and tips intended to improve comprehension and confidence.[4]
+
+### Top 5 Apps for Neurodivergent College Students
+
+- URL: https://accessability.utdallas.edu/2025/04/24/top-5-apps-for-neurodivergent-college-students/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: University accessibility resource highlighting apps for neurodivergent college students, including lecture recording, synchronized notes, transcription, and study-question generation.[8]

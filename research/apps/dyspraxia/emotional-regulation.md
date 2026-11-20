@@ -588,3 +588,13 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: Emotion-coaching app addressing alexithymia, emotional awareness, emotion vocabulary, and emotional regulation.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: ADHD/AuDHD burnout and energy tracker with emotional first-aid tools, emotional-reset guidance, somatic grounding techniques, and nervous-system regulation support.

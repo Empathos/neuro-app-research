@@ -728,3 +728,23 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Resource list linking to tools such as Bookshare for accessible reading formats and Microsoft Seeing AI for reading printed or handwritten text aloud.
+
+### NaturalReader
+
+- URL: https://www.naturalreaders.com/webapp.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Text-to-speech web app and browser extension for reading webpages, PDFs, and other documents aloud.
+
+### Dark Reader
+
+- URL: https://darkreader.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Open-source browser extension and app that applies dark mode and display adjustments to websites, potentially reducing visual strain and improving readability.
