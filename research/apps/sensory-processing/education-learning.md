@@ -1138,3 +1138,13 @@
 - Query: sensory-processing education-learning neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Distraction-free literacy app designed for neurodivergent learners, using one-task lessons, predictable routines, minimal sensory input, phonics, sight words, and offline use.
+
+### EZducate Interactive Learning Games
+
+- URL: https://www.ezducate.ai/games
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: education-learning
+- Query: sensory-processing education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Collection of sensory-safe learning games covering math, reading, sensory processing, auditory processing, feelings, and daily living skills.

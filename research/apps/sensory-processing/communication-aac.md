@@ -1119,3 +1119,33 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: AAC platform offering communication cards, personalized boards, saved phrases, an AAC keyboard, word prediction, and speech output.
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC/core/wiki
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Open communication system for iPad, Android, Chromebook, PC, and other devices, with offline speech, switch scanning, sensory mode, and Open Board Format support.
+
+### Sensory Boards
+
+- URL: https://apps.apple.com/bz/app/sensory-boards/id6761338208
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AAC board creator with built-in symbols, CVI mode, and Open Board Format export for sharing boards across compatible AAC applications.
+
+### LAMP Words for Life and TouchChat
+
+- URL: https://lampwflapp.com/apps
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Official AAC app provider page describing LAMP Words for Life, based on Language Acquisition through Motor Planning, and TouchChat for people whose natural speech is affected by autism, Down syndrome, ALS, apraxia, stroke, or related conditions.

@@ -1158,3 +1158,33 @@
 - Query: sensory-processing caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Public repository describing an assistive platform using smartwatch, tablet, and virtual-reality components to support neurodivergent users with social-cue interpretation.
+
+### Spectrum: Sensory Calm & Care
+
+- URL: https://apps.apple.com/ua/app/spectrum-sensory-calm-care/id6797337304
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: iOS app for children with special educational needs, autistic people, older adults, and people with dementia. Includes sensory profiles, visual schedules, communication boards, caregiver tools, grounding techniques, and printable handover sheets.
+
+### Neurture: Family Support for iOS
+
+- URL: https://apps.apple.com/us/app/neurture-family-support/id6760677402
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Apple App Store version with sensory-friendly play, clinician-approved resources, visual cards, calming audio, observation tracking, and exportable summaries for teachers, therapists, and doctors.
+
+### Stories My Way for Android
+
+- URL: https://sourceforge.net/app/stories-my-way/android/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: caregiver-clinician
+- Query: sensory-processing caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Free Android app for families raising neurodivergent children. Supports personalized sensory-sensitive stories, child profiles, trigger and preference tracking, emotional processing, self-regulation, and caregiver, therapist, and coach use.

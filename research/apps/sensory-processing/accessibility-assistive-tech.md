@@ -898,3 +898,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Open-source accessibility infrastructure for custom UI toolkits, exposing accessibility trees to assistive technologies across desktop and mobile platforms.
+
+### Neurodiversity Apps and Software Directory
+
+- URL: https://neurodiversity.directory/listing-category/neurodiversity-apps/?cred%5B0%5D=verified&view=grid
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: A directory of apps and software for ADHD, autism, sensory regulation, accessibility, productivity, calming input, haptic grounding, and sensory-trigger tracking.

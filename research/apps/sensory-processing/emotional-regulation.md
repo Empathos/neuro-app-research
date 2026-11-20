@@ -658,3 +658,33 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: Crisis-regulation tool for ADHD, autistic, and neurodivergent users with modes for spiraling, shutdown, anger, sensory overload, and task paralysis.
+
+### Cogs Mental Wellbeing Coach
+
+- URL: https://apps.apple.com/gb/app/cogs-mental-wellbeing-coach/id1659678971
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Mental-wellbeing app designed and built by neurodivergent people, with self-regulation tools, stimming features, emotion support, and communication assistance.
+
+### Woah: Calming Visuals for Kids
+
+- URL: https://apps.apple.com/us/app/woah-calming-visuals-for-kids/id1493973830
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Portable visual-calming tool intended to support emotional regulation and reduce distress during tantrums, waiting, travel, stressful moments, and sensory challenges.
+
+### Foxtale App
+
+- URL: https://www.autism.org.uk/autism-services-directory/foxtale-app-emotion-journalling-and-lessons
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Story-driven emotional journaling and self-care game using reflection, journaling, and small emotional quests to support emotional awareness and regulation.
