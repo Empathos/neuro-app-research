@@ -1088,3 +1088,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Public GitHub reference defining executive function through inhibitory control, working-memory updating, and cognitive flexibility.[5]
+
+### ADHD-OS
+
+- URL: https://github.com/LegionForge/ADHD-OS
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Public repository for a modular personal-assistant framework focused on externalizing executive function through frictionless capture, memory, and task support.

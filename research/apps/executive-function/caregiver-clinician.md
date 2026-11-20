@@ -714,3 +714,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: Public directory of neurodiversity planning tools, including Tiimo, CORXLY, and ReMindMe, with examples spanning visual planning, AI task organization, caregiver or provider dashboards, and executive-function support.
+
+### Mapping neurodevelopmental diversity in executive function
+
+- URL: https://ueaeprints.uea.ac.uk/id/eprint/94267/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Research repository record for an exploratory study using unsupervised machine learning to identify executive-function profiles in a transdiagnostic sample of 566 neurodivergent children aged 818.

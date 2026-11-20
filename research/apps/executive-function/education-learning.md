@@ -1108,3 +1108,33 @@
 - Query: executive-function education-learning neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: A public GitHub project described as a hybrid learning platform for neurodivergent students.
+
+### MyStudyLife ADHD Planner
+
+- URL: https://mystudylife.com/adhd-planner/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: A student planner for organizing classes, assignments, deadlines, and study activities across web, iPhone, and Android, marketed for students with ADHD.
+
+### Microsoft Hackathon AI Learning for Neurodiverse Learners
+
+- URL: https://github.com/SheaGuev/Microsoft-Hackathon-AI-LLMs-Neurodiverse-Learners
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Prototype personalized study-space platform that uses learner questionnaires to recommend tailored study strategies, materials, visual aids, and hands-on activities.
+
+### Neurodiversity Website Repository
+
+- URL: https://github.com/alvarlagerlof/neurodiversity
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Open-source educational website repository focused on explaining neurodiversity to the public.

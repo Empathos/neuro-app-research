@@ -836,3 +836,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Project overview listing public NeuroEquality initiatives such as Safe4All, READY, GROW, WNIT, and STAR, with development-stage information.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: iOS regulation app for ADHD, autistic, and neurodivergent users, with modes for spiraling, shutdown, anger, sensory overwhelm, and task paralysis.

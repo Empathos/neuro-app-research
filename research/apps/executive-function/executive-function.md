@@ -848,3 +848,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Repository of reusable executive-function concepts covering task decomposition, working-memory externalization, task initiation, time support, and low-capacity workflows.
+
+### Bridging the Gap: Digital CBT for Adults Managing ADHD Challenges
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/41220055/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: PubMed record for a randomized controlled trial of a CBT-informed health app for adults with ADHD, examining planning, organization, time management, executive functioning, and quality-of-life outcomes.

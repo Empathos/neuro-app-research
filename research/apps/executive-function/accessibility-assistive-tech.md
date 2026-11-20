@@ -1108,3 +1108,23 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Assistive-technology resource covering cognition and memory supports, with executive-function applications for planning, prioritization, time management, and task initiation.
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/ru/app/thruday-visual-daily-planner/id1645552771?l=uk
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Visual day-planning app for time blindness and executive-function support, with color cues, images, time blocking, large text, dark mode, and contrast options.
+
+### Executive Functioning and Assistive Technology
+
+- URL: https://pasen.org/executive-functioning-and-assistive-technology/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Public resource listing assistive technologies intended to help manage executive-function difficulties.
