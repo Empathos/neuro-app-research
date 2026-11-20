@@ -729,16 +729,6 @@
 - Found: 2026-10-29
 - Description: ADHD-focused task manager offering brain dumps, AI task breakdown, body-doubling support, and simplified task progression.
 
-### Symplara: ADHD Focus & Tasks
-
-- URL: https://apps.apple.com/us/app/symplara-adhd-focus-tasks/id6754533445
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: accessibility-assistive-tech
-- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-29
-- Description: ADHD-oriented productivity app with focus timers, task planning, and daily, weekly, and monthly organization views.
-
 ### ADHD-Focus: Focus & Routines
 
 - URL: https://play.google.com/store/apps/details?id=click.adhdsupport.focus
@@ -978,3 +968,103 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: Public research repository exploring machine-learning support for ADHD diagnosis using eye-tracking data.
+
+### Web-Based Task Management for Individuals with ADHD
+
+- URL: https://dl.acm.org/doi/full/10.1145/3797867.3841236
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Research-backed browser overlay prototype combining spatial task management with webpage reading-progress tracking to support ADHD-related executive-function needs.
+
+### ADHD Detection GitHub Topic
+
+- URL: https://github.com/topics/adhd-detection
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public repositories exploring ADHD screening, attention tracking, computer vision, and accessible awareness tools.
+
+### Differently: ADHD Productivity
+
+- URL: https://apps.apple.com/us/app/differently-adhd-productivity/id6800354917
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Focus timer and planning tool designed for ADHD users; the App Store listing notes that it is not a medical device and does not diagnose or treat conditions.
+
+### Mothy - ADHD Productivity
+
+- URL: https://apps.apple.com/us/app/mothy-adhd-productivity/id6781503063
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: ADHD productivity app using a brief WHO ASRS-based screening to adapt task breakdown, session length, and interaction style to attention patterns.
+
+### Onefold: ADHD Focus & Calm
+
+- URL: https://apps.apple.com/us/app/onefold-adhd-focus-calm/id6781411336
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: ADHD-friendly self-support tool for voice or text brain dumps, choosing a manageable next step, short focus sessions, and reducing overwhelm.
+
+### NeuroDinoWorld
+
+- URL: https://apps.apple.com/us/app/neurodinoworld/id6771990498
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Sensory-friendly iOS app for children with ADHD, autism, and other neurodivergent profiles, with VoiceOver, Voice Control, dark interface, sufficient contrast, reduced motion, and audio descriptions.
+
+### Free Assistive Technology: Study and Productivity Tools
+
+- URL: https://resources.nu.edu/assistivetechnology/studytools
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Resource guide for assistive technologies that help with organization, assignment breakdown, time management, note-taking, and reducing overwhelm for students with ADHD or executive-function challenges.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source Chrome extension for Canvas, Moodle, and Google Classroom with text-to-speech, speech-to-text, text simplification, study tools, ADHD-oriented profiles, and WCAG 2.2 AA support.[8]
+
+### Awesome ADHD: Digital ADHD Support
+
+- URL: https://github.com/yutakobayashidev/awesome-adhd/blob/main/concepts/digital-adhd-support.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Curated research and tool index covering digital ADHD support, accessibility, assistive technology, education, therapy, and related HCI projects.[6]
+
+### OnlyTerp/adhd
+
+- URL: https://github.com/OnlyTerp/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open-source research-loop project combining a thinker model, background tracker, and persistent notebook for organizing extended AI-assisted research.[3]

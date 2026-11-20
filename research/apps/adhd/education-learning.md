@@ -1488,3 +1488,173 @@
 - Query: adhd education-learning neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Curated repository of ADHD apps, productivity tools, books, educational resources, and support services across multiple platforms.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/ru/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Structured early-reading app for neurodivergent learners, using one-task-at-a-time lessons, predictable routines, text-to-speech, offline access, and distraction-free design.
+
+### ADHD - Cognitive Research
+
+- URL: https://apps.apple.com/co/app/adhd-cognitive-research/id1412022818?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Research participation app measuring ADHD-related cognitive domains such as focused attention, inhibition, monitoring, short-term visual memory, working memory, planning, and hand-eye coordination.
+
+### Dalza
+
+- URL: https://apps.apple.com/pt/app/dalza/id6468228830?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Collaboration platform for parents, teachers, and healthcare professionals supporting children with barriers to learning or SEND through education, assessment, treatment, and monitoring.
+
+### Accessibility for All: Managing ADHD
+
+- URL: https://apps.apple.com/us/iphone/story/id1895869577?l=fr-FR
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Apple App Store feature highlighting ADHD-support tools including Tiimo for breaking tasks into subtasks and RoutineFlow for step-by-step routines and timers.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Curated GitHub list of tools, resources, and services for neurodivergent learners, educators, and parents, including executive-function, ADHD, study-skills, and focus resources.
+
+### Own Words: ADHD Flashcards
+
+- URL: https://apps.apple.com/us/app/own-words-adhd-flashcards/id6823240011
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Flashcard study app designed for ADHD users, using short sessions, one-card-at-a-time presentation, and typed recall before revealing answers.
+
+### TaskSteer: ADHD Task Starter
+
+- URL: https://apps.apple.com/us/app/tasksteer-adhd-task-starter/id6819027175
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iOS task-starting app offering adaptable templates, practical tools, and checklists for adults who need help initiating or resuming tasks, including adults with ADHD.
+
+### ADHD Planner Organizer  Alti
+
+- URL: https://apps.apple.com/do/app/adhd-planner-organizer-alti/id6738433959?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: ADHD-oriented planner with animated task visualization, focus tools, and cognitive-support features intended to reduce overwhelm and improve organization.
+
+### MyStudyLife
+
+- URL: https://mystudylife.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Student planner for class schedules, homework, exams, reminders, and recurring timetables; identified in current ADHD-student app coverage as a tool for academic organization.
+
+### LearnKit
+
+- URL: https://github.com/johnnyrobot/learnkit
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neuroinclusive coursework toolkit containing instructional-design rules, schemas, and auditors for creating accessible learning content for ADHD, dyslexia, autism, and cognitive accessibility.[7]
+
+### Microsoft Hackathon AI Learning for Neurodiverse Learners
+
+- URL: https://github.com/SheaGuev/Microsoft-Hackathon-AI-LLMs-Neurodiverse-Learners
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Public prototype that uses questionnaire-based learner profiles and AI-generated study spaces to provide personalized materials, visual aids, practice formats, and learning strategies.
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/us/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Phonics and sight-word learning app designed for autistic and ADHD learners.
+
+### ADHD Cognitive Research
+
+- URL: https://apps.apple.com/kr/app/adhd-cognitive-research/id1412022818
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Research-oriented iOS app for participating in ADHD studies and assessing areas such as attention, inhibition, monitoring, working memory, planning, and hand-eye coordination.
+
+### NESTL: Neurodivergent Education for Students, Teaching & Learning
+
+- URL: https://www.education.ox.ac.uk/project/neurodivergent-education-for-students-teaching-learning-nestl/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: University of Oxford project offering a co-created toolkit for neurodivergent-inclusive teaching and learning, informed by workshops, interviews, and literature reviews.
+
+### Chat ADHD
+
+- URL: https://apps.apple.com/us/app/chat-adhd/id6759792144
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: An educational and support app providing structured ADHD learning content, saved resources, and optional AI-guided educational chat for people exploring ADHD and their supporters.
+
+### Versed Learn
+
+- URL: https://apps.apple.com/sg/app/versed-learn/id6758624963
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: An accessible flashcard and spaced-repetition app designed for learners with ADHD, dyslexia, and autism.
+
+### ADHaSi
+
+- URL: https://play.google.com/store/apps/details?id=de.adhasi.app&hl=en
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: A learning app for children and teenagers aged 816 with ADHD, using short learning units, adaptive content, and rewards across subjects such as reading, languages, and mathematics.

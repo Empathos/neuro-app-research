@@ -749,16 +749,6 @@
 - Found: 2026-10-19
 - Description: Open-source repository entry for an ADHD daily-planning skill supporting neurodivergent-oriented organization.[3]
 
-### ADHD Planner - Routine & Tasks
-
-- URL: https://play.google.com/store/apps/details?id=com.adhd.planner.taches.tasks.routine.easy
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: daily-living
-- Query: adhd daily-living neurodivergent app research pass 501
-- Found: 2026-10-20
-- Description: Android planner for neurodivergent users featuring visual routines, guided transitions, daily habits, and energy awareness.
-
 ### Hypermonkey: ADHD Productivity
 
 - URL: https://apps.apple.com/us/app/hypermonkey-adhd-productivity/id6736893516
@@ -1228,3 +1218,143 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Open-source planning skill for ADHD brains emphasizing realistic time estimation, time-blindness support, dopamine-aware task design, and daily structure.
+
+### Kairoscope: Day Planner
+
+- URL: https://apps.apple.com/us/app/kairoscope-day-planner/id6789844534
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Visual day-planning app for neurodivergent users featuring time visualization, routines, mood and energy tracking, and stepwise task guidance.
+
+### RightNow Focus: ADHD Planner
+
+- URL: https://apps.apple.com/us/app/rightnow-focus-adhd-planner/id6749246705
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Time-based focus tool that offers a single task card based on available time windows such as 5, 15, 30, or 60 minutes.
+
+### ADHD Focus Planner & To-Do
+
+- URL: https://apps.apple.com/ca/app/adhd-focus-planner-to-do/id6785607496
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: ADHD- and neurodivergent-oriented planner featuring brain dumps, small first steps, focus timing, body doubling, task reminders, and export or deletion of user data.
+
+### ADHD Planner Organizer Planbo
+
+- URL: https://apps.apple.com/us/app/adhd-planner-organizer-planbo/id6761025706?l=pt-BR&platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iPad-focused ADHD digital planner with task chunking, hyperfocus tracking, a dopamine menu, and ADHD-oriented planning templates.
+
+### Flowcus: Empowering Individuals with ADHD and ADD
+
+- URL: https://apps.apple.com/us/app/focus-adhd/id6618147158?l=ar
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: App supporting daily routines, tasks, responsibilities, focus, organization, scheduling, prioritization, rewards, and executive functioning.
+
+### Ishi: ADHD Unstuck, Brain Dump
+
+- URL: https://apps.apple.com/gb/app/ishi-adhd-unstuck-brain-dump/id6767989715
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AI day planner for ADHD and executive dysfunction that turns brain dumps into ordered steps, supports fixed commitments, task breakdown, breathing exercises, and everyday chores and errands.
+
+### Sprout: Smart ADHD Task App
+
+- URL: https://apps.apple.com/st/app/sprout-smart-adhd-task-app/id6754895173
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: AI focus planner and to-do list with a daily plan, automatically surfaced due tasks, selected focus tasks, and visual progress tracking.
+
+### Executive Functioning Apps
+
+- URL: https://apps.apple.com/at/developer/executive-functioning/id1670674938?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: App Store developer page listing executive-functioning tools, including ADHD schedule and calendar-planning apps.
+
+### Inflow  Manage Your ADHD
+
+- URL: https://apps.apple.com/sr/app/inflow-manage-your-adhd/id1528183849?platform=tv
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: App Store listing for an ADHD-focused program supporting focus, routines, habits, procrastination, and follow-through.
+
+### ADHD-OS
+
+- URL: https://github.com/LegionForge/ADHD-OS
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public repository for a modular personal-assistant framework emphasizing frictionless capture, external working memory, task support, and local data ownership.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/br/app/brimming-adhd/id6469721652?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Digital wellness app for ADHD and neurodivergent executive dysfunction, focused on overcoming task initiation, overwhelm, avoidance, and follow-through difficulties.
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://apps.microsoft.com/detail/9p9vvnb7fn2k?hl=fr-FR&gl=TN
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Windows daily planner for ADHD and neurodivergent users featuring a spatial agenda, AI brain dump, focus timer, cognitive games, and streak tracking.
+
+### Flow: ADHD Planner for Adults
+
+- URL: https://apps.apple.com/st/app/flow-adhd-planner-for-adults/id6758484365
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Adult ADHD planner focused on daily routines, visual timing, executive dysfunction, time blindness, and task initiation.
+
+### Fewdev1122/MindBalance
+
+- URL: https://github.com/Fewdev1122/MindBalance
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open repository for a neuro-inclusive productivity tool combining task management, Google Calendar integration, burnout support, and cognitive-load visualization.

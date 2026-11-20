@@ -259,16 +259,6 @@
 - Found: 2026-06-25
 - Description: Official medical overview from Cleveland Clinic detailing symptoms, causes, and treatment options for executive dysfunction, including overload triggered by neurodevelopmental conditions.
 
-### MindGenius MindMapping Software
-
-- URL: https://www.mindgenius.com/mindmapping
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: sensory-regulation
-- Query: executive function overload directory
-- Found: 2026-06-25
-- Description: Official product page for MindGenius mindmapping tool, a documented repository and app used to structure ideas visually and reduce cognitive load for neurodivergent users.
-
 ### Pomodoro Technique Timer Apps Directory
 
 - URL: https://pomofocus.io/
@@ -1018,3 +1008,253 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Private ADHD focus timer for neurodivergent users with brown noise, binaural audio, rain, lo-fi, white noise, forest sounds, and lock-screen widgets.
+
+### Endel: Sonic Support for ADHD
+
+- URL: https://endel.io/adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Adaptive soundscapes and sonic self-care tools designed to support attention, reduce distraction, and ease overstimulation.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/by/app/stim-adhd-sensory-calm/id6758910859?see-all=customers-also-bought-apps&platform=iphone
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: App Store listing for an ADHD-focused sensory-calming tool.
+
+### Solace: ADHD Relief & Calm
+
+- URL: https://apps.apple.com/us/app/solace-adhd-relief-calm/id6744309865
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: iOS app providing short calming or grounding interventions, games, soundscapes, breathing, mindfulness, movement, and personalized reset tools.
+
+### Aetherium
+
+- URL: https://github.com/voidwave-lab/Aetherium/blob/main/TRANSPARENCY.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Open-source public-benefit project focused on deep listening, neurodivergent sensory regulation, and receptive music therapy.
+
+### Neurohaven Tools & Apps
+
+- URL: https://neurohaven.co.uk/ja/appstore
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Directory featuring Sensory Studio, an interactive low-pressure sensory web experience, and Syncq-i, an ADHD planning and reflection suite.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/jp/app/stim-adhd-sensory-calm/id6758910859?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Sensory-calming app combining reactive haptics, ambient soundscapes, and interactive visuals for people with ADHD and restless minds.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/us/app/shift-regulate-reset/id6759524862?l=pt-BR&platform=ipad
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Regulation tool for ADHD, autistic, and neurodivergent users with modes for spiraling, shutdown, rage, overwhelm, and task paralysis.
+
+### AuDHD Loop
+
+- URL: https://apps.apple.com/ca/app/audhd-loop/id6772554876
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Private on-device journal for adults to observe sensory load, energy, stims, and task momentum without scoring.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/rs/app/unmasked-adult-autism-adhd/id6764218809?platform=watch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Self-discovery companion for adults exploring possible autism, ADHD, or both, including neurodivergent traits and masking.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/us/app/unmasked-adult-autism-adhd/id6764218809
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Adult self-discovery app with sensory profiling across sound, light, proprioception, interoception, and other sensory domains, plus energy and masking logs.
+
+### Sensory Budget
+
+- URL: https://apps.apple.com/es/app/sensory-budget/id6813163966?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Sensory and energy budgeting app for ADHD, autistic, and sensory-sensitive users; estimates daily demands from factors such as noise, crowds, bright spaces, meetings, task switching, and commuting.
+
+### Stim: ADHD Sensory Calm
+
+- URL: https://apps.apple.com/us/app/stim-adhd-sensory-calm/id6758910859?l=ar
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: iPhone sensory-regulation app combining touch interaction, visual color trails, haptic feedback, and ambient soundscapes such as white noise, rain, and calming tones.
+
+### Thrum: ADHD Focus Timer
+
+- URL: https://apps.apple.com/no/app/thrum-adhd-focus-timer/id6776406494
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Silent haptic focus timer that uses gentle wrist or iPhone vibrations and interval cues to support time awareness without visual countdowns.
+
+### FocusLab AI: ADHD Coach
+
+- URL: https://apps.apple.com/no/app/focuslab-ai-adhd-coach/id6760952559
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: ADHD planning and focus app featuring sensory breaks for quiet resets and context-based focus rituals.
+
+### Inflow - Manage Your ADHD
+
+- URL: https://apps.apple.com/ch/app/inflow-manage-your-adhd/id1528183849?l=it&platform=tv
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Science-based ADHD support program covering focus, routines, emotional regulation, anxiety, mindfulness, and rejection-sensitive dysphoria.
+
+### Mossy: ADHD Focus Timer
+
+- URL: https://apps.apple.com/us/app/mossy-adhd-focus-timer/id6806260579
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: ADHD-oriented focus companion with breaks, tasks, gentle rewards, calming soundscapes, offline use, and on-device focus data.
+
+### Quantum-Weaver
+
+- URL: https://github.com/quantum-weaver
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: A public developer profile featuring personal-device apps, including a sensory lexicon and tools related to visual or sensory interaction.
+
+### Zelmwell
+
+- URL: https://apps.apple.com/is/app/zelmwell/id6765888359
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: ADHD emotional-regulation app featuring guided breathing and customizable ambient soundscapes for sensory calm.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Regulation and sleep app for sensitive and neurodivergent children and adults, including a one-tap calming mode with breathing guidance and haptic pulses.
+
+### ADHD Brain
+
+- URL: https://apps.apple.com/nl/app/adhd-brain/id6766603877?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: All-in-one ADHD support app with focus timers, calming sounds, visual relaxation, sensory tools, brain games, notes, and routine-building features.
+
+### Sensory Fidgets
+
+- URL: https://apps.apple.com/ae/app/sensory-fidgets/id6754608368
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Collection of more than 50 interactive digital fidgets intended to support relaxation, focus, self-regulation, transitions, and staying on task for users including people with ADHD.
+
+### Neuro-Flow
+
+- URL: https://apps.apple.com/gh/app/neuro-flow/id6773594066
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: ADHD and neurodivergent habit and focus app offering shame-free streaks, focus timing, live body doubling, and a short dopamine menu.
+
+### NeurOS: Neurodivergent Planner
+
+- URL: https://play.google.com/store/apps/dev?id=5622740462210402208&hl=en_US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Google Play developer listing featuring a neurodivergent planner for ADHD and focus with task breakdown, timers, and sensory tools.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/uy/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: ADHD, autistic, and dyslexic support app with one-step focus mode, personalized energy and sensitivity context, planner tools, and low-stimulation settings.
+
+### Anchor: ADHD Daily Focus
+
+- URL: https://apps.apple.com/us/app/anchor-adhd-daily-focus/id6800768819
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: An ADHD-focused routine and concentration companion with optional ambient sounds, meaningful haptics, VoiceOver support, Reduce Motion, and sensory-conscious design.
