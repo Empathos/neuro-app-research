@@ -724,3 +724,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Research repository record for an exploratory study using unsupervised machine learning to identify executive-function profiles in a transdiagnostic sample of 566 neurodivergent children aged 818.
+
+### Lumi  Real-time Coach for Neurodiverse Families
+
+- URL: https://www.withlumi.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Family coaching app for caregivers of neurodivergent children ages 512, with shared caregiver plans, check-ins, and support for ADHD, autism, and AuDHD.

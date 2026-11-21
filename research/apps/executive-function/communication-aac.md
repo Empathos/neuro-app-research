@@ -1098,3 +1098,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Public repository for a modular personal-assistant framework focused on externalizing executive function through frictionless capture, memory, and task support.
+
+### BridgeAAC
+
+- URL: https://github.com/bridgeaac
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Free, open-source, offline-ready augmentative and alternative communication software.

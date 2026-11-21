@@ -846,3 +846,23 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: iOS regulation app for ADHD, autistic, and neurodivergent users, with modes for spiraling, shutdown, anger, sensory overwhelm, and task paralysis.
+
+### Thruday
+
+- URL: https://apps.apple.com/hr/app/thruday/id1645552771?l=hr
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Calm visual planner for ADHD, autism, and AuDHD, offering routines, task breakdowns, reminders, mood tracking, breathing tools, and support sharing.
+
+### taskManager-VoiceAgent
+
+- URL: https://github.com/SIVERSE-LABS/taskManager-VoiceAgent
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Voice-powered task manager designed for neurodivergent users, including task breakdown, focus timing, structured workflows, and a low-clutter interface.

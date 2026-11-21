@@ -1128,3 +1128,43 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: Public resource listing assistive technologies intended to help manage executive-function difficulties.
+
+### Tiimo
+
+- URL: https://www.edtechgeek.com/tools/tiimo/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Visual planning and time-management app designed for neurodivergent users, including people with ADHD and autism, with support for routines, task organization, and executive-function challenges.[1]
+
+### Goblin Tools
+
+- URL: https://sachscenter.com/assistive-technology-for-adhd/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Web-based executive-dysfunction support tool highlighted for breaking overwhelming tasks into smaller actionable steps through its Magic To-Do feature.[6]
+
+### Unfold
+
+- URL: https://getunfold.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Neurodivergent-focused app that helps users move from feeling stuck toward one manageable next action through typed or spoken interaction.
+
+### Spoony
+
+- URL: https://www.spoony.app/features
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Accessible social network for neurodivergent, chronically ill, and disabled communities, with screen-reader support, image alt text, and scalable typography.
