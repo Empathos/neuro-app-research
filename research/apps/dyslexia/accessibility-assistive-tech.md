@@ -668,3 +668,53 @@
 - Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Writing tool described as supporting dyslexia with text-to-speech proofreading, phonetic and word search, outline creation, voice-based proofreading, and VoiceOver navigation.
+
+### Lexishift
+
+- URL: https://github.com/Sahnik0/Lexishift
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Public project listed under dyslexic-focused repositories, offering assistive tools and an interactive community platform for dyslexic users.
+
+### Dyslexia and Assistive Technology
+
+- URL: https://dyslexiascotland.org.uk/assistive-technology/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Practical resource covering text-to-speech, dictation, visual overlays, display customization, accessibility toolbars, and mobile apps for reading, writing, numeracy, and organization.
+
+### Accruva | ADHD Reading App
+
+- URL: https://apps.apple.com/gb/app/accruva-adhd-reading-app/id6777124533
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Reading app for ADHD, dyslexia, and neurodivergent users with multiple reading modes, Atkinson Hyperlegible font, WCAG AAA contrast, dark mode, reduced motion, and adjustable reading focus.
+
+### Dolphin EasyReader
+
+- URL: https://www.arc-bc.org/training/apps/ios/dolphin-easyreader-ios/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Accessible iOS reading app supporting dyslexia-friendly fonts, adjustable colors, synchronized word highlighting, audio reading, magnification, and braille-display connectivity.
+
+### International Dyslexia Association Dallas Assistive Technology Resources
+
+- URL: https://idadallas.org/resources/assistive-technology
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: accessibility-assistive-tech
+- Query: dyslexia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Resource guide covering text-to-speech, speech-to-text, spelling and grammar assistance, visual organizers, note-taking, audiobooks, and student-focused tools.

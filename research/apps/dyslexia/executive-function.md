@@ -828,3 +828,23 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Open-access research review of mobile apps, serious games, augmented and virtual reality, NLP, haptic tools, and other technologies for dyslexia support.
+
+### Readapt
+
+- URL: https://github.com/ContentSquare/readapt
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Open-source tool intended to make digital text easier to read for people with reading challenges such as dyslexia.
+
+### Dyslexiview
+
+- URL: https://github.com/probablyabdullah/dyslexiview
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Open-source learning aid designed to improve educational accessibility for individuals with dyslexia.

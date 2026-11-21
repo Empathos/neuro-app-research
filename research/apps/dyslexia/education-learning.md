@@ -828,3 +828,33 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Web browser offering dyslexia-friendly fonts, color overlays, clutter-free reader mode, and read-aloud word highlighting.
+
+### Auto Train Brain
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/33860699/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Published pilot study of a mobile app using neurofeedback and multisensory learning methods to support reading abilities in children with dyslexia.
+
+### Dyslexia Game
+
+- URL: https://github.com/divyaa-s/dyslexia-game
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Unity-based educational and screening tool using word-based cognitive exercises, error-pattern analysis, reaction-time tracking, and accuracy data.[6]
+
+### Uplift Reading
+
+- URL: https://apps.apple.com/no/app/uplift-reading/id6755376471
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Mastery-based reading app with repeated story practice, line-by-line reading guidance, customizable text, and accessibility features for learners with ADHD, autism, or dyslexia.[8]
