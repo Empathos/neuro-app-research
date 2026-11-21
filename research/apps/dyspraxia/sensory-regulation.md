@@ -708,3 +708,13 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Companion app for neurodivergent adults to track energy, stimulation, overload, understimulation, masking, sensory demands, and recovery patterns across daily life and work.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Neurodivergent regulation app offering real-time tools for overwhelm, shutdown, spiraling, anger, and task initiation.

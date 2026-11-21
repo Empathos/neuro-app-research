@@ -1088,3 +1088,13 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: University accessibility resource highlighting apps for neurodivergent college students, including lecture recording, synchronized notes, transcription, and study-question generation.[8]
+
+### Tiimo Visual Daily Planner
+
+- URL: https://apps.apple.com/no/app/tiimo-visual-daily-planner/id1480220328?l=ko
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Visual planning and learning app for diverse cognitive profiles, with routines, time-management tools, executive-function support, and bite-sized expert-led learning courses.

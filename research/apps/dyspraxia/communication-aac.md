@@ -1388,3 +1388,53 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-16
 - Description: AAC text-to-speech app for children and adults with autism, apraxia, and other speech difficulties; includes picture-based communication and sentence formation.
+
+### GadAAC
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: AAC app that turns a phone or tablet into a communication device for people who are non-speaking or have limited speech, including autistic users and people with other communication difficulties.
+
+### Bridge Communication App
+
+- URL: https://athelpdesk.org/bridge-communication-app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Customizable iPad communication-board app described for communication challenges including dyspraxia, autism, neurological disorders, and developmental delays.
+
+### Movement Matters DCD Research Repository
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11311881/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Research lead documenting the co-produced Movement Matters repository for accessible research summaries on Developmental Coordination Disorder/dyspraxia and related communication-access needs.
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/mx/app/make-a-choice-aac-buttons/id1295966224?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Choice-board AAC app designed with speech professionals and carers; supports large buttons, direct motor access, speech or recorded voice, and dyspraxia.[2]
+
+### Eloquia
+
+- URL: https://apps.apple.com/ec/app/eloquia/id6762588227?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: AAC communicator for autistic and neurodivergent users, featuring pictograms, quick phrases, favorites, assisted grammar, system voices, offline use, and printable PDFs.[5]
