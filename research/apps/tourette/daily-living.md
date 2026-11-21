@@ -628,3 +628,13 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Neurodivergent social and friendship platform welcoming autistic, ADHD, AuDHD, Tourettes, dyslexic, and other neurodivergent users.
+
+### Apps and Other Assistive Technologies
+
+- URL: https://neurodiversityunleashed.com/apps-and-other-assistive-technologies/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: A public resource page covering assistive apps and technologies for focus, organization, accessibility, and everyday support for neurodivergent people.

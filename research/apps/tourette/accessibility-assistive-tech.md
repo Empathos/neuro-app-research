@@ -658,3 +658,23 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Android app created for neurodivergent users to reduce decision fatigue through guided reflection, recommendations, routines, energy-level options, and randomized choices.[2]
+
+### NeuroEquality .github
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Public overview of NeuroEqualitys neurodivergent-support projects, including Safe4All, READY, GROW, WNIT, and STAR.
+
+### TalkType
+
+- URL: https://talk-type.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Dictation and writing tool designed for neurodivergent users, with custom dictionaries, AI writing features, and an interface intended to support written communication.

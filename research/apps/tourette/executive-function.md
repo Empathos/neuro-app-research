@@ -1028,3 +1028,13 @@
 - Query: tourette executive-function neurodivergent app research pass 501
 - Found: 2026-11-17
 - Description: Research collection covering Tourette syndrome genetics, neurobiology, behavioral and pharmacological therapies, and quality-of-life impacts.
+
+### NEURORGANIZED Task Management Platform
+
+- URL: https://www.kitsapsun.com/press-release/story/755001/neurorganized-launches-free-task-management-platform-designed-to-reduce-overwhelm-and-support-executive-functioning
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Free task-management platform and collection of digital planners, routine builders, trackers, and executive-function worksheets for neurodivergent adults.

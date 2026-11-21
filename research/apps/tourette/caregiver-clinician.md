@@ -1028,3 +1028,13 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Tic and Tourette logging tool offering trigger tracking, calming exercises, clinical PDF reports, and family synchronization for multiple caregivers.[9]
+
+### Adappt
+
+- URL: https://repository.uantwerpen.be/docman/irua/e59e96motoM65
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Repository-hosted research on a co-created smartphone app designed to support parents of neurodivergent children with accessible, evidence-based psychological interventions.

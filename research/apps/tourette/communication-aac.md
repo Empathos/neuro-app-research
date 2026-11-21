@@ -998,3 +998,23 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Free, open-source AAC application supporting offline use, text-to-speech, Open Board Format files, and local data ownership.
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC/core/wiki
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Free, open-source, offline-first AAC software designed for iOS, Android, ChromeOS, Windows, macOS, Linux, and the web; supports customizable communication boards and open board formats.[1]
+
+### None
+
+- URL: https://github.com/gmoqa/none
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Free, open-source, multiplatform AAC app offering customizable image-and-audio boards, offline use, backups, multilingual support, and no accounts, ads, or tracking.[6]

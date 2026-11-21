@@ -729,3 +729,13 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: A digital sensory-play and fidget app offering interactive spinning, popping, stretching, tapping, and other activities intended to support calming and self-regulation.[7]
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Neurodivergence-focused crisis-regulation app with modes for spiraling, freezing, raging, overwhelm, and feeling stuck, including grounding, sensory reduction, breathing, and activation tools.

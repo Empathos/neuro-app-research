@@ -948,3 +948,23 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: A lecture note-taking and study-support tool highlighted for neurodivergent college students, with lecture recording, synchronized notes, transcripts, and study questions.
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/es/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: iOS tic-tracking app for logging tics, identifying triggers, and reviewing AI-generated patterns involving factors such as sleep, diet, screen time, and stress.[7]
+
+### Kaboose: Neurodivergent Life
+
+- URL: https://apps.apple.com/us/app/kaboose-neurodivergent-life/id1592717370
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: The Kaboose mobile app provides neurodivergent community groups, practical learning in video, audio, and text formats, self-advocacy resources, and tools for everyday life.
