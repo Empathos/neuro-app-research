@@ -1018,3 +1018,43 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Printable visual strategy cards covering relaxation, mindfulness, grounding, distress tolerance, and sensory soothing for autistic and otherwise neurodivergent adults.
+
+### KeepCalm App Trial Protocol
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10337316/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Pilot randomized-trial protocol for a digital mental-health app using wearable biosensing, teacher notifications, personalized strategies, and outcome tracking to support emotion regulation in autistic children.
+
+### 80 Mood Tracking App
+
+- URL: https://github.com/naomiperez/80
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Mood-tracking app designed for neurodivergent people and users with executive dysfunction; supports logging mood and related factors.
+
+### KeepCalm App
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10337316/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Pilot-trial app integrating wearable heart-rate data, stress detection, strategy notifications, and educator tracking to support emotion regulation in autistic students.
+
+### iReact  Emotional Regulation  Anxiety, Autism
+
+- URL: https://apps.apple.com/nz/app/ireact-emotional-regulation-anxiety-autism/id842162674
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Research-based app developed with the University of London and MadeByEducators to help children recognize emotions, notice bodily sensations, and practice coping strategies.

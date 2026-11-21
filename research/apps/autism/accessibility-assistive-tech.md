@@ -1298,3 +1298,43 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Open-source, local-first support technology for inclusive classrooms, combining communication, sensory access, teacher observation, and student autonomy features.
+
+### AutismDock
+
+- URL: https://www.microsoft.com/en-sz/p/autismdock/9nv7jwcl8cnm
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Windows app providing communication boards, visual routines, visual timers, step-by-step guides, and printable supports for autistic people and caregivers.
+
+### NeuroEquality GitHub Organization
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Public organization developing accessible, AI-powered tools for autism, ADHD, dyslexia, and other cognitive differences, including Safe4All and READY.
+
+### GitHub Neurodivergence Topic
+
+- URL: https://github.com/topics/neurodivergence?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Public repository collection including neurodivergent-support tools, autism and ADHD applications, accessibility learning apps, and local-first open-source projects.
+
+### Neurodiversity Unleashed Assistive Technologies
+
+- URL: https://neurodiversityunleashed.com/apps-and-other-assistive-technologies/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Resource list covering assistive technologies for focus, organization, accessibility, transcription, text-to-speech, and daily living.

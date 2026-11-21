@@ -1488,3 +1488,23 @@
 - Query: autism education-learning neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: AI-powered education platform for personalized support, differentiated materials, simplified content, sensory-friendly activities, and individualized learning goals for autistic learners.
+
+### NESTL Toolkit
+
+- URL: https://www.education.ox.ac.uk/project/neurodivergent-education-for-students-teaching-learning-nestl/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: University of Oxford project and practical toolkit for neurodivergent-inclusive teaching and learning, co-created with neurodivergent students and staff through workshops, interviews, and literature reviews.[9]
+
+### AutiLearn
+
+- URL: https://github.com/MeriemTerki/AutiLearn
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Open-source AI-powered e-learning platform designed to provide personalized lessons and interactive learning tools for autistic children.

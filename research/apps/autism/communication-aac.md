@@ -1468,3 +1468,13 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Research lead describing autism-specific mobile AAC applications, including SPEAKall! and SPEAKall! Lite, with usability and communication assessment applications.
+
+### BridgeAAC
+
+- URL: https://github.com/bridgeaac
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Free, open-source, offline-first AAC software designed to run locally on commonly available devices without subscriptions or hardware restrictions.

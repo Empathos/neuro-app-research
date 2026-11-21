@@ -1278,3 +1278,23 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: Minimalist silent-communication app for sending preset or custom alerts such as sensory overload, need quiet, need a break, or need help.
+
+### Autismally
+
+- URL: https://autismally.co/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Daily support app for autistic people that helps plan tasks, manage sensory input, communicate needs, and track sound, light, energy, triggers, and preferred regulation tools.
+
+### BrightMo Sensory
+
+- URL: https://apps.apple.com/cl/app/brightm%C5%8D-sensory/id6760000134?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: iPhone and iPad app offering gentle, distraction-free sensory learning activities for toddlers and children with autism, sensory sensitivities, and developmental differences.

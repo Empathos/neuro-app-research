@@ -1208,3 +1208,13 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Public research report on integrating an FDA-authorized digital autism diagnostic tool into developmental-pediatrics workflows using caregiver questionnaires, clinician questionnaires, and caregiver-uploaded home videos.[10]
+
+### VARA by Autism 360
+
+- URL: https://vara.autism360.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Autism parenting support app offering goal-setting, daily strategies, diary insights, caregiver tracking, monthly reports for carers or therapists, and clinician-guided answers.
