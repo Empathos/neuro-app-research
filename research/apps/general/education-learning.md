@@ -1378,3 +1378,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Neuroinclusive coursework toolkit offering evidence-based rules, schemas, and auditors for designing and generating instructional content across subjects.
+
+### Top Apps for Neurodivergent College Students
+
+- URL: https://accessability.utdallas.edu/2025/04/24/top-5-apps-for-neurodivergent-college-students/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: University accessibility guide covering lecture note-taking, transcription, task management, focus, reading, and executive-function support apps.
+
+### The Brainy App
+
+- URL: https://www.neurodiversityeducationacademy.org/post/the-brainy-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Free educational app designed to help users understand their strengths, engagement preferences, learning approaches, communication styles, and problem-solving patterns.

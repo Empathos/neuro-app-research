@@ -968,3 +968,13 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: App offering task breakdown, one-step focus, brain-dumping, message formalization, tone interpretation, time estimation, recipe assistance, and plain-language explanations.
+
+### neuro-anchor
+
+- URL: https://github.com/yashitkumarsingh/neuro-anchor
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Cognitive accessibility companion for neurodivergent developers, featuring ticket deconstruction, focus shields, and communication translation.

@@ -1568,3 +1568,13 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: App Store bundle containing Proloquo2Go, Proloquo4Text, Pictello, Keedogo, and Keedogo Plus for symbol-supported AAC, text-to-speech communication, visual stories, and accessible typing.
+
+### BridgeAAC
+
+- URL: https://github.com/bridgeaac
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Open-source, offline-first AAC project focused on free local software, board portability, and support for open communication-board formats.

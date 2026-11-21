@@ -958,3 +958,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: Google Play listing for an app described as providing AI-powered daily decision support for neurodivergent users experiencing decision fatigue or paralysis.[9]
+
+### Apple Cognitive Accessibility
+
+- URL: https://www.apple.com/sg/accessibility/cognitive/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Official Apple accessibility documentation for Assistive Access and Guided Access, including simplified interfaces, high-contrast controls, larger labels, visual alternatives, and single-app focus.
