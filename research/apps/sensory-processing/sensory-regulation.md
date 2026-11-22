@@ -758,3 +758,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: Adult self-discovery app with sensory mapping across multiple sensory systems, shareable sensory profiles, masking tracking, social scripts, and grounding tools.
+
+### AuDioPrism
+
+- URL: https://github.com/TheOneTrueNiz/AuDioPrism
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Open-source Chrome extension providing sensory-friendly audio processing, spatial audio, masking noise, binaural beats, and EQ for web music players.[10]

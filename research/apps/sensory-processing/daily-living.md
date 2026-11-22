@@ -718,3 +718,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: Public service-directory entry describing Thruday's visual routines, printable schedules, picture-based communication cards, mood tracking, and shared support features.
+
+### Sensory Processing Therapy Tool
+
+- URL: https://www.commonsensemedia.org/app-reviews/sensory-processing-therapy-tool-to-help-parents-manage-sensory-diet-home-programs
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Parent-oriented app for creating daily sensory-activity schedules, rating experiences, tracking observations, and sharing records with therapists, teachers, or other professionals.

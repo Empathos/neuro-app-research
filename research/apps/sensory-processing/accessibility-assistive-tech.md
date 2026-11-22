@@ -509,16 +509,6 @@
 - Found: 2026-10-26
 - Description: Sensory art app with predictable color reveals, gentle ASMR sounds, and a low-stimulation design intended for calming and safe stimming.
 
-### Neuro Focus Plus
-
-- URL: https://play.google.com/store/apps/details?id=com.company.neurofocusplus
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: accessibility-assistive-tech
-- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-26
-- Description: Routine and focus app featuring sensory-friendly UI customization, transition reminders, task breakdowns, mood and energy tracking, and screen-reader support.
-
 ### Autism Fidgets
 
 - URL: https://apps.apple.com/gb/app/autism-fidgets/id6761034020
@@ -908,3 +898,23 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: A directory of apps and software for ADHD, autism, sensory regulation, accessibility, productivity, calming input, haptic grounding, and sensory-trigger tracking.
+
+### ssensimm
+
+- URL: https://ssensimm.org/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Assistive technology project for neurodivergent users that combines wearable biometric data with personalized support for sensory processing and emotional regulation.
+
+### Apps and Other Assistive Technologies
+
+- URL: https://neurodiversityunleashed.com/apps-and-other-assistive-technologies/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Public resource listing assistive apps for accessibility, sensory regulation, focus, communication, transcription, text-to-speech, visual assistance, and daily living.

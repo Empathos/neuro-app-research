@@ -1149,3 +1149,33 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Official AAC app provider page describing LAMP Words for Life, based on Language Acquisition through Motor Planning, and TouchChat for people whose natural speech is affected by autism, Down syndrome, ALS, apraxia, stroke, or related conditions.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/bb/app/gestalt-aac/id6760491589?platform=iphone
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Phrase-based AAC app for gestalt language processors, with motor-planning support, calming tools, and natural speech.
+
+### Sensory Boards
+
+- URL: https://apps.apple.com/sg/app/sensory-boards/id6761338208?platform=watch
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: AAC board builder with symbols, CVI mode, on-device generation, and Open Board Format export for interoperability across AAC applications.
+
+### Spkeasy: AAC App for Speech
+
+- URL: https://apps.apple.com/us/app/spkeasy-aac-app-for-speech/id6547833012?l=pt-BR
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Customizable AAC system for autism and other communication challenges, with adjustable symbol size, spacing, fonts, colors, and backgrounds to accommodate sensory preferences.
