@@ -1528,3 +1528,13 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: ADHD/AuDHD burnout and energy tracker with emotional-first-aid tools, dysregulation and rejection-sensitive dysphoria support, somatic grounding, breathing, brown noise, and NSDR resources.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Real-time regulation tool designed for ADHD, autistic, and other neurodivergent users, with modes for spiraling, shutdown, rage, overwhelm, and task-initiation difficulties.

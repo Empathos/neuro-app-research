@@ -1258,3 +1258,23 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: An ADHD-focused routine and concentration companion with optional ambient sounds, meaningful haptics, VoiceOver support, Reduce Motion, and sensory-conscious design.
+
+### Bonding Health: ADHD Calm
+
+- URL: https://apps.apple.com/pa/app/bonding-health-adhd-calm/id1611980187?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: An ADHD regulation app with short audio resets, check-ins for mood, overwhelm, and energy, plus support for overstimulation, burnout, emotional spirals, and focus crashes.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/ie/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: An ADHD and autism energy-tracking app that records stimulation and recovery, categorizes users into regulation zones, and prompts reflection on masking, sensory demands, and recovery.

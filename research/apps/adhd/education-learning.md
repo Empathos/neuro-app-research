@@ -1658,3 +1658,73 @@
 - Query: adhd education-learning neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: A learning app for children and teenagers aged 816 with ADHD, using short learning units, adaptive content, and rewards across subjects such as reading, languages, and mathematics.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Adaptive learning platform designed for neurodivergent children, including ADHD-friendly manageable tasks, clear structure, flexible pacing, and reduced distractions.
+
+### Accruva ADHD Reading App
+
+- URL: https://apps.apple.com/us/app/accruva-adhd-reading-app/id6777124533
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Reading and study app with modes designed for ADHD, dyslexia, and neurodivergent users, including document-based quizzes and automatically generated flashcards.
+
+### ADHD Study AI
+
+- URL: https://www.adhdstudyai.com/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Study-support tool for ADHD users that turns class materials into focused plans, study guides, flashcards, practice questions, and manageable next steps.
+
+### NeuroEd
+
+- URL: https://www.neuroeducation.study/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: AI-personalized education platform designed for learners with ADHD, dyslexia, and autism, with adaptive lessons and an AI learning companion.
+
+### TamkeenEd
+
+- URL: https://github.com/nalmojel/TamkeenEd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source inclusive education mobile app that converts learning materials into accessible formats for students with ADHD and other disabilities.
+
+### Versed Learn
+
+- URL: https://apps.apple.com/kz/app/versed-learn/id6758624963
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Flashcard and study app designed for students with ADHD, dyslexia, and autism, featuring AI deck generation, spaced repetition, and accessibility options.
+
+### ADHD Study AI
+
+- URL: https://github.com/JasonTroup-dev/ADHD-Study-AI/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source ADHD-friendly study workspace that transforms course material into clearer, more manageable next steps.

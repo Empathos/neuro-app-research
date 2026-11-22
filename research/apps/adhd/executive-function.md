@@ -1448,3 +1448,53 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: ADHD-focused productivity app for planning, long-term goals, focus, and emotional balance, designed for people with ADHD or executive-function challenges.
+
+### Timentor: ADHD Planner
+
+- URL: https://apps.apple.com/gh/app/timentor-adhd-planner/id6801571742
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: ADHD-focused planner that converts spoken or messy thoughts into tasks, breaks overwhelming tasks into smaller steps, and presents one action at a time.
+
+### ADHD Planner  AI Task Manager
+
+- URL: https://apps.apple.com/za/app/adhd-planner-ai-task-manager/id6760858384
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Task manager for ADHD and neurodivergent users that supports brain dumps and automatically breaks tasks into manageable actions to reduce task paralysis.
+
+### ADHD Planner - Essentialism
+
+- URL: https://apps.apple.com/bf/app/adhd-planner-essentialism/id6757022061
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Focus and habit planner with energy-aware planning, mood and sleep tracking, and on-device processing for priorities and productivity insights.
+
+### Flow: ADHD Planner for Adults
+
+- URL: https://apps.apple.com/qa/app/flow-adhd-planner-for-adults/id6758484365
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Adult ADHD planner featuring brain dumps, a visual timer for time blindness, and a snooze sheet for routines and follow-through.
+
+### JustStart: ADHD Planner
+
+- URL: https://apps.apple.com/tz/app/juststart-adhd-planner/id6761158418
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: ADHD planner combining task breakdown, focus timing, and body doubling to support task initiation, executive dysfunction, time blindness, and chronic overwhelm.

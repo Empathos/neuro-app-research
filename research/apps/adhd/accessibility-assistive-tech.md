@@ -1068,3 +1068,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Open-source research-loop project combining a thinker model, background tracker, and persistent notebook for organizing extended AI-assisted research.[3]
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/cn/app/tiimo-daily-to-do-list/id1480220328?l=en-GB&platform=tv
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: ADHD-oriented visual planning and scheduling app with an AI co-planner for executive function, focus, and productivity. The listing reports VoiceOver and Voice Control support.[8]
+
+### Kickstart: ADHD Task Starter
+
+- URL: https://apps.apple.com/be/app/kickstart-adhd-task-starter/id6779241099
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Task-initiation app that converts tasks into two-minute steps to help address ADHD-related task paralysis.[2]
+
+### ADHD GitHub Topic
+
+- URL: https://github.com/topics/adhd?l=html&o=desc&s=stars
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Public repository index for ADHD-related software, including focus timers, task breakdown tools, accessibility utilities, reading aids, and distraction-reduction projects.

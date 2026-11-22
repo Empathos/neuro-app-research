@@ -1358,3 +1358,33 @@
 - Query: adhd daily-living neurodivergent app research pass 501
 - Found: 2026-11-19
 - Description: Open repository for a neuro-inclusive productivity tool combining task management, Google Calendar integration, burnout support, and cognitive-load visualization.
+
+### ToADHD
+
+- URL: https://toadhd.me/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: An executive-function tool that breaks tasks into one next step and provides ongoing support while completing it.
+
+### ADHD Brain Train
+
+- URL: https://apps.apple.com/pw/app/adhd-brain-train/id6792343689
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: ADHD-focused app with short daily games targeting attention, working memory, flexible thinking, response control, visual scanning, and everyday problem-solving.
+
+### Focus-Mate
+
+- URL: https://apps.apple.com/us/app/focus-mate/id6806053839?l=fr-FR
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: AI ADHD and executive-function coach for iPhone and iPad with natural-language or photo task capture, flexible focus timing, habit support, and an encouraging companion.
