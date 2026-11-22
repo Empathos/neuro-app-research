@@ -1218,3 +1218,13 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Autism parenting support app offering goal-setting, daily strategies, diary insights, caregiver tracking, monthly reports for carers or therapists, and clinician-guided answers.
+
+### Tismoo
+
+- URL: https://tismoo.com.br/en/app-en/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Digital health platform focused on autism and other neurodivergences, designed to support individuals and caregivers with personalized, ongoing care.

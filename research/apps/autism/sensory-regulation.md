@@ -1298,3 +1298,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: iPhone and iPad app offering gentle, distraction-free sensory learning activities for toddlers and children with autism, sensory sensitivities, and developmental differences.
+
+### Build Your Sensory Toolkit
+
+- URL: https://www.adult-autism-assessment.com/worksheets/build-your-sensory-toolkit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Interactive sensory-profile and regulation worksheet for identifying sensory-seeking and sensory-overwhelming patterns and assembling individualized coping strategies.[3]

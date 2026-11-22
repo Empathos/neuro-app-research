@@ -1338,3 +1338,33 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Resource list covering assistive technologies for focus, organization, accessibility, transcription, text-to-speech, and daily living.
+
+### Awesome Autism Tech
+
+- URL: https://www.context-awesome.com/list/hbcondo/awesome-autism-tech
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Curated public list of autism-related technologies, including apps and visual task-analysis resources.[3]
+
+### Signal & Support
+
+- URL: https://apps.apple.com/my/app/signal-support/id6758867206
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Private, on-device self-monitoring app for neurodivergent users, especially autistic people, designed to clarify functional state and communicate support needs; the listing reports WCAG 2.1 AA compliance and VoiceOver support.[5]
+
+### Keeble
+
+- URL: https://www.assistiveware.com/products/keeble
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Accessible keyboard from AssistiveWare intended for users with fine-motor challenges, allowing a more adaptable keyboard across apps.[8]

@@ -1508,3 +1508,53 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Open-source AI-powered e-learning platform designed to provide personalized lessons and interactive learning tools for autistic children.
+
+### Shabd
+
+- URL: https://github.com/dsciitpatna/Shabd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Open-source educational app for autistic learners that teaches words through images, pronunciation, and correctness feedback.
+
+### Pebble
+
+- URL: https://github.com/arnavbonigala/Pebble
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: AI education mobile app intended to support children with learning disabilities and autism through generated video lessons and comprehension questions.
+
+### SEAL Application
+
+- URL: https://github.com/Autism-Technology-Research-Syndicate/SEALApplication
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Research-oriented mobile application that personalizes special-education curricula using responsiveness data, computer vision, and machine learning; the repository is marked deprecated.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source adaptive learning platform designed for neurodivergent children, with individualized learning experiences, interactive activities, progress tools, and an intelligent learning companion.
+
+### LearnKit
+
+- URL: https://github.com/johnnyrobot/learnkit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source neuroinclusive coursework kit containing instructional-design rules, schemas, and auditors for creating accessible learning content for autistic, ADHD, dyslexic, and cognitively diverse learners.

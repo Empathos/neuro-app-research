@@ -1518,3 +1518,33 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Privacy-focused productivity and life-tracking app created to help neurodivergent users manage priorities, distractions, overwhelm, focus, and achievable task lists.
+
+### Neurodivergent Insights Executive Functioning Workbook
+
+- URL: https://neurodivergentinsights.com/executive-functioning-workbook/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Practical workbook with strategies for focus, planning, motivation, and task initiation, including applications for ADHD and autism.
+
+### FeelingsHelper Executive Functioning Tool
+
+- URL: https://feelingshelper.com/tools/executive-functioning
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Free browser-based tool for ADHD and autistic adults that helps build external systems for prioritization, task initiation, working memory, switching, and completion; entries remain local to the browser.
+
+### Executive Function Club
+
+- URL: https://executivefunction.club/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Community-based support system for planning, motivation, follow-through, shutdown days, and gentle body doubling, including a free low-pressure executive-function starter kit.

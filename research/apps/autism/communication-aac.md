@@ -1478,3 +1478,33 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Free, open-source, offline-first AAC software designed to run locally on commonly available devices without subscriptions or hardware restrictions.
+
+### NeuroTranslator
+
+- URL: https://www.neurotranslator.ai/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Communication-support tool that offers neurotype-aware guidance for understanding situations and communicating between autistic, ADHD, AuDHD, and neurotypical people.[4]
+
+### Cboard
+
+- URL: https://github.com/cboard-org/cboard/tree/master
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Browser-based AAC communication board using symbols and text-to-speech, with support for multiple platforms and more than 40 languages.[8]
+
+### None AAC
+
+- URL: https://github.com/gmoqa/none
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Multiplatform, free and open-source AAC app for non-speaking people, using customizable boards with images and audio.[4]

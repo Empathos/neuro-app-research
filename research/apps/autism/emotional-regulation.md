@@ -1058,3 +1058,53 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Research-based app developed with the University of London and MadeByEducators to help children recognize emotions, notice bodily sensations, and practice coping strategies.
+
+### iReact  Emotional Regulation, Anxiety, Autism
+
+- URL: https://apps.apple.com/pe/app/ireact-emotional-regulation-anxiety-autism/id842162674?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Research-based app developed through a collaboration between the Institute of Education at the University of London and the MadeByEducators Project. Helps children identify emotions, notice bodily feelings, and practice coping activities.
+
+### Neurodivergent Emotions Series
+
+- URL: https://neurodivergentinsights.com/bundles/emotion-regulation-series/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Digital workbook bundle addressing emotional regulation and usable with tablet note-taking apps such as Goodnotes, Notability, or Noteshelf.
+
+### Emotional Regulation Tools
+
+- URL: https://www.mydiffability.com.au/collections/emotional-regulation
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Collection of emotion-identification, expression, communication, coping, and sensory-support materials selected for neurodivergent learners, including autistic and ADHD users.
+
+### 8 Emotional Regulation Tools for Autism and ADHD
+
+- URL: https://ouva.co/blog/emotional-regulation-tools-for-autism-and-adhd-2026/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Public overview of regulation supports including AAC apps, visual schedules, sensory tools, biofeedback games, wearables, and interactive sensory resources.
+
+### Neurodivergent DBT Skills Workbook
+
+- URL: https://thinkovia.com/products/neurodivergent-dbt-skills-workbook
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Neurodivergent-oriented workbook featuring emotional regulation, grounding, sensory-based mindfulness, distress-tolerance techniques, feelings-wheel exercises, and journaling prompts.

@@ -1078,3 +1078,33 @@
 - Query: autism daily-living neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Visual daily-planner lead designed around executive-function needs, providing structure and clarity for ADHD and autistic users.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Visual planner and assistive-living app for autistic and neurodivergent people, offering routines, to-do lists, printable schedules, communication cards, mood tracking, and shared caregiver access.
+
+### Unfold
+
+- URL: https://getunfold.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Neurodivergent-support app that accepts typed or spoken input, helps users interpret what they are experiencing, and suggests one manageable next action.
+
+### Goblin Tools
+
+- URL: https://apps.apple.com/us/app/goblin-tools/id6449003064?l=fr-FR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Official app with tools that break overwhelming tasks, confusing messages, difficult decisions, and unstructured thoughts into manageable steps; designed with neurodivergent users in mind.
