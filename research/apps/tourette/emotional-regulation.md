@@ -468,3 +468,13 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: ADHD/AuDHD energy and burnout tracker with emotional first-aid tools, somatic grounding, breathing visualization, and nervous-system regulation guides.
+
+### Animi: Emotional Intelligence App
+
+- URL: https://apps.apple.com/pe/app/animi-emotional-intelligence/id6443638345?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Emotion-awareness and emotional-intelligence app covering emotion identification, causes, regulation, alexithymia-related self-assessment, emotional vocabulary, and pattern tracking.

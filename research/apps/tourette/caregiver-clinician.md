@@ -1038,3 +1038,43 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Repository-hosted research on a co-created smartphone app designed to support parents of neurodivergent children with accessible, evidence-based psychological interventions.
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Family support app for neurodivergent children with observation logging, automated summaries for therapists and IEP teams, and clinician-informed resources.[5]
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ca/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Neurodivergence support app for parents, carers, and neurodivergent adults to record difficult moments, explore triggers, reflect on behavior patterns, and identify strategies to support regulation.
+
+### Neurture: Family Support for iOS
+
+- URL: https://apps.apple.com/us/app/neurture-family-support/id6760677402
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: iOS companion for parents of neurodivergent children, offering clinician-approved resources, observation logging, pattern tracking, and summaries for teachers, therapists, or doctors.
+
+### Unique Minds
+
+- URL: https://apps.apple.com/ar/app/unique-minds/id6743822738?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Support app for families and professionals working with neurodivergent children, including personalized routines, social-emotional tools, visual schedules, and sharing with caregivers, educators, and therapists.

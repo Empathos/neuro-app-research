@@ -968,3 +968,13 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: The Kaboose mobile app provides neurodivergent community groups, practical learning in video, audio, and text formats, self-advocacy resources, and tools for everyday life.
+
+### TACTICS Tourette Awareness App
+
+- URL: https://www.sbs.com.au/language/nitv-radio/en/podcast-episode/tactics-a-new-programme-to-raise-awareness-of-tourette-syndrome-in-schools/u4hhiy1u1
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: School-oriented interactive app created to raise awareness and support education about Tourette syndrome through classroom activities.

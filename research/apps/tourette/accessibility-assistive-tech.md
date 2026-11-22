@@ -678,3 +678,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Dictation and writing tool designed for neurodivergent users, with custom dictionaries, AI writing features, and an interface intended to support written communication.
+
+### Cognitive Accessibility Kit
+
+- URL: https://github.com/bairamilona/cognitive-accessibility-kit/tree/main
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Practical toolkit for designing and auditing products for neurodivergent and cognitively diverse users, including profiles, an accessibility checklist, content guidance, CSS tokens, and WCAG/COGA mapping.

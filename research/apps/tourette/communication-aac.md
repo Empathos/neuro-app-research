@@ -1018,3 +1018,13 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Free, open-source, multiplatform AAC app offering customizable image-and-audio boards, offline use, backups, multilingual support, and no accounts, ads, or tracking.[6]
+
+### Vocable AAC
+
+- URL: https://apps.apple.com/us/app/vocable-aac/id1497040547?platform=iphone
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Text-focused AAC app supporting touch and head tracking, with customizable words, phrases, categories, and AI-assisted conversation.
