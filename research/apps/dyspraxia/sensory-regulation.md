@@ -718,3 +718,13 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Neurodivergent regulation app offering real-time tools for overwhelm, shutdown, spiraling, anger, and task initiation.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/mo/app/beats-medical-dyspraxia-app/id1194965395
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, and communication activities.

@@ -1038,3 +1038,63 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Research publication describing a software tool aimed at supporting speech therapy for developmental verbal dyspraxia, providing a lead for clinician-facing or research-oriented tool development.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/mo/app/beats-medical-dyspraxia-app/id1194965395?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: A home therapy app created by allied health professionals for children aged 514 with dyspraxia or developmental coordination disorder. It provides gamified gross-motor, fine-motor, speech, and communication exercises usable under parent, teacher, or allied-health-professional guidance.
+
+### Everway Dyspraxia Support
+
+- URL: https://www.everway.com/en-au/solutions/dyspraxia-support/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: A collection of accessibility tools for dyspraxic learners and workers, including text-to-speech, accessible PDF annotation, visual planning, task support, and alternative ways to express mathematical thinking.
+
+### AYOA for DSA
+
+- URL: https://support.ayoa.com/ayoa-for-dsa
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Official help center for a neuro-inclusive productivity tool supporting students with dyspraxia through mind mapping, task management, and collaboration.[5]
+
+### UHB Dyspraxia Neurodiversity Toolkit
+
+- URL: https://www.uhb.nhs.uk/media/t5jjwcn4/dyspraxianeurodiversitytoolkit.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: NHS toolkit with caregiver, clinician, educator, and workplace-relevant support guidance, including diaries, alarms, checklists, routines, written instructions, and assistive technology.[3]
+
+### Neurodivergence at Work Toolkit
+
+- URL: https://www.pkc.gov.uk/media/54277/PAM-Understanding-Neurodivergence-at-Work-Toolkit/pdf/PAM_Understanding_Neurodivergence_at_Work_Toolkit.pdf?m=1753878340037
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Public workplace toolkit covering DCD/dyspraxia, occupational therapy, assistive technology, support networks, and practical adjustments.[4]
+
+### Movement Matters UK Adult DCD/Dyspraxia Resources
+
+- URL: https://movementmattersuk.org/wp-content/uploads/2026/07/DCD-Adult-Resources.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Public resource document summarizing adult DCD/dyspraxia challenges, self-support strategies, workplace adjustments, and employer guidance.[7]

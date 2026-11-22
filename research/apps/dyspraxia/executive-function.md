@@ -878,3 +878,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: AI-based app positioned as an executive-function partner for neurodivergent users, intended to help offload planning and daily organization.
+
+### Thruday
+
+- URL: https://apps.apple.com/in/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Neurodivergent-focused planning and time-management app that explicitly lists dyspraxia among its target users. Includes visual planning, mood tracking, journaling, notes, to-do lists, and support resources.

@@ -748,3 +748,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Open-source browser extension and app that applies dark mode and display adjustments to websites, potentially reducing visual strain and improving readability.
+
+### Dys Keyboards
+
+- URL: https://apps.apple.com/nz/app/dys-keyboards/id6765560844
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Assistive keyboard app designed for people with dyspraxia, dyslexia, dysgraphia, attention difficulties, visual fatigue, or motor-related typing challenges.

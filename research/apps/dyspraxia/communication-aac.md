@@ -1438,3 +1438,53 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: AAC communicator for autistic and neurodivergent users, featuring pictograms, quick phrases, favorites, assisted grammar, system voices, offline use, and printable PDFs.[5]
+
+### EasyAAC
+
+- URL: https://github.com/easyaac
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Cross-platform AAC project for web, iOS, and Android, supporting customizable visual communication boards and pictogram categories.
+
+### OneTalker
+
+- URL: https://codeberg.org/OneTalker/OneTalker
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Free, open-source AAC desktop application designed to provide an accessible voice and support alternative communication.
+
+### KC TalkBoard
+
+- URL: https://play.google.com/store/apps/details?id=kc.aac.app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Communication app offering an ABC letterboard, voice synthesis, interactive choice boards, and customizable phrase libraries for non-speaking users.
+
+### BridgeAAC
+
+- URL: https://github.com/bridgeaac
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source, offline-first AAC software intended to provide free communication tools on commonly available devices.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/bb/app/gestalt-aac/id6760491589?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: iPhone AAC app focused on natural phrases, motor planning, calming tools, and speech support for gestalt language processors and neurodivergent learners.

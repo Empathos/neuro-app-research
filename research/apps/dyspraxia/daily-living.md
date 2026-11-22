@@ -698,3 +698,23 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Public service directory listing describing Thruday as a free visual planner for autistic and neurodivergent people, with routines and task planning intended to build daily-life independence.[5]
+
+### Thruday  App Store
+
+- URL: https://apps.apple.com/gb/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Official iOS listing for Thruday, described as a visual planner for neurodivergent people including those with dyspraxia.
+
+### Thruday  Visual Daily Planner
+
+- URL: https://apps.apple.com/hn/app/thruday-visual-daily-planner/id1645552771?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Official App Store listing for visual routines, to-do lists, reminders, mood tracking, and carer or family support.

@@ -1098,3 +1098,33 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Visual planning and learning app for diverse cognitive profiles, with routines, time-management tools, executive-function support, and bite-sized expert-led learning courses.
+
+### Glean
+
+- URL: https://www.glean.co/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Lecture and study note-taking tool identified as useful for neurodivergent college students; it records lectures, supports synchronized notes, and helps produce transcripts and study questions.
+
+### Inspiration Mind Mapping
+
+- URL: https://www.inspiration-at.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Mind-mapping and visual-learning software relevant to dyspraxic students who need support with organizing ideas, planning essays, studying, and structuring projects.
+
+### Understanding Neurodiversity: Dyspraxia Research Knowledge Base
+
+- URL: https://www.understandingneurodiversity.org/research/dyspraxia
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Public research knowledge base covering dyspraxia/DCD, including effects on learning, daily activities, confidence, and self-concept.
