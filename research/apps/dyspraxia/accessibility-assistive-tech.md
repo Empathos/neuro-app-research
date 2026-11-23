@@ -758,3 +758,13 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Assistive keyboard app designed for people with dyspraxia, dyslexia, dysgraphia, attention difficulties, visual fatigue, or motor-related typing challenges.
+
+### Neurodiversity GitHub Topics
+
+- URL: https://github.com/topics/neurodivergence?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Public repository index containing neurodivergence-related projects, including accessibility learning tools, speech-to-text, AI summaries, and projects tagged for dyspraxia and cognitive accessibility.[8]

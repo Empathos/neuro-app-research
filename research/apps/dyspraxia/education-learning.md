@@ -1128,3 +1128,33 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Public research knowledge base covering dyspraxia/DCD, including effects on learning, daily activities, confidence, and self-concept.
+
+### Developmental dyspraxia/DCD resources for learners
+
+- URL: https://www.tec.govt.nz/learner-success/learner-success/resources-to-help-support-your-learners/neurodiversity-resources/dyspraxia-developmental-coordination-disorder
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Official New Zealand Tertiary Education Commission resource collection for supporting learners with dyspraxia or developmental coordination disorder in tertiary education.
+
+### Specialist Tutors' Resource Bank
+
+- URL: https://www.ucl.ac.uk/study/support-and-wellbeing/disability-and-neurodiversity/specific-learning-differences-splds/specialist-tutors-resource-bank
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: UCL resource bank covering support for neurodivergent students, including dyspraxia, dyslexia, ADHD, and autism.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Public GitHub repository curating tools, resources, online learning platforms, and services for neurodivergent learners and educators.

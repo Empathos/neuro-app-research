@@ -718,3 +718,23 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Official App Store listing for visual routines, to-do lists, reminders, mood tracking, and carer or family support.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Public service directory entry for a free visual planner and assistive-living app supporting daily routines, to-do lists, structure, and independence across home, education, and supported-living settings.
+
+### ELS Autism / ABA Therapy
+
+- URL: https://apps.apple.com/nl/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Picture-schedule and social-narrative app that breaks daily-living tasks into sequential steps to support independence and routine completion for neurodivergent children.

@@ -1098,3 +1098,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Public resource document summarizing adult DCD/dyspraxia challenges, self-support strategies, workplace adjustments, and employer guidance.[7]
+
+### NeuroEquality GitHub Organization
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Public organization presenting projects for neurodivergent support, including a safety and communication assistant, youth coaching microapp, workplace inclusion training, and support resources.

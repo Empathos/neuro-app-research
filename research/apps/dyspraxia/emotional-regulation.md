@@ -598,3 +598,23 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: ADHD/AuDHD burnout and energy tracker with emotional first-aid tools, emotional-reset guidance, somatic grounding techniques, and nervous-system regulation support.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/pe/app/animi-emotional-intelligence/id6443638345?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Emotion-coaching app focused on alexithymia, emotional awareness, emotion vocabulary, pattern recognition, breathing-based regulation, and journaling for neurodivergent users.[9]
+
+### Dyspraxiatheca
+
+- URL: https://lesapprimeurs.com/en/partnerships/dyspraxiatheca/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Platform of customizable adapted educational resources, exercises, and guidance for pupils with dyspraxia and carers; its scope recognizes emotional, social, language, and sensory impacts of dyspraxia.[10]
