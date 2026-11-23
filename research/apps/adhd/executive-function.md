@@ -1498,3 +1498,33 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: ADHD planner combining task breakdown, focus timing, and body doubling to support task initiation, executive dysfunction, time blindness, and chronic overwhelm.
+
+### Tether
+
+- URL: https://github.com/SeallLab/Tether
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open-source productivity dock for software engineers with ADHD, offering ambient activity monitoring, AI assistance, prioritization support, and gamified focus rewards.
+
+### ADHD Productivity GitHub Topic
+
+- URL: https://github.com/topics/adhd-productivity?o=desc&s=forks
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Public repository collection featuring ADHD-oriented focus timers, reading tools, micro-task breakdown systems, scheduling assistants, and cognitive-management projects.
+
+### Leantime  Open-Source Project Management
+
+- URL: https://openapps.pro/apps/leantime
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source project-management platform designed for ADHD, autism, and dyslexia, with simplified planning, extensibility, and an API for integrations.

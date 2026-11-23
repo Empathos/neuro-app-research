@@ -1728,3 +1728,23 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Open-source ADHD-friendly study workspace that transforms course material into clearer, more manageable next steps.
+
+### Spark Launch / Sparkade
+
+- URL: https://www.sparklaunch.ai/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Game-based learning solution for children with ADHD aged 812, combining skill-building, emotional-growth support, progress tracking, and caregiver or educator involvement.
+
+### GitHub ADHD-Friendly Topic
+
+- URL: https://github.com/topics/adhd-friendly?l=html&o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Public repository index featuring ADHD-friendly projects, including educational applications, focus tools, and learning dashboards.

@@ -1538,3 +1538,13 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Real-time regulation tool designed for ADHD, autistic, and other neurodivergent users, with modes for spiraling, shutdown, rage, overwhelm, and task-initiation difficulties.
+
+### DaisyDo: Calm Intense Emotions
+
+- URL: https://apps.apple.com/hk/app/daisydo-calm-intense-emotions/id6796473777
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Self-help app for people with ADHD who experience intense emotions, supporting calming, processing events, and choosing next actions.

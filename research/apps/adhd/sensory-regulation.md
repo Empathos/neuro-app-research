@@ -1278,3 +1278,33 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: An ADHD and autism energy-tracking app that records stimulation and recovery, categorizes users into regulation zones, and prompts reflection on masking, sensory demands, and recovery.
+
+### Sensory Fidgets
+
+- URL: https://apps.apple.com/us/app/sensory-fidgets/id6754608368
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: An iOS collection of interactive sensory fidgets intended to support relaxation, focus, self-regulation, and transitions for children and adults, including autistic and ADHD users.
+
+### TapTik: Sensory Stimming Pad
+
+- URL: https://apps.apple.com/ae/app/taptik-sensory-stimming-pad/id6826592754
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: iPhone sensory-stimulation app offering tactile grounding for ADHD-related restlessness, anxiety, and stimming needs.
+
+### FocusBrain: 8D ADHD & Focus
+
+- URL: https://apps.apple.com/us/app/focusbrain-8d-adhd-focus/id1569534844
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: App Store focus and relaxation tool using spatial audio and soundscapes marketed for ADHD attention support, reduced mental noise, and calm.

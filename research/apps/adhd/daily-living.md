@@ -1388,3 +1388,13 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: AI ADHD and executive-function coach for iPhone and iPad with natural-language or photo task capture, flexible focus timing, habit support, and an encouraging companion.
+
+### NeuroEquality
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Public organization developing inclusive tools for people with ADHD, autism, dyslexia, and other cognitive differences, including a life assistant and neurodivergent student support projects.

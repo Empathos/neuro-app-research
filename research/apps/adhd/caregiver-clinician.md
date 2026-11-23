@@ -1088,3 +1088,23 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-19
 - Description: Caregiver-clinician collaboration app with home-practice assignments, parent feedback, clinician dashboards, care-circle invitations, clinical PDF export, and clinician synchronization for neurodivergent children.
+
+### Sylva: Autism, ADHD & SEND
+
+- URL: https://apps.apple.com/rs/app/sylva-autism-adhd-send/id6751847550
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Parent and carer support app for children with ADHD, autism, and other neurodivergent profiles, including screening questionnaires and reports that can be shared with care or education teams.
+
+### ADHD Cognitive Research
+
+- URL: https://apps.apple.com/nl/app/adhd-cognitive-research/id1412022818?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Research app for participating in ADHD studies and collecting measures related to attention, inhibition, memory, planning, and other cognitive functions.

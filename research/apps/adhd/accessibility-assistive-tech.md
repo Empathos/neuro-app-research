@@ -1098,3 +1098,63 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Public repository index for ADHD-related software, including focus timers, task breakdown tools, accessibility utilities, reading aids, and distraction-reduction projects.
+
+### KinesisFlow: ADHD Productivity
+
+- URL: https://apps.apple.com/om/app/kinesisflow-adhd-productivity/id6782194126
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: ADHD-focused to-do list and daily-planning app designed for neurodivergent users and intended to address task paralysis and focus.
+
+### ADHD Daily Planner
+
+- URL: https://apps.apple.com/sa/app/adhd-daily-planner/id6778308359
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: ADHD-oriented planner supporting routines, daily planning, task management, focus, and overwhelm reduction.
+
+### Kin-CRM
+
+- URL: https://github.com/ock666/Kin-CRM
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source, self-hosted relationship manager designed for neurodivergent users, including people with AuDHD, rejection-sensitive dysphoria, social anxiety, and overwhelm.
+
+### ADHD Daily Planner & Tasks Pro
+
+- URL: https://apps.apple.com/ug/app/adhd-daily-planner-tasks-pro/id6761681085
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Productivity app designed to help people with ADHD organize tasks, build routines, track habits, and stay focused; the App Store listing does not identify supported accessibility features.
+
+### KinesisFlow: ADHD Productivity
+
+- URL: https://apps.apple.com/us/app/kinesisflow-adhd-productivity/id6782194126
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: ADHD-oriented planner using micro-steps, a visual timeline, and a companion experience to address task paralysis and executive dysfunction; accessibility features are not specified in the listing.
+
+### SPARK: ADHD Focus & Quests
+
+- URL: https://apps.apple.com/pk/app/spark-adhd-focus-quests/id6833792735
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Task-slicing and guided momentum app intended to help ADHD users move from overwhelm to action; the App Store listing does not identify supported accessibility features.

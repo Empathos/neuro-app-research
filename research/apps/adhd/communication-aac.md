@@ -1369,3 +1369,23 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: Research on chatbot-based support for balanced interactions between neurodivergent and neurotypical people, focusing on communication barriers and reciprocal assistance.
+
+### NeuroBridge
+
+- URL: https://arxiv.org/html/2509.23434v1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Online platform using generative AI to simulate cross-neurotype communication scenarios and provide feedback intended to improve understanding of autistic communication differences.[1]
+
+### Exploring Large Language Models Through a Neurodiversity Lens
+
+- URL: https://arxiv.org/html/2410.06336v1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Research resource discussing LLM applications for neurodivergent communication, including AAC enhancement, clarification of ambiguous language, and ADHD-oriented executive coaching.[9]
