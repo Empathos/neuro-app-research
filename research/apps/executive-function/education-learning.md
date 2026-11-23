@@ -1138,3 +1138,33 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Open-source educational website repository focused on explaining neurodiversity to the public.
+
+### Ronroo
+
+- URL: https://ronroo.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Psychoeducation and cognitive-behavioral coaching app focused on decision paralysis, procrastination, self-regulation, and learning practical executive-function strategies.
+
+### ADHD Brain Train
+
+- URL: https://apps.apple.com/pw/app/adhd-brain-train/id6792343689
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Educational brain-training app featuring ADHD-friendly activities for focus, memory, flexible thinking, working memory, concentration, and executive-function practice.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source adaptive learning platform designed for accessible, individualized education for neurodivergent children, with structured tasks, flexible pacing, chunked explanations, and reduced distractions.

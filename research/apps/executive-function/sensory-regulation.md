@@ -866,3 +866,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Voice-powered task manager designed for neurodivergent users, including task breakdown, focus timing, structured workflows, and a low-clutter interface.
+
+### Mindory
+
+- URL: https://mindoryapp.com/ai-planner-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Stress-aware AI planning app designed for neurodivergent adults, including users with ADHD, autism, and executive-function challenges.

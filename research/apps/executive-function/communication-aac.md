@@ -1108,3 +1108,13 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Free, open-source, offline-ready augmentative and alternative communication software.
+
+### GadAAC
+
+- URL: https://apps.apple.com/tw/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: AAC app with customizable tiles, photo-based communication, visual day plans, weekly templates, and First/Then sequences, with accessibility features for neurodivergent users.

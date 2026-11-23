@@ -734,3 +734,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Family coaching app for caregivers of neurodivergent children ages 512, with shared caregiver plans, check-ins, and support for ADHD, autism, and AuDHD.
+
+### To Do-ish  Executive Function Support
+
+- URL: https://www.todoish.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Capacity-aware task support for people with neurodivergence, chronic illness, or burnout; designed for use alongside therapy or coaching.

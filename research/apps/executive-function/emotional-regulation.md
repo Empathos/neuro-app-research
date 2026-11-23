@@ -718,3 +718,13 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-15
 - Description: Visual daily planner designed around executive-function challenges and neurodivergent users, including people with ADHD and autism.
+
+### Skelly-Jelly
+
+- URL: https://github.com/chreez/skelly-jelly
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open-source, neurodiversity-affirming ADHD focus companion designed to provide ambient support without disrupting focus states.

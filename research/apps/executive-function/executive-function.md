@@ -858,3 +858,43 @@
 - Query: executive-function executive-function neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: PubMed record for a randomized controlled trial of a CBT-informed health app for adults with ADHD, examining planning, organization, time management, executive functioning, and quality-of-life outcomes.
+
+### Diverge: ADHD Planner Todo
+
+- URL: https://apps.apple.com/it/app/diverge-adhd-planner-todo/id6747709978
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: ADHD-focused planner addressing time blindness, executive dysfunction, energy variation, task organization, and focus mode.
+
+### FeelingsHelper Executive Functioning at Work
+
+- URL: https://feelingshelper.com/tools/executive-functioning
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Free tool for ADHD and autistic adults that externalizes prioritization and task-management demands at work.
+
+### ExeFun
+
+- URL: https://exefun.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source AI-enabled cognitive-skills and executive-function training platform intended to support learners in higher education.
+
+### Saner.AI
+
+- URL: https://saner.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: AI productivity and knowledge-management tool highlighted for ADHD adults and knowledge workers who need help capturing, organizing, and acting on information.
