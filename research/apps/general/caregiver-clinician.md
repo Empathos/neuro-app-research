@@ -1028,3 +1028,33 @@
 - Query: general caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: Open-source neurodiversity-affirming ADHD focus companion providing ambient support without disrupting focus states.
+
+### ECHO Autism: EDx and Canvas Dx
+
+- URL: https://formative.jmir.org/2025/1/e80733
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Caregiver mobile-app and clinician workflow for autism screening and diagnostic support in primary care.
+
+### SenseToKnow Autism Screening Tool
+
+- URL: https://www.nih.gov/news-events/nih-research-matters/app-aids-early-screening-autism
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Tablet-based app that records toddlers responses and supports early autism screening during caregiver-clinician encounters.
+
+### TRIP Caregiver Psychoeducation App
+
+- URL: https://pediatrics.jmir.org/2026/1/e84224/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Structured app-based mindfulness and autism-parenting intervention developed for parents and caregivers of autistic children.

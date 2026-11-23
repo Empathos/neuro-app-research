@@ -968,3 +968,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Official Apple accessibility documentation for Assistive Access and Guided Access, including simplified interfaces, high-contrast controls, larger labels, visual alternatives, and single-app focus.
+
+### Goblin Tools App
+
+- URL: https://apps.apple.com/nl/app/goblin-tools/id6449003064?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Official iOS and iPadOS app for Goblin Tools, offering neurodivergent-oriented helpers for ADHD, autism, executive dysfunction, and low-energy days.

@@ -1578,3 +1578,23 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Open-source, offline-first AAC project focused on free local software, board portability, and support for open communication-board formats.
+
+### BridgeAAC Core
+
+- URL: https://github.com/BridgeAAC/core
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Free, open-source, offline-ready AAC software supporting Open Board Format and other AAC backup formats; licensed under MIT.
+
+### OneTalker
+
+- URL: https://codeberg.org/OneTalker/OneTalker
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Free, open-source AAC desktop application created to provide an accessible voice for people who need communication support; licensed under GPL-3.0.

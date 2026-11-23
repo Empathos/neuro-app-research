@@ -1038,3 +1038,23 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-20
 - Description: Sensory-play app with fidgets and calming activities intended to support self-regulation, sensory-seeking needs, transitions, and quiet independent play.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/sn/app/autism-fidgets/id6761034020?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Sensory-play app for autistic and neurodivergent children, offering digital fidgets and repetitive touch interactions for calming, self-regulation, transitions, and sensory-seeking needs.
+
+### Sensory Analysis Toolkit
+
+- URL: https://github.com/SankalpKat/sensory-analysis-toolkit
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open-source repository with a live Streamlit app for designing double-blind randomized sensory trials; relevant as a technical sensory-research lead, though it targets food-science testing rather than neurodivergence support.

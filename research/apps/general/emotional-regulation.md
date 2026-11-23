@@ -798,3 +798,33 @@
 - Query: general emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: Project documentation describing Diverges neurodivergent-focused journaling workflow and emotional-regulation features.
+
+### Cogs AI
+
+- URL: https://www.cogs-ai.com/home
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Neurodivergent-focused self-care app for tracking burnout signs, reflecting, using stims, and supporting emotional self-regulation.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Crisis-regulation app designed for ADHD, autistic, and other neurodivergent users, emphasizing immediate regulation and reset strategies.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: iOS tracker for ADHD/AuDHD burnout patterns, energy monitoring, emotional-reset guidance, somatic grounding, and regulation support.

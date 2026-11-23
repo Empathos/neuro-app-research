@@ -978,3 +978,13 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Cognitive accessibility companion for neurodivergent developers, featuring ticket deconstruction, focus shields, and communication translation.
+
+### neurodiv
+
+- URL: https://neurodiv.me/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: A pocket assistant for people with ADHD that helps break larger tasks into subtasks, manage daily schedules, and organize to-dos across smartphone and web.

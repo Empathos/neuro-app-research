@@ -1398,3 +1398,33 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Free educational app designed to help users understand their strengths, engagement preferences, learning approaches, communication styles, and problem-solving patterns.
+
+### Neurodiversity Education Resources
+
+- URL: https://www.twinkl.com.au/collection/neurodiversity-education
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Educational collection with research sheets, classroom activities, display materials, and guidance for inclusive learning environments.
+
+### IN-hub
+
+- URL: https://toolsforschools.info/inhub/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: School-focused directory of inclusive education resources, including literacy, numeracy, emotional-regulation, sensory, and neurodiversity curricula.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Adaptive learning platform designed to provide accessible, engaging, and personalized education for neurodivergent children.
