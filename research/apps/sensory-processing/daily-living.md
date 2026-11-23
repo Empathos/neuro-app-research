@@ -728,3 +728,13 @@
 - Query: sensory-processing daily-living neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Parent-oriented app for creating daily sensory-activity schedules, rating experiences, tracking observations, and sharing records with therapists, teachers, or other professionals.
+
+### Neurtura
+
+- URL: https://studio.com/apps/sara-elise/neurtura
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Coaching app offering daily practices, reminders, and routine adjustments tailored to neurodivergent users' energy, sensory needs, and capacity.

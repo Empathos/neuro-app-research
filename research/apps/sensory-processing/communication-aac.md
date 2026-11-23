@@ -1179,3 +1179,13 @@
 - Query: sensory-processing communication-aac neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Customizable AAC system for autism and other communication challenges, with adjustable symbol size, spacing, fonts, colors, and backgrounds to accommodate sensory preferences.
+
+### Sensory Kit Builder
+
+- URL: https://www.neurodiversion.org/sensory-kit-builder
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: communication-aac
+- Query: sensory-processing communication-aac neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Free browser-based interactive builder for creating a personalized sensory toolkit, with on-screen fidgets and no required installation or signup.

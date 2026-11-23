@@ -768,3 +768,13 @@
 - Query: sensory-processing sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Open-source Chrome extension providing sensory-friendly audio processing, spatial audio, masking noise, binaural beats, and EQ for web music players.[10]
+
+### Burble  Sensory Regulation App
+
+- URL: https://www.burbleneuro.com/page
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: sensory-regulation
+- Query: sensory-processing sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Software-based sensory-regulation tool intended for families, schools, and clinics, with deployment on phones, tablets, and smart TVs.

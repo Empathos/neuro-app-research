@@ -708,3 +708,23 @@
 - Query: sensory-processing emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Visual calming app intended to help children reset during overwhelm, big emotions, stressful situations, and sensory-regulation needs.
+
+### Woah Kids: Calming Visuals
+
+- URL: https://apps.apple.com/la/app/woah-kids-calming-visuals/id6767506977
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Portable visual-calming app intended to support emotional regulation and reduce distress for children, including neurodivergent children who benefit from sensory input.
+
+### Sensory Regulation Station
+
+- URL: https://tomglobal.org/project/sensory-regulation-station-69d6cf1b61f3260013b2edcb
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: emotional-regulation
+- Query: sensory-processing emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open hardware project designed to help children with sensory-processing difficulties remain regulated in chaotic classroom environments; build files are available for download.

@@ -1,21 +1,21 @@
 # Latest Research Run
 
 - Condition: sensory-processing
-- UTC timestamp: 2026-11-22T15:27:38.462011+00:00
-- New findings: 9
-- Rejected dead links: 2
+- UTC timestamp: 2026-11-23T19:25:56.286124+00:00
+- New findings: 7
+- Rejected dead links: 3
 
 ## Support Categories
 
 ### communication-aac
 
-- `sensory-processing communication-aac neurodivergent app research pass 501`: 3 new finding(s), 0 rejected dead link(s)
+- `sensory-processing communication-aac neurodivergent app research pass 501`: 1 new finding(s), 0 rejected dead link(s)
 - `sensory-processing communication-aac neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
 - `sensory-processing executive-function neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing executive-function neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `sensory-processing executive-function neurodivergent app research pass 502`: 1 new finding(s), 1 rejected dead link(s)
 
 ### sensory-regulation
 
@@ -29,8 +29,8 @@
 
 ### emotional-regulation
 
-- `sensory-processing emotional-regulation neurodivergent app research pass 501`: 1 new finding(s), 1 rejected dead link(s)
-- `sensory-processing emotional-regulation neurodivergent app research pass 502`: 1 new finding(s), 0 rejected dead link(s)
+- `sensory-processing emotional-regulation neurodivergent app research pass 501`: 2 new finding(s), 1 rejected dead link(s)
+- `sensory-processing emotional-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### daily-living
 
@@ -45,5 +45,5 @@
 ### accessibility-assistive-tech
 
 - `sensory-processing accessibility-assistive-tech neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
-- `sensory-processing accessibility-assistive-tech neurodivergent app research pass 502`: 2 new finding(s), 0 rejected dead link(s)
+- `sensory-processing accessibility-assistive-tech neurodivergent app research pass 502`: 1 new finding(s), 0 rejected dead link(s)
 

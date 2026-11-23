@@ -998,3 +998,13 @@
 - Query: sensory-processing executive-function neurodivergent app research pass 501
 - Found: 2026-11-16
 - Description: Repository for a sensory-routing and filtering component described as handling input filtering, routing, contextual organization, and real-time sensory processing.
+
+### Unfold
+
+- URL: https://getunfold.app/
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: executive-function
+- Query: sensory-processing executive-function neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Neurodivergent-focused app offering conversational support to interpret feelings and identify a manageable next action.

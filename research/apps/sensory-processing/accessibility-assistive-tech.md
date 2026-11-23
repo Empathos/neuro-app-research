@@ -918,3 +918,13 @@
 - Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Public resource listing assistive apps for accessibility, sensory regulation, focus, communication, transcription, text-to-speech, visual assistance, and daily living.
+
+### Cognitive Accessibility Kit
+
+- URL: https://github.com/bairamilona/cognitive-accessibility-kit/tree/main
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: accessibility-assistive-tech
+- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source toolkit for designing and auditing digital products for neurodivergent and cognitively diverse users, with neurodivergence profiles, an accessibility checklist, copy guidance, CSS tokens, and WCAG 2.2/COGA mapping.
