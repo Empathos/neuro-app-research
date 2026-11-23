@@ -778,3 +778,103 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Neurofeedback and multisensory-learning mobile app studied as an intervention for reading abilities, phonemic awareness, and nonword spelling in children with dyslexia.[6]
+
+### Poppins Learning: Dyslexia
+
+- URL: https://apps.apple.com/us/app/poppins-learning-dyslexia/id6480063759
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Reading and phonics app for children ages 711, including learners with dyslexia; uses short games targeting phonological awareness, phonics, and decoding.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Curated GitHub list of tools, resources, and services for neurodivergent learners, educators, and parents, including the OpenDyslexic font.
+
+### Dyslexia.ai - Smart Phonics
+
+- URL: https://apps.apple.com/us/app/dyslexia-ai-smart-phonics/id1564885095
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Phonics-based literacy app supporting reading, spelling, rhyming, and vowel learning for learners with dyslexia.
+
+### Dyslexia & ADHD: dys reading
+
+- URL: https://apps.apple.com/ro/app/dyslexia-adhd-dys-reading/id1559259054
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Neurodivergent reading-accessibility tool for testing fonts, spacing, and color settings with sample text; explicitly not a diagnostic tool.
+
+### Dyslexia Browser: Easy Reading
+
+- URL: https://apps.apple.com/gb/app/dyslexia-browser-easy-reading/id1085601190
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Web browser offering dyslexia-friendly fonts, color overlays, clutter-free reader mode, and read-aloud word highlighting.
+
+### Auto Train Brain
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/33860699/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Published pilot study of a mobile app using neurofeedback and multisensory learning methods to support reading abilities in children with dyslexia.
+
+### Dyslexia Game
+
+- URL: https://github.com/divyaa-s/dyslexia-game
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Unity-based educational and screening tool using word-based cognitive exercises, error-pattern analysis, reaction-time tracking, and accuracy data.[6]
+
+### Uplift Reading
+
+- URL: https://apps.apple.com/no/app/uplift-reading/id6755376471
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Mastery-based reading app with repeated story practice, line-by-line reading guidance, customizable text, and accessibility features for learners with ADHD, autism, or dyslexia.[8]
+
+### Dyslexia  Research Knowledge Base
+
+- URL: https://www.understandingneurodiversity.org/research/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Research-oriented resource covering dyslexia, early identification, structured literacy, multisensory instruction, and learning across K12, higher education, and lifelong learning.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source adaptive learning platform designed for neurodivergent children, with support for dyslexia, accessible typography, flexible pacing, and alternative explanations.

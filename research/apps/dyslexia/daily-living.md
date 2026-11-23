@@ -628,3 +628,63 @@
 - Query: dyslexia daily-living neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: A dyslexia-first publishing pipeline that converts manuscripts into accessible PDFs, EPUBs, audiobook-ready text, voiced audiobooks, and customizable HTML readers.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/us/app/dyslexiabuddy/id1565832172?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Reading-assistance app marketed for people with dyslexia, with research-informed features intended to support reading speed and comprehension.
+
+### GitHub Dyslexia Topic
+
+- URL: https://github.com/topics/dyslexia?l=python&o=desc&s=updated
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public repository index with dyslexia-focused projects, including text-to-speech readers, PDF reflow tools, adaptive reading interfaces, writing assistance, and accessible learning software.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Open-source Chrome extension for dyslexia, ADHD, and motor differences, offering text-to-speech, speech-to-text, text simplification, dyslexia-optimized reading, and neurodivergent profiles.
+
+### Autoscroll Bionic Reading
+
+- URL: https://github.com/mandy321/Autoscroll-Bionic-Reading
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Public reading-support project combining bionic reading, a focus lane, and auto-scroll features intended for ADHD and dyslexia.
+
+### Thruday
+
+- URL: https://apps.apple.com/us/app/thruday/id1645552771?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Visual daily-planning and reminder app with collaborative routines, mood tracking, and support for users and carers, including people with ADHD, autism, dyslexia, and related challenges.
+
+### Legilo
+
+- URL: https://github.com/asisto/legilo
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source accessibility widget offering contrast controls, font adjustments, dyslexia-friendly typography, reading mask, and read-aloud with word highlighting.

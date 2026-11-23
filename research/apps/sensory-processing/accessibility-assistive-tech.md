@@ -509,16 +509,6 @@
 - Found: 2026-10-26
 - Description: Sensory art app with predictable color reveals, gentle ASMR sounds, and a low-stimulation design intended for calming and safe stimming.
 
-### Neuro Focus Plus
-
-- URL: https://play.google.com/store/apps/details?id=com.company.neurofocusplus
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: accessibility-assistive-tech
-- Query: sensory-processing accessibility-assistive-tech neurodivergent app research pass 501
-- Found: 2026-10-26
-- Description: Routine and focus app featuring sensory-friendly UI customization, transition reminders, task breakdowns, mood and energy tracking, and screen-reader support.
-
 ### Autism Fidgets
 
 - URL: https://apps.apple.com/gb/app/autism-fidgets/id6761034020

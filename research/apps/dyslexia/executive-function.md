@@ -798,3 +798,83 @@
 - Query: dyslexia executive-function neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Review of technology interventions, including the Leady mobile app, multisensory literacy activities, and speech-to-text tools for writing difficulties.
+
+### Easy Dyslexia Aid
+
+- URL: https://apps.apple.com/kr/app/easy-dyslexia-aid/id1088194043?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: A literacy and spelling aid using the OpenDyslexic font, color overlays, and speech-to-text features; it also targets organizational and self-direction skills.
+
+### DyslexiaBuddy
+
+- URL: https://apps.apple.com/us/app/dyslexiabuddy/id1565832172?l=es-MX
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: An iOS reading assistant designed for people with dyslexia.
+
+### Systematic Review of Assistive Technologies for Children with Dyslexia
+
+- URL: https://arxiv.org/html/2412.13241v3
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Open-access research review of mobile apps, serious games, augmented and virtual reality, NLP, haptic tools, and other technologies for dyslexia support.
+
+### Readapt
+
+- URL: https://github.com/ContentSquare/readapt
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Open-source tool intended to make digital text easier to read for people with reading challenges such as dyslexia.
+
+### Dyslexiview
+
+- URL: https://github.com/probablyabdullah/dyslexiview
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Open-source learning aid designed to improve educational accessibility for individuals with dyslexia.
+
+### LexoRead: AI-Supported Reading Assistant for Dyslexia
+
+- URL: https://github.com/openimpactai/LexoRead
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open-source AI-powered reading assistant designed for people with dyslexia and reading impairments.
+
+### OpenDys
+
+- URL: https://github.com/lumduan/opendys
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Client-side dyslexia reading aid with offline OCR, customizable typography, reading ruler, color coding, and text-to-speech.
+
+### GitHub Dyslexia Topic
+
+- URL: https://github.com/topics/dyslexia?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Public directory of dyslexia-related repositories, including reading interfaces, educational tools, and neurodivergent-friendly reading projects.
