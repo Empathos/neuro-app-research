@@ -99,16 +99,6 @@
 - Found: 2026-06-26
 - Description: Sensory-based interventions for home use, including calm corners, noise management, and visual supports for neurodivergent children.
 
-### Everyday Living: Comprehensive and User-Friendly App for Caregivers and Elderly
-
-- URL: https://play.google.com/store/apps/details?id=com.mogul.app&hl=en_US
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: overload daily living support app
-- Found: 2026-06-29
-- Description: Everyday Living is a comprehensive and user-friendly app that caters to caregivers, elderly patients, and individuals requiring assisted living, designed to support daily routines and reduce overload.
-
 ### Everyday Living App: Personal Care HCS Providers in Texas
 
 - URL: https://everydaylivingapp.com
@@ -118,16 +108,6 @@
 - Query: overload daily living support app
 - Found: 2026-06-29
 - Description: The Everyday Living app is a user-friendly mobile application designed to assist individuals, families, case workers, and guardians in finding suitable support and managing daily tasks to prevent overload.
-
-### Everyday Living - Apps on Google Play (Official Product Page)
-
-- URL: https://play.google.com/store/apps/details?id=com.mogul.app
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: overload daily living support app
-- Found: 2026-06-29
-- Description: Official Google Play page for Everyday Living, a tool that helps users with neurodivergence and elderly care manage daily living without feeling overwhelmed by routine tasks.
 
 ### 10 Great Apps for Seniors Living Alone - Parsons House Austin
 
@@ -699,12 +679,62 @@
 - Found: 2026-11-14
 - Description: Free iOS and Android app offering sensory-friendly community locations, personalized sensory and communication profiles, coping strategies, accessibility guides, social narratives, and visual schedules.[1]
 
-### Get Unstuck
+### Sensory Budget
 
-- URL: https://apps.apple.com/us/app/get-unstuck/id6751072710
+- URL: https://apps.apple.com/es/app/sensory-budget/id6813163966?l=en-GB
 - Source: perplexity-sonar
 - Condition: sensory-processing
 - Support category: daily-living
 - Query: sensory-processing daily-living neurodivergent app research pass 501
-- Found: 2026-11-14
-- Description: iOS app for neurodivergent users that breaks overwhelming tasks into manageable steps, identifies blockers, tracks progress gently, and provides sensory-friendly visual themes.[7]
+- Found: 2026-11-15
+- Description: App for ADHD, autistic, and sensory-sensitive users that estimates daily energy costs from noise, crowds, commuting, task switching, social time, and other demands.
+
+### NEURORGANIZED Task Management Platform
+
+- URL: https://www.kxan.com/business/press-releases/ein-presswire/916843644/neurorganized-launches-free-task-management-platform-designed-to-reduce-overwhelm-and-support-executive-functioning
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Task-management platform focused on reducing overwhelm and supporting executive functioning, with routine builders, home-management systems, habit trackers, and planning resources.[6]
+
+### Mariko Digital Assistant
+
+- URL: https://apps.apple.com/us/app/mariko-digital-assistant/id1645374416
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Visual scheduling assistant developed for neurodivergent people, families, and professionals; supports organizing tasks, priorities, timing, and responsibilities.
+
+### Thruday Directory Listing
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public service-directory entry describing Thruday's visual routines, printable schedules, picture-based communication cards, mood tracking, and shared support features.
+
+### Sensory Processing Therapy Tool
+
+- URL: https://www.commonsensemedia.org/app-reviews/sensory-processing-therapy-tool-to-help-parents-manage-sensory-diet-home-programs
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Parent-oriented app for creating daily sensory-activity schedules, rating experiences, tracking observations, and sharing records with therapists, teachers, or other professionals.
+
+### Neurtura
+
+- URL: https://studio.com/apps/sara-elise/neurtura
+- Source: perplexity-sonar
+- Condition: sensory-processing
+- Support category: daily-living
+- Query: sensory-processing daily-living neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Coaching app offering daily practices, reminders, and routine adjustments tailored to neurodivergent users' energy, sensory needs, and capacity.
