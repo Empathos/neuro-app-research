@@ -668,3 +668,23 @@
 - Query: dyslexia daily-living neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Public reading-support project combining bionic reading, a focus lane, and auto-scroll features intended for ADHD and dyslexia.
+
+### Thruday
+
+- URL: https://apps.apple.com/us/app/thruday/id1645552771?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Visual daily-planning and reminder app with collaborative routines, mood tracking, and support for users and carers, including people with ADHD, autism, dyslexia, and related challenges.
+
+### Legilo
+
+- URL: https://github.com/asisto/legilo
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: daily-living
+- Query: dyslexia daily-living neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source accessibility widget offering contrast controls, font adjustments, dyslexia-friendly typography, reading mask, and read-aloud with word highlighting.

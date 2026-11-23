@@ -848,3 +848,33 @@
 - Query: dyslexia executive-function neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Open-source learning aid designed to improve educational accessibility for individuals with dyslexia.
+
+### LexoRead: AI-Supported Reading Assistant for Dyslexia
+
+- URL: https://github.com/openimpactai/LexoRead
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open-source AI-powered reading assistant designed for people with dyslexia and reading impairments.
+
+### OpenDys
+
+- URL: https://github.com/lumduan/opendys
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Client-side dyslexia reading aid with offline OCR, customizable typography, reading ruler, color coding, and text-to-speech.
+
+### GitHub Dyslexia Topic
+
+- URL: https://github.com/topics/dyslexia?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: executive-function
+- Query: dyslexia executive-function neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Public directory of dyslexia-related repositories, including reading interfaces, educational tools, and neurodivergent-friendly reading projects.

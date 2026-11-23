@@ -858,3 +858,23 @@
 - Query: dyslexia education-learning neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: Mastery-based reading app with repeated story practice, line-by-line reading guidance, customizable text, and accessibility features for learners with ADHD, autism, or dyslexia.[8]
+
+### Dyslexia  Research Knowledge Base
+
+- URL: https://www.understandingneurodiversity.org/research/dyslexia
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Research-oriented resource covering dyslexia, early identification, structured literacy, multisensory instruction, and learning across K12, higher education, and lifelong learning.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: education-learning
+- Query: dyslexia education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Open-source adaptive learning platform designed for neurodivergent children, with support for dyslexia, accessible typography, flexible pacing, and alternative explanations.

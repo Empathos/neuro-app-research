@@ -978,3 +978,73 @@
 - Query: dyslexia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-18
 - Description: Research platform providing dyslexia neuroimaging data sharing, harmonization, image-processing resources, and analysis tools.
+
+### Auto Train Brain Pilot Study
+
+- URL: https://research.bau.edu.tr/en/publications/a-mobile-app-that-uses-neurofeedback-and-multi-sensory-learning-m-2/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: A research lead describing a mobile app that combines neurofeedback and multisensory learning to improve reading comprehension, speed, and other reading abilities in children with dyslexia.
+
+### ReQuest Dyslexia Reflection App Prototype
+
+- URL: https://dl.acm.org/doi/full/10.1145/3797867.3829023
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: An HCI research prototype that guides dyslexic readers through self-reflection and recommends tailored assistive tools based on identified reading needs.
+
+### Digital Assistive Technologies for Neurodivergent Students
+
+- URL: https://pure.au.dk/ws/files/473637328/Rempel_Heimann_Prilop_2026_Scoping_review_assistive-technology.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: A scoping review of tools for neurodivergent learners, including dyslexia-focused platforms, AI recommendations, text-to-speech, tutoring, vocabulary support, dashboards, and other assistive technologies.
+
+### Pearson Clinical Dyslexia Toolkit
+
+- URL: https://www.pearsonassessments.com/content/dam/school/global/clinical/us/assets/shaywitz/dyslexia-toolkit-white-paper.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: A clinical and classroom resource covering dyslexia screening, diagnostic assessment, intervention, and progress monitoring for clinicians, educators, parents, and caregivers.
+
+### Handy Neuro-supporting Tools
+
+- URL: https://blogs.flinders.edu.au/student-health-and-well-being/wp-content/uploads/sites/71/2026/08/Handy-ND-supporting-tools-for-ASA-staff.pdf
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: A public guide listing neurodivergence-supporting tools, including Read&Write, OpenDyslexic for Chrome, InstaText, Read Aloud, and other reading and writing aids relevant to dyslexia.
+
+### Lexy: Dyslexia Reading Tutor
+
+- URL: https://apps.apple.com/pe/app/lexy-dyslexia-reading-tutor/id1564885095?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Personalized phonics tutor for children aged 512, featuring Orton-Gillingham-based practice, progress tracking, voice recognition, parent guidance, and support for teachers and special-education professionals.
+
+### DIMMAND Digital Dyslexia App Protocol
+
+- URL: https://www.researchprotocols.org/2018/5/e135/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: caregiver-clinician
+- Query: dyslexia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Published protocol for a digital solution intended to help parents and teachers detect, monitor, and manage dyslexia-related difficulties and identify suitable interventions.

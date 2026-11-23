@@ -248,3 +248,33 @@
 - Query: dyslexia emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public repository for an AI-powered multilingual dyslexia-support platform involving screening, adaptive learning, and collaboration among students, teachers, and parents.
+
+### wNDerful App
+
+- URL: https://www.wnderful.app/
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Emotional-regulation, communication, mentoring, and community app for neurodivergent people, including people with dyslexia.
+
+### Solitaire Emotions
+
+- URL: https://news.marketersmedia.com/new-solitaire-emotions-app-by-positive-peers-learning-software-aims-to-boost-emotional-intelligence-and-promote-positive-mindset/89129992
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Emotional-intelligence and CBT-oriented app described as supporting neurodivergent users, including people with dyslexia.
+
+### GESYA: Digital Tool for Emotional Regulation in Children with Dyslexia
+
+- URL: https://mail.jurnal.konselingindonesia.com/index.php/jkp/article/view/2072
+- Source: perplexity-sonar
+- Condition: dyslexia
+- Support category: emotional-regulation
+- Query: dyslexia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Research project describing GESYA, an interactive application designed to help children with dyslexia recognize and manage emotions.
