@@ -1389,3 +1389,53 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Research resource discussing LLM applications for neurodivergent communication, including AAC enhancement, clarification of ambiguous language, and ADHD-oriented executive coaching.[9]
+
+### ComuniTEApp
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp&hl=en
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Android app for autistic, ADHD, and other neurodivergent users featuring pictogram-based AAC for expressing needs, emotions, and thoughts.
+
+### This is Me Digital Self-Advocacy Tools
+
+- URL: https://journals.sagepub.com/doi/full/10.1177/10554181261488284
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Research on digital self-advocacy tools for neurodivergent people with communication support needs, including support for introductions, novel communication partners, independence, and self-advocacy.
+
+### Custom AAC: Speech Companion
+
+- URL: https://apps.apple.com/au/app/custom-aac-speech-companion/id6753180190
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Customizable AAC app for children and adults who are nonverbal or minimally verbal, explicitly supporting autism, ADHD, and other communication differences.
+
+### VocalTiles
+
+- URL: https://apps.apple.com/ca/app/vocaltiles/id6790195616
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: AI-assisted AAC app that creates visual boards from text and supports Gestalt Language Processing, social stories, routines, and neurodivergent communication.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/bb/app/gestalt-aac/id6760491589
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Phrase-based AAC tool for Gestalt Language Processors, with motor-planning support, calming tools, and natural speech features for neurodivergent learners.

@@ -1398,3 +1398,33 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Public organization developing inclusive tools for people with ADHD, autism, dyslexia, and other cognitive differences, including a life assistant and neurodivergent student support projects.
+
+### Week Plan ADHD Planner
+
+- URL: https://weekplan.net/adhd-planner/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Weekly planner focused on executive-function support through visible scheduling, urgency sorting, timeboxing, reminders, and automatic rollover of unfinished tasks.
+
+### Tiimo
+
+- URL: https://github.com/ever-works/awesome-time-tracking/blob/develop/details/tiimo.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Visual daily planner designed around executive-function challenges and intended for neurodivergent people, including users with ADHD and autism.
+
+### The ADHD Hero
+
+- URL: https://www2.heephong.org/eng/tools-and-resources/publications/mobile-app/14317
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Executive-function training app for children ages 612, developed with educational-psychology and occupational-therapy input.

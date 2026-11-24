@@ -1548,3 +1548,33 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Self-help app for people with ADHD who experience intense emotions, supporting calming, processing events, and choosing next actions.
+
+### DaisyDo: Calm Intense Emotions
+
+- URL: https://apps.apple.com/ca/app/daisydo-calm-intense-emotions/id6796473777
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: An iPhone self-help app focused on intense ADHD emotions, including anger, rejection-related self-criticism, overwhelm, CBT-based techniques, and reminders.[1]
+
+### Bonding Health: ADHD Calm
+
+- URL: https://apps.apple.com/pl/app/bonding-health-adhd-calm/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: An ADHD emotional-regulation app with tools for dysregulation, burnout, anxiety, irritability, motivation crashes, mood check-ins, voice entries, movement, and rewards.[3]
+
+### Bonding Health: ADHD Reset
+
+- URL: https://apps.apple.com/jp/app/bonding-health-adhd-reset/id1611980187?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Provides rapid support for ADHD emotional dysregulation, overwhelm, task paralysis, irritability, burnout, rejection-sensitivity spirals, and motivation crashes, with mood and regulation tracking.[7]

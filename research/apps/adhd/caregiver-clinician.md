@@ -1108,3 +1108,53 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Research app for participating in ADHD studies and collecting measures related to attention, inhibition, memory, planning, and other cognitive functions.
+
+### Esteem App
+
+- URL: https://www.additudemag.com/treatment/esteem/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: A caregiver-focused mobile app for monitoring ADHD symptoms and behavior in children, tracking progress, and supporting communication with therapists and parenting coaches.[8]
+
+### ADHD Buddy
+
+- URL: https://github.com/macaddy2/adhd-buddy-app/blob/master/README.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Open-source, voice-first productivity companion for neurodivergent people and people with ADHD; it turns voice brain dumps into tasks, priorities, duration estimates, and focus-board items.[7]
+
+### CoolCraig App: Promoting Health by Improving Self-Regulation in Adolescents with ADHD
+
+- URL: https://digital.ahrq.gov/ahrq-funded-projects/coolcraig-app-promoting-health-improving-self-regulation-adolescents-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: A research-developed connected system combining a smartwatch, mobile app, and web portal to support self-regulation and treatment adherence among adolescents with ADHD and their parents.
+
+### CoolCraig+ParentCoach Digital Health Intervention
+
+- URL: https://digital.ahrq.gov/ahrq-funded-projects/digital-health-intervention-children-adhd-improving-mental-health-intervention
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: A digital intervention involving a child smartwatch app and ParentCoach app used by parents in collaboration with teachers, with caregiver and clinician stakeholder involvement.
+
+### STEPS App: Structured E-Parenting Support
+
+- URL: https://pediatrics.jmir.org/2023/1/e47035/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: A parent-support app for families awaiting clinical assessment for children with hyperactivity, impulsivity, inattention, and conduct problems; includes potential sharing of recordings and reflections with clinicians.

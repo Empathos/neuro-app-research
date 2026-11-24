@@ -1748,3 +1748,13 @@
 - Query: adhd education-learning neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Public repository index featuring ADHD-friendly projects, including educational applications, focus tools, and learning dashboards.
+
+### Sparkade
+
+- URL: https://www.linkedin.com/company/spark-launch
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: education-learning
+- Query: adhd education-learning neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: An ethical AI-powered, game-based learning platform from Spark Launch for children with ADHD and their families, with planned support for executive function and emotional regulation.

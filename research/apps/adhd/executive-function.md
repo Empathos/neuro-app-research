@@ -1528,3 +1528,13 @@
 - Query: adhd executive-function neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Open-source project-management platform designed for ADHD, autism, and dyslexia, with simplified planning, extensibility, and an API for integrations.
+
+### ADHD Tools GitHub Topic
+
+- URL: https://github.com/topics/adhd-tools?o=desc&s=stars
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: executive-function
+- Query: adhd executive-function neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Public repository collection featuring ADHD-oriented tools and curated resources, including task breakdown, focus timers, Pomodoro utilities, body-doubling tools, and neurodivergent-friendly productivity projects.

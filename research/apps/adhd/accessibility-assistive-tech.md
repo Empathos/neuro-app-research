@@ -1158,3 +1158,23 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Task-slicing and guided momentum app intended to help ADHD users move from overwhelm to action; the App Store listing does not identify supported accessibility features.
+
+### Everway ADHD Support and Assistive Technology
+
+- URL: https://www.everway.com/en-gb/solutions/adhd-support/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Official assistive-technology overview covering Read&Write, OrbitNote, MindView, task support, text-to-speech, speech-to-text, visual planning, and exam accommodations for ADHD.
+
+### Everyday Technology Practices of Adults with ADHD
+
+- URL: https://dl.acm.org/doi/10.1145/3797867.3829014
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Public ACM research page for a study examining adults' everyday technology practices and implications for assistive-technology design.

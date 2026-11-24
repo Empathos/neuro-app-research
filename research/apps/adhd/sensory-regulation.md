@@ -1308,3 +1308,53 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: App Store focus and relaxation tool using spatial audio and soundscapes marketed for ADHD attention support, reduced mental noise, and calm.
+
+### NeuroRehub: Wellness & Support
+
+- URL: https://play.google.com/store/apps/details?id=com.andyspeaks.neurorehub.wellness&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Android app ecosystem offering sensory-management tools, routine tracking, educational guidance, caregiver collaboration, and a sensory safe-space feature.[4]
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/az/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: iOS energy-tracking and guided-reset app for autistic and ADHD adults, including reflection prompts about masking, mental effort, sensory demands, and recovery.[6]
+
+### AuDioPrism
+
+- URL: https://github.com/TheOneTrueNiz/AuDioPrism
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Open-source Chrome extension for sensory-friendly audio, offering spatial audio, binaural beats, masking noise, sensory EQ, and breathing-oriented features for ADHD, autism, and AuDHD.[10]
+
+### Stimfl Helix Sensory Tool
+
+- URL: https://stimfl.com/products/stimfl-helix-sensory-tool
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Official sensory tool designed for grounding, regulation, and stimming, including support for neurodivergent, ADHD, and sensory-seeking users.
+
+### Sensory Processing and Using the Sensory Toolkit
+
+- URL: https://orygen.org.au/Training/Resources/Neurodiversity/Fact-sheets/Sensory-processing-and-using-the-Sensory-Toolkit/ORYGEN_What-is-sensory-processing-and-using-sensor.aspx?ext=.pdf
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Public resource discussing sensory processing and toolkit-based support, with references to digital options such as the My Sensory Experiences Tool and Tappy Digital Fidget Tool.
