@@ -1368,3 +1368,143 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Research-oriented AAC repository exploring AI and machine learning to generate context-aware communication boards and symbol-supported stories.
+
+### EYA  AAC Communication
+
+- URL: https://apps.apple.com/us/app/eya-aac-communication/id6760553585
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iPad AAC app offering symbol- and picture-based sentence building, personalized communication boards, saved phrases, daily routines, and collaboration features for children and adults with speech difficulties.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?l=es-MX&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: AAC text-to-speech app for children and adults with autism, apraxia, and other speech difficulties; includes picture-based communication and sentence formation.
+
+### GadAAC
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: AAC app that turns a phone or tablet into a communication device for people who are non-speaking or have limited speech, including autistic users and people with other communication difficulties.
+
+### Bridge Communication App
+
+- URL: https://athelpdesk.org/bridge-communication-app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Customizable iPad communication-board app described for communication challenges including dyspraxia, autism, neurological disorders, and developmental delays.
+
+### Movement Matters DCD Research Repository
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11311881/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Research lead documenting the co-produced Movement Matters repository for accessible research summaries on Developmental Coordination Disorder/dyspraxia and related communication-access needs.
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/mx/app/make-a-choice-aac-buttons/id1295966224?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Choice-board AAC app designed with speech professionals and carers; supports large buttons, direct motor access, speech or recorded voice, and dyspraxia.[2]
+
+### Eloquia
+
+- URL: https://apps.apple.com/ec/app/eloquia/id6762588227?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: AAC communicator for autistic and neurodivergent users, featuring pictograms, quick phrases, favorites, assisted grammar, system voices, offline use, and printable PDFs.[5]
+
+### EasyAAC
+
+- URL: https://github.com/easyaac
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Cross-platform AAC project for web, iOS, and Android, supporting customizable visual communication boards and pictogram categories.
+
+### OneTalker
+
+- URL: https://codeberg.org/OneTalker/OneTalker
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Free, open-source AAC desktop application designed to provide an accessible voice and support alternative communication.
+
+### KC TalkBoard
+
+- URL: https://play.google.com/store/apps/details?id=kc.aac.app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Communication app offering an ABC letterboard, voice synthesis, interactive choice boards, and customizable phrase libraries for non-speaking users.
+
+### BridgeAAC
+
+- URL: https://github.com/bridgeaac
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source, offline-first AAC software intended to provide free communication tools on commonly available devices.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/bb/app/gestalt-aac/id6760491589?platform=iphone
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: iPhone AAC app focused on natural phrases, motor planning, calming tools, and speech support for gestalt language processors and neurodivergent learners.
+
+### Muted Labs TBoard and AAC Board Maker
+
+- URL: https://mutedlabs.com/tboard/board-builder/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Browser-based AAC board builder associated with TBoard, a typing-first AAC app designed around motor difficulty rather than symbols; boards can be created and printed without an account or installation.
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/de/app/make-a-choice-aac-buttons/id1295966224?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: AAC choice-board app designed with speech-pathology input. Large configurable buttons support users with motor difficulties and explicitly include dyspraxia among intended use cases.[9]

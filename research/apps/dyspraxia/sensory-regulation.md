@@ -668,3 +668,93 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Low-stimulation companion for neurodivergent teens and adults, featuring task breakdowns, grounding exercises, and breathing techniques.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Calming app for sensitive and neurodivergent children and adults, including a one-tap calming mode with breathing guidance and haptic pacing.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/cz/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Sensory-play app with virtual fidgets and calming activities intended to support self-regulation, sensory-seeking needs, transitions, waiting periods, and repetitive cause-and-effect interaction.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/sn/app/autism-fidgets/id6761034020?platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Interactive sensory-fidget app for autistic and neurodivergent children, offering calming, focus-supporting, and repetitive touch-based activities for transitions and quiet moments.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/ie/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Companion app for neurodivergent adults to track energy, stimulation, overload, understimulation, masking, sensory demands, and recovery patterns across daily life and work.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Neurodivergent regulation app offering real-time tools for overwhelm, shutdown, spiraling, anger, and task initiation.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/mo/app/beats-medical-dyspraxia-app/id1194965395
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, and communication activities.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/az/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: iPhone companion for neurodivergent adults to track energy, stimulation, sensory demands, masking, and recovery, with guided resets and reflection prompts.
+
+### NeuroRehub: Wellness & Support
+
+- URL: https://play.google.com/store/apps/details?id=com.andyspeaks.neurorehub.wellness&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Android app offering sensory-management tools, routine tracking, educational guidance, caregiver collaboration, and neurodivergent regulation support.
+
+### Coordination: Sensory Strategies for Neurodivergent Young People
+
+- URL: https://www.cheshireandmerseyside.nhs.uk/media/wcoj4kid/coordination.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: NHS resource covering sensory walks, fidget tools, movement and mindfulness apps, adaptive equipment, and strategies relevant to young people with dyspraxia and other neurodivergences.

@@ -708,3 +708,63 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Public TypeScript toolkit from NeuroEquality intended to support neurodiversity inclusion in emerging technologies.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/tt/app/beats-medical-dyspraxia-app/id1194965395
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, and communication activities.
+
+### Assistive Technology Apps and Extensions for Struggling Students
+
+- URL: https://www.chconline.org/resourcelibrary/assistive-technology-apps-and-extensions-for-struggling-students/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Resource list linking to tools such as Bookshare for accessible reading formats and Microsoft Seeing AI for reading printed or handwritten text aloud.
+
+### NaturalReader
+
+- URL: https://www.naturalreaders.com/webapp.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Text-to-speech web app and browser extension for reading webpages, PDFs, and other documents aloud.
+
+### Dark Reader
+
+- URL: https://darkreader.org/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Open-source browser extension and app that applies dark mode and display adjustments to websites, potentially reducing visual strain and improving readability.
+
+### Dys Keyboards
+
+- URL: https://apps.apple.com/nz/app/dys-keyboards/id6765560844
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Assistive keyboard app designed for people with dyspraxia, dyslexia, dysgraphia, attention difficulties, visual fatigue, or motor-related typing challenges.
+
+### Neurodiversity GitHub Topics
+
+- URL: https://github.com/topics/neurodivergence?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Public repository index containing neurodivergence-related projects, including accessibility learning tools, speech-to-text, AI summaries, and projects tagged for dyspraxia and cognitive accessibility.[8]
