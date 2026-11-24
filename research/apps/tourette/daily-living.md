@@ -538,3 +538,113 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Neurodivergent friendship and dating platform welcoming autistic, ADHD, Tourettes, dyslexic, and other neurodivergent users.
+
+### TicCoach
+
+- URL: https://apps.apple.com/tw/app/ticcoach/id6767370722
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Tic and Tourette support app based on CBIT principles, with guided exercises, tic and trigger tracking, educational content, grounding tools, and parent resources.
+
+### Kaboose: Neurodivergent Life
+
+- URL: https://apps.apple.com/in/app/kaboose-neurodivergent-life/id1592717370
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Community and practical-support app offering neurodivergence-focused learning, resources, peer connection, and tools for communication, overwhelm, burnout, self-advocacy, work, and everyday life.
+
+### Mariko Digital Assistant
+
+- URL: https://apps.apple.com/us/app/mariko-digital-assistant/id1645374416
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Visual daily-schedule assistant developed for neurodivergent people, families, and professionals to organize tasks, timing, priorities, and responsibilities.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public directory listing for a free visual planner and assistive-living app supporting neurodivergent daily routines, printable schedules, picture-based communication cards, caregiver collaboration, and mood tracking.
+
+### Tourette Advocate Agent
+
+- URL: https://github.com/tlennon-ie/neurodock/blob/2d9cac6/.claude/agents/tourette-advocate.md
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Open-source review agent for checking software and content for Tourette-aware design, including involuntary tics, premonitory urges, suppression fatigue, sensory triggers, and OCD/ADHD overlap.[6]
+
+### Thruday: Visual Daily Planner
+
+- URL: https://apps.apple.com/ly/app/thruday-visual-daily-planner/id1645552771
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Visual day-planning app intended for forgetful and neurodivergent users, supporting routines, independent living, and caregiver-assisted planning.
+
+### TicFlow - Trigger Diary
+
+- URL: https://apps.apple.com/pa/app/ticflow-trigger-diary/id6759267079?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Daily check-in and trigger diary for tracking relationships between tics and sleep, stress, diet, exercise, and other factors.
+
+### Tic-Tact
+
+- URL: https://babytech.jp/en/2026/11/tic-tact-app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Audio-based iPhone app designed to support people with tics through adjustable alternating sound patterns combined with music or ambient sounds; clinical efficacy is not yet established.
+
+### Hiki: Autism ADHD & ND Dating
+
+- URL: https://apps.apple.com/us/app/hiki-autism-adhd-nd-dating/id1466184914?l=ar&platform=watch
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Neurodivergent social and friendship platform welcoming autistic, ADHD, AuDHD, Tourettes, dyslexic, and other neurodivergent users.
+
+### Apps and Other Assistive Technologies
+
+- URL: https://neurodiversityunleashed.com/apps-and-other-assistive-technologies/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: A public resource page covering assistive apps and technologies for focus, organization, accessibility, and everyday support for neurodivergent people.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/gb/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Visual daily-planning and learning app designed for diverse cognitive profiles, including ADHD and autism, with executive-function support.

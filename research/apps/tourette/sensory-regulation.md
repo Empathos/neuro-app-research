@@ -649,3 +649,113 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Low-stimulation neurodivergence companion with breathing exercises, grounding techniques, check-ins, reminders, and regulation tools.
+
+### Aetherium
+
+- URL: https://github.com/voidwave-lab/Aetherium
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Open-source neurodivergent sensory-regulation and receptive-music-therapy project with desktop, PWA, iOS, and Android plans.[2]
+
+### Things We Do
+
+- URL: https://github.com/fac30/things-we-do
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Open-source progressive web application for task management, mood tracking, emotional well-being, personalized coping toolkits, and insights.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Self-regulation app for sensitive and neurodivergent children and adults with calming exercises, a sensory dial, a one-tap 'Too Much' mode, haptic breathing support, and transition tools.
+
+### Calm Fidgets: Sensory Play App
+
+- URL: https://apps.apple.com/cz/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Sensory-play app with fidgets, spinners, bubble play, gentle motion, and cause-and-effect interactions intended for calming, sensory seeking, transitions, and self-regulation.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/sn/app/autism-fidgets/id6761034020?platform=ipad
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: iPad sensory-fidget app offering calming interactive activities designed for neurodivergent children and families.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/ie/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Free app for neurodivergent adults to track energy, stimulation, sensory demands, masking, and recovery through six regulation-oriented zones.
+
+### Sensory Budget
+
+- URL: https://apps.apple.com/es/app/sensory-budget/id6813163966?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: An app for ADHD, autistic, and sensory-sensitive users that estimates the daily impact of noise, crowds, plans, sleep, and calendar activity to support pacing.[6]
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/bo/app/calm-fidgets-sensory-play/id6761034020?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: A digital sensory-play and fidget app offering interactive spinning, popping, stretching, tapping, and other activities intended to support calming and self-regulation.[7]
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Neurodivergence-focused crisis-regulation app with modes for spiraling, freezing, raging, overwhelm, and feeling stuck, including grounding, sensory reduction, breathing, and activation tools.
+
+### NeuroRehub: Wellness & Support
+
+- URL: https://play.google.com/store/apps/details?id=com.andyspeaks.neurorehub.wellness&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Android app offering sensory-management tools, routine tracking, caregiver collaboration, soundscapes, and neurodiversity-focused wellness guidance.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/az/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: iPhone energy-tracking and guided-reset app for autistic and ADHD adults, covering stimulation, masking, sensory demands, mental effort, and recovery.

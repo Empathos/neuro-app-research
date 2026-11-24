@@ -438,3 +438,53 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-10
 - Description: An emotion-support app with emotion identification, an emotion encyclopedia, breathing exercises, journaling prompts, emotional communication tools, and regulation activities.
+
+### SHIFT: Regulate & Reset
+
+- URL: https://apps.apple.com/es/app/shift-regulate-reset/id6759524862?l=ca&platform=vision
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: App Store listing for a neurodivergent crisis-regulation tool with modes for spiraling, freezing, raging, overwhelm, and getting stuck.
+
+### Animi: Emotional Intelligence
+
+- URL: https://play.google.com/store/apps/details?id=com.animiapp.animi&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Emotion-coaching app focused on emotional awareness, alexithymia, emotion vocabulary, identifying causes, and recognizing personal emotional patterns.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: ADHD/AuDHD energy and burnout tracker with emotional first-aid tools, somatic grounding, breathing visualization, and nervous-system regulation guides.
+
+### Animi: Emotional Intelligence App
+
+- URL: https://apps.apple.com/pe/app/animi-emotional-intelligence/id6443638345?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Emotion-awareness and emotional-intelligence app covering emotion identification, causes, regulation, alexithymia-related self-assessment, emotional vocabulary, and pattern tracking.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/gr/app/animi-emotional-intelligence/id6443638345
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: iPhone emotion-coaching app addressing alexithymia, emotional awareness, emotional vocabulary, emotion patterns, and regulation; positioned for neurodivergent users.

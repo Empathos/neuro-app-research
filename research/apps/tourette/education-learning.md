@@ -828,3 +828,173 @@
 - Query: tourette education-learning neurodivergent app research pass 501
 - Found: 2026-11-11
 - Description: Neurodivergent community app for friendship and connection that explicitly welcomes people with Tourette syndrome alongside autistic, ADHD, dyslexic, and other neurodivergent identities.[9]
+
+### NHS: Tourette Syndrome
+
+- URL: https://www.nhs.uk/conditions/tourette-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public health education page explaining Tourette syndrome and directing users to support groups and education-related assistance through Tourettes Action.
+
+### Tourette Association of America: Learn More About Tourette Syndrome and Tic Disorders
+
+- URL: https://tourette.org/learn-more-about-tourette-syndrome-and-tic-disorders/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Official learning and community-support entry point with awareness, webinars, training, support groups, and research-related organizational information.
+
+### Project NeuroFreedom
+
+- URL: https://github.com/dotjade/project-neurofreedom
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public GitHub repository for evidence-linked summaries and source records from research on Tourette syndrome and tic disorders.
+
+### Tourette Action Education Resources
+
+- URL: https://www.tourettes-action.org.uk/64-resources.html?rc=3
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: UK-based education resources for young people, parents, and teachers, including classroom lesson plans and a social story designed to support communication about Tourette syndrome.
+
+### Tourette Association Toolkit Archives
+
+- URL: https://tourette.org/topic/tool-kit/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official archive of practical toolkits, including teen Tourette guidance and an IEP binder organizer covering evaluations, accommodations, school records, communication, and support planning.
+
+### ticnet
+
+- URL: https://github.com/jafarbakhshaliyev/ticnet
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Research repository using machine-learning architectures to distinguish Tourette syndrome, functional tic-like behaviors, and overlapping presentations.
+
+### DisMech Tourette Syndrome Knowledge Base
+
+- URL: https://github.com/monarch-initiative/dismech/blob/main/kb/disorders/Tourette_Syndrome.yaml
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Structured, machine-readable knowledge-base entry for Tourette syndrome in the Monarch Initiative disease-mechanism project.
+
+### Tourette-stimulator
+
+- URL: https://github.com/EstebanValverde/Tourette-stimulator
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open hardware and software repository for a wristband-style median-nerve stimulation device intended for exploratory tic-management research.
+
+### Hiki: Autism ADHD & ND Dating  App Store
+
+- URL: https://apps.apple.com/fr/app/hiki-autism-adhd-nd-dating/id1466184914?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Neurodivergent friendship and dating app that explicitly welcomes people with Tourette syndrome alongside autistic, ADHD, dyslexic, and other neurodivergent users.
+
+### Dalza App
+
+- URL: https://apps.apple.com/pt/app/dalza/id6468228830?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: A collaboration and support platform for parents, teachers, and healthcare professionals working with children facing learning barriers or SEND needs, including education, assessment, treatment, monitoring, and learning resources.
+
+### Sandpit Talk
+
+- URL: https://apps.apple.com/pk/app/sandpit-talk/id6791470640
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: An inclusive-education companion for educators that provides strengths-based, neurodiversity-affirming classroom strategies through an interactive AI conversation.
+
+### Glean
+
+- URL: https://accessability.utdallas.edu/2025/04/24/top-5-apps-for-neurodivergent-college-students/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: A lecture note-taking and study-support tool highlighted for neurodivergent college students, with lecture recording, synchronized notes, transcripts, and study questions.
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/es/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: iOS tic-tracking app for logging tics, identifying triggers, and reviewing AI-generated patterns involving factors such as sleep, diet, screen time, and stress.[7]
+
+### Kaboose: Neurodivergent Life
+
+- URL: https://apps.apple.com/us/app/kaboose-neurodivergent-life/id1592717370
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: The Kaboose mobile app provides neurodivergent community groups, practical learning in video, audio, and text formats, self-advocacy resources, and tools for everyday life.
+
+### TACTICS Tourette Awareness App
+
+- URL: https://www.sbs.com.au/language/nitv-radio/en/podcast-episode/tactics-a-new-programme-to-raise-awareness-of-tourette-syndrome-in-schools/u4hhiy1u1
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: School-oriented interactive app created to raise awareness and support education about Tourette syndrome through classroom activities.
+
+### Practical Apps for Neurodivergent People
+
+- URL: https://observatory.tec.mx/edu-news/practical-apps-for-neurodivergent-people/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Educational technology overview covering apps such as Otsimo and Clear Fear for learning, disability support, emotional regulation, and neurodivergent development.
+
+### Educational Apps for Neurodivergent Kids
+
+- URL: https://sunfieldcenter.com/educational-apps-for-neurodivergent-kids/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Overview of educational apps supporting neurodivergent children across schedules and habits, emotional regulation, social skills, and social-emotional learning.
