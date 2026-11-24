@@ -1159,3 +1159,283 @@
 - Query: adhd communication-aac neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public GitHub repository for an AI communication coach aimed at autistic and neurodivergent users, combining transcription, emotion analysis, and locally generated coaching.
+
+### Inflow
+
+- URL: https://github.com/getinflow
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: ADHD management app described as science-based and developed with ADHD clinicians and psychologists.
+
+### Skelly Jelly
+
+- URL: https://github.com/chreez/skelly-jelly
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Neurodiversity-affirming ADHD focus companion providing ambient, non-disruptive support during focus states.
+
+### LoriComunica: Autism ADHD AAC
+
+- URL: https://play.google.com/store/apps/details?id=com.loriconecta.loricomunica&hl=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Google Play listing for an AAC app supporting children and adults with speech challenges, with communication through touch, blinking, or facial movements and tools for constructing sentences and expressing needs.
+
+### Pictalk Buddy: Routine & AAC
+
+- URL: https://apps.apple.com/es/app/pictalk-buddy-routine-aac/id6502835578?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official App Store listing combining visual schedules, routines, pictogram-based AAC, and text-to-speech for users including people with autism, ADHD, and other neurodevelopmental or communication conditions.
+
+### GadAAC
+
+- URL: https://apps.apple.com/ca/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Official App Store listing for a free AAC app that builds spoken messages from pictograms, supports custom photo tiles, visual schedules, First/Then sequences, accessibility labels, large touch targets, and high-contrast and dark modes.
+
+### ADHD: Advanced Divergent Human Development
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: GitHub project exploring AI-assisted support for neurodivergent people, including conversational-tone monitoring, social-cue indicators, smartwatch integration, and the NeuroVerse platform.
+
+### Inflow
+
+- URL: https://github.com/GetInflow
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Official GitHub organization for Inflow, an ADHD-management app described as science-based and developed with ADHD clinicians and psychologists.
+
+### Tiimo: To-Do List Planner
+
+- URL: https://apps.apple.com/us/app/tiimo/id1480220328
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Visual planning and routine app designed for neurodivergent users, including people with ADHD; breaks tasks into smaller steps.
+
+### GadAAC
+
+- URL: https://apps.apple.com/tw/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Free AAC app for nonspeaking or speech-limited users, offering customizable tiles, visual schedules, First/Then sequences, and accessibility settings.
+
+### Walkie Talkie AAC
+
+- URL: https://apps.apple.com/us/app/walkie-talkie-aac/id6800186644
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: iPhone and iPad communication display that shows messages in large type and speaks them aloud. Designed for outward-facing communication and usable without an account or advertisements.
+
+### All in One AAC
+
+- URL: https://apps.apple.com/pl/app/all-in-one-aac/id6753122872
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Multilingual, offline-friendly AAC app for children, teens, and adults. Supports picture-based communication for expressing needs, feelings, and ideas at home, school, therapy, and in the community.
+
+### Tiny Talk AAC
+
+- URL: https://apps.apple.com/cz/app/tiny-talk-aac/id6754395983
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: AAC app for children and adults with limited or no speech, including users with autism, apraxia, developmental language disorder, cerebral palsy, aphasia, ALS, and related conditions.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac/id909574843?platform=mac
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Flexible AAC text-to-speech tool for children and adults with autism, cerebral palsy, Down syndrome, aphasia, apraxia, and other speech difficulties. Includes picture-supported sentence construction and high-quality voices.
+
+### SteadyTouch AAC Speech Talker
+
+- URL: https://apps.apple.com/us/app/steadytouch-aac-speech-talker/id6806338883
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: AAC app combining communication, spelling, learning activities, games, and rewards for iPhone, iPad, and Apple Watch. Intended for non-speaking autistic users and other people with communication needs.
+
+### BridgeAAC Core
+
+- URL: https://github.com/BridgeAAC/core
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Free, open-source, offline-ready AAC software supporting phones, tablets, computers, and Open Board Format files.[7]
+
+### BridgeAAC
+
+- URL: https://github.com/BridgeAAC
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open-source AAC organization focused on free, offline-first communication tools across iOS, Android, Windows, macOS, Linux, ChromeOS, and the web.[9]
+
+### TwIPS2: LLM-Powered Texting Support
+
+- URL: https://dl.acm.org/doi/10.1145/3663548.3675633
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Research prototype supporting tone interpretation, emotionally aligned drafting, and alternative phrasing for potentially misunderstood messages, evaluated with autistic participants.
+
+### NeuroBridge
+
+- URL: https://dl.acm.org/doi/full/10.1145/3663547.3746337
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Online platform using generative AI to simulate cross-neurotype communication scenarios and provide feedback during interactions.
+
+### Tone Indicators: Designing Accessible CMC Cues for Neurodiverse Users
+
+- URL: http://dl.acm.org/doi/10.1145/3757677
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Research on explicit tone and intent cues for computer-mediated communication, reporting reduced cognitive load and increased confidence for neurodiverse users.
+
+### Navigating Neurodivergence with AI Chatbots
+
+- URL: https://dl.acm.org/doi/full/10.1145/3772318.3791334
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Study examining neurodivergent use of AI chatbots for communication, planning, emotional regulation, and working-memory support, alongside concerns about privacy, masking, and altered message intent.
+
+### Working Together Toward Interdependence
+
+- URL: http://dl.acm.org/doi/10.1145/3706598.3713344
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Research on chatbot-based support for balanced interactions between neurodivergent and neurotypical people, focusing on communication barriers and reciprocal assistance.
+
+### NeuroBridge
+
+- URL: https://arxiv.org/html/2509.23434v1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Online platform using generative AI to simulate cross-neurotype communication scenarios and provide feedback intended to improve understanding of autistic communication differences.[1]
+
+### Exploring Large Language Models Through a Neurodiversity Lens
+
+- URL: https://arxiv.org/html/2410.06336v1
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Research resource discussing LLM applications for neurodivergent communication, including AAC enhancement, clarification of ambiguous language, and ADHD-oriented executive coaching.[9]
+
+### ComuniTEApp
+
+- URL: https://play.google.com/store/apps/details?id=ad.spiderbezno.comuniteapp&hl=en
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Android app for autistic, ADHD, and other neurodivergent users featuring pictogram-based AAC for expressing needs, emotions, and thoughts.
+
+### This is Me Digital Self-Advocacy Tools
+
+- URL: https://journals.sagepub.com/doi/full/10.1177/10554181261488284
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Research on digital self-advocacy tools for neurodivergent people with communication support needs, including support for introductions, novel communication partners, independence, and self-advocacy.
+
+### Custom AAC: Speech Companion
+
+- URL: https://apps.apple.com/au/app/custom-aac-speech-companion/id6753180190
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Customizable AAC app for children and adults who are nonverbal or minimally verbal, explicitly supporting autism, ADHD, and other communication differences.
+
+### VocalTiles
+
+- URL: https://apps.apple.com/ca/app/vocaltiles/id6790195616
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: AI-assisted AAC app that creates visual boards from text and supports Gestalt Language Processing, social stories, routines, and neurodivergent communication.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/bb/app/gestalt-aac/id6760491589
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Phrase-based AAC tool for Gestalt Language Processors, with motor-planning support, calming tools, and natural speech features for neurodivergent learners.
