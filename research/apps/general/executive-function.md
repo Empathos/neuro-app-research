@@ -1038,3 +1038,193 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: ADHD-oriented organizer for daily tasks, routines, planning, mood tracking, and related executive-function support.
+
+### Flowcus: Focus ADHD
+
+- URL: https://apps.apple.com/us/app/focus-adhd/id6618147158?l=ar
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: An app designed for people with ADHD or ADD, focused on improving attention, organization, confidence, and sustained focus.
+
+### ADHD Planner Organizer - Alti
+
+- URL: https://apps.apple.com/do/app/adhd-planner-organizer-alti/id6738433959?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A visual planner combining task visualization, focus timers, brain dumps, routines, motivation prompts, and executive-function support for ADHD and neurodivergent users.
+
+### FocusPlay: ADHD & Focus
+
+- URL: https://apps.apple.com/co/app/focusplay-adhd-focus/id6762486364?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: An ADHD-focused app using mini-games intended to exercise focus, working recall, impulse control, and cognitive flexibility.
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A curated repository of tools and resources for neurodivergent learners, including executive-function study supports, focus timers, and digital self-management tools.
+
+### Neurodivergent Visual Organization
+
+- URL: https://github.com/jeremylongshore/tons-of-skills-marketplace/blob/main/plugins/productivity/neurodivergent-visual-org/skills/neurodivergent-visual-org/SKILL.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: An MIT-licensed Claude Code skill for creating ADHD-friendly visual task breakdowns, decision trees, realistic time estimates, and compassionate organizational tools.
+
+### Onefold: ADHD Focus & Calm
+
+- URL: https://apps.apple.com/us/app/onefold-adhd-focus-calm/id6781411336
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: An ADHD-friendly focus app offering brain dumps, next-step selection, task breakdown, gentle focus sessions, and support for overwhelm, procrastination, time blindness, and executive-function difficulties.
+
+### Diverge: ADHD Planner Todo
+
+- URL: https://apps.apple.com/us/app/diverge-adhd-planner-todo/id6747709978
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: ADHD-oriented planner that turns brain dumps into actionable tasks.[6]
+
+### ADHD-OS
+
+- URL: https://github.com/LegionForge/ADHD-OS
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public GitHub repository for a personal assistant framework intended as an external executive-function system, with frictionless capture, modular memory, and multi-agent coordination.[8]
+
+### MindBalance
+
+- URL: https://github.com/Fewdev1122/MindBalance
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Neuro-inclusive productivity project combining task management, Google Calendar integration, cognitive-load visualization, and support for time blindness.
+
+### ADHD Focus OS: Daily Planner
+
+- URL: https://apps.microsoft.com/detail/9p9vvnb7fn2k
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Windows daily planner with a spatial agenda, AI brain dump, focus timer, cognitive games, and offline support for neurodivergent users.
+
+### Goblin Tools
+
+- URL: https://apps.apple.com/es/app/goblin-tools/id6449003064?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Collection of tools for breaking overwhelming tasks into steps, clarifying messages, supporting decisions, and organizing thoughts.
+
+### Sprout: Smart ADHD Task App
+
+- URL: https://apps.apple.com/st/app/sprout-smart-adhd-task-app/id6754895173
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: An iPhone and iPad task app for ADHD and neurodivergent users featuring brain dumps, AI task breakdown, prioritization, focus support, and gamification.
+
+### Brimming ADHD
+
+- URL: https://apps.apple.com/br/app/brimming-adhd/id6469721652?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: An iPhone digital-wellness app for ADHD and neurodivergent executive dysfunction, addressing task initiation, overwhelm, shutdown, time blindness, avoidance, and decision fatigue.
+
+### Focus-Mate
+
+- URL: https://apps.apple.com/us/app/focus-mate/id6806053839?l=fr-FR
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: An iPhone and iPad AI ADHD and executive-function coach with natural-language task capture, flexible focus timers, habit support, and a companion-pet feature.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/nz/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: iOS planner and to-do app offering focus and task-starting tools for ADHD, autistic, dyslexic, and easily overwhelmed users.
+
+### Steady: Neurospicy Tools
+
+- URL: https://apps.apple.com/uy/app/steady-neurospicy-tools/id6779668649
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: iOS app offering ADHD- and neurodivergence-oriented planning tools, task breakdown, and a one-step-at-a-time focus mode.
+
+### FocusWaves
+
+- URL: https://apps.apple.com/ie/app/focuswaves/id6748599970
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Sensory-friendly productivity app with customizable reminders, accessibility features, and organization tools designed for neurodivergent users.
+
+### Diverge: ADHD Planner Todo
+
+- URL: https://apps.apple.com/it/app/diverge-adhd-planner-todo/id6747709978
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: ADHD-oriented planner addressing time blindness, executive dysfunction, energy changes, sensory overwhelm, and task organization.
+
+### Unfold
+
+- URL: https://getunfold.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: App built by and for neurodivergent people that helps users process how they feel and identify one manageable next action.

@@ -878,3 +878,193 @@
 - Query: general sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: ADHD-, autism-, and HSP-focused companion with sensory-aware settings, reduced motion, and optional haptics.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/cl/app/shift-regulate-reset/id6759524862?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: iOS regulation app designed for ADHD, autistic, and neurodivergent users, offering mode-specific interventions for spiraling, shutdown, rage, sensory overwhelm, and task paralysis.
+
+### Zenlike
+
+- URL: https://apps.apple.com/us/app/zenlike/id6779475126
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Calming and self-regulation app for sensitive and neurodivergent children and families, featuring a sensory dial, low-stimulation calm mode, breathing, feelings prompts, visual sequencing, and transition timers.
+
+### Resonance Compass
+
+- URL: https://github.com/quantum-weaver
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public project listed under the Quantum-Weaver GitHub profile; described as a local-first sensory-oriented media tool with a real-time visualizer and sensory lexicon.
+
+### AuDHD Loop
+
+- URL: https://apps.apple.com/ca/app/audhd-loop/id6772554876
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A private on-device journal for tracking sensory load, stimming, energy, and task momentum without scoring users.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/rs/app/unmasked-adult-autism-adhd/id6764218809?platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A self-discovery app with an eight-category sensory profile, regulation toolkit, masking and energy check-ins, and trend tracking for adults exploring autism or ADHD.
+
+### Nello: Autism Behavior Tracker
+
+- URL: https://apps.apple.com/ca/app/nello-autism-behavior-tracker/id6784738384
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: A strengths-based tracker for recording sensory moments, meltdowns, sleep, food, and related context, with ABC-style reports for identifying patterns.
+
+### Sensory Budget
+
+- URL: https://apps.apple.com/es/app/sensory-budget/id6813163966?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: An app for ADHD, autistic, and sensory-sensitive users to track how noise, crowds, and plans affect daily energy capacity.
+
+### Neurture: Family Support
+
+- URL: https://apps.apple.com/us/app/neurture-family-support/id6760677402
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: A family-support app with sensory-friendly activities including sand drawing, bubble-wrap popping, breathing balloons, and counting exercises.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/bo/app/calm-fidgets-sensory-play/id6761034020?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: A sensory-play app offering virtual fidgets and repetitive interactions such as spinning, popping, stretching, tapping, and twisting.
+
+### NeurOS: Neurodivergent Planner
+
+- URL: https://play.google.com/store/apps/dev?id=5622740462210402208&hl=en_US
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Android developer listing featuring a neurodivergent planner for ADHD and focus with task breakdown, timers, and sensory tools.
+
+### Signal & Support
+
+- URL: https://apps.apple.com/my/app/signal-support/id6758867206
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Private, on-device self-check-in tool for understanding functional state, communicating support needs, and receiving sensory-support reminders.
+
+### Tihi
+
+- URL: https://apps.apple.com/ae/app/tihi/id6751172848
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Silent signaling app for sensory overload and overwhelm, with preset or custom messages such as Need Quiet, Need Break, and Need Help.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/ie/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Energy and stimulation tracker for neurodivergent adults, using zones such as Overloaded and Understimulated and reflection prompts about sensory demands and recovery.
+
+### BrightMo Sensory
+
+- URL: https://apps.apple.com/cl/app/brightm%C5%8D-sensory/id6760000134?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Calm sensory-learning app for toddlers and children with autism, sensory sensitivities, and developmental differences.
+
+### MyVisualRoutine: Autism & ADHD
+
+- URL: https://apps.apple.com/az/app/myvisualroutine-autism-adhd/id6757563805
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Visual-support app for autism and ADHD featuring visual schedules, choice boards, and First/Then boards.
+
+### Calm Fidgets: Sensory Play App
+
+- URL: https://apps.apple.com/cz/app/calm-fidgets-sensory-play/id6761034020
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Sensory-play app with fidgets and calming activities intended to support self-regulation, sensory-seeking needs, transitions, and quiet independent play.
+
+### Autism Fidgets
+
+- URL: https://apps.apple.com/sn/app/autism-fidgets/id6761034020?platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Sensory-play app for autistic and neurodivergent children, offering digital fidgets and repetitive touch interactions for calming, self-regulation, transitions, and sensory-seeking needs.
+
+### Sensory Analysis Toolkit
+
+- URL: https://github.com/SankalpKat/sensory-analysis-toolkit
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open-source repository with a live Streamlit app for designing double-blind randomized sensory trials; relevant as a technical sensory-research lead, though it targets food-science testing rather than neurodivergence support.
+
+### Sensory Slimes
+
+- URL: https://apps.apple.com/no/app/sensory-slimes/id6754778899
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Digital slime-based sensory tool with stretch, poke, and pop interactions intended for calming breaks and sensory seeking.

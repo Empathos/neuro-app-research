@@ -898,3 +898,103 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: App Store listing for a visual schedule and routine-planning app designed for ADHD, autism, and users who benefit from structured daily tasks.
+
+### Neurodiversity in Business: Assistive Technologies
+
+- URL: https://neurodiversity.org/resource-library/assistive-technologies/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Resource-library page focused on assistive technologies relevant to neurodivergent users and workplace accessibility.[5]
+
+### A Scoping Review of Digital Assistive Technologies for Neurodivergent People
+
+- URL: https://pure.au.dk/ws/files/473637328/Rempel_Heimann_Prilop_2026_Scoping_review_assistive-technology.pdf
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open research review identifying technology categories including prompting systems, self-monitoring apps, AI audio, mind-mapping, assistive robots, screen readers, OCR, speech recognition, and note-taking tools.
+
+### Apple Cognitive Accessibility
+
+- URL: https://www.apple.com/lae/accessibility/cognitive/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Official overview of Assistive Access, Guided Access, Safari Reader, and other Apple features supporting comprehension, attention, communication, and reduced cognitive load.
+
+### Everway Assistive Technology
+
+- URL: https://www.everway.com/en-gb/solutions/assistive-tech/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Assistive-technology suite offering text-to-speech, writing and reading support, PDF accessibility, visual planning, and structured task tools.
+
+### AssisT  Adaptive Augmentative Tool for All Learners
+
+- URL: https://github.com/Fiavaion/AssisT
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open-source Chrome extension providing text-to-speech, speech-to-text, text simplification, and study tools for learners with dyslexia, ADHD, and motor differences.
+
+### Decide: AI Decision Assistant
+
+- URL: https://play.google.com/store/apps/details?id=com.iti.decide&hl=en
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Google Play listing for an app described as providing AI-powered daily decision support for neurodivergent users experiencing decision fatigue or paralysis.[9]
+
+### Apple Cognitive Accessibility
+
+- URL: https://www.apple.com/sg/accessibility/cognitive/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Official Apple accessibility documentation for Assistive Access and Guided Access, including simplified interfaces, high-contrast controls, larger labels, visual alternatives, and single-app focus.
+
+### Goblin Tools App
+
+- URL: https://apps.apple.com/nl/app/goblin-tools/id6449003064?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Official iOS and iPadOS app for Goblin Tools, offering neurodivergent-oriented helpers for ADHD, autism, executive dysfunction, and low-energy days.
+
+### Assistive Technology Basics
+
+- URL: https://www.understood.org/en/articles/assistive-technology
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Overview of assistive technology for reading, writing, mathematics, and other tasks, including text-to-speech tools useful for dyslexia and related needs.
+
+### Apps and Other Assistive Technologies
+
+- URL: https://neurodiversityunleashed.com/apps-and-other-assistive-technologies/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Directory covering focus, organization, transcription, text-to-speech, visual assistance, and daily-living tools relevant to neurodivergent accessibility research.
