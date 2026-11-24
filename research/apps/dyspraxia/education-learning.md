@@ -1158,3 +1158,13 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Public GitHub repository curating tools, resources, online learning platforms, and services for neurodivergent learners and educators.
+
+### Otsimo Learning App
+
+- URL: https://observatory.tec.mx/edu-news/practical-apps-for-neurodivergent-people/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: A gamified mobile learning app for children with learning disorders and disabilities, with activities targeting cognitive, motor, and social skills.

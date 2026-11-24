@@ -1488,3 +1488,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: iPhone AAC app focused on natural phrases, motor planning, calming tools, and speech support for gestalt language processors and neurodivergent learners.
+
+### Muted Labs TBoard and AAC Board Maker
+
+- URL: https://mutedlabs.com/tboard/board-builder/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Browser-based AAC board builder associated with TBoard, a typing-first AAC app designed around motor difficulty rather than symbols; boards can be created and printed without an account or installation.
+
+### Make a Choice - AAC Buttons
+
+- URL: https://apps.apple.com/de/app/make-a-choice-aac-buttons/id1295966224?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: AAC choice-board app designed with speech-pathology input. Large configurable buttons support users with motor difficulties and explicitly include dyspraxia among intended use cases.[9]

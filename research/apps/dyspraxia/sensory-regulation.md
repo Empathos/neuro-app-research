@@ -728,3 +728,33 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Home therapy app for children aged 514 with dyspraxia or developmental coordination disorder, offering gamified gross-motor, fine-motor, speech, and communication activities.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/az/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: iPhone companion for neurodivergent adults to track energy, stimulation, sensory demands, masking, and recovery, with guided resets and reflection prompts.
+
+### NeuroRehub: Wellness & Support
+
+- URL: https://play.google.com/store/apps/details?id=com.andyspeaks.neurorehub.wellness&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Android app offering sensory-management tools, routine tracking, educational guidance, caregiver collaboration, and neurodivergent regulation support.
+
+### Coordination: Sensory Strategies for Neurodivergent Young People
+
+- URL: https://www.cheshireandmerseyside.nhs.uk/media/wcoj4kid/coordination.pdf
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: NHS resource covering sensory walks, fidget tools, movement and mindfulness apps, adaptive equipment, and strategies relevant to young people with dyspraxia and other neurodivergences.

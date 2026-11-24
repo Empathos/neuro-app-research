@@ -1108,3 +1108,13 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Public organization presenting projects for neurodivergent support, including a safety and communication assistant, youth coaching microapp, workplace inclusion training, and support resources.
+
+### Beats Medical Dyspraxia App
+
+- URL: https://apps.apple.com/it/app/beats-medical-dyspraxia-app/id1194965395
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: App Store listing for a home therapy app developed with allied health professionals for children aged 514 with dyspraxia or DCD, covering gross motor, fine motor, speech, and communication activities under caregiver or professional guidance.
