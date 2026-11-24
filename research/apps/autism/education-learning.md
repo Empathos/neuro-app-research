@@ -1428,3 +1428,173 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: A companion for autistic and neurodivergent adults navigating college and workplaces, including guidance for social and educational situations.
+
+### Autism Learning Flashcards
+
+- URL: https://apps.apple.com/us/app/autism-learning-flashcards/id6759466656
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: iOS learning app for toddlers and preschoolers featuring flashcards, sounds, vocabulary, numbers, letters, animals, food, vehicles, and body parts.
+
+### A+ Autism
+
+- URL: https://apps.apple.com/us/app/a-autism/id6741469887
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Family-focused iPad education app teaching word association and identification of objects, animals, and corresponding sounds.
+
+### Autism Apps
+
+- URL: https://apps.apple.com/ca/app/autism-apps/id441600681
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Searchable directory of apps used by autistic people and people with other special needs, organized into more than 30 categories.
+
+### Autism ABC App
+
+- URL: https://apps.apple.com/se/app/autism-abc-app/id1440737015
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: App for educators and parents supporting autistic children, with playful, cognitive, and motor-skill activities.[7]
+
+### Otsimo Special Education
+
+- URL: https://hundred.org/en/innovations/otsimo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Adaptive early-learning app with skill-building games, speech practice, and AAC communication tools for children with autism and other developmental disabilities.
+
+### Learningwell.ai
+
+- URL: https://www.autism.org.uk/autism-services-directory/learningwell-ai-%E2%80%93-ai-powered-support-for-autistic-learners-parents-educators
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: AI-powered education platform for personalized support, differentiated materials, simplified content, sensory-friendly activities, and individualized learning goals for autistic learners.
+
+### NESTL Toolkit
+
+- URL: https://www.education.ox.ac.uk/project/neurodivergent-education-for-students-teaching-learning-nestl/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: University of Oxford project and practical toolkit for neurodivergent-inclusive teaching and learning, co-created with neurodivergent students and staff through workshops, interviews, and literature reviews.[9]
+
+### AutiLearn
+
+- URL: https://github.com/MeriemTerki/AutiLearn
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Open-source AI-powered e-learning platform designed to provide personalized lessons and interactive learning tools for autistic children.
+
+### Shabd
+
+- URL: https://github.com/dsciitpatna/Shabd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Open-source educational app for autistic learners that teaches words through images, pronunciation, and correctness feedback.
+
+### Pebble
+
+- URL: https://github.com/arnavbonigala/Pebble
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: AI education mobile app intended to support children with learning disabilities and autism through generated video lessons and comprehension questions.
+
+### SEAL Application
+
+- URL: https://github.com/Autism-Technology-Research-Syndicate/SEALApplication
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Research-oriented mobile application that personalizes special-education curricula using responsiveness data, computer vision, and machine learning; the repository is marked deprecated.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source adaptive learning platform designed for neurodivergent children, with individualized learning experiences, interactive activities, progress tools, and an intelligent learning companion.
+
+### LearnKit
+
+- URL: https://github.com/johnnyrobot/learnkit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Open-source neuroinclusive coursework kit containing instructional-design rules, schemas, and auditors for creating accessible learning content for autistic, ADHD, dyslexic, and cognitively diverse learners.
+
+### Neurodivergence Resource Bank Showcase
+
+- URL: https://www.aup.ac.uk/research/repository/neurodivergence-resource-bank
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Public showcase for an open-access neurodivergence resource repository intended for higher-education staff.
+
+### Autism Speech and Language
+
+- URL: https://apps.apple.com/tj/app/autism-speech-and-language/id6466824871
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Parent-guided speech and language support app with autism-focused activities, customized learning journeys, sensory adaptations, and resources on gestalt language learning.
+
+### Sherpa: Autism & ND Parenting
+
+- URL: https://apps.apple.com/ca/app/sherpa-autism-nd-parenting/id1568913225
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Parent-support app offering autism and neurodiversity learning tools, object-identification activities, and resources for autism, ADHD, sensory-processing differences, and apraxia.
+
+### Accruva ADHD Reading App
+
+- URL: https://apps.apple.com/us/app/accruva-adhd-reading-app/id6777124533
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Reading-support app offering multiple reading modes and AI study tools for ADHD, dyslexia, and neurodivergent readers.

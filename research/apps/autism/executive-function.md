@@ -1478,3 +1478,73 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Open-source project-management software designed for neurodiverse users, including people with ADHD, autism, and dyslexia; it provides visual task views and simplified workflows.[9]
+
+### Awesome Neurodivergent Learning Tools
+
+- URL: https://github.com/allinclusivetutoring/awesome-neurodivergent-learning
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Curated repository of tools and resources for neurodivergent learners, with sections covering executive-function strategies, focus timers, study skills, and autism-oriented self-management tools.[2]
+
+### Neurodivergent Visual Organization Skill
+
+- URL: https://github.com/jeremylongshore/tons-of-skills-marketplace/blob/main/plugins/productivity/neurodivergent-visual-org/skills/neurodivergent-visual-org/SKILL.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Open skill for creating neurodivergent-friendly visual organizational aids, including task breakdowns, decision trees, realistic time estimates, and overwhelm-sensitive workflows.[8]
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/nr/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: iOS app offering visual schedules, color-coded tasks, AI prioritization, gentle reminders, and a focus timer.
+
+### Lunatask
+
+- URL: https://lunatask.app/about
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Privacy-focused productivity and life-tracking app created to help neurodivergent users manage priorities, distractions, overwhelm, focus, and achievable task lists.
+
+### Neurodivergent Insights Executive Functioning Workbook
+
+- URL: https://neurodivergentinsights.com/executive-functioning-workbook/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Practical workbook with strategies for focus, planning, motivation, and task initiation, including applications for ADHD and autism.
+
+### FeelingsHelper Executive Functioning Tool
+
+- URL: https://feelingshelper.com/tools/executive-functioning
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Free browser-based tool for ADHD and autistic adults that helps build external systems for prioritization, task initiation, working memory, switching, and completion; entries remain local to the browser.
+
+### Executive Function Club
+
+- URL: https://executivefunction.club/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Community-based support system for planning, motivation, follow-through, shutdown days, and gentle body doubling, including a free low-pressure executive-function starter kit.

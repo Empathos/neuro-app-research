@@ -939,16 +939,6 @@
 - Found: 2026-10-24
 - Description: Autism behavior and sensory tracker for parents, autistic teens, and adults; logs meltdowns, shutdowns, sensory moments, sleep, food, and regulation patterns.
 
-### Spoons - Autism Energy Tracker
-
-- URL: https://play.google.com/store/apps/details?id=app.getspoons.spoons&hl=en-US
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: sensory-regulation
-- Query: autism sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-24
-- Description: Energy-tracking app for autistic adults focused on burnout, masking fatigue, shutdowns, sensory overload, and daily energy patterns.
-
 ### Calm Apps for Kids Who See the World Differently
 
 - URL: https://gentle-motion.com/
@@ -1168,3 +1158,163 @@
 - Query: autism sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-12
 - Description: An Android sensory-play app featuring virtual fidgets, pop-it interactions, sorting activities, stretching, tapping, and other calming exercises.
+
+### Unmasked: Adult Autism & ADHD
+
+- URL: https://apps.apple.com/rs/app/unmasked-adult-autism-adhd/id6764218809?platform=watch
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Adult self-discovery and support app featuring an eight-category sensory profile, regulation strategies, social scripts, masking and energy check-ins, and trend tracking.
+
+### IBCCES Accessibility App
+
+- URL: https://apps.apple.com/de/app/ibcces-accessibility-app/id6475414252
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Accessibility-planning app that includes autism and sensory information for travel, entertainment, and participating venues.
+
+### Autism Sensory Games & Toys
+
+- URL: https://apps.apple.com/jp/app/autism-sensory-games-toys/id1561581241?l=en-US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: iPad app offering sensory games and calming activities intended to support relaxation and daily self-regulation.
+
+### Aetherium
+
+- URL: https://github.com/voidwave-lab/Aetherium/blob/main/TRANSPARENCY.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public open-source project described as a neurodivergent sensory-regulation and receptive music-therapy environment.
+
+### Calm Fidgets: Sensory Play
+
+- URL: https://apps.apple.com/bo/app/calm-fidgets-sensory-play/id6761034020?l=en-GB&platform=watch
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Apple app providing virtual fidgets and calming sensory activities intended to support self-regulation, sensory-seeking needs, transitions, and quiet independent play.
+
+### BridgeAAC Core
+
+- URL: https://github.com/BridgeAAC/core/wiki
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Open-source AAC project with a communication board and a high-contrast, soft-color sensory mode intended to reduce glare and visual fatigue or overload.
+
+### Otsimo | Special Education 1+
+
+- URL: https://apps.apple.com/ec/app/otsimo-special-education-1/id1084723774?l=en-GB&platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Special-education app providing autism-focused games and social stories for people with autism and other developmental or learning differences.
+
+### Nomi: Autism Parents Support
+
+- URL: https://apps.apple.com/au/app/nomi-autism-parents-support/id6758640566
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Parent-support app for logging triggers, intensity, duration, environment, foods, and sensitivities, while creating visual routines and accessing sensory-processing guidance.
+
+### MeltdownMap: AI Autism Tracker
+
+- URL: https://apps.apple.com/ca/app/meltdownmap-ai-autism-tracker/id6781921346
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Autism tracking app for recording meltdown triggers, intensity, duration, location, sleep, sensory input, and helpful interventions to identify patterns and support therapy discussions.
+
+### Autism Play Garden
+
+- URL: https://apps.apple.com/tw/app/autism-play-garden/id6751961935?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Ad-free app with therapist-informed activities including AAC, sensory calming games, tracing, coloring, puzzles, and daily-living supports.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Regulation tool for autistic, ADHD, and other neurodivergent users with modes for spiraling, overwhelm, sensory reduction, grounding, and breathing.
+
+### Tihi
+
+- URL: https://apps.apple.com/ae/app/tihi/id6751172848
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Minimalist silent-communication app for sending preset or custom alerts such as sensory overload, need quiet, need a break, or need help.
+
+### Autismally
+
+- URL: https://autismally.co/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Daily support app for autistic people that helps plan tasks, manage sensory input, communicate needs, and track sound, light, energy, triggers, and preferred regulation tools.
+
+### BrightMo Sensory
+
+- URL: https://apps.apple.com/cl/app/brightm%C5%8D-sensory/id6760000134?l=en-GB&platform=vision
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: iPhone and iPad app offering gentle, distraction-free sensory learning activities for toddlers and children with autism, sensory sensitivities, and developmental differences.
+
+### Build Your Sensory Toolkit
+
+- URL: https://www.adult-autism-assessment.com/worksheets/build-your-sensory-toolkit
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Interactive sensory-profile and regulation worksheet for identifying sensory-seeking and sensory-overwhelming patterns and assembling individualized coping strategies.[3]
+
+### Hailo: Learning Companion
+
+- URL: https://apps.apple.com/no/app/hailo-learning-companion/id6762992071
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Sensory-friendly child companion combining calm learning, AAC, and daily routines for autistic and sensory-sensitive children.[10]
