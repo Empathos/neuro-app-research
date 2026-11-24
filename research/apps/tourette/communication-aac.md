@@ -1028,3 +1028,23 @@
 - Query: tourette communication-aac neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Text-focused AAC app supporting touch and head tracking, with customizable words, phrases, categories, and AI-assisted conversation.
+
+### Gestalt AAC
+
+- URL: https://apps.apple.com/bb/app/gestalt-aac/id6760491589?platform=iphone
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Phrase-based AAC tool for Gestalt Language Processors, with motor-planning, calming, and natural-speech features.[6]
+
+### Proloquo4Text AAC
+
+- URL: https://apps.apple.com/us/app/proloquo4text-aac/id751646884
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Text-to-speech AAC app for literate adults, teens, and children who cannot reliably use their voice; supports customizable communication across developmental and acquired conditions.

@@ -1078,3 +1078,23 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Support app for families and professionals working with neurodivergent children, including personalized routines, social-emotional tools, visual schedules, and sharing with caregivers, educators, and therapists.
+
+### ORBIT and Neupulse Digital Technologies
+
+- URL: https://www.nice.org.uk/guidance/HTG748/chapter/2-the-technologies
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: NICE overview of digital technologies for chronic tic disorders and Tourette syndrome, including ORBIT, a guided online behavioral intervention for young people and parents or carers, and Neupulse with a companion phone app.
+
+### TicTrainer
+
+- URL: https://tictrainer.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Web-based tool for reward-enhanced exposure and response prevention (RE-ERP), designed to support tic-suppression practice with a patient interface and clinician or trained-observer monitoring.

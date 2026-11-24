@@ -978,3 +978,23 @@
 - Query: tourette education-learning neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: School-oriented interactive app created to raise awareness and support education about Tourette syndrome through classroom activities.
+
+### Practical Apps for Neurodivergent People
+
+- URL: https://observatory.tec.mx/edu-news/practical-apps-for-neurodivergent-people/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Educational technology overview covering apps such as Otsimo and Clear Fear for learning, disability support, emotional regulation, and neurodivergent development.
+
+### Educational Apps for Neurodivergent Kids
+
+- URL: https://sunfieldcenter.com/educational-apps-for-neurodivergent-kids/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Overview of educational apps supporting neurodivergent children across schedules and habits, emotional regulation, social skills, and social-emotional learning.

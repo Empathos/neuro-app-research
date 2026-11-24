@@ -739,3 +739,23 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Neurodivergence-focused crisis-regulation app with modes for spiraling, freezing, raging, overwhelm, and feeling stuck, including grounding, sensory reduction, breathing, and activation tools.
+
+### NeuroRehub: Wellness & Support
+
+- URL: https://play.google.com/store/apps/details?id=com.andyspeaks.neurorehub.wellness&pcampaignid=web_share
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Android app offering sensory-management tools, routine tracking, caregiver collaboration, soundscapes, and neurodiversity-focused wellness guidance.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/az/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: iPhone energy-tracking and guided-reset app for autistic and ADHD adults, covering stimulation, masking, sensory demands, mental effort, and recovery.

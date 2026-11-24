@@ -638,3 +638,13 @@
 - Query: tourette daily-living neurodivergent app research pass 502
 - Found: 2026-11-21
 - Description: A public resource page covering assistive apps and technologies for focus, organization, accessibility, and everyday support for neurodivergent people.
+
+### Tiimo  Visual Daily Planner
+
+- URL: https://apps.apple.com/gb/app/tiimo-visual-daily-planner/id1480220328
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: daily-living
+- Query: tourette daily-living neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Visual daily-planning and learning app designed for diverse cognitive profiles, including ADHD and autism, with executive-function support.

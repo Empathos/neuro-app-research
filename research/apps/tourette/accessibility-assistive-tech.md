@@ -688,3 +688,13 @@
 - Query: tourette accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Practical toolkit for designing and auditing products for neurodivergent and cognitively diverse users, including profiles, an accessibility checklist, content guidance, CSS tokens, and WCAG/COGA mapping.
+
+### ModMath
+
+- URL: https://www.modmath.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: accessibility-assistive-tech
+- Query: tourette accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Digital math workspace referenced by the Tourette Association as an assistive-technology option for organizing mathematical work.
