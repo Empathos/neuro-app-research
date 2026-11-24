@@ -1428,3 +1428,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Adaptive learning platform designed to provide accessible, engaging, and personalized education for neurodivergent children.
+
+### Adaptify: AI Learning for Neurodiverse Learners
+
+- URL: https://github.com/SheaGuev/Microsoft-Hackathon-AI-LLMs-Neurodiverse-Learners
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Hackathon project that adapts learning materials into more comprehensible formats for neurodiverse learners using AI-driven customization.
+
+### Microsoft Accessibility Tools for Neurodiversity
+
+- URL: https://support.microsoft.com/en-gb/accessibility/accessibility-tools-for-neurodiversity
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Official Microsoft guidance covering accessibility features for dyslexia, autism, ADHD, and other cognitive disabilities, including learning tools in OneNote.

@@ -1058,3 +1058,13 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Structured app-based mindfulness and autism-parenting intervention developed for parents and caregivers of autistic children.
+
+### CSD Starship
+
+- URL: https://apps.apple.com/us/app/csd-starship/id6496357132
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Parent-focused ABA support app featuring clinician-recommended lessons and clinician monitoring of child progress.

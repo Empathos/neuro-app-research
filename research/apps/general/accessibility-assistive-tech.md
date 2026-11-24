@@ -978,3 +978,23 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-23
 - Description: Official iOS and iPadOS app for Goblin Tools, offering neurodivergent-oriented helpers for ADHD, autism, executive dysfunction, and low-energy days.
+
+### Assistive Technology Basics
+
+- URL: https://www.understood.org/en/articles/assistive-technology
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Overview of assistive technology for reading, writing, mathematics, and other tasks, including text-to-speech tools useful for dyslexia and related needs.
+
+### Apps and Other Assistive Technologies
+
+- URL: https://neurodiversityunleashed.com/apps-and-other-assistive-technologies/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Directory covering focus, organization, transcription, text-to-speech, visual assistance, and daily-living tools relevant to neurodivergent accessibility research.

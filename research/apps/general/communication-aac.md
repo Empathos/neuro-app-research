@@ -1598,3 +1598,13 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-11-23
 - Description: Free, open-source AAC desktop application created to provide an accessible voice for people who need communication support; licensed under GPL-3.0.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/gb/app/avaz-aac/id909574843
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Customizable AAC communication aid with picture-based sentence construction and text-to-speech support for autistic people and others with speech delays.

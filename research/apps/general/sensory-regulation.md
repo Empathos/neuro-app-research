@@ -1058,3 +1058,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-23
 - Description: Open-source repository with a live Streamlit app for designing double-blind randomized sensory trials; relevant as a technical sensory-research lead, though it targets food-science testing rather than neurodivergence support.
+
+### Sensory Slimes
+
+- URL: https://apps.apple.com/no/app/sensory-slimes/id6754778899
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Digital slime-based sensory tool with stretch, poke, and pop interactions intended for calming breaks and sensory seeking.
