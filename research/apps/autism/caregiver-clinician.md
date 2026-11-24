@@ -1228,3 +1228,53 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Digital health platform focused on autism and other neurodivergences, designed to support individuals and caregivers with personalized, ongoing care.
+
+### Autism Love
+
+- URL: https://apps.apple.com/in/app/autism-love/id6758582988?l=pa
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Parent-focused autism journal and organizer for routines, sleep, food, sensory needs, communication, clinician questions, therapy notes, and IEP preparation.
+
+### BRIDGES Engage
+
+- URL: https://play.google.com/store/apps/details?id=com.neuroai.bridges&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Clinician- and neurodiversity-expert-developed Android app offering parents and caregivers of autistic children routines, anxiety-reduction tools, and daily guidance.
+
+### Pause: Neurodivergent Parent Version
+
+- URL: https://warwick.ac.uk/research/spotlights/digital/news-events/fundedprojects/nathan/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Research-developed adaptation of the Pause app intended to improve accessibility and usability of evidence-based parenting programs for neurodivergent parents.
+
+### Brain in Hand
+
+- URL: https://www.bi.team/wp-content/uploads/2025/02/BIT-Working-Paper-No.-8.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Digital support service and app for people including autistic and ADHD users, designed to support daily functioning, anxiety management, and quality of life.
+
+### Molehill Mountain
+
+- URL: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/aur.70153
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Autism-adapted app-based anxiety-management intervention developed with autistic people and evaluated in a feasibility study.

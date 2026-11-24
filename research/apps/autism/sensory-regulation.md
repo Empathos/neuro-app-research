@@ -1308,3 +1308,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Interactive sensory-profile and regulation worksheet for identifying sensory-seeking and sensory-overwhelming patterns and assembling individualized coping strategies.[3]
+
+### Hailo: Learning Companion
+
+- URL: https://apps.apple.com/no/app/hailo-learning-companion/id6762992071
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Sensory-friendly child companion combining calm learning, AAC, and daily routines for autistic and sensory-sensitive children.[10]

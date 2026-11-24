@@ -1368,3 +1368,23 @@
 - Query: autism accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Accessible keyboard from AssistiveWare intended for users with fine-motor challenges, allowing a more adaptable keyboard across apps.[8]
+
+### Autism Speaks: Assistive Technology
+
+- URL: https://www.autismspeaks.org/assistive-technology
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Public assistive-technology resource covering technology access and examples of tools that can increase independence for autistic people.
+
+### Avaz AAC
+
+- URL: https://apps.apple.com/us/app/avaz-aac-lifetime-edition/id558161781
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: accessibility-assistive-tech
+- Query: autism accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Assistive communication app using pictures and text for children and adults with autism, speech difficulties, and related conditions.

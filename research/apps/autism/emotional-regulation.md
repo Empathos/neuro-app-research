@@ -1108,3 +1108,43 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Neurodivergent-oriented workbook featuring emotional regulation, grounding, sensory-based mindfulness, distress-tolerance techniques, feelings-wheel exercises, and journaling prompts.
+
+### KeepCalm: Supporting Emotion Regulation in Children on the Autism Spectrum
+
+- URL: https://www.researchprotocols.org/2023/1/e45852/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Digital mental-health app research protocol using wearable biosensing, stress detection, individualized regulation strategies, and educator support for autistic students.
+
+### Mood Toolbox
+
+- URL: https://apps.apple.com/in/app/mood-toolbox/id1342614348
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: App offering games and strategies for emotional intelligence and mood regulation, with a stated focus on children with autism and special needs.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/gr/app/animi-emotional-intelligence/id6443638345
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Emotion-awareness app addressing alexithymia and emotional regulation, with emotion vocabulary, journaling, breathing, and regulation exercises relevant to neurodivergent users.
+
+### Now & Next Picture Routine App
+
+- URL: https://www.autism.org.uk/autism-services-directory/now-next-picture-routine-app
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Picture-based routine app for autistic and ADHD children ages 316, supporting visual schedules, transitions, sensory needs, and emotional regulation.

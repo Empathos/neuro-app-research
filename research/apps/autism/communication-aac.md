@@ -1508,3 +1508,23 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Multiplatform, free and open-source AAC app for non-speaking people, using customizable boards with images and audio.[4]
+
+### LAMP Words for Life
+
+- URL: https://lampwflapp.com/apps/lamp-app-discover
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: AAC app using Language Acquisition through Motor Planning and Unity language systems, designed for people with autism and other developmental disabilities.
+
+### Matraquinha AAC Communication App
+
+- URL: https://www.matraquinha.com.br/en/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: AAC app for autistic children that supports expressing wants, feelings, and needs; available for iOS and Android.

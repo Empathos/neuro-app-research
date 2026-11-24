@@ -1558,3 +1558,43 @@
 - Query: autism education-learning neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Open-source neuroinclusive coursework kit containing instructional-design rules, schemas, and auditors for creating accessible learning content for autistic, ADHD, dyslexic, and cognitively diverse learners.
+
+### Neurodivergence Resource Bank Showcase
+
+- URL: https://www.aup.ac.uk/research/repository/neurodivergence-resource-bank
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Public showcase for an open-access neurodivergence resource repository intended for higher-education staff.
+
+### Autism Speech and Language
+
+- URL: https://apps.apple.com/tj/app/autism-speech-and-language/id6466824871
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Parent-guided speech and language support app with autism-focused activities, customized learning journeys, sensory adaptations, and resources on gestalt language learning.
+
+### Sherpa: Autism & ND Parenting
+
+- URL: https://apps.apple.com/ca/app/sherpa-autism-nd-parenting/id1568913225
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Parent-support app offering autism and neurodiversity learning tools, object-identification activities, and resources for autism, ADHD, sensory-processing differences, and apraxia.
+
+### Accruva ADHD Reading App
+
+- URL: https://apps.apple.com/us/app/accruva-adhd-reading-app/id6777124533
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: education-learning
+- Query: autism education-learning neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Reading-support app offering multiple reading modes and AI study tools for ADHD, dyslexia, and neurodivergent readers.

@@ -1108,3 +1108,13 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Official app with tools that break overwhelming tasks, confusing messages, difficult decisions, and unstructured thoughts into manageable steps; designed with neurodivergent users in mind.
+
+### Mobile Application for Independence in Daily Routines  Pilot Report
+
+- URL: https://accessible-eu-centre.ec.europa.eu/document/download/ea710e41-61d3-4a8a-a5c7-9d9b1b242113_en?filename=SLOVENIA_REFERENCE_6_Mobile+Application.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Public report describing development, testing, and evaluation of a mobile app supporting executive functions, visual reminders, time management, and transition toward independent living for autistic and/or ADHD adolescents.
