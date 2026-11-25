@@ -1218,3 +1218,233 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-13
 - Description: Children's learning app for ages 28 with activities spanning reading, mathematics, engineering, mindfulness, communication, social skills, and attention, including content tailored to autism, ADHD, and dyslexia.[6]
+
+### Learn to Read Autism ADHD
+
+- URL: https://apps.apple.com/us/app/learn-to-read-autism-adhd/id6504024977
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Structured phonics and sight-word app designed for autistic and ADHD learners, featuring one-task lessons, predictable routines, minimal sensory input, text-to-speech, offline use, and no tracking.
+
+### Inclusive Media and Design Centre Repositories
+
+- URL: https://github.com/orgs/IMDC/repositories
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public repository collection including Webmoti-React, described as a hybrid learning platform for neurodivergent students, plus other accessibility-focused projects.
+
+### Rowan University Disability-Specific Resources
+
+- URL: https://education.rowan.edu/lrcsouth/online-resource-site/inclusive_ed/disability-specific.html
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Educational resource hub for parents, teachers, and learners, including AAC communication cards, social stories, academic materials, regulation activities, and transition resources.
+
+### GitHub Inclusive Education Topic
+
+- URL: https://github.com/topics/inclusive-education
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Repository directory featuring inclusive-learning projects such as ReadEase, a dyslexia-focused platform with multisensory modules, gamified phonics, voice-assisted notes, and immersive reading.
+
+### Neurodiversity Learning Dataset
+
+- URL: https://github.com/ArosioGiada/neurodiversity-learning-patterns/blob/main/student_performance_dataset.csv
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public CSV dataset associated with neurodiversity learning-pattern research and student-performance analysis.
+
+### Assistive Technology for Accessible Education
+
+- URL: https://school-education.ec.europa.eu/en/discover/news/assistive-technology-accessible-education?prefLang=fr
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: European Commission education resource describing text-to-speech, AAC, task organizers, focus-enhancing apps, and other assistive technologies for learners with dyslexia, autism, ADHD, and related needs.
+
+### Ocxly
+
+- URL: https://github.com/ocxly/Ocxly
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Public research and development repository focused on AI, education, human-centered technology, accessibility, neurodiversity, language learning, and ADHD focus tools.
+
+### Geniuslane Learning
+
+- URL: https://apps.apple.com/us/app/geniuslane-learning/id1663921934
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: App offering CPD-approved neurodiversity and neurodevelopment courses for parents, professionals, and schools, with step-by-step guidance for supporting children.
+
+### Lingokids Neuroinclusive Learning Activities
+
+- URL: https://apps.apple.com/es/iphone/story/id1740497408?l=en-GB
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Apple App Store feature describing Lingokids activities for children ages 28, including content supporting social skills, emotion recognition, movement, focus, and attention for neurodivergent learners.
+
+### NeuroEquality Community Repository
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Organization overview documenting public projects such as READY, Safe4All, STAR, and other inclusion-focused applications and resources.
+
+### Everway Education Software
+
+- URL: https://www.everway.com/education/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Education software suite offering literacy support, accessible mathematics, PDF annotation, visual learning, communication tools, special-education curriculum, and IEP management.
+
+### AI for Disabled and Neurodivergent Learners FAQ
+
+- URL: https://github.com/edtechdev/aied/blob/main/content/ko/faqs/ai-disabled-neurodivergent-learners.md
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Open repository resource addressing how AI can support disabled and neurodivergent learners in educational settings.
+
+### Study Skills for Neurodivergent Students
+
+- URL: https://libguides.derby.ac.uk/c.php?g=720403&p=5227958
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: University resource listing learning-support tools such as Anki spaced-repetition flashcards and calming soundscape apps for study environments.
+
+### Ezducate
+
+- URL: https://www.ezducate.ai/lp/edtech-neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Assistive learning platform offering visual supports, differentiated content, visual schedules, social narratives, plain-language adaptations, and picture supports.
+
+### Brain in Hand
+
+- URL: https://braininhand.co.uk/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Web and mobile support tool for managing anxiety, overwhelm, routines, problem-solving, and task memory, with applications for neurodivergent learners.
+
+### LearnKit
+
+- URL: https://github.com/johnnyrobot/learnkit
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Neuroinclusive coursework toolkit offering evidence-based rules, schemas, and auditors for designing and generating instructional content across subjects.
+
+### Top Apps for Neurodivergent College Students
+
+- URL: https://accessability.utdallas.edu/2025/04/24/top-5-apps-for-neurodivergent-college-students/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: University accessibility guide covering lecture note-taking, transcription, task management, focus, reading, and executive-function support apps.
+
+### The Brainy App
+
+- URL: https://www.neurodiversityeducationacademy.org/post/the-brainy-app
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Free educational app designed to help users understand their strengths, engagement preferences, learning approaches, communication styles, and problem-solving patterns.
+
+### Neurodiversity Education Resources
+
+- URL: https://www.twinkl.com.au/collection/neurodiversity-education
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Educational collection with research sheets, classroom activities, display materials, and guidance for inclusive learning environments.
+
+### IN-hub
+
+- URL: https://toolsforschools.info/inhub/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: School-focused directory of inclusive education resources, including literacy, numeracy, emotional-regulation, sensory, and neurodiversity curricula.
+
+### Noggin
+
+- URL: https://github.com/Noggin-Labs/Noggin
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Adaptive learning platform designed to provide accessible, engaging, and personalized education for neurodivergent children.
+
+### Adaptify: AI Learning for Neurodiverse Learners
+
+- URL: https://github.com/SheaGuev/Microsoft-Hackathon-AI-LLMs-Neurodiverse-Learners
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Hackathon project that adapts learning materials into more comprehensible formats for neurodiverse learners using AI-driven customization.
+
+### Microsoft Accessibility Tools for Neurodiversity
+
+- URL: https://support.microsoft.com/en-gb/accessibility/accessibility-tools-for-neurodiversity
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Official Microsoft guidance covering accessibility features for dyslexia, autism, ADHD, and other cognitive disabilities, including learning tools in OneNote.

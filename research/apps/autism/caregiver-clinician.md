@@ -9,16 +9,6 @@
 - Found: 2026-06-20
 - Description: UT San Antonios AI-supported caregiver app for children with autism, designed to help parents practice behavioral skills and receive feedback outside clinic sessions.
 
-### Safe4All
-
-- URL: https://safe4allapp.com
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: caregiver-clinician
-- Query: autism caregiver app
-- Found: 2026-06-20
-- Description: An autism and IDD management and communication app for people with autism and their caregivers, with task management and secure communications for daily routines.
-
 ### Autism and Beyond
 
 - URL: https://nyulangone.org/news/researchers-find-autism-screening-app-caregiver-friendly-produces-reliable-scientific-data
@@ -1088,3 +1078,193 @@
 - Query: autism caregiver-clinician neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Open research paper examining caregiver and clinician needs, attitudes, and expectations for a mobile caregiver-mediated intervention.
+
+### SenseToKnow autism screening app research
+
+- URL: https://dl.acm.org/doi/10.1145/3613905.3650995
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Research on a portable autism screening application usable by caregivers at home or in primary-care clinics, supporting caregiver- and clinician-informed developmental assessment.
+
+### TRIP App Development and Usability Study
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13235980/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Open-access research article describing systematic, evidence-informed development and clinician-led co-design of a caregiver psychoeducation app for autism support.[5]
+
+### YAPP (Your Accessible Personal Platform)
+
+- URL: https://apps.apple.com/no/app/yapersonal-platform/id6759991282?l=nb
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: AAC platform for nonspeaking and low-verbal users, with clinician analytics, caregiver-device mirroring, prompts, alerts, and sensory-friendly interface options.
+
+### Au'commadate
+
+- URL: https://apps.apple.com/co/app/aucommadate/id6762436895
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Touch-based communication and family-support app for nonspeaking or minimally verbal users, designed for use by families, caregivers, educators, and speech-language clinicians.
+
+### Adappt co-creation study
+
+- URL: https://repository.uantwerpen.be/docman/irua/e59e96motoM65
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Research lead describing a smartphone app co-created with parents of neurodivergent children and mental-health professionals to support parental well-being and adaptation.
+
+### WellBe assistive smartwatch application
+
+- URL: https://academic.oup.com/iwc/advance-article/doi/10.1093/iwaf037/8276143
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Research lead for an assistive smartwatch app supporting emotion regulation in neurodivergent adults through self-report, breathing prompts, coping strategies, and help-seeking options.
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Family support app for autism, ADHD, sensory processing differences, and other neurodivergent profiles, including observation logs, therapist and IEP summaries, resource materials, and structured support plans.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/no/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Neuroaffirming support app for caregivers, neurodivergent adults, allied-health professionals, and educators; organizes observations, documents, medications, and support-team information.
+
+### New Jersey Autism Center of Excellence
+
+- URL: https://njace.us/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Public autism research and clinical resource organization involving autistic people and caregivers in diagnosis, research, and management, with plans for a statewide research database connecting families and researchers.
+
+### Understanding Zoe
+
+- URL: https://apps.apple.com/au/app/understanding-zoe/id6742121622
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Neuroaffirming support for families and neurodivergent adults, including care coordination, document analysis, medication and observation tracking, school and therapy support, and allied-health collaboration.
+
+### Skill Bloom
+
+- URL: https://www.standard.co.uk/business/axastartupangel/axa-neurodivergent-children-app-social-b1305023.html
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: App for children with neurodivergent support needs that generates personalized social scenarios and includes appointment management, progress reports, and goal-setting for families and professionals.
+
+### Canvas Dx caregiver-clinician workflow study
+
+- URL: https://formative.jmir.org/2026/1/e98697/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Public research report on integrating an FDA-authorized digital autism diagnostic tool into developmental-pediatrics workflows using caregiver questionnaires, clinician questionnaires, and caregiver-uploaded home videos.[10]
+
+### VARA by Autism 360
+
+- URL: https://vara.autism360.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Autism parenting support app offering goal-setting, daily strategies, diary insights, caregiver tracking, monthly reports for carers or therapists, and clinician-guided answers.
+
+### Tismoo
+
+- URL: https://tismoo.com.br/en/app-en/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Digital health platform focused on autism and other neurodivergences, designed to support individuals and caregivers with personalized, ongoing care.
+
+### Autism Love
+
+- URL: https://apps.apple.com/in/app/autism-love/id6758582988?l=pa
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Parent-focused autism journal and organizer for routines, sleep, food, sensory needs, communication, clinician questions, therapy notes, and IEP preparation.
+
+### BRIDGES Engage
+
+- URL: https://play.google.com/store/apps/details?id=com.neuroai.bridges&hl=en_US
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Clinician- and neurodiversity-expert-developed Android app offering parents and caregivers of autistic children routines, anxiety-reduction tools, and daily guidance.
+
+### Pause: Neurodivergent Parent Version
+
+- URL: https://warwick.ac.uk/research/spotlights/digital/news-events/fundedprojects/nathan/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Research-developed adaptation of the Pause app intended to improve accessibility and usability of evidence-based parenting programs for neurodivergent parents.
+
+### Brain in Hand
+
+- URL: https://www.bi.team/wp-content/uploads/2025/02/BIT-Working-Paper-No.-8.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Digital support service and app for people including autistic and ADHD users, designed to support daily functioning, anxiety management, and quality of life.
+
+### Molehill Mountain
+
+- URL: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/aur.70153
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: caregiver-clinician
+- Query: autism caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Autism-adapted app-based anxiety-management intervention developed with autistic people and evaluated in a feasibility study.

@@ -888,3 +888,213 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Family and professional support app for neurodivergent children, offering personalized support manuals, calming routines, visual schedules, and sharing with caregivers, educators, and therapists.
+
+### Neurodivergence GitHub Topic
+
+- URL: https://github.com/topics/neurodivergence?o=asc&s=stars
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Browsable directory of public repositories related to neurodivergence, including conversational support systems and local-first tools for ADHD, autism, and related needs.
+
+### Tourettes Action Resource Library
+
+- URL: https://www.tourettes-action.org.uk/64-resources.html?rc=999&ta=no
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Public resource library with materials for children, parents, teachers, and caregivers, plus information about research into online support groups for tic disorders and Tourette syndrome.
+
+### knotted.
+
+- URL: https://play.google.com/store/apps/details?id=de.knotted.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Android app offering neurodivergence information, practical daily-life tools, sensory-product recommendations, and moderated community spaces for connection and peer support.
+
+### Treatment Options & Clinician Tools
+
+- URL: https://www.catalight.org/treatment-options
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Public clinician-tools page describing caregiver-participatory treatment approaches and tools for adapting care to individual and family needs.
+
+### Hazel Conversational Agent for Neurodivergent Caregivers
+
+- URL: https://www.nature.com/articles/s41598-026-44254-5
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Research publication evaluating Hazel, a conversational agent intended to support parents and carers of autistic and neurodivergent children, including assessment of safety, empathy, and utility.
+
+### Teens, Tics, and Tech
+
+- URL: https://www.acamh.org/blog/teens-tics-and-tech-camilla-babbage-in-conversation-tourettes-syndrome/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Research lead on a digital self-help app for young people with Tourette syndrome, developed with input from young people, carers, and professionals; proposed features include reminders, coping, calming, and psychoeducation.
+
+### The Role of Digital Tools in Meeting the Needs of Adults With Tourette Syndrome
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/12919968
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Human-centered design research identifying demand for accessible tic and trigger monitoring, mental-health support, and tools that can involve family or clinical support.
+
+### Qualitative Survey Study of User Experiences of Online Support Communities
+
+- URL: https://formative.jmir.org/2025/1/e66912
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Recent study examining how online support communities may improve mental well-being, self-esteem, tic acceptance, peer recognition, and social connection.
+
+### Neuronet-app
+
+- URL: https://github.com/psychological-safety-yogis/Neuronet-app
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Public GitHub repository for a neurodiversity-oriented application that explicitly includes Tourette syndrome among the neurocognitive differences it aims to support.
+
+### TicSafe
+
+- URL: https://apps.apple.com/jp/app/ticsafe/id6738706091?l=en-US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: iOS app developed by a person with Tourette syndrome, offering medication guidance, communication support for medical professionals and therapists, tic-management strategies, and educational resources.
+
+### Neurodivergent Insights Parents & Caregivers
+
+- URL: https://neurodivergentinsights.com/parents-and-caregivers/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Caregiver resources addressing neurodivergent childrens sensory needs, emotions, motivation, and caregiver burnout.[6]
+
+### Neurodivergent Insights Free Resources
+
+- URL: https://neurodivergentinsights.com/free-resources/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Free research-informed and neurodivergent-affirming tools created for ADHD and autism support, with potential relevance to caregiver and clinician research.[7]
+
+### Neurodiversity-Affirming Care and Support Toolkit
+
+- URL: https://static1.squarespace.com/static/632462bb88e23c400c82d41a/t/69f0c3262575761be1260279/1777386278215/NdC_NdAffirming%2BCare%2Band%2BSupport_Toolkit_V14.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Public toolkit for neurodiversity-affirming care across health, education, and social care, including discussion prompts, care-plan templates, safety plans, and coordinated support tools.[9]
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/in/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Tic and Tourette logging tool offering trigger tracking, calming exercises, clinical PDF reports, and family synchronization for multiple caregivers.[9]
+
+### Adappt
+
+- URL: https://repository.uantwerpen.be/docman/irua/e59e96motoM65
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Repository-hosted research on a co-created smartphone app designed to support parents of neurodivergent children with accessible, evidence-based psychological interventions.
+
+### Neurture: Family Support
+
+- URL: https://play.google.com/store/apps/details?id=com.neurture.app&hl=en_US
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Family support app for neurodivergent children with observation logging, automated summaries for therapists and IEP teams, and clinician-informed resources.[5]
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ca/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Neurodivergence support app for parents, carers, and neurodivergent adults to record difficult moments, explore triggers, reflect on behavior patterns, and identify strategies to support regulation.
+
+### Neurture: Family Support for iOS
+
+- URL: https://apps.apple.com/us/app/neurture-family-support/id6760677402
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: iOS companion for parents of neurodivergent children, offering clinician-approved resources, observation logging, pattern tracking, and summaries for teachers, therapists, or doctors.
+
+### Unique Minds
+
+- URL: https://apps.apple.com/ar/app/unique-minds/id6743822738?l=en-GB
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Support app for families and professionals working with neurodivergent children, including personalized routines, social-emotional tools, visual schedules, and sharing with caregivers, educators, and therapists.
+
+### ORBIT and Neupulse Digital Technologies
+
+- URL: https://www.nice.org.uk/guidance/HTG748/chapter/2-the-technologies
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: NICE overview of digital technologies for chronic tic disorders and Tourette syndrome, including ORBIT, a guided online behavioral intervention for young people and parents or carers, and Neupulse with a companion phone app.
+
+### TicTrainer
+
+- URL: https://tictrainer.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Web-based tool for reward-enhanced exposure and response prevention (RE-ERP), designed to support tic-suppression practice with a patient interface and clinician or trained-observer monitoring.

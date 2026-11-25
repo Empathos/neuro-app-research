@@ -968,3 +968,153 @@
 - Query: autism daily-living neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: App for neurodivergent children using social narratives, picture schedules, visual timers, token boards, and first-then charts to support daily-living independence.
+
+### ASCV Executive Functioning Fact Sheet
+
+- URL: https://ascv.org/wp-content/uploads/2025/08/ASCV-About-Executive-Functioning-Fact-Sheet-2025.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public resource listing daily-living and executive-function tools including Tiimo, Habitica, Finch, Sweepy, and Goblin Tools.[5]
+
+### Autistica Tips Hub
+
+- URL: https://www.kmhealthandcare.uk/everyday-life/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Publicly described app and resource hub created with and for the autistic community, offering practical everyday-life tips and high-quality support resources.[9]
+
+### ELS Autism | ABA Therapy
+
+- URL: https://apps.apple.com/nl/app/els-autism-aba-therapy/id6502673666
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: App featuring social narratives, picture schedules, token boards, visual timers, and first/then charts for daily-living and social-skill support.
+
+### Mariko Digital Assistant
+
+- URL: https://apps.apple.com/us/app/mariko-digital-assistant/id1645374416
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Visual daily-schedule assistant developed for neurodivergent people, families, and professionals to organize tasks, timing, and responsibility.
+
+### SenLife  ADHD & Autism Support
+
+- URL: https://apps.apple.com/rs/app/senlife-adhd-autism-support/id6450156262
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: Daily diary app for recording behavior, emotions, routines, medication, and support observations, with reports that can be shared with carers, teachers, and clinicians.
+
+### Tiimo
+
+- URL: https://apps.apple.com/tm/iphone/story/id1565800289
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Visual daily planner and task scheduler designed with neurodiversity in mind, featuring color-coded timelines, reminders, and task breakdowns.[5]
+
+### Tiimo: Daily AI Planner, To Do
+
+- URL: https://apps.apple.com/jo/app/tiimo-daily-ai-planner-to-do/id1480220328
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Visual schedule and planning app with color-coded timelines, task prioritization, reminders, and an AI co-planner designed for neurodivergent users.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/one-stockport-live-well-directory/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Visual planner and assistive-living app for autistic and neurodivergent users, with routines, to-do lists, printable visual schedules, communication cards, mood tracking, and shared carer access.
+
+### Tiimo
+
+- URL: https://gizmodo.com/download/tiimo
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: Visual planning and routine-building app with timelines, reminders, timers, to-do lists, mood tracking, focus tools, and task-planning support for executive-function challenges.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/children-and-families/send/parents-carer-send/thruday
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Free visual planner and assistive-living app for autistic and neurodivergent people, with routines, task lists, printable visual schedules, communication cards, mood tracking, and shared carer access.
+
+### Tiimo
+
+- URL: https://github.com/ever-works/awesome-time-tracking/blob/develop/details/tiimo.md
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Visual daily-planner lead designed around executive-function needs, providing structure and clarity for ADHD and autistic users.
+
+### Thruday
+
+- URL: https://www.stockport.gov.uk/directories/entry/children-and-families/thruday
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Visual planner and assistive-living app for autistic and neurodivergent people, offering routines, to-do lists, printable schedules, communication cards, mood tracking, and shared caregiver access.
+
+### Unfold
+
+- URL: https://getunfold.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Neurodivergent-support app that accepts typed or spoken input, helps users interpret what they are experiencing, and suggests one manageable next action.
+
+### Goblin Tools
+
+- URL: https://apps.apple.com/us/app/goblin-tools/id6449003064?l=fr-FR
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 502
+- Found: 2026-11-22
+- Description: Official app with tools that break overwhelming tasks, confusing messages, difficult decisions, and unstructured thoughts into manageable steps; designed with neurodivergent users in mind.
+
+### Mobile Application for Independence in Daily Routines  Pilot Report
+
+- URL: https://accessible-eu-centre.ec.europa.eu/document/download/ea710e41-61d3-4a8a-a5c7-9d9b1b242113_en?filename=SLOVENIA_REFERENCE_6_Mobile+Application.pdf
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Public report describing development, testing, and evaluation of a mobile app supporting executive functions, visual reminders, time management, and transition toward independent living for autistic and/or ADHD adolescents.

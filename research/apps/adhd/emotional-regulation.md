@@ -1438,3 +1438,143 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-13
 - Description: Public GitHub resource page collecting ADHD-related material focused on emotional regulation.[2]
+
+### Bonding Health: ADHD Reset
+
+- URL: https://apps.apple.com/us/app/bonding-health-adhd-reset/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: App Store listing for rapid ADHD regulation support, including brief guided resets for emotional spirals, task paralysis, overstimulation, frustration, and burnout.
+
+### ADHDAlly
+
+- URL: https://play.google.com/store/apps/details?id=com.adhdally.app
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public Android app lead focused on ADHD-oriented support and tools.
+
+### Bonding Health: TDHA Calm
+
+- URL: https://apps.apple.com/fr/app/bonding-health-tdha-calm/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Regulation and focus tool with guided support for task paralysis, overstimulation, irritability, burnout, and daily overwhelm; includes an emotional-regulation self-assessment.
+
+### Daily ADHD Self-Care: Evolve
+
+- URL: https://apps.apple.com/no/app/daily-adhd-self-care-evolve/id1515433542
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: ADHD self-care companion using CBT and DBT techniques, guided meditations, breathing exercises, journaling, and routines for stress, anxiety, sleep, and emotional regulation.
+
+### Outspiral: RSD & ADHD Relief
+
+- URL: https://apps.apple.com/us/app/outspiral-rsd-adhd-relief/id6760420631
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-17
+- Description: App focused on ADHD emotions, rejection-sensitive dysphoria, and overwhelm.
+
+### Executive Function Toolkit
+
+- URL: https://github.com/curiositech/some_claude_skills/blob/main/.claude/skills/adhd-daily-planner/references/executive-function-toolkit.md
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-17
+- Description: Repository documentation containing ADHD support material, including an emotional-regulation section with the STOP technique.
+
+### ADHD - Cognitive Research
+
+- URL: https://play.google.com/store/apps/details?id=com.cognifit.android.adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Google Play app intended for participation in ADHD-related scientific studies, including cognitive evaluation and stimulation.
+
+### ADHD - Cognitive Research
+
+- URL: https://apps.apple.com/nz/app/adhd-cognitive-research/id1412022818
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: App Store version of a research-oriented ADHD tool covering attention, inhibition, monitoring, memory, planning, and coordination.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: ADHD/AuDHD burnout and energy tracker with emotional-first-aid tools, dysregulation and rejection-sensitive dysphoria support, somatic grounding, breathing, brown noise, and NSDR resources.
+
+### SHIFT - Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-22
+- Description: Real-time regulation tool designed for ADHD, autistic, and other neurodivergent users, with modes for spiraling, shutdown, rage, overwhelm, and task-initiation difficulties.
+
+### DaisyDo: Calm Intense Emotions
+
+- URL: https://apps.apple.com/hk/app/daisydo-calm-intense-emotions/id6796473777
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Self-help app for people with ADHD who experience intense emotions, supporting calming, processing events, and choosing next actions.
+
+### DaisyDo: Calm Intense Emotions
+
+- URL: https://apps.apple.com/ca/app/daisydo-calm-intense-emotions/id6796473777
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: An iPhone self-help app focused on intense ADHD emotions, including anger, rejection-related self-criticism, overwhelm, CBT-based techniques, and reminders.[1]
+
+### Bonding Health: ADHD Calm
+
+- URL: https://apps.apple.com/pl/app/bonding-health-adhd-calm/id1611980187
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: An ADHD emotional-regulation app with tools for dysregulation, burnout, anxiety, irritability, motivation crashes, mood check-ins, voice entries, movement, and rewards.[3]
+
+### Bonding Health: ADHD Reset
+
+- URL: https://apps.apple.com/jp/app/bonding-health-adhd-reset/id1611980187?l=en-US
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Provides rapid support for ADHD emotional dysregulation, overwhelm, task paralysis, irritability, burnout, rejection-sensitivity spirals, and motivation crashes, with mood and regulation tracking.[7]

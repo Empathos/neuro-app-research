@@ -568,3 +568,103 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Curated public resources for diagnosing and supporting dyspraxia/DCD, with material for healthcare professionals and links to external guidance.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/es/app/shift-regulate-reset/id6759524862?l=ca&platform=vision
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-16
+- Description: Crisis-regulation app for ADHD, autistic, and neurodivergent users, organized around spiraling, shutdown, rage, overwhelm, and stuck states with grounding, activation, sensory-reduction, and micro-step tools.[8]
+
+### Animi: Emotional Intelligence
+
+- URL: https://play.google.com/store/apps/details?id=com.animiapp.animi&hl=en_US
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-16
+- Description: Emotion-coaching app addressing alexithymia, emotional awareness, emotion vocabulary, and emotional regulation.
+
+### Restore ADHD Burnout Tracker
+
+- URL: https://apps.apple.com/be/app/restore-adhd-burnout-tracker/id6757827947
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: ADHD/AuDHD burnout and energy tracker with emotional first-aid tools, emotional-reset guidance, somatic grounding techniques, and nervous-system regulation support.
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/pe/app/animi-emotional-intelligence/id6443638345?l=en-GB
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Emotion-coaching app focused on alexithymia, emotional awareness, emotion vocabulary, pattern recognition, breathing-based regulation, and journaling for neurodivergent users.[9]
+
+### Dyspraxiatheca
+
+- URL: https://lesapprimeurs.com/en/partnerships/dyspraxiatheca/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Platform of customizable adapted educational resources, exercises, and guidance for pupils with dyspraxia and carers; its scope recognizes emotional, social, language, and sensory impacts of dyspraxia.[10]
+
+### Animi: Emotional Intelligence
+
+- URL: https://apps.apple.com/gr/app/animi-emotional-intelligence/id6443638345
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Emotion-coaching app focused on alexithymia, emotional awareness, emotional vocabulary, journaling, breathing, and regulation exercises.
+
+### Solitaire Emotions
+
+- URL: https://apnews.com/press-release/ein-presswire-newsmatics/athlete-mental-health-mobile-apps-94de16f5918093fc2b425396258fe719
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-24
+- Description: Emotion-learning game using CBT-informed cards and gameplay to support emotional awareness, self-regulation, coping strategies, and neurodivergent learners.
+
+### Diverge  Neurodivergent Emotional-Regulation Journal
+
+- URL: https://github.com/mukut03/diverge/blob/main/README.md
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Open-source journaling tool designed for neurodivergent users, with emotion, trigger, and cognitive-reappraisal support.
+
+### Thruday
+
+- URL: https://apps.apple.com/ec/app/thruday/id1645552771
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Neurodivergent-friendly planning and support app with visual routines, executive-function aids, mood tracking, journaling, and emotional-regulation features; explicitly includes dyspraxia.
+
+### Early Detection of Neurodevelopmental Disorders With a Mobile Health App
+
+- URL: https://www.ncbi.nlm.nih.gov/pmc/articles/11220427
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-24
+- Description: Peer-reviewed study of a mobile health app screening for several neurodevelopmental disorders, including dyspraxia, and providing related parent-support functions.
