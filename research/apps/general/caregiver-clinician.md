@@ -1068,3 +1068,13 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Parent-focused ABA support app featuring clinician-recommended lessons and clinician monitoring of child progress.
+
+### NeuroNAV
+
+- URL: https://github.com/NeuroN-V/NeuroNAV
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Open-source neurodiversity support agent that turns ADHD-related needs into actionable strategies, checks in on patterns, and connects users with support.

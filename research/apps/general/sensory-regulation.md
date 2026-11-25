@@ -1068,3 +1068,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Digital slime-based sensory tool with stretch, poke, and pop interactions intended for calming breaks and sensory seeking.
+
+### NeuroAdapt ZONE
+
+- URL: https://apps.apple.com/be/app/neuroadapt-zone/id6761205914
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: A companion app for neurodivergent adults to recognize patterns in energy, stimulation, recovery, and regulation.

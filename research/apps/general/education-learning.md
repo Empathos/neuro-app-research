@@ -1448,3 +1448,13 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Official Microsoft guidance covering accessibility features for dyslexia, autism, ADHD, and other cognitive disabilities, including learning tools in OneNote.
+
+### Neurodivergent Minds
+
+- URL: https://neurodivergentminds.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Collection of practical learning tools, worksheets, educator resources, and a PDA-friendly home-education app for neurodivergent children.
