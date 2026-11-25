@@ -1318,3 +1318,13 @@
 - Query: autism sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-24
 - Description: Sensory-friendly child companion combining calm learning, AAC, and daily routines for autistic and sensory-sensitive children.[10]
+
+### SensoryMe Web App
+
+- URL: https://my.sensoryme.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: sensory-regulation
+- Query: autism sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Direct access to the SensoryMe sensory-experience management web application.
