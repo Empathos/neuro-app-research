@@ -569,16 +569,6 @@
 - Found: 2026-11-02
 - Description: Open-source repository exploring perception and action through low-level sensory input and output components within the AtomSpace cognitive architecture.
 
-### Lumo
-
-- URL: https://github.com/EchoinInk/lumo
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: daily-living
-- Query: sensory-processing daily-living neurodivergent app research pass 502
-- Found: 2026-11-02
-- Description: Open-source productivity and life-planning app for neurodivergent users, covering tasks, routines, habits, goals, wellbeing, budgeting, and daily responsibilities.
-
 ### Sioul
 
 - URL: https://github.com/aurelienpierre/sioul

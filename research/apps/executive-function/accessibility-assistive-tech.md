@@ -1228,3 +1228,13 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: An assistive-technology guide covering visual reminders, AI task breakdown, visual planning apps, and tools such as Tiimo, Thruday, Structured, Choiceworks, and Visual Schedule Planner.[6]
+
+### Assistive Technology for Executive Function
+
+- URL: https://www.assistivetechnology.org/topics/daily-living-cognition/assistive-technology-for-executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Public assistive-technology resource covering tools for time management, planning, organization, task initiation, reminders, calendars, and notification management.

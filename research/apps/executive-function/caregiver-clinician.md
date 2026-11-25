@@ -744,3 +744,23 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Capacity-aware task support for people with neurodivergence, chronic illness, or burnout; designed for use alongside therapy or coaching.
+
+### KeyAide for Clinicians
+
+- URL: https://www.keyaide.ai/for-clinicians
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Trauma-informed AI support for caregivers of neurodivergent children, including autism, ADHD, sensory differences, and executive-function needs; designed to extend practical support between appointments.
+
+### Squirrel
+
+- URL: https://www.tackld.co/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Executive-function support platform for neurodivergent families that connects children, caregivers, and clinicians through prescribed techniques, progress tracking, usage data, and documentation.
