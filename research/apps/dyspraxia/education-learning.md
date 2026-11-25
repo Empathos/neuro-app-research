@@ -1168,3 +1168,13 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 501
 - Found: 2026-11-24
 - Description: A gamified mobile learning app for children with learning disorders and disabilities, with activities targeting cognitive, motor, and social skills.
+
+### Pencil Spaces for Neurodivergent Learners
+
+- URL: https://www.pencilspaces.com/solutions/neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: An online tutoring platform designed for neurodivergent learners, including students with dyspraxia, with flexible home-learning environments.

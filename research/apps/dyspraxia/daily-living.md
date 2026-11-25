@@ -738,3 +738,13 @@
 - Query: dyspraxia daily-living neurodivergent app research pass 501
 - Found: 2026-11-23
 - Description: Picture-schedule and social-narrative app that breaks daily-living tasks into sequential steps to support independence and routine completion for neurodivergent children.
+
+### NeuroNavigate
+
+- URL: https://apps.apple.com/au/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: daily-living
+- Query: dyspraxia daily-living neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Low-stimulation companion for neurodivergent teens and adults, aimed at navigating overwhelming tasks and challenging social situations.
