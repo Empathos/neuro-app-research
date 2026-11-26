@@ -888,3 +888,13 @@
 - Query: dyspraxia executive-function neurodivergent app research pass 501
 - Found: 2026-11-22
 - Description: Neurodivergent-focused planning and time-management app that explicitly lists dyspraxia among its target users. Includes visual planning, mood tracking, journaling, notes, to-do lists, and support resources.
+
+### ParaCortex
+
+- URL: https://paracortexapp.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: executive-function
+- Query: dyspraxia executive-function neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Neurodivergent productivity app providing external executive-function support and practical planning tools.

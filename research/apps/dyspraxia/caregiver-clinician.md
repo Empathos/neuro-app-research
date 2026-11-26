@@ -1118,3 +1118,43 @@
 - Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: App Store listing for a home therapy app developed with allied health professionals for children aged 514 with dyspraxia or DCD, covering gross motor, fine motor, speech, and communication activities under caregiver or professional guidance.
+
+### DCD Handball
+
+- URL: https://play.google.com/store/apps/details?id=com.dcdhandball.app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: App for professionals and parents that digitizes elements of the MABC-2 assessment approach and a 12-week mini-handball program; includes parent development tracking and emphasizes that screening results require qualified-specialist interpretation.[2]
+
+### Timocco Developmental Coordination Disorder
+
+- URL: https://www.timocco.com/diagnosis/dcd/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Motion-gaming platform for children with DCD, targeting body awareness, movement planning, balance, postural control, bilateral coordination, motor control, and accuracy.[5]
+
+### Daybook
+
+- URL: https://github.com/ellynkeith/daybook
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Open-source shared caregiver logging app for a neurodivergent childs behavior, sleep, medications, and symptoms, with optional read-only access for co-parents or clinicians.
+
+### AUVIE
+
+- URL: https://www.auvie.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: caregiver-clinician
+- Query: dyspraxia caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Life-skills platform for neurodivergent children and teens, with clinician-written articles and practical tools for families and supporting adults.

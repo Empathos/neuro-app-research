@@ -1168,3 +1168,33 @@
 - Query: dyspraxia education-learning neurodivergent app research pass 501
 - Found: 2026-11-24
 - Description: A gamified mobile learning app for children with learning disorders and disabilities, with activities targeting cognitive, motor, and social skills.
+
+### Pencil Spaces for Neurodivergent Learners
+
+- URL: https://www.pencilspaces.com/solutions/neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: An online tutoring platform designed for neurodivergent learners, including students with dyspraxia, with flexible home-learning environments.
+
+### Coji Universe
+
+- URL: https://cojiuniverse.com/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Neurodivergent life-support tool offering visual planning, step-by-step task breakdowns, energy-aware routines, and strategies for dyslexia, dyspraxia, and dyscalculia.
+
+### DoodleLearning Dyspraxia Guidance
+
+- URL: https://help.doodlelearning.com/en/articles/12809541-how-doodlelearning-supports-children-with-dyspraxia-a-guide-for-educators
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: education-learning
+- Query: dyspraxia education-learning neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Official educator guidance describing accessible learning features including audio instructions, visuals, drawing and writing tools, and interactive touch-based activities.

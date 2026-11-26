@@ -758,3 +758,13 @@
 - Query: dyspraxia sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: NHS resource covering sensory walks, fidget tools, movement and mindfulness apps, adaptive equipment, and strategies relevant to young people with dyspraxia and other neurodivergences.
+
+### GoRegulate
+
+- URL: https://play.google.com/store/apps/details?id=ca.goregulate.app
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: sensory-regulation
+- Query: dyspraxia sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Clinically informed regulation app intended for neurodivergent children, families, and care circles.

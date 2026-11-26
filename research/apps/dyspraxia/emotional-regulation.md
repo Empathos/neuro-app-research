@@ -668,3 +668,43 @@
 - Query: dyspraxia emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Peer-reviewed study of a mobile health app screening for several neurodevelopmental disorders, including dyspraxia, and providing related parent-support functions.
+
+### WellBe: Participatory Design and Development of a Smartwatch Application for Neurodivergent Adults Emotional Regulation
+
+- URL: https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwag027/8703888
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Research lead describing a participatory smartwatch application for neurodivergent adults emotional regulation, developed through workshops and evaluated in a 90-day in-the-wild study.
+
+### wNDerful App
+
+- URL: https://www.wnderful.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Emotional-regulation and connection app for neurodivergent people, including users with dyspraxia, ADHD, autism, dyslexia, and sensory-processing difficulties.
+
+### Rainbow of Emotions App
+
+- URL: https://rainbowofemotions.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Evidence-informed, neuro-affirming tool for identifying emotions, noticing body clues, understanding intensity, selecting regulation strategies, and reflecting on outcomes.
+
+### Mindum
+
+- URL: https://mindum.app/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: emotional-regulation
+- Query: dyspraxia emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: App for tracking and regulating emotions, energy, focus, and sensory balance, designed for neurodivergent and highly sensitive people.
