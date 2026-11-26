@@ -1,26 +1,26 @@
 # Latest Research Run
 
 - Condition: autism
-- UTC timestamp: 2026-11-25T18:08:52.695628+00:00
-- New findings: 5
-- Rejected dead links: 2
+- UTC timestamp: 2026-11-26T17:47:05.955741+00:00
+- New findings: 10
+- Rejected dead links: 4
 
 ## Support Categories
 
 ### communication-aac
 
-- `autism communication-aac neurodivergent app research pass 501`: 0 new finding(s), 1 rejected dead link(s)
+- `autism communication-aac neurodivergent app research pass 501`: 1 new finding(s), 0 rejected dead link(s)
 - `autism communication-aac neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### executive-function
 
-- `autism executive-function neurodivergent app research pass 501`: 2 new finding(s), 0 rejected dead link(s)
-- `autism executive-function neurodivergent app research pass 502`: 0 new finding(s), 1 rejected dead link(s)
+- `autism executive-function neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `autism executive-function neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### sensory-regulation
 
-- `autism sensory-regulation neurodivergent app research pass 501`: 1 new finding(s), 0 rejected dead link(s)
-- `autism sensory-regulation neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
+- `autism sensory-regulation neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `autism sensory-regulation neurodivergent app research pass 502`: 1 new finding(s), 1 rejected dead link(s)
 
 ### education-learning
 
@@ -29,12 +29,12 @@
 
 ### emotional-regulation
 
-- `autism emotional-regulation neurodivergent app research pass 501`: 1 new finding(s), 0 rejected dead link(s)
-- `autism emotional-regulation neurodivergent app research pass 502`: 1 new finding(s), 0 rejected dead link(s)
+- `autism emotional-regulation neurodivergent app research pass 501`: 4 new finding(s), 1 rejected dead link(s)
+- `autism emotional-regulation neurodivergent app research pass 502`: 0 new finding(s), 1 rejected dead link(s)
 
 ### daily-living
 
-- `autism daily-living neurodivergent app research pass 501`: 0 new finding(s), 0 rejected dead link(s)
+- `autism daily-living neurodivergent app research pass 501`: 4 new finding(s), 1 rejected dead link(s)
 - `autism daily-living neurodivergent app research pass 502`: 0 new finding(s), 0 rejected dead link(s)
 
 ### caregiver-clinician
