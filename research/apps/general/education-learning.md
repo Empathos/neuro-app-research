@@ -1458,3 +1458,23 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-25
 - Description: Collection of practical learning tools, worksheets, educator resources, and a PDA-friendly home-education app for neurodivergent children.
+
+### Top 10 Assistive Technologies for Neurodivergent Learners
+
+- URL: https://www.neuronavigation.org/post/top-10-assistive-technologies-for-neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: A public survey of text-to-speech, speech-to-text, visual scheduling, graphic organizers, writing support, AAC, and immersive learning technologies.
+
+### NeuraBloom
+
+- URL: https://www.neurabloom.ai/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: A game-based adaptive-learning platform for neurodivergent learners, focused on communication, reading, regulation skills, structured challenges, and progress tracking.

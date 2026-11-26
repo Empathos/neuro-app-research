@@ -1608,3 +1608,13 @@
 - Query: general communication-aac neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Customizable AAC communication aid with picture-based sentence construction and text-to-speech support for autistic people and others with speech delays.
+
+### LifeCompanion AAC
+
+- URL: https://github.com/lifecompanionaac/lifecompanion
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Free, open-source AAC and computer-access software with speech synthesis, customizable virtual keyboards, mouse control, and shortcut support.

@@ -1078,3 +1078,13 @@
 - Query: general sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-25
 - Description: A companion app for neurodivergent adults to recognize patterns in energy, stimulation, recovery, and regulation.
+
+### MonkeyThrive
+
+- URL: https://github.com/Is0cre/MonkeyThrive
+- Source: perplexity-sonar
+- Condition: general
+- Support category: sensory-regulation
+- Query: general sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Open-source nervous-system regulation app with breathing, grounding, bilateral stimulation, HRV biofeedback, somatic tools, and a privacy-focused design.[10]

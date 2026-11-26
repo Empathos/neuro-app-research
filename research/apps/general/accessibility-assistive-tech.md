@@ -1008,3 +1008,13 @@
 - Query: general accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-25
 - Description: ADHD-focused planner and to-do app featuring accessibility-oriented options such as the OpenDyslexic font and increased letter spacing.
+
+### Tiimo
+
+- URL: https://tiimo-adhd-autism-app.appstor.io/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: accessibility-assistive-tech
+- Query: general accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Visual planning and focus app designed for ADHD, autism, and users who benefit from visual schedules, routines, timers, and task organization.

@@ -828,3 +828,43 @@
 - Query: general emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: iOS tracker for ADHD/AuDHD burnout patterns, energy monitoring, emotional-reset guidance, somatic grounding, and regulation support.
+
+### wNDerful App
+
+- URL: https://www.wnderful.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Emotional-regulation and connection app for neurodivergent people, including users with autism, ADHD, dyspraxia, dyscalculia, dyslexia, and sensory-processing differences.
+
+### Rainbow of Emotions App
+
+- URL: https://rainbowofemotions.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Customizable, neuro-affirming tool for identifying emotions, noticing body cues, understanding intensity, selecting regulation strategies, and reflecting on outcomes.
+
+### Mindum
+
+- URL: https://mindum.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Emotion, energy, and focus tracker aimed at neurodivergent and hypersensitive people, with tools for recognizing and regulating patterns.
+
+### CoRegulate
+
+- URL: https://coregulateadhd.com/about
+- Source: perplexity-sonar
+- Condition: general
+- Support category: emotional-regulation
+- Query: general emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: ADHD-oriented emotional-regulation app offering therapeutic tools, guided meditations, and techniques tailored for neurodivergent needs.
