@@ -1148,3 +1148,63 @@
 - Query: autism emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Picture-based routine app for autistic and ADHD children ages 316, supporting visual schedules, transitions, sensory needs, and emotional regulation.
+
+### Mightier
+
+- URL: https://www.mightier.com/autism/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Digital intervention using gameplay to help children with autism practice coping strategies and emotional regulation.[10]
+
+### NeuroCoach
+
+- URL: https://play.google.com/store/apps/details?id=com.neurocoach.app&hl=en_NZ
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: A mobile app offering in-the-moment support for ADHD, autism, sensory overload, meltdowns, emotional dysregulation, and parenting stress, with pattern tracking over time.[8]
+
+### wNDerful App
+
+- URL: https://www.wnderful.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Emotional-regulation and connection app for neurodivergent people, including autistic and ADHD users.
+
+### Rainbow of Emotions App
+
+- URL: https://rainbowofemotions.app/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Supports emotion identification, interoception, intensity tracking, personalized regulation strategies, and reflection for children, adolescents, and adults, including neurodivergent users.
+
+### Mood Toolbox
+
+- URL: https://apps.apple.com/ca/app/mood-toolbox/id1342614348
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: App with games and tips for emotional intelligence and regulation, designed in part for children with autism and special educational needs.
+
+### Autism Emotions
+
+- URL: https://apps.apple.com/hu/app/autism-emotions/id6774178082
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: emotional-regulation
+- Query: autism emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Visual, parent-guided app for children to identify emotions, connect feelings with body needs, express needs through AAC-style tiles, and practice calming communication.

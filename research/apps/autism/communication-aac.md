@@ -1528,3 +1528,13 @@
 - Query: autism communication-aac neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: AAC app for autistic children that supports expressing wants, feelings, and needs; available for iOS and Android.
+
+### Unity AAC App
+
+- URL: https://unityaacapp.com/
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: communication-aac
+- Query: autism communication-aac neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Research-based Minspeak vocabulary system offering a scalable AAC platform from early communication through complex language, powered by PRC-Saltillo.[8]

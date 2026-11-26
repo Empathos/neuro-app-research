@@ -1118,3 +1118,43 @@
 - Query: autism daily-living neurodivergent app research pass 501
 - Found: 2026-11-24
 - Description: Public report describing development, testing, and evaluation of a mobile app supporting executive functions, visual reminders, time management, and transition toward independent living for autistic and/or ADHD adolescents.
+
+### Ever Able
+
+- URL: https://apps.apple.com/us/app/ever-able/id6805731510
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Visual routines and life-skills app for autistic children, teens, and adults, with personalized routines, private video modeling, and progress tracking.
+
+### Anchor for Autism
+
+- URL: https://apps.apple.com/us/app/anchor-for-autism/id6762537157
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Visual daily-routine app designed to help autistic children build independence and reduce anxiety through structured routines.
+
+### Routinely - Visual Routines
+
+- URL: https://apps.apple.com/us/app/routinely-visual-routines/id6760675743
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Visual routine planner with large cards, audio prompts, and calming timers for autism, ADHD, and developmental delays.
+
+### Pictalk Buddy: Autism Routine
+
+- URL: https://apps.apple.com/in/app/pictalk-buddy-autism-routine/id6502835578?platform=ipad
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: daily-living
+- Query: autism daily-living neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Customizable visual schedule and planner for autistic people, people with ADHD, Down syndrome, and other neurodevelopmental needs.

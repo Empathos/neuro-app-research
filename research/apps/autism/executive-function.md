@@ -1548,3 +1548,23 @@
 - Query: autism executive-function neurodivergent app research pass 502
 - Found: 2026-11-22
 - Description: Community-based support system for planning, motivation, follow-through, shutdown days, and gentle body doubling, including a free low-pressure executive-function starter kit.
+
+### Differently: ADHD Productivity
+
+- URL: https://www.microsoft.com/de-lu/p/differently-adhd-productivity/9pj84m2zpmt9
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Windows task manager and focus timer designed for ADHD and other neurodivergent brains, emphasizing task initiation, sustained attention, and time awareness.
+
+### Brain.fm Neurodivergent Productivity Tools
+
+- URL: https://www.brain.fm/blog/neurodivergent-productivity-tools-adhd
+- Source: perplexity-sonar
+- Condition: autism
+- Support category: executive-function
+- Query: autism executive-function neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Official overview of Brain.fm's functional-audio focus tools and ADHD-oriented settings for sustained attention and productivity support.
