@@ -624,3 +624,153 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-11
 - Description: Open-access research covering computer-based executive-function interventions for autistic children, including coached training, Braingame Brian, and Project EVO.
+
+### NDDisclosure_ASSETS2025
+
+- URL: https://github.com/kaianew/NDDisclosure_ASSETS2025
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Public research repository for a mixed-methods study on neurodivergence disclosure in software workplaces, including study-related assets and findings concerning social support.
+
+### TrueConvos: ADHD & Autism Chat
+
+- URL: https://apps.apple.com/eg/app/trueconvos-adhd-autism-chat/id1545810479
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Peer-support app connecting people navigating ADHD, autism, AuDHD, executive-function challenges, sensory overwhelm, burnout, and related experiences; it is not presented as therapy.
+
+### Thruday
+
+- URL: https://apps.apple.com/us/app/thruday/id1645552771?platform=ipad
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Visual daily planning and routine support for ADHD, autism, and related executive-function challenges, with collaborative features for family members and carers.
+
+### Choiceworks
+
+- URL: https://bridgingapps.org/expansion-pilot-update-from-easterseals-port-health/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Visual-schedule and emotional-regulation app for preschoolers and older users with autism, ADHD, or other conditions affecting executive-function skills; relevant to caregiver-supported routines.
+
+### Trayt
+
+- URL: https://apps.apple.com/us/app/trayt/id1235887472
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Healthcare tracking app for people with autism, ADHD, and other brain-based disorders that lets individuals and caregivers record symptoms using measures intended to support communication with clinicians.
+
+### Mapping Neurodevelopmental Diversity in Executive Function  PDF
+
+- URL: https://pure.uva.nl/ws/files/255989683/Mapping_neurodevelopmental_diversity_in_executive_function.pdf
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Full-text research paper describing executive-function diversity and incorporating parent or caregiver ratings; the indexed record also references a related NeurodiversityInEF repository.
+
+### Neurodivergent Students: A Continuum of Skills with an Emphasis on Creativity and Executive Functions
+
+- URL: https://tandfonline.com/doi/epub/10.1080/21622965.2024.2406914
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: Study examining executive functions in neurodivergent secondary students, including ADHD, dyslexia, intellectual disability, and giftedness, using the Nesplora Ice-Cream virtual-reality assessment.
+
+### Inflow  Manage Your ADHD
+
+- URL: https://apps.apple.com/sr/app/inflow-manage-your-adhd/id1528183849
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: A science-based ADHD support program focused on attention, procrastination, follow-through, executive function, CBT skills, and practical daily-life strategies.
+
+### Neurodiversity Planner Software Directory
+
+- URL: https://www.f6s.com/software/category/neurodiversity-planner
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Public directory of neurodiversity planning tools, including Tiimo, CORXLY, and ReMindMe, with examples spanning visual planning, AI task organization, caregiver or provider dashboards, and executive-function support.
+
+### Mapping neurodevelopmental diversity in executive function
+
+- URL: https://ueaeprints.uea.ac.uk/id/eprint/94267/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Research repository record for an exploratory study using unsupervised machine learning to identify executive-function profiles in a transdiagnostic sample of 566 neurodivergent children aged 818.
+
+### Lumi  Real-time Coach for Neurodiverse Families
+
+- URL: https://www.withlumi.ai/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Family coaching app for caregivers of neurodivergent children ages 512, with shared caregiver plans, check-ins, and support for ADHD, autism, and AuDHD.
+
+### To Do-ish  Executive Function Support
+
+- URL: https://www.todoish.app/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Capacity-aware task support for people with neurodivergence, chronic illness, or burnout; designed for use alongside therapy or coaching.
+
+### KeyAide for Clinicians
+
+- URL: https://www.keyaide.ai/for-clinicians
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Trauma-informed AI support for caregivers of neurodivergent children, including autism, ADHD, sensory differences, and executive-function needs; designed to extend practical support between appointments.
+
+### Squirrel
+
+- URL: https://www.tackld.co/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Executive-function support platform for neurodivergent families that connects children, caregivers, and clinicians through prescribed techniques, progress tracking, usage data, and documentation.
+
+### Executive Function  Research Knowledge Base
+
+- URL: https://www.understandingneurodiversity.org/research/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Public knowledge-base page covering executive function, including working memory, inhibition, and cognitive flexibility, with neurodiversity-oriented research resources.

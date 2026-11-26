@@ -597,16 +597,6 @@
 - Found: 2026-10-21
 - Description: App for adults with ADHD featuring short guided resets, cognitive offloading, reflection prompts, and focus-support routines.
 
-### Lumo
-
-- URL: https://github.com/echoinink/lumo
-- Source: perplexity-sonar
-- Condition: executive-function
-- Support category: sensory-regulation
-- Query: executive-function sensory-regulation neurodivergent app research pass 501
-- Found: 2026-10-22
-- Description: Open-source productivity and life-planning app for neurodivergent users, covering tasks, routines, habits, goals, wellbeing, budgeting, and daily responsibilities.
-
 ### Luna
 
 - URL: https://github.com/LunaCrew
@@ -796,3 +786,93 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Public web-based collection of tools for task paralysis, focus, planning, nervous-system regulation, breathing, grounding, and sensory-grounding exercises.
+
+### VRSEx/ADHD
+
+- URL: https://github.com/VRSEx/ADHD
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-18
+- Description: Public repository for a neurodivergence-support platform combining AI, smartwatch and tablet software, social-cue displays, virtual reality, daily-task support, and social-emotional development.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/nr/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-18
+- Description: App Store version of Tiimo offering visual daily planning and a calming focus timer to support task completion and time awareness.
+
+### MindBalance
+
+- URL: https://github.com/Fewdev1122/MindBalance
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-19
+- Description: Open repository for a neuro-inclusive productivity tool supporting ADHD and autistic users through visual task mapping, cognitive-load awareness, calendar integration, and distraction-free design.
+
+### NeuroEquality Project Index
+
+- URL: https://github.com/neuroequality/.github
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-19
+- Description: Project overview listing public NeuroEquality initiatives such as Safe4All, READY, GROW, WNIT, and STAR, with development-stage information.
+
+### SHIFT  Regulate & Reset
+
+- URL: https://apps.apple.com/gt/app/shift-regulate-reset/id6759524862?l=en-GB
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: iOS regulation app for ADHD, autistic, and neurodivergent users, with modes for spiraling, shutdown, anger, sensory overwhelm, and task paralysis.
+
+### Thruday
+
+- URL: https://apps.apple.com/hr/app/thruday/id1645552771?l=hr
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Calm visual planner for ADHD, autism, and AuDHD, offering routines, task breakdowns, reminders, mood tracking, breathing tools, and support sharing.
+
+### taskManager-VoiceAgent
+
+- URL: https://github.com/SIVERSE-LABS/taskManager-VoiceAgent
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-21
+- Description: Voice-powered task manager designed for neurodivergent users, including task breakdown, focus timing, structured workflows, and a low-clutter interface.
+
+### Mindory
+
+- URL: https://mindoryapp.com/ai-planner-app
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-23
+- Description: Stress-aware AI planning app designed for neurodivergent adults, including users with ADHD, autism, and executive-function challenges.
+
+### NeuroNest
+
+- URL: https://neuronestai.app/home
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Platform for neurodivergent teens offering emotional-regulation, sensory-break, calming, mindfulness, and executive-function activities.

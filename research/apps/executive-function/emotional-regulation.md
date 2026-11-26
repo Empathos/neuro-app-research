@@ -698,3 +698,33 @@
 - Query: executive-function emotional-regulation neurodivergent app research pass 501
 - Found: 2026-11-14
 - Description: Neurodivergent productivity app using voice capture to support planning, prioritization, organization, task initiation, and emotional regulation.
+
+### EFaaS Showcase
+
+- URL: https://github.com/ergon-automation-labs/efaas-showcase
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public GitHub demonstration of software cognitive prosthetics for neurodivergent users, including just-in-time recall and systems intended to reduce executive-function friction.
+
+### Tiimo
+
+- URL: https://github.com/ever-works/awesome-time-tracking/blob/develop/details/tiimo.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Visual daily planner designed around executive-function challenges and neurodivergent users, including people with ADHD and autism.
+
+### Skelly-Jelly
+
+- URL: https://github.com/chreez/skelly-jelly
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: emotional-regulation
+- Query: executive-function emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: Open-source, neurodiversity-affirming ADHD focus companion designed to provide ambient support without disrupting focus states.

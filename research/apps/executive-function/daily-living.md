@@ -538,3 +538,23 @@
 - Query: executive-function daily-living neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: An AI-driven browser focus board with brain dump, task states, progress tracking, gentle deadline countdowns, reduced motion, focus mode, and non-shaming task carryover designed for executive-function and neurodivergent-friendly use.[6]
+
+### Thruday  App Store
+
+- URL: https://apps.apple.com/tt/app/thruday-visual-daily-planner/id1645552771?platform=watch
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 501
+- Found: 2026-11-20
+- Description: App Store listing for a visual planner supporting ADHD, autism, AuDHD, routines, reminders, time blindness, mood tracking, printable schedules, and supported living.
+
+### Yoodoo: ADHD Daily Planner
+
+- URL: https://apps.apple.com/us/app/yoodoo-adhd-daily-planner/id1644320094
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: ADHD-focused planner with AI task breakdown, time blocking, calendar synchronization, routines, habits, focus sessions, and app blocking.

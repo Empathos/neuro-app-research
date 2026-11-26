@@ -1068,3 +1068,53 @@
 - Query: executive-function communication-aac neurodivergent app research pass 502
 - Found: 2026-11-14
 - Description: Planning skill designed for ADHD brains, emphasizing time-blind-friendly estimates, dopamine-aware task design, and practical executive-function scaffolding.
+
+### Neurodivergent Visual Organization
+
+- URL: https://github.com/jeremylongshore/tons-of-skills-marketplace/blob/main/plugins/productivity/neurodivergent-visual-org/skills/neurodivergent-visual-org/SKILL.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-15
+- Description: Claude Code skill for ADHD-friendly visual task breakdowns, decision trees, realistic time estimates, overwhelm detection, and focus support.
+
+### Executive Function Learner Variable
+
+- URL: https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/learner-variables/executive-function.md
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-15
+- Description: Public GitHub reference defining executive function through inhibitory control, working-memory updating, and cognitive flexibility.[5]
+
+### ADHD-OS
+
+- URL: https://github.com/LegionForge/ADHD-OS
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-20
+- Description: Public repository for a modular personal-assistant framework focused on externalizing executive function through frictionless capture, memory, and task support.
+
+### BridgeAAC
+
+- URL: https://github.com/bridgeaac
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 502
+- Found: 2026-11-21
+- Description: Free, open-source, offline-ready augmentative and alternative communication software.
+
+### GadAAC
+
+- URL: https://apps.apple.com/tw/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: communication-aac
+- Query: executive-function communication-aac neurodivergent app research pass 501
+- Found: 2026-11-23
+- Description: AAC app with customizable tiles, photo-based communication, visual day plans, weekly templates, and First/Then sequences, with accessibility features for neurodivergent users.
