@@ -898,3 +898,13 @@
 - Query: executive-function executive-function neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: AI productivity and knowledge-management tool highlighted for ADHD adults and knowledge workers who need help capturing, organizing, and acting on information.
+
+### ParaCortex
+
+- URL: https://paracortexapp.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: executive-function
+- Query: executive-function executive-function neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Productivity app positioned as an external executive function for ADHD and neurodivergent users.

@@ -1168,3 +1168,13 @@
 - Query: executive-function education-learning neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Open-source adaptive learning platform designed for accessible, individualized education for neurodivergent children, with structured tasks, flexible pacing, chunked explanations, and reduced distractions.
+
+### MyKey Command Center
+
+- URL: https://executive-functioning.mykeyplans.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: education-learning
+- Query: executive-function education-learning neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Educational and transition-support planning tool for students with ADHD, autism, or learning disabilities, including young adults building independence.

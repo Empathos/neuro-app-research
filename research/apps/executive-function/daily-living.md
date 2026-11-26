@@ -548,3 +548,13 @@
 - Query: executive-function daily-living neurodivergent app research pass 501
 - Found: 2026-11-20
 - Description: App Store listing for a visual planner supporting ADHD, autism, AuDHD, routines, reminders, time blindness, mood tracking, printable schedules, and supported living.
+
+### Yoodoo: ADHD Daily Planner
+
+- URL: https://apps.apple.com/us/app/yoodoo-adhd-daily-planner/id1644320094
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: daily-living
+- Query: executive-function daily-living neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: ADHD-focused planner with AI task breakdown, time blocking, calendar synchronization, routines, habits, focus sessions, and app blocking.

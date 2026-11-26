@@ -866,3 +866,13 @@
 - Query: executive-function sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-23
 - Description: Stress-aware AI planning app designed for neurodivergent adults, including users with ADHD, autism, and executive-function challenges.
+
+### NeuroNest
+
+- URL: https://neuronestai.app/home
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: sensory-regulation
+- Query: executive-function sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Platform for neurodivergent teens offering emotional-regulation, sensory-break, calming, mindfulness, and executive-function activities.

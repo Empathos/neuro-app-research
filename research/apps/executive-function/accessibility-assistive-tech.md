@@ -1238,3 +1238,23 @@
 - Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-25
 - Description: Public assistive-technology resource covering tools for time management, planning, organization, task initiation, reminders, calendars, and notification management.
+
+### Assistive Technology for Executive Function: 9 Helpful Tools
+
+- URL: https://iepfocus.com/assistive-technology-for-executive-function/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Overview of low- and high-tech tools for time management, task initiation, planning, working memory, organization, and focus, including timers, reminder apps, note tools, and distraction blockers.
+
+### Accessibyte
+
+- URL: https://www.accessibyte.com/
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: accessibility-assistive-tech
+- Query: executive-function accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Accessible productivity and learning software with built-in accessibility, visual enhancements, simplified navigation, and assistive-technology support.

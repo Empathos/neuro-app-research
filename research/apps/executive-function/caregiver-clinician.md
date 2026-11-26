@@ -764,3 +764,13 @@
 - Query: executive-function caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-25
 - Description: Executive-function support platform for neurodivergent families that connects children, caregivers, and clinicians through prescribed techniques, progress tracking, usage data, and documentation.
+
+### Executive Function  Research Knowledge Base
+
+- URL: https://www.understandingneurodiversity.org/research/executive-function
+- Source: perplexity-sonar
+- Condition: executive-function
+- Support category: caregiver-clinician
+- Query: executive-function caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Public knowledge-base page covering executive function, including working memory, inhibition, and cognitive flexibility, with neurodiversity-oriented research resources.
