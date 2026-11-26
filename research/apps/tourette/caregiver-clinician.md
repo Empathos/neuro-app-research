@@ -1098,3 +1098,13 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Web-based tool for reward-enhanced exposure and response prevention (RE-ERP), designed to support tic-suppression practice with a patient interface and clinician or trained-observer monitoring.
+
+### AUVIE
+
+- URL: https://www.auvie.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Life-skills platform for neurodivergent children and teens, providing clinician-written resources and practical tools for parents and other adult supporters.

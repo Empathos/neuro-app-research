@@ -1048,3 +1048,23 @@
 - Query: tourette communication-aac neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Text-to-speech AAC app for literate adults, teens, and children who cannot reliably use their voice; supports customizable communication across developmental and acquired conditions.
+
+### Speak AAC
+
+- URL: https://speakaac.org/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: AAC app for children and adults who cannot rely on speech, converting selected symbols into spoken sentences.
+
+### Weave Chat AAC
+
+- URL: https://www.weavechat.com/landing
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: communication-aac
+- Query: tourette communication-aac neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Free category-based AAC application with dynamic displays and synthetic voice output for people whose natural speech is difficult to use.

@@ -1038,3 +1038,13 @@
 - Query: tourette executive-function neurodivergent app research pass 501
 - Found: 2026-11-21
 - Description: Free task-management platform and collection of digital planners, routine builders, trackers, and executive-function worksheets for neurodivergent adults.
+
+### ParaCortex
+
+- URL: https://paracortexapp.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Neurodivergent productivity app providing external executive-function support and practical planning tools.

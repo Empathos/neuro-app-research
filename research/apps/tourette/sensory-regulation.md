@@ -759,3 +759,13 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 501
 - Found: 2026-11-24
 - Description: iPhone energy-tracking and guided-reset app for autistic and ADHD adults, covering stimulation, masking, sensory demands, mental effort, and recovery.
+
+### TicCoach
+
+- URL: https://ticcoach.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: A kid-friendly Tourette and tic support app with tic tracking, guided competing-response exercises, breathing, grounding, reassurance, and co-regulation tips.

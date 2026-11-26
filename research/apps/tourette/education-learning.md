@@ -998,3 +998,23 @@
 - Query: tourette education-learning neurodivergent app research pass 501
 - Found: 2026-11-24
 - Description: Overview of educational apps supporting neurodivergent children across schedules and habits, emotional regulation, social skills, and social-emotional learning.
+
+### Pencil Spaces: Tourette Syndrome and Tic Lessons
+
+- URL: https://www.pencilspaces.com/fr/solutions/tourette-syndrome
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Online learning platform designed to help students with Tourette syndrome or tics participate through camera and microphone controls, typed responses, and breaks.
+
+### TicTracker: Tic & Tourette Log
+
+- URL: https://apps.apple.com/il/app/tictracker-tic-tourette-log/id6755763347
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: iPhone tracking app for tics, triggers, mood, and sleep, with parent-oriented insights and calming activities designed for neurodivergent children.
