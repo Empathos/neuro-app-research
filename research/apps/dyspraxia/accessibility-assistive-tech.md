@@ -768,3 +768,23 @@
 - Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-23
 - Description: Public repository index containing neurodivergence-related projects, including accessibility learning tools, speech-to-text, AI summaries, and projects tagged for dyspraxia and cognitive accessibility.[8]
+
+### Inchli
+
+- URL: https://inchli.com/for/neurodivergent/
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Neurodivergent-first to-do app with large controls, simplified one-task views, voice capture, accessibility-focused design, and explicit support for dyspraxic users.
+
+### AccessAIbility Dyspraxia and DCD Tools Guide
+
+- URL: https://accessaibility.org/conditions/dyspraxia.html
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: accessibility-assistive-tech
+- Query: dyspraxia accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Curated public guide to tools relevant to dyspraxia and DCD, including voice control, dictation, visual scheduling, switch access, eye-gaze technology, and accessibility features.

@@ -1508,3 +1508,23 @@
 - Query: dyspraxia communication-aac neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: AAC choice-board app designed with speech-pathology input. Large configurable buttons support users with motor difficulties and explicitly include dyspraxia among intended use cases.[9]
+
+### Make a Choice  AAC Buttons
+
+- URL: https://apps.apple.com/au/app/make-a-choice-aac-buttons/id1295966224
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Simple configurable choice-board app with two- or four-button layouts, text or images, device speech, and recorded voice support; explicitly describes use with dyspraxia.
+
+### GadAAC
+
+- URL: https://apps.apple.com/pl/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: dyspraxia
+- Support category: communication-aac
+- Query: dyspraxia communication-aac neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Picture-based AAC app with customizable photo tiles, visual schedules, First/Then sequences, large touch targets, screen-reader labels, high contrast, and dark mode.
