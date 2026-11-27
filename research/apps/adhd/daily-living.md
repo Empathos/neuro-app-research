@@ -1428,3 +1428,13 @@
 - Query: adhd daily-living neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Executive-function training app for children ages 612, developed with educational-psychology and occupational-therapy input.
+
+### Unfold AI
+
+- URL: https://www.getunfold.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: daily-living
+- Query: adhd daily-living neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Neurodivergent-designed support platform focused on helping users understand feelings, manage daily overwhelm, and discover individualized tools; it is not presented as a clinical replacement.

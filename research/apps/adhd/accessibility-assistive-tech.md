@@ -1178,3 +1178,33 @@
 - Query: adhd accessibility-assistive-tech neurodivergent app research pass 501
 - Found: 2026-11-24
 - Description: Public ACM research page for a study examining adults' everyday technology practices and implications for assistive-technology design.
+
+### CLAWrity
+
+- URL: https://github.com/SudheerNaraharisetty/CLAWrity
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Open-source OpenClaw skill for ADHD, autism, and AuDHD support with body doubling, task decomposition, transition assistance, sensory breaks, social scripting, and celebration modes.
+
+### Assistive Technology for ADHD: Tools & Resources
+
+- URL: https://sachscenter.com/assistive-technology-for-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Resource page covering ADHD-oriented assistive tools including Tiimo visual planning, Brili structured routines, and Forest focus support.
+
+### Recallify Assistive Technology for ADHD
+
+- URL: https://recallify.ai/assistive-technology-for-adhd/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: accessibility-assistive-tech
+- Query: adhd accessibility-assistive-tech neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Official product page for an app that records, transcribes, summarizes, and converts lectures or thoughts into study prompts, with iOS and Android availability.

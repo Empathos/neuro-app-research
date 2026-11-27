@@ -1439,3 +1439,13 @@
 - Query: adhd communication-aac neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Phrase-based AAC tool for Gestalt Language Processors, with motor-planning support, calming tools, and natural speech features for neurodivergent learners.
+
+### GadAAC
+
+- URL: https://apps.apple.com/pl/app/gadaac/id6764790001
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: communication-aac
+- Query: adhd communication-aac neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Free iPad AAC app combining picture-based communication, AI-generated tiles, visual schedules, and accessibility features for neurodivergent users.

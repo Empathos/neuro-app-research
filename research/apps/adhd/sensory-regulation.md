@@ -1358,3 +1358,23 @@
 - Query: adhd sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Public resource discussing sensory processing and toolkit-based support, with references to digital options such as the My Sensory Experiences Tool and Tappy Digital Fidget Tool.
+
+### StimTiles
+
+- URL: https://apps.apple.com/us/app/stimtiles/id6790042389
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: No-pressure sensory app with calming activities, guided breathing, and gentle games for autistic or ADHD children and other sensory seekers.
+
+### Sensory Slimes
+
+- URL: https://apps.apple.com/us/app/sensory-slimes/id6754778899
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: sensory-regulation
+- Query: adhd sensory-regulation neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Digital slime and ASMR-style sensory play app marketed for calming breaks, focus support, and sensory regulation among autistic and ADHD users.

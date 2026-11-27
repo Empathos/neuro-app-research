@@ -1578,3 +1578,53 @@
 - Query: adhd emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Provides rapid support for ADHD emotional dysregulation, overwhelm, task paralysis, irritability, burnout, rejection-sensitivity spirals, and motivation crashes, with mood and regulation tracking.[7]
+
+### Verenigma for ADHD
+
+- URL: https://www.verenigma.com/for-adhd
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Emotional-clarity app for ADHD featuring emotion tracking and AI-assisted affect labeling.
+
+### ADHD - Cognitive Research
+
+- URL: https://apps.apple.com/us/app/adhd-cognitive-research/id1412022818
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Research-oriented iOS app for participating in ADHD studies involving attention, inhibition, memory, planning, and related cognitive measures.
+
+### wNDerful App
+
+- URL: https://www.wnderful.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Neurodivergent-focused app offering emotional-regulation, communication, connection, and community support for people including those with ADHD.
+
+### Mightier
+
+- URL: https://apps.apple.com/us/app/mightier/id1333675573
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Clinician-developed emotional-regulation program for children, including children with ADHD, using biofeedback-supported gameplay.
+
+### Rainbow of Emotions App
+
+- URL: https://rainbowofemotions.app/
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: emotional-regulation
+- Query: adhd emotional-regulation neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Emotion-awareness and interoception tool for children, adolescents, and adults, including users with ADHD; supports identifying intensity and selecting regulation strategies.
