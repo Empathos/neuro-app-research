@@ -1158,3 +1158,23 @@
 - Query: adhd caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: A parent-support app for families awaiting clinical assessment for children with hyperactivity, impulsivity, inattention, and conduct problems; includes potential sharing of recordings and reflections with clinicians.
+
+### KeyAide for Clinicians
+
+- URL: https://www.keyaide.ai/for-clinicians
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Clinician-facing resource for recommending an AI caregiver-support companion that provides practical strategies for parents and caregivers of neurodivergent children, including children with ADHD.
+
+### Cubbi: The App for Parents
+
+- URL: https://apps.apple.com/fr/app/cubbi-the-app-for-parents/id6737774011
+- Source: perplexity-sonar
+- Condition: adhd
+- Support category: caregiver-clinician
+- Query: adhd caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Family organization app for neurodivergent children, including ADHD, with provider directories, therapist resources, mood and wellbeing tracking, and special-education coordination.

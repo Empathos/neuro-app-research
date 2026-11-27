@@ -1399,16 +1399,6 @@
 - Found: 2026-11-12
 - Description: Sensory-friendly early-learning app with structured activities for attention, listening, matching, counting, shape recognition, and cognitive development.
 
-### Noggin Labs
-
-- URL: https://github.com/Noggin-Labs
-- Source: perplexity-sonar
-- Condition: autism
-- Support category: education-learning
-- Query: autism education-learning neurodivergent app research pass 501
-- Found: 2026-11-12
-- Description: GitHub organization developing an adaptive educational platform focused on accessible, individualized learning for neurodivergent children.
-
 ### Divergo: Autism Work & School App
 
 - URL: https://apps.apple.com/us/app/divergo-autism-work-school/id6819078850

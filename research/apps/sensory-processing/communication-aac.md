@@ -789,16 +789,6 @@
 - Found: 2026-10-26
 - Description: Text-based AAC app that converts typed or preset phrases into speech for users with temporary or ongoing speech difficulties.
 
-### PRC-Saltillo Compatible Apps Documentation
-
-- URL: https://documentation.prc-saltillo.com/docs/related-app-manuals
-- Source: perplexity-sonar
-- Condition: sensory-processing
-- Support category: communication-aac
-- Query: sensory-processing communication-aac neurodivergent app research pass 501
-- Found: 2026-10-28
-- Description: Official documentation hub covering AAC products including TouchChat, Unity AAC, and Dialogue AAC for people who have difficulty speaking.
-
 ### AAC App Guide
 
 - URL: https://www.nccse.org/resources-and-programs/assistive-technology/aac/aac-app-guide
