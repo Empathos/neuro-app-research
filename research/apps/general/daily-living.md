@@ -1008,3 +1008,23 @@
 - Query: general daily-living neurodivergent app research pass 502
 - Found: 2026-11-25
 - Description: Low-stimulation iPhone companion for neurodivergent teens and adults, addressing overwhelming tasks and difficult or repetitive social situations.
+
+### Routinely - Visual Routines
+
+- URL: https://apps.apple.com/us/app/routinely-visual-routines/id6760675743
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Visual routine planner using large cards, gentle audio prompts, and calming timers to support daily activities for people with autism, ADHD, and developmental delays.
+
+### Cadence: ADHD Day Planner
+
+- URL: https://apps.apple.com/ro/app/cadence-adhd-day-planner/id6763664340
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Day-planning app built for ADHD, autism, AuDHD, and overwhelmed users; adapts task scheduling around energy and helps maintain momentum.

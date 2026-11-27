@@ -779,16 +779,6 @@
 - Found: 2026-10-24
 - Description: Public programme hub featuring neurodiversity education initiatives, including the Brainy App and educator-oriented tools for inclusive education, IEP development, training, and collaboration between schools and families.
 
-### Type2Learn
-
-- URL: https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/type2learn/type2learn-adaptive-learning-for-every-mind
-- Source: perplexity-sonar
-- Condition: general
-- Support category: education-learning
-- Query: general education-learning neurodivergent app research pass 502
-- Found: 2026-10-24
-- Description: Accessibility-first nonprofit learning platform for neurodivergent learners, developed as a functioning product during a public hackathon.
-
 ### GitHub Neurodiversity Topic
 
 - URL: https://github.com/topics/neurodiversity?o=desc&s=stars

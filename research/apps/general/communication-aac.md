@@ -1618,3 +1618,13 @@
 - Query: general communication-aac neurodivergent app research pass 501
 - Found: 2026-11-26
 - Description: Free, open-source AAC and computer-access software with speech synthesis, customizable virtual keyboards, mouse control, and shortcut support.
+
+### VoxigoAAC App
+
+- URL: https://apps.apple.com/us/app/voxigoaac/id6738032801
+- Source: perplexity-sonar
+- Condition: general
+- Support category: communication-aac
+- Query: general communication-aac neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: iOS AAC app with customizable buttons, AI-assisted sentence suggestions, emotion-management tools, and learning features for non-speaking and neurodivergent children.[8]
