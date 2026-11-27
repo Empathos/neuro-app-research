@@ -769,3 +769,13 @@
 - Query: tourette sensory-regulation neurodivergent app research pass 502
 - Found: 2026-11-26
 - Description: A kid-friendly Tourette and tic support app with tic tracking, guided competing-response exercises, breathing, grounding, reassurance, and co-regulation tips.
+
+### Tourette Association of America  Support TS Research
+
+- URL: https://tourette.org/support-research-social/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: sensory-regulation
+- Query: tourette sensory-regulation neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: An official research-support page covering Tourette syndrome and tic-disorder research funding, investigators, and treatment-development efforts.

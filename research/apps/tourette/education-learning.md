@@ -1018,3 +1018,13 @@
 - Query: tourette education-learning neurodivergent app research pass 502
 - Found: 2026-11-26
 - Description: iPhone tracking app for tics, triggers, mood, and sleep, with parent-oriented insights and calming activities designed for neurodivergent children.
+
+### Pencil Spaces for Neurodivergent Learners
+
+- URL: https://www.pencilspaces.com/solutions/neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: education-learning
+- Query: tourette education-learning neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Online tutoring platform for neurodivergent students, explicitly including learners with Tourette syndrome, with customizable remote learning environments.

@@ -1048,3 +1048,43 @@
 - Query: tourette executive-function neurodivergent app research pass 501
 - Found: 2026-11-26
 - Description: Neurodivergent productivity app providing external executive-function support and practical planning tools.
+
+### Executive Functioning Factsheet  Tourette Action
+
+- URL: https://www.tourettes-action.org.uk/storage/downloads/1759756493_Factsheet---Executive-Functioning-v1.pdf
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Official Tourette syndrome factsheet describing executive-function difficulties and strategies, including using phone technology for reminders.
+
+### Executive Function Challenges  Tourette Association of America
+
+- URL: https://tourette.org/resources/overview/tools-for-educators/classroom-strategies-techniques/executive-function-challenges/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Official educational resource on workflow, organization, and executive-function support for students with Tourette syndrome.
+
+### Everyday Technology Practices of Adults with ADHD
+
+- URL: https://dl.acm.org/doi/full/10.1145/3797867.3829014
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Research lead examining how adults with ADHD adapt productivity apps, time-tracking tools, and other technologies to manage executive-function challenges.
+
+### ChatGPT as an Executive-Function Support Tool
+
+- URL: https://dl.acm.org/doi/full/10.1145/3764687.3764713
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: executive-function
+- Query: tourette executive-function neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Research lead on adults with ADHD using conversational AI for planning, task initiation, communication support, executive function, and emotional regulation.
