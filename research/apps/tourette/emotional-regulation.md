@@ -488,3 +488,33 @@
 - Query: tourette emotional-regulation neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: iPhone emotion-coaching app addressing alexithymia, emotional awareness, emotional vocabulary, emotion patterns, and regulation; positioned for neurodivergent users.
+
+### wNDerful App
+
+- URL: https://www.wnderful.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Neurodivergent support app offering emotional-regulation resources, communication cards, a digital ID card, and community connection tools.
+
+### Rainbow of Emotions App
+
+- URL: https://rainbowofemotions.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Customizable, neuro-affirming tool for identifying emotions, noticing body clues, understanding emotional intensity, selecting regulation strategies, and reflecting on outcomes.
+
+### Mindum
+
+- URL: https://mindum.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: emotional-regulation
+- Query: tourette emotional-regulation neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Emotion, energy, and focus tracker designed for neurodivergent and hypersensitive people, with tools intended to support self-awareness and regulation.

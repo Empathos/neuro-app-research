@@ -1129,16 +1129,6 @@
 - Found: 2026-10-22
 - Description: AI study tool that converts notes, documents, and videos into flashcards, quizzes, and study plans, potentially reducing preparation demands for ADHD learners.
 
-### Type2Learn  Adaptive Learning for Every Mind
-
-- URL: https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/type2learn/type2learn-adaptive-learning-for-every-mind
-- Source: perplexity-sonar
-- Condition: adhd
-- Support category: education-learning
-- Query: adhd education-learning neurodivergent app research pass 502
-- Found: 2026-10-22
-- Description: Accessibility-first learning platform for neurodivergent learners with adaptive support, objective-level assessment, privacy controls, and authored fallbacks.
-
 ### NeuroPath AI  Adaptive Learning Platform
 
 - URL: https://builder.aws.com/content/3AwnvXYA2wZh1jN7WpG2FM6wgiF

@@ -1098,3 +1098,33 @@
 - Query: tourette caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Web-based tool for reward-enhanced exposure and response prevention (RE-ERP), designed to support tic-suppression practice with a patient interface and clinician or trained-observer monitoring.
+
+### AUVIE
+
+- URL: https://www.auvie.app/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Life-skills platform for neurodivergent children and teens, providing clinician-written resources and practical tools for parents and other adult supporters.
+
+### Neurodivergent Friendly
+
+- URL: https://neurodivergentfriendly.com/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Nonprofit resource platform covering Tourette syndrome and related neurodevelopmental differences for neurodivergent people, families, carers, and professionals.
+
+### Digital health and Tourette Syndrome
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13054595/
+- Source: perplexity-sonar
+- Condition: tourette
+- Support category: caregiver-clinician
+- Query: tourette caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Open-access review of digital health approaches in Tourette syndrome, including monitoring systems, caregiver alerts, clinician-facing care pathways, and research limitations.

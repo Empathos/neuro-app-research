@@ -529,16 +529,6 @@
 - Found: 2026-10-22
 - Description: Official App Store listing for Prism, a neurodivergent-oriented tool with accessibility-focused features including a dark interface.
 
-### Lumo
-
-- URL: https://github.com/echoinink/lumo
-- Source: perplexity-sonar
-- Condition: general
-- Support category: daily-living
-- Query: general daily-living neurodivergent app research pass 502
-- Found: 2026-10-22
-- Description: An open-source gentle productivity and life-planning app for tasks, routines, habits, goals, wellbeing, budgeting, and everyday responsibilities.
-
 ### Autasker
 
 - URL: https://github.com/vadimerenkov/Autasker
