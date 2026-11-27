@@ -529,16 +529,6 @@
 - Found: 2026-10-22
 - Description: Official App Store listing for Prism, a neurodivergent-oriented tool with accessibility-focused features including a dark interface.
 
-### Lumo
-
-- URL: https://github.com/echoinink/lumo
-- Source: perplexity-sonar
-- Condition: general
-- Support category: daily-living
-- Query: general daily-living neurodivergent app research pass 502
-- Found: 2026-10-22
-- Description: An open-source gentle productivity and life-planning app for tasks, routines, habits, goals, wellbeing, budgeting, and everyday responsibilities.
-
 ### Autasker
 
 - URL: https://github.com/vadimerenkov/Autasker
@@ -988,3 +978,53 @@
 - Query: general daily-living neurodivergent app research pass 501
 - Found: 2026-11-23
 - Description: A pocket assistant for people with ADHD that helps break larger tasks into subtasks, manage daily schedules, and organize to-dos across smartphone and web.
+
+### NeuroCoach
+
+- URL: https://apps.apple.com/ro/app/neurocoach/id6778777021
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: In-the-moment neurodiversity support app for neurodivergent adults, parents, and carers that helps capture difficult moments, identify triggers, and reflect on behavior.
+
+### MeinSystem: AuDHD Planner - App Store
+
+- URL: https://apps.apple.com/au/app/meinsystem-audhd-planner/id6793159792
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Calm daily-planning app designed for adults with ADHD, autism, and AuDHD.
+
+### NeuroNavigate App - App Store
+
+- URL: https://apps.apple.com/au/app/neuronavigate/id6803172369
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Low-stimulation iPhone companion for neurodivergent teens and adults, addressing overwhelming tasks and difficult or repetitive social situations.
+
+### Routinely - Visual Routines
+
+- URL: https://apps.apple.com/us/app/routinely-visual-routines/id6760675743
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Visual routine planner using large cards, gentle audio prompts, and calming timers to support daily activities for people with autism, ADHD, and developmental delays.
+
+### Cadence: ADHD Day Planner
+
+- URL: https://apps.apple.com/ro/app/cadence-adhd-day-planner/id6763664340
+- Source: perplexity-sonar
+- Condition: general
+- Support category: daily-living
+- Query: general daily-living neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Day-planning app built for ADHD, autism, AuDHD, and overwhelmed users; adapts task scheduling around energy and helps maintain momentum.

@@ -1228,3 +1228,23 @@
 - Query: general executive-function neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: App built by and for neurodivergent people that helps users process how they feel and identify one manageable next action.
+
+### Tiimo: Daily To-Do List
+
+- URL: https://apps.apple.com/gy/app/tiimo-daily-to-do-list/id1480220328
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Official App Store listing for Tiimo, featuring visual routines, gentle reminders, AI planning, and task prioritization designed to support executive function.
+
+### ParaCortex
+
+- URL: https://paracortexapp.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: executive-function
+- Query: general executive-function neurodivergent app research pass 501
+- Found: 2026-11-27
+- Description: Productivity app designed as external executive-function support for ADHD and neurodivergent users.

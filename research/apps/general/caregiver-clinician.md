@@ -1068,3 +1068,83 @@
 - Query: general caregiver-clinician neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Parent-focused ABA support app featuring clinician-recommended lessons and clinician monitoring of child progress.
+
+### NeuroNAV
+
+- URL: https://github.com/NeuroN-V/NeuroNAV
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-25
+- Description: Open-source neurodiversity support agent that turns ADHD-related needs into actionable strategies, checks in on patterns, and connects users with support.
+
+### Seva
+
+- URL: https://myseva.ai/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Care-coordination app for autism and ADHD that connects information across home, school, therapy, and clinic while enabling controlled sharing with clinicians, educators, and family.
+
+### AUVIE
+
+- URL: https://www.auvie.app/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: Life-skills platform for neurodivergent children and teens, offering practical tools for parents and clinician-written resources covering autism, ADHD, DLD, intellectual disability, FASD, and other neurotypes.
+
+### AutiCare
+
+- URL: https://www.auticarehealth.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Digital autism-support platform connecting parents, clinicians, and support professionals through secure messaging, shared notes, scheduling, and progress tracking.
+
+### SocialMindAutism
+
+- URL: https://socialmindautism.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: Training platform using personalized video feedback to help therapists and caregivers support communication for children with autism.
+
+### KeyAide for Clinicians
+
+- URL: https://www.keyaide.ai/for-clinicians
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Trauma-informed AI companion intended to help clinicians support caregivers of children with autism, ADHD, sensory differences, and executive-function challenges between appointments.
+
+### SAND: Sensory Assessment for Neurodevelopmental Disorders
+
+- URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8524392/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Research lead describing a clinician-administered sensory observation paired with a caregiver interview for assessing sensory reactivity in children with autism and other neurodevelopmental disorders.
+
+### NDD-ECHO
+
+- URL: https://pubmed.ncbi.nlm.nih.gov/40485664/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: caregiver-clinician
+- Query: general caregiver-clinician neurodivergent app research pass 502
+- Found: 2026-11-27
+- Description: Standardized digital assessment tool designed to collect environmental, clinical, and symptom-history data collaboratively from caregivers with clinician input.

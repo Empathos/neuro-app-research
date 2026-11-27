@@ -779,16 +779,6 @@
 - Found: 2026-10-24
 - Description: Public programme hub featuring neurodiversity education initiatives, including the Brainy App and educator-oriented tools for inclusive education, IEP development, training, and collaboration between schools and families.
 
-### Type2Learn
-
-- URL: https://lablab.ai/ai-hackathons/nativebuilder-build-without-limits/type2learn/type2learn-adaptive-learning-for-every-mind
-- Source: perplexity-sonar
-- Condition: general
-- Support category: education-learning
-- Query: general education-learning neurodivergent app research pass 502
-- Found: 2026-10-24
-- Description: Accessibility-first nonprofit learning platform for neurodivergent learners, developed as a functioning product during a public hackathon.
-
 ### GitHub Neurodiversity Topic
 
 - URL: https://github.com/topics/neurodiversity?o=desc&s=stars
@@ -1448,3 +1438,33 @@
 - Query: general education-learning neurodivergent app research pass 502
 - Found: 2026-11-24
 - Description: Official Microsoft guidance covering accessibility features for dyslexia, autism, ADHD, and other cognitive disabilities, including learning tools in OneNote.
+
+### Neurodivergent Minds
+
+- URL: https://neurodivergentminds.com/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-25
+- Description: Collection of practical learning tools, worksheets, educator resources, and a PDA-friendly home-education app for neurodivergent children.
+
+### Top 10 Assistive Technologies for Neurodivergent Learners
+
+- URL: https://www.neuronavigation.org/post/top-10-assistive-technologies-for-neurodivergent-learners
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 501
+- Found: 2026-11-26
+- Description: A public survey of text-to-speech, speech-to-text, visual scheduling, graphic organizers, writing support, AAC, and immersive learning technologies.
+
+### NeuraBloom
+
+- URL: https://www.neurabloom.ai/
+- Source: perplexity-sonar
+- Condition: general
+- Support category: education-learning
+- Query: general education-learning neurodivergent app research pass 502
+- Found: 2026-11-26
+- Description: A game-based adaptive-learning platform for neurodivergent learners, focused on communication, reading, regulation skills, structured challenges, and progress tracking.
